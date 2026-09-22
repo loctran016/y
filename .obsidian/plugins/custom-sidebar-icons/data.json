@@ -1,0 +1,64 @@
+{
+  "communityPlugins": {
+    "enable": false,
+    "enableSearchResults": false,
+    "default": {
+      "id": "",
+      "icon": "puzzle",
+      "type": "lucide",
+      "color": ""
+    },
+    "data": {}
+  },
+  "ribbon": {
+    "enable": false,
+    "data": {}
+  },
+  "fileExplorer": {
+    "enable": false,
+    "folderDefault": {
+      "id": "",
+      "icon": "",
+      "type": "lucide",
+      "color": ""
+    },
+    "folders": {},
+    "fileDefault": {
+      "id": "",
+      "icon": "",
+      "type": "lucide",
+      "color": ""
+    },
+    "extensions": {},
+    "files": {},
+    "inherit": {
+      "subfolder": false,
+      "file": false
+    }
+  },
+  "tabHeader": {
+    "enable": false,
+    "data": {},
+    "tabs": {}
+  },
+  "bookmarks": {
+    "enable": false,
+    "items": {},
+    "types": {}
+  },
+  "experimental": {
+    "keepPluginFirst": false
+  },
+  "customIconLib": {
+    "svg": [],
+    "packs": {},
+    "recent": [],
+    "favorites": [],
+    "ui": {
+      "density": "normal",
+      "lastTab": "all",
+      "svgSort": "name-asc",
+      "svgGroup": ""
+    }
+  }
+}

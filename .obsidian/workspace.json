@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lâm sàng/Nội khoa/Hỏi bệnh sử.md",
+                "file": "Lâm sàng/Nội khoa/Đặt vấn đề + Biện luận.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hỏi bệnh sử"
+              "title": "Đặt vấn đề + Biện luận"
+            }
+          },
+          {
+            "id": "6ec1b4eceed8e00e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-icon-lib-view",
+              "state": {},
+              "icon": "library",
+              "title": "Custom icon library"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lâm sàng/Nội khoa/Hỏi bệnh sử.md",
+                "file": "Lâm sàng/Nội khoa/Đặt vấn đề + Biện luận.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +177,19 @@
               "icon": "lucide-list",
               "title": "Outline of Lịch học"
             }
+          },
+          {
+            "id": "213fa06b35c2a3d4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,16 +207,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Import notes": false,
-      "full-width-toggle:Toggle current note width": false
+      "full-width-toggle:Toggle current note width": false,
+      "sheet-plus:Create excel file": false,
+      "custom-sidebar-icons:Open custom icon library": false
     }
   },
-  "active": "de86c8c706ba259c",
+  "active": "6ec1b4eceed8e00e",
   "lastOpenFiles": [
+    "Lâm sàng/Nội khoa/Đặt vấn đề.md",
+    "Lâm sàng/Nội khoa/Đặt vấn đề + Biện luận.md",
+    "Lâm sàng/Nội khoa/Tiền căn.md",
+    "Lâm sàng/Nội khoa/Khám.md",
+    "Lâm sàng/Nội khoa/Triệu chứng - HC nội khoa thường gặp.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "Lâm sàng/Nội khoa/Xơ gan.md",
-    "Lâm sàng/Nội khoa/Hỏi bệnh sử.md",
+    "Excel 2026-09-22 19.46.53.univer.md",
+    "Excel 2026-09-22 19.45.26.univer.md",
+    "Sách/Sách Tim Mạch - Forum Khoa Y.pdf",
+    "Sách",
     "Tiêu hoá/Điều hoà Hormone & TK hệ Tiêu hoá.md",
     "Tiêu hoá/Quá trình tiêu hoá - hấp thu chất dinh dưỡng.md",
-    "Untitled.canvas",
     "Tiêu hoá/Sinh lý Gan & XN hoá sinh Gan.md",
     "Tiêu hoá/OneDrive_1_19-09-2026.zip",
     "Tiêu hoá/Unconfirmed 840805.crdownload",
@@ -206,9 +239,6 @@
     "Tiêu hoá/Unconfirmed 911060.crdownload",
     "Tiêu hoá/tong-hop-tieu-hoa-hap-thu.docx",
     "Tiêu hoá/tong-hop-hormone-tieu-hoa.docx",
-    "Tiêu hoá/tong-hop-sinh-ly-gan-va-xet-nghiem.docx",
-    "Tiêu hoá/tong-hop-mo-phoi-tieu-hoa.docx",
-    "Tiêu hoá/tac-dung-phu-ppi-va-huong-dan-dung-thuoc.docx",
     "Thận niệu/Lịch học.md"
   ]
 }
