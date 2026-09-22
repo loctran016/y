@@ -1,0 +1,7 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Cupertino",
+  "enabledCssSnippets": [
+    "full-width-tables"
+  ]
+}

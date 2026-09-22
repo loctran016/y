@@ -1,0 +1,16 @@
+/* Allow native tables to break out into left and right margins */
+.markdown-source-view.mod-cm6 .cm-embed-block:has(.table-wrapper),
+.markdown-rendered .table-wrapper {
+  width: 100vw !important;
+  max-width: 70vw !important; /* Adjust percentage to widen/narrow */
+  margin-left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.table-wrapper table {
+  width: 100% !important;
+}

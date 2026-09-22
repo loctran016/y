@@ -1,0 +1,98 @@
+.status-bar-item.full-width-toggle-status {
+  padding: 0;
+  user-select: none;
+}
+
+.full-width-toggle-control {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+  width: auto;
+  min-height: var(--status-bar-height);
+  padding: 0 6px;
+  border: 0;
+  border-radius: var(--radius-s);
+  background: transparent;
+  cursor: pointer;
+  color: var(--text-muted);
+  font: inherit;
+  line-height: normal;
+}
+
+.full-width-toggle-control:hover {
+  color: var(--text-normal);
+}
+
+.full-width-toggle-control:focus-visible {
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: 2px;
+}
+
+.status-bar-item.full-width-toggle-status .full-width-toggle-label {
+  white-space: nowrap;
+  margin: 0;
+  padding: 0;
+}
+
+.status-bar-item.full-width-toggle-status .full-width-toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 28px;
+  height: 16px;
+  flex: 0 0 auto;
+  margin: 0 0 0 2px;
+  padding: 0;
+  border-radius: 999px;
+  background: var(--background-modifier-border-hover);
+  transition: background-color 120ms ease;
+}
+
+.status-bar-item.full-width-toggle-status .full-width-toggle-switch::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--background-primary);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 25%);
+  transition: transform 120ms ease;
+}
+
+.status-bar-item.full-width-toggle-status .full-width-toggle-switch.is-enabled {
+  background: var(--interactive-accent);
+}
+
+.status-bar-item.full-width-toggle-status
+  .full-width-toggle-switch.is-enabled::after {
+  transform: translateX(12px);
+}
+
+.markdown-source-view.mod-cm6.full-width,
+.markdown-preview-view.full-width,
+body.cssclasses-full-width .workspace-leaf-content[data-type="markdown"] {
+  --file-line-width: 100%;
+  --file-margins: clamp(20px, 3vw, 56px);
+}
+
+.markdown-source-view.mod-cm6.full-width .cm-sizer,
+.markdown-source-view.mod-cm6 .full-width .cm-sizer,
+.markdown-preview-view.full-width .markdown-preview-sizer,
+.markdown-preview-view .full-width .markdown-preview-sizer,
+body.cssclasses-full-width .markdown-source-view.mod-cm6 .cm-sizer,
+body.cssclasses-full-width .markdown-preview-view .markdown-preview-sizer {
+  width: 100%;
+  max-width: none;
+}
+
+.markdown-source-view.mod-cm6.full-width .cm-contentContainer,
+.markdown-source-view.mod-cm6.full-width .cm-content,
+.markdown-preview-view.full-width .markdown-preview-section,
+body.cssclasses-full-width .markdown-source-view.mod-cm6 .cm-contentContainer,
+body.cssclasses-full-width .markdown-source-view.mod-cm6 .cm-content,
+body.cssclasses-full-width .markdown-preview-view .markdown-preview-section {
+  max-width: none;
+}

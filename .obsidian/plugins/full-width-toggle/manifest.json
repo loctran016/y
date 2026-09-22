@@ -1,0 +1,11 @@
+{
+  "id": "full-width-toggle",
+  "name": "Full Width Toggle",
+  "version": "1.1.2",
+  "minAppVersion": "1.4.4",
+  "description": "Toggle full width per note from a Notion-style switch in the status bar.",
+  "author": "do0ori",
+  "authorUrl": "https://github.com/do0ori",
+  "fundingUrl": "https://www.paypal.com/paypalme/do0ori",
+  "isDesktopOnly": false
+}

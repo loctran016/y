@@ -1,0 +1,10 @@
+{
+  "full-width-toggle:toggle-current-note-width": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
+}
