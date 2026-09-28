@@ -1,5 +1,8 @@
 {
   "promptDelete": false,
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }

@@ -1,4 +1,24 @@
-# 1\. Các Hormone Tiêu Hóa Chính (Chất Nội Tiết)
+## Bảng tóm tắt
+
+| Hormone                                        | Họ Hormone        | Vị trí bài tiết                     | Yếu tố kích thích bài tiết                                                             | Tác dụng                                                                                                                                                                                             |
+| ---------------------------------------------- | ----------------- | ----------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Gastrin                                        | Gastrin-CCK       | Tế bào G của dạ dày                 | - Peptide nhỏ và axit amin<br>- Sự căng trướng dạ dày<br>- Kích thích dây phế vị (GRP) | - ↑ Bài tiết H+ dạ dày<br>- Kích thích sự phát triển của niêm mạc dạ dày                                                                                                                             |
+| Cholecystokinin (CCK)                          | Gastrin-CCK       | Tế bào I của tá tràng và hổng tràng | - Peptide nhỏ và axit amin<br>- Axit béo                                               | - ↑ Bài tiết enzyme tụy<br>- ↑ Bài tiết HCO3- tụy<br>- Kích thích co bóp túi mật và giãn cơ vòng Oddi<br>- Kích thích sự phát triển của tuyến tụy ngoại tiết và túi mật<br>- Ức chế làm trống dạ dày |
+| Secretin                                       | Secretin-glucagon | Tế bào S của tá tràng               | - H+ trong tá tràng<br>- Axit béo trong tá tràng                                       | - ↑ Bài tiết HCO3- tụy<br>- ↑ Bài tiết HCO3- mật<br>- ↓ Bài tiết H+ dạ dày<br>- Ức chế tác dụng dinh dưỡng của gastrin lên niêm mạc dạ dày                                                           |
+| Glucose-Dependent Insulinotropic Peptide (GIP) | Secretin-glucagon | Tá tràng và hổng tràng              | - Axit béo<br>- Axit amin<br>- Glucose đường uống                                      | - ↑ Bài tiết insulin từ tế bào β tuyến tụy<br>- ↓ Bài tiết H+ dạ dày                                                                                                                                 |
+
+| Chất (Substance)                              | Nguồn gốc (Source)                                          | Tác dụng (Actions)                                                                                        |
+|-----------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Acetylcholine (ACh)                           | Các neuron hệ cholinergic                                   | - Co cơ trơn ở thành ruột<br>- Giãn cơ vòng<br>- ↑ Tiết nước bọt<br>- ↑ Tiết dịch vị<br>- ↑ Tiết dịch tụy |
+| Norepinephrine (NE)                           | Các neuron hệ adrenergic                                    | - Giãn cơ trơn ở thành ruột<br>- Co cơ vòng<br>- ↑ Tiết nước bọt                                          |
+| Vasoactive Intestinal Peptide (VIP)           | Các neuron của hệ thần kinh ruột                            | - Giãn cơ trơn<br>- ↑ Tiết dịch ruột<br>- ↑ Tiết dịch tụy                                                 |
+| Nitric Oxide (NO)                             | Các neuron của hệ thần kinh ruột                            | - Giãn cơ trơn                                                                                            |
+| Gastrin-Releasing Peptide (GRP), hay Bombesin | Các neuron phế vị của niêm mạc dạ dày                       | - ↑ Tiết gastrin                                                                                          |
+| Enkephalins (Opiates)                         | Các neuron của hệ thần kinh ruột                            | - Co cơ trơn<br>- ↓ Tiết dịch ruột                                                                        |
+| Neuropeptide Y                                | Các neuron của hệ thần kinh ruột                            | - Giãn cơ trơn<br>- ↓ Tiết dịch ruột                                                                      |
+| Substance P                                   | Đồng bài tiết cùng ACh bởi các neuron của hệ thần kinh ruột | - Co cơ trơn<br>- ↑ Tiết nước bọt                                                                         |
+
+## 1\. Các Hormone Tiêu Hóa Chính (Chất Nội Tiết)
 
 Hệ thống nội tiết tiêu hóa điều hòa các hoạt động bài tiết dịch vị, dịch tụy, dịch mật và nhu động ruột thông qua các hormone được giải phóng trực tiếp vào dòng máu từ các tế bào nội tiết niêm mạc.
 

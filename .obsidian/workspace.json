@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de86c8c706ba259c",
+            "id": "1c2d3e7617b7a7e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lâm sàng/Nội khoa/Đặt vấn đề + Biện luận.md",
+                "file": "Tiêu hoá/Sinh lý/Điều hoà Hormone & TK hệ Tiêu hoá.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Đặt vấn đề + Biện luận"
-            }
-          },
-          {
-            "id": "6ec1b4eceed8e00e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-icon-lib-view",
-              "state": {},
-              "icon": "library",
-              "title": "Custom icon library"
+              "title": "Điều hoà Hormone & TK hệ Tiêu hoá"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec8fcb7f0c27bb43",
@@ -193,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,13 +198,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Import notes": false,
-      "full-width-toggle:Toggle current note width": false,
       "sheet-plus:Create excel file": false,
-      "custom-sidebar-icons:Open custom icon library": false
+      "custom-sidebar-icons:Open custom icon library": false,
+      "full-width-toggle:Toggle current note width": false
     }
   },
-  "active": "6ec1b4eceed8e00e",
+  "active": "1c2d3e7617b7a7e7",
   "lastOpenFiles": [
+    "Tiêu hoá/CLS/XN hoá sinh Gan.md",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan.md",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790610335970.webp",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790610250854.webp",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790606054015.webp",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790605467061.webp",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790605169457.webp",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790604414040.webp",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790603594395.webp",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790602316186.webp",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790601271122.webp",
+    "Untitled.md",
+    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790600729884.webp",
+    "Tiêu hoá/CLS",
+    "Tiêu hoá/Sinh lý/Quá trình tiêu hoá - hấp thu chất dinh dưỡng.md",
+    "Tiêu hoá/Dược lý/Dược lý Thuốc Tiêu hoá.md",
+    "Tiêu hoá/Mô phôi",
+    "Tiêu hoá/Sinh lý/Điều hoà Hormone & TK hệ Tiêu hoá.md",
+    "Tiêu hoá/Dược lý",
+    "Tiêu hoá/Giải phẫu",
+    "Tiêu hoá/Giải phẫu/GP gan.md",
+    "Tiêu hoá/Sinh lý/Gan.md",
+    "Tiêu hoá/Sinh lý",
     "Lâm sàng/Nội khoa/Đặt vấn đề.md",
     "Lâm sàng/Nội khoa/Đặt vấn đề + Biện luận.md",
     "Lâm sàng/Nội khoa/Tiền căn.md",
@@ -226,19 +240,10 @@
     "Excel 2026-09-22 19.45.26.univer.md",
     "Sách/Sách Tim Mạch - Forum Khoa Y.pdf",
     "Sách",
-    "Tiêu hoá/Điều hoà Hormone & TK hệ Tiêu hoá.md",
-    "Tiêu hoá/Quá trình tiêu hoá - hấp thu chất dinh dưỡng.md",
-    "Tiêu hoá/Sinh lý Gan & XN hoá sinh Gan.md",
     "Tiêu hoá/OneDrive_1_19-09-2026.zip",
     "Tiêu hoá/Unconfirmed 840805.crdownload",
-    "Tiêu hoá/Mô phôi hệ Tiêu hoá.md",
-    "Tiêu hoá/Dược lý Thuốc Tiêu hoá.md",
+    "Tiêu hoá/Mô phôi/Mô phôi hệ Tiêu hoá.md",
     "Welcome.md",
-    "Tiêu hoá/Unconfirmed 204338.crdownload",
-    "Tiêu hoá/Unconfirmed 791193.crdownload",
-    "Tiêu hoá/Unconfirmed 911060.crdownload",
-    "Tiêu hoá/tong-hop-tieu-hoa-hap-thu.docx",
-    "Tiêu hoá/tong-hop-hormone-tieu-hoa.docx",
     "Thận niệu/Lịch học.md"
   ]
 }
