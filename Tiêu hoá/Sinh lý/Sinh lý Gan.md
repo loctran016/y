@@ -4,11 +4,11 @@ Gan là tạng lớn nhất trong cơ thể con người (trọng lượng kho�
 
 ### 1. Dự trữ máu
 
-![Sinh lý Gan-1790599411891.webp]()
+![Sinh](Sinh%20lý%20Gan-1790599411891.webp)
 
 Hình trên mô tả dòng chảy của tĩnh mạch/mật/động mạch giữa các tiểu thuỳ gan và bộ ba khoảng cửa. Về lượng Oxy nhận được, Zone III nhận ít oxy nhất → Khu vực TM trung tâm tiểu thuỳ dễ tổn thương nhất khi thiếu Oxy
 
-![Sinh lý Gan-1790599831844.webp]()
+![](Sinh%20lý%20Gan-1790599831844.webp)
 
 Gan duy trì 1 ASTT gần như hằng định thông qua 2 cơ chế:
 
@@ -22,7 +22,7 @@ Kích thích GC/Sốc: gây co ĐM gan và ĐM tạng thông qua thụ thể alp
 
 ### 2. Lọc máu
 
-![Sinh lý Gan-1790600421540.webp]()
+![](Sinh%20lý%20Gan-1790600421540.webp)
 
 Khác với các TB khác, TB nội mô của xoang gan gần như không ngăn cản lỏng dịch, giúp cho Khoảng Disse và Xoang gan trao đổi dịch với nhau dễ dàng → giúp các chất được gan tổng hợp dễ dàng di chuyển, nhất là protein
 
@@ -40,7 +40,7 @@ Các TB gan tạo ra các protein di chuyển trong khoảng Disse:
 
 - Một phần cực nhỏ đi xuyên qua bao xơ gan → **thoát dịch BH**
 
-![Sinh lý Gan-1790600729884.webp]()
+![](Sinh%20lý%20Gan-1790600729884.webp)
 
 Khi áp lực TM trung tâm tiểu thuỳ tăng lên: dịch có chứa protein từ xoang gan thoát ra khoảng Disse và thoát qua bao xơ gan → khoang bụng có chứa **dịch thấm** (nước thoát > protein)
 
@@ -54,9 +54,9 @@ Khi áp lực TM cửa tăng lên: **dịch tĩnh mạch** thoát ra qua ống t
 
 ## **II\. Chức năng Chuyển hóa các Chất Đa lượng**
 
-![Sinh lý Gan-1790601271122.webp]()
+![](Sinh%20lý%20Gan-1790601271122.webp)
 Gan phối hợp chuyển hoá với TB có vai trò dữ trữ: TB cơ, TB mỡ và TB da
-![Sinh lý Gan-1790602316186.webp]()
+![](Sinh%20lý%20Gan-1790602316186.webp)
 
 ### **1. Chuyển hóa Carbohydrate (Glucid)**
 
@@ -95,7 +95,7 @@ Gan là cơ quan trung tâm điều hòa quá trình tổng hợp, thoái hóa v
 - **Tổng hợp Cholesterol, Phospholipid và Lipoprotein:** Gan tổng hợp khoảng 80% lượng cholesterol trong cơ thể (dùng làm tiền chất tạo muối mật, hormone steroid và màng tế bào). Gan đóng gói mỡ và tổng hợp các Apolipoprotein để tạo nên các hạt Lipoprotein (VLDL, LDL, HDL) giúp vận chuyển lipid trong dòng máu nước.
 
 - **Tổng hợp mỡ từ glucid và protein:** Khi dư thừa năng lượng, dư thừa glucose và acid amin được gan chuyển hóa thành triglyceride và vận chuyển về mô mỡ dự trữ dưới dạng VLDL.
-  ![Sinh lý Gan-1790603594395.webp]()
+  ![](Sinh%20lý%20Gan-1790603594395.webp)
   Acid béo tăng quá nhiều, sẽ tăng cường quá trình tạo ra cetone
 
 Acid béo chuỗi dài cần kết hợp với Chylomicrons để đi đến gan, trong khi acid béo chuỗi vừa, nhẹ sẽ liên kết với albumin di chuyển trực tiếp và là nguồn năng lượng sớm hơn cho gan
@@ -113,7 +113,7 @@ Acid béo chuỗi dài cần kết hợp với Chylomicrons để đi đến gan
 
 #### Cơ chế bệnh sinh Đái tháo đường týp I
 
-![Sinh lý Gan-1790604414040.webp]()
+![](Sinh%20lý%20Gan-1790604414040.webp)
 Rối loạn chuyển hoá Lipid:
 
 1. Huỷ beta-tuỵ: giảm tiết Insulin, giảm ức chế ly giải mỡ ở TB mỡ
@@ -154,7 +154,7 @@ Chuyển hóa protein tại gan là chức năng sinh mạng, bao gồm các qu�
 
 #### Suy giảm tiểu cầu
 
-![Sinh lý Gan-1790605169457.webp]()
+![](Sinh%20lý%20Gan-1790605169457.webp)
 Thrombopoietin được tiết ra chủ yếu bởi Gan kích thích các mẫu tiểu cầu tiết ra tiểu cầu, sau đó tiểu cầu sẽ hấp thu các Thrombopoietin này để duy trì số lượng tiểu cầu (Khi tiểu cầu ít đi thì Thrombopoietin trong máu tăng lên kích thích tuỷ xương tăng sinh tiểu cầu)
 
 Xơ gan làm giảm Thrombopoietin máu thông qua 2 cơ chế:
@@ -165,7 +165,7 @@ Xơ gan làm giảm Thrombopoietin máu thông qua 2 cơ chế:
 
 #### Thành lập Ure
 
-![Sinh lý Gan-1790605467061.webp]()
+![](Sinh%20lý%20Gan-1790605467061.webp)
 Trong xơ gan, lượng NH3 trong máu tăng lên do :
 
 1. tăng áp cửa → thông nối cửa - chủ → 85% Ure quay về gan đổ sang hệ chủ nhiều hơn
@@ -197,10 +197,10 @@ Các cơ chế bạn nêu là những nguyên nhân chính gây rối loạn th�
 4. **Giảm thể tích tuần hoàn kích hoạt hệ RAAS:** Quá trình thoát dịch ra khỏi lòng mạch (do tăng áp lực thủy tĩnh và giảm áp lực keo) làm giảm thể tích máu động mạch. Để bù trừ, cơ thể kích hoạt hệ thống Renin-Angiotensin-Aldosterone (RAAS) và hệ thần kinh giao cảm (SNS), đồng thời tăng tiết ADH nhằm co mạch và giữ thêm muối nước để duy trì huyết áp. Vòng lẩn quẩn này làm tình trạng ứ dịch và báng bụng càng trở nên nặng nề.
 5. **Giảm áp lực keo:** Sự suy giảm chức năng gan làm giảm khả năng tổng hợp protein, dẫn đến giảm áp lực keo trong lòng mạch. Khi áp lực keo giảm, máu không đủ lực để giữ nước lại trong lòng mạch, tạo điều kiện cho dịch tiếp tục thoát ra ngoài gian bào.
 
-![Sinh lý Gan-1790606054015.webp]()![Sinh lý Gan-1790610250854.webp]()
+![](Sinh%20lý%20Gan-1790606054015.webp)![](Sinh%20lý%20Gan-1790610250854.webp)
 Giai đoạn sớm: dãn mạch máu tạng, giảm kháng lực ngb -> cung lượng tim phải tăng lên bù đủ, không bù đủ thì sẽ qua mất bù (RAAS)
 
-![Sinh lý Gan-1790610335970.webp]()
+![](Sinh%20lý%20Gan-1790610335970.webp)
 
 Cuối cùng dẫn đến hội chứng gan - thận
 
