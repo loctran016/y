@@ -35,7 +35,7 @@
 
 **4\. Sự phát triển & Xoay 270<sup>o</sup> của Quai ruột giữa (Midgut)**
 
-- **Quai ruột sơ cấp:** Ruột giữa phát triển nhanh kéo dài tạo thành quai ruột hình chữ U treo bởi mạc treo ngắn, với Động mạch mạc treo tràng trên làm trục trung tâm. Quai ruột gồm ngành trên (đầu) và ngành dưới (đuôi).
+- **Quai ruột sơ cấp:** (*Ngành trên ruột giữa*) Ruột giữa phát triển nhanh kéo dài tạo thành quai ruột hình chữ U treo bởi mạc treo ngắn, với Động mạch mạc treo tràng trên làm trục trung tâm. Quai ruột gồm ngành trên (đầu) và ngành dưới (đuôi).
 - **Thoát vị rốn sinh lý (Tuần 6):** Do ruột giữa dài ra quá nhanh trong khi khoang ổ bụng (cùng gan và thận) phát triển mạnh không đủ chỗ chứa, quai ruột tạm thời chui vào khoang ngoài phôi trong cuống rốn vào khoảng tuần thứ 6.
 - **Giai đoạn xoay 1 (Tại cuống rốn, tuần 6-9):** Khi nhìn từ phía trước, quai ruột xoay 90° ngược chiều kim đồng hồ quanh trục ĐM mạc treo tràng trên. Ngành trên chuyển sang phải, ngành dưới chuyển sang trái.
 - **Giai đoạn xoay 2 (Trở về ổ bụng, tuần 10):** Vào tuần thứ 10, quai ruột rút từ cuống rốn trở về ổ bụng và xoay thêm 180° ngược chiều kim đồng hồ nữa. Tổng cộng ruột giữa đã xoay 270° ngược chiều kim đồng hồ.
