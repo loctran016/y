@@ -1,13 +1,14 @@
-Hiện tượng **Tiểu bọt** (đặc biệt là bọt mịn, lâu tan như xà phòng) là một dấu hiệu lâm sàng rất quan trọng. Về mặt sinh lý bệnh, hiện tượng này thường xảy ra do sự xuất hiện của **Protein (Đạm) trong nước tiểu** (gọi là **Đạm niệu / Protein niệu**) [cite: 26, 73]. Protein làm giảm sức căng bề mặt của nước tiểu, dẫn đến sự hình thành bọt bền vững khi đi tiểu [cite: 38, 49].
+**Tiểu bọt** (bọt mịn, lâu tan như xà phòng) thường xảy ra do sự xuất hiện của **Protein (Đạm) trong nước tiểu** (gọi là **Đạm niệu / Protein niệu**), làm giảm sức căng bề mặt của nước tiểu, dẫn đến sự hình thành bọt bền vững khi đi tiểu.
 
 ---
 
-## I. CÁC BỆNH LÝ NGUYÊN NHÂN THƯỜNG GẶP
+## I. Biện luận nguyên nhân
 
 ### 1. Nhóm Bệnh lý Cầu thận (Nguyên nhân hàng đầu gây tiểu bọt / Đạm niệu)
-* **Hội chứng Thận hư (Nephrotic Syndrome):** Đây là nguyên nhân điển hình nhất gây tiểu bọt nhiều [cite: 54, 86]. Màng lọc cầu thận bị tổn thương nghiêm trọng khiến một lượng đạm lớn thoát vào nước tiểu (Protein niệu \\(> 3,5\text{ g/24h}\\)) [cite: 86]. Bệnh nhân thường kèm theo **Phù toàn thân** (phù nặng mi mắt, phù chân, báng bụng) và giảm Albumin máu [cite: 54, 86, 87].
-* **Viêm cầu thận (Cấp và Mạn):** Viêm cầu thận cấp (như sau nhiễm liên cầu trùng), Bệnh thận IgA, hoặc Viêm cầu thận tiến triển nhanh làm suy giảm chức năng màng lọc [cite: 59, 63, 76]. Nước tiểu thường có bọt kèm theo **Tiểu máu** (nước tiểu màu xá xị / nước trà đậm), tăng huyết áp và giảm thể tích nước tiểu [cite: 59, 63, 77].
-* **Bệnh thận do Đái tháo đường (Diabetic Nephropathy):** Đái tháo đường lâu năm làm tổn thương vi mạch và xơ hóa cầu thận, gây xuất hiện Albumin vi thể rồi tiến triển thành đạm niệu đại thể (tiểu bọt) [cite: 26].
+
+* **Hội chứng Thận hư (Nephrotic Syndrome):** Đây là nguyên nhân điển hình nhất gây tiểu bọt nhiều. Màng lọc cầu thận bị tổn thương nghiêm trọng khiến một lượng đạm lớn thoát vào nước tiểu (Protein niệu (> 3,5g/24h)). Bệnh nhân thường kèm theo **Phù toàn thân** (phù nặng mi mắt, phù chân, báng bụng) và giảm Albumin máu [cite: 54, 86, 87].
+* **Viêm cầu thận (Cấp và Mạn):** Viêm cầu thận cấp (như sau nhiễm liên cầu trùng), Bệnh thận IgA, hoặc Viêm cầu thận tiến triển nhanh làm suy giảm chức năng màng lọc. Nước tiểu thường có bọt kèm theo **Tiểu máu** (nước tiểu màu xá xị / nước trà đậm), tăng huyết áp và giảm thể tích nước tiểu [cite: 59, 63, 77].
+* **Bệnh thận do Đái tháo đường (Diabetic Nephropathy):** Đái tháo đường lâu năm làm tổn thương vi mạch và xơ hóa cầu thận, gây xuất hiện Albumin vi thể rồi tiến triển thành đạm niệu đại thể (tiểu bọt).
 * **Bệnh thận do Tăng huyết áp:** Áp lực máu cao kéo dài làm tổn thương mạch máu nhỏ tại cầu thận, gây xơ cứng động mạch thận và thoát đạm vào nước tiểu [cite: 26].
 * **Bệnh lý hệ thống / Tự miễn tổn thương thận:** Viêm thận Lupus (Lupus Nephritis), Viêm mạch máu (Vasculitis), hoặc Bệnh thâm nhiễm Amyloidosis [cite: 44, 47, 50].
 
@@ -38,7 +39,7 @@ Khi tiếp cận bệnh nhân có tiểu bọt, bác sĩ cần khai thác các t
 Để chẩn đoán nguyên nhân gây tiểu bọt, cần thực hiện các xét nghiệm theo thứ tự [cite: 26, 64, 73]:
 
 1. **Tổng phân tích nước tiểu (Dipstick 10 thông số):** Xét nghiệm tầm soát nhanh sự hiện diện của **Protein niệu**, Bạch cầu (LEU), Nitrite, và Hồng cầu (BLO) [cite: 26, 73].
-2. **Định lượng Protein niệu 24 giờ** hoặc **Tỷ lệ Protein/Creatinine niệu (UPCR / UACR):** Giúp xác định chính xác mức độ đạm niệu (nhẹ, trung bình hay ngưỡng thận hư \\(> 3,5\text{ g/24h}\\)) [cite: 26, 73, 86].
+2. **Định lượng Protein niệu 24 giờ** hoặc **Tỷ lệ Protein/Creatinine niệu (UPCR / UACR):** Giúp xác định chính xác mức độ đạm niệu (nhẹ, trung bình hay ngưỡng thận hư \\(> 3,5g/24h) [cite: 26, 73, 86].
 3. **Xét nghiệm Máu:**
    * Creatinine, BUN / Ure (Đánh giá độ lọc cầu thận eGFR) [cite: 26, 63, 73].
    * Albumin & Protein toàn phần huyết thanh (Đánh giá giảm áp lực keo trong Hội chứng Thận hư) [cite: 21, 86].
