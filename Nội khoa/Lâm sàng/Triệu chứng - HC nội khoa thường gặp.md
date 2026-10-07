@@ -1,15 +1,15 @@
 
-## **PHẦN III: HƯỚNG DẪN ĐẶT VẤN ĐỀ TRẠI THẬN - TIẾT NIỆU**
+## Trại Thận - Tiết niệu
 
-### **1. Các triệu chứng Thận - Tiết niệu trọng tâm**
+### **1. Các triệu chứng trọng tâm**
 
 * **Triệu chứng cơ năng:** Tiểu buốt, Tiểu rát, Tiểu lắt nhắt, Tiểu gấp, Tiểu đêm, Tiểu khó/gắt, Thiếu niệu (<400 ml/24h), Vô niệu (<100 ml/24h), Đa niệu (>3000 ml/24h), Tiểu máu đại thể (đỏ/hồng/xá xị), Tiểu bọt lâu tan, Nước tiểu đục/mủ, Cơn đau quặn thận (đau hông lưng lan bẹn/sinh dục), Đau âm ỉ hông lưng, Đau căng tức hạ vị.
 
 * **Triệu chứng thực thể:** Phù toàn thân (trắng, mềm, ấn lõm, rõ ở mặt/mi mắt vào buổi sáng), Rung thận (+), Chạm thận (+), Ấn các điểm niệu quản trên/giữa đau, Cầu bàng quang (+) (khối căng đục hạ vị mất sau đặt thông tiểu), Tăng huyết áp, Niêm nhạt/móng sọc (thiếu máu mạn).
 
-### **2. Tiêu chuẩn & Điều kiện đặt các Hội chứng Thận - Tiết niệu**
+### **2. Điều kiện đặt vấn đề**
 
-| **STT** | **Tên Hội chứng/Vấn đề**                               | **Điều kiện (Tiêu chuẩn) để đặt vấn đề trong Bệnh án**                                                                                                                                                | **Định hướng Bệnh lý**                                                                                         |
+| **STT** | **Tên**                               | **Điều kiện đặt vấn đề**                                                                                                                                                | **Định hướng Bệnh lý**                                                                                         |
 | ------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 1       | Hội chứng Thận hư                                      | Đáp ứng các tiêu chuẩn:  <br>• Phù toàn thân (trắng, mềm, ấn lõm).  <br>• Đạm niệu ngưỡng thận hư: > 3.5 g/24h (hoặc TPTNT Protein 3+).  <br>• CLS: Albumin máu < 30 g/L, Lipid/Cholesterol máu tăng. | Hội chứng Thận hư nguyên phát (sang thương tối thiểu, màng, xơ xốp phân đoạn) hoặc Thứ phát (Lupus, ĐTĐ).      |
 | 2       | Hội chứng Viêm cầu thận cấp                            | Tam chứng kinh điển xuất hiện cấp tính:  <br>Phù (mặt/mi mắt) + Tăng huyết áp + Tiểu máu đại thể/vi thể (thường kèm thiếu niệu).                                                                      | Viêm cầu thận cấp hậu nhiễm liên cầu trùng, Bệnh thận IgA, Viêm cầu thận tiến triển nhanh.                     |
@@ -40,17 +40,17 @@ Bệnh nhân nam 45 tuổi, nhập viện vì sốt và đau lưng. Tóm tắt g
 |---|
 |**ĐẶT VẤN ĐỀ CHUẨN LÂM SÀNG (VÍ DỤ 2)  <br>  <br>**<br><br>1. Hội chứng Viêm đài bể thận cấp bên phải (Sốt cao lạnh run 39.5°C, đau hông lưng P, Rung thận P +, TPTNT Bạch cầu + Nitrite +).<br><br>2. Cơn đau quặn thận bên phải (Đau quặn hông lưng P lan bẹn, Siêu âm sỏi niệu quản P 8mm ứ nước độ II).<br><br>3. Sỏi niệu quản phải gây thận ứ nước độ II.|
 
-## **PHẦN IV: HƯỚNG DẪN ĐẶT VẤN ĐỀ TRẠI HÔ HẤP**
+## **Trại Hô hấp**
 
-### **1. Các triệu chứng Hô hấp trọng tâm**
+### **1. Các triệu chứng trọng tâm**
 
 * **Triệu chứng cơ năng:** Ho khan, Ho có đàm (mủ xanh/vàng/đàm bọt hồng), Ho ra máu (khái huyết), Khó thở gắng sức/khi nằm/kịch phát về đêm, Đau ngực kiểu màng phổi (tăng khi hít sâu/ho/xoay trở), Khò khè, Tiếng thở rít.
 
 * **Triệu chứng thực thể:** Thở nhanh (>30 lần/phút), SpO2 < 90% (khí trời), Co kéo cơ hô hấp phụ (hõm ức, liên sườn), Nói ngắt quãng, Xanh tím môi/đầu chi, Vã mồ hôi, Lồng ngực hình thùng, Lồng ngực di động kém một bên, Rung thanh tăng/giảm, Gõ đục/vang, Rì rào phế nang giảm/mất, Ran nổ, Ran ẩm, Ran rít, Ran ngáy, Tiếng thở rít (Stridor), Tiếng cọ màng phổi.
 
-### **2. Tiêu chuẩn & Điều kiện đặt các Hội chứng Hô hấp**
+### **2. Điều kiện đặt vấn đề Hô hấp**
 
-|**STT**|**Tên Hội chứng/Vấn đề**|**Điều kiện (Tiêu chuẩn) để đặt vấn đề trong Bệnh án**|**Định hướng Bệnh lý**|
+|**STT**|**Tên**|**Điều kiện đặt vấn đề**|**Định hướng Bệnh lý**|
 |---|---|---|---|
 |1|Hội chứng 3 giảm Màng phổi|Đầy đủ 3 dấu hiệu thực thể tại 1 vùng/1 bên phổi:  <br>1. Rung thanh giảm/mất.  <br>2. Gõ đục.  <br>3. Rì rào phế nang giảm/mất.|Tràn dịch màng phổi (dịch thấm/tiết), Tràn máu màng phổi, Dày dính màng phổi.|
 |2|Hội chứng Tràn khí màng phổi (Tam chứng Galliard)|Đầy đủ 3 dấu hiệu thực thể tại 1 bên phổi:  <br>1. Rung thanh giảm/mất.  <br>2. Gõ vang.  <br>3. Rì rào phế nang giảm/mất.|Tràn khí màng phổi tự phát (nguyên phát/thứ phát do kén khí/COPD) hoặc Chấn thương ngực.|
@@ -79,17 +79,17 @@ Bệnh nhân nam 55 tuổi, tiền căn Lao phổi điều trị hoàn tất 5 n
 |---|
 |**ĐẶT VẤN ĐỀ CHUẨN LÂM SÀNG (VÍ DỤ 2)  <br>  <br>**<br><br>1. Ho ra máu lượng nhiều, đang tiến triển, chưa biến chứng suy hô hấp (~150 mL/24h, máu đỏ tươi lẫn máu cục).<br><br>2. Ran ẩm khu trú 1/3 trên phổi trái.<br><br>3. Tiền căn Lao phổi đã điều trị hoàn tất.|
 
-## **PHẦN V: HƯỚNG DẪN ĐẶT VẤN ĐỀ TRẠI TIM MẠCH**
+## **Trại Tim mạch**
 
-### **1. Các triệu chứng Tim mạch trọng tâm**
+### **1. Các triệu chứng trọng tâm**
 
 * **Triệu chứng cơ năng:** Đau ngực đè ép/siết chặt sau xương ức (thiếu máu cơ tim), Đau xé lan sau lưng (bóc tách động mạch chủ), Khó thở gắng sức/khi nằm/kịch phát về đêm, Hồi hộp đánh trống ngực, Ngất/Dọa ngất, Đau cách hồi chi dưới.
 
 * **Triệu chứng thực thể:** HA tăng (≥140/90 mmHg) hoặc HA tụt/kẹp, Tĩnh mạch cổ nổi (45 độ), Phản hồi gan - tĩnh mạch cảnh (+), Mỏm tim lệch trái, Tiếng T3 Gallop, Tiếng T1/T2 mờ, Âm thổi tâm thu/tâm trương bệnh lý tại các ổ van, Tiếng cọ màng ngoài tim, Phù mềm 2 chân đối xứng, Mạch quay đều/không đều/mất mạch.
 
-### **2. Tiêu chuẩn & Điều kiện đặt các Hội chứng Tim mạch**
+### **2. Điều kiện đặt vấn đề Tim mạch**
 
-|**STT**|**Tên Hội chứng/Vấn đề**|**Điều kiện (Tiêu chuẩn) để đặt vấn đề trong Bệnh án**|**Định hướng Bệnh lý**|
+|**STT**|**Tên**|**Điều kiện đặt vấn đề**|**Định hướng Bệnh lý**|
 |---|---|---|---|
 |1|Hội chứng Suy tim (Trái / Phải / Toàn bộ)|• Cơ năng: Khó thở gắng sức/khi nằm/kịch phát về đêm, mệt mỏi.  <br>• Thực thể: Tĩnh mạch cổ nổi, phản hồi gan-TMC (+), T3 Gallop, phù 2 chân, mỏm tim lệch trái.  <br>• CLS: X-quang bóng tim to, NT-proBNP/BNP tăng, Siêu âm tim giảm EF.|Suy tim do Bệnh vành mạn, Tăng huyết áp, Bệnh van tim, Bệnh cơ tim dãn nở.|
 |2|Hội chứng Vành cấp (CẤP CỨU)|• Đau ngực kiểu thiếu máu cơ tim (đè ép/siết chặt sau xương ức, lan vai/tay T) kéo dài > 20 phút.  <br>• Kèm vã mồ hôi, buồn nôn.  <br>• CLS: Biến đổi ST-T trên ECG hoặc Men tim (Troponin/CK-MB) tăng động học.|Nhồi máu cơ tim cấp (ST chênh lên / Không ST chênh lên) hoặc Đau thắt ngực không ổn định.|
@@ -119,9 +119,7 @@ Bệnh nhân nam 58 tuổi, nhập viện vì đau ngực. Tóm tắt ghi nhận
 
 ## **PHẦN VI: BẢNG MA TRẬN TRA CỨU NHANH ĐIỀU KIỆN ĐẶT VẤN ĐỀ (4 TRẠI)**
 
-
-
-|**Chuyên khoa**|**Tên Hội chứng/Vấn đề**|**Dấu hiệu Cốt lõi (Điều kiện bắt buộc)**|**Lưu ý Lâm sàng**|
+|**Chuyên khoa**|**Tên**|**Dấu hiệu Cốt lõi (Điều kiện bắt buộc)**|**Lưu ý Lâm sàng**|
 |---|---|---|---|
 |Tiêu hóa|Suy tế bào gan|Sao mạch/Lòng bàn tay son + Vàng da/Phù + Albumin giảm/TQ kéo dài|Xơ gan, suy gan cấp.|
 |Tiêu hóa|Tăng áp tĩnh mạch cửa|Tuần hoàn bàng hệ cửa-chủ + Báng bụng (SAAG≥1.1) + Lách to|Gợi ý nguyên nhân tại gan/trước gan.|
