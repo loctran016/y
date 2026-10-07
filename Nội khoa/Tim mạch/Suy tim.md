@@ -51,23 +51,9 @@ Lưu ý về khó thở khi nằm: bất kỳ bệnh nhân nào khó thở cũng
 ### IV. BỘ TIÊU CHUẨN FRAMINGHAM CHẨN ĐOÁN SUY TIM
 
 
-* **Tiêu chuẩn chính:**
-  1. Khó thở kịch phát về đêm hoặc khó thở khi nằm.
-  2. Tĩnh mạch cảnh nổi.
-  3. Ran ở phổi.
-  4. Tim to (mỏm tim lệch ngoài).
-  5. Phù phổi cấp.
-  6. Tiếng T3 Gallop.
-  7. Tăng áp lực tĩnh mạch trung tâm (> 16 cmH_2O)).
-  8. Phản hồi gan – tĩnh mạch cảnh dương tính.
-* **Tiêu chuẩn phụ:**
-  1. Phù mắt cá chân 2 bên.
-  2. Ho về đêm.
-  3. Khó thở khi gắng sức thông thường.
-  4. Gan to.
-  5. Tràn dịch màng phổi.
-  6. Dung tích sống giảm 1/3 so với tối đa.
-  7. Nhịp tim nhanh (> 120 lần/phút).
+| Tiêu chuẩn chính                                                                                                                                                                                                                                                                                | Tiêu chuẩn phụ                                                                                                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Khó thở kịch phát về đêm hoặc khó thở khi nằm.<br>  2. Tĩnh mạch cảnh nổi.<br>  3. Ran ở phổi.<br>  4. Tim to (mỏm tim lệch ngoài).<br>  5. Phù phổi cấp.<br>  6. Tiếng T3 Gallop.<br>  7. Tăng áp lực tĩnh mạch trung tâm (> 16 cmH_2O)).<br>  8. Phản hồi gan – tĩnh mạch cảnh dương tính. | 1. Phù mắt cá chân 2 bên.<br>  2. Ho về đêm.<br>  3. Khó thở khi gắng sức thông thường.<br>  4. Gan to.<br>  5. Tràn dịch màng phổi.<br>  6. Dung tích sống giảm 1/3 so với tối đa.<br>  7. Nhịp tim nhanh (> 120 lần/phút). |
 * **Tiêu chuẩn chính/phụ:** Giảm (> 4,5 kg) trong vòng 5 ngày điều trị đáp ứng với thuốc lợi tiểu.
 
 👉 **Chẩn đoán xác định Suy tim theo Framingham:** Khi bệnh nhân thỏa mãn **2 tiêu chuẩn chính** HOẶC **1 tiêu chuẩn chính + 2 tiêu chuẩn phụ**.
