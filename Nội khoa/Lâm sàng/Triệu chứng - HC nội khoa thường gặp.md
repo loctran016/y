@@ -3,19 +3,53 @@
 
 ### **1. Các triệu chứng trọng tâm**
 
-* **Triệu chứng cơ năng:** Tiểu buốt, Tiểu rát, Tiểu lắt nhắt, Tiểu gấp, Tiểu đêm, Tiểu khó/gắt, Thiếu niệu (<400 ml/24h), Vô niệu (<100 ml/24h), Đa niệu (>3000 ml/24h), Tiểu máu đại thể (đỏ/hồng/xá xị), Tiểu bọt lâu tan, Nước tiểu đục/mủ, Cơn đau quặn thận (đau hông lưng lan bẹn/sinh dục), Đau âm ỉ hông lưng, Đau căng tức hạ vị.
+#### **Triệu chứng cơ năng:** 
 
-* **Triệu chứng thực thể:** Phù toàn thân (trắng, mềm, ấn lõm, rõ ở mặt/mi mắt vào buổi sáng), Rung thận (+), Chạm thận (+), Ấn các điểm niệu quản trên/giữa đau, Cầu bàng quang (+) (khối căng đục hạ vị mất sau đặt thông tiểu), Tăng huyết áp, Niêm nhạt/móng sọc (thiếu máu mạn).
+1. Tính chất đi tiểu: 
+    * Tiểu buốt/Tiểu rát
+    * Tiểu lắt nhắt
+    * Tiểu gấp
+    * Tiểu đêm
+    * Tiểu khó/gắt
+2. Lượng nước tiểu:
+    * Thiếu niệu (<400 ml/24h)
+    * Vô niệu (<100 ml/24h)
+    * Đa niệu (>3000 ml/24h), 
+3. Tính chất nước tiểu:
+    * Tiểu máu đại thể (đỏ/hồng/xá xị)
+    * Tiểu bọt lâu tan
+    * Nước tiểu đục/mủ
+4. Đau:
+    * Cơn đau quặn thận (đau hông lưng lan bẹn/sinh dục)
+    * Đau âm ỉ hông lưng
+    * Đau căng tức hạ vị
+
+---
+
+#### **Triệu chứng thực thể:** 
+
+Phù toàn thân (trắng, mềm, ấn lõm, rõ ở mặt/mi mắt vào buổi sáng)
+
+Rung thận (+)
+
+Chạm thận (+)
+Ấn các điểm niệu quản trên/giữa đau
+
+Cầu bàng quang (+) (khối căng đục hạ vị mất sau đặt thông tiểu)
+
+Tăng huyết áp
+
+Niêm nhạt/móng sọc (thiếu máu mạn).
 
 ### **2. Điều kiện đặt vấn đề**
 
-| **STT** | **Tên**                               | **Điều kiện đặt vấn đề**                                                                                                                                                | **Định hướng Bệnh lý**                                                                                         |
+| **STT** | **Tên**                               | **Điều kiện đặt vấn đề**                                                                                                                                                | **Gợi ý Bệnh lý**                                                                                         |
 | ------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 1       | Hội chứng Thận hư                                      | Đáp ứng các tiêu chuẩn:  <br>• Phù toàn thân (trắng, mềm, ấn lõm).  <br>• Đạm niệu ngưỡng thận hư: > 3.5 g/24h (hoặc TPTNT Protein 3+).  <br>• CLS: Albumin máu < 30 g/L, Lipid/Cholesterol máu tăng. | Hội chứng Thận hư nguyên phát (sang thương tối thiểu, màng, xơ xốp phân đoạn) hoặc Thứ phát (Lupus, ĐTĐ).      |
 | 2       | Hội chứng Viêm cầu thận cấp                            | Tam chứng kinh điển xuất hiện cấp tính:  <br>Phù (mặt/mi mắt) + Tăng huyết áp + Tiểu máu đại thể/vi thể (thường kèm thiếu niệu).                                                                      | Viêm cầu thận cấp hậu nhiễm liên cầu trùng, Bệnh thận IgA, Viêm cầu thận tiến triển nhanh.                     |
 | 3       | Tổn thương thận cấp (AKI) / Thiếu niệu - Vô niệu       | • Thể tích nước tiểu < 400 mL/24h (thiếu niệu) hoặc < 100 mL/24h (vô niệu) diễn tiến trong vài giờ/ngày.  <br>• Creatinine máu tăng nhanh so với trị số nền.                                          | AKI Trước thận (mất dịch, shock), Tại thận (Hoại tử ống thận cấp ATN, Viêm mô kẽ), Sau thận (Tắc nghẽn sỏi/u). |
 | 4       | Hội chứng Bệnh thận mạn / Suy thận mạn                 | • Tiền căn bệnh thận kéo dài > 3 tháng.  <br>• Dấu hiệu thiếu máu mạn tính (niêm nhạt, móng sọc/Móng Terry).  <br>• Thận teo nhỏ trên siêu âm, eGFR giảm kéo dài.                                     | Bệnh thận mạn do Đái tháo đường, Tăng huyết áp, Viêm cầu thận mạn, Thận đa nang.                               |
-| 5       | Hội chứng Niệu đạo cấp (Nhiễm trùng tiểu dưới)         | Cụm triệu chứng kích thích đường tiểu dưới:  <br>Tiểu buốt + Tiểu rát + Tiểu lắt nhắt + Đau hạ vị (không sốt, Rung thận -).                                                                           | Viêm bàng quang cấp, Viêm niệu đạo.                                                                            |
+| 5       | Hội chứng Niệu đạo cấp (Nhiễm trùng tiểu dưới)         | <br>Tiểu buốt +  Tiểu lắt nhắt + Đau tức hạ vị (không sốt, Rung thận -).                                                                           | Viêm bàng quang cấp, Viêm niệu đạo.                                                                            |
 | 6       | Hội chứng Viêm đài bể thận cấp (Nhiễm trùng tiểu trên) | • Sốt cao, lạnh run.  <br>• Đau hông lưng dữ dội, Rung thận (+).  <br>• Nước tiểu đục/mủ, TPTNT có Bạch cầu (Leukocytes) và Nitrite (+).                                                              | Viêm đài bể thận cấp (cần tìm yếu tố thuận lợi sỏi/bế tắc).                                                    |
 | 7       | Cơn đau quặn thận                                      | Đau đột ngột dữ dội vùng hông lưng lan xuống bẹn và bộ phận sinh dục ngoài, kèm buồn nôn/nôn, tiểu máu.                                                                                               | Sỏi niệu quản, Sỏi đài bể thận bế tắc cấp tính.                                                                |
 | 8       | Tiểu máu nguồn gốc CẦU THẬN                            | • Nước tiểu màu nâu/xá xị/coca, tiểu máu toàn dòng, KHÔNG có máu cục.  <br>• Soi cặn lắng: Hồng cầu biến dạng > 80% hoặc có Trụ hồng cầu.  <br>• Thường kèm Phù, Tăng huyết áp, Đạm niệu.             | Viêm cầu thận cấp/mạn, Bệnh thận IgA, Hội chứng Alport, Lupus.                                                 |
@@ -50,7 +84,7 @@ Bệnh nhân nam 45 tuổi, nhập viện vì sốt và đau lưng. Tóm tắt g
 
 ### **2. Điều kiện đặt vấn đề Hô hấp**
 
-|**STT**|**Tên**|**Điều kiện đặt vấn đề**|**Định hướng Bệnh lý**|
+|**STT**|**Tên**|**Điều kiện đặt vấn đề**|**Gợi ý Bệnh lý**|
 |---|---|---|---|
 |1|Hội chứng 3 giảm Màng phổi|Đầy đủ 3 dấu hiệu thực thể tại 1 vùng/1 bên phổi:  <br>1. Rung thanh giảm/mất.  <br>2. Gõ đục.  <br>3. Rì rào phế nang giảm/mất.|Tràn dịch màng phổi (dịch thấm/tiết), Tràn máu màng phổi, Dày dính màng phổi.|
 |2|Hội chứng Tràn khí màng phổi (Tam chứng Galliard)|Đầy đủ 3 dấu hiệu thực thể tại 1 bên phổi:  <br>1. Rung thanh giảm/mất.  <br>2. Gõ vang.  <br>3. Rì rào phế nang giảm/mất.|Tràn khí màng phổi tự phát (nguyên phát/thứ phát do kén khí/COPD) hoặc Chấn thương ngực.|
@@ -89,7 +123,7 @@ Bệnh nhân nam 55 tuổi, tiền căn Lao phổi điều trị hoàn tất 5 n
 
 ### **2. Điều kiện đặt vấn đề Tim mạch**
 
-|**STT**|**Tên**|**Điều kiện đặt vấn đề**|**Định hướng Bệnh lý**|
+|**STT**|**Tên**|**Điều kiện đặt vấn đề**|**Gợi ý Bệnh lý**|
 |---|---|---|---|
 |1|Hội chứng Suy tim (Trái / Phải / Toàn bộ)|• Cơ năng: Khó thở gắng sức/khi nằm/kịch phát về đêm, mệt mỏi.  <br>• Thực thể: Tĩnh mạch cổ nổi, phản hồi gan-TMC (+), T3 Gallop, phù 2 chân, mỏm tim lệch trái.  <br>• CLS: X-quang bóng tim to, NT-proBNP/BNP tăng, Siêu âm tim giảm EF.|Suy tim do Bệnh vành mạn, Tăng huyết áp, Bệnh van tim, Bệnh cơ tim dãn nở.|
 |2|Hội chứng Vành cấp (CẤP CỨU)|• Đau ngực kiểu thiếu máu cơ tim (đè ép/siết chặt sau xương ức, lan vai/tay T) kéo dài > 20 phút.  <br>• Kèm vã mồ hôi, buồn nôn.  <br>• CLS: Biến đổi ST-T trên ECG hoặc Men tim (Troponin/CK-MB) tăng động học.|Nhồi máu cơ tim cấp (ST chênh lên / Không ST chênh lên) hoặc Đau thắt ngực không ổn định.|
