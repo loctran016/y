@@ -1,11 +1,31 @@
+```mermaid
+flowchart LR
+    %% Define styles (optional, to match the GoJS colors)
+    classDef root fill:#f8bbd0,stroke:#333,stroke-width:2px,color:#000
+    classDef symptom fill:#b2dfdb,stroke:#333,stroke-width:1px,color:#000
+    classDef disease fill:#ffcc80,stroke:#333,stroke-width:1px,color:#000
+
+    %% Define the nodes and their connections
+    A[Khó thở]:::root --> B[Khó thở khi nằm]:::symptom
+    A --> C[Khó thở kịch phát về đêm]:::symptom
+
+    %% Multiple symptoms linking to Suy tim
+    B --> D[Suy tim]:::disease
+    C --> D
+
+    %% Khó thở khi nằm linking to multiple other diseases
+    B --> E[COPD]:::disease
+    B --> F[Bệnh lý hô hấp khác]:::disease
+```
+
 
 ## Trại Thận - Tiết niệu
 
 ### **1. Các triệu chứng trọng tâm**
 
-#### **Triệu chứng cơ năng:** 
+#### **Triệu chứng cơ năng:**
 
-1. Tính chất đi tiểu: 
+1. Tính chất đi tiểu:
     * Tiểu buốt/Tiểu rát
     * Tiểu lắt nhắt
     * Tiểu gấp
@@ -14,7 +34,7 @@
 2. Lượng nước tiểu:
     * Thiếu niệu (<400 ml/24h)
     * Vô niệu (<100 ml/24h)
-    * Đa niệu (>3000 ml/24h), 
+    * Đa niệu (>3000 ml/24h),
 3. Tính chất nước tiểu:
     * Tiểu máu đại thể (đỏ/hồng/xá xị)
     * Tiểu bọt lâu tan
@@ -26,7 +46,7 @@
 
 ---
 
-#### **Triệu chứng thực thể:** 
+#### **Triệu chứng thực thể:**
 
 Phù toàn thân (trắng, mềm, ấn lõm, rõ ở mặt/mi mắt vào buổi sáng)
 
@@ -67,7 +87,7 @@ Bệnh nhân nữ 20 tuổi, nhập viện vì phù toàn thân. Tóm tắt ghi 
 |**ĐẶT VẤN ĐỀ CHUẨN LÂM SÀNG (VÍ DỤ 1)  <br>  <br>**<br><br>1. Hội chứng Thận hư nguyên phát (Phù toàn thân, Đạm niệu 24h = 5.2 g/24h > 3.5g, Albumin máu = 22 g/L < 30g, Cholesterol máu tăng).<br><br>2. Đạm niệu ngưỡng thận hư (Protein 3+, 5.2 g/24h).|
 
 **Ví dụ 2: Bệnh nhân Viêm đài bể thận cấp do Sỏi niệu quản**
-#### 
+####
 Bệnh nhân nam 45 tuổi, nhập viện vì sốt và đau lưng. Tóm tắt ghi nhận: Sốt cao 39.5°C kèm lạnh run từ 1 ngày trước. Đau quặn dữ dội hông lưng (P) lan xuống bẹn. Khám: Rung thận (P) (+), ấn điểm niệu quản trên (P) đau chói. Nước tiểu đục, TPTNT: Leukocytes 500/uL, Nitrite (+), Erythrocytes 250/uL. Siêu âm: Thận (P) ứ nước độ II do sỏi niệu quản đoạn 1/3 trên (P) kích thước 8mm.
 
 |   |
