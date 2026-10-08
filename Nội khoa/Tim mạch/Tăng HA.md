@@ -54,6 +54,22 @@ Khi tiếp nhận bệnh nhân có huyết áp \\(\ge 180/120\text{ mmHg}\\), b�
 
 ---
 
+## Nguyên nhân THA
+
+### 6 Nguyên nhân thứ phát (5 - 10%)
+
+### Nguyên nhân nguyên phát (90 - 95%)
+
+Nên loại bỏ sơ qua các nguyên nhân THA thứ phát bên cạnh các yếu tố nguy cơ THA nguyên phát:
+
+- Ăn mặn
+- Béo phì
+- Stress
+- Tuổi & giới tính:
+- Thuốc lá:
+- Bất dung nạp glucose:
+
+
 ## Biện luận cơn tăng huyết áp cấp cứu
 
 ### a.	Xác định cơn tăng huyết áp cấp cứu
