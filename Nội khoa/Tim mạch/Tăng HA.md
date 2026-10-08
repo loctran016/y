@@ -1,3 +1,59 @@
+## Cơn tăng HA cấp
+
+Trong tiếp cận chẩn đoán Nội khoa, khi bệnh nhân có trị số huyết áp tăng rất cao (thường Huyết áp tâm thu > 180mmHg và/hoặc Huyết áp tâm trương > 120mmHg), tình trạng này được gọi chung là **Cơn tăng huyết áp** (*Hypertensive Crisis*) [1, 2]. 
+
+Điểm mấu chốt để phân biệt giữa **Tăng huyết áp cấp cứu** (*Hypertensive Emergency*) và **Tăng huyết áp khẩn cấp / khẩn trương** (*Hypertensive Urgency*) là sự hiện diện hay không của **Tổn thương cơ quan đích cấp tính** [1, 3].
+
+---
+
+### I. BẢNG SO SÁNH ĐỐI CHIẾU PHÂN BIỆT
+
+| Tiêu chí phân biệt | Tăng huyết áp CẤP CỨU (*Hypertensive Emergency*) | Tăng huyết áp KHẨN CẤP / KHẨN TRƯƠNG (*Hypertensive Urgency*) |
+| :--- | :--- | :--- |
+| **Trị số Huyết áp** | Thường **\\(\ge 180/120\text{ mmHg}\\)** (Tăng huyết áp độ 3) [2]. | Thường **\\(\ge 180/120\text{ mmHg}\\)** (Tăng huyết áp độ 3) [2]. |
+| **Tổn thương cơ quan đích cấp tính** | **CÓ** biến chứng tổn thương cơ quan đích cấp tính, đe dọa tính mạng người bệnh [2, 3]. | **KHÔNG CÓ** tổn thương cơ quan đích cấp tính [3]. |
+| **Triệu chứng lâm sàng** | Rầm rộ tùy thuộc vào cơ quan bị tổn thương: Đau ngực dữ dội, khó thở cấp, lơ mơ, co giật, yếu liệt chi, nhìn mờ đột ngột, tiểu ít [3, 4]. | Thường không có triệu chứng hoặc chỉ có triệu chứng nhẹ/không đặc hiệu: Nhức đầu nhẹ, choáng váng, hồi hộp, lo âu [3, 4]. |
+| **Nơi điều trị** | **Bắt buộc nhập viện khẩn cấp** (Khoa Cấp cứu / ICU) [2, 3]. | Không nhất thiết phải nhập viện, có thể xử trí và theo dõi tại phòng cấp cứu/ngoại trú [3]. |
+| **Thái độ dùng thuốc hạ áp** | Dùng thuốc hạ áp **đường tiêm tĩnh mạch (IV)**, hạ huyết áp khẩn cấp và kiểm soát chặt chẽ theo phác đồ từng bệnh cảnh [2, 3]. | Dùng thuốc hạ áp **đường uống (Oral)**, hạ huyết áp từ từ trong vòng **24 – 48 giờ** [3]. |
+
+---
+
+### II. CÁC BIỂU HIỆN TỔN THƯƠNG CƠ QUAN ĐÍCH CẤP TÍNH (Tiêu chuẩn chẩn đoán THA Cấp cứu)
+
+Một cơn tăng huyết áp được xác định là **Tăng huyết áp CẤP CỨU** khi có **ít nhất một** trong các tổn thương cơ quan đích cấp tính sau đây [3, 5]:
+
+1. **Hệ Tim mạch & Mạch máu lớn:**
+   * **Hội chứng mạch vành cấp:** Nhồi máu cơ tim cấp hoặc Đau thắt ngực không ổn định [3, 5].
+   * **Suy tim trái cấp / Phù phổi cấp do tăng huyết áp** [3, 5].
+   * **Bóc tách động mạch chủ ngực cấp tính** [3, 5, 6].
+2. **Hệ Thần kinh trung ương:**
+   * **Bệnh脑 do tăng huyết áp (*Hypertensive Encephalopathy*):** Phù não cấp gây nhức đầu dữ dội, nôn ói, lơ mơ, lú lẫn, co giật toàn thân [3, 7].
+   * **Đột quỵ não cấp:** Xuất huyết não hoặc Nhồi máu não cấp [3, 5].
+   * **Hội chứng PRES** (*Posterior Reversible Encephalopathy Syndrome*) [8].
+3. **Thận:**
+   * **Tổn thương thận cấp (AKI):** Hoại tử dạng sợi các mạch máu nhỏ ở thận, Creatinine máu tăng nhanh đột ngột, tiểu ít, đạm niệu/tiểu máu [3, 5, 9].
+4. **Mắt (Đáy mắt):**
+   * **Bệnh võng mạc ác tính / Tăng huyết áp ác tính (*Malignant Hypertension*):** Soi đáy mắt ghi nhận xuất huyết võng mạc, xuất tiết dạng bông/bản đốm và **phù gai thị** (Độ 3, 4 theo Keith-Wagener-Barker) [3, 5, 10].
+5. **Sản khoa:**
+   * **Tiền sản giật nặng** hoặc **Sản giật** ở phụ nữ có thai [3].
+
+---
+
+### III. BƯỚC THĂM KHÁM & ĐỀ NGHỊ CẬN LÂM SÀNG TẦM SOÁT
+
+Khi tiếp nhận bệnh nhân có huyết áp \\(\ge 180/120\text{ mmHg}\\), bác sĩ cần nhanh chóng thực hiện [1, 3]:
+
+1. **Hỏi bệnh sử & Khám thực thể hệ thống (Não, Mắt, Tim, Thận, Mạch máu):** Hỏi triệu chứng đau ngực, khó thở, đau đầu, nhìn mờ, tiểu ít; khám thần kinh định vị, nghe tim/phổi, bắt mạch ngoại biên 4 chi [1, 3, 4].
+2. **Đề nghị Cận lâm sàng khẩn cấp để tìm tổn thương cơ quan đích [1, 11]:**
+   * **Điện tâm đồ (ECG 12 chuyển đạo):** Tìm dấu hiệu thiếu máu cơ tim / NMCT cấp, phì đại thất trái [1, 11].
+   * **Men tim (hs-Troponin I/T):** Xác định tổn thương cơ tim cấp [11, 12].
+   * **X-quang ngực thẳng:** Đánh giá ứ huyết phổi, bóng tim, dãn quai động mạch chủ [6, 11].
+   * **Sinh hóa máu & Tổng phân tích nước tiểu:** Creatinine, Ure, Ion đồ, định lượng đạm niệu/hồng cầu niệu để đánh giá chức năng thận [1, 11, 12].
+   * **Soi đáy mắt:** Tầm soát xuất huyết võng mạc và phù gai thị [5, 10].
+   * **CT scan / MRI não:** Chỉ định khi bệnh nhân có rối loạn tri giác, co giật hoặc dấu thần kinh khu trú [8, 13].
+
+---
+
 ## Biện luận cơn tăng huyết áp cấp cứu
 
 ### a.	Xác định cơn tăng huyết áp cấp cứu
