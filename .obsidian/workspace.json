@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec8fcb7f0c27bb43",
@@ -205,6 +206,8 @@
   },
   "active": "df30766b9fca34c7",
   "lastOpenFiles": [
+    "Nội khoa/Tim mạch/Tăng HA-1791454394377.webp",
+    "Nội khoa/Tim mạch/Tăng HA-1791453510356.webp",
     "Nội khoa/Tim mạch/Suy tim.md",
     "Nội khoa/Tim mạch/Tăng HA.md",
     "Nội khoa/Tim mạch/HC vành cấp.md",
@@ -238,7 +241,6 @@
     "Tiêu hoá/CLS/XN hoá sinh Gan.md",
     "Nội khoa/Lâm sàng/Đặt vấn đề.md",
     "Nội khoa/Lâm sàng/Đặt vấn đề và Biện luận.md",
-    "Nội khoa/Lâm sàng/Xơ gan.md",
     "Nội khoa/CLS",
     "Nội khoa/Lâm sàng",
     "Nội khoa",
@@ -250,7 +252,6 @@
     "Tiêu hoá/Sinh lý/Sinh lý Gan-1790604414040.webp",
     "Tiêu hoá/Sinh lý/Sinh lý Gan-1790603594395.webp",
     "Tiêu hoá/Sinh lý/Sinh lý Gan-1790602316186.webp",
-    "Tiêu hoá/Sinh lý/Sinh lý Gan-1790601271122.webp",
     "Untitled.canvas"
   ]
 }

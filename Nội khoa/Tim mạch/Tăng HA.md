@@ -1,3 +1,28 @@
+## 1. Xác định THA
+![[Tăng HA-1791453510356.webp]]2026 KHUYẾN CÁO HỘI TIM MẠCH HỌC VỀ CHẨN ĐOÁN VÀ QUẢN LÝ THA (Trang 15)
+
+Chú thích: Huyết áp được xác định dựa trên giá trị trung bình của ít nhất 2 lần
+đo đúng kỹ thuật trong mỗi lần khám, thực hiện ở ít nhất 2 lần khám khác nhau và cách nhau ít nhất 1 phút.
+Lưu ý: Đối với người trưởng thành có HATT và HATT thuộc hai mức phân độ khác nhau, việc phân độ huyết áp được xác định theo mức cao hơn. Bảng phân độ này không áp dụng cho phụ nữ mang thai.
+
+Thông điệp chính
+1. Tăng huyết áp áo choàng trắng có nguy cơ trung gian, cần đánh giá hằng
+năm, không điều trị thuốc thường quy trừ khi có tổn thương cơ quan đích.
+2. Tăng huyết áp ẩn giấu tại Việt Nam chiếm tỷ lệ cao (20-30%), nguy cơ
+tim mạch tương đương THA thực sự; nên chủ động sàng lọc bằng HATN/
+HALĐ ở nhóm nguy cơ cao và điều trị thuốc ngay khi xác nhận.
+3. Vọt huyết áp buổi sáng phổ biến và là nguyên nhân gây nên nhiều biến
+cố tim mạch. Cần theo dõi bằng HATN/HALĐ để phát hiện và điều chỉnh
+điều trị kịp thời.
+4. THATTĐĐ phổ biến ở người cao tuổi, cần đo huyết áp tư thế thường quy ở
+người cao tuổi, ĐTĐ hoặc dùng đa thuốc để phát hiện hạ/THA tư thế đứng.
+## 2. Phân loại và phân độ THA
+
+Cơn THA cấp cứu: THA độ 3 có kèm tổn thương cơ quan đích cấp tính, có thể đe doạ tính mạng bn và cần thiết phải hạ HA ngay lập tức Cơn THA ác tính THA độ 3 kèm với hình ảnh soi đáy mắt có XH võng mạc và/hoặc phù gai thị, đông máu nội mạch lan toả, bệnh lý vi mạch và có thể có các biến chứng cấp tính khác đi kèm Tr.chứng như suy tim cấp, bệnh cảnh não, suy thận cấp của bệnh căn nguyên • Tiền sử ngủ ngáy/ngưng thở khi ngủ/bệnh phổi mạn • Nhức đầu từng cơn kèm hồi hộp đánh trống ngực, đỏ bừng mặt (u tủy thượng thận) • Yếu liệt chi, dị cảm (u vỏ thượng thận) • Tiểu gắt, tiểu máu, đau hông lưng… (bệnh lý thận) Cơn THA khẩn cấp THA độ 3 nhưng chưa có tổn thương cơ quan đích cấp tính Sản giật Cơn THA cấp cứu ở phụ nữ có thai THA tâm thu đơn độc HATT ≥ 140 mmHg và HATTr < 90 mmHg 5. Thuốc HA • Thuốc hạ áp đã và đang sử dụng • Bằng chứng về tuân thủ và thiếu tuân thủ điều trị • Hiệu quả và tác dụng phụ của thuốc THA tâm thu đơn độc ở người trẻ tuổi HATT rất cao nhưng HATTr và HATB bình thường. Huyết áp động mạch chủ cũng bình thường. THATTr đơn độc HATT < 140 mmHg HATTr ≥ 90 mmHg 6. Khám • Thể trạng, BMI của bn • Đo HA đúng cách • Các dấu hiệu của bệnh căn nguyên Cushing: vẻ mặt tròn, béo, má ửng hồng, gáy có bướu mỡ Suy giáp: da dày, chậm chạp, vẻ mặt ít linh hoạt Hẹp eo ĐMC: mất cân đối các chi • Các dấu hiệu của tổn thương cơ quan đích Khám tim, bắt mạch hai bên, bắt mạch chi Soi đáy mắt… THA “áo choàng trắng” HAPK thường xuyên tăng (thường là THA độ 1) trong khi HA hằng ngày hoặc 24h lại bình thường THA ẩn giấu HAPK bình thường (thường ở mức bình thường cao) nhưng THA ở nơi khác, do đó HA 24h đơn độc tăng THA giả tạo Bn lớn tuổi, ĐM ngoại biên trở nên cứng nên băng quấn phải có áp lực cao hơn để nén lại  đo HA nội ĐM quay
+
+### THA kháng trị - HAPK
+
+![[Tăng HA-1791454394377.webp|563x330]]
 ## Cơn tăng HA cấp
 
 Trong tiếp cận chẩn đoán Nội khoa, khi bệnh nhân có trị số huyết áp tăng rất cao (thường Huyết áp tâm thu > 180mmHg và/hoặc Huyết áp tâm trương > 120mmHg), tình trạng này được gọi chung là **Cơn tăng huyết áp** (*Hypertensive Crisis*) [1, 2]. 
