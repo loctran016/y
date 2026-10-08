@@ -8,13 +8,13 @@ Trong tiếp cận chẩn đoán Nội khoa, khi bệnh nhân có trị số huy
 
 ### I. BẢNG SO SÁNH ĐỐI CHIẾU PHÂN BIỆT
 
-| Tiêu chí phân biệt | Tăng huyết áp CẤP CỨU (*Hypertensive Emergency*) | Tăng huyết áp KHẨN CẤP / KHẨN TRƯƠNG (*Hypertensive Urgency*) |
-| :--- | :--- | :--- |
-| **Trị số Huyết áp** | Thường **\\(\ge 180/120\text{ mmHg}\\)** (Tăng huyết áp độ 3) [2]. | Thường **\\(\ge 180/120\text{ mmHg}\\)** (Tăng huyết áp độ 3) [2]. |
-| **Tổn thương cơ quan đích cấp tính** | **CÓ** biến chứng tổn thương cơ quan đích cấp tính, đe dọa tính mạng người bệnh [2, 3]. | **KHÔNG CÓ** tổn thương cơ quan đích cấp tính [3]. |
-| **Triệu chứng lâm sàng** | Rầm rộ tùy thuộc vào cơ quan bị tổn thương: Đau ngực dữ dội, khó thở cấp, lơ mơ, co giật, yếu liệt chi, nhìn mờ đột ngột, tiểu ít [3, 4]. | Thường không có triệu chứng hoặc chỉ có triệu chứng nhẹ/không đặc hiệu: Nhức đầu nhẹ, choáng váng, hồi hộp, lo âu [3, 4]. |
-| **Nơi điều trị** | **Bắt buộc nhập viện khẩn cấp** (Khoa Cấp cứu / ICU) [2, 3]. | Không nhất thiết phải nhập viện, có thể xử trí và theo dõi tại phòng cấp cứu/ngoại trú [3]. |
-| **Thái độ dùng thuốc hạ áp** | Dùng thuốc hạ áp **đường tiêm tĩnh mạch (IV)**, hạ huyết áp khẩn cấp và kiểm soát chặt chẽ theo phác đồ từng bệnh cảnh [2, 3]. | Dùng thuốc hạ áp **đường uống (Oral)**, hạ huyết áp từ từ trong vòng **24 – 48 giờ** [3]. |
+| Tiêu chí phân biệt                   | Tăng huyết áp CẤP CỨU (*Hypertensive Emergency*)                                                                                          | Tăng huyết áp KHẨN CẤP / KHẨN TRƯƠNG (*Hypertensive Urgency*)                                                             |
+| :----------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
+| **Trị số Huyết áp**                  | Thường **\\(\ge 180/120\text{ mmHg}\\)** (Tăng huyết áp độ 3) [2].                                                                        | Thường **\\(\ge 180/120\text{ mmHg}\\)** (Tăng huyết áp độ 3) [2].                                                        |
+| **Tổn thương cơ quan đích cấp tính** | **CÓ** biến chứng tổn thương cơ quan đích cấp tính, đe dọa tính mạng người bệnh [2, 3].                                                   | **KHÔNG CÓ** tổn thương cơ quan đích cấp tính [3].                                                                        |
+| **Triệu chứng lâm sàng**             | Rầm rộ tùy thuộc vào cơ quan bị tổn thương: Đau ngực dữ dội, khó thở cấp, lơ mơ, co giật, yếu liệt chi, nhìn mờ đột ngột, tiểu ít [3, 4]. | Thường không có triệu chứng hoặc chỉ có triệu chứng nhẹ/không đặc hiệu: Nhức đầu nhẹ, choáng váng, hồi hộp, lo âu [3, 4]. |
+| **Nơi điều trị**                     | **Bắt buộc nhập viện khẩn cấp** (Khoa Cấp cứu / ICU) [2, 3].                                                                              | Không nhất thiết phải nhập viện, có thể xử trí và theo dõi tại phòng cấp cứu/ngoại trú [3].                               |
+| **Thái độ dùng thuốc hạ áp**         | Dùng thuốc hạ áp **đường tiêm tĩnh mạch (IV)**, hạ huyết áp khẩn cấp và kiểm soát chặt chẽ theo phác đồ từng bệnh cảnh [2, 3].            | Dùng thuốc hạ áp **đường uống (Oral)**, hạ huyết áp từ từ trong vòng **24 – 48 giờ** [3].                                 |
 
 ---
 

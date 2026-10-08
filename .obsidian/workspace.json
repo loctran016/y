@@ -11,10 +11,14 @@
             "id": "df30766b9fca34c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Nội khoa/Tim mạch/Tăng HA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tăng HA"
             }
           }
         ]
@@ -201,8 +205,8 @@
   },
   "active": "df30766b9fca34c7",
   "lastOpenFiles": [
-    "Nội khoa/Tim mạch/Tăng HA.md",
     "Nội khoa/Tim mạch/Suy tim.md",
+    "Nội khoa/Tim mạch/Tăng HA.md",
     "Nội khoa/Tim mạch/HC vành cấp.md",
     "Nội khoa/Tim mạch",
     "Nội khoa/Thận niệu/Đặt vấn đề LS.md",

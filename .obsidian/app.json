@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "attachmentFolderPath": "./",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showInlineTitle": true
 }
