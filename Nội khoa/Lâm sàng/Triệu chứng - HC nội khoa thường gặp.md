@@ -98,9 +98,25 @@ Bệnh nhân nam 45 tuổi, nhập viện vì sốt và đau lưng. Tóm tắt g
 
 ### **1. Các triệu chứng trọng tâm**
 
-* **Triệu chứng cơ năng:** Ho khan, Ho có đàm (mủ xanh/vàng/đàm bọt hồng), Ho ra máu (khái huyết), Khó thở gắng sức/khi nằm/kịch phát về đêm, Đau ngực kiểu màng phổi (tăng khi hít sâu/ho/xoay trở), Khò khè, Tiếng thở rít.
+#### **Triệu chứng cơ năng:**
 
-* **Triệu chứng thực thể:** Thở nhanh (>30 lần/phút), SpO2 < 90% (khí trời), Co kéo cơ hô hấp phụ (hõm ức, liên sườn), Nói ngắt quãng, Xanh tím môi/đầu chi, Vã mồ hôi, Lồng ngực hình thùng, Lồng ngực di động kém một bên, Rung thanh tăng/giảm, Gõ đục/vang, Rì rào phế nang giảm/mất, Ran nổ, Ran ẩm, Ran rít, Ran ngáy, Tiếng thở rít (Stridor), Tiếng cọ màng phổi.
+Gợi ý bệnh tim:
+
+* Ho khạc đàm bọt hồng
+* Khó thở gắng sức/khi nằm/kịch phát về đêm
+
+Gợi ý bệnh phổi:
+
+* Ho khan
+* Ho có đàm (mủ xanh/vàng/đàm bọt hồng)
+* Ho ra máu (khái huyết)
+* , Đau ngực kiểu màng phổi (tăng khi hít sâu/ho/xoay trở), 
+* Khò khè
+* Tiếng thở rít.
+
+#### **Triệu chứng thực thể:** 
+
+Thở nhanh (>30 lần/phút), SpO2 < 90% (khí trời), Co kéo cơ hô hấp phụ (hõm ức, liên sườn), Nói ngắt quãng, Xanh tím môi/đầu chi, Vã mồ hôi, Lồng ngực hình thùng, Lồng ngực di động kém một bên, Rung thanh tăng/giảm, Gõ đục/vang, Rì rào phế nang giảm/mất, Ran nổ, Ran ẩm, Ran rít, Ran ngáy, Tiếng thở rít (Stridor), Tiếng cọ màng phổi.
 
 ### **2. Điều kiện đặt vấn đề Hô hấp**
 
@@ -113,7 +129,7 @@ Bệnh nhân nam 45 tuổi, nhập viện vì sốt và đau lưng. Tóm tắt g
 |5|Hội chứng Tắc nghẽn đường hô hấp trên|• Khó thở thì hít vào.  <br>• Nghe có Tiếng thở rít (Stridor) ở thanh quản/cổ.  <br>• Co kéo cơ hô hấp phụ vùng cổ, hõm ức.|Dị vật đường thở, Viêm/phù nề thanh quản, Phản vệ, Bướu giáp chèn ép.|
 |6|Hội chứng Suy hô hấp cấp (CẤP CỨU)|Có ít nhất 1 trong các dấu hiệu sinh tồn/hô hấp bất thường:  <br>• SpO2 < 90% (khí trời).  <br>• Nhịp thở > 30 lần/phút hoặc < 10 lần/phút.  <br>• Co kéo cơ hô hấp phụ rõ, xanh tím, nói ngắt quãng, rối loạn tri giác.|Đợt cấp COPD/Hen nặng, Phù phổi cấp, Viêm phổi nặng, Thuyên tắc phổi, Tràn khí màng phổi áp lực.|
 |7|Hội chứng Ho ra máu (Khái huyết)|Ho tống xuất máu đỏ tươi/máu cục từ đường hô hấp dưới.  <br>Bắt buộc phân loại: Lượng ít hay Nhiều (>100ml/24h), Đang tiến triển hay Tạm ngưng, Biến chứng suy hô hấp.|Lao phổi, Dãn phế quản, Ung thư phổi, Áp-xe phổi, Hẹp van 2 lá.|
-|8|Hội chứng Nhiễm trùng hô hấp dưới|Kết hợp giữa:  <br>• Triệu chứng toàn thân: Sốt, lạnh run, tăng bạch cầu.  <br>• Triệu chứng hô hấp: Ho khạc đàm mủ/sậm màu, đau ngực, ran ẩm/nổ ở phổi.|Viêm phổi màng phổi, Viêm phế quản cấp, Đợt cấp COPD nhiễm khuẩn.|
+|8|Hội chứng Nhiễm trùng hô hấp dưới|Kết hợp giữa:  <br>• Triệu chứng toàn thân: Sốt, lạnh run, tăng bạch cầu.  <br>• Triệu chứng hô hấp: Ho khạc đàm mủ/sậm màu, đau ngực, ran ẩm/nổ ở phổi, nhớ loại bỏ các ổ nhiễm trùng khác.|Viêm phổi màng phổi, Viêm phế quản cấp, Đợt cấp COPD nhiễm khuẩn.|
 
 ### **3. Ví dụ Tóm tắt bệnh án & Đặt vấn đề mẫu Trại Hô hấp**
 
