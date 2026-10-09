@@ -48,9 +48,8 @@ flowchart LR
 
 #### **Triệu chứng thực thể:**
 
-Phù toàn thân (trắng, mềm, ấn lõm, rõ ở mặt/mi mắt vào buổi sáng)
-
-Rung thận (+)
+* Phù toàn thân (trắng, mềm, ấn lõm, rõ ở mặt/mi mắt vào buổi sáng)
+* Rung thận (+)
 
 Chạm thận (+)
 Ấn các điểm niệu quản trên/giữa đau
