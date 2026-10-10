@@ -136,6 +136,10 @@ ProteinDB       ProteinDB                         ProteinDB       ProteinDB
   • Thận hư + TALTMC              • Budd-Chiari sớm               • Viêm tụy (Amylase cao)
 ```
 
----
+## Lưu ý nhỏ
 
-Bản tổng hợp trên chuẩn hóa toàn bộ lý thuyết và kỹ năng lâm sàng bài **Tiếp cận Báng bụng / Bụng to** theo chương trình đào tạo YDS. Bạn có thể lưu vào tài liệu để ôn tập cũng như phục vụ việc làm bệnh án tại khoa Tiêu hóa.
+- Bụng to mà gây khó thở: đã bụng to lâu năm, do BN không tuân thủ điều trị và không ngưng sử dụng rượu bia, nghĩa là BN sẽ nhận thức được việc **Bụng to căng tức gây khó thở**. BN sống chung với bụng to đến khi hết nổi (khó thở) mới đi đến BV để tháo dịch. Thay vì ghi BN khó thở do bụng to thì hãy ghi _BN cảm giác căng tức bụng gây khó thở_
+- Hỏi thêm mặc quần chật bao lâu rồi, mang dép chật bao lâu rồi
+- Phân biệt bụng to với chướng bụng: táo bón + gõ vang (chướng bụng)
+- Khi bụng to gây hô
+- Lưu ý tiếp cận các triệu chứng đi tiểu: tầm soát TT thận cấp trước thận, lưu ý **THUỐC LỢI TIỂU** (Ở cả phần HBS và tiền căn)

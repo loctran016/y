@@ -18,6 +18,68 @@ flowchart LR
     B --> F[Bệnh lý hô hấp khác]:::disease
 ```
 
+## Trại Tiêu hoá
+
+### **1. Các triệu chứng Tiêu hóa - Gan mật trọng tâm**
+
+#### **Triệu chứng cơ năng:**
+
+* Nôn ra máu (tươi/bầm/bã cà phê)
+* Tiêu phân đen bóng hôi khắm
+* Tiêu máu đỏ tươi/bầm
+* Đau quặn thượng vị
+* Nuốt khó, Nuốt đau
+* Ợ hơi, Ợ chua, Ợ nóng
+* Buồn nôn, Nôn ói
+* Tiêu chảy cấp/mạn
+* Táo bón
+* Vàng da, Vàng mắt, Nước tiểu sậm màu
+* Phân bạc màu, Ngứa da, Chán ăn, Sụt cân.
+
+* **Triệu chứng thực thể:** Bụng to bè/tròn, Rốn lồi, Vết rạn da, Tuần hoàn bàng hệ kiểu cửa-chủ, Gõ đục vùng thấp / Gõ đục di chuyển (+), Dấu sóng vỗ (+), Dấu chạm cục nước đá (+), Nhu động ruột tăng/mất, Gõ vang khắp bụng, Đề kháng thành bụng / Co cứng thành bụng (+), Cảm ứng phúc mạc (+), Điểm Murphy (+), Gan to, Lách to, Sao mạch, Lòng bàn tay son, Móng Terry, Vú to ở nam, Búi trĩ, Phân đen theo găng.
+
+**2. Tiêu chuẩn & Điều kiện đặt các Hội chứng Tiêu hóa**
+
+| **STT** | **Tên Hội chứng/Vấn đề**                | **Điều kiện (Tiêu chuẩn) để đặt vấn đề trong Bệnh án**                                                                                                                                                     | **Định hướng Bệnh lý**                                                                                       |
+|:------- |:--------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------ |
+| 1       | Hội chứng Suy tế bào gan                | Có từ 2-3 dấu hiệu thực thể/cơ năng/CLS sau:  <br>• **Sao mạch, lòng bàn tay son, móng Terry, xuất huyết dưới da.**  <br>• Vàng da, phù 2 chân, báng bụng.                                                 | Xơ gan, Viêm gan cấp/mạn nặng, Suy gan cấp.                                                                  |
+| 2       | Hội chứng Tăng áp lực tĩnh mạch cửa     | Có ít nhất 2 dấu hiệu sau:  <br>• Tuần hoàn bàng hệ kiểu cửa - chủ.  <br>• Báng bụng (dịch thấm, SAAG ≥ 1.1 g/dL).  <br>• Lách to.  <br>• Tiền căn vỡ giãn TMTQ / Trĩ.                                     | Xơ gan, Tắc tĩnh mạch cửa, Hội chứng Budd-Chiari.                                                            |
+| 3       | Hội chứng Xuất huyết tiêu hóa TRÊN      | • Nôn ra máu (tươi/bầm/bã cà phê) HOẶC Tiêu phân đen bóng hôi khắm.  <br>• Thăm trực tràng: Phân đen bóng theo găng.  <br>• Bắt buộc kèm: Mức độ (Nhẹ/TB/Nặng) và Trạng thái (Đang diễn tiến / Tạm ngưng). | Loét dạ dày-tá tràng, Vỡ giãn TMTQ, Viêm dạ dày xuất huyết, Hội chứng Mallory-Weiss.                         |
+| 4       | Hội chứng Xuất huyết tiêu hóa DƯỚI      | • Đi tiêu máu đỏ tươi, máu đỏ bầm, hoặc phân lẫn máu cục.  <br>• Không nôn ra máu, không đau thượng vị.                                                                                                    | Trĩ, Polyp đại trực tràng, Ung thư đại trực tràng, Viêm loét đại trực tràng, Viêm túi thừa.                  |
+| 5       | Hội chứng Tắc mật (Trong/Ngoại gan)     | Có đầy đủ cụm dấu hiệu:  <br>• Vàng da, vàng mắt sậm.  <br>• Nước tiểu sậm màu như nước trà đậm.  <br>• Phân bạc màu (nếu tắc hoàn toàn).  <br>• Ngứa da, Bilirubin trực tiếp tăng ưu thế (>50%).          | Sỏi mật (sỏi OMC), Ung thư đầu tụy, Ung thư đường mật, U bóng Vater, Hẹp đường mật.                          |
+| 6       | Tam chứng Charcot                       | Xuất hiện đúng trình tự thời gian 3 triệu chứng:  <br>Đau hạ sườn phải → Sốt (lạnh run) → Vàng da (mỗi triệu chứng cách nhau 12-24h).                                                                      | Nhiễm trùng đường mật do sỏi OMC.                                                                            |
+| 7       | Ngũ chứng Reynolds                      | Tam chứng Charcot + Tụt huyết áp/Choáng + Rối loạn tri giác (lơ mơ, lú lẫn).                                                                                                                               | Sốc nhiễm trùng đường mật (Cấp cứu ngoại khoa/nội soi).                                                      |
+| 8       | Tam chứng Fontan                        | Sốt + Đau hạ sườn phải + Gan to (ấn đau / rung gan +).                                                                                                                                                     | Áp-xe gan amip.                                                                                              |
+| 9       | Hội chứng Báng bụng (Cổ trướng)         | • Lâm sàng: Bụng to bè/tròn, gõ đục vùng thấp / gõ đục di chuyển (+), dấu sóng vỗ (+).  <br>• Siêu âm: Có dịch tự do trong khoang màng bụng.                                                               | Xơ gan, Suy tim, Hội chứng Thận hư, Lao màng bụng, Ung thư màng bụng.                                        |
+| 10      | Hội chứng Tắc ruột (Tứ chứng kinh điển) | Đau bụng quặn từng cơn + Nôn ói + Bí trung đại tiện + Bụng chướng (gõ vang, quai ruột nổi/dấu rắn bò +).                                                                                                   | Tắc ruột cơ học (dính ruột, u đại tràng, xoắn ruột) hoặc Tắc ruột cơ năng.                                   |
+| 11      | Hội chứng Viêm phúc mạc                 | • Đau bụng liên tục dữ dội.  <br>• Khám có Đề kháng thành bụng / Co cứng thành bụng (+) hoặc Cảm ứng phúc mạc (+).                                                                                         | Thủng tạng rỗng (thủng ổ loét dạ dày-tá tràng), Viêm ruột thừa thủng, Viêm phúc mạc nhiễm khuẩn nguyên phát. |
+| 12      | Hội chứng Kém hấp thu                   | Tiêu chảy mạn tính (phân sệt, nhiều, mùi khắm, mỡ) + Sụt cân, suy dinh dưỡng, thiếu máu, phù do giảm đạm.                                                                                                  | Bệnh Sprue, Viêm tụy mạn, Viêm ruột mạn (Crohn), Sau phẫu thuật cắt ngắn ruột.                               |
+#### **Lưu ý:**
+- **Báng bụng**: định hướng 3 cơ chế
+	1. Tăng áp cửa: là cơ chế chủ đạo gây báng bụng, vì vậy rất dễ gom thành hội chứng
+	2. HC suy tế bào gan: chỉ là cơ chế phụ, bắt buộc phải đi kèm với **Sao mạch, lòng bàn tay son, móng Terry, xuất huyết dưới da** (dấu chỉ suy tế bào gan → Bụng to là do suy tế bào gan)
+	3. Đặt vấn đề biện luận riêng
+
+### **3. Ví dụ Tóm tắt bệnh án & Đặt vấn đề mẫu Trại Tiêu hóa**
+
+#### **Ví dụ 1: Bệnh nhân Xuất huyết tiêu hóa do Vỡ giãn TMTQ / Xơ gan**
+
+Bệnh nhân nam 52 tuổi, tiền căn Xơ gan do rượu 3 năm, nhập viện vì nôn ra máu tươi lượng nhiều. Tóm tắt ghi nhận: Nôn ra máu tươi ~500 ml, tiêu phân đen sệt. Mạch 115 lần/phút, HA 90/60 mmHg, niêm nhạt, vã mồ hôi. Bụng to bè, gõ đục vùng thấp (+), tuần hoàn bàng hệ cửa-chủ (+), sao mạch ở ngực (+), lòng bàn tay son (+).
+
+|   |
+|---|
+|**ĐẶT VẤN ĐỀ CHUẨN LÂM SÀNG (VÍ DỤ 1)  <br>  <br>**<br><br>1. Choáng mất máu cấp / Xuất huyết tiêu hóa trên mức độ nặng, đang diễn tiến (Nôn máu tươi ~500ml, tiêu phân đen, M 115 l/p, HA 90/60 mmHg, niêm nhạt).<br><br>2. Hội chứng Tăng áp lực tĩnh mạch cửa (Tuần hoàn bàng hệ cửa-chủ, báng bụng).<br><br>3. Hội chứng Suy tế bào gan (Sao mạch, lòng bàn tay son, niêm nhạt).<br><br>4. Tiền căn Xơ gan do rượu.|
+
+#### **Ví dụ 2: Bệnh nhân Nhiễm trùng đường mật do Sỏi OMC**
+
+Bệnh nhân nữ 60 tuổi, nhập viện vì đau bụng và sốt. Tóm tắt ghi nhận: Đau quặn hạ sườn phải từ 2 ngày trước, sau đó sốt cao 39°C có lạnh run, hôm nay gia đình thấy mắt và da vàng sậm. Khám: Sốt 38.8°C, củng mạc mắt vàng sậm, ấn đau chói hạ sườn phải, điểm Murphy (+), ấn kẽ sườn (-). Nước tiểu sậm màu như trà đậm, phân bạc màu nhẹ.
+
+|   |
+|---|
+|**ĐẶT VẤN ĐỀ CHUẨN LÂM SÀNG (VÍ DỤ 2)  <br>  <br>**<br><br>1. Tam chứng Charcot (Đau hạ sườn phải → Sốt lạnh run → Vàng da).<br><br>2. Hội chứng Tắc mật ngoại gan (Vàng da sậm, nước tiểu trà đậm, phân bạc màu nhẹ, Bilirubin trực tiếp tăng).<br><br>3. Tiền căn Sỏi túi mật.|
+
+
+
 
 ## Trại Thận - Tiết niệu
 
@@ -109,11 +171,11 @@ Gợi ý bệnh phổi:
 * Ho khan
 * Ho có đàm (mủ xanh/vàng/đàm bọt hồng)
 * Ho ra máu (khái huyết)
-* , Đau ngực kiểu màng phổi (tăng khi hít sâu/ho/xoay trở), 
+* , Đau ngực kiểu màng phổi (tăng khi hít sâu/ho/xoay trở),
 * Khò khè
 * Tiếng thở rít.
 
-#### **Triệu chứng thực thể:** 
+#### **Triệu chứng thực thể:**
 
 Thở nhanh (>30 lần/phút), SpO2 < 90% (khí trời), Co kéo cơ hô hấp phụ (hõm ức, liên sườn), Nói ngắt quãng, Xanh tím môi/đầu chi, Vã mồ hôi, Lồng ngực hình thùng, Lồng ngực di động kém một bên, Rung thanh tăng/giảm, Gõ đục/vang, Rì rào phế nang giảm/mất, Ran nổ, Ran ẩm, Ran rít, Ran ngáy, Tiếng thở rít (Stridor), Tiếng cọ màng phổi.
 
