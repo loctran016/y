@@ -1,5 +1,5 @@
 ## 1. Xác định THA
-![2026 KHUYẾN CÁO HỘI TIM MẠCH HỌC VỀ CHẨN ĐOÁN VÀ QUẢN LÝ THA (Trang 15)](Tăng HA-1791453510356.webp)
+![2026 KHUYẾN CÁO HỘI TIM MẠCH HỌC VỀ CHẨN ĐOÁN VÀ QUẢN LÝ THA - Trang 15](Tăng HA-1791453510356.webp)
 
 Chú thích: Huyết áp được xác định dựa trên giá trị trung bình của ít nhất 2 lần
 đo đúng kỹ thuật trong mỗi lần khám, thực hiện ở ít nhất 2 lần khám khác nhau và cách nhau ít nhất 1 phút.
@@ -19,21 +19,27 @@ người cao tuổi, ĐTĐ hoặc dùng đa thuốc để phát hiện hạ/THA 
 
 ## 2. Phân độ THA
 
-### 1. Cơn THA cấp cứu
+### a. Cơn THA cấp cứu
 
 Là THA độ 3 (Hội Tim Châu Âu 2018) có kèm tổn thương cơ quan đích cấp tính, có thể đe doạ tính mạng bn và cần thiết phải hạ HA ngay lập tức, bao gồm các thể sau:
 
 * Cơn THA ác tính THA độ 3 kèm với hình ảnh soi đáy mắt có XH võng mạc và/hoặc phù gai thị, đông máu nội mạch lan toả, bệnh lý vi mạch và có thể có các biến chứng cấp tính khác đi kèm Tr.chứng như suy tim cấp, bệnh cảnh não, suy thận cấp của bệnh căn nguyên 
    * Tiền sử ngủ ngáy/ngưng thở khi ngủ/bệnh phổi mạn • Nhức đầu từng cơn kèm hồi hộp đánh trống ngực, đỏ bừng mặt (u tủy thượng thận) • Yếu liệt chi, dị cảm (u vỏ thượng thận) • Tiểu gắt, tiểu máu, đau hông lưng… (bệnh lý thận) 
 
-### Khác
+* Sản giật: Cơn THA cấp cứu ở phụ nữ có thai
 
-* Cơn THA khẩn cấp: THA độ 3 nhưng chưa có tổn thương cơ quan đích cấp tính 
-* Sản giật: Cơn THA cấp cứu ở phụ nữ có thai THA tâm thu đơn độc HATT ≥ 140 mmHg và HATTr < 90 mmHg HATT rất cao nhưng HATTr và HATB bình thường. Huyết áp động mạch chủ cũng bình thường. 
+Cơn THA khẩn cấp: THA độ 3 nhưng chưa có tổn thương cơ quan đích cấp tính
 
-THATTr đơn độc HATT < 140 mmHg HATTr ≥ 90 mmHg 
-* THA “áo choàng trắng” HAPK thường xuyên tăng (thường là THA độ 1) trong khi HA hằng ngày hoặc 24h lại bình thường 
-* THA ẩn giấu HAPK bình thường (thường ở mức bình thường cao) nhưng THA ở nơi khác, do đó HA 24h đơn độc tăng THA giả tạo Bn lớn tuổi, 
+### b. THA đơn độc
+ 
+* THA tâm thu đơn độc HATT ≥ 140 mmHg và HATTr < 90 mmHg HATT rất cao nhưng HATTr và HATB bình thường. Huyết áp động mạch chủ cũng bình thường. 
+
+THATTr đơn độc HATT < 140 mmHg HATTr ≥ 90 mmHg
+
+c. THA "áo choàng trắng" và ẩn giấu
+
+* THA “áo choàng trắng”: HAPK thường xuyên tăng (thường là THA độ 1) trong khi HA hằng ngày hoặc 24h lại bình thường 
+* THA ẩn giấu: HAPK bình thường (thường ở mức bình thường cao) nhưng THA ở nơi khác, do đó HA 24h đơn độc tăng THA giả tạo Bn lớn tuổi, 
 
 ### THA kháng trị - HAPK
 
