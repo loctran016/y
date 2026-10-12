@@ -74,7 +74,7 @@ Một cơn tăng huyết áp được xác định là **Tăng huyết áp CẤP
 
 ---
 
-### IV. Đề nghị CLS
+### Đề nghị CLS
 
 Khi tiếp nhận bệnh nhân có huyết áp (≥ 180/120 mmHg), bác sĩ cần nhanh chóng thực hiện :
 
@@ -89,7 +89,7 @@ Khi tiếp nhận bệnh nhân có huyết áp (≥ 180/120 mmHg), bác sĩ cầ
 
 ---
 
-## Nguyên nhân THA
+## IV. Nguyên nhân THA
 
 ### 6 Nguyên nhân thứ phát (5 - 10%)
 
@@ -104,6 +104,7 @@ Nên loại bỏ sơ qua các nguyên nhân THA thứ phát bên cạnh các y�
 - Thuốc lá:
 - Bất dung nạp glucose:
 
+## Phân biệt giữa nguyên nhân và biến chứng tăng huyết áp
 
 ## Biện luận cơn tăng huyết áp cấp cứu
 

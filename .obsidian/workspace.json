@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nội khoa/Tim mạch/Tăng HA.md",
+                "file": "Nội khoa/Thận niệu/Đặt vấn đề LS.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tăng HA"
+              "title": "Đặt vấn đề LS"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "1055a0a416619792",
   "lastOpenFiles": [
-    "Nội khoa/Tim mạch/Suy tim.md",
+    "Nội khoa/Vấn đề/Đau ngực.md",
     "Nội khoa/Tim mạch/Tăng HA.md",
+    "Nội khoa/Tim mạch/Suy tim.md",
     "Tiêu hoá/Sinh lý/Sinh lý Gan.md",
     "Nội khoa/Tiêu hoá/Xơ gan.md",
     "Untitled 1.md",
@@ -239,7 +240,6 @@
     "Nội khoa/Thận niệu",
     "Nội khoa/Lâm sàng/Tăng HA.md",
     "Nội khoa/Lâm sàng/Triệu chứng.md",
-    "KHCB/Dân số/Quy mô và cơ cấu dân số.md",
     "KHCB/Dân số",
     "KHCB",
     "Dược lý/Thuốc KS",
