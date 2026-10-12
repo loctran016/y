@@ -18,6 +18,7 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
+  "rebaseAutoStash": "enabled",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
@@ -26,6 +27,7 @@
   "basePath": "",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
+  "limitToVault": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -44,7 +46,7 @@
     "statusBar": "disabled"
   },
   "lineAuthor": {
-    "show": true,
+    "show": false,
     "followMovement": "inactive",
     "authorDisplay": "initials",
     "showCommitHash": false,
