@@ -5,5 +5,7 @@
   "attachmentFolderPath": "./",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false
 }
