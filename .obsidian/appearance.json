@@ -3,5 +3,6 @@
   "cssTheme": "Cupertino",
   "enabledCssSnippets": [
     "full-width-tables"
-  ]
+  ],
+  "showRibbon": false
 }
