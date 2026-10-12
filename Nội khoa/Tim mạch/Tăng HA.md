@@ -1,5 +1,5 @@
 ## 1. Xác định THA
-![[Tăng HA-1791453510356.webp]]2026 KHUYẾN CÁO HỘI TIM MẠCH HỌC VỀ CHẨN ĐOÁN VÀ QUẢN LÝ THA (Trang 15)
+![2026 KHUYẾN CÁO HỘI TIM MẠCH HỌC VỀ CHẨN ĐOÁN VÀ QUẢN LÝ THA (Trang 15)](Tăng HA-1791453510356.webp)
 
 Chú thích: Huyết áp được xác định dựa trên giá trị trung bình của ít nhất 2 lần
 đo đúng kỹ thuật trong mỗi lần khám, thực hiện ở ít nhất 2 lần khám khác nhau và cách nhau ít nhất 1 phút.
@@ -16,13 +16,29 @@ cố tim mạch. Cần theo dõi bằng HATN/HALĐ để phát hiện và điề
 điều trị kịp thời.
 4. THATTĐĐ phổ biến ở người cao tuổi, cần đo huyết áp tư thế thường quy ở
 người cao tuổi, ĐTĐ hoặc dùng đa thuốc để phát hiện hạ/THA tư thế đứng.
-## 2. Phân loại và phân độ THA
 
-Cơn THA cấp cứu: THA độ 3 có kèm tổn thương cơ quan đích cấp tính, có thể đe doạ tính mạng bn và cần thiết phải hạ HA ngay lập tức Cơn THA ác tính THA độ 3 kèm với hình ảnh soi đáy mắt có XH võng mạc và/hoặc phù gai thị, đông máu nội mạch lan toả, bệnh lý vi mạch và có thể có các biến chứng cấp tính khác đi kèm Tr.chứng như suy tim cấp, bệnh cảnh não, suy thận cấp của bệnh căn nguyên • Tiền sử ngủ ngáy/ngưng thở khi ngủ/bệnh phổi mạn • Nhức đầu từng cơn kèm hồi hộp đánh trống ngực, đỏ bừng mặt (u tủy thượng thận) • Yếu liệt chi, dị cảm (u vỏ thượng thận) • Tiểu gắt, tiểu máu, đau hông lưng… (bệnh lý thận) Cơn THA khẩn cấp THA độ 3 nhưng chưa có tổn thương cơ quan đích cấp tính Sản giật Cơn THA cấp cứu ở phụ nữ có thai THA tâm thu đơn độc HATT ≥ 140 mmHg và HATTr < 90 mmHg 5. Thuốc HA • Thuốc hạ áp đã và đang sử dụng • Bằng chứng về tuân thủ và thiếu tuân thủ điều trị • Hiệu quả và tác dụng phụ của thuốc THA tâm thu đơn độc ở người trẻ tuổi HATT rất cao nhưng HATTr và HATB bình thường. Huyết áp động mạch chủ cũng bình thường. THATTr đơn độc HATT < 140 mmHg HATTr ≥ 90 mmHg 6. Khám • Thể trạng, BMI của bn • Đo HA đúng cách • Các dấu hiệu của bệnh căn nguyên Cushing: vẻ mặt tròn, béo, má ửng hồng, gáy có bướu mỡ Suy giáp: da dày, chậm chạp, vẻ mặt ít linh hoạt Hẹp eo ĐMC: mất cân đối các chi • Các dấu hiệu của tổn thương cơ quan đích Khám tim, bắt mạch hai bên, bắt mạch chi Soi đáy mắt… THA “áo choàng trắng” HAPK thường xuyên tăng (thường là THA độ 1) trong khi HA hằng ngày hoặc 24h lại bình thường THA ẩn giấu HAPK bình thường (thường ở mức bình thường cao) nhưng THA ở nơi khác, do đó HA 24h đơn độc tăng THA giả tạo Bn lớn tuổi, ĐM ngoại biên trở nên cứng nên băng quấn phải có áp lực cao hơn để nén lại  đo HA nội ĐM quay
+## 2. Phân độ THA
+
+### 1. Cơn THA cấp cứu
+
+Là THA độ 3 (Hội Tim Châu Âu 2018) có kèm tổn thương cơ quan đích cấp tính, có thể đe doạ tính mạng bn và cần thiết phải hạ HA ngay lập tức, bao gồm các thể sau:
+
+* Cơn THA ác tính THA độ 3 kèm với hình ảnh soi đáy mắt có XH võng mạc và/hoặc phù gai thị, đông máu nội mạch lan toả, bệnh lý vi mạch và có thể có các biến chứng cấp tính khác đi kèm Tr.chứng như suy tim cấp, bệnh cảnh não, suy thận cấp của bệnh căn nguyên 
+   * Tiền sử ngủ ngáy/ngưng thở khi ngủ/bệnh phổi mạn • Nhức đầu từng cơn kèm hồi hộp đánh trống ngực, đỏ bừng mặt (u tủy thượng thận) • Yếu liệt chi, dị cảm (u vỏ thượng thận) • Tiểu gắt, tiểu máu, đau hông lưng… (bệnh lý thận) 
+
+### Khác
+
+* Cơn THA khẩn cấp: THA độ 3 nhưng chưa có tổn thương cơ quan đích cấp tính 
+* Sản giật: Cơn THA cấp cứu ở phụ nữ có thai THA tâm thu đơn độc HATT ≥ 140 mmHg và HATTr < 90 mmHg HATT rất cao nhưng HATTr và HATB bình thường. Huyết áp động mạch chủ cũng bình thường. 
+
+THATTr đơn độc HATT < 140 mmHg HATTr ≥ 90 mmHg 
+* THA “áo choàng trắng” HAPK thường xuyên tăng (thường là THA độ 1) trong khi HA hằng ngày hoặc 24h lại bình thường 
+* THA ẩn giấu HAPK bình thường (thường ở mức bình thường cao) nhưng THA ở nơi khác, do đó HA 24h đơn độc tăng THA giả tạo Bn lớn tuổi, 
 
 ### THA kháng trị - HAPK
 
-![[Tăng HA-1791454394377.webp|563x330]]
+![](Tăng HA-1791454394377.webp|563x330)
+
 ## Cơn tăng HA cấp
 
 Trong tiếp cận chẩn đoán Nội khoa, khi bệnh nhân có trị số huyết áp tăng rất cao (thường Huyết áp tâm thu > 180mmHg và/hoặc Huyết áp tâm trương > 120mmHg), tình trạng này được gọi chung là **Cơn tăng huyết áp** (*Hypertensive Crisis*) [1, 2].
@@ -45,20 +61,20 @@ Trong tiếp cận chẩn đoán Nội khoa, khi bệnh nhân có trị số huy
 
 ### II. CÁC BIỂU HIỆN TỔN THƯƠNG CƠ QUAN ĐÍCH CẤP TÍNH (Tiêu chuẩn chẩn đoán THA Cấp cứu)
 
-Một cơn tăng huyết áp được xác định là **Tăng huyết áp CẤP CỨU** khi có **ít nhất một** trong các tổn thương cơ quan đích cấp tính sau đây [3, 5]:
+Một cơn tăng huyết áp được xác định là **Tăng huyết áp CẤP CỨU** khi có **ít nhất một** trong các tổn thương cơ quan đích cấp tính sau đây :
 
 1. **Hệ Tim mạch & Mạch máu lớn:**
-   * **Hội chứng mạch vành cấp:** Nhồi máu cơ tim cấp hoặc Đau thắt ngực không ổn định [3, 5].
-   * **Suy tim trái cấp / Phù phổi cấp do tăng huyết áp** [3, 5].
-   * **Bóc tách động mạch chủ ngực cấp tính** [3, 5, 6].
+   * **Hội chứng mạch vành cấp:** Nhồi máu cơ tim cấp hoặc Đau thắt ngực không ổn định .
+   * **Suy tim trái cấp / Phù phổi cấp do tăng huyết áp** .
+   * **Bóc tách động mạch chủ ngực cấp tính** .
 2. **Hệ Thần kinh trung ương:**
    * **Bệnh脑 do tăng huyết áp (*Hypertensive Encephalopathy*):** Phù não cấp gây nhức đầu dữ dội, nôn ói, lơ mơ, lú lẫn, co giật toàn thân [3, 7].
-   * **Đột quỵ não cấp:** Xuất huyết não hoặc Nhồi máu não cấp [3, 5].
+   * **Đột quỵ não cấp:** Xuất huyết não hoặc Nhồi máu não cấp .
    * **Hội chứng PRES** (*Posterior Reversible Encephalopathy Syndrome*) [8].
 3. **Thận:**
-   * **Tổn thương thận cấp (AKI):** Hoại tử dạng sợi các mạch máu nhỏ ở thận, Creatinine máu tăng nhanh đột ngột, tiểu ít, đạm niệu/tiểu máu [3, 5, 9].
+   * **Tổn thương thận cấp (AKI):** Hoại tử dạng sợi các mạch máu nhỏ ở thận, Creatinine máu tăng nhanh đột ngột, tiểu ít, đạm niệu/tiểu máu .
 4. **Mắt (Đáy mắt):**
-   * **Bệnh võng mạc ác tính / Tăng huyết áp ác tính (*Malignant Hypertension*):** Soi đáy mắt ghi nhận xuất huyết võng mạc, xuất tiết dạng bông/bản đốm và **phù gai thị** (Độ 3, 4 theo Keith-Wagener-Barker) [3, 5, 10].
+   * **Bệnh võng mạc ác tính / Tăng huyết áp ác tính (*Malignant Hypertension*):** Soi đáy mắt ghi nhận xuất huyết võng mạc, xuất tiết dạng bông/bản đốm và **phù gai thị** (Độ 3, 4 theo Keith-Wagener-Barker) .
 5. **Sản khoa:**
    * **Tiền sản giật nặng** hoặc **Sản giật** ở phụ nữ có thai [3].
 
