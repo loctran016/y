@@ -1,3 +1,4 @@
+::details{summary="Lí thuyết"}
 ## Đại cương
 
 Tắc nghẽn hô hấp dưới là tình trạng suy giảm lưu lượng khí lưu thông xảy ra tại thanh - khí quản, phế quản hoặc các tiểu phế quản. 
@@ -125,19 +126,21 @@ Các tiếng khò khè được phân biệt dựa vào:
 
 ---
 
+::
+
 ## Các bước tiếp cận chẩn đoán trên lâm sàng
 
-### Khẳng định hội chứng tắc nghẽn và vị trí tắc nghẽn
+## Khẳng định hội chứng tắc nghẽn và vị trí tắc nghẽn
 Dựa vào bộ dấu hiệu lâm sàng đặc trưng:
 - Khò khè, rít thanh quản.
 - Ứ khí ở phổi (giảm âm phế bào đối xứng hai bên, gõ vang).
 - Khám nghe ran rít, ran ngáy lan tỏa hai phế trường.
 
-### Đánh giá dấu hiệu suy hô hấp và thái độ xử trí cấp cứu
+## Đánh giá dấu hiệu suy hô hấp và thái độ xử trí cấp cứu
 - Đánh giá các cờ đỏ suy hô hấp đe doạ tính mạng: nhịp thở > 30 lần/phút, SpO2 < 90%, co kéo cơ hô hấp phụ rõ, vã mồ hôi, nói ngắt quãng không thành câu, rối loạn tri giác hoặc xuất hiện "phổi câm".
 - Thao tác cấp cứu ban đầu: Khai thông đường thở, thở oxy duy trì SpO2, phun khí dung thuốc dãn phế quản tác dụng ngắn (SABA) ngay lập tức nếu nghi ngờ đợt cấp hen hoặc COPD.
 
-### Xác định vị trí và nguyên nhân tắc nghẽn
+## Xác định vị trí và nguyên nhân tắc nghẽn
 Dựa vào các đặc tính thăm khám tại giường:
 - Âm sắc tiếng khò khè (đơn âm hay đa âm).
 - Thì hô hấp xuất hiện tiếng ran (thở ra, hít vào hay hai thì).
@@ -146,17 +149,70 @@ Dựa vào các đặc tính thăm khám tại giường:
 
 ---
 
-## Các bệnh lý thường gặp gây hội chứng tắc nghẽn hô hấp dưới
+## Biện luận các bệnh lý thường gặp gây HC tắc nghẽn HH dưới
 
 ### Bệnh phổi tắc nghẽn mạn tính (COPD)
 
 #### Chẩn đoán xác định COPD
-Nghi ngờ ở người trên 40 tuổi có yếu tố nguy cơ (hút thuốc lá, khói bếp, bụi nghề nghiệp) kèm khó thở dai dẳng tăng dần, ho mạn tính, khạc đàm mạn tính. Đo hô hấp ký ghi nhận FEV1/FVC < 0,7 sau test dãn phế quản.
+
+Nghi ngờ ở người trên 40 tuổi có yếu tố nguy cơ (hút thuốc lá, khói bếp, bụi nghề nghiệp) kèm khó thở dai dẳng tăng dần, ho mạn tính, khạc đàm mạn tính.
+
+Chẩn đoán xác định yêu cầu: Đo hô hấp ký ghi nhận FEV1/FVC < 0,7 sau test dãn phế quản.
 
 #### Đánh giá COPD ổn định
+
 Dựa vào mức độ giới hạn luồng khí (GOLD 1–4) kết hợp phân nhóm triệu chứng và nguy cơ đợt cấp (nhóm A, B, C, D) theo thang điểm mMRC hoặc CAT.
 
+Ở bệnh nhân đã được chẩn đoán xác định COPD với chỉ số $\text{FEV}_1/\text{FVC} < 0{,}70$ sau test dãn phế quản, mức độ tắc nghẽn luồng khí được chia làm 4 mức độ dựa vào chỉ số $\text{FEV}_1$ (% so với giá trị dự đoán):
+
+- **GOLD 1 (Nhẹ):** $\text{FEV}_1 \ge 80\%$ giá trị dự đoán].
+- **GOLD 2 (Trung bình):** $50\% \le \text{FEV}_1 < 80\%$ (hoặc $50 - 79\%$) giá trị dự đoán.
+- **GOLD 3 (Nặng):** $30\% \le \text{FEV}_1 < 50\%$ (hoặc $30 - 49\%$) giá trị dự đoán.
+- **GOLD 4 (Rất nặng):** $\text{FEV}_1 < 30\%$ giá trị dự đoán.
+
+Thang điểm khó thở mMRC (modified Medical Research Council)
+
+- **mMRC 0:** Chỉ khó thở khi hoạt động thể lực mạnh.
+- **mMRC 1:** Khó thở khi đi vội trên đường bằng hoặc đi lên dốc nhẹ.
+- **mMRC 2:** Đi chậm hơn người cùng tuổi vì khó thở, hoặc phải dừng lại để thở khi đi bộ trên đường bằng.
+- **mMRC 3:** Phải dừng lại để thở sau khi đi bộ khoảng 100 mét (hoặc sau vài phút) trên đường bằng.
+- **mMRC 4:** Quá khó thở không thể rời khỏi nhà, hoặc khó thở ngay cả khi mặc/thay quần áo.
+
+Thang điểm CAT (COPD Assessment Test)
+
+Bảng câu hỏi gồm 8 mục đánh giá mức độ ảnh hưởng toàn diện của bệnh lên chất lượng cuộc sống (tổng điểm từ 0 đến 40).
+
+Phân ngưỡng triệu chứng:
+
+- **Ít triệu chứng:** mMRC $0 - 1$ **hoặc** CAT $< 10$.
+- **Nhiều triệu chứng:** mMRC $\ge 2$ **hoặc** CAT $\ge 10$.
+
+Phân nhóm nguy cơ đợt cấp (Tiền sử 12 tháng qua)
+
+- **Nguy cơ đợt cấp thấp:** Có **0 hoặc 1 đợt cấp trung bình** trong vòng 12 tháng qua (không dẫn đến nhập viện).
+- **Nguy cơ đợt cấp cao:** Có $\ge 2$ **đợt cấp trung bình** HOẶC $\ge 1$ **đợt cấp nặng dẫn đến nhập viện** trong vòng 12 tháng qua.
+
+Bảng phân nhóm bệnh nhân COPD (Nhóm A, B, C, D)
+
+Sự phối hợp giữa đánh giá triệu chứng và nguy cơ đợt cấp xếp bệnh nhân vào 4 nhóm:
+
+|Nhóm bệnh nhân|Triệu chứng (mMRC / CAT)|Tiền sử đợt cấp (12 tháng qua)|Phân loại nguy cơ & Triệu chứng|
+|---|---|---|---|
+|**Nhóm A**|mMRC $0 - 1$ hoặc CAT $< 10$|0 hoặc 1 đợt cấp _(không nhập viện)_|**Ít triệu chứng, nguy cơ thấp**|
+|**Nhóm B**|mMRC $\ge 2$ hoặc CAT $\ge 10$|0 hoặc 1 đợt cấp _(không nhập viện)_|**Nhiều triệu chứng, nguy cơ thấp**|
+|**Nhóm C**|mMRC $0 - 1$ hoặc CAT $< 10$|$\ge 2$ đợt cấp **hoặc** $\ge 1$ đợt cấp nhập viện|**Ít triệu chứng, nguy cơ cao**|
+|**Nhóm D**|mMRC $\ge 2$ hoặc CAT $\ge 10$|$\ge 2$ đợt cấp **hoặc** $\ge 1$ đợt cấp nhập viện|**Nhiều triệu chứng, nguy cơ cao**|
+
+---
+
+Mô hình chẩn đoán tổng thể cho bệnh nhân COPD ổn định phối hợp mức độ giới hạn đường dẫn khí và phân nhóm lâm sàng:
+
+$$\text{COPD} \ - \ \text{GOLD [1–4]} \ - \ \text{Nhóm [A/B/C/D]}$$
+
+_Ví dụ chẩn đoán:_ **Bệnh phổi tắc nghẽn mạn tính (COPD) - GOLD 2 - Nhóm B** _(ở bệnh nhân có_ $\text{FEV}_1 = 65\%$_, điểm mMRC = 2, không có đợt cấp nào nhập viện trong năm qua)_.
+
 #### Chẩn đoán đợt cấp COPD và phân độ nặng
+
 Đợt cấp là sự biến cố biến đổi cấp tính của các triệu chứng hô hấp (tăng khó thở, tăng lượng đàm và đàm chuyển thành đàm mủ). Phân độ nặng dựa vào mức độ suy hô hấp và nhu cầu hỗ trợ thông khí.
 
 ---
@@ -165,7 +221,6 @@ Dựa vào mức độ giới hạn luồng khí (GOLD 1–4) kết hợp phân 
 
 #### Chẩn đoán hen
 Dựa vào đặc điểm triệu chứng hô hấp thay đổi theo thời gian và độ nặng (ho, khó thở, khò khè, nặng ngực) kết hợp bằng chứng giới hạn luồng khí thở ra dao động trên hô hấp ký (FEV1 tăng > 12% và > 200 mL sau test dãn phế quản).
-
 #### Đánh giá kiểm soát triệu chứng hen
 Đánh giá mức độ kiểm soát trong 4 tuần trước đó (kiểm soát tốt, kiểm soát một phần, không kiểm soát) dựa trên tần suất triệu chứng ban ngày, thức giấc về đêm, nhu cầu dùng thuốc cắt cơn và giới hạn hoạt động.
 

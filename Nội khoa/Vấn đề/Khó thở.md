@@ -215,3 +215,11 @@ HƯỚNG BỆNH LÝ TIM MẠCH                                       HƯỚNG B�
        └─ Âm thổi thực thể tại tim ➔ BỆNH VAN TIM                      ├─ Tam chứng Galliard, X-quang trống ➔ TRÀN KHÍ MP
                                                                        └─ Khó thở đột ngột, D-dimer/CTA (+) ➔ THUYÊN TẮC PHỔI
 ```
+
+Thang điểm khó thở mMRC (modified Medical Research Council)
+
+- **mMRC 0:** Chỉ khó thở khi hoạt động thể lực mạnh.
+- **mMRC 1:** Khó thở khi đi vội trên đường bằng hoặc đi lên dốc nhẹ.
+- **mMRC 2:** Đi chậm hơn người cùng tuổi vì khó thở, hoặc phải dừng lại để thở khi đi bộ trên đường bằng.
+- **mMRC 3:** Phải dừng lại để thở sau khi đi bộ khoảng 100 mét (hoặc sau vài phút) trên đường bằng.
+- **mMRC 4:** Quá khó thở không thể rời khỏi nhà, hoặc khó thở ngay cả khi mặc/thay quần áo.
