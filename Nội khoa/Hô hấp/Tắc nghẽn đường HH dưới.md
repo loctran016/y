@@ -177,7 +177,8 @@ Là sự gia tăng cấp tính các triệu chứng và giảm chức năng ph�
 ### Nhiễm khuẩn hô hấp dưới cấp tính
 
 #### Viêm phế quản cấp
-Nhiễm trùng cấp tính đường dẫn khí lớn do virus hoặc vi khuẩn, triệu chứng ho là chủ yếu (có thể kéo dài 1–3 tuần), X-quang ngực bình thường, không có tổn thương thâm nhiễm nhu mô.
+
+Nhiễm trùng cấp tính đường dẫn khí lớn do virus hoặc vi khuẩn, triệu chứng ho là chủ yếu (có thể kéo dài 1–3 tuần), khám phổi không ghi nhận bất thường/bất thường ít và hết sau khi khạc đàm, X-quang ngực bình thường, không có tổn thương thâm nhiễm nhu mô.
 
 #### Viêm phổi mắc phải cộng đồng (CAP)
 Nhiễm trùng cấp tính nhu mô phổi, lâm sàng có sốt, ho khạc đàm mủ, đau ngực màng phổi, khám nghe ran nổ khu trú hoặc hội chứng đông đặc, X-quang ngực có hình ảnh thâm nhiễm/đông đặc nhu mô mới.
