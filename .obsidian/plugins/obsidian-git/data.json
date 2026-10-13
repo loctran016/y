@@ -25,7 +25,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": true,
+  "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "limitToVault": false,
   "showedMobileNotice": true,
@@ -39,7 +39,7 @@
   "dateInHistoryView": false,
   "diffStyle": "split",
   "diffTimeout": 50,
-  "autoStageOnEmptyIndex": false,
+  "autoStageOnEmptyIndex": true,
   "hunks": {
     "showSigns": false,
     "hunkCommands": false,
