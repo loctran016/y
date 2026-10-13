@@ -215,6 +215,52 @@ _Ví dụ chẩn đoán:_ **Bệnh phổi tắc nghẽn mạn tính (COPD) - GOL
 
 Đợt cấp là sự biến cố biến đổi cấp tính của các triệu chứng hô hấp (tăng khó thở, tăng lượng đàm và đàm chuyển thành đàm mủ). Phân độ nặng dựa vào mức độ suy hô hấp và nhu cầu hỗ trợ thông khí.
 
+1. Phân độ nặng theo Mức độ Can thiệp Điều trị
+
+- **Mức độ Nhẹ:** Bệnh nhân chỉ cần điều trị tăng cường bằng thuốc giãn phế quản tác dụng ngắn (SABA) [cite: 35].
+- **Mức độ Trung bình:** Bệnh nhân cần điều trị phối hợp thuốc giãn phế quản tác dụng ngắn (SABA) cùng với kháng sinh và/hoặc corticosteroid uống [cite: 35].
+- **Mức độ Nặng:** Bệnh nhân cần phải nhập viện hoặc thăm khám tại phòng Cấp cứu (thường đi kèm với tình trạng suy hô hấp cấp) [cite: 35].
+
+---
+
+2. Phân độ nặng theo Tiêu chuẩn Anthonisen (Chỉ điểm dùng kháng sinh)
+
+Tiêu chuẩn Anthonisen phân loại đợt cấp thành 3 mức độ dựa trên sự hiện diện của 3 triệu chứng chính (tăng khó thở, tăng thể tích đàm, đàm chuyển thành đàm mủ) [cite: 58]:
+
+- **Loại 1 (Nặng):** Bệnh nhân có đầy đủ **cả 3 triệu chứng chính** [cite: 58].
+- **Loại 2 (Trung bình):** Bệnh nhân có **2 trong 3 triệu chứng chính** [cite: 58].
+- **Loại 3 (Nhẹ):** Bệnh nhân chỉ có **1 triệu chứng chính** kết hợp với ít nhất **1 triệu chứng phụ** (ho, khò khè, sốt không rõ nguyên nhân, nhiễm khuẩn hô hấp trên trong 5 ngày trước, nhịp thở hoặc nhịp tim tăng > 20% so với ban đầu) [cite: 58].
+
+---
+
+3. Phân độ nặng Đợt cấp Nhập viện (Dựa trên Mức độ Suy hô hấp)
+
+Đối với bệnh nhân cần nhập viện, mức độ nặng được phân loại dựa vào các dấu hiệu lâm sàng và kết quả khí máu động mạch [cite: 35]:
+
+A. Không suy hô hấp
+
+- **Nhịp thở:** 20 – 30 lần/phút [cite: 35].
+- **Cơ hô hấp phụ:** Không sử dụng [cite: 35].
+- **Tri giác:** Bình thường, không thay đổi [cite: 35].
+- **Tình trạng Oxy hóa máu:** Giảm oxy có cải thiện khi điều trị oxy liệu pháp qua mặt nạ Venturi ($\text{FiO}_2$ 28 – 35%) [cite: 35].
+- **Khí máu động mạch:** Không tăng $\text{PaCO}_2$ [cite: 35].
+
+B. Suy hô hấp cấp Không đe dọa tính mạng
+
+- **Nhịp thở:** $> 30$ lần/phút [cite: 35].
+- **Cơ hô hấp phụ:** Có co kéo và sử dụng cơ hô hấp phụ [cite: 35].
+- **Tri giác:** Chưa có biến đổi tri giác [cite: 35].
+- **Tình trạng Oxy hóa máu:** Giảm oxy có cải thiện khi điều trị oxy qua mặt nạ Venturi ($\text{FiO}_2$ 28 – 35%) [cite: 35].
+- **Khí máu động mạch:** Có tăng thán ($\text{PaCO}_2$ tăng so với mức cơ bản hoặc tăng lên mức 50 – 60 mmHg) [cite: 35].
+
+C. Suy hô hấp cấp Đe dọa tính mạng
+
+- **Nhịp thở:** $> 30$ lần/phút [cite: 35].
+- **Cơ hô hấp phụ:** Co kéo cơ hô hấp phụ rõ rệt [cite: 35].
+- **Tri giác:** Thay đổi tri giác cấp tính (lơ mơ, ngủ gà, kích thích) [cite: 35].
+- **Tình trạng Oxy hóa máu:** Giảm oxy máu không cải thiện với oxy qua mặt nạ Venturi hoặc đòi hỏi $\text{FiO}_2 > 40\%$ [cite: 35].
+- **Khí máu động mạch:** Tăng thán nặng ($\text{PaCO}_2$ tăng so với mức cơ bản hoặc $\text{PaCO}_2 > 60\text{ mmHg}$) hoặc có xuất hiện toan hô hấp ($\text{pH} \le 7{,}25$) [cite: 35].
+
 ---
 
 ### Hen phế quản
