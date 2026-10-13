@@ -28,7 +28,7 @@ Cơn THA khẩn cấp: THA độ 3 nhưng chưa có tổn thương cơ quan đí
 
 | Tiêu chí phân biệt                   | Tăng huyết áp CẤP CỨU (*Hypertensive Emergency*)                                                                                          | Tăng huyết áp KHẨN CẤP / KHẨN TRƯƠNG (*Hypertensive Urgency*)                                                             |
 | :----------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
-| **Trị số Huyết áp**                  | Thường **(≥ 180/120 mmHg})** (Tăng huyết áp độ 3) .                                                                                    | Thường **(≥ 180/120 mmHg)** (Tăng huyết áp độ 3) .                                                                     |
+| **Trị số Huyết áp**                  | Thường **(≥ 180/120 mmHg)** (Tăng huyết áp độ 3) .                                                                                    | Thường **(≥ 180/120 mmHg)** (Tăng huyết áp độ 3) .                                                                     |
 | **Tổn thương cơ quan đích cấp tính** | **CÓ** biến chứng tổn thương cơ quan đích cấp tính, đe dọa tính mạng người bệnh [2, 3].                                                   | **KHÔNG CÓ** tổn thương cơ quan đích cấp tính .                                                                        |
 | **Triệu chứng lâm sàng**             | Rầm rộ tùy thuộc vào cơ quan bị tổn thương: Đau ngực dữ dội, khó thở cấp, lơ mơ, co giật, yếu liệt chi, nhìn mờ đột ngột, tiểu ít [3, 4]. | Thường không có triệu chứng hoặc chỉ có triệu chứng nhẹ/không đặc hiệu: Nhức đầu nhẹ, choáng váng, hồi hộp, lo âu [3, 4]. |
 | **Nơi điều trị**                     | **Bắt buộc nhập viện khẩn cấp** (Khoa Cấp cứu / ICU) [2, 3].                                                                              | Không nhất thiết phải nhập viện, có thể xử trí và theo dõi tại phòng cấp cứu/ngoại trú .                               |
@@ -105,6 +105,186 @@ Nên loại bỏ sơ qua các nguyên nhân THA thứ phát bên cạnh các y�
 - Bất dung nạp glucose:
 
 ## Phân biệt giữa nguyên nhân và biến chứng tăng huyết áp
+
+### **1. Đặt vấn đề & Bản chất sinh lý bệnh: Mối quan hệ hai chiều ("Vòng xoắn bệnh lý")**
+
+Giải thích ngắn gọn: Cả hai chiều đều có thể xảy ra trên lâm sàng.
+
+- **Chiều 1 (Thận là NGUYÊN NHÂN / Yếu tố khởi phát):** Suy thận / Bệnh thận có từ trước  → Tăng huyết áp thứ phát  → Bùng phát Cơn tăng huyết áp cấp cứu.
+- **Chiều 2 (Thận là BIẾN CHỨNG / Cơ quan đích bị tổn thương):** Tăng huyết áp cấp cứu  → Hoại tử dạng sợi tiểu động mạch vào tại thận  → Suy thận cấp / Tổn thương thận cấp (AKI) hoặc Tăng huyết áp ác tính.
+
+---
+
+### **2. So sánh & Phân biệt cụ thể (Nguyên nhân vs Biến chứng)**
+
+#### **Trường hợp A: Suy thận là NGUYÊN NHÂN thúc đẩy Tăng huyết áp cấp cứu (THA thứ phát)**
+
+- **Bản chất:** Bệnh nhân đã có **Bệnh thận mạn (CKD)** hoặc bệnh lý nhu mô/mạch máu thận từ trước. Do giảm bài tiết muối nước, kích hoạt hệ RAAS và tăng sức cản mạch máu ngoại biên, huyết áp tăng cao đề kháng và bùng phát cơn THA cấp cứu.
+- **Đặc điểm Cận lâm sàng (CLS) chìa khóa để xác định THẬN LÀ NGUYÊN NHÂN:**
+    1. **Siêu âm thận (Bụi/Doppler):**
+        - Kích thước 2 thận **teo nhỏ (< 8 - 9 cm)**, ranh giới vỏ - tủy mờ, nhu mô mỏng, tăng âm rõ (sẹo hóa nhu mô).
+        - Hoặc siêu âm Doppler thấy **hẹp động mạch thận** (vận tốc đỉnh tâm thu PSV tăng cao, chỉ số trở kháng RI bất thường).
+    2. **Xét nghiệm Sinh hóa & Máu:**
+        - Creatinine/BUN **tăng cao mãn tính** (có giá trị so sánh trước đây).
+        - Thiếu máu mạn tính (đẳng sắc đẳng bào do giảm sản xuất Erythropoietin).
+        - Rối loạn điện giải mạn: Tăng Kali máu, hạ Calci máu, tăng Phosphat máu, tăng PTH.
+    3. **Tổng phân tích nước tiểu / Đạm niệu:**
+        - **Protein niệu nặng / đạm niệu ngưỡng thận hư** ((> 3,5 g/24h)) hoặc có cặn lắng nước tiểu mạn tính (trụ rộng, hồng cầu biến dạng).
+
+---
+
+#### **Trường hợp B: Tăng huyết áp cấp cứu thúc đẩy SUY THẬN (Thận là BIẾN CHỨNG cơ quan đích cấp tính)**
+
+- **Bản chất:** Huyết áp tăng vọt cực cao ((≥ 180/120 mmHg)) vượt quá khả năng tự điều hòa của động mạch thận  → gây hoại tử dạng sợi (fibrinoid necrosis) tiểu động mạch vào  → thiếu máu cục bộ bộ lọc cầu thận  → **Tổn thương thận cấp (AKI)** hoặc **Tăng huyết áp ác tính (Malignant Hypertension)**.
+- **Đặc điểm Cận lâm sàng (CLS) chìa khóa để xác định THẬN LÀ BIẾN CHỨNG:**
+    1. **Siêu âm thận:**
+        - Kích thước 2 thận **hoàn toàn bình thường (9 - 12 cm)**, nhu mô dày, phân biệt vỏ - tủy rõ ràng (bằng chứng cấu trúc thận hoàn toàn khỏe mạnh trước khi cơn huyết áp cấp cứu xảy ra).
+    2. **Xét nghiệm Sinh hóa & Máu (Diễn tiến cấp tính):**
+        - **Creatinine huyết thanh tăng vọt đột ngột** (≥ 0,3 mg/dL) trong 48h hoặc tăng ≥ 50%) so với nền).
+        - **Phết máu ngoại biên (Peripheral blood smear):** Thấy **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu, tăng LDH, giảm haptoglobin  → Bằng chứng của Bệnh mạch máu nhỏ tán huyết (MAHA) trong THA ác tính.
+    3. **Tổng phân tích nước tiểu:**
+        - Tiểu máu vi thể/đại thể, Protein niệu **mức độ nhẹ đến trung bình** thường (< 1 - 2 g/24h), có thể thấy trụ hạt.
+    4. **Soi đáy mắt (Tổn thương cơ quan đích cấp tính đi kèm):**
+        - Xuất huyết, xuất tiết võng mạc hoặc **phù gai thị 2 bên** (Độ III - IV Keith-Wagener-Barker)  → Khẳng định tổn thương vi mạch cấp tính toàn thân do THA ác tính/cấp cứu.
+
+---
+
+### 3. Sinh lý bệnh
+
+1. **Chiều 1: Suy thận / Bệnh thận mạn là NGUYÊN NHÂN thúc đẩy THA cấp cứu (THA thứ phát)**
+    
+    - Bệnh nhân có bệnh lý nhu mô thận mạn tính hoặc hẹp động mạch thận từ trước.
+    - Giảm diện tích lọc và ứ đọng Natri/nước + Kích hoạt hệ RAAS mạnh mẽ  → Tăng thể tích tuần hoàn và tăng sức cản ngoại biên  → Huyết áp tăng rất cao, kháng trị và dễ bùng phát cơn **Tăng huyết áp cấp cứu**.
+2. **Chiều 2: THA cấp cứu thúc đẩy SUY THẬN (Biến chứng tổn thương cơ quan đích cấp tính)**
+    
+    - Huyết áp tăng đột ngột cực cao (≥ 180/120 mmHg)) vượt quá ngưỡng tự điều hòa của mạch máu thận.
+    - Áp lực cao xé rách nội mạc, gây **hoại tử dạng sợi (fibrinoid necrosis)** các tiểu động mạch vào tại thận  → Thiếu máu cục bộ bộ lọc cầu thận và hoại tử ống thận cấp  → Diễn tiến thành **Tổn thương thận cấp (AKI) / THA ác tính**.
+
+---
+
+### 4. Phân biệt dựa trên CLS
+
+Để phân định rõ ràng trên bệnh nhân cụ thể, bác sĩ dựa vào **4 nhóm CLS then chốt**:
+
+
+
+|Chỉ số Cận lâm sàng (CLS)|SUY THẬN LÀ NGUYÊN NHÂN (Bệnh thận thứ phát gây THA)|SUY THẬN LÀ BIẾN CHỨNG (THA cấp cứu gây tổn thương thận cấp)|
+|:--|:--|:--|
+|**Siêu âm bụng / Siêu âm thận**|Kích thước thận **teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, mất phân biệt vỏ - tủy.|Kích thước thận **bình thường ((9 - 12 cm))**, nhu mô bình thường.|
+|**Siêu âm Doppler mạch thận**|Có thể phát hiện **Hẹp động mạch thận** (PSV tăng, hẹp lòng mạch).|Mạch máu thận lớn bình thường; chỉ có biến đổi vi mạch nhỏ.|
+|**Creatinine huyết thanh & eGFR**|Tăng mạn tính, tiến triển chậm qua nhiều tháng/năm.|**Tăng vọt cấp tính** trong vài giờ/vài ngày (Tổn thương thận cấp - AKI).|
+|**Công thức máu & Phết máu**|Thiếu máu mạn tính (đẳng sắc đẳng bào).|Có thể thấy **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu (MAHA).|
+|**Đạm niệu / Protein niệu 24h**|Thường **thể đạm niệu cao / ngưỡng thận hư ((> 3{,5 g/24h))**.|Thường đạm niệu **nhẹ đến trung bình ((< 1 - 2 g/24h))**.|
+|**Soi đáy mắt (Keith-Wagener)**|Mức độ I - II (co nhỏ tiểu động mạch, bắt chéo động-tĩnh mạch).|**Mức độ III - IV (Xuất huyết, xuất tiết, Phù gai thị)**.|
+
+
+#### 1. Siêu âm Thận (Hình ảnh học cấu trúc) – CLS quan trọng nhất để phân biệt Mạn vs Cấp
+
+- **Nếu Thận là NGUYÊN NHÂN (Bệnh thận mạn có từ trước):**
+    - Siêu âm thấy **kích thước 2 thận teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, tăng âm rõ, mất ranh giới vỏ - tủy (dấu hiệu sẹo hóa nhu mô mạn tính).
+    - Hoặc Siêu âm Doppler mạch thận phát hiện **Hẹp động mạch thận** (vận tốc PSV tăng cao, chỉ số trở kháng RI bất thường).
+- **Nếu Thận là BIẾN CHỨNG (Tổn thương thận cấp do THA cấp cứu):**
+    - Siêu âm thấy **kích thước 2 thận bình thường ((9 - 12 cm))**, nhu mô dày, ranh giới vỏ - tủy rõ ràng. Điều này chứng tỏ cấu trúc thận hoàn toàn khỏe mạnh trước khi cơn huyết áp cấp cứu bùng phát.
+
+#### 2. Xét nghiệm Sinh hóa & Công thức máu
+
+- **Nếu Thận là NGUYÊN NHÂN:**
+    - Creatinine / eGFR đã có bất thường mạn tính từ trước (so sánh với hồ sơ cũ).
+    - Kèm các bằng chứng suy thận mạn: **Thiếu máu mạn tính** (đẳng sắc đẳng bào do giảm Erythropoietin), tăng Kali máu, hạ Calci máu, tăng Phosphat máu.
+- **Nếu Thận là BIẾN CHỨNG (Tổn thương thận cấp - AKI):**
+    - **Creatinine tăng vọt cấp tính** (≥ 0{,3 mg/dL) trong 48 giờ hoặc tăng ≥ 50%) so với mức nền).
+    - **Phết máu ngoại biên:** Phát hiện **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu, tăng LDH (bằng chứng của bệnh vi mạch máu tán huyết MAHA trong THA ác tính).
+
+#### 3. Tổng phân tích nước tiểu & Đạm niệu
+
+- **Nếu Thận là NGUYÊN NHÂN:**
+    - Đạm niệu nặng / **Protein niệu ngưỡng thận hư ((> 3{,5 g/24h))** hoặc có trụ rộng, trụ hồng cầu biến dạng trong bệnh cầu thận mạn.
+- **Nếu Thận là BIẾN CHỨNG:**
+    - Protein niệu chỉ ở mức **nhẹ đến trung bình ((< 1 - 2 g/24h))**, kèm tiểu máu vi thể và trụ hạt.
+
+#### 4. Soi đáy mắt (Khảo sát tổn thương vi mạch toàn thân)
+
+- **Nếu THA cấp cứu đang gây tổn thương cơ quan đích cấp tính tại thận:**
+    - Soi đáy mắt thường ghi nhận **Tổn thương mắt độ III - IV** (Keith-Wagener-Barker): Xuất huyết võng mạc, xuất tiết dạng bông, hoặc **phù gai thị 2 bên**. Đây là bằng chứng vàng cho thấy huyết áp đang tàn phá hệ thống vi mạch toàn thân (bao gồm cả mạch máu thận).
+
+
+---
+
+### 5. NGUYÊN TẮC TƯ DUY RÚT RA TẠI GIƯỜNG BỆNH
+
+1. **So sánh với CLS nền (Baseline):** Dữ liệu CLS cũ (Creatinine nền, kết quả siêu âm cũ) là "chìa khóa vàng" để xác định bản chất cấp hay mạn.
+2. **Hình ảnh học (Siêu âm) phân định cấu trúc:** Thận teo = Bệnh mạn (Nguyên nhân); Thận kích thước bình thường = Tổn thương cấp (Biến chứng).
+3. **Thái độ xử trí:**
+    - Nếu là **THA cấp cứu gây biến chứng thận cấp**: Bắt buộc hạ huyết áp nhanh chóng bằng **thuốc truyền tĩnh mạch** (giảm MAP không quá 20-25% trong giờ đầu) để bảo toàn phế nang cầu thận còn lại.
+    - Nếu là **Bệnh thận mạn đợt bùng phát THA**: Hạ huyết áp cẩn trọng hơn, tránh hạ quá nhanh gây giảm tưới máu thận làm nặng thêm tình trạng suy thận.
+
+L
+
+### I. BẢN CHẤT SINH LÝ BỆNH CỦA HAI HƯỚNG
+
+1. **Suy thận / Bệnh thận mạn là NGUYÊN NHÂN thúc đẩy THA cấp cứu (THA thứ phát):**
+    
+    - Bệnh nhân có sẵn bệnh lý nhu mô thận mạn tính hoặc bệnh mạch máu thận [cite: 14, 15, 55].
+    - Sự giảm bài tiết muối nước (quá tải thể tích) phối hợp với sự kích hoạt hệ Renin-Angiotensin-Aldosterone (RAAS) làm tăng sức cản mạch máu [cite: 14, 75]. Tình trạng này khiến huyết áp tăng cao tiến triển, kháng trị và dễ bùng phát thành cơn **Tăng huyết áp cấp cứu** [cite: 14, 75].
+2. **THA cấp cứu thúc đẩy SUY THẬN (Biến chứng tổn thương cơ quan đích cấp tính):**
+    
+    - Trị số huyết áp tăng đột ngột cực cao (thường ≥ 180/120 mmHg)) vượt quá khả năng tự điều hòa của động mạch thận [cite: 11, 12].
+    - Áp lực dòng máu xé rách nội mạc, gây **hoại tử dạng sợi (fibrinoid necrosis)** các tiểu động mạch vào tại thận  → Thiếu máu cục bộ bộ lọc cầu thận và hoại tử ống thận cấp  → Xuất hiện **Tổn thương thận cấp (AKI) / THA ác tính** [cite: 12, 17, 19].
+
+---
+
+### II. PHÂN BIỆT BẰNG CÁC XÉT NGHIỆM CẬN LÂM SÀNG (CLS) THEN CHỐT
+
+#### 1. Siêu âm Thận (Khảo sát hình ảnh học cấu trúc) – CLS quan trọng nhất để phân biệt Cấp vs. Mạn
+
+- **Nếu Thận là NGUYÊN NHÂN (Bệnh thận mạn có từ trước):**
+    - Kích thước 2 thận **teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, tăng âm rõ, mất phân biệt vỏ - tủy (dấu hiệu sẹo hóa nhu mô mạn tính) [cite: 22, 71].
+    - Hoặc siêu âm Doppler mạch thận phát hiện **Hẹp động mạch thận** (vận tốc đỉnh tâm thu PSV tăng cao, chỉ số trở kháng RI bất thường) [cite: 15, 22].
+- **Nếu Thận là BIẾN CHỨNG (Tổn thương thận cấp do THA cấp cứu):**
+    - Kích thước 2 thận **hoàn toàn bình thường ((9 - 12 cm))**, nhu mô dày, ranh giới vỏ - tủy rõ ràng [cite: 71]. Bằng chứng này khẳng định cấu trúc thận hoàn toàn khỏe mạnh trước khi cơn huyết áp cấp cứu bùng phát [cite: 71].
+
+#### 2. Xét nghiệm Sinh hóa & Công thức máu
+
+- **Nếu Thận là NGUYÊN NHÂN:**
+    - Creatinine / eGFR đã có bất thường mạn tính từ trước khi so sánh với hồ sơ cũ [cite: 19].
+    - Kèm các chỉ điểm suy thận mạn: **Thiếu máu mạn tính** (đẳng sắc đẳng bào do giảm sản xuất Erythropoietin), tăng Kali máu, hạ Calci máu, tăng Phosphat máu [cite: 2, 19].
+- **Nếu Thận là BIẾN CHỨNG (Tổn thương thận cấp - AKI):**
+    - **Creatinine huyết thanh tăng vọt đột ngột** (≥ 0{,3 mg/dL) trong 48 giờ hoặc tăng ≥ 50%) so với mức nền) [cite: 17, 19].
+    - **Phết máu ngoại biên:** Phát hiện **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu, tăng LDH  → Bằng chứng của Bệnh mạch máu nhỏ tán huyết (MAHA) trong THA ác tính [cite: 12].
+
+#### 3. Tổng phân tích nước tiểu & Đạm niệu 24 giờ
+
+- **Nếu Thận là NGUYÊN NHÂN:**
+    - Đạm niệu nặng / **Protein niệu ngưỡng thận hư ((> 3{,5 g/24h))** hoặc có cặn lắng nước tiểu mạn tính (trụ rộng, trụ hồng cầu biến dạng trong bệnh cầu thận mạn).
+- **Nếu Thận là BIẾN CHỨNG:**
+    - Protein niệu chỉ ở mức **nhẹ đến trung bình (thường (< 1 - 2 g/24h))**, kèm tiểu máu vi thể và trụ hạt [cite: 19, 74].
+
+#### 4. Soi đáy mắt (Khảo sát tổn thương vi mạch toàn thân)
+
+- **Nếu THA cấp cứu đang gây tổn thương cơ quan đích cấp tính tại thận:**
+    - Soi đáy mắt thường ghi nhận **Tổn thương mắt độ III - IV (Keith-Wagener-Barker)**: Xuất huyết võng mạc, xuất tiết dạng bông, hoặc **phù gai thị 2 bên** [cite: 12, 17, 18]. Đây là bằng chứng khẳng định huyết áp đang tàn phá hệ thống vi mạch toàn thân (bao gồm cả mạch máu thận) [cite: 12, 17].
+
+---
+
+### III. BẢNG TỔNG HỢP ĐỐI CHIẾU CẬN LÂM SÀNG (CLS)
+
+|Chỉ số Cận lâm sàng (CLS)|SUY THẬN LÀ NGUYÊN NHÂN*(Bệnh thận thứ phát gây THA)*|SUY THẬN LÀ BIẾN CHỨNG*(THA cấp cứu gây tổn thương thận cấp)*|
+|:--|:--|:--|
+|**Siêu âm bụng / Siêu âm thận** [cite: 22, 71]|Kích thước thận **teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, mất phân biệt vỏ - tủy [cite: 71].|Kích thước thận **bình thường ((9 - 12 cm))**, nhu mô bình thường [cite: 71].|
+|**Siêu âm Doppler mạch thận** [cite: 15, 22]|Có thể phát hiện **Hẹp động mạch thận** (PSV tăng, hẹp lòng mạch) [cite: 15, 22].|Mạch máu thận lớn bình thường; chỉ tổn thương vi mạch nhỏ [cite: 12, 22].|
+|**Creatinine huyết thanh & eGFR** [cite: 17, 19]|Tăng mạn tính, tiến triển chậm qua nhiều tháng/năm [cite: 19].|**Tăng vọt cấp tính** trong vài giờ/vài ngày (AKI) [cite: 17, 19].|
+|**Công thức máu & Phết máu** [cite: 12, 19]|Thiếu máu mạn tính (đẳng sắc đẳng bào) [cite: 19].|Phát hiện **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu (MAHA) [cite: 12].|
+|**Đạm niệu / Protein niệu 24h** [cite: 19, 74]|Thường **đạm niệu cao / ngưỡng thận hư ((> 3{,5 g/24h))** [cite: 19, 74].|Thường đạm niệu **nhẹ đến trung bình ((< 1 - 2 g/24h))** [cite: 19].|
+|**Soi đáy mắt (Keith-Wagener)** [cite: 12, 17, 18]|Mức độ I - II (co nhỏ tiểu động mạch, bắt chéo ĐM-TM) [cite: 18].|**Mức độ III - IV (Xuất huyết, xuất tiết, Phù gai thị)** [cite: 12, 17, 18].|
+
+---
+
+### IV. Xử trí
+
+1. **So sánh với CLS nền (Baseline):** Việc tra cứu lại Creatinine nền hoặc kết quả siêu âm cũ là "chìa khóa vàng" phân định bản chất.
+2. **Quyết định thái độ xử trí:**
+    - Nếu **THA cấp cứu gây tổn thương thận cấp**: Bắt buộc phải hạ huyết áp khẩn cấp bằng **thuốc tĩnh mạch** (giảm MAP không quá 20–25% trong giờ đầu) để cứu vãn các đơn vị cầu thận.
+    - Nếu **Bệnh thận mạn có đợt THA bùng phát**: Cần hạ huyết áp thận trọng hơn, tránh hạ quá nhanh làm giảm áp lực tưới máu thận làm nặng thêm tình trạng suy thận.
 
 ## Biện luận cơn tăng huyết áp cấp cứu
 
