@@ -223,13 +223,13 @@ L
 
 1. **Suy thận / Bệnh thận mạn là NGUYÊN NHÂN thúc đẩy THA cấp cứu (THA thứ phát):**
 
-   - Bệnh nhân có sẵn bệnh lý nhu mô thận mạn tính hoặc bệnh mạch máu thận [cite: 14, 15, 55].
-   - Sự giảm bài tiết muối nước (quá tải thể tích) phối hợp với sự kích hoạt hệ Renin-Angiotensin-Aldosterone (RAAS) làm tăng sức cản mạch máu [cite: 14, 75]. Tình trạng này khiến huyết áp tăng cao tiến triển, kháng trị và dễ bùng phát thành cơn **Tăng huyết áp cấp cứu** [cite: 14, 75].
+   - Bệnh nhân có sẵn bệnh lý nhu mô thận mạn tính hoặc bệnh mạch máu thận .
+   - Sự giảm bài tiết muối nước (quá tải thể tích) phối hợp với sự kích hoạt hệ Renin-Angiotensin-Aldosterone (RAAS) làm tăng sức cản mạch máu . Tình trạng này khiến huyết áp tăng cao tiến triển, kháng trị và dễ bùng phát thành cơn **Tăng huyết áp cấp cứu** .
 
 2. **THA cấp cứu thúc đẩy SUY THẬN (Biến chứng tổn thương cơ quan đích cấp tính):**
 
-   - Trị số huyết áp tăng đột ngột cực cao (thường ≥ 180/120 mmHg)) vượt quá khả năng tự điều hòa của động mạch thận [cite: 11, 12].
-   - Áp lực dòng máu xé rách nội mạc, gây **hoại tử dạng sợi (fibrinoid necrosis)** các tiểu động mạch vào tại thận → Thiếu máu cục bộ bộ lọc cầu thận và hoại tử ống thận cấp → Xuất hiện **Tổn thương thận cấp (AKI) / THA ác tính** [cite: 12, 17, 19].
+   - Trị số huyết áp tăng đột ngột cực cao (thường ≥ 180/120 mmHg)) vượt quá khả năng tự điều hòa của động mạch thận .
+   - Áp lực dòng máu xé rách nội mạc, gây **hoại tử dạng sợi (fibrinoid necrosis)** các tiểu động mạch vào tại thận → Thiếu máu cục bộ bộ lọc cầu thận và hoại tử ống thận cấp → Xuất hiện **Tổn thương thận cấp (AKI) / THA ác tính** .
 
 ---
 
@@ -238,44 +238,44 @@ L
 #### Siêu âm Thận (Khảo sát hình ảnh học cấu trúc) – CLS quan trọng nhất để phân biệt Cấp vs. Mạn
 
 - **Nếu Thận là NGUYÊN NHÂN (Bệnh thận mạn có từ trước):**
-  - Kích thước 2 thận **teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, tăng âm rõ, mất phân biệt vỏ - tủy (dấu hiệu sẹo hóa nhu mô mạn tính) [cite: 22, 71].
-  - Hoặc siêu âm Doppler mạch thận phát hiện **Hẹp động mạch thận** (vận tốc đỉnh tâm thu PSV tăng cao, chỉ số trở kháng RI bất thường) [cite: 15, 22].
+  - Kích thước 2 thận **teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, tăng âm rõ, mất phân biệt vỏ - tủy (dấu hiệu sẹo hóa nhu mô mạn tính) .
+  - Hoặc siêu âm Doppler mạch thận phát hiện **Hẹp động mạch thận** (vận tốc đỉnh tâm thu PSV tăng cao, chỉ số trở kháng RI bất thường) .
 - **Nếu Thận là BIẾN CHỨNG (Tổn thương thận cấp do THA cấp cứu):**
-  - Kích thước 2 thận **hoàn toàn bình thường ((9 - 12 cm))**, nhu mô dày, ranh giới vỏ - tủy rõ ràng [cite: 71]. Bằng chứng này khẳng định cấu trúc thận hoàn toàn khỏe mạnh trước khi cơn huyết áp cấp cứu bùng phát [cite: 71].
+  - Kích thước 2 thận **hoàn toàn bình thường ((9 - 12 cm))**, nhu mô dày, ranh giới vỏ - tủy rõ ràng . Bằng chứng này khẳng định cấu trúc thận hoàn toàn khỏe mạnh trước khi cơn huyết áp cấp cứu bùng phát .
 
 #### Xét nghiệm Sinh hóa & Công thức máu
 
 - **Nếu Thận là NGUYÊN NHÂN:**
-  - Creatinine / eGFR đã có bất thường mạn tính từ trước khi so sánh với hồ sơ cũ [cite: 19].
-  - Kèm các chỉ điểm suy thận mạn: **Thiếu máu mạn tính** (đẳng sắc đẳng bào do giảm sản xuất Erythropoietin), tăng Kali máu, hạ Calci máu, tăng Phosphat máu [cite: 2, 19].
+  - Creatinine / eGFR đã có bất thường mạn tính từ trước khi so sánh với hồ sơ cũ .
+  - Kèm các chỉ điểm suy thận mạn: **Thiếu máu mạn tính** (đẳng sắc đẳng bào do giảm sản xuất Erythropoietin), tăng Kali máu, hạ Calci máu, tăng Phosphat máu .
 - **Nếu Thận là BIẾN CHỨNG (Tổn thương thận cấp - AKI):**
-  - **Creatinine huyết thanh tăng vọt đột ngột** (≥ 0{,3 mg/dL) trong 48 giờ hoặc tăng ≥ 50%) so với mức nền) [cite: 17, 19].
-  - **Phết máu ngoại biên:** Phát hiện **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu, tăng LDH → Bằng chứng của Bệnh mạch máu nhỏ tán huyết (MAHA) trong THA ác tính [cite: 12].
+  - **Creatinine huyết thanh tăng vọt đột ngột** (≥ 0{,3 mg/dL) trong 48 giờ hoặc tăng ≥ 50%) so với mức nền) .
+  - **Phết máu ngoại biên:** Phát hiện **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu, tăng LDH → Bằng chứng của Bệnh mạch máu nhỏ tán huyết (MAHA) trong THA ác tính .
 
 #### Tổng phân tích nước tiểu & Đạm niệu 24 giờ
 
 - **Nếu Thận là NGUYÊN NHÂN:**
   - Đạm niệu nặng / **Protein niệu ngưỡng thận hư ((> 3{,5 g/24h))** hoặc có cặn lắng nước tiểu mạn tính (trụ rộng, trụ hồng cầu biến dạng trong bệnh cầu thận mạn).
 - **Nếu Thận là BIẾN CHỨNG:**
-  - Protein niệu chỉ ở mức **nhẹ đến trung bình (thường (< 1 - 2 g/24h))**, kèm tiểu máu vi thể và trụ hạt [cite: 19, 74].
+  - Protein niệu chỉ ở mức **nhẹ đến trung bình (thường (< 1 - 2 g/24h))**, kèm tiểu máu vi thể và trụ hạt .
 
 #### Soi đáy mắt (Khảo sát tổn thương vi mạch toàn thân)
 
 - **Nếu THA cấp cứu đang gây tổn thương cơ quan đích cấp tính tại thận:**
-  - Soi đáy mắt thường ghi nhận **Tổn thương mắt độ III - IV (Keith-Wagener-Barker)**: Xuất huyết võng mạc, xuất tiết dạng bông, hoặc **phù gai thị 2 bên** [cite: 12, 17, 18]. Đây là bằng chứng khẳng định huyết áp đang tàn phá hệ thống vi mạch toàn thân (bao gồm cả mạch máu thận) [cite: 12, 17].
+  - Soi đáy mắt thường ghi nhận **Tổn thương mắt độ III - IV (Keith-Wagener-Barker)**: Xuất huyết võng mạc, xuất tiết dạng bông, hoặc **phù gai thị 2 bên** . Đây là bằng chứng khẳng định huyết áp đang tàn phá hệ thống vi mạch toàn thân (bao gồm cả mạch máu thận) .
 
 ---
 
 ### BẢNG TỔNG HỢP ĐỐI CHIẾU CẬN LÂM SÀNG (CLS)
 
-| Chỉ số Cận lâm sàng (CLS)                          | SUY THẬN LÀ NGUYÊN NHÂN*(Bệnh thận thứ phát gây THA)*                                       | SUY THẬN LÀ BIẾN CHỨNG*(THA cấp cứu gây tổn thương thận cấp)*                   |
-| :------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
-| **Siêu âm bụng / Siêu âm thận** [cite: 22, 71]     | Kích thước thận **teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, mất phân biệt vỏ - tủy [cite: 71]. | Kích thước thận **bình thường ((9 - 12 cm))**, nhu mô bình thường [cite: 71].   |
-| **Siêu âm Doppler mạch thận** [cite: 15, 22]       | Có thể phát hiện **Hẹp động mạch thận** (PSV tăng, hẹp lòng mạch) [cite: 15, 22].           | Mạch máu thận lớn bình thường; chỉ tổn thương vi mạch nhỏ [cite: 12, 22].       |
-| **Creatinine huyết thanh & eGFR** [cite: 17, 19]   | Tăng mạn tính, tiến triển chậm qua nhiều tháng/năm [cite: 19].                              | **Tăng vọt cấp tính** trong vài giờ/vài ngày (AKI) [cite: 17, 19].              |
-| **Công thức máu & Phết máu** [cite: 12, 19]        | Thiếu máu mạn tính (đẳng sắc đẳng bào) [cite: 19].                                          | Phát hiện **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu (MAHA) [cite: 12]. |
-| **Đạm niệu / Protein niệu 24h** [cite: 19, 74]     | Thường **đạm niệu cao / ngưỡng thận hư ((> 3{,5 g/24h))** [cite: 19, 74].                   | Thường đạm niệu **nhẹ đến trung bình ((< 1 - 2 g/24h))** [cite: 19].            |
-| **Soi đáy mắt (Keith-Wagener)** [cite: 12, 17, 18] | Mức độ I - II (co nhỏ tiểu động mạch, bắt chéo ĐM-TM) [cite: 18].                           | **Mức độ III - IV (Xuất huyết, xuất tiết, Phù gai thị)** [cite: 12, 17, 18].    |
+| Chỉ số Cận lâm sàng (CLS)         | SUY THẬN LÀ NGUYÊN NHÂN*(Bệnh thận thứ phát gây THA)*                             | SUY THẬN LÀ BIẾN CHỨNG*(THA cấp cứu gây tổn thương thận cấp)*         |
+| :-------------------------------- | :-------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| **Siêu âm bụng / Siêu âm thận**   | Kích thước thận **teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, mất phân biệt vỏ - tủy . | Kích thước thận **bình thường ((9 - 12 cm))**, nhu mô bình thường .   |
+| **Siêu âm Doppler mạch thận**     | Có thể phát hiện **Hẹp động mạch thận** (PSV tăng, hẹp lòng mạch) .               | Mạch máu thận lớn bình thường; chỉ tổn thương vi mạch nhỏ .           |
+| **Creatinine huyết thanh & eGFR** | Tăng mạn tính, tiến triển chậm qua nhiều tháng/năm .                              | **Tăng vọt cấp tính** trong vài giờ/vài ngày (AKI) .                  |
+| **Công thức máu & Phết máu**      | Thiếu máu mạn tính (đẳng sắc đẳng bào) .                                          | Phát hiện **mảnh vỡ hồng cầu (schistocytes)**, giảm tiểu cầu (MAHA) . |
+| **Đạm niệu / Protein niệu 24h**   | Thường **đạm niệu cao / ngưỡng thận hư ((> 3{,5 g/24h))** .                       | Thường đạm niệu **nhẹ đến trung bình ((< 1 - 2 g/24h))** .            |
+| **Soi đáy mắt (Keith-Wagener)**   | Mức độ I - II (co nhỏ tiểu động mạch, bắt chéo ĐM-TM) .                           | **Mức độ III - IV (Xuất huyết, xuất tiết, Phù gai thị)** .            |
 
 ---
 
