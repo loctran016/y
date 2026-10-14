@@ -1,8 +1,8 @@
-## I. Điều phối, dự trữ và lọc máu
+## Điều phối, dự trữ và lọc máu
 
 Gan là tạng lớn nhất trong cơ thể con người (trọng lượng khoảng 1.2 – 1.5 kg), đóng vai trò là trung tâm chuyển hóa, giải độc, nội tiết và ngoại tiết quan trọng nhất. Gan nhận máu từ hai nguồn chính: Tĩnh mạch cửa cung cấp khoảng 70 – 80% thể tích máu (mang chất dinh dưỡng và độc chất hấp thu từ ống tiêu hóa) và Động mạch gan riêng cung cấp 20 – 30% thể tích máu còn lại (giàu oxy nuôi dưỡng mô gan).
 
-### 1. Dự trữ máu
+### Dự trữ máu
 
 ![Sinh](Sinh%20lý%20Gan-1790599411891.webp)
 
@@ -20,7 +20,7 @@ Gan duy trì 1 ASTT gần như hằng định thông qua 2 cơ chế:
 
 Kích thích GC/Sốc: gây co ĐM gan và ĐM tạng thông qua thụ thể alpha & beta → giảm tưới máu đến gan => Nguy cơ tổn thương vùng III (quanh TM tiểu thuỳ trung tâm)
 
-### 2. Lọc máu
+### Lọc máu
 
 ![](Sinh%20lý%20Gan-1790600421540.webp)
 
@@ -30,7 +30,7 @@ TB Ito (hình sao) ở khoang Disse: chứa vitamin A. Khi xơ gan, TB Ito tạo
 
 TB Kuffer ở xoang gan: diệt khuẩn
 
-### 3. Dịch TM & dịch BH
+### Dịch TM & dịch BH
 
 Các TB gan tạo ra các protein di chuyển trong khoảng Disse:
 
@@ -172,7 +172,7 @@ Trong xơ gan, lượng NH3 trong máu tăng lên do :
 2. giảm tổng hợp Ure gây ứ NH3
 3. **Khi BN bị táo bón:** NH3 ứ lại ở đại tràng và tăng tái hấp thu → <u>xơ gan mất bù</u>
 
-### 3. Chức năng thải độc
+### Chức năng thải độc
 
 Chuyển hóa thuốc: mạnh nhất ở vùng 3 (quanh TM tiểu thuỳ trung tâm)
 Phase I liên quan đến quá trình oxy hóa, khử hoặc thủy phân → các hợp chất trung gian → phản ứng của phase II để bất hoạt các phân tử và khiến chúng dễ hòa tan hơn trong nước.
@@ -220,7 +220,7 @@ Mỗi ngày tế bào gan bài tiết khoảng 700 – 1100 mL dịch mật. D�
 
 - **Pha II (Phản ứng liên hợp):** Gắn các phân tử cực (Glucuronic acid, Sulfate, Glutathione, Glycine) vào chất trung gian ở Pha I để vô hiệu hóa độc tính và tăng tính tan trong nước.
 
-### 6. Chức năng tạo Bilirubin
+### Chức năng tạo Bilirubin
 
 Bilirubin là sản phẩm thoái hóa cuối cùng của Heme (thành phần chứa sắt của Hemoglobin và các Hemo-protein khác). Quá trình tổng hợp, chuyển hóa và thanh thải Bilirubin diễn ra theo một chu trình khép kín liên quan giữa hệ lưới nội mô, dòng máu, gan, đường mật, ruột và thận.
 

@@ -1,4 +1,4 @@
-## I. CƠ CHẾ SINH LÝ BỆNH & PHÂN LOẠI TỔNG QUAN
+## CƠ CHẾ SINH LÝ BỆNH & PHÂN LOẠI TỔNG QUAN
 
 Khó thở (Dyspnea) là cảm giác chủ quan của bệnh nhân về sự không thoải mái hoặc khó khăn trong quá trình hít thở.
 
@@ -14,7 +14,7 @@ Về mặt sinh lý bệnh, khó thở xuất phát từ sự mất cân bằng 
 
 ---
 
-<!-- ## II. BẢNG SO SÁNH TỔNG QUAN: KHÓ THỞ DO TIM VS. KHÓ THỞ DO PHỔI -->
+<!-- ## BẢNG SO SÁNH TỔNG QUAN: KHÓ THỞ DO TIM VS. KHÓ THỞ DO PHỔI -->
 
 Dưới đây là tổng hợp các bệnh lý tim và phổi thường gặp gây khó thở, được mô tả chi tiết về **đặc điểm khó thở** và **các triệu chứng đi kèm** theo đúng định dạng bạn yêu cầu:
 
@@ -26,52 +26,52 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 
 ---
 
-### 1. Khó thở thì hít vào (Inspiratory Dyspnea)
+### Khó thở thì hít vào (Inspiratory Dyspnea)
 
-* **Vị trí tổn thương:** Tắc nghẽn hoặc hẹp đường dẫn khí lớn **ngoài lồng ngực** (vùng thanh quản và khí quản đoạn ngoài lồng ngực) [cite: 30, 31, 37].
-* **Cơ chế:** Khi hít vào, áp lực âm trong đường thở làm đoạn đường thở bị hẹp ở ngoài lồng ngực bị xẹp lại thêm, gây cản trở dòng khí đi vào phổi [cite: 31, 34].
-* **Đặc điểm lâm sàng:** 
-  * Kéo dài thời gian hít vào so với thở ra [cite: 31].
-  * Nghe được **tiếng rít thanh quản (stridor)** âm cao, nghe rõ ở thì hít vào tại vùng cổ/khí quản [cite: 31, 37].
-  * Bệnh nhân thường có tư thế ngồi ngửa đầu ra sau [cite: 31].
-* **Các bệnh lý thường gặp:**
-  * Dị vật đường thở vùng thanh - khí quản ngoài lồng ngực [cite: 30, 32].
-  * Phù thanh quản (do sốc phản vệ, dị ứng) [cite: 30].
-  * Viêm thanh quản, viêm nắp thanh môn, nhiễm virus đường hô hấp trên [cite: 30].
-  * U thanh quản, liệt dây thanh hai bên, hẹp thanh quản [cite: 30, 32].
-  * Áp-xe sau hầu, phì đại amidan [cite: 30].
-
----
-
-### 2. Khó thở thì thở ra (Expiratory Dyspnea)
-
-* **Vị trí tổn thương:** Tắc nghẽn hoặc hẹp các đường dẫn khí nhỏ **trong lồng ngực** (phế quản nhỏ dưới 2 mm, tiểu phế quản) không có sụn nâng đỡ [cite: 30, 31].
-* **Cơ chế:** Trong thì thở ra, áp lực trong lồng ngực tăng cao làm ép dẹp các đường dẫn khí nhỏ đang bị viêm/co thắt, làm gia tăng lực cản và cản trở dòng khí đi ra [cite: 31, 32].
-* **Đặc điểm lâm sàng:** 
-  * **Thở ra kéo dài** (thời gian thở ra kéo dài gấp 2–3 lần thì hít vào, hoặc thời gian thở ra kéo dài hơn 6–9 giây) [cite: 31, 33].
-  * Nghe phổi có tiếng **khò khè (wheezing)**, **ran rít, ran ngáy** lan tỏa hai phế trường [cite: 31, 33, 37].
-  * Bệnh nhân thường ngồi cúi người ra trước (**Tư thế ba chân - tripod position**), thở chúm môi, co kéo cơ bụng và cơ liên sườn ở thì thở ra [cite: 31, 33].
-* **Các bệnh lý thường gặp:**
-  * **Hen phế quản** (đợt cấp hen phế quản) [cite: 30, 33, 42].
-  * **Bệnh phổi tắc nghẽn mạn tính (COPD)** [cite: 30, 33, 39].
-  * Viêm tiểu phế quản [cite: 30, 38].
-  * Giãn phế quản [cite: 30].
+- **Vị trí tổn thương:** Tắc nghẽn hoặc hẹp đường dẫn khí lớn **ngoài lồng ngực** (vùng thanh quản và khí quản đoạn ngoài lồng ngực) [cite: 30, 31, 37].
+- **Cơ chế:** Khi hít vào, áp lực âm trong đường thở làm đoạn đường thở bị hẹp ở ngoài lồng ngực bị xẹp lại thêm, gây cản trở dòng khí đi vào phổi [cite: 31, 34].
+- **Đặc điểm lâm sàng:**
+  - Kéo dài thời gian hít vào so với thở ra [cite: 31].
+  - Nghe được **tiếng rít thanh quản (stridor)** âm cao, nghe rõ ở thì hít vào tại vùng cổ/khí quản [cite: 31, 37].
+  - Bệnh nhân thường có tư thế ngồi ngửa đầu ra sau [cite: 31].
+- **Các bệnh lý thường gặp:**
+  - Dị vật đường thở vùng thanh - khí quản ngoài lồng ngực [cite: 30, 32].
+  - Phù thanh quản (do sốc phản vệ, dị ứng) [cite: 30].
+  - Viêm thanh quản, viêm nắp thanh môn, nhiễm virus đường hô hấp trên [cite: 30].
+  - U thanh quản, liệt dây thanh hai bên, hẹp thanh quản [cite: 30, 32].
+  - Áp-xe sau hầu, phì đại amidan [cite: 30].
 
 ---
 
-### 3. Khó thở cả hai thì (Inspiratory & Expiratory Dyspnea)
+### Khó thở thì thở ra (Expiratory Dyspnea)
 
-* **Vị trí tổn thương:** 
+- **Vị trí tổn thương:** Tắc nghẽn hoặc hẹp các đường dẫn khí nhỏ **trong lồng ngực** (phế quản nhỏ dưới 2 mm, tiểu phế quản) không có sụn nâng đỡ [cite: 30, 31].
+- **Cơ chế:** Trong thì thở ra, áp lực trong lồng ngực tăng cao làm ép dẹp các đường dẫn khí nhỏ đang bị viêm/co thắt, làm gia tăng lực cản và cản trở dòng khí đi ra [cite: 31, 32].
+- **Đặc điểm lâm sàng:**
+  - **Thở ra kéo dài** (thời gian thở ra kéo dài gấp 2–3 lần thì hít vào, hoặc thời gian thở ra kéo dài hơn 6–9 giây) [cite: 31, 33].
+  - Nghe phổi có tiếng **khò khè (wheezing)**, **ran rít, ran ngáy** lan tỏa hai phế trường [cite: 31, 33, 37].
+  - Bệnh nhân thường ngồi cúi người ra trước (**Tư thế ba chân - tripod position**), thở chúm môi, co kéo cơ bụng và cơ liên sườn ở thì thở ra [cite: 31, 33].
+- **Các bệnh lý thường gặp:**
+  - **Hen phế quản** (đợt cấp hen phế quản) [cite: 30, 33, 42].
+  - **Bệnh phổi tắc nghẽn mạn tính (COPD)** [cite: 30, 33, 39].
+  - Viêm tiểu phế quản [cite: 30, 38].
+  - Giãn phế quản [cite: 30].
+
+---
+
+### Khó thở cả hai thì (Inspiratory & Expiratory Dyspnea)
+
+- **Vị trí tổn thương:**
   1. Tắc nghẽn cố định ở **đường dẫn khí lớn trong lồng ngực** (khí quản lớn, phế quản gốc > 2 mm có sụn) [cite: 30, 31].
   2. Tổn thương bộ phận **trao đổi khí** (phế nang, mô kẽ) hoặc **màng phổi / mạch máu phổi** [cite: 21, 30, 102].
   3. Tình trạng suy hô hấp tiến triển rất nặng [cite: 36, 45, 111].
-* **Cơ chế:** Chỗ hẹp cố định không thay đổi khẩu kính theo thì hô hấp, hoặc do tổn thương nhu mô/màng phổi làm giảm độ giãn nở của phổi và rối loạn trao đổi khí liên tục trong cả hai thì [cite: 31, 34, 102].
-* **Đặc điểm lâm sàng:** Khó thở diễn tiến liên tục cả khi hít vào lẫn thở ra, nhịp thở nhanh nông, co kéo cơ hô hấp phụ rõ rệt [cite: 31, 45, 111].
-* **Các bệnh lý thường gặp:**
-  * **Tắc nghẽn đường thở lớn cố định:** Hẹp khí quản cố định, u khí - phế quản, bướu cổ xâm lấn chèn ép khí quản trong lồng ngực, dị vật phế quản gốc [cite: 30, 32].
-  * **Bệnh lý nhu mô & phế nang:** Viêm phổi mắc phải cộng đồng [cite: 30, 51], Phù phổi cấp / phù phế nang [cite: 30, 108], Bệnh phổi kẽ / Xơ phổi [cite: 30, 102].
-  * **Bệnh lý màng phổi & Mạch máu:** Tràn dịch màng phổi lượng nhiều [cite: 21, 22], Tràn khí màng phổi [cite: 30, 106], Thuyên tắc phổi cấp [cite: 30, 105].
-  * **Đợt cấp rất nặng của Hen phế quản hoặc COPD** (khi bệnh nhân rơi vào tình trạng suy hô hấp đe dọa ngưng thở) [cite: 45, 111].
+- **Cơ chế:** Chỗ hẹp cố định không thay đổi khẩu kính theo thì hô hấp, hoặc do tổn thương nhu mô/màng phổi làm giảm độ giãn nở của phổi và rối loạn trao đổi khí liên tục trong cả hai thì [cite: 31, 34, 102].
+- **Đặc điểm lâm sàng:** Khó thở diễn tiến liên tục cả khi hít vào lẫn thở ra, nhịp thở nhanh nông, co kéo cơ hô hấp phụ rõ rệt [cite: 31, 45, 111].
+- **Các bệnh lý thường gặp:**
+  - **Tắc nghẽn đường thở lớn cố định:** Hẹp khí quản cố định, u khí - phế quản, bướu cổ xâm lấn chèn ép khí quản trong lồng ngực, dị vật phế quản gốc [cite: 30, 32].
+  - **Bệnh lý nhu mô & phế nang:** Viêm phổi mắc phải cộng đồng [cite: 30, 51], Phù phổi cấp / phù phế nang [cite: 30, 108], Bệnh phổi kẽ / Xơ phổi [cite: 30, 102].
+  - **Bệnh lý màng phổi & Mạch máu:** Tràn dịch màng phổi lượng nhiều [cite: 21, 22], Tràn khí màng phổi [cite: 30, 106], Thuyên tắc phổi cấp [cite: 30, 105].
+  - **Đợt cấp rất nặng của Hen phế quản hoặc COPD** (khi bệnh nhân rơi vào tình trạng suy hô hấp đe dọa ngưng thở) [cite: 45, 111].
 
 ## Nguyên nhân gây khó thở
 
@@ -129,9 +129,9 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
   - **Đặc điểm khó thở:** Khó thở mạn tính tiến triển từ từ, tăng lên khi gắng sức.
   - **Triệu chứng kèm theo:** Ho khan dai dẳng, ngón tay dùi trống, nghe phổi có **ran nổ khô rải rác hai đáy phổi** ở cuối thì hít vào (tiếng bóc băng dính - velcro rales).
 
-## II. Khó thở do tim
+## Khó thở do tim
 
-### 1. Suy tim cấp / Phù phổi cấp do tim (Acute Heart Failure / Acute Pulmonary Edema)
+### Suy tim cấp / Phù phổi cấp do tim (Acute Heart Failure / Acute Pulmonary Edema)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -143,7 +143,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 - **BNP < 100 pg/mL** hoặc **NT-proBNP < 125 pg/mL** (giá trị tiên đoán âm rất cao).
 - Khám phổi trong, không tĩnh mạch cổ nổi, không phù chi, ECG và X-quang ngực hoàn toàn bình thường.
 
-### 2. Hội chứng mạch vành cấp (ACS - Nhồi máu cơ tim cấp / Đau thắt ngực không ổn định)
+### Hội chứng mạch vành cấp (ACS - Nhồi máu cơ tim cấp / Đau thắt ngực không ổn định)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -155,7 +155,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 - ECG bình thường lặp lại nhiều lần + **hs-Troponin âm tính biến đổi ở thời điểm 0h và 1h/3h**.
 - Cơn đau ngực mang tính chất màng phổi (tăng khi hít sâu/ho) hoặc đau khu trú có điểm ấn đau trên thành ngực.
 
-<!-- ### 3. Chèn ép tim cấp (Cardiac Tamponade)
+<!-- ### Chèn ép tim cấp (Cardiac Tamponade)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
   - **Lâm sàng (Tam chứng Beck):** **Tụt huyết áp + Tĩnh mạch cổ nổi + Tiếng tim mờ**.
@@ -165,7 +165,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
   - Siêu âm tim không có dịch màng ngoài tim hoặc không có dấu đè sụp các buồng tim.
   - Huyết áp ổn định, tĩnh mạch cổ không nổi, tiếng tim T1, T2 nghe rõ. -->
 
-### 3. Bệnh van tim mạn tính (Hẹp/Hở 2 lá, 3 lá, Hẹp van động mạch chủ)
+### Bệnh van tim mạn tính (Hẹp/Hở 2 lá, 3 lá, Hẹp van động mạch chủ)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -179,9 +179,9 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 
 ---
 
-## IV. Khó thở do hô hấp
+## Khó thở do hô hấp
 
-### 1. Hen phế quản (Asthma)
+### Hen phế quản (Asthma)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -194,7 +194,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 - Khó thở mạn tính liên tục, diễn tiến tăng dần, không có tính chất kịch phát hay biến mất hoàn toàn ngoài cơn.
 - Hô hấp ký không có rối loạn thông khí tắc nghẽn và Test dãn phế quản âm tính hoàn toàn.
 
-### 2. Bệnh phổi tắc nghẽn mạn tính (COPD)
+### Bệnh phổi tắc nghẽn mạn tính (COPD)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -205,7 +205,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 - Người trẻ không có tiền căn hút thuốc/tiếp xúc khói bụi; triệu chứng khó thở hoàn toàn hồi phục trở về bình thường giữa các đợt.
 - Hô hấp ký sau test dãn phế quản có (FEV_1/FVC ge 0,70).
 
-### 3. Viêm phổi mắc phải cộng đồng (CAP)
+### Viêm phổi mắc phải cộng đồng (CAP)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -216,7 +216,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 - X-quang ngực thẳng phổi trong, hoàn toàn không có tổn thương thâm nhiễm nhu mô.
 - Khám phổi không có ran nổ khu trú, CRP và Procalcitonin trong giới hạn bình thường.
 
-### 4. Tràn khí màng phổi tự phát (Pneumothorax - PTX)
+### Tràn khí màng phổi tự phát (Pneumothorax - PTX)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -227,7 +227,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 - Khám phổi 2 bên dãn nở đều, gõ trong, rì rào phế nang êm dịu cân đối 2 bên phế trường.
 - X-quang ngực ghi nhận vân phổi ra sát thành ngực ở cả 2 bên.
 
-### 5. Thuyên tắc phổi cấp (Pulmonary Embolism - PE)
+### Thuyên tắc phổi cấp (Pulmonary Embolism - PE)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -238,7 +238,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 - **D-dimer bình thường** ở bệnh nhân có nguy cơ lâm sàng thấp/trung bình (thang điểm Well (le 4)) (rightarrow) Loại trừ thuyên tắc phổi với độ tin cậy (> 98%).
 - CT mạch máu phổi (CTA) không có hình ảnh huyết khối.
 
-### 6. Bệnh phổi kẽ / Xơ phổi (Interstitial Lung Disease - ILD)
+### Bệnh phổi kẽ / Xơ phổi (Interstitial Lung Disease - ILD)
 
 **Yếu tố NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
 
@@ -251,7 +251,7 @@ Tình trạng khó thở trong các bệnh lý hô hấp được phân loại t
 
 ---
 
-## V. SƠ ĐỒ LƯU ĐỒ TƯ DUY XỬ TRÍ LÂM SÀNG TẠI GIƯỜNG
+## SƠ ĐỒ LƯU ĐỒ TƯ DUY XỬ TRÍ LÂM SÀNG TẠI GIƯỜNG
 
 ```
                              BỆNH NHÂN KHÓ THỞ CẤP
