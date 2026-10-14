@@ -1,53 +1,111 @@
-Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần **Đặt vấn đề chuẩn lâm sàng** và **Tiếp cận chẩn đoán theo Giáo trình Nội khoa ĐHYD TP.HCM** cho cả 4 trạm thi lâm sàng (Tiêu hóa, Thận niệu, Hô hấp, Tim mạch và Hội chứng toàn thân khác) [cite: 8, 21].
+## Trạm Tiêu hoá - Gan mật
 
-Đồng thời, **file tài liệu Word (`.docx`)** đã được cập nhật đầy đủ và xuất ra panel **Studio** để bạn có thể tải về và in ấn ôn thi.
-
----
-
-# CẨM NANG ĐẶT VẤN ĐỀ & TIẾP CẬN CHẨN ĐOÁN 4 TRẠI LÂM SÀNG
-
----
-
-## 🏛️ TRẠM I: TIÊU HÓA – GAN MẬT
-
-### 1. Xuất huyết tiêu hóa (XHTH)
-* **Công thức đặt vấn đề:** 
+### Xuất huyết tiêu hóa (XHTH)
+ 
   > **XHTH [Trên/Dưới]** + **mức độ [Nhẹ/Trung bình/Nặng]** + **[Hiện ổn / Tạm ổn / Đang diễn tiến / Tái phát]** + **biến chứng [Choáng mất máu / Suy thận cấp / Bệnh não gan / Chưa ghi nhận biến chứng]**, nghĩ do **[Nguyên nhân nguyên phát]**.
 
-* **Tiếp cận chẩn đoán nguyên nhân (Sách Tiếp cận YDS):**
-  * **Loét dạ dày - tá tràng (do H. pylori / Thuốc):** Nôn ra máu bầm/thức ăn hoặc đi tiêu phân đen bóng hôi khắm, lượng ít hoặc trung bình, không khởi phát đột ngột [cite: 87, 88]. Thường có tiền căn đau thượng vị chu kỳ, nhiễm *H. pylori*, lạm dụng thuốc giảm đau NSAIDs, Corticoid, Aspirin hoặc thuốc kháng đông [cite: 81, 88]. Khám KHÔNG có dấu hiệu của Hội chứng suy tế bào gan hay Tăng áp lực tĩnh mạch cửa [cite: 88].
-  * **Vỡ dãn tĩnh mạch thực quản - dạ dày:** Nôn ra máu tươi đột ngột ồ ạt lượng nhiều, máu sệt không lẫn thức ăn, tiêu phân đỏ bầm hoặc đen [cite: 86, 87]. Tiền căn xơ gan, viêm gan B/C, uống rượu bia nhiều năm [cite: 80, 87]. Thăm khám lâm sàng ghi nhận rõ **Hội chứng suy tế bào gan** và **Hội chứng tăng áp lực tĩnh mạch cửa** [cite: 87].
-  * **Hội chứng Mallory-Weiss:** Rách niêm mạc tâm vị - thực quản xuất hiện sau những đợt nôn ói dữ dội hoặc trớ nhiều lần trước đó (do say rượu, viêm dạ dày ruột cấp, tăng áp lực nội sọ) [cite: 88].
-  * **Khối u ác tính (K dạ dày / K đại trực tràng):** Bệnh nhân lớn tuổi, có **Hội chứng cận ung** (sụt cân nhanh, chán ăn, gầy giuộc), hoặc khám sờ thấy khối u vùng bụng/hạch Virchow hố thượng đòn trái [cite: 81, 86].
-* **Phân định vị trí & mức độ mất máu cấp:**
-  * **Vị trí:** Trên góc Treitz (ói máu, tiêu phân đen) vs. Dưới góc Treitz (tiêu máu đỏ tươi/đỏ bầm) [cite: 44, 83].
-  * **Mức độ:** Nhẹ (mất <15% thể tích, mạch <100 l/p, HA bình thường) [cite: 47, 85]; Trung bình (mất 15–30%, mạch 100–120 l/p, HA giảm nhẹ / tụt HA tư thế) [cite: 47, 85]; Nặng (mất >30%, mạch >120 l/p, HA <90 mmHg, da lạnh vã mồ hôi, thiểu niệu) [cite: 47, 85].
-* **📌 Đề nghị Cận lâm sàng (CLS):** 
-  * *Chẩn đoán & Cầm máu:* Nội soi dạ dày - tá tràng (TQDDTT) cấp cứu / Nội soi đại trực tràng [cite: 91].
-  * *Đánh giá động học mất máu & biến chứng:* Công thức máu động học (Hb, Hct), Cụm đông máu (PT, aPTT, INR, Fibrinogen), Nhóm máu & Phản ứng chéo, BUN/Creatinine (tỷ lệ BUN/Creatinine > 20 gợi ý XHTH trên), Siêu âm bụng tổng quát [cite: 91, 92].
+#### **Phân độ mất máu cấp:**
+
+Mạch và huyết áp là chỉ số tốt nhất để phân độ XHTH, tuy vậy lại dễ bị ảnh hưởng bởi các thuốc (VD: Chẹn beta - BN suy tim) nên cần xem xét thêm TC toàn thân (thường có ý nghĩa hơn khi HBS)
+
+* Nhẹ - *500mL* (mất <15% thể tích, mạch <100 l/p, HA bình thường): Tỉnh, hơi mệt
+* Trung bình - *< 1500mL* (mất 15–30%, mạch 100–120 l/p, HA giảm nhẹ / tụt HA tư thế): **Xây xẩm, đổ mồ hôi, da xanh, niêm nhạt, tiểu ít** + CÓ KHÁT NƯỚC
+* Nặng - *>= 1500mL* (mất >30%, mạch >120 l/p, HA <90 mmHg, da lạnh vã mồ hôi, thiểu niệu): **Hốt hoảng, lơ mơ, Ngất**.
+
+Điều trị tuyến trước ? Bao nhiêu đơn vị HCL (truyền hơn
+1.5L máu thường gặp trong XHTH nặng)
+
+#### **Tiếp cận chẩn đoán nguyên nhân (Sách Tiếp cận YDS):**
+  * **Loét dạ dày - tá tràng (do H. pylori / Thuốc):** Nôn ra máu bầm/thức ăn hoặc đi tiêu phân đen bóng hôi khắm, lượng ít hoặc trung bình, <u>không khởi phát đột ngột</u>. Thường có tiền căn đau thượng vị chu kỳ, nhiễm *H. pylori*, lạm dụng thuốc giảm đau NSAIDs, Corticoid, Aspirin hoặc thuốc kháng đông. Khám KHÔNG có dấu hiệu của Hội chứng suy tế bào gan hay Tăng áp lực tĩnh mạch cửa (Đối với BN có tiền căn không xơ/viêm gan).
+  * **Vỡ dãn tĩnh mạch thực quản - dạ dày:** Nôn ra máu tươi đột ngột ồ ạt lượng nhiều, máu sệt không lẫn thức ăn, tiêu phân đỏ bầm hoặc đen. Tiền căn xơ gan, viêm gan B/C, uống rượu bia nhiều năm. Thăm khám lâm sàng ghi nhận rõ **Hội chứng suy tế bào gan** và **Hội chứng tăng áp lực tĩnh mạch cửa**.
+  * **Khối u ác tính (K dạ dày / K đại trực tràng):** Bệnh nhân lớn tuổi, có **Hội chứng cận ung** (sụt cân nhanh, chán ăn, gầy giuộc), hoặc khám sờ thấy khối u vùng bụng/hạch Virchow hố thượng đòn trái.
+  * **Hội chứng Mallory-Weiss:** Rách niêm mạc tâm vị - thực quản xuất hiện sau những đợt nôn ói dữ dội hoặc trớ nhiều lần trước đó (do say rượu, viêm dạ dày ruột cấp, U não). Thường tự ngừng sau 24 - 48h
+
+#### **📌 Đề nghị Cận lâm sàng (CLS):**
+*CLS Chẩn đoán:* 
+* Hình ảnh học: Nội soi dạ dày - tá tràng (TQDDTT) cấp cứu / Nội soi đại trực tràng. => Kết hợp Xét nghiệm Urease nhanh trên mẫu mô sinh thiết và mô bệnh học (dành cho nghi ngờ nhiễm HP)
+* Máu: Đông cầm máu (PT, aPTT, INR, Fib) + Động học PTTB máu
+
+*CLS thường quy*:
+
+* X-quang ngực thẳng, ECG
+* AST, ALT, Glucose, Creatine
+* PTNT10TS (= TPTNT)
+
+*CLS hỗ trợ điều trị*:
+
+* Nhóm máu
+* Theo dõi CTM (công thứ máu)
+
+#### Ví dụ 
+
+Chẩn đoán sơ bộ
+* XHTH trên mức độ trung bình, đang diễn tiến, nghĩ do vỡ dãn
+TMTQ – dạ dày/ Xơ gan mất bù nghi thuốc + viêm gan siêu vi B
+mạn
+
+Chẩn đoán phân biệt
+* XHTH trên mức độ nặng - đang diễn tiến nghĩ do loét DD-TT/
+Xơ gan mất bù nghi do thuốc + viêm gan siêu vi B mạn (ó thể đã chảy máu rỉ rả âm thầm nhiều ngày trước đó (tiêu phân đen vài lần nhưng bệnh nhân không để ý)
+* XHTH trên mức độ trung bình đang diễn tiến nghĩ do K dạ dày/
+Xơ gan mất bù nghi do thuốc + viêm gan siêu vi B mạn
 
 ---
 
-### 2. Báng bụng (Cổ chướng)
-* **Công thức đặt vấn đề:** 
+### Báng bụng
+
   > **Báng bụng [Lượng ít / Trung bình / Nhiều]** + **[Đơn thuần / Kèm phù chân / Kèm sốt đau bụng]**, nghĩ do **[Nguyên nhân]**.
 
-* **Tiếp cận chẩn đoán nguyên nhân (Sách Tiếp cận YDS):**
-  * **Báng bụng do Tăng áp lực tĩnh mạch cửa (SAAG \\(\ge\\) 1.1 g/dL):** 
-    * *Protein dịch báng < 2.5 g/dL:* Nghĩ nhiều **Xơ gan** đơn thuần hoặc Huyết khối tĩnh mạch cửa muộn [cite: 106].
-    * *Protein dịch báng \\(\ge\\) 2.5 g/dL:* Nghĩ đến nguyên nhân sau gan như **Suy tim sung huyết**, Viêm màng ngoài tim co thắt, Hội chứng Budd-Chiari [cite: 106].
-  * **Báng bụng KHÔNG do Tăng áp cửa (SAAG < 1.1 g/dL):** 
-    * **Lao màng bụng:** Bệnh nhân trẻ/trung niên, tiền căn lao, sốt nhẹ về chiều, sụt cân, đau bụng rịn rịn [cite: 107, 108]. Dịch báng màu vàng chanh, Protein dịch báng cao (\\(\ge\\) 2.5 g/dL), tế bào đếm tăng ưu thế Lympho (>70%), **chỉ số ADA dịch báng tăng cao (>30–40 U/L)** [cite: 58, 108].
-    * **Ung thư màng bụng (K màng bụng):** Người lớn tuổi, sụt cân nhanh, dịch báng màu máu/dưỡng trấp, SAAG < 1.1 g/dL, Protein cao, **Cell Block dịch báng thấy tế bào ác tính** [cite: 108].
-    * **Hội chứng Thận hư:** SAAG < 1.1 g/dL, Protein dịch báng < 2.5 g/dL, đi kèm phù toàn thân [cite: 106].
-* **📌 Đề nghị Cận lâm sàng (CLS):** 
+Phát hiện báng bụng
+* Gõ đục vùng thấp
+* Dấu hiệu vùng đục di chuyển
+* Dấu hiệu sóng vỗ
+
+#### **Phân độ báng bụng:**
+
+Lượng ít: Không tr/c; chỉ phát hiện bằng siêu âm
+
+Lượng trung bình: Bè 2 bên, rốn phẳng, Vùng đục di chuyển, **gõ đục vùng thấp (V>.5L), Dấu sóng vỗ (-)**
+
+Lượng nhiều: Bụng căng to, Rốn lồi, Vùng đục di chuyển, (+/-), **Gõ đục khắp bụng, Dấu sóng vỗ (+) (V>1.5L)**
+
+#### **Tiếp cận chẩn đoán nguyên nhân (Sách Tiếp cận YDS):**
+
+Triệu chứng gợi ý nguyên nhân
+* Hội chứng nhiễm lao chung, ác tính (mệt mỏi, chán ăn, sụt cân, vã mồ hôi trộm về đêm, sốt về chiều..) -> Không do tăng áp cửa (TAC) - Lao màng bụng (thêm tiền căn tiếp xúc lao)
+* Bệnh gan (mệt mỏi, chán ăn, đau hạ sườn hải, vàng da, xuất huyết..) -> Do tăng áp cửa (TAC)
+* Bệnh tim (khó thở, hồi hộp, đau ngực, giảm khả năng gắng sức,..)
+* Bệnh thận (phù, tính chất nước tiểu) -> Không do tăng áp cửa (TAC) - Giảm Alb máu
+* Suy dinh dưỡng (ăn uống kém, sụt cân so với trước, mắc nhiều bệnh mạn tính nặng, nằm viện kéo dài,..) -> Không do tăng áp cửa (TAC) - Giảm Alb máu
+
+
+#### **📌 Đề nghị Cận lâm sàng (CLS):** 
   * *Chọc dò dịch báng xét nghiệm:* Sinh hóa (Albumin dịch báng & huyết tương tính SAAG, Protein toàn phần, LDH, Glucose), Tế bào đếm & phân loại, Soi cấy vi khuẩn, Nhuộm AFB & Test ADA dịch báng, Cell Block [cite: 108].
-  * *Hình ảnh học:* Siêu âm bụng, CT-scan bụng có phản quang, X-quang ngực thẳng [cite: 108].
+  * *Hình ảnh học:* Siêu âm bụng, CT-scan bụng có phản quang, X-quang ngực thẳng.
+
+#### Ví dụ
+
+Chẩn đoán sơ bộ
+* Xơ gan mất bù nghĩ do viêm gan siêu vi B + thuốc
+
+Chẩn đoán phân biệt
+* Lao màng bụng – Xơ gan mất bù do viêm gan siêu vi B
+* K màng bụng- Xơ gan mất bù do viêm gan sieu vi B
+
+#### Kết quả chọc dò dịch báng
+ 
+**Báng bụng do Tăng áp lực tĩnh mạch cửa (SAAG >= 1.1 g/dL):** 
+  * *Protein dịch báng < 2.5 g/dL:* Nghĩ nhiều **Xơ gan** đơn thuần hoặc Huyết khối tĩnh mạch cửa muộn.
+  * *Protein dịch báng >= 2.5 g/dL:* Nghĩ đến nguyên nhân sau gan như **Suy tim sung huyết**, Viêm màng ngoài tim co thắt, Hội chứng Budd-Chiari.
+  * **Báng bụng KHÔNG do Tăng áp cửa (SAAG < 1.1 g/dL):** 
+    * **Lao màng bụng:** Bệnh nhân trẻ/trung niên, tiền căn lao, sốt nhẹ về chiều, sụt cân, đau bụng rịn rịn [cite: 107, 108]. Dịch báng màu vàng chanh, Protein dịch báng cao (>= 2.5 g/dL), tế bào đếm tăng ưu thế Lympho (>70%), **chỉ số ADA dịch báng tăng cao (>30–40 U/L)** [cite: 58, 108].
+    * **Ung thư màng bụng (K màng bụng):** Người lớn tuổi, sụt cân nhanh, dịch báng màu máu/dưỡng trấp, SAAG < 1.1 g/dL, Protein cao, **Cell Block dịch báng thấy tế bào ác tính** [cite: 108].
+    * **Hội chứng Thận hư:** SAAG < 1.1 g/dL, Protein dịch báng < 2.5 g/dL, đi kèm phù toàn thân.
 
 ---
 
 ### 3. Vàng da (Hội chứng Vàng da)
-* **Công thức đặt vấn đề:** 
+ 
   > **Hội chứng Vàng da [Trước gan / Tại gan / Sau gan - Tắc mật]** + **[Biến chứng đe dọa tính mạng / Không biến chứng]**, nghĩ do **[Nguyên nhân]**.
 
 * **Tiếp cận chẩn đoán phân biệt 3 nhóm nguyên nhân (Sách Tiếp cận YDS):**
@@ -77,7 +135,7 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 ---
 
 ### 1. Tiểu bọt (Nghi ngờ Đạm niệu)
-* **Công thức đặt vấn đề:** 
+ 
   > **Tiểu bọt lâu tan** + **[Nghi do Đạm niệu / Hội chứng Thận hư / Viêm cầu thận]**.
 
 * **Tiếp cận Chẩn đoán Hội chứng Thận hư (Sách Tiếp cận YDS):**
@@ -91,7 +149,7 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 ---
 
 ### 2. Tiểu máu (Đại thể / Vi thể)
-* **Công thức đặt vấn đề:** 
+ 
   > **Tiểu máu [Đại thể / Vi thể]** + **[Vị trí: Tại cầu thận / Ngoài cầu thận]** + **[Nghĩ do nguyên nhân]**.
 
 * **Phân biệt Vị trí Tiểu máu (Sách Tiếp cận YDS):**
@@ -109,7 +167,7 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 ---
 
 ### 3. Hội chứng Kích thích Niệu đạo cấp / Hội chứng Niệu đạo cấp
-* **Công thức đặt vấn đề:** 
+ 
   > **Hội chứng Kích thích niệu đạo cấp / HC Niệu đạo cấp** + **[Nghĩ do Viêm bàng quang cấp / Viêm đài bể thận cấp / Sỏi niệu đạo]**.
 
 * **Tiếp cận Chẩn đoán (Sách Tiếp cận YDS):**
@@ -123,7 +181,7 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 ## 🏛️ TRẠM III: HÔ HẤP
 
 ### 1. Ho ra máu (Khái huyết)
-* **Công thức đặt vấn đề:** 
+ 
   > **Ho ra máu** + **mức độ [Ít (<100mL/24h) / Trung bình (100–500mL) / Nhiều (>500mL/24h)]** + **[Hiện ổn / Đang diễn tiến]** + **biến chứng [Suy hô hấp cấp / Choáng mất máu / Tắc nghẽn đường thở / Chưa ghi nhận]** + nghĩ do **[Nguyên nhân theo BATTLE CAAAMP]**.
 
 * **12 Nhóm Nguyên nhân theo BATTLE CAAAMP (Sách Tiếp cận YDS):**
@@ -145,7 +203,7 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 ---
 
 ### 2. Hội chứng Nhiễm trùng Đường hô hấp dưới
-* **Công thức đặt vấn đề:** 
+ 
   > **Hội chứng Nhiễm trùng đường hô hấp dưới cấp tính** + **[Mức độ suy hô hấp]** + nghĩ do **[Viêm phổi mắc phải cộng đồng (CAP) / Đợt cấp COPD bội nhiễm / Viêm phế quản cấp]**.
 
 * **Tiếp cận Chẩn đoán (Sách Tiếp cận YDS):**
@@ -162,7 +220,7 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 ---
 
 ### 3. Hội chứng Tắc nghẽn Đường hô hấp dưới
-* **Công thức đặt vấn đề:** 
+ 
   > **Hội chứng Tắc nghẽn đường hô hấp dưới** + **[Khó thở thì thở ra]** + nghĩ do **[Đợt cấp COPD / Cơn Hen phế quản]**.
 
 * **Tiếp cận Chẩn đoán (Sách Tiếp cận YDS):**
@@ -177,7 +235,7 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 ## 🏛️ TRẠM IV: TIM MẠCH
 
 ### 1. Tăng Huyết áp (THA)
-* **Công thức đặt vấn đề:** 
+ 
   > **Tăng huyết áp [Độ 1 / Độ 2 / Độ 3]** *(hoặc Cơn Tăng huyết áp cấp cứu / Khẩn cấp)* + **[Biến chứng cơ quan đích cấp/mạn: Tim/Não/Thận/Mắt/Mạch máu]** + **[Nghĩ Nguyên phát / Thứ phát]**.
 
 * **Phân độ & Cơn Tăng Huyết áp (Sách Tiếp cận YDS):**
@@ -190,7 +248,7 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 ---
 
 ### 2. Suy tim
-* **Công thức đặt vấn đề:** 
+ 
   > **Suy tim [Mất bù cấp / Mạn tính]** + **[Loại suy tim: Trái / Phải / Toàn bộ]** + **[Phân độ NYHA I–IV / Giai đoạn ACC/AHA A–D]** + **[Yếu tố thúc đẩy đợt cấp]** + nghĩ do **[Nguyên nhân]**.
 
 * **Tiêu chuẩn Chẩn đoán Framingham cho Suy tim (Sách Tiếp cận YDS):**
@@ -205,15 +263,36 @@ Dưới đây là cẩm nang đầy đủ, hệ thống hóa chi tiết phần *
 
 ## 🏛️ TRẠM V: HỘI CHỨNG TOÀN THÂN KHI ĐI THI
 
-### 1. Hội chứng Cận ung (Paraneoplastic Syndrome) & Suy kiệt
-* **Công thức đặt vấn đề:** 
+### Hội chứng Cận ung (Paraneoplastic Syndrome) & Suy kiệt
+ 
   > **Hội chứng Cận ung / Suy kiệt mạn tính** + **[Sụt cân không chủ ý]** + **[Theo dõi Bệnh lý ác tính nguyên phát]**.
 * **Đặc điểm lâm sàng:** Sụt cân không chủ ý (\\(>10\%\\) trọng lượng cơ thể trong 6 tháng), chán ăn, gầy giuộc, mệt mỏi suy nhược kéo dài, sốt kéo dài không rõ nguyên nhân (FUO), ngón tay dùi trống, xơ cứng khớp.
 * **Cơ quan nguyên phát gợi ý:** K phổi, K dạ dày, K đại trực tràng, K gan (HCC), K tụy, K bàng quang.
 * **📌 Đề nghị Cận lâm sàng (CLS):** Marker ung thư trong máu (CEA, AFP, CA 19-9, CA 125, PSA), CT-scan ngực - bụng có phản quang, Nội soi dạ dày - đại tràng, Sinh thiết tổn thương / Cell block.
 
----
+Sốt về chiều
+Vã mồ hôi trộm
+Chán ăn
+Sụt cân không chủ ý
+(Cachexia – 5%)
+Sốt trên 38 độ C
 
-📄 **Thông báo file xuất bản:** File Word hoàn chỉnh mang tên `Huong_Dan_Dat_Van_De_Va_Tiep_Can_Chan_Doan_4_Trai.docx` đã được khởi tạo và đẩy sang panel **Studio** bên phải màn hình để bạn dễ dàng lưu trữ và sử dụng.
+### Triệu chứng B
+Thường liên quan đến Lymphoma Hodgkin, non-Hodgkin
+lymphoma, có vai trò tiên lượng
+ Sốt (> 38 độ C)
+* Sốt không rõ nguồn gốc
+* Sốt kéo dài nhiều tuần, tái đi tái lại nhiều lần
+* Sốt Pel Ebstein
+ Vã mồ đêm
+ Sụt cân không chủ ý (10% trong 6 tháng)
 
-💡 *Bạn có muốn chọn thử một ca lâm sàng cụ thể (như Bệnh nhân Xơ gan nôn ra máu hay Bệnh nhân COPD khó thở cấp) để chúng ta cùng thực hành Đặt vấn đề và Biện luận Chẩn đoán không?*
+
+Vã mồ hôi trộm
+Sụt cân không chủ ý
+(10%/ 6 tháng)
+### Hội chứng nhiễm lao chung
+Sốt nhẹ về chiều và đêm
+Mệt mỏi
+Chán ăn
+Ra mồ hôi trộm về đêm
