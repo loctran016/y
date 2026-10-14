@@ -122,7 +122,7 @@ Chẩn đoán phân biệt
   - **Trước gan (Tán huyết):** Tăng Bilirubin gián tiếp ưu thế [cite: 52]. Thiếu máu cấp/mạn, lách to, nước tiểu sậm màu nhưng **Foam test (-)** (không có bọt vàng do Bilirubin gián tiếp không tan trong nước) [cite: 83, 97]. Nguyên nhân: Thalassemia, thiếu men G6PD, sốt rét, bất đồng nhóm máu [cite: 52, 98].
   - **Tại gan (Bệnh tế bào gan / Ứ mật tại gan):** Tăng Bilirubin hỗn hợp (trực tiếp & gián tiếp) [cite: 52, 99]. Men gan AST, ALT tăng cao [cite: 99]. Có biểu hiện Hội chứng suy tế bào gan & Tăng áp cửa [cite: 101]. Nguyên nhân: Viêm gan siêu vi cấp/mạn (HBV, HCV), viêm gan do rượu/thuốc, xơ gan mất bù [cite: 52, 101].
   - **Sau gan (Tắc mật cơ học ngoài gan):** Tăng Bilirubin trực tiếp ưu thế [cite: 53, 99]. Bệnh nhân có **Hội chứng tắc mật** (Vàng da ngả màu xanh đen, ngứa toàn thân, nước tiểu sậm màu bọt vàng lâu tan - **Foam test (+)**, phân bạc màu) [cite: 53, 54, 100]. Men ALP và GGT tăng rất cao [cite: 100].
-    - _Sỏi ống mật chủ:_ Biểu hiện **Tam chứng Charcot** (Đau hạ sườn phải \\(\rightarrow\\) Sốt lạnh run \\(\rightarrow\\) Vàng da) diễn tiến đúng trình tự [cite: 97, 103].
+    - _Sỏi ống mật chủ:_ Biểu hiện **Tam chứng Charcot** (Đau hạ sườn phải (rightarrow) Sốt lạnh run (rightarrow) Vàng da) diễn tiến đúng trình tự [cite: 97, 103].
     - _U đầu tụy / U bóng Vater:_ Vàng da tăng dần liên tục không đau, túi mật căng to không đau (**Định luật Courvoisier**) [cite: 54, 102].
 - **⚠️ 3 Biến chứng đe doạ tính mạng BẮT BUỘC ghi vào Đặt vấn đề:**
   1. **Choáng / Sốc nhiễm trùng đường mật:** Nhiễm trùng đường mật KÈM tụt huyết áp, rối loại tri giác [cite: 22, 104].
@@ -153,8 +153,8 @@ Chẩn đoán phân biệt
   - Nước tiểu có bọt trắng mịn lâu tan (>15–30 phút) do giảm áp lực bề mặt do đạm niệu.
   - **Tiêu chuẩn chẩn đoán Hội chứng Thận hư (Gồm 4 tiêu chuẩn):**
     1. **Phù toàn thân:** Phù trắng, mềm, ấn lõm, rõ ở mi mắt/mặt vào buổi sáng, lan ra chân và đa màng.
-    2. **Đạm niệu mức độ thận hư:** Protein niệu 24h \\(> 3.5\text{ g/24h}\\) (hoặc tỷ lệ Protein/Creatinine niệu \\(> 3.5\text{ g/g}\\)). _(Tiêu chuẩn bắt buộc)_.
-    3. **Giảm Albumin máu:** Albumin máu \\(< 30\text{ g/L}\\) và Protein máu toàn phần \\(< 60\text{ g/L}\\). _(Tiêu chuẩn bắt buộc)_.
+    2. **Đạm niệu mức độ thận hư:** Protein niệu 24h (> 3.5text g/24h) (hoặc tỷ lệ Protein/Creatinine niệu (> 3.5text g/g)). _(Tiêu chuẩn bắt buộc)_.
+    3. **Giảm Albumin máu:** Albumin máu (< 30text g/L) và Protein máu toàn phần (< 60text g/L). _(Tiêu chuẩn bắt buộc)_.
     4. **Tăng Lipid máu:** Tăng Cholesterol toàn phần và Triglyceride máu.
 
 ---
@@ -237,8 +237,8 @@ Chẩn đoán phân biệt
 - **Tiếp cận Chẩn đoán (Sách Tiếp cận YDS):**
   - Khó thở thì thở ra, thở ra kéo dài, lồng ngực căng phồng, gõ vang, nghe phổi có **ran rít, ran ngáy lan tỏa 2 phế trường**.
   - **Phân biệt COPD vs. Hen phế quản:**
-    - _COPD:_ Nam >40 tuổi, tiền căn hút thuốc lá nặng (>20 gói-năm), khó thở mạn tính tiến triển dai dẳng nặng dần [cite: 13]. Hô hấp ký có **Rối loạn thông khí tắc nghẽn CỐ ĐỊNH** (\\(\text{FEV}_1/\text{FVC} < 0.70\\) sau test dãn phế quản).
-    - _Hen phế quản:_ Cơn khó thở kịch phát thì thở ra, tái diễn, nặng về đêm/sáng sớm, tự hồi phục hoặc sau thuốc dãn phế quản. Hô hấp ký có **Rối loạn thông khí tắc nghẽn HỒI PHỤC** (\\(\text{FEV}_1\\) tăng \\(>12\%\\) và \\(>200\text{ mL}\\) sau test dãn phế quản).
+    - _COPD:_ Nam >40 tuổi, tiền căn hút thuốc lá nặng (>20 gói-năm), khó thở mạn tính tiến triển dai dẳng nặng dần [cite: 13]. Hô hấp ký có **Rối loạn thông khí tắc nghẽn CỐ ĐỊNH** ((textFEV_1/textFVC < 0.70) sau test dãn phế quản).
+    - _Hen phế quản:_ Cơn khó thở kịch phát thì thở ra, tái diễn, nặng về đêm/sáng sớm, tự hồi phục hoặc sau thuốc dãn phế quản. Hô hấp ký có **Rối loạn thông khí tắc nghẽn HỒI PHỤC** ((textFEV_1) tăng (>12%) và (>200text mL) sau test dãn phế quản).
 - **📌 Đề nghị Cận lâm sàng (CLS):** Đo chức năng thông khí (Hô hấp ký) KÈM Test dãn phế quản (với 400 mcg Salbutamol), Đo lưu lượng thở ra đỉnh (PEF), X-quang ngực thẳng.
 
 ---
@@ -250,9 +250,9 @@ Chẩn đoán phân biệt
 > **Tăng huyết áp [Độ 1 / Độ 2 / Độ 3]** _(hoặc Cơn Tăng huyết áp cấp cứu / Khẩn cấp)_ + **[Biến chứng cơ quan đích cấp/mạn: Tim/Não/Thận/Mắt/Mạch máu]** + **[Nghĩ Nguyên phát / Thứ phát]**.
 
 - **Phân độ & Cơn Tăng Huyết áp (Sách Tiếp cận YDS):**
-  - _Độ 1:_ HATT 140–159 và/hoặc HATTr 90–99 mmHg. _Độ 2:_ HATT 160–179 và/hoặc HATTr 100–109 mmHg. _Độ 3:_ HATT \\(\ge 180\\) và/hoặc HATTr \\(\ge 110\text{ mmHg}\\).
-  - **Cơn Tăng huyết áp CẤP CỨU:** \\(\text{HA} \ge 180/120\text{ mmHg}\\) KÈM tổn thương cơ quan đích cấp tính đe dọa tính mạng (Phù phổi cấp, Hội chứng vành cấp, Bóc tách động mạch chủ, Đột quỵ xuất huyết não, Tổn thương thận cấp).
-  - **Cơn Tăng huyết áp KHẨN CẤP:** \\(\text{HA} \ge 180/120\text{ mmHg}\\) nhưng KHÔNG CÓ tổn thương cơ quan đích cấp tính.
+  - _Độ 1:_ HATT 140–159 và/hoặc HATTr 90–99 mmHg. _Độ 2:_ HATT 160–179 và/hoặc HATTr 100–109 mmHg. _Độ 3:_ HATT (>=180) và/hoặc HATTr (>=110 mmHg).
+  - **Cơn Tăng huyết áp CẤP CỨU:** (HATT >=180/120 mmHg) KÈM tổn thương cơ quan đích cấp tính đe dọa tính mạng (Phù phổi cấp, Hội chứng vành cấp, Bóc tách động mạch chủ, Đột quỵ xuất huyết não, Tổn thương thận cấp).
+  - **Cơn Tăng huyết áp KHẨN CẤP:** (HA >=180/120 mmHg) nhưng KHÔNG CÓ tổn thương cơ quan đích cấp tính.
   - _Tổn thương cơ quan đích (TOD):_ Tim (Dày thất trái, Suy tim, ACS); Não (Đột quỵ); Thận (Microalbumin niệu, Suy thận mạn) [cite: 5]; Mắt (Bệnh màng lưới độ I–IV); Mạch máu (Phình ĐMC).
 - **📌 Đề nghị Cận lâm sàng (CLS):** ECG 12 chuyển đạo (tìm Sokolow-Lyon), TPTNT (Microalbumin niệu), Creatinine & eGFR [cite: 5], Điện giải đồ, Bilan Lipid máu, Siêu âm tim.
 
@@ -265,12 +265,16 @@ Chẩn đoán phân biệt
 - **Tiêu chuẩn Chẩn đoán Framingham cho Suy tim (Sách Tiếp cận YDS):**
   - _Xác định suy tim:_ Khi có **2 tiêu chuẩn CHÍNH** HOẶC **1 tiêu chuẩn CHÍNH + 2 tiêu chuẩn PHỤ**.
   - **Tiêu chuẩn CHÍNH:**
-    1. Cơn khó thở kịch phát về đêm hoặc khó thở khi nằm; 2. Tĩnh mạch cổ nổi; 3. Ran nổ ở phổi; 4. Tim to trên X-quang; 5. Phù phổi cấp; 6. Tiếng T3 Gallop; 7. Tăng áp lực tĩnh mạch trung tâm (\\(>16\text{ cmH}_2\text{O}\\)); 8. Phản hồi gan - tĩnh mạch cảnh (+); 9. Giảm cân \\(>4.5\text{ kg}\\) trong 5 ngày điều trị đáp ứng lợi tiểu.
+    1. Cơn khó thở kịch phát về đêm hoặc khó thở khi nằm; 2. Tĩnh mạch cổ nổi; 3. Ran nổ ở phổi; 4. Tim to trên X-quang; 5. Phù phổi cấp; 6. Tiếng T3 Gallop; 7. Tăng áp lực tĩnh mạch trung tâm ((>16text cmH_2textO)); 8. Phản hồi gan - tĩnh mạch cảnh (+); 9. Giảm cân (>4.5text kg) trong 5 ngày điều trị đáp ứng lợi tiểu.
   - **Tiêu chuẩn PHỤ:**
-    1. Phù cẳng chân 2 bên; 2. Ho về đêm; 3. Khó thở khi gắng sức; 4. Gan to; 5. Tràn dịch màng phổi; 6. Dung tích sống giảm 1/3; 7. Nhịp tim nhanh (\\(>120\text{ l/p}\\)).
-- **📌 Đề nghị Cận lâm sàng (CLS):** ECG 12 dẫn trình, X-quang ngực thẳng (chỉ số tim-lồng ngực, đường Kerley B), Siêu âm tim Doppler (phân loại EF: HFrEF \\(\le 40\%\\), HFmrEF 41–49%, HFpEF \\(\ge 50\%\\)), **NT-proBNP hoặc BNP**, Công thức máu, Sinh hóa máu.
+    1. Phù cẳng chân 2 bên; 2. Ho về đêm; 3. Khó thở khi gắng sức; 4. Gan to; 5. Tràn dịch màng phổi; 6. Dung tích sống giảm 1/3; 7. Nhịp tim nhanh ((>120text l/p)).
+- **📌 Đề nghị Cận lâm sàng (CLS):** ECG 12 dẫn trình, X-quang ngực thẳng (chỉ số tim-lồng ngực, đường Kerley B), Siêu âm tim Doppler (phân loại EF: HFrEF (le 40%), HFmrEF 41–49%, HFpEF ( >=50%)), **NT-proBNP hoặc BNP**, Công thức máu, Sinh hóa máu.
 
 ---
+
+### HC vành cấp
+
+### HC vành mạn
 
 ## 🏛️ TRẠM V: HỘI CHỨNG TOÀN THÂN KHI ĐI THI
 
@@ -278,7 +282,7 @@ Chẩn đoán phân biệt
 
 > **Hội chứng Cận ung / Suy kiệt mạn tính** + **[Sụt cân không chủ ý]** + **[Theo dõi Bệnh lý ác tính nguyên phát]**.
 
-- **Đặc điểm lâm sàng:** Sụt cân không chủ ý (\\(>10\%\\) trọng lượng cơ thể trong 6 tháng), chán ăn, gầy giuộc, mệt mỏi suy nhược kéo dài, sốt kéo dài không rõ nguyên nhân (FUO), ngón tay dùi trống, xơ cứng khớp.
+- **Đặc điểm lâm sàng:** Sụt cân không chủ ý ((>10%) trọng lượng cơ thể trong 6 tháng), chán ăn, gầy giuộc, mệt mỏi suy nhược kéo dài, sốt kéo dài không rõ nguyên nhân (FUO), ngón tay dùi trống, xơ cứng khớp.
 - **Cơ quan nguyên phát gợi ý:** K phổi, K dạ dày, K đại trực tràng, K gan (HCC), K tụy, K bàng quang.
 - **📌 Đề nghị Cận lâm sàng (CLS):** Marker ung thư trong máu (CEA, AFP, CA 19-9, CA 125, PSA), CT-scan ngực - bụng có phản quang, Nội soi dạ dày - đại tràng, Sinh thiết tổn thương / Cell block.
 
