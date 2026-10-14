@@ -189,6 +189,81 @@ Chẩn đoán phân biệt
 
 ---
 
+Để lựa chọn chính xác giữa **Hội chứng Thận hư (HCTH)** và **Hội chứng Viêm cầu thận (HC VCT / Viêm cầu thận cấp - VCTC)** khi đặt **Chẩn đoán sơ bộ (CĐSB)** và **Chẩn đoán phân biệt (CĐPB)** chỉ dựa vào **Bệnh sử, Tiền căn và Khám lâm sàng**, bạn cần nắm vững **bản chất sinh lý bệnh** thể hiện qua 3 triệu chứng/nghiệm pháp chính: **Phù, Huyết áp, và Tính chất Nước tiểu (Tiểu bọt vs. Tiểu máu)** [cite: 66, 71].
+
+Dưới đây là hướng dẫn tư duy chi tiết cho từng trường hợp lâm sàng:
+
+---
+
+### 1. Trường hợp 1: Bệnh nhân VỪA TIỂU MÁU VỪA TIỂU BỌT
+
+Đây là tình huống phức tạp nhất vì cả hai dấu hiệu tổn thương màng lọc cầu thận đều hiện diện. Lúc này, **"bộ triệu chứng đi kèm" (Phù, Huyết áp, Lượng nước tiểu)** và **Tiền căn** đóng vai trò quyết định HC nào nghĩ nhiều hơn:
+
+#### A. Khi nào NGHĨ NHIỀU HỘI CHỨNG THẬN HƯ? (Đặt HCTH lên CĐSB)
+* **Khám & Bệnh sử ưu thế:**
+  * **Phù:** **Phù toàn thân, mức độ nặng, rầm rộ** (phù mặt, mắt, cẳng chân, kèm báng bụng hoặc tràn dịch màng phổi) [cite: 43, 61].
+  * **Tiểu bọt:** Bệnh nhân khai tiểu bọt rất nhiều, bọt trắng mịn **lâu tan (>15–30 phút)** (gợi ý Đạm niệu ngưỡng thận hư) [cite: 43].
+  * **Huyết áp:** **Bình thường** hoặc chỉ tăng nhẹ [cite: 66, 81].
+  * **Tiểu máu:** Thường là **tiểu máu vi thể** (chỉ phát hiện qua que nhúng/tổng phân tích nước tiểu) hoặc tiểu máu đại thể lượng ít, nước tiểu màu sậm nhưng **KHÔNG CÓ MÁU CỤC** [cite: 66, 71].
+* **Tư thế lập luận:** Đây là hình ảnh của **Hội chứng Thận hư không đơn thuần** (Thận hư có kèm thành phần viêm cầu thận) [cite: 66, 71].
+* 👉 **Cách ghi Chẩn đoán:**
+  * **CĐSB:** *Theo dõi Hội chứng Thận hư (loại không đơn thuần / kèm tiểu máu).*
+  * **CĐPB:** *Viêm cầu thận tiến triển nhanh / Viêm cầu thận cấp.*
+
+---
+
+#### B. Khi nào NGHĨ NHIỀU HỘI CHỨNG VIÊM CẦU THẬN? (Đặt HC VCT/VCTC lên CĐSB)
+* **Khám & Bệnh sử ưu thế:**
+  * **Tiểu máu:** **Tiểu máu đại thể rầm rộ**, nước tiểu màu đỏ sậm, xá xị, màu nước trà đậm/coca, toàn dòng, **KHÔNG CÓ MÁU CỤC** [cite: 66, 71].
+  * **Tăng huyết áp:** **Huyết áp tăng rõ hoặc tăng cao/cơn THA** (do giữ muối nước) [cite: 66, 71].
+  * **Nước tiểu:** Có tình trạng **thiểu niệu / tiểu ít cấp tính** (thể tích nước tiểu <400 mL/24h) [cite: 57, 66].
+  * **Phù:** Phù ở mức độ **nhẹ đến trung bình** (chủ yếu phù mi mắt/mặt vào buổi sáng và cẳng chân) [cite: 66, 71].
+  * **Tiền căn gợi ý:** Có tiền căn **viêm họng** (cách 1–2 tuần) hoặc **viêm da mủ** (cách 2–6 tuần) trước đó (nghĩ VCTC hậu nhiễm liên cầu) [cite: 45, 66, 69]; hoặc tiểu máu đại thể xuất hiện trùng lúc đang viêm hô hấp trên (nghĩ Bệnh thận IgA) [cite: 69, 75].
+* **Tư thế lập luận:** Bức tranh **Tam chứng Viêm cầu thận cấp** *(Tiểu máu + Tăng huyết áp + Phù/Thiểu niệu)* chiếm chủ đạo [cite: 66, 71].
+* 👉 **Cách ghi Chẩn đoán:**
+  * **CĐSB:** *Viêm cầu thận cấp (hoặc Hội chứng Viêm cầu thận).*
+  * **CĐPB:** *Hội chứng Thận hư / Viêm cầu thận tiến triển nhanh.*
+
+---
+
+### 2. Trường hợp 2: Bệnh nhân CHỈ TIỂU BỌT, KHÔNG TIỂU MÁU
+
+* **Chẩn đoán sơ bộ:** **LUÔN ƯU TIÊN HỘI CHỨNG THẬN HƯ** (hoặc Theo dõi Đạm niệu ngưỡng thận hư / HCTH đơn thuần) [cite: 43].
+* **Lý giải lâm sàng:**
+  * Tiểu bọt lâu tan không kèm tiểu máu phản ánh tình trạng **Thoát đạm niệu đơn độc** [cite: 43].
+  * Nếu khám thấy **Phù toàn thân trắng, mềm, ấn lõm** + **Huyết áp bình thường**, bức tranh **Hội chứng Thận hư đơn thuần** gần như chiếm ưu thế tuyệt đối [cite: 43, 66].
+* **Chẩn đoán phân biệt:**
+  * *Bệnh lý cầu thận thứ phát:* HCTH thứ phát do Đái tháo đường (Bệnh thận đái tháo đường), do Lupus đỏ hệ thống, do Thuốc (NSAIDs) [cite: 50, 60].
+  * *Lưu ý:* Khi **hoàn toàn không có tiểu máu**, ít khi đặt Viêm cầu thận cấp điển hình lên CĐSB, mà xếp vào CĐPB là các bệnh lý tổn thương màng đáy cầu thận khác [cite: 66, 71].
+
+---
+
+### 3. Trường hợp 3: Bệnh nhân CHỈ TIỂU MÁU, KHÔNG TIỂU BỌT
+
+⚠️ **Quy tắc vàng:** **TUYỆT ĐỐI KHÔNG ĐẶT HỘI CHỨNG THẬN HƯ LÊN CHẨN ĐOÁN SƠ BỘ** (vì HCTH bắt buộc phải có đạm niệu nặng gây tiểu bọt lâu tan) [cite: 43].
+
+* **Chẩn đoán sơ bộ:**
+  * **Bước 1: Xác định vị trí tiểu máu qua lâm sàng:**
+    * *Nếu Tiểu máu Cầu thận:* Nước tiểu màu xá xị/coca, toàn dòng, **KHÔNG CÓ MÁU CỤC**, kèm Phù nhẹ / Tăng huyết áp [cite: 66, 71].  
+      👉 **CĐSB:** **Hội chứng Viêm cầu thận / Viêm cầu thận cấp** (hoặc Bệnh thận IgA / Tiểu máu cầu thận đơn độc) [cite: 66, 75].
+    * *Nếu Tiểu máu Ngoài cầu thận (Đường tiết niệu):* Nước tiểu đỏ tươi/đỏ hồng, **CÓ MÁU CỤC**, kèm Hội chứng kích thích niệu đạo (tiểu buốt, rắt, gắt) hoặc Cơn đau quặn thận [cite: 65, 66, 71].  
+      👉 **CĐSB:** **Nhiễm trùng tiểu / Sỏi niệu / Viêm đài bể thận cấp / U bướu hệ tiết niệu** [cite: 66, 70, 75].
+* **Chẩn đoán phân biệt:**
+  * Phân biệt giữa các nguyên nhân gây Viêm cầu thận (VCTC hậu nhiễm liên cầu vs. Bệnh thận IgA vs. Viêm mạch máu/Lupus) [cite: 66, 69, 75].
+
+---
+
+### 📊 BẢNG TỔNG HỢP MA TRẬN TRA CỨU NHANH TẠI GIƯỜNG BỆNH
+
+| Tiêu chí Lâm sàng & Tiền căn | HỘI CHỨNG THẬN HƯ (HCTH) | HỘI CHỨNG VIÊM CẦU THẬN (HC VCT / VCTC) |
+| :--- | :--- | :--- |
+| **Tiểu bọt (Đạm niệu)** | **Ưu thế tuyệt đối** (Bọt nhiều, trắng mịn, lâu tan >15–30 phút) [cite: 43]. | Thường ít hoặc vừa (đạm niệu không ở ngưỡng thận hư) [cite: 66]. |
+| **Tiểu máu** | Không có (đơn thuần) hoặc chỉ tiểu máu vi thể/nhẹ [cite: 66, 71]. | **Ưu thế tuyệt đối** (Tiểu máu đại thể xá xị/coca, không máu cục) [cite: 66, 71]. |
+| **Đặc điểm Phù** | **Phù toàn thân rầm rộ, mềm, ấn lõm**, kèm tràn dịch đa màng [cite: 43, 61]. | Phù **nhẹ đến trung bình**, rõ ở mi mắt/mặt buổi sáng và cẳng chân [cite: 66, 71]. |
+| **Huyết áp** | Thường **Bình thường** (hoặc tăng nhẹ) [cite: 66, 81]. | **TĂNG HUYẾT ÁP rõ/nặng** (rất đặc trưng) [cite: 66, 71]. |
+| **Thể tích nước tiểu** | Bình thường hoặc giảm nhẹ do thoát dịch [cite: 62]. | Thường có **Thiểu niệu / Vô niệu cấp tính** [cite: 57, 66]. |
+| **Tiền căn gợi ý** | Tiền căn phù/tiểu đạm trước đó, Lupus, Đái tháo đường [cite: 50, 60, 66]. | Viêm họng (1–2 tuần) / Viêm da mủ (2–6 tuần) trước đó, Bệnh thận IgA [cite: 66, 69, 75]. |
+
 ## Trạm Hô hấp
 
 ### Ho ra máu (Khái huyết)
