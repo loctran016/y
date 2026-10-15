@@ -179,6 +179,53 @@ Dựa vào các đặc tính thăm khám tại giường:
 
 ---
 
+### Khó thở thì hít vào (Inspiratory Dyspnea)
+
+- **Vị trí tổn thương:** Tắc nghẽn hoặc hẹp đường dẫn khí lớn **ngoài lồng ngực** (vùng thanh quản và khí quản đoạn ngoài lồng ngực)
+- **Cơ chế:** Khi hít vào, áp lực âm trong đường thở làm đoạn đường thở bị hẹp ở ngoài lồng ngực bị xẹp lại thêm, gây cản trở dòng khí đi vào phổi
+- **Đặc điểm lâm sàng:**
+  - Kéo dài thời gian hít vào so với thở ra
+  - Nghe được **tiếng rít thanh quản (stridor)** âm cao, nghe rõ ở thì hít vào tại vùng cổ/khí quản
+  - Bệnh nhân thường có tư thế ngồi ngửa đầu ra sau
+- **Các bệnh lý thường gặp:**
+  - Dị vật đường thở vùng thanh - khí quản ngoài lồng ngực
+  - Phù thanh quản (do sốc phản vệ, dị ứng)
+  - Viêm thanh quản, viêm nắp thanh môn, nhiễm virus đường hô hấp trên
+  - U thanh quản, liệt dây thanh hai bên, hẹp thanh quản
+  - Áp-xe sau hầu, phì đại amidan
+
+---
+
+### Khó thở thì thở ra (Expiratory Dyspnea)
+
+- **Vị trí tổn thương:** Tắc nghẽn hoặc hẹp các đường dẫn khí nhỏ **trong lồng ngực** (phế quản nhỏ dưới 2 mm, tiểu phế quản) không có sụn nâng đỡ
+- **Cơ chế:** Trong thì thở ra, áp lực trong lồng ngực tăng cao làm ép dẹp các đường dẫn khí nhỏ đang bị viêm/co thắt, làm gia tăng lực cản và cản trở dòng khí đi ra
+- **Đặc điểm lâm sàng:**
+  - **Thở ra kéo dài** (thời gian thở ra kéo dài gấp 2–3 lần thì hít vào, hoặc thời gian thở ra kéo dài hơn 6–9 giây)
+  - Nghe phổi có tiếng **khò khè (wheezing)**, **ran rít, ran ngáy** lan tỏa hai phế trường
+  - Bệnh nhân thường ngồi cúi người ra trước (**Tư thế ba chân - tripod position**), thở chúm môi, co kéo cơ bụng và cơ liên sườn ở thì thở ra
+- **Các bệnh lý thường gặp:**
+  - **Hen phế quản** (đợt cấp hen phế quản)
+  - **Bệnh phổi tắc nghẽn mạn tính (COPD)**
+  - Viêm tiểu phế quản
+  - Giãn phế quản
+
+---
+
+### Khó thở cả hai thì (Inspiratory & Expiratory Dyspnea)
+
+- **Vị trí tổn thương:**
+  1. Tắc nghẽn cố định ở **đường dẫn khí lớn trong lồng ngực** (khí quản lớn, phế quản gốc > 2 mm có sụn)
+  2. Tổn thương bộ phận **trao đổi khí** (phế nang, mô kẽ) hoặc **màng phổi / mạch máu phổi**
+  3. Tình trạng suy hô hấp tiến triển rất nặng
+- **Cơ chế:** Chỗ hẹp cố định không thay đổi khẩu kính theo thì hô hấp, hoặc do tổn thương nhu mô/màng phổi làm giảm độ giãn nở của phổi và rối loạn trao đổi khí liên tục trong cả hai thì
+- **Đặc điểm lâm sàng:** Khó thở diễn tiến liên tục cả khi hít vào lẫn thở ra, nhịp thở nhanh nông, co kéo cơ hô hấp phụ rõ rệt
+- **Các bệnh lý thường gặp:**
+  - **Tắc nghẽn đường thở lớn cố định:** Hẹp khí quản cố định, u khí - phế quản, bướu cổ xâm lấn chèn ép khí quản trong lồng ngực, dị vật phế quản gốc
+  - **Bệnh lý nhu mô & phế nang:** Viêm phổi mắc phải cộng đồng , Phù phổi cấp / phù phế nang , Bệnh phổi kẽ / Xơ phổi
+  - **Bệnh lý màng phổi & Mạch máu:** Tràn dịch màng phổi lượng nhiều , Tràn khí màng phổi , Thuyên tắc phổi cấp
+  - **Đợt cấp rất nặng của Hen phế quản hoặc COPD** (khi bệnh nhân rơi vào tình trạng suy hô hấp đe dọa ngưng thở)
+
 ## Biện luận các bệnh lý thường gặp gây HC tắc nghẽn HH dưới
 
 ### Bệnh phổi tắc nghẽn mạn tính (COPD)

@@ -17,7 +17,7 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "syncMethod": "merge",
+  "syncMethod": "rebase",
   "rebaseAutoStash": "enabled",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
