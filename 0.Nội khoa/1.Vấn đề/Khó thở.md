@@ -1,26 +1,165 @@
-## CƠ CHẾ SINH LÝ BỆNH & PHÂN LOẠI TỔNG QUAN
 
-Khó thở (Dyspnea) là cảm giác chủ quan của bệnh nhân về sự không thoải mái hoặc khó khăn trong quá trình hít thở.
+## Đại cương & Cơ chế Sinh lý bệnh
 
-Về mặt sinh lý bệnh, khó thở xuất phát từ sự mất cân bằng giữa **tín hiệu thúc đẩy hô hấp từ trung tâm** và **khả năng đáp ứng của hệ thống cơ-bơm hô hấp hoặc hệ tuần hoàn**:
+Khó thở là cảm giác chủ quan của bệnh nhân biểu hiện sự không thoải mái trong quá trình hít thở với nhiều mức độ khác nhau [cite: 90]. Khó thở có thể diễn tiến cấp tính (từ vài giờ đến vài ngày), bán cấp (vài ngày đến vài tuần) hoặc mạn tính (kéo dài trên (4 - 8) tuần) [cite: 90].
 
-1. **Khó thở do Hô hấp:** Rối loạn tại Trung tâm hô hấp, Hệ thống bơm hô hấp (cơ hô hấp, thành ngực) hoặc Bộ phận trao đổi khí (phế nang, mô kẽ, đường dẫn khí).
-2. **Khó thở do Tim mạch:** Rối loạn chức năng co bóp/thư giãn của tim, bệnh van tim, bệnh màng ngoài tim hoặc rối loạn nhịp tim làm tăng áp lực mao mạch phổi sung huyết và giảm cung lượng tim.
+Khó thở xảy ra khi có sự mất cân bằng giữa nhu cầu thông khí của trung tâm hô hấp và khả năng đáp ứng của hệ thống hô hấp - tuần hoàn [cite: 90]:
 
-**Phân loại theo thời gian:**
+- **Hệ hô hấp:** Rối loạn vận chuyển khí (khí phế quản), bơm hô hấp (cơ hô hấp, lồng ngực) hoặc bộ phận trao đổi khí (mô kẽ, phế nang) [cite: 90].
+- **Hệ tim mạch:** Suy giảm chức năng co bóp tâm thu/tâm trương, bệnh van tim, bệnh màng ngoài tim, hoặc thiếu máu cục bộ cơ tim cấp tính gây sung huyết phổi và giảm tưới máu mô [cite: 90].
+- **Cơ chế khác:** Thiếu máu mạn tính, rối loạn chuyển hóa (toan chuyển hóa), nguyên nhân tâm lý [cite: 90, 94].
 
-- **Khó thở cấp tính:** vài giờ đến vài ngày.
-- **Khó thở mạn tính:** > 4 - 8 tuần.
+---
+## Tiếp cận Chẩn đoán Lâm sàng
+
+### Khai thác Bệnh sử & Tính chất Khó thở
+
+Khai thác đầy đủ các thuộc tính của triệu chứng khó thở giúp định hướng nguyên nhân chính xác [cite: 71, 98, 99]:
+
+#### Hoàn cảnh & Thời gian khởi phát
+
+- **Khởi phát đột ngột / Cấp tính (vài phút đến vài giờ):** Gợi ý các nguyên nhân cấp cứu như Cơn hen phế quản cấp, Đợt cấp COPD, Phù phổi cấp, Thuyên tắc phổi, Tràn khí màng phổi tự phát, Hội chứng vành cấp, Chèn ép tim cấp, Dị vật đường thở hoặc Phản ứng phản vệ [cite: 91, 99].
+- **Khởi phát từ từ / Mạn tính (vài tuần đến vài tháng):** Bệnh phổi tắc nghẽn mạn tính (COPD), Bệnh phổi kẽ, Suy tim mạn, Thiếu máu mạn, Tràn dịch màng phổi [cite: 90, 94].
+
+#### Tư thế & Thời điểm xuất hiện khó thở
+
+- **Khó thở khi nằm (Orthopnea):** Bệnh nhân xuất hiện hoặc tăng khó thở khi nằm phẳng, giảm khi ngồi dậy hoặc kê cao đầu. Là dấu hiệu đặc trưng của [Suy tim](../Tim%20mạch/Suy%20tim.md) sung huyết (do tái phân bố dịch từ ngoại biên về tuần hoàn trung tâm), nhưng cũng có thể gặp ở bệnh nhân béo phì, báng bụng lượng nhiều, hoặc bệnh phổi nặng.
+- **Khó thở kịch phát về đêm (Paroxysmal Nocturnal Dyspnea - PND):** Bệnh nhân đang ngủ ((1 - 3) giờ sau khi ngủ) phải đột ngột bật dậy để hít thở. Đây là dấu hiệu rất đặc hiệu cho [Suy tim](../Tim%20mạch/Suy%20tim.md).
+- **Khó thở khi gắng sức:** Xuất hiện ở giai đoạn sớm của suy tim hoặc bệnh phổi mạn tính, tiến triển tăng dần [cite: 8, 94].
+
+#### Mô tả cảm giác khó thở (Mối tương quan sinh lý bệnh)
+
+- _"Căng ngực" / "Co thắt":_ Co thắt phế quản (Hen, COPD), phù mô kẽ [cite: 91].
+- _"Tăng công thở" / "Gắng sức hít thở":_ COPD, bệnh thần kinh - cơ, giới hạn lồng ngực [cite: 91].
+- _"Đói không khí" / "Phải hít thở sâu":_ Tăng xung động hô hấp (Suy tim sung huyết, Thuyên tắc phổi, Hen) [cite: 91].
+- _"Thở nặng nề" / "Mệt lả":_ Bệnh nhân suy mòn, ít vận động, bệnh tim/phổi đi kèm [cite: 91].
+
+#### Triệu chứng đi kèm cần phát hiện
+
+- **Đau ngực:** Gợi ý Hội chứng vành cấp, Thuyên tắc phổi, Tràn khí màng phổi, Viêm phổi/màng phổi [cite: 80, 99].
+- **Ho & Khạc đờm:** Đờm mủ (Viêm phổi, đợt cấp COPD/Hen), đờm bọt hồng (Phù phổi cấp) [cite: 8, 99]. Ho khan dai dẳng có thể gặp trong suy tim, hen, bệnh phổi kẽ, thuyên tắc phổi [cite: 99].
+- **Sốt, lạnh run:** Nhiễm trùng hô hấp (Viêm phổi, viêm phế quản) [cite: 99].
+- **Ho ra máu:** Thuyên tắc phổi, Lao phổi, Ung thư phổi, Hẹp van hai lá [cite: 3, 99].
+- **Vã mồ hôi, hồi hộp:** Phản ứng giao cảm rầm rộ (Hội chứng vành cấp, Phù phổi cấp, Rối loạn nhịp) [cite: 88, 91, 100].
+
+### 2. Tiền căn
+
+- **Bản thân:** Tiền căn Hen, COPD, Bệnh mạch vành, Tăng huyết áp, Đái tháo đường, Suy thận, Thuyên tắc huyết khối tĩnh mạch sâu (DVT) [cite: 74, 100]. Tiền căn nghiện thuốc lá (tính theo gói-năm).
+- **Dùng thuốc:** Thói quen tuân thủ điều trị suy tim, thuốc làm kích phát cơn hen (Aspirin, NSAIDs, Chẹn Beta) [cite: 99, 100].
 
 ---
 
-<!-- ## BẢNG SO SÁNH TỔNG QUAN: KHÓ THỞ DO TIM VS. KHÓ THỞ DO PHỔI -->
+## Thăm khám Thực thể
 
-Dưới đây là tổng hợp các bệnh lý tim và phổi thường gặp gây khó thở, được mô tả chi tiết về **đặc điểm khó thở** và **các triệu chứng đi kèm** theo đúng định dạng bạn yêu cầu:
+### Suy Hô hấp Cấp
+
+Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí cấp cứu khẩn cấp trước khi hỏi chi tiết bệnh sử:
+
+- Nhịp thở (> 30 lần/phút) hoặc (< 10 lần/phút).
+- Mạch (> 120 lần/phút) hoặc nhịp chậm bất thường.
+- Chỉ số (SpO_2 < 90%) (khí trời).
+- Co kéo cơ hô hấp phụ (cơ ức đòn chũm, cơ liên sườn), thở rên, thở rút lõm lồng ngực.
+- Vã mồ hôi, xanh tím niêm mạc, đầu chi.
+- Rối loạn tri giác (bứt rứt, lơ mơ, hôn mê - dấu hiệu ứ (CO_2) nặng hoặc thiếu (O_2) máu).
+- Khó nói chuyện (không nói được trọn câu).
+
+### 2. Khám Cơ quan
+
+- **Khám Phổi:**
+    - _Rì rào phế nang giảm đều hoặc mất 1 bên:_ Tràn dịch màng phổi, Tràn khí màng phổi, Xẹp phổi [cite: 101].
+    - _Thở rít (Stridor):_ [Tắc nghẽn đường HH dưới](../Hô%20hấp/Tắc%20nghẽn%20đường%20HH%20dưới.md) - Tắc nghẽn đường dẫn khí lớn ngoài/trong lồng ngực (dị vật, phù thanh quản) [cite: 31, 101].
+    - _Khò khè, ran rít, ran ngáy:_ Co thắt phế quản (Hen, COPD, "Hen tim") [cite: 8, 31, 101].
+    - _Ran nổ, ran ẩm khu trú:_ Viêm phổi thùy, áp xe phổi [cite: 76, 77, 101].
+    - _Ran nổ/ran ẩm rải rác 2 đáy phổi (dâng lên cao):_ Suy tim sung huyết, Phù phổi cấp, Bệnh phổi kẽ [cite: 76, 78, 101].
+- **Khám Tim mạch:**
+    - Mỏm tim lệch ngoài (Tim to) [cite: 9, 101].
+    - Tiếng tim bất thường: Tiếng Ngựa phi **Gallop T3** (chỉ điểm suy tim cấp/mất bù), âm thổi van tim [cite: 4, 101].
+    - Tĩnh mạch cảnh nổi ((45^circ)), Phản hồi gan - tĩnh mạch cảnh (+) [cite: 4, 101].
+    - Mạch nghịch (Pulsus paradoxus): Hen nặng, Chèn ép tim cấp [cite: 101].
+- **Khám Toàn thân & Ngoại biên:**
+    - Phù mềm đối xứng 2 cẳng chân (Suy tim, Hội chứng thận hư, Xơ gan) [cite: 3, 101].
+    - Sưng đau chi dưới 1 bên (Gợi ý Huyết khối tĩnh mạch sâu (rightarrow) Thuyên tắc phổi) [cite: 93, 102].
+    - Ngón tay dùi trống (Bệnh phổi mạn tính, Bệnh tim bẩm sinh tím, Ung thư phổi) [cite: 40, 101].
 
 ---
 
-## Tính chất khó thở
+## IV. Phân loại Nguyên nhân Khó thở
+
+### 1. Nguyên nhân Khó thở Cấp tính (Cần loại trừ cấp cứu)
+
+|Nhóm cơ quan|Nguyên nhân bệnh lý thường gặp|
+|:--|:--|
+|**Tim mạch**|• **Hội chứng mạch vành cấp:** Nhồi máu cơ tim cấp (ở người lớn tuổi, ĐTĐ có thể biểu hiện duy nhất là khó thở) [cite: 91].• **Suy tim cấp / Phù phổi cấp:** Quá tải thể tích tuần hoàn cấp tính [cite: 8, 92].• **Chèn ép tim cấp:** Tụ dịch màng ngoài tim gây cản trở đổ đầy [cite: 92].• **Rối loạn nhịp tim cấp.** [cite: 7, 88]|
+|**Hô hấp**|• **Co thắt phế quản:** Đợt kịch phát Hen phế quản, Đợt cấp COPD [cite: 33, 92].• **Thuyên tắc phổi:** Tắc mạch máu phổi cấp tính [cite: 92, 93].• **Tràn khí màng phổi tự phát / áp lực:** Giảm âm phế bào, gõ vang 1 bên [cite: 93].• **Nhiễm trùng hô hấp:** Viêm phổi nặng, Viêm phế quản - phế viêm [cite: 45, 92].• **Tắc nghẽn đường hô hấp trên:** Dị vật đường thở, Phù thanh quản phản vệ [cite: 92].|
+
+### 2. Nguyên nhân Khó thở Mạn tính
+
+|Nhóm cơ quan|Nguyên nhân bệnh lý thường gặp|
+|:--|:--|
+|**Tim mạch**|Suy tim mạn tính, Bệnh van tim (Hẹp/Hở van 2 lá, van ĐMC), Bệnh cơ tim, Viêm màng ngoài tim co thắt [cite: 3, 7, 94].|
+|**Hô hấp**|COPD, Hen phế quản mạn, Giãn phế quản, Bệnh phổi kẽ (Xơ phổi), Lao phổi cũ/xơ hóa, Ung thư phổi [cite: 32, 40, 94].|
+|**Thành ngực & Thần kinh - Cơ**|Gù quẹo cột sống, Béo phì nặng, Báng bụng lượng nhiều, Bệnh lý nhược cơ, Liệt cơ hoành [cite: 94].|
+|**Bệnh toàn thân & Chuyển hóa**|Thiếu máu mạn tính nặng, Cường giáp, Toan chuyển hóa (Kussmaul), Rối loạn dạng cơ thể / Lo âu [cite: 88, 94].|
+
+---
+
+## V. Chỉ định Cận lâm sàng & Quy trình Chẩn đoán
+
+### 1. Các Cận lâm sàng Bắt buộc Ban đầu
+
+- **X-quang ngực thẳng (PA):** Bắt buộc thực hiện ở hầu hết bệnh nhân khó thở [cite: 101]. Giúp đánh giá kích thước bóng tim, dấu hiệu ứ huyết phổi, thâm nhiễm phế nang (viêm phổi), tràn dịch/tràn khí màng phổi, ứ khí phế thũng [cite: 98, 101].
+- **Điện tâm đồ (ECG 12 chuyển đạo):** Bắt buộc [cite: 101]. Tầm soát thiếu máu cục bộ cơ tim (ST-T biến đổi), phì đại các buồng tim, rối loạn nhịp (Rung nhĩ), dấu hiệu căng giãn thất phải ((S_I Q_{III T_{III) trong thuyên tắc phổi) [cite: 101, 117].
+- **Khí máu động mạch (ABG) / (SpO_2):** Đánh giá mức độ suy hô hấp, giảm (PaO_2), tăng (PaCO_2) (ứ trệ thông khí) và trạng thái toan-kiềm [cite: 37, 102].
+
+### 2. Các Cận lâm sàng Chuyên sâu theo Định hướng Lâm sàng
+
+- **Chỉ dấu sinh học Tim mạch:**
+    - **(BNP) / (NT-proBNP):** Tiêu chuẩn vàng phân biệt khó thở do tim vs. khó thở không do tim [cite: 96, 102]. ((BNP < 100 pg/mL) có giá trị tiên đoán âm (> 90%) để loại trừ suy tim cấp) [cite: 102].
+    - **hs-Troponin (T hoặc I):** Tầm soát Hội chứng vành cấp hoặc tổn thương cơ tim [cite: 102].
+    - **D-Dimer:** Tầm soát thuyên tắc phổi ở bệnh nhân có nguy cơ lâm sàng thấp/trung bình (thang điểm Well) [cite: 93, 102].
+- **Siêu âm tim Doppler:** Đánh giá phân suất tống máu thất trái ((EF)), chức năng thất phải, bệnh van tim, áp lực động mạch phổi ((PAPs)), tràn dịch màng ngoài tim [cite: 101, 105].
+- **Hô hấp ký & Test giãn phế quản:** Đánh giá hội chứng tắc nghẽn ((FEV_1/FVC < 0{,7)), đo độ phục hồi phế quản trong Hen và COPD (thực hiện khi bệnh nhân đã qua đợt cấp ổn định) [cite: 32, 34].
+- **CT-scan ngực (hoặc CT cắt lớp vi tính động mạch phổi - CTA):** Xác định thuyên tắc phổi, bệnh phổi kẽ, giãn phế quản hoặc khối u hô hấp [cite: 28, 102].
+
+---
+
+## VI. Sơ đồ Thuật toán Tiếp cận Bệnh nhân Khó thở (YDS / Harrison)
+
+```
+                         [ BỆNH NHÂN KHÓ THỞ ]
+                                    |
+            +-----------------------+-----------------------+
+            |                                               |
+  [ CÓ DẤU HIỆU NGUY HIỂM / SUY HÔ HẤP ]       [ KHÔNG DẤU HIỆU NGUY HIỂM ]
+  • Nhịp thở > 30 l/p, SpO2 < 90%               |
+  • Co kéo cơ hô hấp phụ, bứt rứt/lơ mơ          v
+  • Khó nói trọn câu, vã mồ hôi, tím tái   [ KHAI THÁC BỆNH SỬ & TIỀN CĂN ] [cite: 98]
+            |                                  • Thời gian, tư thế, tính chất [cite: 98]
+            v                                  • Triệu chứng kèm theo (Đau ngực, ho, sốt) [cite: 99]
+  [ XỬ TRÍ CẤP CỨU KHẨN ]                      • Tiền căn: Hen, COPD, Mạch vành, ĐTĐ
+  • Thở O2 / Thông khí nhân tạo [cite: 2, 100]               |
+  • Bốc tách & Thiết lập đường truyền                       v
+            |                                  [ KHÁM THỰC THỂ CƠ QUAN ] [cite: 98]
+            +-----------------------+----------• Phổi: Ran nổ, ran ẩm, khò khè, rì rào PB [cite: 101]
+                                    |          • Tim: T3 Gallop, âm thổi, TMC nổi [cite: 101]
+                                    v          • Chi: Phù 2 chân / Sưng đau 1 bên [cite: 101]
+                  [ CẬN LÂM SÀNG DIỆN RỘNG HÀNG ĐẦU ]            |
+                  • X-quang ngực thẳng [cite: 101]                 v
+                  • ECG 12 chuyển đạo [cite: 101]      [ NGUYÊN NHÂN ĐỊNH HƯỚNG ]
+                  • Khí máu động mạch / SpO2 [cite: 102]          |
+                                    |                             |
+          +-------------------------+-----------------------------+
+          |                         |                             |
+          v                         v                             v
+[ HƯỚNG TIM MẠCH ]        [ HƯỚNG HÔ HẤP ]            [ NGUYÊN NHÂN KHÁC ]
+• BNP / NT-proBNP [cite: 102]    • Hô hấp ký (khi ổn) [cite: 32]   • CTM, Ion đồ, Chức năng thận
+• hs-Troponin [cite: 102]        • CT-scan ngực / CTA [cite: 28]   • Chức năng tuyến giáp [cite: 98]
+• Siêu âm tim Doppler [cite: 101]  • D-Dimer (Thuyên tắc) [cite: 102] • Khí máu động mạch [cite: 102]
+```
+
+---
+
+## Thì khó thở
 
 Tình trạng khó thở trong các bệnh lý hô hấp được phân loại theo thì hô hấp dựa trên **vị trí giải phẫu của tổn thương** (đường dẫn khí lớn ngoài lồng ngực, đường dẫn khí nhỏ trong lồng ngực, hay tổn thương nhu mô/màng phổi) :
 
