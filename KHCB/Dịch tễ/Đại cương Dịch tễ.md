@@ -1,4 +1,4 @@
-## 1. Lịch Sử Phát Triển Của Dịch Tễ Học
+## Lịch Sử Phát Triển Của Dịch Tễ Học
 
 Thuật ngữ **Epidemiology** bắt nguồn từ tiếng La-tinh (_epi_ = trên, _demos_ = dân, _logos_ = môn học), có nghĩa là môn học khảo sát về những hiện tượng xảy ra ở người dân. Ban đầu, dịch tễ học chỉ tập trung vào các bệnh truyền nhiễm lây lan hàng loạt (như dịch hạch, dịch tả), nhưng sau này đã mở rộng sang các bệnh không lây (ung thư, tim mạch, tai nạn giao thông, các yếu tố hành vi và môi trường).
 
@@ -12,7 +12,7 @@ Các cột mốc lịch sử quan trọng bao gồm:
 
 ---
 
-## 2. Định Nghĩa, Đối Tượng Và Cách Tiếp Cận Dịch Tễ Học
+## Định Nghĩa, Đối Tượng Và Cách Tiếp Cận Dịch Tễ Học
 
 ### Định nghĩa chính thức
 
@@ -34,7 +34,7 @@ Lập luận dịch tễ học là một tiến trình gồm 2 bước cơ bản
 
 ---
 
-## 3. Mục Đích, Chiến Lược Nghiên Cứu Và Nội Dung Hoạt Động
+## Mục Đích, Chiến Lược Nghiên Cứu Và Nội Dung Hoạt Động
 
 Dịch tễ học được hệ thống hóa qua **3 mục đích chính**, tương ứng với **3 chiến lược nghiên cứu** và **3 nội dung hoạt động**:
 
@@ -46,7 +46,7 @@ Dịch tễ học được hệ thống hóa qua **3 mục đích chính**, tư�
 
 ---
 
-## 4. Ứng Dụng Thực Tế Của Dịch Tễ Học
+## Ứng Dụng Thực Tế Của Dịch Tễ Học
 
 Dịch tễ học đóng vai trò quan trọng trong 3 lĩnh vực chính:
 
