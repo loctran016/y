@@ -55,17 +55,18 @@ THATTr đơn độc HATT < 140 mmHg HATTr ≥ 90 mmHg
 
 Theo khuyến cáo của các Hội Tim mạch (ESC, AHA, VSH) và giáo trình Nội khoa, để chẩn đoán xác định **Tăng huyết áp kháng trị (Resistant Hypertension)** trên lâm sàng, cần đảm bảo đầy đủ các tiêu chí sau:
 
-1. **Phác đồ phối hợp:** Sử dụng đồng thời **từ 3 loại thuốc hạ áp thuộc các nhóm khác nhau trở lên**, trong đó **bắt buộc có 1 thuốc lợi tiểu** (thường là Thiazide hoặc Thiazide-like như *Indapamide, Chlorthalidone*) [cite: 39].
-2. **Liều lượng:** Tất cả các thuốc đều đã được dung nạp ở **liều tối đa hoặc liều tối ưu** [cite: 39].
-3. **Kết quả:** Trị số huyết áp đo tại phòng khám vẫn **không đạt huyết áp mục tiêu** (hoặc đạt mục tiêu nhưng phải dùng đến **4 loại thuốc hạ áp trở lên**) [cite: 43].
+1. **Phác đồ phối hợp:** Sử dụng đồng thời **từ 3 loại thuốc hạ áp thuộc các nhóm khác nhau trở lên**, trong đó **bắt buộc có 1 thuốc lợi tiểu** (thường là Thiazide hoặc Thiazide-like như _Indapamide, Chlorthalidone_).
+2. **Liều lượng:** Tất cả các thuốc đều đã được dung nạp ở **liều tối đa hoặc liều tối ưu**.
+3. **Kết quả:** Trị số huyết áp đo tại phòng khám vẫn **không đạt huyết áp mục tiêu** (hoặc đạt mục tiêu nhưng phải dùng đến **4 loại thuốc hạ áp trở lên**).
 
 ---
 
-Trước khi kết luận bệnh nhân bị THA kháng trị, bắt buộc phải loại trừ **Tăng huyết áp giả kháng trị (Pseudo-resistant hypertension)** [cite: 43, 48], nguyên nhân thường gặp do:
-* **Bệnh nhân không tuân thủ điều trị:** Uống thuốc không đều, tự ý giảm liều hoặc bỏ thuốc [cite: 43, 65].
-* **Hiệu ứng "Áo choảng trắng":** Huyết áp vọt cao khi đo ở phòng khám nhưng bình thường khi đo tại nhà (cần đo HA liên tục 24 giờ - ABPM hoặc đo HA tại nhà - HBPM để xác nhận) [cite: 43].
-* **Kỹ thuật đo huyết áp sai:** Dùng bao đo quá nhỏ so với vòng tay béo phì, bệnh nhân không được nghỉ ngơi 5 phút trước khi đo [cite: 41].
-* **Yếu tố lối sống / Thuốc tương tác:** Bệnh nhân vẫn ăn quá mặn, nghiện rượu bia, hoặc đang dùng kèm các thuốc làm tăng HA (như NSAIDs, Corticoid, thuốc nhỏ mũi chứa sympathomimetic) [cite: 48, 51].
+Trước khi kết luận bệnh nhân bị THA kháng trị, bắt buộc phải loại trừ **Tăng huyết áp giả kháng trị (Pseudo-resistant hypertension)**, nguyên nhân thường gặp do:
+
+- **Bệnh nhân không tuân thủ điều trị:** Uống thuốc không đều, tự ý giảm liều hoặc bỏ thuốc.
+- **Hiệu ứng "Áo choảng trắng":** Huyết áp vọt cao khi đo ở phòng khám nhưng bình thường khi đo tại nhà (cần đo HA liên tục 24 giờ - ABPM hoặc đo HA tại nhà - HBPM để xác nhận).
+- **Kỹ thuật đo huyết áp sai:** Dùng bao đo quá nhỏ so với vòng tay béo phì, bệnh nhân không được nghỉ ngơi 5 phút trước khi đo.
+- **Yếu tố lối sống / Thuốc tương tác:** Bệnh nhân vẫn ăn quá mặn, nghiện rượu bia, hoặc đang dùng kèm các thuốc làm tăng HA (như NSAIDs, Corticoid, thuốc nhỏ mũi chứa sympathomimetic).
 
 ---
 
@@ -105,54 +106,56 @@ Khi tiếp nhận bệnh nhân có huyết áp (≥ 180/120 mmHg), bác sĩ cầ
 
 ---
 
-
-Theo giáo trình *Tiếp cận Chẩn đoán Bệnh Nội khoa* (ĐHYD TP.HCM), **hơn 90% các trường hợp tăng huyết áp (THA) ở người lớn là Tăng huyết áp nguyên phát (vô căn)** [cite: 38]. Do đó, việc tầm soát các nguyên nhân thứ phát **không được chỉ định đại trà** cho mọi bệnh nhân mà chỉ tập trung vào các nhóm đối tượng nghi ngờ cao [cite: 58, 118].
+Theo giáo trình _Tiếp cận Chẩn đoán Bệnh Nội khoa_ (ĐHYD TP.HCM), **hơn 90% các trường hợp tăng huyết áp (THA) ở người lớn là Tăng huyết áp nguyên phát (vô căn)**. Do đó, việc tầm soát các nguyên nhân thứ phát **không được chỉ định đại trà** cho mọi bệnh nhân mà chỉ tập trung vào các nhóm đối tượng nghi ngờ cao.
 
 ---
 
 ### I. KHI NÀO CẦN TẦM SOÁT TĂNG HUYẾT ÁP THỨ PHÁT?
 
-Bác sĩ sẽ đặt ra chỉ định tầm soát chuyên sâu tìm nguyên nhân thứ phát khi bệnh nhân có ít nhất một trong các **dấu hiệu gợi ý / cờ đỏ** sau [cite: 61, 118, 119]:
+Bác sĩ sẽ đặt ra chỉ định tầm soát chuyên sâu tìm nguyên nhân thứ phát khi bệnh nhân có ít nhất một trong các **dấu hiệu gợi ý / cờ đỏ** sau:
 
 #### 1. Tuổi khởi phát bất thường
-* **Khởi phát ở tuổi quá trẻ (\\[< 30\text{ tuổi}\\]):** Bệnh nhân trẻ tuổi bị THA mà không có yếu tố nguy cơ tim mạch hay béo phì rõ rệt [cite: 61, 118].
-* **Khởi phát đột ngột ở người lớn tuổi (\\[> 50 - 55\text{ tuổi}\\]):** Trước đó huyết áp hoàn toàn bình thường, nay xuất hiện THA rõ [cite: 118].
-* Trẻ em hoặc thanh thiếu niên bị tăng huyết áp [cite: 61].
+
+- **Khởi phát ở tuổi quá trẻ (\\[< 30\text{ tuổi}\\]):** Bệnh nhân trẻ tuổi bị THA mà không có yếu tố nguy cơ tim mạch hay béo phì rõ rệt.
+- **Khởi phát đột ngột ở người lớn tuổi (\\[> 50 - 55\text{ tuổi}\\]):** Trước đó huyết áp hoàn toàn bình thường, nay xuất hiện THA rõ.
+- Trẻ em hoặc thanh thiếu niên bị tăng huyết áp.
 
 #### 2. Mức độ & Diễn tiến huyết áp bất thường
-* **Khởi phát ĐỘT NGỘT** hoặc trị số huyết áp **tăng vọt rất nặng ngay từ đầu** (THA độ 3, THA ác tính, hoặc Cơn tăng huyết áp cấp cứu) [cite: 60, 61, 118].
-* **Tăng huyết áp kháng trị (Resistant Hypertension):** Huyết áp vẫn không đạt mục tiêu dù đã dùng phối hợp **từ 3 loại thuốc hạ áp trở lên** ở liều tối ưu (trong đó bắt buộc có 1 thuốc lợi tiểu) [cite: 39].
-* **Huyết áp đang kiểm soát ổn định đột ngột mất kiểm soát/tăng vọt** mà không giải thích được do tuân thủ điều trị kém.
+
+- **Khởi phát ĐỘT NGỘT** hoặc trị số huyết áp **tăng vọt rất nặng ngay từ đầu** (THA độ 3, THA ác tính, hoặc Cơn tăng huyết áp cấp cứu).
+- **Tăng huyết áp kháng trị (Resistant Hypertension):** Huyết áp vẫn không đạt mục tiêu dù đã dùng phối hợp **từ 3 loại thuốc hạ áp trở lên** ở liều tối ưu (trong đó bắt buộc có 1 thuốc lợi tiểu).
+- **Huyết áp đang kiểm soát ổn định đột ngột mất kiểm soát/tăng vọt** mà không giải thích được do tuân thủ điều trị kém.
 
 #### 3. Dấu hiệu lâm sàng & Cận lâm sàng gợi ý nguyên nhân cụ thể
-* **Bệnh lý Thận & Mạch máu thận:**
-  * Có tổn thương thận trên xét nghiệm: Creatinine máu tăng, giảm eGFR, có đạm niệu hoặc tiểu máu [cite: 64, 118].
-  * Khám thấy thận to hoặc nghe có **âm thổi ở vùng động mạch thận** (gợi ý hẹp động mạch thận).
-  * HA chênh lệch rõ giữa 2 tay hoặc HA tay cao hơn chi dưới (gợi ý hẹp eo động mạch chủ).
-* **Bệnh lý Tĩnh mạch / Tuyến thượng thận & Nội tiết:**
-  * **Hạ Kali máu tự nhiên** (hoặc hạ Kali máu nặng xuất hiện sau khi dùng lợi tiểu liều thấp) \\(\rightarrow\\) Gợi ý *Cường aldosterone nguyên phát (Hội chứng Conn)* [cite: 9, 119].
-  * **Cơn THA kịch phát** đi kèm tam chứng điển hình: *Nhức đầu dữ dội + Vã mồ hôi + Tim đập nhanh/hồi hộp* \\(\rightarrow\\) Gợi ý *U tủy thượng thận (Pheochromocytoma)* [cite: 61, 119].
-  * **Hội chứng Cushing:** Kiểu hình béo trung tâm, mặt tròn như mặt trăng, rạn da màu tím đỏ, teo cơ [cite: 9, 119].
-  * **Bệnh lý tuyến giáp:** Cường giáp (sụt cân, nhịp tim nhanh, chịu nóng kém) [cite: 9, 119] hoặc Suy giáp (sợ lạnh, mạch chậm, phù niêm).
-* **Hội chứng Ngưng thở khi ngủ (OSA):** Bệnh nhân béo phì, ngáy to, hay buồn ngủ/mệt mỏi nhiều vào ban ngày [cite: 118].
-* **Do Thuốc / Chất ngoại sinh:** Tiền căn lạm dụng Corticoid dài ngày, thuốc giảm đau NSAIDs, thuốc tránh thai đường uống, thuốc nhỏ mũi chứa sympathomimetic, hoặc nghiện rượu bia nặng [cite: 119, 173].
+
+- **Bệnh lý Thận & Mạch máu thận:**
+  - Có tổn thương thận trên xét nghiệm: Creatinine máu tăng, giảm eGFR, có đạm niệu hoặc tiểu máu.
+  - Khám thấy thận to hoặc nghe có **âm thổi ở vùng động mạch thận** (gợi ý hẹp động mạch thận).
+  - HA chênh lệch rõ giữa 2 tay hoặc HA tay cao hơn chi dưới (gợi ý hẹp eo động mạch chủ).
+- **Bệnh lý Tĩnh mạch / Tuyến thượng thận & Nội tiết:**
+  - **Hạ Kali máu tự nhiên** (hoặc hạ Kali máu nặng xuất hiện sau khi dùng lợi tiểu liều thấp) \\(\rightarrow\\) Gợi ý _Cường aldosterone nguyên phát (Hội chứng Conn)_.
+  - **Cơn THA kịch phát** đi kèm tam chứng điển hình: _Nhức đầu dữ dội + Vã mồ hôi + Tim đập nhanh/hồi hộp_ \\(\rightarrow\\) Gợi ý _U tủy thượng thận (Pheochromocytoma)_.
+  - **Hội chứng Cushing:** Kiểu hình béo trung tâm, mặt tròn như mặt trăng, rạn da màu tím đỏ, teo cơ.
+  - **Bệnh lý tuyến giáp:** Cường giáp (sụt cân, nhịp tim nhanh, chịu nóng kém) hoặc Suy giáp (sợ lạnh, mạch chậm, phù niêm).
+- **Hội chứng Ngưng thở khi ngủ (OSA):** Bệnh nhân béo phì, ngáy to, hay buồn ngủ/mệt mỏi nhiều vào ban ngày.
+- **Do Thuốc / Chất ngoại sinh:** Tiền căn lạm dụng Corticoid dài ngày, thuốc giảm đau NSAIDs, thuốc tránh thai đường uống, thuốc nhỏ mũi chứa sympathomimetic, hoặc nghiện rượu bia nặng.
 
 ---
 
 ### II. KHI NÀO KHÔNG CẦN TẦM SOÁT TĂNG HUYẾT ÁP THỨ PHÁT?
 
-**KHÔNG cần** làm các xét nghiệm tầm soát chuyên sâu/phức tạp khi bệnh nhân đáp ứng các tiêu chuẩn của **Tăng huyết áp nguyên phát điển hình** [cite: 38, 58]:
+**KHÔNG cần** làm các xét nghiệm tầm soát chuyên sâu/phức tạp khi bệnh nhân đáp ứng các tiêu chuẩn của **Tăng huyết áp nguyên phát điển hình**:
 
-1. **Độ tuổi khởi phát điển hình:** Xuất hiện trong khoảng **30 – 50 tuổi** [cite: 61].
+1. **Độ tuổi khởi phát điển hình:** Xuất hiện trong khoảng **30 – 50 tuổi**.
 2. **Có các yếu tố nguy cơ tim mạch & Lối sống rõ ràng:**
-   * Tiền căn gia đình (bố, mẹ, anh chị em) có người bị THA nguyên phát [cite: 38, 118].
-   * Có các yếu tố lối sống: Thừa cân/béo phì, ăn mặn, hút thuốc lá, ít vận động, căng thẳng tâm lý kéo dài [cite: 38, 118].
-3. **Diễn tiến êm dịu, từ từ:** Huyết áp tăng nhẹ đến vừa (độ 1 hoặc độ 2), diễn tiến từ từ qua nhiều năm [cite: 59, 118].
-4. **Đáp ứng tốt với điều trị:** Huyết áp nhanh chóng đạt mục tiêu khi thay đổi lối sống hoặc dùng 1–2 loại thuốc hạ áp thông thường [cite: 39].
-5. **Xét nghiệm thường quy hoàn toàn bình thường:** 
-   * Kali máu trong giới hạn bình thường [cite: 6, 119].
-   * Chức năng thận (Creatinine, eGFR) và Tổng phân tích nước tiểu không có bất thường [cite: 64, 119].
-   * Khám thực thể không phát hiện bất kỳ âm thổi mạch máu hay biểu hiện bất thường của các bệnh nội tiết [cite: 58, 119].
+   - Tiền căn gia đình (bố, mẹ, anh chị em) có người bị THA nguyên phát.
+   - Có các yếu tố lối sống: Thừa cân/béo phì, ăn mặn, hút thuốc lá, ít vận động, căng thẳng tâm lý kéo dài.
+3. **Diễn tiến êm dịu, từ từ:** Huyết áp tăng nhẹ đến vừa (độ 1 hoặc độ 2), diễn tiến từ từ qua nhiều năm.
+4. **Đáp ứng tốt với điều trị:** Huyết áp nhanh chóng đạt mục tiêu khi thay đổi lối sống hoặc dùng 1–2 loại thuốc hạ áp thông thường.
+5. **Xét nghiệm thường quy hoàn toàn bình thường:**
+   - Kali máu trong giới hạn bình thường.
+   - Chức năng thận (Creatinine, eGFR) và Tổng phân tích nước tiểu không có bất thường.
+   - Khám thực thể không phát hiện bất kỳ âm thổi mạch máu hay biểu hiện bất thường của các bệnh nội tiết.
 
 ---
 
