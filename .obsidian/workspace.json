@@ -187,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "iconic:Open rulebook": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
