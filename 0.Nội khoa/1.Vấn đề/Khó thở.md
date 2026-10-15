@@ -1,4 +1,3 @@
-
 ## Đại cương & Cơ chế Sinh lý bệnh
 
 Khó thở là cảm giác chủ quan của bệnh nhân biểu hiện sự không thoải mái trong quá trình hít thở với nhiều mức độ khác nhau [cite: 90]. Khó thở có thể diễn tiến cấp tính (từ vài giờ đến vài ngày), bán cấp (vài ngày đến vài tuần) hoặc mạn tính (kéo dài trên (4 - 8) tuần) [cite: 90].
@@ -7,7 +6,7 @@ Khó thở xảy ra khi có sự mất cân bằng giữa nhu cầu thông khí 
 
 - **Hệ hô hấp:** Rối loạn vận chuyển khí (khí phế quản), bơm hô hấp (cơ hô hấp, lồng ngực) hoặc bộ phận trao đổi khí (mô kẽ, phế nang) [cite: 90].
 - **Hệ tim mạch:** Suy giảm chức năng co bóp tâm thu/tâm trương, bệnh van tim, bệnh màng ngoài tim, hoặc thiếu máu cục bộ cơ tim cấp tính gây sung huyết phổi và giảm tưới máu mô [cite: 90].
-- **Cơ chế khác:** Thiếu máu mạn tính, rối loạn chuyển hóa (toan chuyển hóa), nguyên nhân tâm lý [cite: 90, 94].
+- **Cơ chế khác:** Thiếu máu mạn tính, rối loạn chuyển hóa (toan chuyển hóa), nguyên nhân tâm lý.
 
 ---
 ## Tiếp cận Chẩn đoán Lâm sàng
@@ -18,8 +17,8 @@ Khai thác đầy đủ các thuộc tính của triệu chứng khó thở giú
 
 #### Hoàn cảnh & Thời gian khởi phát
 
-- **Khởi phát đột ngột / Cấp tính (vài phút đến vài giờ):** Gợi ý các nguyên nhân cấp cứu như Cơn hen phế quản cấp, Đợt cấp COPD, Phù phổi cấp, Thuyên tắc phổi, Tràn khí màng phổi tự phát, Hội chứng vành cấp, Chèn ép tim cấp, Dị vật đường thở hoặc Phản ứng phản vệ [cite: 91, 99].
-- **Khởi phát từ từ / Mạn tính (vài tuần đến vài tháng):** Bệnh phổi tắc nghẽn mạn tính (COPD), Bệnh phổi kẽ, Suy tim mạn, Thiếu máu mạn, Tràn dịch màng phổi [cite: 90, 94].
+- **Khởi phát đột ngột / Cấp tính (vài phút đến vài giờ):** Gợi ý các nguyên nhân cấp cứu như Cơn hen phế quản cấp, Đợt cấp COPD, Phù phổi cấp, Thuyên tắc phổi, Tràn khí màng phổi tự phát, Hội chứng vành cấp, Chèn ép tim cấp, Dị vật đường thở hoặc Phản ứng phản vệ.
+- **Khởi phát từ từ / Mạn tính (vài tuần đến vài tháng):** Bệnh phổi tắc nghẽn mạn tính (COPD), Bệnh phổi kẽ, Suy tim mạn, Thiếu máu mạn, Tràn dịch màng phổi.
 
 #### Tư thế & Thời điểm xuất hiện khó thở
 
@@ -66,7 +65,7 @@ Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí
 ### 2. Khám Cơ quan
 
 - **Khám Phổi:**
-    - _Rì rào phế nang giảm đều hoặc mất 1 bên:_ Tràn dịch màng phổi, Tràn khí màng phổi, Xẹp phổi [cite: 101].
+    - _Rì rào phế nang giảm đều hoặc mất 1 bên:_ Tràn dịch màng phổi, Tràn khí màng phổi, Xẹp phổi .
     - _Thở rít (Stridor):_ [Tắc nghẽn đường HH dưới](../Hô%20hấp/Tắc%20nghẽn%20đường%20HH%20dưới.md) - Tắc nghẽn đường dẫn khí lớn ngoài/trong lồng ngực (dị vật, phù thanh quản) [cite: 31, 101].
     - _Khò khè, ran rít, ran ngáy:_ Co thắt phế quản (Hen, COPD, "Hen tim") [cite: 8, 31, 101].
     - _Ran nổ, ran ẩm khu trú:_ Viêm phổi thùy, áp xe phổi [cite: 76, 77, 101].
@@ -75,11 +74,11 @@ Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí
     - Mỏm tim lệch ngoài (Tim to) [cite: 9, 101].
     - Tiếng tim bất thường: Tiếng Ngựa phi **Gallop T3** (chỉ điểm suy tim cấp/mất bù), âm thổi van tim [cite: 4, 101].
     - Tĩnh mạch cảnh nổi ((45^circ)), Phản hồi gan - tĩnh mạch cảnh (+) [cite: 4, 101].
-    - Mạch nghịch (Pulsus paradoxus): Hen nặng, Chèn ép tim cấp [cite: 101].
+    - Mạch nghịch (Pulsus paradoxus): Hen nặng, Chèn ép tim cấp .
 - **Khám Toàn thân & Ngoại biên:**
     - Phù mềm đối xứng 2 cẳng chân (Suy tim, Hội chứng thận hư, Xơ gan) [cite: 3, 101].
     - Sưng đau chi dưới 1 bên (Gợi ý Huyết khối tĩnh mạch sâu (rightarrow) Thuyên tắc phổi) [cite: 93, 102].
-    - Ngón tay dùi trống (Bệnh phổi mạn tính, Bệnh tim bẩm sinh tím, Ung thư phổi) [cite: 40, 101].
+    - Ngón tay dùi trống (Bệnh phổi mạn tính, Bệnh tim bẩm sinh tím, Ung thư phổi).
 
 ---
 
@@ -107,8 +106,8 @@ Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí
 
 ### 1. Các Cận lâm sàng Bắt buộc Ban đầu
 
-- **X-quang ngực thẳng (PA):** Bắt buộc thực hiện ở hầu hết bệnh nhân khó thở [cite: 101]. Giúp đánh giá kích thước bóng tim, dấu hiệu ứ huyết phổi, thâm nhiễm phế nang (viêm phổi), tràn dịch/tràn khí màng phổi, ứ khí phế thũng [cite: 98, 101].
-- **Điện tâm đồ (ECG 12 chuyển đạo):** Bắt buộc [cite: 101]. Tầm soát thiếu máu cục bộ cơ tim (ST-T biến đổi), phì đại các buồng tim, rối loạn nhịp (Rung nhĩ), dấu hiệu căng giãn thất phải ((S_I Q_{III T_{III) trong thuyên tắc phổi) [cite: 101, 117].
+- **X-quang ngực thẳng (PA):** Bắt buộc thực hiện ở hầu hết bệnh nhân khó thở . Giúp đánh giá kích thước bóng tim, dấu hiệu ứ huyết phổi, thâm nhiễm phế nang (viêm phổi), tràn dịch/tràn khí màng phổi, ứ khí phế thũng [cite: 98, 101].
+- **Điện tâm đồ (ECG 12 chuyển đạo):** Bắt buộc . Tầm soát thiếu máu cục bộ cơ tim (ST-T biến đổi), phì đại các buồng tim, rối loạn nhịp (Rung nhĩ), dấu hiệu căng giãn thất phải ((S_I Q_{III T_{III) trong thuyên tắc phổi) [cite: 101, 117].
 - **Khí máu động mạch (ABG) / (SpO_2):** Đánh giá mức độ suy hô hấp, giảm (PaO_2), tăng (PaCO_2) (ứ trệ thông khí) và trạng thái toan-kiềm [cite: 37, 102].
 
 ### 2. Các Cận lâm sàng Chuyên sâu theo Định hướng Lâm sàng
@@ -140,12 +139,12 @@ Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí
   • Thở O2 / Thông khí nhân tạo [cite: 2, 100]               |
   • Bốc tách & Thiết lập đường truyền                       v
             |                                  [ KHÁM THỰC THỂ CƠ QUAN ] [cite: 98]
-            +-----------------------+----------• Phổi: Ran nổ, ran ẩm, khò khè, rì rào PB [cite: 101]
-                                    |          • Tim: T3 Gallop, âm thổi, TMC nổi [cite: 101]
-                                    v          • Chi: Phù 2 chân / Sưng đau 1 bên [cite: 101]
+            +-----------------------+----------• Phổi: Ran nổ, ran ẩm, khò khè, rì rào PB 
+                                    |          • Tim: T3 Gallop, âm thổi, TMC nổi 
+                                    v          • Chi: Phù 2 chân / Sưng đau 1 bên 
                   [ CẬN LÂM SÀNG DIỆN RỘNG HÀNG ĐẦU ]            |
-                  • X-quang ngực thẳng [cite: 101]                 v
-                  • ECG 12 chuyển đạo [cite: 101]      [ NGUYÊN NHÂN ĐỊNH HƯỚNG ]
+                  • X-quang ngực thẳng                  v
+                  • ECG 12 chuyển đạo       [ NGUYÊN NHÂN ĐỊNH HƯỚNG ]
                   • Khí máu động mạch / SpO2 [cite: 102]          |
                                     |                             |
           +-------------------------+-----------------------------+
@@ -154,7 +153,7 @@ Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí
 [ HƯỚNG TIM MẠCH ]        [ HƯỚNG HÔ HẤP ]            [ NGUYÊN NHÂN KHÁC ]
 • BNP / NT-proBNP [cite: 102]    • Hô hấp ký (khi ổn) [cite: 32]   • CTM, Ion đồ, Chức năng thận
 • hs-Troponin [cite: 102]        • CT-scan ngực / CTA [cite: 28]   • Chức năng tuyến giáp [cite: 98]
-• Siêu âm tim Doppler [cite: 101]  • D-Dimer (Thuyên tắc) [cite: 102] • Khí máu động mạch [cite: 102]
+• Siêu âm tim Doppler   • D-Dimer (Thuyên tắc) [cite: 102] • Khí máu động mạch [cite: 102]
 ```
 
 ---
