@@ -1,3 +1,4 @@
+:::details{}
 ## Đại cương & Cơ chế Sinh lý bệnh
 
 Khó thở là cảm giác chủ quan của bệnh nhân biểu hiện sự không thoải mái trong quá trình hít thở với nhiều mức độ khác nhau [cite: 90]. Khó thở có thể diễn tiến cấp tính (từ vài giờ đến vài ngày), bán cấp (vài ngày đến vài tuần) hoặc mạn tính (kéo dài trên (4 - 8) tuần) [cite: 90].
@@ -62,7 +63,7 @@ Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí
 - Rối loạn tri giác (bứt rứt, lơ mơ, hôn mê - dấu hiệu ứ (CO_2) nặng hoặc thiếu (O_2) máu).
 - Khó nói chuyện (không nói được trọn câu).
 
-### 2. Khám Cơ quan
+### Khám Cơ quan
 
 **Khám Phổi:**
 - [Tắc nghẽn đường HH dưới](../Hô%20hấp/Tắc%20nghẽn%20đường%20HH%20dưới.md):
@@ -85,9 +86,9 @@ Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí
 
 ---
 
-## IV. Phân loại Nguyên nhân Khó thở
+## Phân loại Nguyên nhân Khó thở
 
-### 1. Nguyên nhân Khó thở Cấp tính (Cần loại trừ cấp cứu)
+### Nguyên nhân Khó thở Cấp tính (Cần loại trừ cấp cứu)
 
 |Nhóm cơ quan|Nguyên nhân bệnh lý thường gặp|
 |:--|:--|
@@ -160,6 +161,7 @@ Cần phát hiện ngay các dấu hiệu đe dọa tính mạng để xử trí
 ```
 
 ---
+:::
 
 ## Nguyên nhân gây khó thở
 
