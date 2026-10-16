@@ -75,8 +75,26 @@ Tuy nhiên, trên thực tế lâm sàng, **rất nhiều bệnh nhân suy tim v
 
 ---
 
-💡 Bạn có muốn mình tạo thêm một **Sơ đồ thuật toán Phân tầng Đau ngực tại Cấp cứu** (để phân biệt nhanh ACS vs. Bóc tách động mạch chủ vs. Thuyên tắc phổi vs. Đau ngực do Suy tim) không?
 
+
+### Cơ chế sinh lý bệnh giải thích cho Khó thở kịch phát về đêm (PND)
+* **Tái phân bố dịch khi nằm:** Khi bệnh nhân nằm ngủ, lượng dịch tích tụ ở hai chi dưới và các nội tạng tái phân bố dồn về tuần hoàn trung tâm, làm gia tăng đột ngột thể tích máu trở về tim trái [1, 2].
+* **Thoát dịch vào mô kẽ (Phù mô kẽ cấp):** Thất trái bị suy không tống hết lượng máu này khiến áp lực trong các tĩnh mạch và mao mạch phổi tăng vọt, đẩy dịch thấm thoát ra ngoài lòng mạch vào **khoảng mô kẽ** quanh phế quản và phế nang [1, 2].
+* **Kích hoạt cơn PND:** Tình trạng phù nề mô kẽ làm tăng sức cản đường thở và gây co thắt phế quản thứ phát (hiện tượng *"hen tim"*) [1, 2]. Điều này kích thích trung tâm hô hấp khiến bệnh nhân **đột ngột tỉnh giấc sau khi ngủ 1 – 3 giờ** trong tình trạng ho, khò khè, ngộp thở và bắt buộc phải ngồi dậy buông thõng hai chân xuống giường để giảm lượng máu dồn về tim [1, 2].
+
+---
+
+### Sự chuyển tiếp từ PND sang Cơn Phù phổi cấp rầm rộ
+
+| Mức độ tổn thương | Vị trí đọng dịch trong phổi | Biểu hiện lâm sàng đặc trưng |
+| :--- | :--- | :--- |
+| **Nhẹ / Trung bình** *(Giai đoạn đầu)* | **Mô kẽ phổi** (Phù mô kẽ) [1, 2]. | **Khó thở kịch phát về đêm (PND)** hoặc Khó thở khi nằm (Orthopnea); ho khan, khò khè nhẹ [1, 2]. |
+| **Nặng / Dồn dập** *(Giai đoạn bùng phát)* | **Lòng phế nang** (Phù phế nang) [1, 2]. | **Cơn Phù phổi cấp do tim điển hình:** Khó thở dữ dội, "chết đuối trên cạn", **ho khạc đờm bọt hồng**, vật vã, vã mồ hôi, ran ẩm dâng nhanh từ 2 đáy lên đỉnh phổi [1, 2, 4]. |
+
+💡 **Tóm lại:**
+Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ cấp tính diễn ra ban đêm** [1, 2]. Nếu tình trạng ứ dịch này tiếp tục gia tăng nhanh chóng vượt quá ngưỡng chịu đựng, dịch sẽ bứt phá tràn ngập vào lòng phế nang và bùng phát thành **Cơn Phù phổi cấp do tim rầm rộ** [1, 2].
+
+🫀 Bạn có muốn thảo luận thêm về các bước xử trí cấp cứu ban đầu (thở oxy, thuốc dãn mạch, lợi tiểu) cho một bệnh nhân đang vào cơn Phù phổi cấp do tim không?
 ### PHÂN BIỆT: SUY TIM TRÁI VS SUY TIM PHẢI
 
 | Đặc điểm                 | Suy tim trái                                                                                    | Suy tim phải                                                                     |
