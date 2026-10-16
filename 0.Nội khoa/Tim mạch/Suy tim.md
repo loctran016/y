@@ -1,5 +1,6 @@
 ## Triệu chứng gợi ý suy tim
 
+:::details
 ### TCCN
 
 1. **Khó thở:**
@@ -37,7 +38,44 @@ Lưu ý về khó thở khi nằm: bất kỳ bệnh nhân nào khó thở cũng
   - **Gan to:** Gan căng đau, bề mặt nhẵn, bờ tù; có thể đập theo nhịp tim nếu có hở van 3 lá đi kèm.
   - **Báng bụng (Cổ trướng):** Xuất hiện ở giai đoạn muộn do tăng áp lực tĩnh mạch hệ thống.
 
+:::
+**Đau ngực KHÔNG CÓ tính đặc hiệu đối với Suy tim** [cite: 23, 31]. 
+
+Trong chẩn đoán lâm sàng, triệu chứng cơ năng đặc hiệu và có giá trị nhất của suy tim là **Khó thở khi nằm (Orthopnea)** và **Khó thở kịch phát về đêm (PND)** [cite: 21, 31, 32], kết hợp với các dấu hiệu thực thể sung huyết như **Tĩnh mạch cổ nổi, Phản hồi gan - tĩnh mạch cảnh (+), Ran nổ ở phổi và tiếng Gallop T3** [cite: 24, 31].
+
+Tuy nhiên, trên thực tế lâm sàng, **rất nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực** [cite: 13, 83]. Nếu **LOẠI TRỪ** nguyên nhân hẹp/tắc động mạch vành lớn do mảng xơ vữa (Hội chứng Mạch vành Cấp & Mạn), hiện tượng đau ngực ở bệnh nhân suy tim xuất phát từ các cơ chế sinh lý bệnh sau:
+
 ---
+
+### Các Cơ chế Gây Đau Ngực Trực tiếp trong Suy tim (Không do hẹp xơ vữa mạch vành lớn)
+
+* **Thiếu máu cơ tim dưới nội mạc do Tăng sức căng thành thất (Wall Stress):**
+  * Trong suy tim (đặc biệt là suy tim dãn buồng tim), áp lực cuối tâm trương thất trái (LVEDP) tăng cao kết hợp với thể tích buồng tim dãn rộng làm **tăng sức căng thành thất** (theo định luật Laplace) [cite: 26].
+  * Áp lực cao trong buồng tim chèn ép trực tiếp lên các mạch máu nhỏ nuôi vùng dưới nội mạc (subendocardium) [cite: 26, 43]. Tình trạng này làm giảm tưới máu mạch vành thì tâm trương [cite: 43], gây ra cơn đau ngực do **thiếu máu cơ tim dưới nội mạc** mặc dù thân chính động mạch vành hoàn toàn không bị hẹp tắc [cite: 26, 43].
+* **Rối loạn chức năng Vi mạch cơ tim (Microvascular Dysfunction):**
+  * Sự suy giảm khả năng co dãn của các động mạch vành kích thước nhỏ (cấp độ vi tuần hoàn) do rối loạn nội mạc và xơ hóa mô kẽ trong suy tim [cite: 26, 62].
+* **Tăng áp động mạch phổi thứ phát:**
+  * Suy tim trái gây tăng áp lực ứ trệ về tĩnh mạch phổi \\(\rightarrow\\) Tăng áp động mạch phổi thứ phát [cite: 16, 29]. Áp lực mạch phổi tăng cao làm tăng gánh nặng thất phải, gây thiếu máu cơ tim thất phải và bộc lộ cơn **đau ngực dưới xương ức kiểu đè ép** khi gắng sức [cite: 88, 119].
+* **Tràn dịch màng ngoài tim / Tràn dịch màng phổi thứ phát:**
+  * Tình trạng quá tải thể tích và tăng áp lực tĩnh mạch hệ thống trong suy tim nặng có thể gây tràn dịch màng ngoài tim [cite: 27] hoặc tràn dịch màng phổi [cite: 29]. Bệnh nhân sẽ có cảm giác **đau nặng ngực âm ỉ** hoặc **đau ngực kiểu màng phổi** (đau nhói tăng lên khi hít sâu hoặc ho) [cite: 68, 88].
+* **Gan to sung huyết (Căng bao Glisson):**
+  * Suy tim phải gây ứ máu ngoại biên làm gan to nhanh và căng bao Glisson [cite: 29, 30]. Bệnh nhân thường cảm thấy đau tức vùng hạ sườn phải hoặc thượng vị, đôi khi mô tả nhầm thành đau ngực dưới [cite: 30, 85].
+
+---
+
+### Phân biệt Đau Ngực trong Suy tim vs. HC Mạch vành Cấp (ACS) & Mạn (CCS)
+
+| Tiêu chí | Đau ngực thứ phát trong Suy tim | HC Mạch vành Cấp (ACS) [cite: 44, 113] | HC Mạch vành Mạn (CCS) [cite: 57, 113] |
+| :--- | :--- | :--- | :--- |
+| **Bản chất tổn thương** | Tăng sức căng thành thất, thiếu máu dưới nội mạc, tăng áp phổi, tràn dịch màng [cite: 26, 68, 88]. | Nứt/vỡ mảng xơ vữa gây **huyết khối tắc nghẽn cấp tính** ĐMV [cite: 43, 44]. | Mảng xơ vữa tiến triển gây **hẹp cố định** \\(\ge 50 - 70\%\\) lòng ĐMV [cite: 43, 56]. |
+| **Tính chất đau** | Đau âm ỉ, cảm giác nặng ngực miên man hoặc đau kiểu màng phổi [cite: 28, 68, 88]. | **Đau đè ép, siết chặt, bóp nghẹt** dữ dội sau xương ức [cite: 44, 114]. | **Đau thắt/đè ép** sau xương ức, lan vai/tay trái/hàm [cite: 57, 114]. |
+| **Thời gian cơn đau** | Kéo dài âm ỉ theo đợt sung huyết / quá tải thể tích [cite: 28]. | **Kéo dài \\(> 20\text{ phút}\\)** [cite: 44, 114]. | **Thường kéo dài \\(< 20\text{ phút}\\)** [cite: 57, 114]. |
+| **Yếu tố khởi phát & Giảm đau** | Xuất hiện khi nhịp tim nhanh, tăng cân/phù; giảm khi dùng **lợi tiểu** hạ tiền tải [cite: 24, 28]. | Xuất hiện cả **khi nghỉ**; **không giảm** hoặc giảm kém với Nitrat [cite: 44, 115]. | Xuất hiện **khi gắng sức/xúc động**; **giảm nhanh khi nghỉ hoặc ngậm Nitrat** [cite: 57, 115]. |
+| **Men tim (Troponin)** | Troponin có thể **tăng nhẹ mạn tính / bằng phẳng** do hoại tử vi thể [cite: 34, 47]. | Troponin **tăng/giảm có động học rõ rệt** (gấp nhiều lần ngưỡng 99th) [cite: 45, 47]. | Troponin **bình thường** lúc nghỉ [cite: 49]. |
+
+---
+
+💡 Bạn có muốn mình tạo thêm một **Sơ đồ thuật toán Phân tầng Đau ngực tại Cấp cứu** (để phân biệt nhanh ACS vs. Bóc tách động mạch chủ vs. Thuyên tắc phổi vs. Đau ngực do Suy tim) không?
 
 ### PHÂN BIỆT: SUY TIM TRÁI VS SUY TIM PHẢI
 
