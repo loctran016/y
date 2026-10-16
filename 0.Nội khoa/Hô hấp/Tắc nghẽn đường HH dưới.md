@@ -163,6 +163,8 @@ Dựa vào bộ dấu hiệu lâm sàng đặc trưng:
 - Ứ khí ở phổi (giảm âm phế bào đối xứng hai bên, gõ vang).
 - Khám nghe ran rít, ran ngáy lan tỏa hai phế trường.
 
+Ran rít có độ nhạy và độ đặc hiệu đối với HC tắc nghẽn cao hơn so với ran ngáy
+
 ## Đánh giá dấu hiệu suy hô hấp và thái độ xử trí cấp cứu
 
 - Đánh giá các cờ đỏ suy hô hấp đe doạ tính mạng: nhịp thở > 30 lần/phút, SpO2 < 90%, co kéo cơ hô hấp phụ rõ, vã mồ hôi, nói ngắt quãng không thành câu, rối loạn tri giác hoặc xuất hiện "phổi câm".
