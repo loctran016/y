@@ -153,7 +153,47 @@ Các tiếng khò khè được phân biệt dựa vào:
 
 ::
 
-## Các bước tiếp cận chẩn đoán trên lâm sàng
+Trong thực hành lâm sàng Nội khoa, tiếp cận **Hội chứng Tắc nghẽn Đường Hô hấp Dưới** dựa trên các đặc tính nghe phổi và tiền căn giúp phân lập thành **4 bệnh cảnh lâm sàng thường gặp nhất** [cite: 34, 43]:
+
+1. **Hen phế quản (Asthma)**
+2. **Bệnh phổi tắc nghẽn mạn tính (COPD)**
+3. **Giãn phế quản (Bronchiectasis)**
+4. **Tắc nghẽn cố định đường dẫn khí lớn trong lồng ngực (Dị vật, U phế quản, Hẹp phế quản)**
+
+---
+
+| Đặc tính thăm khám & Bệnh sử | Hen phế quản [cite: 34, 38, 46] | Bệnh phổi tắc nghẽn mạn tính (COPD) [cite: 34, 39, 44] | Giãn phế quản [cite: 34, 38, 58] | Tắc nghẽn cố định (Dị vật / U phế quản) [cite: 34, 37, 42] |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Âm sắc khò khè / ran** | **Đa âm (Polyphonic)**, dạng âm nhạc tần số cao (ran rít) [cite: 36, 38]. | **Đa âm (Polyphonic)**, ran rít kèm ran ngáy trầm đục, âm phế bào giảm [cite: 36, 39]. | **Đa âm hoặc Đơn âm**, phối hợp nhiều **ran ẩm, ran nổ** hạt to/vừa [cite: 38, 58]. | **ĐƠN ÂM (Monophonic)** điển hình (một nốt nhạc tần số cố định) [cite: 36, 37, 42]. |
+| **2. Thì hô hấp** | Chiếm ưu thế ở **thì thở ra** (khi nặng nghe cả 2 thì) [cite: 36, 38]. | **Thì thở ra kéo dài** rõ rệt (\\(> 6\\) đến \\(9\\) giây) [cite: 36, 38, 39]. | Thường xuất hiện ở **cả 2 thì** (do ứ đọng dịch đờm trong lòng phế quản) [cite: 37, 38, 58]. | Xuất hiện ở **cả 2 thì** hoặc **thì thở ra**, cường độ không đổi sau ho [cite: 36, 37]. |
+| **3. Vị trí nghe rõ nhất** | **Lan tỏa đối xứng 2 bên** phế trường [cite: 38, 42]. | **Lan tỏa đối xứng 2 bên** phế trường [cite: 38, 39, 42]. | Có thể **khu trú** (nếu tổn thương thùy) hoặc **lan tỏa** 2 bên [cite: 37, 38, 42]. | **KHU TRÚ tại một vị trí cố định** ở một bên lồng ngực [cite: 37, 42]. |
+| **4. Tiền căn & Triệu chứng đi kèm** | Tiếp xúc **dị nguyên**, thay đổi thời tiết; có triệu chứng **GERD** kích phát cơn; không có hội chứng nhiễm trùng (trừ khi bội nhiễm) [cite: 43, 46, 47]. | **Tiếp xúc khói thuốc lá** (\\(> 20\\) gói-năm), khói bụi mạn tính; xuất hiện **hội chứng nhiễm trùng** trong đợt cấp (AECOPD) [cite: 44, 58]. | **Hội chứng nhiễm trùng mạn tính/tái phát:** ho khạc đờm mủ lượng nhiều hằng ngày, ho ra máu; tiền căn Lao phổi [cite: 58, 112]. | **Hội chứng hít sặc** khởi phát đột ngột (dị vật) [cite: 37, 109] HOẶC **khói thuốc lá nặng**, ho ra máu, sụt cân (u phế quản) [cite: 37, 112]. |
+
+---
+
+## HEN PHẾ QUẢN (Asthma)
+* **Cơ chế:** Co thắt cơ trơn phế quản lan tỏa làm đè ép cùng lúc nhiều đường dẫn khí nhỏ [cite: 36, 38].
+* **Đặc tính nghe:** Tiếng khò khè mang tính chất **đa âm (polyphonic)** như dạng âm nhạc, nghe rõ ở **thì thở ra** và nghe **lan tỏa đối xứng khắp 2 bên phổi** [cite: 36, 38, 42].
+* **Bệnh sử & Yếu tố nguy cơ:** Bệnh nhân thường có cơ địa dị ứng, khởi phát cơn khó thở khi tiếp xúc **dị nguyên** (bụi, phấn hoa, lông thú) hoặc khí lạnh [cite: 46, 47]. Cơn hen rất dễ bị kích phát bởi **Trào ngược dạ dày thực quản (GERD)** do acid dịch vị trào ngược gây phản xạ co thắt phế quản [cite: 43, 46]. Thường không có hội chứng nhiễm trùng đi kèm trong cơn hen thuần túy [cite: 46].
+
+## PHỔI TẮC NGHỄN MẠN TÍNH (COPD)
+* **Cơ chế:** Viêm mạn tính và hẹp lòng tiểu phế quản cố định kết hợp khí phế thũng [cite: 34, 39, 44].
+* **Đặc tính nghe:** Nghe ran rít, ran ngáy **đa âm ở thì thở ra**, thời gian thở ra kéo dài đáng kể [cite: 36, 38, 39]. Khám ghi nhận lồng ngực căng phồng, gõ vang và giảm âm phế bào [cite: 36, 39].
+* **Bệnh sử & Yếu tố nguy cơ:** Tiền căn **hút thuốc lá/thuốc giáo nhiều năm** (thường \\(> 20 - 40\\) gói-năm) hoặc phơi nhiễm khói bếp than/bụi nghề nghiệp ở người lớn tuổi (\\(> 40\\) tuổi) [cite: 39, 44]. Khi vào đợt cấp (AECOPD), bệnh nhân bộc lộ rõ **hội chứng nhiễm trùng** (sốt, ho tăng, đờm đổi màu nhầy mủ) [cite: 45, 58].
+
+## GIÃN PHẾ QUẢN (Bronchiectasis)
+* **Cơ chế:** Dãn vĩnh viễn thành phế quản kèm đọng dịch đờm nhầy mủ trong lòng đường thở [cite: 34, 58].
+* **Đặc tính nghe:** Ngoài tiếng ran rít/ran ngáy (do hẹp lòng phế quản bởi đờm), đặc trưng nhất là nghe thấy các **ran ẩm, ran nổ hạt to/vừa xuất hiện ở cả 2 thì** (hít vào và thở ra) do dòng khí xoáy qua các ổ ứ đọng đờm [cite: 38, 58]. Ran phổi có thể **khu trú** ở thùy phổi bị dãn hoặc **lan tỏa** [cite: 37, 42].
+* **Bệnh sử & Yếu tố nguy cơ:** Nổi bật với **hội chứng nhiễm trùng hô hấp mạn tính/tái đi tái lại**: ho khạc đờm mủ lượng nhiều hằng ngày (\\(> 100\text{ mL/24h}\\)), đờm hôi, ho ra máu tái phát [cite: 58, 112]. Tiền căn thường liên quan đến Lao phổi cũ hoặc nhiễm trùng hô hấp nặng lúc nhỏ [cite: 50, 58].
+
+## TẮC NGHỄN CỐ ĐỊNH / DỊ VẬT / U PHẾ QUẢN
+* **Cơ chế:** Tắc nghẽn một vị trí cố định tại đường dẫn khí lớn trong lồng ngực (phế quản gốc, phế quản thùy) [cite: 34, 37, 42].
+* **Đặc tính nghe:** Tiếng khò khè **ĐƠN ÂM (monophonic)** điển hình (chỉ có một nốt nhạc duy nhất) [cite: 36, 37, 42]. Tiếng ran này **khu trú cố định tại một vùng phổi**, nghe thấy ở **cả 2 thì** và không mất đi sau khi bệnh nhân ho [cite: 36, 37, 42].
+* **Bệnh sử & Yếu tố nguy cơ:** 
+  * *Do Dị vật:* Tiền căn có **hội chứng hít sặc** khởi phát đột ngột khi đang ăn [cite: 37, 109].
+  * *Do U phế quản:* Bệnh nhân lớn tuổi, **hút thuốc lá nặng**, kèm ho ra máu, đau ngực khu trú và sụt cân mạn tính [cite: 37, 112, 117]. Nếu khối u gây bít tắc hoàn toàn sẽ dẫn đến **hội chứng nhiễm trùng thứ phát (viêm phổi bít tắc)** phía sau chỗ hẹp [cite: 94].
+
+---
 
 ## Khẳng định hội chứng tắc nghẽn và vị trí tắc nghẽn
 
