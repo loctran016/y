@@ -1,13 +1,12 @@
 [
-  "editing-toolbar",
   "table-editor-obsidian",
-  "omnisearch",
-  "obsidian-importer",
-  "full-width-toggle",
-  "obsidian-excel-to-markdown-table",
-  "sheet-plus",
   "custom-sidebar-icons",
+  "editing-toolbar",
+  "obsidian-excel-to-markdown-table",
+  "full-width-toggle",
+  "iconic",
   "image-converter",
-  "obsidian-git",
-  "iconic"
+  "obsidian-importer",
+  "omnisearch",
+  "sheet-plus"
 ]

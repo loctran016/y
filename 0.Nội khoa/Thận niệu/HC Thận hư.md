@@ -1,10 +1,5 @@
-Dưới đây là **Cẩm nang Toàn diện Tiếp cận Hội chứng Thận hư (HCTH)**, được tổng hợp và nâng cấp toàn bộ từ hai phần trao đổi trước, đồng thời **bổ sung đầy đủ các tổn thương Giải phẫu bệnh (GPB)** trên Kính hiển vi quang học (LM), Miễn dịch huỳnh quang (IF), Kính hiển vi điện tử (EM) cũng như các thể bệnh còn thiếu (Viêm cầu thận tăng sinh màng, Bệnh thận Lupus, Bệnh Bột thận) theo chuẩn Giáo trình Nội khoa:
+## Đại cương
 
----
-
-## I. Đại cương, Sinh lý bệnh & Tiêu chuẩn Chẩn đoán
-
-### 1. Định nghĩa & Chuỗi Sinh lý bệnh Cốt lõi
 Hội chứng Thận hư (HCTH) là một hội chứng lâm sàng và sinh hóa xuất hiện khi màng lọc cầu thận bị tổn thương làm tăng tính thấm bất thường với protein, dẫn đến tình trạng thoát đạm niệu nặng kéo dài.
 
 Sự tổn thương màng đáy cầu thận kích hoạt chuỗi rối loạn chuyển hóa theo cơ chế:
