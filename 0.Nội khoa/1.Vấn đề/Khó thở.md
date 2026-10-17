@@ -100,15 +100,15 @@ Khó thở xảy ra khi có sự mất cân bằng giữa nhu cầu thông khí 
 
 ---
 
-## V. Chỉ định Cận lâm sàng & Quy trình Chẩn đoán
+## Chỉ định Cận lâm sàng & Quy trình Chẩn đoán
 
-### 1. Các Cận lâm sàng Bắt buộc Ban đầu
+### Các Cận lâm sàng Bắt buộc Ban đầu
 
 - **X-quang ngực thẳng (PA):** Bắt buộc thực hiện ở hầu hết bệnh nhân khó thở Giúp đánh giá kích thước bóng tim, dấu hiệu ứ huyết phổi, thâm nhiễm phế nang (viêm phổi), tràn dịch/tràn khí màng phổi, ứ khí phế thũng [cite: 98, 101].
 - **Điện tâm đồ (ECG 12 chuyển đạo):** Bắt buộc Tầm soát thiếu máu cục bộ cơ tim (ST-T biến đổi), phì đại các buồng tim, rối loạn nhịp (Rung nhĩ), dấu hiệu căng giãn thất phải ((S_I Q_{III T_{III) trong thuyên tắc phổi) [cite: 101, 117].
 - **Khí máu động mạch (ABG) / (SpO_2):** Đánh giá mức độ suy hô hấp, giảm (PaO_2), tăng (PaCO_2) (ứ trệ thông khí) và trạng thái toan-kiềm [cite: 37, 102].
 
-### 2. Các Cận lâm sàng Chuyên sâu theo Định hướng Lâm sàng
+### Các Cận lâm sàng Chuyên sâu theo Định hướng Lâm sàng
 
 - **Chỉ dấu sinh học Tim mạch:**
     - **(BNP) / (NT-proBNP):** Tiêu chuẩn vàng phân biệt khó thở do tim vs. khó thở không do tim [cite: 96, 102]. ((BNP < 100 pg/mL) có giá trị tiên đoán âm (> 90%) để loại trừ suy tim cấp) [cite: 102].
@@ -169,17 +169,11 @@ Thang điểm khó thở mMRC (modified Medical Research Council)
 ## Khó thở do Tim
 
 | Triệu chứng / Kiểu khó thở | Hoàn cảnh & Tính chất | Tỉ số khả dĩ dương (LR+) | Tỉ số khả dĩ âm (LR-) | Vai trò chẩn đoán |
-
 | :--- | :--- | :---: | :---: | :--- |
-
 | **Khó thở khi gắng sức** | Xuất hiện khi vận động, giảm khi nghỉ [cite: 19]. | 1,3 | **0,48** | **Độ nhạy cao** \\(\rightarrow\\) Nếu âm tính giúp **Loại trừ**. |
-
 | **Khó thở khi nằm (Orthopnea)** | Ngộp thở khi nằm ngửa, đỡ khi ngồi dậy [cite: 19, 104]. | **2,2** | 0,65 | **Độ đặc hiệu cao** \\(\rightarrow\\) **Chỉ điểm chẩn đoán** [cite: 19, 28]. |
-
 | **Khó thở kịch phát về đêm (PND)** | Đột ngột thức giấc sau khi ngủ 1–3h [cite: 19, 104]. | **2,6** | 0,70 | **Độ đặc hiệu cao** (Tiêu chuẩn chính Framingham). |
-
 | **Tiếng Gallop T3** | Nghe ở mỏm tim đầu tâm trương [cite: 21, 24]. | **11,0** [cite: 22, 23] | 0,88 [cite: 22, 23] | **Đặc hiệu nhất trên lâm sàng** [cite: 22, 28]. |
-
 | **NT-proBNP < 125 pg/mL** | Thử máu lúc nhập viện [cite: 26]. | — | **< 0,1** | **Tiêu chuẩn vàng loại trừ suy tim** (NPV > 90%) [cite: 25, 26, 111]. |
 
 
