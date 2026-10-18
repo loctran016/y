@@ -1,4 +1,4 @@
-# **I. PHẦN 1: PHÔI THAI HỌC HỆ TIÊU HÓA (EMBRYOLOGY)**
+# **PHẦN 1: PHÔI THAI HỌC HỆ TIÊU HÓA (EMBRYOLOGY)**
 
 **1\. Khép phôi & Sự phân chia Ống tiêu hóa nguyên thủy**
 
@@ -41,7 +41,7 @@
 - **Giai đoạn xoay 2 (Trở về ổ bụng, tuần 10):** Vào tuần thứ 10, quai ruột rút từ cuống rốn trở về ổ bụng và xoay thêm 180° ngược chiều kim đồng hồ nữa. Tổng cộng ruột giữa đã xoay 270° ngược chiều kim đồng hồ.
 - **Sự di chuyển nụ manh tràng & Vị trí ruột thừa:** Hỗng tràng trở về ổ bụng trước tiên và xếp vào bên trái. Nụ manh tràng (xuất hiện từ tuần 6 ở ngành dưới) trở về sau cùng, ban đầu nằm ở 1/4 trên phải (ngay dưới thùy phải gan). Sau đó, manh tràng đi xuống hố chậu phải, kéo dài tạo kết tràng lên và định vị ruột thừa ở hố chậu phải. Dị tật xoay bất thường của ruột giữa có thể khiến manh tràng/ruột thừa nằm bất thường ở hố chậu trái hoặc dưới gan.
 
-# **II. PHẦN 2: MÔ HỌC ỐNG TIÊU HÓA (GI TRACT HISTOLOGY)**
+# **PHẦN 2: MÔ HỌC ỐNG TIÊU HÓA (GI TRACT HISTOLOGY)**
 
 **1\. Cấu trúc 4 lớp chung của thành ống tiêu hóa**
 
@@ -214,7 +214,7 @@ D. Ở tĩnh mạch trung tâm - Tổng hợp Albumin
 **✓ ĐÁP ÁN ĐÚNG: B  
 **_Giải thích: Tế bào sao nằm trong khoảng Disse (khoảng quanh xoang). Bình thường dự trữ Vitamin A, khi gan bị viêm/tổn thương mạn tính sẽ kích hoạt thành nguyên bào sợi-cơ tổng hợp collagen gây xơ hóa gan._
 
-# **III. MA TRẬN ĐỀ THI VỀ PHẦN MÔ PHÔI (Y20 - Y23)**
+# **MA TRẬN ĐỀ THI VỀ PHẦN MÔ PHÔI (Y20 - Y23)**
 
 **Hệ thống bài thi:** Các câu hỏi Mô phôi chiếm từ 20% đến 25% tổng số câu hỏi trong mỗi đề thi Module Tiêu hóa tại Đại học Y Dược TP.HCM. Kiến thức được phân bổ đều vào hai mảng chính: Phôi thai học phát triển ống tiêu hóa/tuyến tiêu hóa và Mô học cơ quan.
 
