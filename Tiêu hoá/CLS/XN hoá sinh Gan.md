@@ -1,12 +1,14 @@
 ---
 tags:
 ---
-> Các xét nghiệm hóa sinh gan trong thực hành lâm sàng (thường gọi chung là xét nghiệm chức năng gan) được chia làm 3 nhóm chính: 
+
+> Các xét nghiệm hóa sinh gan trong thực hành lâm sàng (thường gọi chung là xét nghiệm chức năng gan) được chia làm 3 nhóm chính:
+
 1. Nhóm phát hiện tổn thương tế bào gan
-2. Nhóm đánh giá chức năng tổng hợp 
+2. Nhóm đánh giá chức năng tổng hợp
 3. Nhóm phản ánh tình trạng tắc mật/ứ mật.
 
-## 1\. Tổn thương Tế bào Gan (Transaminase / Aminotransferase)
+## Tổn thương Tế bào Gan (Transaminase / Aminotransferase)
 
 ### **a) ALT (Serum Glutamic-Pyruvic Transaminase - SGPT)**
 
@@ -27,7 +29,7 @@ Mức độ tăng transaminase định hướng nguyên nhân tổn thương gan
 - **Tăng nhẹ (< 5 lần giới hạn bình thường):** Gan nhiễm mỡ (NAFLD/NASH), viêm gan C mạn, xơ gan, tổn thương gan do rượu.
 - **Tỉ số AST/ALT >= 2:1 đặc trưng cho BỆNH GAN DO RƯỢU:** Rượu gây tổn thương ti thể tế bào gan (giải phóng nhiều AST ti thể) và làm suy giảm Pyridoxal-5-phosphate (Vitamin B6 - coenzyme cần thiết cho sự tổng hợp ALT). Do đó trong bệnh gan do rượu, AST thường tăng nhưng hiếm khi > 300 U/L và tỉ số AST/ALT > 2 (đặc biệt khi kèm tăng GGT).
 
-## 2\. Chức năng Tổng hợp của Gan
+## Chức năng Tổng hợp của Gan
 
 ### **a) Albumin Huyết tương**
 
@@ -39,6 +41,7 @@ Ngoài ra, Albumin huyết thanh có thể giảm trong bệnh cảnh viêm hệ
 Ngoại lệ: báng bụng dù chức năng tổng hợp gan vẫn tốt -> pha loãng máu
 
 Tăng albumin thường gặp trong vấn đề cô đặc máu kèm giảm thể tích hay di truyền (tăng thời gian bán huỷ albumin)
+
 ### **b) Thời gian Prothrombin (PT) và Chỉ số INR**
 
 - **Vai trò & Đặc tính:** Gan tổng hợp hầu hết các yếu tố đông máu: I, II, V, VII, IX, X. Thời gian bán hủy của các yếu tố đông máu RẤT NGẮN (đặc biệt yếu tố VII có thời gian bán hủy chỉ 6 giờ). PT (Prothrombin Time) / INR đo lường con đường đông máu ngoại tiệm và chung.
@@ -46,31 +49,34 @@ Tăng albumin thường gặp trong vấn đề cô đặc máu kèm giảm th�
 - **Chẩn đoán phân biệt kéo dài PT:** PT kéo dài có thể do suy tế bào gan HOẶC thiếu Vitamin K (do tắc mật mạn gây giảm hấp thu mỡ/vitamin K). Tiêm Vitamin K 10mg (Test Koller): Nếu PT trở về bình thường -> do Tắc mật thiếu Vitamin K; Nếu PT vẫn kéo dài -> do Suy tế bào gan nặng.
 
 Thời gian prothrombin
-* Gan là nơi tổng hợp chính của phần lớn yếu tố đông máu, gồm:
-* Yếu tố I (fibrinogen)
-* Yếu tố II (prothrombin)
-* Yếu tố V
-* Yếu tố VII
-* Yếu tố IX
-* Yếu tố X
-* Yếu tố XII
-* Yếu tố XIII
-* Thiếu hụt yếu tố đông máu thường xảy ra trong diễn tiến của bệnh gan. 
-* Các protein này có thể được đo riêng rẽ hoặc đo gián tiếp bằng các thông số tổng quát về khả năng đông máu như thời gian prothrombin.
-* Kéo dài: không đặc hiệu cho bệnh gan, còn gặp ở bệnh rối loạn đông máu, xuất huyết, hoặc do thuốc. 
-* Loại trừ các nguyên nhân trên  thời gian prothrombin kéo dài
-thường do:
-* Thiếu vitamin K
-* ăn thiếu, vàng da tắc mật kéo dài, kém hấp thu / ruột, kháng sinh làm thay đổi khuẩn chí
-ruột. 
- thời gian prothrombin thường trở về bình thường trong vòng 24 giờ sau một liều tiêm vitamin K  có ích khi đánh giá bệnh nhân vàng da.
-* Sử dụng vitamin K kém do bệnh nhu mô gan tiến triển: bổ sung vitamin K thường không hiệu quả
+
+- Gan là nơi tổng hợp chính của phần lớn yếu tố đông máu, gồm:
+- Yếu tố I (fibrinogen)
+- Yếu tố II (prothrombin)
+- Yếu tố V
+- Yếu tố VII
+- Yếu tố IX
+- Yếu tố X
+- Yếu tố XII
+- Yếu tố XIII
+- Thiếu hụt yếu tố đông máu thường xảy ra trong diễn tiến của bệnh gan. 
+- Các protein này có thể được đo riêng rẽ hoặc đo gián tiếp bằng các thông số tổng quát về khả năng đông máu như thời gian prothrombin.
+- Kéo dài: không đặc hiệu cho bệnh gan, còn gặp ở bệnh rối loạn đông máu, xuất huyết, hoặc do thuốc. 
+- Loại trừ các nguyên nhân trên  thời gian prothrombin kéo dài
+  thường do:
+- Thiếu vitamin K
+- ăn thiếu, vàng da tắc mật kéo dài, kém hấp thu / ruột, kháng sinh làm thay đổi khuẩn chí
+  ruột. 
+   thời gian prothrombin thường trở về bình thường trong vòng 24 giờ sau một liều tiêm vitamin K  có ích khi đánh giá bệnh nhân vàng da.
+- Sử dụng vitamin K kém do bệnh nhu mô gan tiến triển: bổ sung vitamin K thường không hiệu quả
 
 Chỉ số bình thường hoá quốc tế (INR) 
-* Thường được dùng để thể hiện mức độ kháng đông ở bệnh nhân sử
-dụng warfarin. 
-* Có thể không biểu thị tốt nhất cho tình trạng rối loạn đông máu ở bệnh nhân suy gan, đặc biệt nếu không dùng cùng một thuốc thử thromboplastin khi đo.
-## **3\. Nhóm Xét nghiệm Phản ánh Tình trạng Ứ Mật / Tắc Mật**
+
+- Thường được dùng để thể hiện mức độ kháng đông ở bệnh nhân sử
+  dụng warfarin. 
+- Có thể không biểu thị tốt nhất cho tình trạng rối loạn đông máu ở bệnh nhân suy gan, đặc biệt nếu không dùng cùng một thuốc thử thromboplastin khi đo.
+
+## Nhóm Xét nghiệm Phản ánh Tình trạng Ứ Mật / Tắc Mật**
 
 ### **a) Bilirubin Huyết thanh (Toàn phần, Trực tiếp, Gián tiếp)**
 
@@ -88,7 +94,7 @@ dụng warfarin. 
 - **5'-Nucleotidase (5'-NT):** Đặc hiệu cho mô gan/đường mật, KHÔNG TĂNG TRONG BỆNH LÝ XƯƠNG HAY THAI KỲ. Được dùng để XÁC ĐỊNH NGUỒN GỐC TĂNG ALP (nếu cả ALP và 5'-NT cùng tăng -> nguồn gốc chắc chắn từ MẬT/GAN).
 - **Gamma-Glutamyl Transpeptidase (GGT):** Enzym rất nhạy với tổn thương đường mật và sự cảm ứng enzym do RƯỢU hoặc THUỐC (Rifampicin, Phenobarbital, Phenytoin). GGT tăng đơn độc là chỉ dấu rất nhạy cho TÌNH TRẠNG NGHIỆN RƯỢU LÂU NGÀY.
 
-## **4\. Bảng Tổng hợp Toàn bộ Xét nghiệm Sinh lý Hóa sinh Gan**
+## Bảng Tổng hợp Toàn bộ Xét nghiệm Sinh lý Hóa sinh Gan**
 
 | **Tên Xét nghiệm**          | **Giá trị Bình thường**                | **Chức năng / Vai trò**                                          | **Ý nghĩa khi Bất thường**                                                                                               |
 | --------------------------- | -------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |

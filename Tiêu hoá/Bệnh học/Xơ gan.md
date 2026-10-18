@@ -29,7 +29,7 @@ Xơ gan là hậu quả cuối cùng của quá trình tổn thương nhu mô ga
 
 ### Hậu quả sinh lý bệnh dẫn đến hai hội chứng lâm sàng chính
 
-#### A. Hội chứng suy tế bào gan
+#### Hội chứng suy tế bào gan
 
 - **Giảm tổng hợp protein huyết tương**:
   - Giảm sản xuất **Albumin** máu làm giảm áp lực keo huyết tương, làm nước thoát ra mô kẽ gây phù hai chân và tích tụ dịch báng trong khoang bụng.
@@ -38,7 +38,7 @@ Xơ gan là hậu quả cuối cùng của quá trình tổn thương nhu mô ga
 - **Giảm gián hóa hormone Steroid**: Khả năng gián hóa Estrogen ở gan bị suy giảm làm nồng độ Estrogen trong máu tăng cao, gây giãn các vi động mạch dưới da biểu hiện bằng **sao mạch** và **lòng bàn tay son**.
 - **Giảm khả năng khử độc**: Gan giảm khả năng chuyển hóa độc tố NH3 (sinh ra từ chuyển hóa đạm ở ruột) thành Ure qua chu trình Ure. Lượng NH3 tích tụ cao trong máu vượt qua hàng rào máu - não gây **bệnh não gan** (hôn mê gan).
 
-#### B. Hội chứng tăng áp lực tĩnh mạch cửa
+#### Hội chứng tăng áp lực tĩnh mạch cửa
 
 - Cấu trúc xơ và nốt tái tạo chèn ép làm hẹp đường thoát của dòng máu cửa đi qua gan, dẫn đến tăng áp lực trong hệ thống tĩnh mạch cửa.
 - **Báng bụng (Cổ trướng)**: Áp lực thủy tĩnh trong tĩnh mạch cửa tăng cao đẩy dịch thoát qua màng bao gan vào khoang bụng, kết hợp với giảm áp lực keo (do thiếu Albumin) và sự giãn mạch tạng gây giữ muối nước tại thận.
@@ -64,19 +64,19 @@ Xơ gan là hậu quả cuối cùng của quá trình tổn thương nhu mô ga
 
 ## Phương hướng điều trị xơ gan
 
-### A. Điều trị nguyên nhân gốc
+### Điều trị nguyên nhân gốc
 
 - **Ngưng rượu tuyệt đối**: Là biện pháp bắt buộc đối với xơ gan do rượu để ngăn chặn quá trình hoại tử và xơ hóa tiến triển.
 - **Thuốc kháng virus**: Sử dụng các thuốc kháng virus đường uống (như Tenofovir, Entecavir đối với HBV hoặc phác đồ DAA đối với HCV) nhằm kiểm soát và đè nén tải lượng virus, giảm tổn thương gan.
 - **Điều trị các bệnh lý nền khác**: Tẩy sắt đối với bệnh tích tụ sắt, dùng Penicillamine gắp đồng trong bệnh Wilson, hoặc phẫu thuật/thông đường mật giải áp đối với tắc mật.
 
-### B. Chế độ dinh dưỡng và nâng đỡ
+### Chế độ dinh dưỡng và nâng đỡ
 
 - **Cung cấp đủ năng lượng**: Khuyên bệnh nhân ăn đủ đạm (khoảng 1,2 - 1,5 g/kg/ngày), ngoại trừ khi có nguy cơ bệnh não gan thì cần điều chỉnh lượng đạm phù hợp.
 - **Hạn chế muối (Natri)**: Giảm lượng muối ăn vào (dưới 2g Sodium/ngày) để giảm sự tích tụ nước, hỗ trợ kiểm soát phù chân và báng bụng.
 - **Bổ sung Vitamin**: Bổ sung các vitamin nhóm B, vitamin K (khi có rối loạn đông máu) và vitamin D.
 
-### C. Điều trị và kiểm soát các biến chứng
+### Điều trị và kiểm soát các biến chứng
 
 - **Xử trí Báng bụng và Phù chân**:
   - Hạn chế muối ăn.

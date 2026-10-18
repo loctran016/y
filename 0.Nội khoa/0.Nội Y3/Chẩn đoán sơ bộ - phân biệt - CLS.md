@@ -199,7 +199,7 @@ Dưới đây là hướng dẫn tư duy chi tiết cho từng trường hợp l
 
 Đây là tình huống phức tạp nhất vì cả hai dấu hiệu tổn thương màng lọc cầu thận đều hiện diện. Lúc này, **"bộ triệu chứng đi kèm" (Phù, Huyết áp, Lượng nước tiểu)** và **Tiền căn** đóng vai trò quyết định HC nào nghĩ nhiều hơn:
 
-#### A. Khi nào NGHĨ NHIỀU HỘI CHỨNG THẬN HƯ? (Đặt HCTH lên CĐSB)
+#### Khi nào NGHĨ NHIỀU HỘI CHỨNG THẬN HƯ? (Đặt HCTH lên CĐSB)
 
 - **Khám & Bệnh sử ưu thế:**
   - **Phù:** **Phù toàn thân, mức độ nặng, rầm rộ** (phù mặt, mắt, cẳng chân, kèm báng bụng hoặc tràn dịch màng phổi) .
@@ -213,7 +213,7 @@ Dưới đây là hướng dẫn tư duy chi tiết cho từng trường hợp l
 
 ---
 
-#### B. Khi nào NGHĨ NHIỀU HỘI CHỨNG VIÊM CẦU THẬN? (Đặt HC VCT/VCTC lên CĐSB)
+#### Khi nào NGHĨ NHIỀU HỘI CHỨNG VIÊM CẦU THẬN? (Đặt HC VCT/VCTC lên CĐSB)
 
 - **Khám & Bệnh sử ưu thế:**
   - **Tiểu máu:** **Tiểu máu đại thể rầm rộ**, nước tiểu màu đỏ sậm, xá xị, màu nước trà đậm/coca, toàn dòng, **KHÔNG CÓ MÁU CỤC** .

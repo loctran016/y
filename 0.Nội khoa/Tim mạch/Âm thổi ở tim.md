@@ -163,7 +163,7 @@ Tầm soát các biến chứng:
 
 ---
 
-## Sơ đồ thuật toán tiếp cận (Theo SGK ĐHYD TP.HCM)
+##HCM)
 
 ```
                        [ Bệnh nhân có ÂM THỔI Ở TIM ]

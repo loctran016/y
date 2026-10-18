@@ -60,7 +60,7 @@ X-quang BÌNH THƯỜNG   X-quang CÓ THÂM NHIỄM             KHÔNG thâm nhi
 
 ---
 
-#### NHÓM 2: Bệnh nhân CÓ tiền căn bệnh phổi mạn tính (COPD, Giãn phế quản, Hen, Lao cũ...)
+####..)
 
 Ở nhóm này, cấu trúc đường thở đã bị biến đổi mạn tính, ứ đọng dịch tiết và giảm khả năng bảo vệ tại chỗ. Nhiễm trùng cấp tính sẽ kích phát các đợt bùng phát:
 

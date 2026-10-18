@@ -46,19 +46,19 @@ Khi áp lực TM trung tâm tiểu thuỳ tăng lên: dịch có chứa protein 
 
 Khi áp lực TM cửa tăng lên: **dịch tĩnh mạch** thoát ra qua ống tiêu hoá (chứa ít protein so với **dịch thấm**)
 
-### **1\. Chức năng Lọc và Dự trữ Máu của Gan**
+### Chức năng Lọc và Dự trữ Máu của Gan**
 
 **Chức năng dự trữ máu:** Hệ thống xoang gan (sinusoids) chứa trung bình khoảng 10% – 15% tổng thể tích máu của toàn bộ cơ thể (khoảng 450 – 650 mL máu). Trong các trường hợp suy tim xung huyết hoặc tăng áp lực tĩnh mạch trung tâm, gan có thể phình to ra và tích trữ thêm 0.5 – 1.0 lít máu để giảm gánh nặng cho hệ tuần hoàn. Ngược lại, khi cơ thể gặp tình trạng mất máu cấp/sốc mất máu, gan sẽ co mạch và phóng thích lượng máu dự trữ này vào hệ tuần hoàn chung để duy trì huyết áp.
 
 **Chức năng lọc máu và thực bào:** Tế bào Kupffer (đại thực bào cố định nằm lót trong lòng các xoang gan) đảm nhiệm đại thực bào sạch vi khuẩn, mảnh vụn tế bào, hồng cầu già và các phức hợp miễn dịch theo dòng máu tĩnh mạch cửa đi từ ruột về gan trước khi máu đổ vào tuần hoàn chung. Hơn 99% vi khuẩn có trong máu tĩnh mạch cửa bị tế bào Kupffer tiêu diệt triệt để khi đi qua xoang gan.
 
-## **II\. Chức năng Chuyển hóa các Chất Đa lượng**
+## Chức năng Chuyển hóa các Chất Đa lượng**
 
 ![](Sinh%20lý%20Gan-1790601271122.webp)
 Gan phối hợp chuyển hoá với TB có vai trò dữ trữ: TB cơ, TB mỡ và TB da
 ![](Sinh%20lý%20Gan-1790602316186.webp)
 
-### **1. Chuyển hóa Carbohydrate (Glucid)**
+### Chuyển hóa Carbohydrate (Glucid)**
 
 Gan đóng vai trò chủ chốt trong việc duy trì nồng độ glucose máu ổn định (chức năng đệm glucose):
 
@@ -86,7 +86,7 @@ Phân đoạn:
 - Giai đoạn sớm: **giảm khả năng dự trữ glycogen ở gan** + giảm đáp ứng tế bào gan với insulin → rối loạn dung nạp glucose, tăng đường huyết sau ăn
 - Giai đoạn muộn (gan mạn): Giảm dự trữ glycogen, Giảm **tổng hợp** glycogen, Giảm **đáp ứng** của glucagon trong cơ chế tân tạo đường → dễ hạ đường huyết, đặc biệt khi đói
 
-### **2. Chuyển hóa Lipid**
+### Chuyển hóa Lipid**
 
 Gan là cơ quan trung tâm điều hòa quá trình tổng hợp, thoái hóa và vận chuyển mỡ trong cơ thể:
 
@@ -125,7 +125,7 @@ Rối loạn chuyển hoá Glucid:
 1. Alpha tuỵ tăng tiết Glucagon (do giảm Insulin ức chế)
 2. Kích thích tân tạo đường và ly giải glycogen tại gan
 
-### **3. Chuyển hóa Protein (Protid)**
+### Chuyển hóa Protein (Protid)**
 
 Chuyển hóa protein tại gan là chức năng sinh mạng, bao gồm các quá trình quan trọng:
 
@@ -204,13 +204,13 @@ Giai đoạn sớm: dãn mạch máu tạng, giảm kháng lực ngb -> cung lư
 
 Cuối cùng dẫn đến hội chứng gan - thận
 
-### **4. Chức năng Bài tiết Mật và Muối mật**
+### Chức năng Bài tiết Mật và Muối mật**
 
 Mỗi ngày tế bào gan bài tiết khoảng 700 – 1100 mL dịch mật. Dịch mật bao gồm: muối mật (50%), phostpholipid/lecithin, cholesterol, bilirubin, nước và các chất điện giải.
 
 **Vai trò của Muối mật:** Muối mật (được tổng hợp từ cholesterol thành acid cholic và acid chenodeoxycholic) có vai trò nhũ tương hóa lipid trong thức ăn thành các hạt mỡ nhỏ, tạo điều kiện cho Lipase tụy tiếp xúc và phân hủy mỡ. Ngoài ra, muối mật tạo thành các hạt Micell hòa tan giúp vận chuyển acid béo, monoglyceride và các Vitamin tan trong dầu (A, D, E, K) đến bờ bàn chải tế bào ruột để hấp thu. 90 – 95% muối mật được tái hấp thu chủ động tại đoạn cuối hồi tràng để trở về gan theo Tĩnh mạch cửa (Chu trình tuần hoàn ruột - gan).
 
-### **5\. Chức năng Dự trữ Vitamin, Khoáng chất & Khử độc**
+### Chức năng Dự trữ Vitamin, Khoáng chất & Khử độc**
 
 **Dự trữ Vitamin và Khoáng chất:** Gan là cơ quan dự trữ lớn nhất của Vitamin A (đủ dùng trong 10 tháng), Vitamin D (đủ dùng 3 - 4 tháng) và Vitamin B12 (đủ dùng ít nhất 1 năm). Gan cũng là nơi dự trữ Sắt chính của cơ thể dưới dạng Ferritin.
 
@@ -224,7 +224,7 @@ Mỗi ngày tế bào gan bài tiết khoảng 700 – 1100 mL dịch mật. D�
 
 Bilirubin là sản phẩm thoái hóa cuối cùng của Heme (thành phần chứa sắt của Hemoglobin và các Hemo-protein khác). Quá trình tổng hợp, chuyển hóa và thanh thải Bilirubin diễn ra theo một chu trình khép kín liên quan giữa hệ lưới nội mô, dòng máu, gan, đường mật, ruột và thận.
 
-#### **1\. Quá trình Tạo thành Bilirubin Gián tiếp (Tự do)**
+#### Quá trình Tạo thành Bilirubin Gián tiếp (Tự do)**
 
 **Nguồn gốc:** Khoảng 80 - 85% Bilirubin được tạo ra từ sự phá hủy các hồng cầu già (đã hết chu kỳ sống 120 ngày) tại hệ lưới nội mô (lách, gan, tủy xương). 15 - 20% còn lại đến từ sự thoái hóa của Myoglobin, Cytochrome, Catalase và sự tạo hồng cầu không hiệu quả tại tủy xương.
 
@@ -236,7 +236,7 @@ Bilirubin là sản phẩm thoái hóa cuối cùng của Heme (thành phần ch
 
 - **Vận chuyển trong máu:** Gắn chặt với Albumin huyết tương để di chuyển trong tuần hoàn đến gan. Do gắn chặt với Albumin có kích thước phân tử lớn, Bilirubin gián tiếp KHÔNG THỂ LỌC QUA MÀNG LỌC CẦU THẬN, vì vậy KHÔNG BAO GIỜ XUẤT HIỆN TRONG NƯỚC TIỂU.
 
-#### **2\. Quá trình Thu nhận và Liên hợp tại Tế bào Gan**
+#### Quá trình Thu nhận và Liên hợp tại Tế bào Gan**
 
 **Thu nhận vào tế bào gan:** Khi phức hợp Albumin - Bilirubin đi qua xoang gan, Bilirubin gián tiếp tách khỏi Albumin tại cực đáy tế bào gan và được vận chuyển khuếch tán hỗ trợ vào bên trong tế bào gan nhờ các protein vận chuyển nội bào (Ligandin / Protein Y và Z).
 
@@ -248,7 +248,7 @@ Bilirubin là sản phẩm thoái hóa cuối cùng của Heme (thành phần ch
 
 - **Lọc qua thận:** Do tan trong nước và không gắn chặt Albumin, khi nồng độ Bilirubin trực tiếp tăng cao trong máu (như trong tắc mật hoặc bệnh lý gan), nó sẽ DỄ DÀNG LỌC QUA CẦU THẬN VÀ XUẤT HIỆN TRONG NƯỚC TIỂU (gọi là Bilirubin niệu dương tính, làm nước tiểu có màu sậm như nước trà đậm).
 
-#### **3\. Quá trình Bài tiết và Đào thải Bilirubin qua Phân & Nước tiểu**
+#### Quá trình Bài tiết và Đào thải Bilirubin qua Phân & Nước tiểu**
 
 **Bài tiết vào đường mật:** Tế bào gan chủ động bơm bài tiết Bilirubin liên hợp qua màng đỉnh vào vi quản mật (đây là bước tốn năng lượng và là khâu dễ bị nghẽn nhất trong quá trình bài tiết mật). Dịch mật theo ống dẫn mật đổ xuống tá tràng.
 

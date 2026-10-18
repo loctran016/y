@@ -2,8 +2,6 @@ Viêm nội tâm mạc nhiễm khuẩn
 Viêm nội tâm mạc không do nhiễm khuẩn
 Viêm nội tâm mạc nhiễm khuẩn
 
-
-
 Viêm nội tâm mạc nhiễm trùng là nhiễm trùng của màng ngoài tim, thường do vi khuẩn (thường do các vi khuẩn như streptococci hoặc staphylococci) hoặc nấm. Triệu chứng điển hình là gây sốt, nhịp tim, buồn nôn, thiếu máu, tắc mạch, và sùi nội mạc cơ tim cùng các van tim. Sùi nội mạc có thể dẫn đến biến chứng hở hoặc hẹp van tim, áp xe cơ tim, hoặc phình mạch. Chẩn đoán đòi hỏi phải có biểu hiện nhiễm vi sinh vật trong máu và siêu âm tim. Điều trị bao gồm điều trị kháng sinh kéo dài và phẫu thuật.
 
 Viêm nội tâm mạc thường đề cập đến nhiễm trùng nội tâm mạc (tức là, viêm nội tâm nhiễm khuẩn). Thuật ngữ cũng có thể bao gồm viêm nội tâm không có nhiễm khuẩn, trong đó tiểu cầu vô trùng và dạng huyết khối fibrin hình thành trên van tim và nội mạc bên cạnh. Viêm nội tâm mạc không do nhiễm khuẩn cũng đôi khi dẫn đến viêm nội tâm mạc nhiễm trùng. Cả hai có thể dẫn đến thuyên tắc mạch và suy giảm chức năng tim.
@@ -16,9 +14,9 @@ Viêm nội tâm mạc nhiễm trùng có thể xảy ra ở mọi lứa tuổi.
 
 Trái tim bình thường tương đối kháng với nhiễm trùng. Vi khuẩn và nấm không dễ dính vào bề mặt màng trong tim, và lưu lượng máu liên tục giúp ngăn không cho chúng lắng đọng vào các cấu trúc bên trong tử cung. Do đó, 2 yếu tố thường được yêu cầu cho viêm nội tâm mạc:
 
-* Một bất thường dễ gây ra của nội mạc
-* Vi sinh vật trong máu (ví dụ: vãng khuẩn huyết)
-Vãng khuẩn huyết nặng hoặc vi sinh vật đặc biệt độc hại (ví dụ, Staphylococcus aureus) gây viêm nội tâm mạc trên các van bình thường.
+- Một bất thường dễ gây ra của nội mạc
+- Vi sinh vật trong máu (ví dụ: vãng khuẩn huyết)
+  Vãng khuẩn huyết nặng hoặc vi sinh vật đặc biệt độc hại (ví dụ, Staphylococcus aureus) gây viêm nội tâm mạc trên các van bình thường.
 
 ### Các yếu tố nguy cơ liên quan đến viêm nội tâm mạc
 
@@ -32,14 +30,14 @@ Các vi sinh vật xâm nhập vào nội mạc cơ tim có thể xuất phát t
 
 Các vi sinh vật gây bệnh khác nhau tùy theo vị trí nhiễm trùng, nguồn vãng khuẩn huyết và các yếu tố nguy cơ của vật chủ (ví dụ: sử dụng thuốc theo đường tĩnh mạch), nhưng nhìn chung, 80% đến 90% các trường hợp là do
 
-* Streptococci hoặc Staphylococcus aureus
+- Streptococci hoặc Staphylococcus aureus
 
 Hầu hết các trường hợp viêm nội tâm mạc còn lại là do
 
-* Enterococci
-* Trực khuẩn gram âm
-* Các sinh vật HACEK (loài Haemophilus, Actinobacillus actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens và Kingella kingae
-* Nấm
+- Enterococci
+- Trực khuẩn gram âm
+- Các sinh vật HACEK (loài Haemophilus, Actinobacillus actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens và Kingella kingae
+- Nấm
 
 Tuy nhiên, tỷ lệ mắc viêm nội tâm mạc do tụ cầu và enterococci ngày càng tăng và viêm nội tâm mạc do liên cầu đang giảm.
 
@@ -62,6 +60,7 @@ Viêm động mạch chủ do lây lan liên tục của nhiễm trùng.
 Các biến chứng liên quan đến nhiễm trùng van cơ học thường đặc trưng bởi áp xe vòng van, sùi gây tắc nghẽn, áp xe cơ tim và phình mạch có thể gây kẹt van, hở cạnh chân van và bất thường các đường dẫn truyền.
 
 ### Biến chứng hệ thống
+
 Hậu quả toàn thân của viêm nội tâm mạc chủ yếu do
 
 tắc mạch do các mảnh sùi từ van tim
@@ -100,41 +99,32 @@ Nhiễm trùng kéo dài có thể gây lách to hoặc ngón tay, ngón chân d
 
 Biểu hiện ngoài da của viêm nội tâm mạc nhiễm trùng
 
-
-
 Viêm nội tâm mạc nhiễm trùng (nốt Osler)
 Viêm nội tâm mạc nhiễm trùng (nốt Osler)
 Bệnh nhân bị viêm nội tâm mạc nhiễm trùng này có nhiều nốt Osler (nốt ban đỏ ấn đau ở ngón chân).
 © Springer Science+Business Media
 
-
-
-
-
 Xuất huyết kết mạc trong viêm nội tâm mạc nhiễm trùng
-
-
 
 Viêm nội tâm mạc nhiễm trùng (chấm xuất huyết kết mạc)
 Viêm nội tâm mạc nhiễm trùng (chấm xuất huyết kết mạc)
 Bức ảnh này cho thấy chấm xuất huyết kết mạc ở một bệnh nhân bị viêm nội tâm mạc nhiễm trùng.
 © Springer Science+Business Media
 
-
-
-
 ### Viêm nội tâm mạc cấp tính do vi khuẩn và viêm nội tâm mạc trên nền van nhân tạo
+
 Các triệu chứng và dấu hiệu của viêm nội tâm mạc nhiễm khuẩn cấp tính và viêm nội tâm mạc van tim nhân tạo tương tự như viêm nội tâm mạc bán cấp do vi khuẩn, nhưng diễn biến nhanh hơn. Sốt (78%), tiếng thổi ở tim (65%) và suy tim sung huyết (27%) là những triệu chứng thường gặp nhất khi khám bệnh (1). Hiếm khi, viêm màng não mủ xảy ra.
 
 ### Viêm nội tâm mạc ở tim bên phải
+
 Tắc mạch phổi do sepsi có thể gây ho, đau ngực kiểu màng phổi, và đôi khi ho ra máu. Tiếng thổi ở van ba lá tricuspid là điển hình.
 
 ## Chẩn đoán viêm nội tâm mạc nhiễm khuẩn
 
-* Cấy máu hoặc xét nghiệm huyết thanh học
-* Siêu âm tim và đôi khi các phương pháp hình ảnh thay đổi
-* Tiêu chuẩn lâm sàng
-Bởi vì các triệu chứng và dấu hiệu không đặc hiệu, và thay đổi, chẩn đoán là khó khăn và thường mơ hồ Viêm nội tâm mạc. Nên được nghi ngờ ở những bệnh nhân bị sốt và không có nguồn lây nhiễm rõ ràng, đặc biệt nếu có tiếng thổi ở tim. Nghi ngờ viêm nội tâm mạc nên được đưa lên mức rất cao nếu kết quả cấy máu dương tính ở những bệnh nhân có tiền sử bị bệnh van tim, những người đã có một số thủ thuật xâm lấn gần đây hoặc những người tiêm ma túy. Bệnh nhân bị vãng khuẩn huyết được ghi nhận từ trước phải được kiểm tra kỹ lưỡng và lặp đi lặp nếu có tiếng thổi mới ở tim và dấu hiệu thuyên tắc mạch.
+- Cấy máu hoặc xét nghiệm huyết thanh học
+- Siêu âm tim và đôi khi các phương pháp hình ảnh thay đổi
+- Tiêu chuẩn lâm sàng
+  Bởi vì các triệu chứng và dấu hiệu không đặc hiệu, và thay đổi, chẩn đoán là khó khăn và thường mơ hồ Viêm nội tâm mạc. Nên được nghi ngờ ở những bệnh nhân bị sốt và không có nguồn lây nhiễm rõ ràng, đặc biệt nếu có tiếng thổi ở tim. Nghi ngờ viêm nội tâm mạc nên được đưa lên mức rất cao nếu kết quả cấy máu dương tính ở những bệnh nhân có tiền sử bị bệnh van tim, những người đã có một số thủ thuật xâm lấn gần đây hoặc những người tiêm ma túy. Bệnh nhân bị vãng khuẩn huyết được ghi nhận từ trước phải được kiểm tra kỹ lưỡng và lặp đi lặp nếu có tiếng thổi mới ở tim và dấu hiệu thuyên tắc mạch.
 
 Ngoài cấy máu dương tính, không có xét nghiệm đặc hiệu nào khác. Nhiễm trùng thường gây ra thiếu máu đẳng sắc, tăng bạch cầu, tốc độ máu lắng tăng, tăng mức globulin miễn dịch, và sự có mặt của các phức hợp miễn dịch lưu thông và yếu tố dạng thấp, nhưng những xét nghiệm này không hữu ích cho chẩn đoán. Xét nghiệm nước tiểu thường cho thấy đái máu vi thể, và thỉnh thoảng có thể xuất hiện hồng cầu, viêm màng phổi, hoặc nhiễm khuẩn tiết niệu.
 
@@ -167,15 +157,16 @@ Chụp cắt lớp phát xạ positron (PET) cải thiện độ nhạy của ti
 Chẩn đoán hình ảnh não theo thường quy đã được đề xuất vì có tới khoảng 70% số bệnh nhân có tổn thương âm thầm về mặt lâm sàng (7). Tính hữu ích của việc này trong tiên lượng và xử trí vẫn chưa được xác định.
 
 ### Tiêu chuẩn chẩn đoán
+
 Viêm nội tâm mạc nhiễm trùng được chẩn đoán xác định khi các vi sinh vật được nhìn thấy mô học trong (hoặc nuôi cấy) từ các mô mềm bên trong lấy trong quá trình phẫu thuật tim, cắt bỏ mô tế bào, hoặc khám nghiệm tử thi. Do sùi trong viêm nội tâm mạc nhiễm khuẩn không phải thường xuất hiện trong thăm khám lâm sàng cũng như siêu âm, nên có nhiều tiêu chí lâm sàng khác nhau để xác định chẩn đoán. Những tiêu chuẩn này bao gồm phiên bản mới nhất của tiêu chuẩn Duke (Tiêu chuẩn Duke-Hiệp hội quốc tế về bệnh truyền nhiễm tim mạch 2023) (8), có độ nhạy là 84% và độ đặc hiệu là 94% (9) (xem bảng Định nghĩa về viêm nội tâm mạc nhiễm trùng và Tiêu chuẩn lâm sàng cho viêm nội tâm mạc nhiễm trùng) và tiêu chuẩn sửa đổi của Hiệp hội tim mạch châu Âu (ESC) 2023 (5).
 
 ## Điều trị viêm nội tâm mạc nhiễm trùng
 
-* Kháng sinh đường tĩnh mạch (dựa trên vi khuẩn và tính nhạy cảm của nó)
-* Phẫu thuật cắt bỏ van, sửa hoặc thay van
-* Đánh giá và điều trị răng miệng (để giảm thiểu nguồn vãng khuẩn huyết trong miệng)
-* Loại bỏ các nguồn vãng khuẩn huyết tiềm ẩn (ví dụ: ống thông bên trong, thiết bị cấy ghép)
-* Ngừng điều trị kháng đông ở bệnh nhân thuyên tắc não
+- Kháng sinh đường tĩnh mạch (dựa trên vi khuẩn và tính nhạy cảm của nó)
+- Phẫu thuật cắt bỏ van, sửa hoặc thay van
+- Đánh giá và điều trị răng miệng (để giảm thiểu nguồn vãng khuẩn huyết trong miệng)
+- Loại bỏ các nguồn vãng khuẩn huyết tiềm ẩn (ví dụ: ống thông bên trong, thiết bị cấy ghép)
+- Ngừng điều trị kháng đông ở bệnh nhân thuyên tắc não
 
 Điều trị bao gồm một đợt điều trị kháng sinh kéo dài (1). Phẫu thuật là cần thiết cho các biến chứng cơ học hoặc khi các vi khuẩn đã kháng thuốc. Thông thường, cần dùng các thuốc kháng sinh đường tĩnh mạch. Vì kháng sinh tĩnh mạch thường phải dùng từ 2 đến 8 tuần, nên có thể sử dụng liệu pháp IV tại gia.
 
@@ -187,7 +178,7 @@ Các vi khuẩn trong các màng sinh học gắn chặt với ống thông và 
 
 Thuốc và liều lượng phụ thuộc vào vi sinh vật và khả năng kháng khuẩn của các vi sinh vật đó.
 
-Mặc dù hầu hết bệnh nhân đều ổn định để chờ kết quả nuôi cấy, liệu pháp kháng sinh theo kinh nghiệm trước khi xác định được vi khuẩn có thể là cần thiết ở những bệnh nhân nặng. Không nên dùng kháng sinh cho đến khi có đủ mẫu cấy máu (tối thiểu 2 mũa, nhưng lý tưởng nhất là 3 mẫu từ các vị trí khác nhau trong vòng 1 giờ). Phác đồ điều trị theo kinh nghiệm nên bao gồm các tác nhân gây bệnh điển hình (ví dụ: các loài Staphylococci và Streptococci), tính đến mô hình kháng thuốc tại chỗ, chẳng hạn như tỷ lệ mắc MRSA, và bao gồm một tác nhân có hiệu quả cao trong việc tiêu diệt (ví dụ: kháng sinh beta-lactam). Một phác đồ thông thường ở Hoa Kỳ có thể là vancomycin và ceftriaxone. Một số yếu tố nguy cơ mắc viêm nội tâm mạc do tác nhân gây bệnh ít phổ biến hơn hoặc nhiễm trùng khó loại bỏ hơn bao gồm van tim nhân tạo mới được lắp, tiếp xúc lâu dài với dịch vụ chăm sóc sức khỏe và bệnh hiểm nghèo. Liệu pháp phối hợp thường được bắt đầu trong những trường hợp này và thường bao gồm phổ hoạt động kháng khuẩn rộng hơn và cân nhắc các tác nhân hiệp đồng như aminoglycoside. 
+Mặc dù hầu hết bệnh nhân đều ổn định để chờ kết quả nuôi cấy, liệu pháp kháng sinh theo kinh nghiệm trước khi xác định được vi khuẩn có thể là cần thiết ở những bệnh nhân nặng. Không nên dùng kháng sinh cho đến khi có đủ mẫu cấy máu (tối thiểu 2 mũa, nhưng lý tưởng nhất là 3 mẫu từ các vị trí khác nhau trong vòng 1 giờ). Phác đồ điều trị theo kinh nghiệm nên bao gồm các tác nhân gây bệnh điển hình (ví dụ: các loài Staphylococci và Streptococci), tính đến mô hình kháng thuốc tại chỗ, chẳng hạn như tỷ lệ mắc MRSA, và bao gồm một tác nhân có hiệu quả cao trong việc tiêu diệt (ví dụ: kháng sinh beta-lactam). Một phác đồ thông thường ở Hoa Kỳ có thể là vancomycin và ceftriaxone. Một số yếu tố nguy cơ mắc viêm nội tâm mạc do tác nhân gây bệnh ít phổ biến hơn hoặc nhiễm trùng khó loại bỏ hơn bao gồm van tim nhân tạo mới được lắp, tiếp xúc lâu dài với dịch vụ chăm sóc sức khỏe và bệnh hiểm nghèo. Liệu pháp phối hợp thường được bắt đầu trong những trường hợp này và thường bao gồm phổ hoạt động kháng khuẩn rộng hơn và cân nhắc các tác nhân hiệp đồng như aminoglycoside.
 
 Phác đồ kháng khuẩn theo kinh nghiệm nên được điều chỉnh càng sớm càng tốt dựa trên kết quả nuôi cấy.
 
@@ -198,6 +189,7 @@ Nếu nghi ngờ viêm nội tâm mạc, hãy ngừng dùng kháng sinh cho đ�
 Viêm nội tâm mạc bên phải van tim tự nhiên thường có thể được điều trị bằng liệu pháp 4 tuần hoặc thậm chí chỉ cần 2 tuần đối với một số tác nhân gây bệnh điển hình (ví dụ: S. aureus nhạy cảm với methicillin) nếu sử dụng liệu pháp phối hợp với gentamicin. Đối với viêm nội tâm mạc bên trái, các hướng dẫn khuyến nghị sử dụng liệu pháp kháng sinh đường tiêm truyền trong 6 tuần. Tuy nhiên, một nghiên cứu đa trung tâm, phân nhóm ngẫu nhiên, không mù đôi về viêm nội tâm mạc bên trái không biến chứng đã phát hiện ra rằng việc chuyển sang dùng kháng sinh đường uống (sau tối thiểu 10 ngày điều trị bằng đường tiêm truyền) không kém hơn so với việc tiếp tục điều trị bằng đường tiêm truyền. Ngoài ra, thời gian nằm viện được rút ngắn khi bệnh nhân chuyển sang điều trị bằng đường uống. Cách tiếp cận này có khả năng làm giảm căng thẳng tâm lý và một số rủi ro vốn có của điều trị nội trú kéo dài (2). Kháng sinh lipoglycopeptide tác dụng kéo dài, chẳng hạn như dalbavancin, cũng đã được sử dụng thành công làm một phần của liệu pháp tuần tự cho viêm nội tâm mạc do vi khuẩn Gram dương (3). Những phương án này có thể đặc biệt hữu ích cho những bệnh nhân không thể thực hiện liệu pháp tiêm truyền tại nhà.
 
 ### Phẫu thuật van tim
+
 Phẫu thuật (cắt bỏ phần hoại tử, sửa van hoặc thay van) đôi khi là cần thiết để điều trị viêm nội tâm mạc nhiễm trùng (4). Phẫu thuật thường được chỉ định trong
 
 Bệnh nhân bị suy tim (đặc biệt là những người bị viêm nội tâm mạc tim nhân tạo, động mạch chủ hoặc van hai lá tự nhiên và những người bị phù phổi hoặc sốc do tim)
@@ -212,9 +204,11 @@ Viêm nội tâm bên phải thường được điều trị nội khoa. Nếu 
 Phẫu thuật thường bị trì hoãn trong một tháng sau khi xuất huyết nội sọ hoặc đột quỵ não lớn.
 
 ### Chống đông
+
 Bệnh nhân dùng thuốc chống đông máu có nguy cơ cao bị đột quỵ xuất huyết và chảy máu do các thủ thuật xâm lấn khẩn cấp. Nên ngưng dùng thuốc chống đông ở những bệnh nhân bị thuyên tắc não vì nó làm tăng nguy cơ biến đổi xuất huyết. Quyết định ngừng thuốc chống đông ở những bệnh nhân khác nên dựa trên nguy cơ tương đối của đột quỵ xuất huyết và thuyên tắc huyết khối (6).
 
 ### Đáp ứng điều trị
+
 Sau khi bắt đầu điều trị, bệnh nhân viêm nội tâm mạc nhiễm khuẩn do streptococcal nhạy cảm với penicillin thường cảm thấy tốt hơn, và sốt giảm trong vòng 3 đến 7 ngày. Sốt có thể kéo dài do những lý do khác ngoài tình trạng nhiễm trùng dai dẳng (ví dụ: dị ứng thuốc, viêm tĩnh mạch, nhồi máu do vật nghẽn mạch). Bệnh nhân viêm nội tâm mạc do tụ cầu có xu hướng đáp ứng chậm hơn. Giảm bớt kích thước mảnh sùi có thể được theo dõi bởi siêu âm tim nhiều lần. Siêu âm tim cần được thực hiện khi két thúc điều trị để đánh giá lại van tim (bao gồm cả mảnh sùi vô khuẩn) và hở van tim.
 
 Tái phát thường xảy ra trong vòng 4 tuần. Điều trị kháng sinh có thể có hiệu quả, nhưng cũng có thể cần phẫu thuật. Ở những bệnh nhân không có van nhân tạo, tái phát viêm nội tâm mạc sau 6 tuần thường là kết quả của nhiễm khuẩn mới hơn là tái phát. Ngay cả sau khi điều trị kháng sinh thành công, tắc mạch vô trùng và tổn thương van có thể xảy ra đến 1 năm sau đó. Nguy cơ tái phát rất đáng kể, do đó việc chăm sóc răng miệng và vệ sinh liên tục được liên tục được khuyến cáo chặt chẽ. Bệnh nhân cần điều trị bằng kháng sinh vì bất kỳ lý do nào nên có ít nhất 3 bộ cấy máu trước khi kháng sinh được bắt đầu.
@@ -223,21 +217,21 @@ Tái phát thường xảy ra trong vòng 4 tuần. Điều trị kháng sinh c�
 
 Nhìn chung, tỷ lệ tử vong tại bệnh viện do viêm nội tâm mạc là 15 đến 20%, với tỷ lệ tử vong trong vòng 1 năm là gần 40%. (1). Viêm nội tâm mạc nhiễm trùng không được điều trị luôn gây nguy cơ tử vong cao. Ngay cả khi được điều trị, khả năng tử vong vẫn cao hơn và tiên lượng thường kém hơn đối với bệnh nhân cao tuổi và bệnh nhân có
 
-* Nhiễm trùng với các vi khuẩn kháng thuốc
-* Các bệnh lý nền khác,  điều trị muộn
-* Van động mạch chủ hoặc tổn thương nhiều van
-* Sùi lớn
-* Vãng khuẩn huyết đa vi khuẩn
-* Nhiễm trùng van nhân tạo
-* Phình động mạch hình nấm
-* Áp xe vòng van
-* Tắc các mạch máu lớn
+- Nhiễm trùng với các vi khuẩn kháng thuốc
+- Các bệnh lý nền khác, điều trị muộn
+- Van động mạch chủ hoặc tổn thương nhiều van
+- Sùi lớn
+- Vãng khuẩn huyết đa vi khuẩn
+- Nhiễm trùng van nhân tạo
+- Phình động mạch hình nấm
+- Áp xe vòng van
+- Tắc các mạch máu lớn
 
 Sốc nhiễm trùng có nhiều khả năng xảy ra ở những bệnh nhân bị tiểu đường, tổn thương thận cấp, nhiễm S. aureus, kích thước chỗ sùi > 15 mm hoặc có dấu hiệu nhiễm trùng dai dẳng. Tỷ lệ tử vong do viêm nội tâm mạc do liên cầu khuẩn viridans không có biến chứng lớn là < 10% (2) nhưng cao hơn 90% đối với viêm nội tâm mạc do Aspergillus sau phẫu thuật van nhân tạo (3).
 
 Tiên lượng thường là tốt hơn với viêm nội tâm mạc bên phải so với viêm nội tâm mạc bên trái vì các rối loạn chức năng van ba lá thường dung nạp tốt hơn, không có các tắc mạch hệ thống, và Viêm nội tâm mạc với S. aureus bên phải phản ứng tốt hơn với các kháng sinh.
 
-## Phòng ngừa viêm nội tâm mạc nhiễm khuẩn.
+##
 
 Cần phải khám và điều trị răng miệng trước khi phẫu thuật để sửa van tim hoặc sửa chữa tổn thương tim bẩm sinh.
 
@@ -286,6 +280,7 @@ Hướng dẫn dự phòng viêm nội tâm mạc thay đổi theo vùng địa 
 Thông tin bổ sung liên quan đến phác đồ phòng ngừa có trong các hướng dẫn từ Hiệp hội Tim mạch Hoa Kỳ và Hiệp hội Tim mạch Châu Âu (3, 4).
 
 ## Những điểm chính
+
 Vì tim bình thường tương đối kháng với nhiễm trùng, viêm nội tâm mạc xảy ra chủ yếu khi có bất thường nội mạc cơ tim.
 Các bất thường tim dễ gây viêm nội tâm mạc bao gồm các tổn thương tim bẩm sinh, bệnh lý van tim thực tổn, van động mạch chủ hai lá van hoặc vôi hóa, sa van hai lá, bệnh cơ tim phì đại, viêm nội tâm mạc từ trước, và các thiết bị cấy ghép ở tim.
 Các hậu quả tim mạch cục bộ bao gồm áp xe cơ tim, rối loạn hệ thống dẫn truyền, hở van nặng, đột ngột.
@@ -293,7 +288,6 @@ Các hậu quả hệ thống bao gồm các biểu hiện về miễn dịch (v
 Lấy mẫu máu và chẩn đoán bằng cách sử dụng tiêu chuẩn lâm sàng của Duke hoặc Hiệp hội Tim mạch Châu Âu sửa đổi.
 Điều trị bằng liệu pháp kháng sinh kéo dài; phẫu thuật có thể là cần thiết cho các biến chứng cơ học hoặc khi đã đề kháng kháng sinh.
 Cung cấp thuốc dự phòng kháng sinh cho những bệnh nhân có nguy cơ cao do các hậu quả bất lợi từ viêm nội tâm mạc nhiễm khuẩn, bao gồm những người có van tim nhân tạo hoặc sửa van tim, viêm nội tâm mạc nhiễm khuẩn trước, một số bệnh tim bẩm sinh hoặc những người ghép tim có bệnh van tim.
-
 
 (Viêm nội tâm mạc huyết khối không do vi khuẩn)
 
@@ -304,9 +298,10 @@ Viêm nội tâm mạc thường đề cập đến nhiễm trùng nội tâm m�
 Viêm nội tâm mạc không nhiễm trùng hiếm gặp và chẩn đoán thường được thực hiện khi khám nghiệm tử thi (1). Chẩn đoán lâm sàng dựa trên một loạt các phát hiện lâm sàng hơn là một kết quả xét nghiệm xác định duy nhất.
 
 Tài liệu tham khảo chung
+
 1. Hurrell H, Roberts-Thomson R, Prendergast BD: Non-infective endocarditis. Heart 106(13):1023–1029, 2020. doi: 10.1136/heartjnl-2019-315204
-Căn nguyên của viêm nội tâm mạc không nhiễm khuẩn
-Các mảnh sùi đôi khi không do nhiễm khuẩn. Chúng có thể không phát hiện được trên lâm sàng hoặc trở thành nguồn gây nhiễm trùng (dẫn đến viêm nội tâm mạc nhiễm trùng), gây ra huyết khối, hoặc làm suy giảm chức năng của các van. Phá hủy van là không phổ biến.
+   Căn nguyên của viêm nội tâm mạc không nhiễm khuẩn
+   Các mảnh sùi đôi khi không do nhiễm khuẩn. Chúng có thể không phát hiện được trên lâm sàng hoặc trở thành nguồn gây nhiễm trùng (dẫn đến viêm nội tâm mạc nhiễm trùng), gây ra huyết khối, hoặc làm suy giảm chức năng của các van. Phá hủy van là không phổ biến.
 
 Các ống thông đi qua bên phải của tim có thể tổn thương tích van ba lá và van phổi, kết quả là có thể gây kết tập tiểu cầu và gắn kết fibrin tại vị trí tổn thương. Trong các bệnh lý như lupus ban đỏ hệ thống (SLE), các phức hợp miễn dịch lưu hành trong hệ tuần hoàn có thể gây ra nứt vỡ các tiểu cầu và hình thành các mảnh fibrin lắng đọng trên các lá van(Libman-Sacks lesions). Những tổn thương này thường không gây cản trở van hoặc hở van một cách đáng kể. Hội chứng kháng phospholipid (thuốc chống đông trong bệnh lupus, huyết khối tĩnh mạch tái phát, đột quỵ, sảy thai tự nhiên, mảng tím xanh hình lưới) cũng có thể dẫn đến những chỗ sùi nội tâm mạc vô trùng và vật nghẽn mạch toàn thân. Hiếm khi, u hạt kèm theo viêm đa mạch, nhiễm HIV hoặc COVID-19 dẫn đến viêm nội tâm mạc không nhiễm trùng.
 
@@ -336,10 +331,11 @@ Các bệnh lý có từ trước nên được điều trị khi có thể.
 Phẫu thuật tim (ví dụ: cắt bỏ chỗ sùi, thay van) có thể được xem xét trong trường hợp có rối loạn chức năng van tim đáng kể gây ra rối loạn huyết động hoặc các biến cố vật nghẽn mạch tái phát mặc dù đã điều trị nội khoa tối ưu.
 
 Tài liệu tham khảo về điều trị
+
 1. Whitlock RP, Sun JC, Fremes SE, Rubens FD, Teoh KH. Antithrombotic and thrombolytic therapy for valvular disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines. Chest 2012;141(2 Suppl):e576S-e600S. doi:10.1378/chest.11-2305
 2. Zmaili M, Alzubi J, Lo Presti Vega S, Ababneh E, Xu B. Non-bacterial thrombotic endocarditis: A state-of-the-art contemporary review. Prog Cardiovasc Dis 2022;74:99-110. doi:10.1016/j.pcad.2022.10.009
-Tiên lượng về viêm nội tâm mạc không nhiễm trùng
-Tiên lượng bệnh nói chung là dè dặt, phần nhiều do các bệnh lý trước đó nặng thêm hơn là do các tổn thương thực thể ở tim.
+   Tiên lượng về viêm nội tâm mạc không nhiễm trùng
+   Tiên lượng bệnh nói chung là dè dặt, phần nhiều do các bệnh lý trước đó nặng thêm hơn là do các tổn thương thực thể ở tim.
 
 Những điểm chính
 Viêm nội tâm mạc không nhiễm khuẩn đôi khi là yếu tố thuận lợi cho viêm nội tâm mạc nhiễm khuẩn.
