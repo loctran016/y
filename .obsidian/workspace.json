@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Nội khoa/1.Vấn đề/Khó thở.md",
+                "file": "0.Nội khoa/0.Nội Y3/Tiểu bọt.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Khó thở"
+              "title": "Tiểu bọt"
             }
           }
         ]
@@ -200,14 +200,17 @@
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Import notes": false,
       "sheet-plus:Create excel file": false,
-      "custom-sidebar-icons:Open custom icon library": false
+      "custom-sidebar-icons:Open custom icon library": false,
+      "full-width-toggle:Toggle current note width": false
     }
   },
-  "active": "77b88dd80f3fa924",
+  "active": "8de49b37aa51d881",
   "lastOpenFiles": [
+    "0.Nội khoa/1.Vấn đề/Khó thở.md",
+    "0.Nội khoa/Hô hấp/Viêm phổi.md",
+    "0.Nội khoa/Hô hấp/Giãn PQ.md",
     "0.Nội khoa/Hô hấp/Tắc nghẽn đường HH dưới.md",
     "0.Nội khoa/Hô hấp/COPD.md",
-    "0.Nội khoa/1.Vấn đề/Khó thở.md",
     "0.Nội khoa/Hô hấp/Thuyên tắc phổi.md",
     "0.Nội khoa/1.Vấn đề/Thiểu niệu và Vô niệu.md",
     "Nội khoa/Hô hấp/Tắc nghẽn đường HH dưới.md",
@@ -230,10 +233,8 @@
     "0.Nội khoa/Tiêu hoá/Báng bụng.md",
     "0.Nội khoa/Tim mạch/Âm thổi ở tim.md",
     "0.Nội khoa/Tim mạch/Viêm nội tâm mạc nhiễm khuẩn.md",
-    "0.Nội khoa/Tim mạch/Tăng HA.md",
     "0.Nội khoa/Tim mạch/Tăng HA-1791454394377.webp",
     "0.Nội khoa/Tim mạch/Tăng HA-1791453510356.webp",
-    "0.Nội khoa/Tim mạch/Suy tim.md",
     "0.Nội khoa/Hô hấp/Hen PQ",
     "0.Nội khoa/1.Vấn đề",
     "0.Nội khoa/Toàn thân",
