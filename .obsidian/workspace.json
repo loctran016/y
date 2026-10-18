@@ -200,8 +200,7 @@
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Import notes": false,
       "sheet-plus:Create excel file": false,
-      "custom-sidebar-icons:Open custom icon library": false,
-      "full-width-toggle:Toggle current note width": false
+      "custom-sidebar-icons:Open custom icon library": false
     }
   },
   "active": "77b88dd80f3fa924",
