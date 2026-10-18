@@ -1,6 +1,6 @@
 ## Gợi ý suy tim
 
-:::details{TCCN}
+:::details{summary="TCCN"}
 
 1. **Khó thở:**
    - **Khó thở khi gắng sức:** Xuất hiện ở giai đoạn sớm, xuất hiện khi làm việc nặng và tiến triển dần khi làm việc nhẹ.
@@ -22,7 +22,7 @@ Lưu ý về khó thở khi nằm: bất kỳ bệnh nhân nào khó thở cũng
 
 :::
 
-:::details{TCTT}
+:::details{summary="TCTT"}
 
 - **Tĩnh mạch cảnh trong nổi:** Tĩnh mạch cảnh nổi ở tư thế nằm đầu cao 45°, **phản hồi bụng – tĩnh mạch cảnh dương tính**.
 - **Khám tim:**
