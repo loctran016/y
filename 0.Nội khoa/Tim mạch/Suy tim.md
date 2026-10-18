@@ -1,8 +1,6 @@
-## Triệu chứng gợi ý suy tim
+## Gợi ý suy tim
 
-:::details
-
-### TCCN
+:::details{TCCN}
 
 1. **Khó thở:**
    - **Khó thở khi gắng sức:** Xuất hiện ở giai đoạn sớm, xuất hiện khi làm việc nặng và tiến triển dần khi làm việc nhẹ.
@@ -22,12 +20,12 @@ Lưu ý về khó thở khi nằm: bất kỳ bệnh nhân nào khó thở cũng
 - Bệnh nhân xuất hiện hoặc tăng triệu chứng khó thở nhanh chóng (với cảm giác ngộp thở, ho, tức ngực) trong vòng vài phút khi chuyển sang tư thế nằm phẳng, và giảm rõ rệt khi ngồi dậy hoặc nâng cao đầu/ngực.
 - Bệnh nhân hoàn toàn không thể nằm phẳng trên giường, bắt buộc phải chọn tư thế ngồi buông thõng hai chân hoặc kê 2–3 gối cao (ngủ ngồi) mới có thể thở được/mới ngủ được.
 
----
+:::
 
-### TCTT
+:::details{TCTT}
 
 - **Tĩnh mạch cảnh trong nổi:** Tĩnh mạch cảnh nổi ở tư thế nằm đầu cao 45°, **phản hồi bụng – tĩnh mạch cảnh dương tính**.
-- **Thăm khám tim:**
+- **Khám tim:**
   - **Mỏm tim lệch:** Đập lệch xuống dưới và ra ngoài đường trung đòn trái (dấu hiệu tim to/dãn thất trái).
   - **Tiếng T3 Gallop (Ngựa phi T3):** Nghe rõ ở mỏm tim, là dấu hiệu rất đặc hiệu gợi ý suy chức năng tâm thu thất trái nặng.
   - **Âm thổi tâm thu:** Do hở van 2 lá hoặc van 3 lá cơ năng.
@@ -40,11 +38,12 @@ Lưu ý về khó thở khi nằm: bất kỳ bệnh nhân nào khó thở cũng
   - **Báng bụng (Cổ trướng):** Xuất hiện ở giai đoạn muộn do tăng áp lực tĩnh mạch hệ thống.
 
 :::
+
 **Đau ngực KHÔNG CÓ tính đặc hiệu đối với Suy tim**.
 
-Trong chẩn đoán lâm sàng, triệu chứng cơ năng đặc hiệu và có giá trị nhất của suy tim là **Khó thở khi nằm (Orthopnea)** và **Khó thở kịch phát về đêm (PND)**, kết hợp với các dấu hiệu thực thể sung huyết như **Tĩnh mạch cổ nổi, Phản hồi gan - tĩnh mạch cảnh (+), Ran nổ ở phổi và tiếng Gallop T3**.
+Triệu chứng cơ năng đặc hiệu và có giá trị nhất của suy tim là **Khó thở khi nằm (Orthopnea)** và **Khó thở kịch phát về đêm (PND)**, kết hợp với các dấu hiệu thực thể sung huyết như **Tĩnh mạch cổ nổi, Phản hồi gan - tĩnh mạch cảnh (+), Ran nổ ở phổi và tiếng Gallop T3**.
 
-Tuy nhiên, trên thực tế lâm sàng, **rất nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực**. Nếu **LOẠI TRỪ** nguyên nhân hẹp/tắc động mạch vành lớn do mảng xơ vữa (Hội chứng Mạch vành Cấp & Mạn), hiện tượng đau ngực ở bệnh nhân suy tim xuất phát từ các cơ chế sinh lý bệnh sau:
+Nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực. Bên cạnh do  Hội chứng Mạch vành Cấp & Mạn (hẹp/tắc động mạch vành lớn do mảng xơ vữa) hiện tượng đau ngực ở bệnh nhân suy tim xuất phát từ các cơ chế sinh lý bệnh sau:
 
 ---
 
@@ -76,15 +75,15 @@ Tuy nhiên, trên thực tế lâm sàng, **rất nhiều bệnh nhân suy tim v
 
 ---
 
-### Cơ chế sinh lý bệnh giải thích cho Khó thở kịch phát về đêm (PND)
+:::details{summary="Sinh lý bệnh Khó thở kịch phát về đêm (PND)"}
 
 - **Tái phân bố dịch khi nằm:** Khi bệnh nhân nằm ngủ, lượng dịch tích tụ ở hai chi dưới và các nội tạng tái phân bố dồn về tuần hoàn trung tâm, làm gia tăng đột ngột thể tích máu trở về tim trái [1, 2].
 - **Thoát dịch vào mô kẽ (Phù mô kẽ cấp):** Thất trái bị suy không tống hết lượng máu này khiến áp lực trong các tĩnh mạch và mao mạch phổi tăng vọt, đẩy dịch thấm thoát ra ngoài lòng mạch vào **khoảng mô kẽ** quanh phế quản và phế nang [1, 2].
 - **Kích hoạt cơn PND:** Tình trạng phù nề mô kẽ làm tăng sức cản đường thở và gây co thắt phế quản thứ phát (hiện tượng _"hen tim"_) [1, 2]. Điều này kích thích trung tâm hô hấp khiến bệnh nhân **đột ngột tỉnh giấc sau khi ngủ 1 – 3 giờ** trong tình trạng ho, khò khè, ngộp thở và bắt buộc phải ngồi dậy buông thõng hai chân xuống giường để giảm lượng máu dồn về tim [1, 2].
 
----
+:::
 
-### Sự chuyển tiếp từ PND sang Cơn Phù phổi cấp rầm rộ
+:::details{summary="từ PND sang Cơn Phù phổi cấp"}
 
 | Mức độ tổn thương                          | Vị trí đọng dịch trong phổi              | Biểu hiện lâm sàng đặc trưng                                                                                                                                                  |
 | :----------------------------------------- | :--------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -94,7 +93,7 @@ Tuy nhiên, trên thực tế lâm sàng, **rất nhiều bệnh nhân suy tim v
 💡 **Tóm lại:**
 Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ cấp tính diễn ra ban đêm** [1, 2]. Nếu tình trạng ứ dịch này tiếp tục gia tăng nhanh chóng vượt quá ngưỡng chịu đựng, dịch sẽ bứt phá tràn ngập vào lòng phế nang và bùng phát thành **Cơn Phù phổi cấp do tim rầm rộ** [1, 2].
 
-🫀 Bạn có muốn thảo luận thêm về các bước xử trí cấp cứu ban đầu (thở oxy, thuốc dãn mạch, lợi tiểu) cho một bệnh nhân đang vào cơn Phù phổi cấp do tim không?
+:::
 
 ### PHÂN BIỆT: SUY TIM TRÁI VS SUY TIM PHẢI
 
