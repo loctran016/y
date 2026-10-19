@@ -16,13 +16,13 @@ Lịch sử tự nhiên của bệnh là quá trình diễn tiến của một b
 
 ### Các giai đoạn phát triển của bệnh
 
-1.**Giai đoạn cảm nhiễm:** Bắt đầu bằng sự tiếp xúc hoặc sự tích tụ của các yếu tố nguy cơ (tác nhân sinh học, chất độc hại, yếu tố hành vi) làm tăng khả năng mắc bệnh ở túc chủ cảm thụ.
-2.**Giai đoạn bệnh bán lâm sàng (tiềm ẩn / ủ bệnh):** Sau khi tiếp xúc, tác nhân gây ra những biến đổi bệnh lý âm thầm trong cơ thể nhưng **chưa xuất hiện triệu chứng lâm sàng**. 
+1. **Giai đoạn cảm nhiễm:** Bắt đầu bằng sự tiếp xúc hoặc sự tích tụ của các yếu tố nguy cơ (tác nhân sinh học, chất độc hại, yếu tố hành vi) làm tăng khả năng mắc bệnh ở túc chủ cảm thụ.
+2. **Giai đoạn bệnh bán lâm sàng (tiềm ẩn / ủ bệnh):** Sau khi tiếp xúc, tác nhân gây ra những biến đổi bệnh lý âm thầm trong cơ thể nhưng **chưa xuất hiện triệu chứng lâm sàng**. 
   * Ở các bệnh lây nhiễm, thời kỳ này gọi là **thời kỳ ủ bệnh**.
   * Ở các bệnh mạn tính không lây, thời kỳ này gọi là **thời kỳ tiềm ẩn**.
   * Dù chưa có biểu hiện ra ngoài, một số biến đổi sinh học ở giai đoạn này đã có thể phát hiện bằng các xét nghiệm sàng lọc.
-3.**Giai đoạn bệnh lâm sàng:** Đánh dấu bằng sự khởi phát của các triệu chứng và dấu hiệu bệnh lý. Diễn tiến lâm sàng có thể dao động từ mức độ nhẹ, trung bình đến rất nặng hoặc nguy kịch.
-4.**Giai đoạn hồi phục, tàn phế, hoặc chết:** Sau giai đoạn lâm sàng, bệnh diễn tiến đến kết cục: người bệnh khỏi hoàn toàn, mang thương tật/hạn chế chức năng (tàn phế) hoặc tử vong.
+3. **Giai đoạn bệnh lâm sàng:** Đánh dấu bằng sự khởi phát của các triệu chứng và dấu hiệu bệnh lý. Diễn tiến lâm sàng có thể dao động từ mức độ nhẹ, trung bình đến rất nặng hoặc nguy kịch.
+4. **Giai đoạn hồi phục, tàn phế, hoặc chết:** Sau giai đoạn lâm sàng, bệnh diễn tiến đến kết cục: người bệnh khỏi hoàn toàn, mang thương tật/hạn chế chức năng (tàn phế) hoặc tử vong.
 
 ### Các mức độ phòng ngừa
 
