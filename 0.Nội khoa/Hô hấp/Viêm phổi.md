@@ -1,36 +1,29 @@
 ## Định nghĩa
 
-* **Viêm phổi (Pneumonia):** Là tình trạng viêm cấp tính nhu mô phổi (phế nang, phế quản tận và mô kẽ) do tác nhân vi sinh vật (vi khuẩn, virus, nấm, ký sinh trùng) gây ra [3].
-* **Phân loại theo nơi nhiễm khuẩn:**
-  * **Viêm phổi mắc phải cộng đồng (CAP):** Bệnh nhân mắc phải ngoài môi trường y tế [2, 3].
-  * **Viêm phổi bệnh viện (HAP) & Thở máy (VAP):** Xuất hiện sau 48 giờ nhập viện hoặc đặt nội khí quản [2].
+**Viêm phổi (Pneumonia):** Là tình trạng viêm cấp tính nhu mô phổi (phế nang, phế quản tận và mô kẽ) do tác nhân vi sinh vật (vi khuẩn, virus, nấm, ký sinh trùng) gây ra.
 
----
+Lâm sàng:
 
-## Xác định viêm phổi
+- Khởi phát cấp tính trong vài ngày
+- Triệu chứng điển hình: Sốt cao, có thể có lạnh run, ho khạc đàm mủ, đau ngực kiểu màng phổi (nếu có tổn thương nhu mô phổi).
+- HC nhiễm trùng HH dưới: sốt, môi khô, lưỡi dơ. Trên BN *cao tuổi / SGMD*, các biểu hiện ban đầu của viêm phổi có thể không rầm rộ
+- HC đông đặc (rung thanh tăng, gõ đục, rì rào PN giảm), có thể nghe thấy ran nổ, Âm phế quản (Tiếng thổi ống) hoặc Tiếng dê kêu
 
-Kết hợp giữa **Hội chứng nhiễm trùng toàn thân** (Sốt cao, lạnh run) và chỉ điểm ổ nhiễm trùng tại phổi:
-
-* TCCN
-   * **Ho (90%):** Ho khan hoặc ho khạc đờm mủ/màu rỉ sắt/vướng máu.
-   * **Khó thở (66%):** Thở nhanh, thở nông, co kéo cơ hô hấp phụ.
-   * **Đau ngực kiểu màng phổi (50%):** Đau nhói 1 bên ngực, tăng khi hít sâu hoặc ho.
-   * **Ho ra máu (15%)**.
-* **TCTT tại phổi (Hội chứng Đông đặc & Ran phổi):**
-   * **Ran nổ, ran ẩm cuối thì hít vào:** Dấu hiệu tổn thương chứa dịch/mủ trong lòng phế nang (LR+ = 1,6). Tuy vậy độ nhạy và độ đặc hiệu không cao, ~ 50%
-   * **Hội chứng đông đặc nhu mô phổi:** Rì rào phế nang giảm (LR+ = 2,3), gõ đục (LR+ = 2,2), rung thanh tăng, có thể nghe **Âm phế quản (Tiếng thổi ống)** (LR+ = 3,5) hoặc Tiếng dê kêu (LR+ = 2).
-
----
-
-## Phân loại viêm phổi
-
-Theo nơi nhiễm trùng: VP cộng đồng / VP bệnh viện (sau *48h* nhập viện) / VP thở máy
+Phân loại VP theo nơi nhiễm khuẩn:
+  * Viêm phổi mắc phải cộng đồng (CAP): Bệnh nhân mắc phải ngoài cộng động, vẫn có nguy cơ nhiễm các tác nhân đa kháng.
+  * Viêm phổi bệnh viện (HAP): Xuất hiện sau 48 giờ nhập viện không đặt nội khí quản.
+  * Viêm phổi Thở máy (VAP): Xuất hiện sau 48 giờ đặt nội khí quản và thở máy xâm lấn.
 
 Theo giải phẫu: VP thùy / VP phân thuỳ / VP dưới phân thuỳ
 
 Theo đáp ứng điều trị: (Không) đáp ứng ĐT ban đầu
 
-:::details{summary="Theo tác nhân gây bệnh"}
+---
+
+## Tác nhân gây viêm phổi
+
+
+:::details{summary="Tác nhân gây bệnh"}
 
 Tác nhân điển hình:
 * Cầu khuẩn gram dương: Streptococcus pneumoniae (thường gặp nhất), Staphylococcus aureus, Enterococcus faecalis, Enterococcus faecium
@@ -38,17 +31,19 @@ Tác nhân điển hình:
 * Song cầu gram âm: Moraxella catarrhalis
 * Tác nhân tại bệnh viện: Enterococci kháng vancomycin, Staphylococcus kháng methilcillin, Acinetobacter baumannii, Pseudomonas aeruginosa, Staphylococcus aureus, Escherichia coli, Klebsiella pneumoniae, Proteus spp., H.influenza…
 * Vi khuẩn kỵ khí: Bacteroides spp., Fusobacterium spp., Peptococcus spp., Peptostreptococcus spp., Mycobacterium tuberculosis,…
+:::
 
 Tác nhân không điển hình: Legionella pneumophila, Mycoplasma pneumonia, Chlamydia trachomatis, Coxiella burnetti, Chlamydophila pneumoniae
 
 Viêm phổi không do vi khuẩn: do virus (Adenovirus, Varicella, RSV, Parainfluenza virus, Coronavirus, Coxsackie virus, Epstein-Barr virus Rhinovirus, Herpes simplex virus, Cytomegalovirus…), do nấm, do KST, do hóa chất, do điều tri…
-:::
 
-## Mức độ nặng của viêm phổi
+Viêm phổi hít: do sự xâm nhập của dịch dạ dày hoặc dịch hầu họng, có thể chứa vi khuẩn…
+
+## Các thang điểm đánh giá viêm phổi
 
 Viêm phổi cần nhập ICU được gọi là viêm phổi nặng, còn lại không phân độ
 
-**Tiêu chuẩn ATS/IDSA (2007)** (của *Hội Lồng ngực Hoa Kỳ - ATS* và *Hội Bệnh Nhiễm trùng Hoa Kỳ - IDSA*) là bộ tiêu chuẩn vàng được áp dụng trên lâm sàng để **đánh giá mức độ nặng và chỉ định nhập khoa Hồi sức tích cực (ICU)** đối với bệnh nhân **Viêm phổi mắc phải cộng đồng (CAP)** [1].
+**Tiêu chuẩn ATS/IDSA (2007)** (của *Hội Lồng ngực Hoa Kỳ - ATS* và *Hội Bệnh Nhiễm trùng Hoa Kỳ - IDSA*) là bộ tiêu chuẩn vàng được áp dụng trên lâm sàng để **đánh giá mức độ nặng và chỉ định nhập khoa Hồi sức tích cực (ICU)** đối với bệnh nhân **Viêm phổi mắc phải cộng đồng (CAP)**.
 
 Bệnh nhân Viêm phổi mắc phải cộng đồng có chỉ định **nhập khoa ICU** khi thỏa mãn:
 * **Ít nhất 1 Tiêu chuẩn CHÍNH** [1] 
