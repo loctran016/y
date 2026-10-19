@@ -180,6 +180,50 @@ Sinh hiệu HOÀN TOÀN BÌNH THƯỜNG            Có ít nhất 1 sinh hiệu 
    • Điều trị triệu chứng (giảm ho)          • Chỉ định Kháng sinh theo kinh nghiệm
 ```
 
+Để phân biệt giữa **Viêm phế quản cấp** và **Viêm phổi**, y học lâm sàng dựa vào sự khác biệt về **bản chất vị trí tổn thương (đường dẫn khí vs. nhu mô phế nang)**, các **dấu chứng thực thể tổn thương nhu mô trên lâm sàng** (đánh giá qua Tỉ số khả dĩ \\(\text{LR}+/\text{LR}-\\)), và **giá trị chẩn đoán của cận lâm sàng** (Độ nhạy & Độ đặc hiệu) [1-3].
+
 ---
 
-Khung tài liệu trên tập trung làm nổi bật bức tranh giải phẫu học và tiêu chuẩn lâm sàng/cận lâm sàng để phân biệt rõ ràng giữa **Viêm phế quản cấp** và **Viêm phổi**, giúp bạn dễ dàng đưa vào bài học và liên kết với các phần hội chứng nhiễm trùng trước đó.
+### I. BẢN CHẤT VỊ TRÍ TỔN THƯƠNG (GIẢI PHẪU & SINH LÝ BỆNH)
+
+* **Viêm phế quản cấp (Acute Bronchitis):** Là tình trạng viêm nhiễm cấp tính giới hạn tại niêm mạc cây phế quản (đường dẫn khí) [1]. **Hoàn toàn không có tổn thương nhu mô phổi** (không có đông đặc phế nang hay tổn thương mô kẽ) [1, 3].
+* **Viêm phổi (Pneumonia):** Là tình trạng viêm cấp tính tổn thương trực tiếp vào **nhu mô phổi** (bao gồm phế nang, phế quản tận và mô kẽ) [1]. Sự lấp đầy dịch viêm, mủ và tế bào bạch cầu trong lòng phế nang tạo nên các **dấu chứng đông đặc nhu mô** trên lâm sàng và hình ảnh học [1, 4].
+
+---
+
+### II. DẤU CHỨNG TỔN THƯƠNG THỰC THỂ NHA MÔ & TỈ SỐ KHẢ DĨ (LR+ / LR-)
+
+Khi khám lâm sàng, **Viêm phế quản cấp** có thể ghi nhận phổi bình thường hoặc có ran rít, ran ngáy, ran ẩm do dịch xuất tiết trong lòng phế quản nhưng **không có hội chứng đông đặc** [4, 5]. 
+
+Ngược lại, **Viêm phổi** bộc lộ các dấu chứng thực thể tổn thương nhu mô phế nang [4]. Giáo trình Tiếp cận Chẩn đoán Nội khoa ĐHYD TP.HCM hệ thống hóa giá trị của các dấu chứng này qua **Tỉ số khả dĩ Dương (LR+)** và **Tỉ số khả dĩ Âm (LR-)** [2]:
+
+| Dấu chứng lâm sàng | Ý nghĩa tổn thương | Tỉ số khả dĩ Dương (LR+) | Tỉ số khả dĩ Âm (LR-) |
+| :--- | :--- | :---: | :---: |
+| **Âm phế quản (Tiếng thổi ống)** | Dẫn truyền âm qua vùng phế nang bị đông đặc [4] | **3,5** [2] | 0,90 [2] |
+| **Rối loạn tri giác** | Biểu hiện nhiễm trùng nặng / suy hô hấp ở người già [2, 4] | **3,4** [2] | 0,94 [2] |
+| **Âm phế bào giảm** | Giảm thông khí do phế nang chứa đầy dịch mủ [4] | **2,3** [2] | 0,78 [2] |
+| **Gõ đục** | Giảm độ vang lồng ngực do nhu mô phổi bị đông đặc [4] | **2,2** [2] | 0,93 [2] |
+| **Tiếng dê kêu (Egophony)** | Biến đổi âm sắc giọng nói qua vùng nhu mô bị đông đặc [4] | **2,0** [2] | 0,96 [2] |
+| **Ran nổ (cuối thì hít vào)** | Bóc tách các phế nang bị dính dịch mủ ở cuối thì hít vào [4] | **1,6** [2] | 0,87 [2] |
+| **Nhịp thở > 25 lần/phút** | Phản ứng đáp ứng khi nhu mô phổi giảm diện tích trao đổi khí [2, 4] | **1,5** [2] | 0,82 [2] |
+
+> **Lưu ý lâm sàng:** Không có một triệu chứng cơ năng hay thực thể đơn độc nào đủ độ nhạy/đặc hiệu để chẩn đoán xác định hoặc loại trừ hoàn toàn Viêm phổi [2].
+
+---
+
+### III. GIÁ TRỊ CẬN LÂM SÀNG PHÂN BIỆT (ĐỘ NHẠY & ĐỘ ĐẶC HIỆU)
+
+Để bóc tách chắc chắn giữa Viêm phế quản cấp và Viêm phổi, cận lâm sàng đóng vai trò quyết định [3, 5]:
+
+1. **X-quang ngực thẳng (PA):**
+   * **Độ nhạy:** Đạt **75%** trong chẩn đoán nhiễm khuẩn hô hấp dưới cấp tính, đặc biệt là Viêm phổi [3].
+   * **Viêm phế quản cấp:** Hình ảnh X-quang **hoàn toàn bình thường**, không có tổn thương nhu mô phổi [3, 5].
+   * **Viêm phổi:** Thấy rõ tổn thương **thâm nhiễm / đông đặc phế nang mới xuất hiện** (dạng thùy, phân thùy kèm hình ảnh khí phế quản đồ) [1, 3].
+2. **Siêu âm phổi tại giường:**
+   * Có **Độ nhạy từ 60% – 90%** và **Độ đặc hiệu (Độ chuyên) lên tới 90%** trong phát hiện tổn thương đông đặc nhu mô sát thành ngực và biến chứng màng phổi [5].
+3. **Procalcitonin (PCT) & CRP:**
+   * **Procalcitonin (PCT):** Có **độ đặc hiệu cao hơn hẳn** đối với nhiễm khuẩn vi khuẩn nhu mô phổi (Viêm phổi), giúp phân biệt với Viêm phế quản cấp (vốn \\(80\%\\) do nguyên nhân virus tự giới hạn) [6, 7].
+
+---
+
+💡 Bạn có muốn đi sâu hơn vào việc ứng dụng các chỉ số **LR+ này trong các thang điểm phân tầng độ nặng (như CURB-65 hay PSI)** để quyết định hướng điều trị ngoại trú hay nhập viện không?
