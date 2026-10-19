@@ -1,4 +1,4 @@
-Bài giảng này trình bày về các số đo lường cơ bản trong dịch tễ học nhằm mô tả tần số bệnh tật, đo lường khả năng mắc bệnh mới hoặc gánh nặng bệnh hiện tại trong một quần thể dân số [1].
+Bài giảng này trình bày về các số đo lường cơ bản trong dịch tễ học nhằm mô tả tần số bệnh tật, đo lường khả năng mắc bệnh mới hoặc gánh nặng bệnh hiện tại trong một quần thể dân số.
 
 * Định nghĩa và phân biệt được ý nghĩa của **số mới mắc** (nguy cơ, tỷ suất) và **số hiện mắc** [1].
 * Lựa chọn và tính toán được những số đo lường bệnh trạng thích hợp cho từng loại nghiên cứu dịch tễ học [1].
