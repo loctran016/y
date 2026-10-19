@@ -1,24 +1,20 @@
-# Bài 2: Bệnh Và Sự Xuất Hiện Dịch
-
 Bài học này trình bày về quá trình phát triển tự nhiên của bệnh trong cơ thể con người, cơ chế lây truyền bệnh trong cộng đồng, các cấp độ phòng ngừa y tế, cũng như hình thái bùng phát dịch và cách xây dựng quy chuẩn xác định ca bệnh [1].
 
----
+Mục Tiêu Bài Giảng
 
-### Mục Tiêu Bài Giảng
-
-* Liệt kê và phân tích **4 giai đoạn** trong quá trình phát triển tự nhiên của bệnh [1].
-* Trình bày các thành phần của **dây truyền lây** và **tam giác dịch tễ học** [1, 2].
-* Ứng dụng lịch sử tự nhiên và dây truyền lây vào **4 bậc phòng ngừa** bệnh tật [1, 3].
-* Giải thích khái niệm và vai trò của **miễn dịch quần thể** [1, 4].
-* Phân loại các **mức độ bùng phát dịch**, các **mô hình vụ dịch** và cách thiết lập **định nghĩa trường hợp bệnh** [1, 5, 6].
+* Liệt kê và phân tích **4 giai đoạn** trong quá trình phát triển tự nhiên của bệnh.
+* Trình bày các thành phần của **dây truyền lây** và **tam giác dịch tễ học**.
+* Ứng dụng lịch sử tự nhiên và dây truyền lây vào **4 bậc phòng ngừa** bệnh tật.
+* Giải thích khái niệm và vai trò của **miễn dịch quần thể**.
+* Phân loại các **mức độ bùng phát dịch**, các **mô hình vụ dịch** và cách thiết lập **định nghĩa trường hợp bệnh**.
 
 ---
 
-### Lịch Sử Tự Nhiên Của Bệnh
+## 4 giai đoan phát triển tự Nhiên Của Bệnh
 
-Lịch sử tự nhiên của bệnh là quá trình diễn tiến của một bệnh trên một cá nhân theo thời gian mà **không có bất kỳ sự can thiệp nào của y khoa** [1]. Quá trình này bắt đầu từ khi tiếp xúc với yếu tố gây bệnh và kết thúc bằng sự phục hồi, tàn phế hoặc tử vong [1].
+Lịch sử tự nhiên của bệnh là quá trình diễn tiến của một bệnh trên một cá nhân theo thời gian mà *không có bất kỳ sự can thiệp nào của y khoa*. Quá trình này bắt đầu từ khi tiếp xúc với yếu tố gây bệnh và kết thúc bằng sự phục hồi, tàn phế hoặc tử vong .
 
-#### Các giai đoạn phát triển của bệnh
+### Các giai đoạn phát triển của bệnh
 
 * **Giai đoạn cảm nhiễm:** Bắt đầu bằng sự tiếp xúc hoặc sự tích tụ của các yếu tố nguy cơ (tác nhân sinh học, chất độc hại, yếu tố hành vi) làm tăng khả năng mắc bệnh ở túc chủ cảm thụ [7].
 * **Giai đoạn bệnh bán lâm sàng (tiềm ẩn / ủ bệnh):** Sau khi tiếp xúc, tác nhân gây ra những biến đổi bệnh lý âm thầm trong cơ thể nhưng **chưa xuất hiện triệu chứng lâm sàng** [7]. 
@@ -28,7 +24,7 @@ Lịch sử tự nhiên của bệnh là quá trình diễn tiến của một b
 * **Giai đoạn bệnh lâm sàng:** Đánh dấu bằng sự khởi phát của các triệu chứng và dấu hiệu bệnh lý [3]. Diễn tiến lâm sàng có thể dao động từ mức độ nhẹ, trung bình đến rất nặng hoặc nguy kịch [3].
 * **Giai đoạn hồi phục, tàn phế, hoặc chết:** Sau giai đoạn lâm sàng, bệnh diễn tiến đến kết cục: người bệnh khỏi hoàn toàn, mang thương tật/hạn chế chức năng (tàn phế) hoặc tử vong [1, 3].
 
-#### Các mức độ phòng ngừa
+### Các mức độ phòng ngừa
 
 Dựa trên các giai đoạn của lịch sử tự nhiên, y tế công cộng chia hoạt động can thiệp thành 4 bậc [2, 3]:
 
@@ -37,22 +33,22 @@ Dựa trên các giai đoạn của lịch sử tự nhiên, y tế công cộng
 * **Phòng ngừa bậc 2 (Secondary prevention):** Tác động vào **giai đoạn bệnh bán lâm sàng** nhằm phát hiện bệnh sớm khi chưa có triệu chứng và điều trị kịp thời, ngăn không cho bệnh tiến triển sang giai đoạn lâm sàng (ví dụ: phết tế bào PAP sàng lọc ung thư cổ tử cung, tầm soát huyết áp) [2, 3].
 * **Phòng ngừa bậc 3 (Tertiary prevention):** Tác động vào **giai đoạn lâm sàng và hồi phục** nhằm ngăn ngừa các biến chứng xấu, giảm thiểu tàn phế và hạn chế tỷ lệ tử vong (ví dụ: dùng thuốc ức chế beta sau nhồi máu cơ tim, phục hồi chức năng) [2, 3].
 
-#### Hiện tượng tảng băng trong chẩn đoán
+### Hiện tượng tảng băng trong chẩn đoán
 
 Trong cộng đồng, số lượng ca bệnh lâm sàng được chẩn đoán tại bệnh viện chỉ đại diện cho **"phần nổi của tảng băng"** [2]. **"Phần chìm"** chiếm tỷ lệ rất lớn gồm những cá thể nhiễm trùng tiềm tàng, bệnh bán lâm sàng hoặc người mang trùng không triệu chứng [2]. Những người ở "phần chìm" vẫn có khả năng làm lan truyền mầm bệnh cho người khác, tạo ra thách thức lớn cho công tác kiểm soát dịch [2].
 
 ---
 
-### Dây Truyền Lây
+## Dây Truyền Lây
 
-#### Tam giác dịch tễ học
+### Tam giác dịch tễ học
 
 Sự xuất hiện của bệnh là kết quả của sự tương tác qua lại giữa 3 yếu tố [2]:
 * **Tác nhân (Agent):** Mầm bệnh sinh học (vi-rút, vi khuẩn, ký sinh trùng) hoặc nguyên nhân vật lý, hóa học [2].
 * **Túc chủ (Host):** Cá thể mang các đặc tính di truyền, tuổi, giới, tình trạng miễn dịch, dinh dưỡng và hành vi lối sống [8].
 * **Môi trường (Environment):** Các yếu tố bên ngoài (tự nhiên, vật lý, kinh tế - xã hội) tác động đến tác nhân và cơ hội tiếp xúc của túc chủ [8].
 
-#### Các thành phần của dây truyền lây
+### Các thành phần của dây truyền lây
 
 Dây truyền lây truyền mô tả con đường mầm bệnh di chuyển từ nguồn lây đến túc chủ mới qua 6 mắt xích [8-11]:
 
@@ -65,7 +61,7 @@ Dây truyền lây truyền mô tả con đường mầm bệnh di chuyển từ
 * **Ngõ vào (Portal of entry):** Con đường mầm bệnh xâm nhập vào túc chủ mới (thường tương ứng với ngõ ra, như niêm mạc hô hấp, tiêu hóa, vết thương da) [10, 11].
 * **Túc chủ cảm thụ (Susceptible host):** Cá thể thiếu kháng thể bảo vệ đặc hiệu hoặc có sức đề kháng suy giảm [11].
 
-#### Ứng dụng dây truyền lây trong phòng ngừa
+### Ứng dụng dây truyền lây trong phòng ngừa
 
 Để dập tắt dịch, can thiệp y tế công cộng cần tập trung **phá vỡ mắt xích nhạy cảm nhất** trong dây truyền lây [4, 11]:
 * *Tác động vào nguồn truyền:* Điều trị người bệnh, cách ly, giải nhiễm môi trường [4].
@@ -74,7 +70,7 @@ Dây truyền lây truyền mô tả con đường mầm bệnh di chuyển từ
 
 ---
 
-### Miễn Dịch Quần Thể
+## Miễn Dịch Quần Thể
 
 **Miễn dịch quần thể (Herd immunity)** là sức đề kháng của một nhóm người đối với sự tấn công của một bệnh dịch, đạt được khi một tỷ lệ lớn thành viên trong cộng đồng có miễn dịch bảo vệ [4].
 
@@ -82,9 +78,9 @@ Khi tỷ lệ người có miễn dịch đủ cao, dây truyền lây bị giá
 
 ---
 
-### Sự Xuất Hiện Bệnh Thành Dịch
+## Sự Xuất Hiện Bệnh Thành Dịch
 
-#### Các mức độ xuất hiện bệnh
+### Các mức độ xuất hiện bệnh
 
 * **Tản phát / Ca lẻ tày dịch (Sporadic):** Bệnh xuất hiện bất thường, rải rác, các ca không có mối liên hệ rõ ràng về không gian và thời gian [5].
 * **Mức lưu hành (Endemic):** Bệnh hiện diện thường xuyên và tương đối ổn định ở mức độ mong đợi trong một cộng đồng [5].
@@ -92,7 +88,7 @@ Khi tỷ lệ người có miễn dịch đủ cao, dây truyền lây bị giá
 * **Vụ dịch / Trận dịch (Epidemic / Outbreak):** Số ca mắc bệnh gia tăng đột ngột, vượt rõ rệt so với mức độ lưu hành bình thường trong một khu vực và khoảng thời gian cụ thể [5, 12].
 * **Đại dịch (Pandemic):** Trận dịch bùng phát lan rộng ra nhiều quốc gia, châu lục hoặc toàn cầu [12].
 
-#### Các mô hình vụ dịch
+### Các mô hình vụ dịch
 
 * **Dịch nguồn chung (Common source):** Tất cả bệnh nhân cùng tiếp xúc với một nguồn lây chung [12].
   * *Nguồn điểm (Point source):* Tiếp xúc một lần trong thời gian ngắn (ví dụ: ngộ độc thực phẩm tại một bữa tiệc) [12].
@@ -101,9 +97,7 @@ Khi tỷ lệ người có miễn dịch đủ cao, dây truyền lây bị giá
 * **Dịch lan truyền / Nhân rộng (Propagated):** Lây từ người sang người qua tiếp xúc trực tiếp, giọt bắn hoặc vector, làm số ca bệnh tăng thành nhiều làn sóng nối tiếp nhau [12].
 * **Dịch hỗn hợp (Mixed):** Bắt đầu bằng một dịch nguồn chung, sau đó mầm bệnh tiếp tục lan truyền từ người sang người [12].
 
----
-
-### Định Nghĩa Trường Hợp Bệnh
+## Định Nghĩa Trường Hợp Bệnh
 
 **Định nghĩa trường hợp bệnh (Case definition)** là một bộ tiêu chuẩn chuẩn hóa (gồm tiêu chuẩn lâm sàng, xét nghiệm, cùng các giới hạn về con người, nơi chốn và thời gian) dùng để xác định thống nhất xem một cá thể có mắc bệnh hay không [6].
 
