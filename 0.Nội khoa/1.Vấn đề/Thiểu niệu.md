@@ -23,7 +23,7 @@ Khi bệnh nhân có thiểu niệu/vô niệu diễn tiến cấp tính, triệ
 
 Khi gặp bệnh nhân thiểu niệu/vô niệu, tư duy lâm sàng sẽ bóc tách theo **3 nhóm vị trí giải phẫu** :
 
-#### A. Nhóm TRƯỚC THẬN (Prerenal) – Do giảm tưới máu nuôi thận
+#### Nhóm TRƯỚC THẬN (Prerenal) – Do giảm tưới máu nuôi thận
 
 Thận hoàn toàn chưa bị tổn thương cấu trúc, chỉ bị "thiếu máu nuôi" do giảm thể tích hoặc giảm cung lượng tim :
 
@@ -33,14 +33,14 @@ Thận hoàn toàn chưa bị tổn thương cấu trúc, chỉ bị "thiếu m�
 - **Do thuốc gây co/dãn tiểu động mạch thận:** Thuốc kháng viêm NSAIDs, thuốc chế men chuyển (ACEi) / ức chế thụ thể (ARB) .
 - 👉 _Dấu hiệu lâm sàng gợi ý:_ Khám thấy **dấu hiệu thiếu nước rõ** (mạch nhanh, hạ huyết áp tư thế, niêm mạc khô, véo da (+), mắt trũng) .
 
-#### B. Nhóm TẠI THẬN (Intrinsic / Renal) – Do tổn thương thực thể nhu mô thận
+#### Nhóm TẠI THẬN (Intrinsic / Renal) – Do tổn thương thực thể nhu mô thận
 
 - **Hoại tử ống thận cấp (ATN):** Hậu quả của thiếu máu cục bộ thận kéo dài (trước thận không điều trị kịp) hoặc do độc chất (thuốc cản quang, kháng sinh Aminoglycoside, Vancomycin, ly giải cơ gai) .
 - **Bệnh lý Cầu thận cấp:** Viêm cầu thận cấp hậu nhiễm liên cầu, Viêm cầu thận tiến triển nhanh (RPGN), đợt bùng phát Bệnh thận Lupus .
 - **Viêm ống thận mô kẽ cấp (AIN):** Thường do dị ứng thuốc (kháng sinh, NSAIDs, Allopurinol) .
 - 👉 _Dấu hiệu lâm sàng gợi ý:_ Thiểu niệu kèm theo **tiểu máu đại thể (màu xá xị), phù toàn thân, tăng huyết áp**, hoặc phát ban da, đau khớp sau khi dùng thuốc .
 
-#### C. Nhóm SAU THẬN (Postrenal) – Do bế tắc đường xuất nước tiểu
+#### Nhóm SAU THẬN (Postrenal) – Do bế tắc đường xuất nước tiểu
 
 Nước tiểu vẫn được tạo ra từ cầu thận nhưng bị cản trở đường thoát :
 

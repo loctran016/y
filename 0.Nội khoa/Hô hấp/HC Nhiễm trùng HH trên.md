@@ -67,7 +67,7 @@ Cần khám xét kỹ hoặc cho bệnh nhân nhập viện khi xuất hiện:
 
 ---
 
-## Phân biệt VI-RÚT VS. VI KHUẨN (Trong Viêm họng cấp)
+## VI KHUẨN (Trong Viêm họng cấp)
 
 Việc lạm dụng kháng sinh cho nhiễm trùng hô hấp trên do vi-rút là một thực trạng rất phổ biến. Thang điểm **Centor / McIsaac** giúp phân biệt Viêm họng do **Liên cầu trùng nhóm A (vi khuẩn)** và **Vi-rút**:
 

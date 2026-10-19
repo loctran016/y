@@ -5,11 +5,12 @@
 - ⚠️ **Phân biệt quan trọng:** Cần phân biệt **Thiểu niệu/Vô niệu** _(thận không tạo ra được nước tiểu)_ với **Bí tiểu (Urinary retention)** _(thận vẫn tạo ra nước tiểu nhưng bị kẹt lại ở bàng quang không đi ra ngoài được, khám thấy **Cầu bàng quang (+)**)_.
 
 ---
+
 ## Tiếp cận Chẩn đoán Nguyên nhân theo 3 Nhóm (Trước thận – Tại thận – Sau thận)
 
 Khi gặp bệnh nhân thiểu niệu/vô niệu, tư duy lâm sàng sẽ bóc tách theo **3 nhóm vị trí giải phẫu** :
 
-### A. Nhóm TRƯỚC THẬN (Prerenal) – Do giảm tưới máu nuôi thận
+### Nhóm TRƯỚC THẬN (Prerenal) – Do giảm tưới máu nuôi thận
 
 Thận hoàn toàn chưa bị tổn thương cấu trúc, chỉ bị "thiếu máu nuôi" do giảm thể tích hoặc giảm cung lượng tim :
 
@@ -19,14 +20,14 @@ Thận hoàn toàn chưa bị tổn thương cấu trúc, chỉ bị "thiếu m�
 - **Do thuốc gây co/dãn tiểu động mạch thận:** Thuốc kháng viêm NSAIDs, thuốc chế men chuyển (ACEi) / ức chế thụ thể (ARB).
 - 👉 _Dấu hiệu lâm sàng gợi ý:_ Khám thấy **dấu hiệu thiếu nước rõ** (mạch nhanh, hạ huyết áp tư thế, niêm mạc khô, véo da (+), mắt trũng).
 
-### B. Nhóm TẠI THẬN (Intrinsic / Renal) – Do tổn thương thực thể nhu mô thận
+### Nhóm TẠI THẬN (Intrinsic / Renal) – Do tổn thương thực thể nhu mô thận
 
 - **Hoại tử ống thận cấp (ATN):** Hậu quả của thiếu máu cục bộ thận kéo dài (trước thận không điều trị kịp) hoặc do độc chất (thuốc cản quang, kháng sinh Aminoglycoside, Vancomycin, ly giải cơ gai).
 - **Bệnh lý Cầu thận cấp:** Viêm cầu thận cấp hậu nhiễm liên cầu, Viêm cầu thận tiến triển nhanh (RPGN), đợt bùng phát Bệnh thận Lupus.
 - **Viêm ống thận mô kẽ cấp (AIN):** Thường do dị ứng thuốc (kháng sinh, NSAIDs, Allopurinol).
 - 👉 _Dấu hiệu lâm sàng gợi ý:_ Thiểu niệu kèm theo **tiểu máu đại thể (màu xá xị), phù toàn thân, tăng huyết áp**, hoặc phát ban da, đau khớp sau khi dùng thuốc.
 
-### C. Nhóm SAU THẬN (Postrenal) – Do bế tắc đường xuất nước tiểu
+### Nhóm SAU THẬN (Postrenal) – Do bế tắc đường xuất nước tiểu
 
 Nước tiểu vẫn được tạo ra từ cầu thận nhưng bị cản trở đường thoát :
 
@@ -38,13 +39,13 @@ Nước tiểu vẫn được tạo ra từ cầu thận nhưng bị cản trở
 
 ### 📊 BẢNG TRA CỨU NHANH KHI ĐẶT CHẨN ĐOÁN CÓ THIỂU NIỆU / VÔ NIỆU
 
-| Bức tranh Lâm sàng & Bệnh sử                                   | Vấn đề đặt ra                        | Định hướng Chẩn đoán sơ bộ                                                 |
-| :------------------------------------------------------------- | :----------------------------------- | :------------------------------------------------------------------------- |
+| Bức tranh Lâm sàng & Bệnh sử                                   | Vấn đề đặt ra                        | Định hướng Chẩn đoán sơ bộ                                                |
+| :------------------------------------------------------------- | :----------------------------------- | :------------------------------------------------------------------------ |
 | Thiểu niệu + Nôn/tiêu chảy/XHTH + Da khô, niêm nhợt, HA tụt    | Thiểu niệu cấp / Mất nước            | **Tổn thương thận cấp Trước thận do Mất dịch/Mất máu**.                   |
 | Thiểu niệu + Phù mặt/mắt + Tăng HA + Tiểu máu xá xị            | Hội chứng Viêm cầu thận cấp          | **Viêm cầu thận cấp (Tổn thương thận cấp Tại thận)**.                     |
 | Thiểu niệu + Nam lớn tuổi + Đau tức hạ vị + Cầu bàng quang (+) | Bí tiểu cấp / Thiểu niệu sau thận    | **Thiểu niệu do Bế tắc sau thận (Phì đại tuyến tiền liệt/K bàng quang)**. |
 | Thiểu niệu + Uống thuốc cản quang / Kháng sinh Aminoglycoside  | Thiểu niệu cấp / Tiền căn dùng thuốc | **Hoại tử ống thận cấp (ATN) do độc chất/thuốc**.                         |
-| **Vô niệu đột ngột (0 mL)** + Đau quặn lưng 2 bên              | Vô niệu cấp tính                     | **Sỏi niệu quản 2 bên gây Tắc nghẽn sau thận hoàn toàn**.                 |Khi bệnh nhân có thiểu niệu/vô niệu diễn tiến cấp tính, triệu chứng này bắt buộc phải đưa lên vị trí ưu tiên cao trong danh sách vấn đề:
+| **Vô niệu đột ngột (0 mL)** + Đau quặn lưng 2 bên              | Vô niệu cấp tính                     | **Sỏi niệu quản 2 bên gây Tắc nghẽn sau thận hoàn toàn**.                 | Khi bệnh nhân có thiểu niệu/vô niệu diễn tiến cấp tính, triệu chứng này bắt buộc phải đưa lên vị trí ưu tiên cao trong danh sách vấn đề: |
 
 - **Cách 1 (Nhấn mạnh triệu chứng báo động):** _Thiểu niệu cấp tính (hoặc Vô niệu cấp tính)_.
 - **Cách 2 (Khi đã gom đủ hội chứng):** _Hội chứng Viêm cầu thận cấp (Phù + THA + Tiểu máu + Thiểu niệu)_ hoặc _Tổn thương thận cấp (AKI) thể thiểu niệu/vô niệu_.

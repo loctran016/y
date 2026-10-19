@@ -15,7 +15,7 @@ Thông điệp chính
 4. THATTĐĐ phổ biến ở người cao tuổi, cần đo huyết áp tư thế thường quy ở người cao tuổi, ĐTĐ hoặc dùng đa thuốc để phát hiện hạ/THA tư thế đứng.
 5.
 
-### a. Cơn THA cấp cứu
+### Cơn THA cấp cứu
 
 Là THA độ 3 (Hội Tim Châu Âu 2018) có kèm tổn thương cơ quan đích cấp tính, có thể đe doạ tính mạng bn và cần thiết phải hạ HA ngay lập tức, bao gồm các thể sau:
 
@@ -38,13 +38,13 @@ Cơn THA khẩn cấp: THA độ 3 nhưng chưa có tổn thương cơ quan đí
 | **Nơi điều trị**                     | **Bắt buộc nhập viện khẩn cấp** (Khoa Cấp cứu / ICU) [2, 3].                                                                              | Không nhất thiết phải nhập viện, có thể xử trí và theo dõi tại phòng cấp cứu/ngoại trú .                                  |
 | **Thái độ dùng thuốc hạ áp**         | Dùng thuốc hạ áp **đường tiêm tĩnh mạch (IV)**, hạ huyết áp khẩn cấp và kiểm soát chặt chẽ theo phác đồ từng bệnh cảnh [2, 3].            | Dùng thuốc hạ áp **đường uống (Oral)**, hạ huyết áp từ từ trong vòng **24 – 48 giờ** .                                    |
 
-### b. THA đơn độc
+### THA đơn độc
 
 THA tâm thu đơn độc HATT ≥ 140 mmHg và HATTr < 90 mmHg HATT rất cao nhưng HATTr và HATB bình thường. Huyết áp động mạch chủ cũng bình thường.
 
 THATTr đơn độc HATT < 140 mmHg HATTr ≥ 90 mmHg
 
-### c. THA "áo choàng trắng" và ẩn giấu
+### THA "áo choàng trắng" và ẩn giấu
 
 - THA “áo choàng trắng”: HAPK thường xuyên tăng (thường là THA độ 1) trong khi HA hằng ngày hoặc 24h lại bình thường
 - THA ẩn giấu: HAPK bình thường (thường ở mức bình thường cao) nhưng THA ở nơi khác, do đó HA 24h đơn độc tăng THA giả tạo Bn lớn tuổi,
@@ -110,23 +110,23 @@ Theo giáo trình _Tiếp cận Chẩn đoán Bệnh Nội khoa_ (ĐHYD TP.HCM),
 
 ---
 
-### I. KHI NÀO CẦN TẦM SOÁT TĂNG HUYẾT ÁP THỨ PHÁT?
+### KHI NÀO CẦN TẦM SOÁT TĂNG HUYẾT ÁP THỨ PHÁT?
 
 Bác sĩ sẽ đặt ra chỉ định tầm soát chuyên sâu tìm nguyên nhân thứ phát khi bệnh nhân có ít nhất một trong các **dấu hiệu gợi ý / cờ đỏ** sau:
 
-#### 1. Tuổi khởi phát bất thường
+#### Tuổi khởi phát bất thường
 
 - **Khởi phát ở tuổi quá trẻ (\\[< 30\text{ tuổi}\\]):** Bệnh nhân trẻ tuổi bị THA mà không có yếu tố nguy cơ tim mạch hay béo phì rõ rệt.
 - **Khởi phát đột ngột ở người lớn tuổi (\\[> 50 - 55\text{ tuổi}\\]):** Trước đó huyết áp hoàn toàn bình thường, nay xuất hiện THA rõ.
 - Trẻ em hoặc thanh thiếu niên bị tăng huyết áp.
 
-#### 2. Mức độ & Diễn tiến huyết áp bất thường
+#### Mức độ & Diễn tiến huyết áp bất thường
 
 - **Khởi phát ĐỘT NGỘT** hoặc trị số huyết áp **tăng vọt rất nặng ngay từ đầu** (THA độ 3, THA ác tính, hoặc Cơn tăng huyết áp cấp cứu).
 - **Tăng huyết áp kháng trị (Resistant Hypertension):** Huyết áp vẫn không đạt mục tiêu dù đã dùng phối hợp **từ 3 loại thuốc hạ áp trở lên** ở liều tối ưu (trong đó bắt buộc có 1 thuốc lợi tiểu).
 - **Huyết áp đang kiểm soát ổn định đột ngột mất kiểm soát/tăng vọt** mà không giải thích được do tuân thủ điều trị kém.
 
-#### 3. Dấu hiệu lâm sàng & Cận lâm sàng gợi ý nguyên nhân cụ thể
+#### Dấu hiệu lâm sàng & Cận lâm sàng gợi ý nguyên nhân cụ thể
 
 - **Bệnh lý Thận & Mạch máu thận:**
   - Có tổn thương thận trên xét nghiệm: Creatinine máu tăng, giảm eGFR, có đạm niệu hoặc tiểu máu.
@@ -142,7 +142,7 @@ Bác sĩ sẽ đặt ra chỉ định tầm soát chuyên sâu tìm nguyên nhâ
 
 ---
 
-### II. KHI NÀO KHÔNG CẦN TẦM SOÁT TĂNG HUYẾT ÁP THỨ PHÁT?
+### KHI NÀO KHÔNG CẦN TẦM SOÁT TĂNG HUYẾT ÁP THỨ PHÁT?
 
 **KHÔNG cần** làm các xét nghiệm tầm soát chuyên sâu/phức tạp khi bệnh nhân đáp ứng các tiêu chuẩn của **Tăng huyết áp nguyên phát điển hình**:
 
@@ -178,7 +178,7 @@ Nên loại bỏ sơ qua các nguyên nhân THA thứ phát bên cạnh các y�
 
 ## Phân biệt giữa nguyên nhân và biến chứng tăng huyết áp
 
-### **1. Đặt vấn đề & Bản chất sinh lý bệnh: Mối quan hệ hai chiều ("Vòng xoắn bệnh lý")**
+### Đặt vấn đề & Bản chất sinh lý bệnh: Mối quan hệ hai chiều ("Vòng xoắn bệnh lý")**
 
 Giải thích ngắn gọn: Cả hai chiều đều có thể xảy ra trên lâm sàng.
 
@@ -187,7 +187,7 @@ Giải thích ngắn gọn: Cả hai chiều đều có thể xảy ra trên lâ
 
 ---
 
-### **2. So sánh & Phân biệt cụ thể (Nguyên nhân vs Biến chứng)**
+### So sánh & Phân biệt cụ thể (Nguyên nhân vs Biến chứng)**
 
 #### **Trường hợp A: Suy thận là NGUYÊN NHÂN thúc đẩy Tăng huyết áp cấp cứu (THA thứ phát)**
 
@@ -305,7 +305,7 @@ L
 
 ### PHÂN BIỆT BẰNG CÁC XÉT NGHIỆM CẬN LÂM SÀNG (CLS) THEN CHỐT
 
-#### Siêu âm Thận (Khảo sát hình ảnh học cấu trúc) – CLS quan trọng nhất để phân biệt Cấp vs. Mạn
+#### Mạn
 
 - **Nếu Thận là NGUYÊN NHÂN (Bệnh thận mạn có từ trước):**
   - Kích thước 2 thận **teo nhỏ ((< 8 - 9 cm))**, nhu mô mỏng, tăng âm rõ, mất phân biệt vỏ - tủy (dấu hiệu sẹo hóa nhu mô mạn tính) .
@@ -358,7 +358,7 @@ L
 
 ## Biện luận cơn tăng huyết áp cấp cứu
 
-### a. Xác định cơn tăng huyết áp cấp cứu
+### Xác định cơn tăng huyết áp cấp cứu
 
 - Huyết áp BN ghi nhận 200/130mmHg > 180mmHg
 - Đánh giá tổn thương trên cơ quan đích:
@@ -378,14 +378,14 @@ L
 * Mạch máu lớn: BN không đau ngực, đau buốt, tê bì, yếu liệt các chi. Tiền căn không ghi nhận bệnh mô liên kết (hội chứng Marfan, hội chứng Ehlers-Danlos). Khám không ghi nhận huyết áp chênh lệch giữa hai tay, không mất mạch ngoại biên.
   => Không nghĩ.
 
-### b. Yếu tố thúc đẩy
+### Yếu tố thúc đẩy
 
 - Stress: BN làm công việc quản lý sales, ghi nhận stress nhiều về công việc, thói quen thường xuyên thức đêm, sử dụng caffeine và nước tăng lực nhiều. Gần đây, BN phải chạy KPI cuối quý 3 nên stress nhiều hơn
   => Nghĩ nhiều
 - Ăn mặn: Ghi nhận tiền căn ăn mặn lâu năm, không ghi nhận ăn tiệc, bữa ăn thịnh soạn trước đợt bệnh
   => Ít nghĩ
 
-### c. Nguyên phát/thứ phát?
+### Nguyên phát/thứ phát?
 
 - BN nam, 36 tuổi (<40 tuổi), huyết áp 200mmHg (>180mmHg), không có tiền căn THA, ghi nhận thói quen ăn mặn nhưng không hút thuốc lá, không béo phì (BMI = 22,9 kg/m2)
   => Nghĩ nhiều nguyên nhân thứ phát
@@ -425,9 +425,9 @@ Những nguyên nhân thứ phát thường gặp:
 - Hẹp eo động mạch chủ: BN là người lớn (không thuộc trẻ em hay thiếu niên), huyết áp tay không cao >20/10mmHg so với chân và không chênh lệch giữa tay phải và tay trái
   => Không nghĩ.
 
-### d. Tổn thương cơ quan đích: (đã biện luận)
+### Tổn thương cơ quan đích: (đã biện luận)
 
-### e. Đánh giá nguy cơ tim mạch
+### Đánh giá nguy cơ tim mạch
 
 - BN THA độ 3 (>180mmHg), đã được chẩn đoán suy tim ở tuyến trước, ghi nhận dày đồng tâm thất trái, dãn thất trái của siêu âm tim tuyến trước
   => Nghĩ nhiều nguy cơ tim mạch cao hoặc rất cao. Đề nghị CLS: CTM, đường huyết lúc đói, HbA1C, bilan lipid máu, ion đồ, acid uric máu, creatinine huyết thanh và eGFR, TPTNT, ECG

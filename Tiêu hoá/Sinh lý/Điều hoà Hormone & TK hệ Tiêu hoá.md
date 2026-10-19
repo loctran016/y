@@ -18,7 +18,7 @@
 | Neuropeptide Y                                | Các neuron của hệ thần kinh ruột                            | - Giãn cơ trơn<br>- ↓ Tiết dịch ruột                                                                      |
 | Substance P                                   | Đồng bài tiết cùng ACh bởi các neuron của hệ thần kinh ruột | - Co cơ trơn<br>- ↑ Tiết nước bọt                                                                         |
 
-## 1\. Các Hormone Tiêu Hóa Chính (Chất Nội Tiết)
+## Các Hormone Tiêu Hóa Chính (Chất Nội Tiết)
 
 Hệ thống nội tiết tiêu hóa điều hòa các hoạt động bài tiết dịch vị, dịch tụy, dịch mật và nhu động ruột thông qua các hormone được giải phóng trực tiếp vào dòng máu từ các tế bào nội tiết niêm mạc.
 

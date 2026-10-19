@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Nội khoa/1.Vấn đề/Khó thở.md",
+                "file": "0.Nội khoa/Nhiễm trùng/Lao.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Khó thở"
+              "title": "Lao"
             }
           }
         ]
@@ -206,9 +206,16 @@
   },
   "active": "77b88dd80f3fa924",
   "lastOpenFiles": [
+    "0.Nội khoa/0.Nội Y3/Đặt vấn đề.md",
+    "0.Nội khoa/Nhiễm trùng/Lao.md",
+    "0.Nội khoa/Nhiễm trùng",
+    "0.Nội khoa/0.Nội Y3/Chẩn đoán sơ bộ - phân biệt - CLS.md",
+    "0.Nội khoa/1.Vấn đề/Khó thở.md",
+    "0.Nội khoa/0.Nội Y3/Tiểu bọt.md",
+    "0.Nội khoa/Hô hấp/Viêm phổi.md",
+    "0.Nội khoa/Hô hấp/Giãn PQ.md",
     "0.Nội khoa/Hô hấp/Tắc nghẽn đường HH dưới.md",
     "0.Nội khoa/Hô hấp/COPD.md",
-    "0.Nội khoa/1.Vấn đề/Khó thở.md",
     "0.Nội khoa/Hô hấp/Thuyên tắc phổi.md",
     "0.Nội khoa/1.Vấn đề/Thiểu niệu và Vô niệu.md",
     "Nội khoa/Hô hấp/Tắc nghẽn đường HH dưới.md",
@@ -227,14 +234,8 @@
     "0.Nội khoa/Toàn thân/Sốt.md",
     "0.Nội khoa/Toàn thân/HC viêm toàn thân (IRIS).md",
     "0.Nội khoa/Toàn thân/HC nhiễm trùng toàn thân.md",
-    "0.Nội khoa/Tiêu hoá/Xơ gan.md",
-    "0.Nội khoa/Tiêu hoá/Báng bụng.md",
-    "0.Nội khoa/Tim mạch/Âm thổi ở tim.md",
-    "0.Nội khoa/Tim mạch/Viêm nội tâm mạc nhiễm khuẩn.md",
-    "0.Nội khoa/Tim mạch/Tăng HA.md",
     "0.Nội khoa/Tim mạch/Tăng HA-1791454394377.webp",
     "0.Nội khoa/Tim mạch/Tăng HA-1791453510356.webp",
-    "0.Nội khoa/Tim mạch/Suy tim.md",
     "0.Nội khoa/Hô hấp/Hen PQ",
     "0.Nội khoa/1.Vấn đề",
     "0.Nội khoa/Toàn thân",
@@ -243,7 +244,6 @@
     "0.Nội khoa/Thận niệu",
     "0.Nội khoa/Hô hấp",
     "0.Nội khoa/0.Nội Y3",
-    "0.Nội khoa",
     "Nội khoa/Tim mạch/Tăng HA-1791454394377.webp",
     "Nội khoa/Tim mạch/Tăng HA-1791453510356.webp",
     "Tiêu hoá/Dược lý/Thuốc điều trị tiêu chảy-1791105688042.webp",
