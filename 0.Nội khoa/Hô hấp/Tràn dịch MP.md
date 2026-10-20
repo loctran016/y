@@ -56,5 +56,32 @@ Phân biệt **Dịch thấm (Transudate)** vs. **Dịch tiết (Exudate)** bằ
   * **Soi/Cấy Gram, Cấy vi khuẩn, pH dịch < 7.2, Glucose < 60 mg/dL** \\(\rightarrow\\) Gợi ý **Viêm phổi cận viêm / Tràn mủ màng phổi** [cite: 18, 19].
 
 ---
+**Nhận định của bạn hoàn toàn chính xác.** **Tràn khí màng phổi (TKMP)** là một trong những biến chứng thủ thuật thường gặp nhất sau khi chọc dò hoặc dẫn lưu dịch màng phổi [1, 2].
 
-🫁 Bạn có muốn thực hành phân tích một kết quả xét nghiệm dịch màng phổi cụ thể (tính chỉ số Tiêu chuẩn Light và ADA) để chốt chẩn đoán nguyên nhân không?
+---
+
+### I. CƠ CHẾ GÂY TAI BIẾN TRÀN KHÍ MÀNG PHỔI KHI CHỌC DỊCH
+
+Tai biến này thường xuất phát từ **2 cơ chế chính**:
+1. **Tổn thương nhu mô phổi (Thủng lá tạng):** Kim chọc dò đâm quá sâu hoặc khi dịch rút ra gần hết, phổi dãn nở trở lại chạm vào đầu kim làm rách lá tạng màng phổi/phế nang \\(\rightarrow\\) khí từ đường hô hấp thoát ra khoang màng phổi [1, 2].
+2. **Khí từ bên ngoài tràn vào:** Trong quá trình thao tác (tháo lắp xilanh, khóa 3 chạc), áp lực âm trong khoang màng phổi hút không khí từ môi trường bên ngoài vào qua lòng kim/catheter [1].
+
+---
+
+### II. VAI TRÒ CỦA X-QUANG NGỰC KIỂM TRA SAU THỦ THUẬT
+
+Chụp **X-quang ngực thẳng kiểm tra ngay sau chọc dịch** là chỉ định rất quan trọng nhằm:
+* **Tầm soát & Đánh giá mức độ Tràn khí màng phổi:** Phát hiện dải sáng vô mạch ở ngoại vi phế trường (đặc biệt là vùng đỉnh phổi khi bệnh nhân ở tư thế đứng) [3], từ đó phân loại TKMP lượng ít (chỉ cần theo dõi, thở oxy) hay TKMP lượng nhiều/áp lực (cần đặt ống dẫn lưu) [3].
+* **Đánh giá hiệu quả rút dịch:** Xác định thể tích dịch còn lại sau chọc dò và mức độ dãn nở trở lại của nhu mô phổi [1].
+* **Tầm soát biến chứng khác:** Phát hiện sớm tình trạng **Phù phổi cấp do xả dịch quá nhanh** (Re-expansion pulmonary edema) hoặc **Tràn máu màng phổi** do phạm phải mạch máu liên sườn.
+
+---
+
+### III. GIẢI PHÁP GIẢM THIỂU TAI BIẾN TRONG THỰC HÀNH LÂM SÀNG
+
+* **Chọc dò dưới hướng dẫn của Siêu âm màng phổi (Ultrasound-guided thoracentesis):** Hiện nay, siêu âm màng phổi được xem là tiêu chuẩn vàng tại giường [1, 4]. Siêu âm giúp bác sĩ định vị chính xác khoang dịch, xác định bề dày lớp dịch, đo khoảng cách an toàn và theo dõi sự di động của cơ hoành/nhu mô phổi [1, 5].
+* **Hiệu quả:** Việc chọc dò dưới hướng dẫn siêu âm giúp tăng đáng kể tỷ lệ thành công và **giảm thiểu tối đa nguy cơ tràn khí màng phổi hoặc chọc nhầm vào các tạng lân cận** (như gan, lách) [1].
+
+---
+
+🫁 Bạn có muốn tìm hiểu về **dấu hiệu lâm sàng giúp phát hiện sớm tràn khí màng phổi ngay sau chọc dịch** (như đau ngực đột ngột, ho khan, khó thở tăng) hay **hướng xử trí tương ứng đối với từng mức độ tràn khí** không?
