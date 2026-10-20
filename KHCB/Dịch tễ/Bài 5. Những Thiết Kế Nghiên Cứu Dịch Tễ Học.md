@@ -17,10 +17,10 @@ Thiết kế nghiên cứu dịch tễ học là một kế hoạch mô tả chi
 
 ## Phân Loại Các Thiết Kế Nghiên Cứu Dịch Tễ Học
 
-Dựa trên chiến lược nghiên cứu và mục đích, các thiết kế nghiên cứu dịch tễ học được chia thành hai nhóm lớn: **Nghiên cứu quan sát** và **Nghiên cứu can thiệp** [2, 3].
+Dựa trên chiến lược nghiên cứu và mục đích, các thiết kế nghiên cứu dịch tễ học được chia thành hai nhóm lớn: **Nghiên cứu quan sát** và **Nghiên cứu can thiệp**.
 
 | Loại nghiên cứu | Thiết kế nghiên cứu | Chiến lược nghiên cứu | Mục đích nghiên cứu chính |
-| :— | :— | :— | :— |
+| :——-: | :——-: | :——-: | :——-: |
 | **Nghiên cứu quan sát - Mô tả** | • Nghiên cứu tương quan<br>• Báo cáo một ca<br>• Báo cáo hàng loạt ca<br>• Cắt ngang mô tả | Mô tả bệnh trạng trên dân số hoặc cá thể | Xác định mối liên quan ban đầu, mô tả đặc điểm ca bệnh, mô tả mô hình bệnh trạng quần thể và hình thành giả thuyết nhân - quả [2]. |
 | **Nghiên cứu quan sát - Phân tích** | • Cắt ngang phân tích<br>• Nghiên cứu bệnh - chứng<br>• Nghiên cứu đoàn hệ | So sánh bệnh trạng hoặc tỷ lệ phơi nhiễm giữa các nhóm | Xác định và kiểm định mối liên quan nhân - quả giữa yếu tố nguy cơ (phơi nhiễm) và bệnh [2]. |
 | **Nghiên cứu can thiệp** | • Thử nghiệm lâm sàng<br>• Thử nghiệm thực địa<br>• Thử nghiệm can thiệp cộng đồng | So sánh kết quả giữa nhóm có can thiệp và nhóm không can thiệp | Xác định hiệu quả của phác đồ điều trị, biện pháp phòng bệnh trên cá thể khỏe mạnh hoặc trên toàn cộng đồng [2, 3]. |
