@@ -1,6 +1,6 @@
 ## Chẩn đoán xác định COPD
 
-Nghi ngờ ở người trên 40 tuổi có yếu tố nguy cơ (hút thuốc lá, khói bếp, bụi nghề nghiệp) kèm khó thở dai dẳng tăng dần, ho mạn tính, khạc đàm mạn tính.
+Nghi ngờ ở người trên 40 tuổi có bất kì yếu tố nguy cơ (hút thuốc lá, khói bếp, bụi nghề nghiệp) hay khó thở dai dẳng tăng dần, ho mạn tính, khạc đàm mạn tính, nhiễm khuẩn hô hấp tái đi tái lại
 
 Chẩn đoán xác định yêu cầu: Đo hô hấp ký ghi nhận FEV1/FVC < 0,7 sau test dãn phế quản.
 
@@ -8,12 +8,18 @@ Chẩn đoán xác định yêu cầu: Đo hô hấp ký ghi nhận FEV1/FVC < 0
 
 Dựa vào mức độ giới hạn luồng khí (GOLD 1–4) kết hợp phân nhóm triệu chứng và nguy cơ đợt cấp (nhóm A, B, C, D) theo thang điểm mMRC hoặc CAT.
 
+### Mức độ giới hạn luồng khí - GOLD
+
 Ở bệnh nhân đã được chẩn đoán xác định COPD với chỉ số $\text{FEV}_1/\text{FVC} < 0{,}70$ sau test dãn phế quản, mức độ tắc nghẽn luồng khí được chia làm 4 mức độ dựa vào chỉ số $\text{FEV}_1$ (% so với giá trị dự đoán):
 
 - **GOLD 1 (Nhẹ):** $\text{FEV}_1 \ge 80\%$ giá trị dự đoán].
 - **GOLD 2 (Trung bình):** $50\% \le \text{FEV}_1 < 80\%$ (hoặc $50 - 79\%$) giá trị dự đoán.
 - **GOLD 3 (Nặng):** $30\% \le \text{FEV}_1 < 50\%$ (hoặc $30 - 49\%$) giá trị dự đoán.
 - **GOLD 4 (Rất nặng):** $\text{FEV}_1 < 30\%$ giá trị dự đoán.
+
+### Đánh giá triệu chứng và nguy cơ đợt cấp (nhóm A, B, C, D)
+
+#### Đánh giá triệu chứng
 
 Thang điểm khó thở mMRC (modified Medical Research Council)
 
@@ -32,12 +38,12 @@ Phân ngưỡng triệu chứng:
 - **Ít triệu chứng:** mMRC $0 - 1$ **hoặc** CAT $< 10$.
 - **Nhiều triệu chứng:** mMRC $\ge 2$ **hoặc** CAT $\ge 10$.
 
-Phân nhóm nguy cơ đợt cấp (Tiền sử 12 tháng qua)
+#### Phân nhóm nguy cơ đợt cấp (Tiền sử 12 tháng qua)
 
 - **Nguy cơ đợt cấp thấp:** Có **0 hoặc 1 đợt cấp trung bình** trong vòng 12 tháng qua (không dẫn đến nhập viện).
 - **Nguy cơ đợt cấp cao:** Có $\ge 2$ **đợt cấp trung bình** HOẶC $\ge 1$ **đợt cấp nặng dẫn đến nhập viện** trong vòng 12 tháng qua.
 
-Bảng phân nhóm bệnh nhân COPD (Nhóm A, B, C, D)
+#### Bảng phân nhóm bệnh nhân COPD (Nhóm A, B, C, D)
 
 Sự phối hợp giữa đánh giá triệu chứng và nguy cơ đợt cấp xếp bệnh nhân vào 4 nhóm:
 
@@ -64,7 +70,10 @@ _Ví dụ chẩn đoán:_ **Bệnh phổi tắc nghẽn mạn tính (COPD) - GOL
 
 - **Mức độ Nhẹ:** Bệnh nhân chỉ cần điều trị tăng cường bằng thuốc giãn phế quản tác dụng ngắn (SABA) .
 - **Mức độ Trung bình:** Bệnh nhân cần điều trị phối hợp thuốc giãn phế quản tác dụng ngắn (SABA) cùng với kháng sinh và/hoặc corticosteroid uống .
-- **Mức độ Nặng:** Bệnh nhân cần phải nhập viện hoặc thăm khám tại phòng Cấp cứu (thường đi kèm với tình trạng suy hô hấp cấp) .
+- **Mức độ Nặng:** Bệnh nhân cần phải nhập viện hoặc thăm khám tại phòng Cấp cứu. Ở người bệnh nhập viện, độ nặng được phân chia thêm (chi tiết bên dưới):
+  - Không suy hô hấp cấp
+  - Suy hô hấp cấp không đe doạ tính mạng (Không thay đổi *tri giác*)
+  - Suy hô hấp cấp đe doạ tính mạng (Thay đổi *tri giác*) 
 
 ---
 
@@ -108,13 +117,12 @@ C. Suy hô hấp cấp Đe dọa tính mạng
 
 ---
 
-## Tiếp cận COPD ổn định (tiền căn COPD)
+## Kinh nghiệm lâm sàng
 
 BN ho khan, đôi khi khạc đàm trắng, lượng ít vào buổi sáng trong 1 năm.
 
 - CNV 10 năm, BN được chẩn đoán
-  COPD ở BVĐK Long An. BN không dùng thuốc
-  điều trị COPD. CNV 1 năm, BN xuất hiện những đợt cấp COPD. BN có dùng thuốc Symbicort, Prafeno hằng ngày và Ventolin để cắt cơn mỗi khi có cơn khó thở.
+  COPD ở BVĐK Long An. BN không dùng thuốc điều trị COPD. CNV 1 năm, BN xuất hiện những đợt cấp COPD. BN có dùng thuốc Symbicort, Prafeno hằng ngày và Ventolin để cắt cơn mỗi khi có cơn khó thở.
   Gom lại, thêm bao nhiêu lần đợt cp cấp trung bình hay nặng
   Mức độ mRC (khó thở) và có đc đo chức năng hô hấp trong các lần nhập viện
   BN có tái khám và lãnh thuốc định kỳ, có tuân thủ điều trị hằng ngày
@@ -151,7 +159,7 @@ Bác sĩ cần tạm dừng việc điều trị theo một hướng duy nhất 
 3. **Bệnh nhân có nhiều bệnh nền phối hợp (Tim + Phổi + Thận + Đái tháo đường).**
 4. **Khó thở cấp nguy hiểm có kèm rối loạn sinh hiệu / suy hô hấp đe dọa tính mạng**.
 
-## Bảng Rà Soát Hệ Thống Cho Bệnh Nhân COPD Bội Nhiễm Điều Trị Không Khỏi
+### Bảng Rà Soát Hệ Thống Cho Bệnh Nhân COPD Bội Nhiễm Điều Trị Không Khỏi
 
 Khi đợt cấp COPD điều trị không đỡ, nguyên nhân khiến khó thở dai dẳng thường thuộc **2 nhóm lớn**: do **Tim mạch** hoặc do **các cấu trúc giải phẫu khác của Hệ Hô hấp** (Màng phổi, Nhu mô, Đường dẫn khí, Mạch máu phổi):
 

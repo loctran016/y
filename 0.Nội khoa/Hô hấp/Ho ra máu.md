@@ -1,10 +1,4 @@
-# HƯỚNG DẪN TIẾP CẬN BỆNH NHÂN HO RA MÁU
-
-_(Chuẩn kiến thức Lâm sàng Nội khoa - ĐHYD TP.HCM)_
-
----
-
-### ĐỊNH NGHĨA & PHÂN BIỆT XÁC ĐỊNH HO RA MÁU
+## ĐỊNH NGHĨA & PHÂN BIỆT XÁC ĐỊNH HO RA MÁU
 
 #### Định nghĩa
 
@@ -135,7 +129,3 @@ Bảng ghi nhớ nguyên nhân ho ra máu (Thuật ngữ **BATTLE CAAAMP**) :
    • Chụp CTA / Nội soi phế quản / DSA             • Chụp CT-scan ngực tìm nguyên nhân
    • Can thiệp BAE (Thuyên tắc ĐM phế quản)
 ```
-
----
-
-Bản hướng dẫn trên giúp bạn nắm vững toàn bộ khung tư duy từ **Khái niệm \\(\rightarrow\\) Phân biệt \\(\rightarrow\\) Bảng BATTLE CAAAMP \\(\rightarrow\\) Khai thác lâm sàng \\(\rightarrow\\) Chỉ định cận lâm sàng** để tự tin biện luận bài **Ho ra máu**!

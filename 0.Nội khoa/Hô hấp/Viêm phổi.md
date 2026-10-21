@@ -20,28 +20,27 @@ Theo đáp ứng điều trị: (Không) đáp ứng ĐT ban đầu
 
 ---
 
-## Tác nhân gây viêm phổi
-
-
-:::details{summary="Tác nhân gây bệnh"}
-
-Tác nhân điển hình:
-* Cầu khuẩn gram dương: Streptococcus pneumoniae (thường gặp nhất), Staphylococcus aureus, Enterococcus faecalis, Enterococcus faecium
-* Trực khuẩn gram âm: Haemophilus influenzae, Klebsiella pneumoniae, Enterobacteriacae, Pseudomonas aeruginosa, Escherichia coli
-* Song cầu gram âm: Moraxella catarrhalis
-* Tác nhân tại bệnh viện: Enterococci kháng vancomycin, Staphylococcus kháng methilcillin, Acinetobacter baumannii, Pseudomonas aeruginosa, Staphylococcus aureus, Escherichia coli, Klebsiella pneumoniae, Proteus spp., H.influenza…
-* Vi khuẩn kỵ khí: Bacteroides spp., Fusobacterium spp., Peptococcus spp., Peptostreptococcus spp., Mycobacterium tuberculosis,…
-:::
-
-Tác nhân không điển hình: Legionella pneumophila, Mycoplasma pneumonia, Chlamydia trachomatis, Coxiella burnetti, Chlamydophila pneumoniae
-
-Viêm phổi không do vi khuẩn: do virus (Adenovirus, Varicella, RSV, Parainfluenza virus, Coronavirus, Coxsackie virus, Epstein-Barr virus Rhinovirus, Herpes simplex virus, Cytomegalovirus…), do nấm, do KST, do hóa chất, do điều tri…
-
-Viêm phổi hít: do sự xâm nhập của dịch dạ dày hoặc dịch hầu họng, có thể chứa vi khuẩn…
-
 ## Các thang điểm đánh giá viêm phổi
 
 Viêm phổi cần nhập ICU được gọi là viêm phổi nặng, còn lại không phân độ
+
+### Thang điểm CURB-65 (Hiệp hội Lồng ngực Anh - BTS)** [9]
+
+Mỗi tiêu chuẩn đạt tính 1 điểm:
+
+- **C (Confusion):** Mất định hướng / Rối loạn tri giác [9].
+- **U (Urea):** BUN (> 7text mmol/L) (hoặc (> 19text mg/dL) [9].
+- **R (Respiratory rate):** Nhịp thở (ge 30text lần/phút) [9].
+- **B (Blood pressure):** HA tâm thu (< 90text mmHg) hoặc HA tâm trương (le 60text mmHg) [9].
+- **65:** Tuổi (ge 65) [9].
+
+|  Điểm CURB-65   | Tỉ lệ tử vong 30 ngày | Hướng xử trí đề xuất                                |
+| :-————: | :-——————: | :————————————————— |
+| **0 – 1 điểm**  |     (0,7 - 2,1%)      | **Điều trị ngoại trú** [9].                         |
+|   **2 điểm**    |        (9,2%)         | **Nhập viện điều trị nội trú** (Khoa Nội phổi) [9]. |
+| **(ge 3) điểm** |     (14,5 - 57%)      | **Nhập viện nội trú nặng / Cân nhắc ICU** [9].      |
+
+### Tiêu chuẩn ATS/IDSA (2007)
 
 **Tiêu chuẩn ATS/IDSA (2007)** (của *Hội Lồng ngực Hoa Kỳ - ATS* và *Hội Bệnh Nhiễm trùng Hoa Kỳ - IDSA*) là bộ tiêu chuẩn vàng được áp dụng trên lâm sàng để **đánh giá mức độ nặng và chỉ định nhập khoa Hồi sức tích cực (ICU)** đối với bệnh nhân **Viêm phổi mắc phải cộng đồng (CAP)**.
 
@@ -74,7 +73,7 @@ Bệnh nhân Viêm phổi mắc phải cộng đồng có chỉ định **nhập
 
 ---
 
-Các Tiêu Chuẩn Chính (Major Criteria - Cần 1/2) [1]
+Các Tiêu Chuẩn Chính (Major Criteria - Cần 1/2)
 
 1. **Cần thở máy xâm lấn** (do suy hô hấp cấp nặng) [1].
 2. **Sốc nhiễm khuẩn cần dùng thuốc vận mạch** (dù đã bù đủ dịch) [1].
@@ -104,11 +103,15 @@ Các Tiêu Chuẩn Phụ (Minor Criteria - Cần \\(\ge 3/9\\)) [1]
 
 Các biến chứng thường gặp:
 
-- Suy hô hấp:
+- Suy hô hấp: giảm Oxy máu/tăng CO2 máu/Hỗn hợp
+  - Nhịp thở >= 30 lần/phút hay <= 10 lần/phút
+  - Co kéo cơ hô hấp phụ rầm rộ
+  - SpO2 < 90%
 - Nhiễm trùng huyết (qSOFA - 2/3 tiêu chuẩn): RL tri giác, HATT <= 100 mmHg, Nhịp thở >= 22 lần/phút
 - Shock nhiễm trùng:
-- Tràn dịch màng phổi cận viêm, mủ màng phổi:
-- Áp xe phổi: đau ngực KMP.
+- Tràn dịch màng phổi cận viêm, mủ màng phổi: biến chứng thường gặp làm viêm phổi không đáp ứng điều trị nội khoa -> can thiệp ngoại khoa kịp thời
+- Áp xe phổi (TCTT toàn thân như sốt… >= 2 tuần): đau ngực KMP.
+- Viêm não - màng não: thay đổi tri giác, *cổ gượng* -> chọc dịch não tuỷ
 
 ## Chẩn đoán Hình ảnh & Xét nghiệm Cận lâm sàng
 
@@ -126,36 +129,23 @@ Các biến chứng thường gặp:
 
 ---
 
-#### **Bước 3: Phân tầng Nguy cơ & Đánh giá Độ nặng (Chọn nơi điều trị)**
+## **Định hướng Tác nhân Vi sinh theo Kinh nghiệm**
 
-Để quyết định bệnh nhân cần **Điều trị ngoại trú**, **Nhập khoa Nội phổi** hay **Nhập ICU**, áp dụng các thang điểm tiên lượng [2, 9]:
+:::details{summary=“Tác nhân gây bệnh”}
 
-##### Thang điểm CURB-65 (Hiệp hội Lồng ngực Anh - BTS)** [9]
+Tác nhân điển hình:
+* Cầu khuẩn gram dương: Streptococcus pneumoniae (thường gặp nhất), Staphylococcus aureus, Enterococcus faecalis, Enterococcus faecium
+* Trực khuẩn gram âm: Haemophilus influenzae, Klebsiella pneumoniae, Enterobacteriacae, Pseudomonas aeruginosa, Escherichia coli
+* Song cầu gram âm: Moraxella catarrhalis
+* Tác nhân tại bệnh viện: Enterococci kháng vancomycin, Staphylococcus kháng methilcillin, Acinetobacter baumannii, Pseudomonas aeruginosa, Staphylococcus aureus, Escherichia coli, Klebsiella pneumoniae, Proteus spp., H.influenza…
+* Vi khuẩn kỵ khí: Bacteroides spp., Fusobacterium spp., Peptococcus spp., Peptostreptococcus spp., Mycobacterium tuberculosis,…
+:::
 
-Mỗi tiêu chuẩn đạt tính 1 điểm:
+Tác nhân không điển hình: Legionella pneumophila, Mycoplasma pneumonia, Chlamydia trachomatis, Coxiella burnetti, Chlamydophila pneumoniae
 
-- **C (Confusion):** Mất định hướng / Rối loạn tri giác [9].
-- **U (Urea):** BUN (> 7text mmol/L) (hoặc (> 19text mg/dL) [9].
-- **R (Respiratory rate):** Nhịp thở (ge 30text lần/phút) [9].
-- **B (Blood pressure):** HA tâm thu (< 90text mmHg) hoặc HA tâm trương (le 60text mmHg) [9].
-- **65:** Tuổi (ge 65) [9].
+Viêm phổi không do vi khuẩn: do virus (Adenovirus, Varicella, RSV, Parainfluenza virus, Coronavirus, Coxsackie virus, Epstein-Barr virus Rhinovirus, Herpes simplex virus, Cytomegalovirus…), do nấm, do KST, do hóa chất, do điều tri…
 
-|  Điểm CURB-65   | Tỉ lệ tử vong 30 ngày | Hướng xử trí đề xuất                                |
-| :-------------: | :-------------------: | :-------------------------------------------------- |
-| **0 – 1 điểm**  |     (0,7 - 2,1%)      | **Điều trị ngoại trú** [9].                         |
-|   **2 điểm**    |        (9,2%)         | **Nhập viện điều trị nội trú** (Khoa Nội phổi) [9]. |
-| **(ge 3) điểm** |     (14,5 - 57%)      | **Nhập viện nội trú nặng / Cân nhắc ICU** [9].      |
-
-##### Tiêu chuẩn nhập khoa Hồi sức tích cực (ICU) theo ATS/IDSA** [10]
-
-Bệnh nhân có chỉ định nhập ICU khi đạt **1 tiêu chuẩn chính** HOẶC **ít nhất 3 tiêu chuẩn phụ** [10]:
-
-- **Tiêu chuẩn chính:** (1) Cần thở máy xâm lấn; (2) Sốc nhiễm khuẩn cần thuốc vận mạch [10].
-- **Tiêu chuẩn phụ:** Nhịp thở (ge 30text lần/phút), (PaO_2/FiO_2 le 250), tổn thương nhiều thùy trên X-quang, lú lẫn, (BUN ge 20text mg/dL), giảm bạch cầu ((< 4.000/textmm^3), giảm tiểu cầu ((< 100.000/textmm^3), hạ nhiệt độ ((< 36^circtextC), tụt HA cần bù dịch khẩn [10].
-
----
-
-#### **Bước 4: Định hướng Tác nhân Vi sinh theo Kinh nghiệm**
+Viêm phổi hít: do sự xâm nhập của dịch dạ dày hoặc dịch hầu họng, có thể chứa vi khuẩn…
 
 Do kết quả cấy vi khuẩn thường mất (48 - 72) giờ, việc lựa chọn kháng sinh ban đầu phụ thuộc vào độ nặng và yếu tố nguy cơ [11, 12]:
 
