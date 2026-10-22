@@ -1,18 +1,16 @@
-Dưới đây là cẩm nang **Tiếp cận chẩn đoán Âm thổi ở tim** được biên soạn chuẩn hóa theo từng phần, mục mục tiêu và sơ đồ thuật toán của **Giáo trình Tiếp cận Chẩn đoán Bệnh Nội khoa - ĐHYD TP.HCM**:
-
----
-
 ## Đại cương
 
-Âm thổi ở tim là một triệu chứng thực thể quan trọng có thể được phát hiện tình cờ khi khám sức khỏe tổng quát hoặc khi bệnh nhân đến khám vì một triệu chứng cơ năng của bệnh tim mạch. Âm thổi xuất hiện do sự thay đổi dòng chảy sinh lý bình thường thành dòng chảy xoáy (turbulent flow), thường gặp nhất trong các bệnh lý van tim (hẹp/hở van hai lá, van động mạch chủ, van ba lá, van động mạch phổi), các bệnh tim bẩm sinh hoặc dãn buồng tim cơ năng.
+Âm thổi ở tim là một triệu chứng thực thể quan trọng có thể được phát hiện tình cờ khi khám sức khỏe tổng quát hoặc khi bệnh nhân đến khám vì một triệu chứng cơ năng của bệnh tim mạch. 
+
+Âm thổi xuất hiện do sự thay đổi dòng chảy sinh lý bình thường thành dòng chảy xoáy (turbulent flow), thường gặp nhất trong các bệnh lý van tim (hẹp/hở van hai lá, van động mạch chủ, van ba lá, van động mạch phổi), các bệnh tim bẩm sinh hoặc dãn buồng tim cơ năng.
 
 ---
 
-## Tiếp cận chẩn đoán lâm sàng
+## Tiếp cận lâm sàng
 
 ### Triệu chứng cơ năng
 
-Khai thác các triệu chứng cơ năng gợi ý bệnh van tim và mức độ ảnh hưởng huyết động:
+Các triệu chứng cơ năng gợi ý bệnh van tim và mức độ ảnh hưởng huyết động:
 
 - **Khó thở:** Xuất hiện khi gắng sức, tăng dần đến khó thở khi nằm, khó thở kịch phát về đêm.
 - **Đau ngực:** Gợi ý hẹp van động mạch chủ (do giảm tưới máu mạch vành) hoặc hở van động mạch chủ.
@@ -163,8 +161,6 @@ Tầm soát các biến chứng:
 
 ---
 
-##HCM)
-
 ```
                        [ Bệnh nhân có ÂM THỔI Ở TIM ]
                                      |
@@ -191,3 +187,84 @@ Tầm soát các biến chứng:
    v                  [ Khám chuyên khoa Tim mạch ]
 [ Không cần làm gì ]
 ```
+
+## Tiếng tim
+
+### I. QUY TRÌNH THĂM KHÁM & MỐC NGUYÊN TẮC KHI NGHE TIM
+
+1. **Các vị trí nghe tim chuẩn (4 ổ van chính):** [cite: 29, 32]
+   * **Ổ van 2 lá:** Vùng mỏm tim (khoang liên sườn V đường trung đòn trái) [cite: 27, 29].
+   * **Ổ van 3 lá:** Khoang liên sườn IV – V bờ trái xương ức [cite: 27, 29].
+   * **Ổ van Động mạch chủ:** Khoang liên sườn II bờ phải xương ức (và ổ Erb-Botkin ở KLS III bờ trái xương ức) [cite: 27, 28, 29].
+   * **Ổ van Động mạch phổi:** Khoang liên sườn II bờ trái xương ức [cite: 27, 29].
+
+2. **Kỹ thuật nghe & Bắt mạch kèm:** [cite: 27, 28]
+   * Dùng **màng ống nghe** cho âm tần số cao (T1, T2, tiếng click, clac, âm thổi tâm thu/tâm trương) [cite: 28].
+   * Dùng **chuông ống nghe** cho âm tần số thấp (T3, T4, rù tâm trương) [cite: 28].
+   * **Bắt đồng thời mạch cảnh / mạch quay khi nghe:** Tiếng tim nào trùng với lúc mạch nảy lên là **tiếng T1** (mở đầu kỳ tâm thu) [cite: 27].
+
+—
+
+### II. PHÂN TÍCH BẮT CẶP TIẾNG TIM SINH LÝ BAN ĐẦU (T1 & T2)
+
+#### 1. Tiếng T1 (Bắt đầu kỳ tâm thu) [cite: 27]
+* **Cơ chế:** Đóng van 2 lá (M1) và van 3 lá (T1).
+* **Đặc tính:** Âm trầm, dài (“Bùm”), nghe rõ nhất ở **vùng mỏm tim** [cite: 27].
+* **Biến đổi bất thường:**
+  * **T1 đanh (Loud T1):** Dấu hiệu điển hình của **Hẹp van 2 lá** (khi lá van còn mềm dẻo) [cite: 6, 27, 30] hoặc trạng thái tăng động (sốt, cường giáp, thiếu máu).
+  * **T1 mờ / mất (Soft/Absent T1):** Gặp trong **Hở van 2 lá nặng** (lá van bị hư hại/không đóng kín) [cite: 27, 33], suy chức năng thất trái nặng, hoặc vôi hóa van nặng [cite: 27].
+  * **T1 tách đôi (Split T1):** Van 2 lá và 3 lá đóng không đồng bộ (gặp trong Block nhánh phải - RBBB).
+
+#### 2. Tiếng T2 (Bắt đầu kỳ tâm trương) [cite: 27]
+* **Cơ chế:** Đóng van động mạch chủ (A2) và van động mạch phổi (P2).
+* **Đặc tính:** Âm cao, ngắn, sắc (“Tắc”), nghe rõ nhất ở **vùng đáy tim** (KLS II bờ phải và bờ trái ức) [cite: 27].
+* **Biến đổi bất thường:**
+  * **T2 mạnh / P2 mạnh:** Dấu hiệu của **Tăng áp lực động mạch phổi** (P2 mạnh nghe rõ ở KLS II bờ trái ức) [cite: 27, 33] hoặc Tăng huyết áp hệ thống (A2 mạnh).
+  * **T2 mờ / mất:** Hẹp van ĐMC nặng, Hẹp van ĐMP nặng.
+  * **T2 tách đôi cố định (Fixed splitting):** Tiếng T2 tách đôi ở cả 2 thì hít vào và thở ra, gặp điển hình trong **Thông liên nhĩ (ASD)** [cite: 28, 45].
+  * **T2 tách đôi đảo ngược (Paradoxical splitting):** Tách đôi ở thì thở ra, nhập lại ở thì hít vào (gặp trong Block nhánh trái - LBBB, Hẹp van ĐMC nặng).
+
+—
+
+### III. TIẾP CẬN TIẾNG TIM BẤT THƯỜNG TRONG KỲ TÂM TRƯƠNG (T3 & T4)
+
+#### 1. Tiếng T3 (Tiếng ngựa phi tâm trương / Ventricular Gallop) [cite: 27, 44, 108]
+* **Thời điểm & Cơ chế:** Xuất hiện ngay **đầu kỳ tâm trương** (ngay sau T2), do dòng máu dồn nhanh từ nhĩ xuống một thất trái dãn to hoặc quá tải thể tích [cite: 27, 44].
+* **Âm sắc:** Âm trầm, ngắn, nghe bằng **chuông** tại mỏm tim [cite: 27].
+* **Ý nghĩa:** Có thể sinh lý ở trẻ em, người trẻ hoặc phụ nữ mang thai. Ở người > 40 tuổi, **T3 galop là dấu hiệu kinh điển của Suy tim cấp / Suy tim phân suất tống máu giảm (HFrEF)** [cite: 44, 45, 108].
+
+#### 2. Tiếng T4 (Tiếng ngựa phi tiền tâm thu / Atrial Gallop) [cite: 27, 44, 54]
+* **Thời điểm & Cơ chế:** Xuất hiện **cuối kỳ tâm trương / ngay trước T1**, do tâm nhĩ phải co bóp tống máu vào một tâm thất cứng, kém đàn hồi (dày thất) [cite: 27, 44].
+* **Âm sắc:** Âm rất trầm, nghe bằng chuông ở mỏm tim [cite: 27].
+* **Ý nghĩa:** Luôn là bệnh lý. Gặp trong **Tăng huyết áp lâu năm (dày thất trái)**, **Bệnh cơ tim phì đại**, Bệnh cơ tim thiếu máu cục bộ / Nhồi máu cơ tim [cite: 44, 54]. *(Lưu ý: Không bao giờ nghe thấy T4 ở bệnh nhân Rung nhĩ do tâm nhĩ đã mất khả năng co bóp).*
+
+—
+
+### IV. CÁC TIẾNG BẤT THƯỜNG KHÁC (EXTRA HEART SOUNDS)
+
+1. **Clac mở van (Opening Snap - OS):**
+   * Tiếng âm cao, ngắn, xuất hiện ngay sau T2 ở đầu kỳ tâm trương [cite: 27, 28].
+   * **Đặc trưng của Hẹp van 2 lá** (lá van còn dẻo bật mở ra dưới áp lực nhĩ trái cao) [cite: 6, 28, 31].
+2. **Tiếng Click phun máu (Ejection Click):**
+   * Tiếng âm cao, đanh, xuất hiện ngay sau T1 ở đầu kỳ tâm thu [cite: 27, 33].
+   * Gặp trong Hẹp van ĐMC/ĐMP bẩm sinh hoặc dãn gốc động mạch [cite: 27, 33].
+3. **Tiếng Click giữa tâm thu (Mid-systolic Click):**
+   * Xuất hiện giữa kỳ tâm thu, thường đi kèm âm thổi muộn tâm thu [cite: 31].
+   * **Đặc trưng của Hội chứng Sa van 2 lá (Mitral Valve Prolapse)** [cite: 31].
+4. **Tiếng Cọ màng ngoài tim (Pericardial Friction Rub):**
+   * Tiếng thô ráp, sột soạt, nghe thấy ở cả tâm thu và tâm trương (2 hoặc 3 thì) [cite: 109].
+   * **Đặc trưng của Viêm màng ngoài tim cấp** [cite: 85, 109].
+
+—
+
+### V. BẢNG PHÂN LOẠI ÂM THỔI TẠI TIM THƯỜNG GẶP (HEART MURMURS) [cite: 26, 29, 30]
+
+Khi phát hiện âm thổi, cần mô tả theo **6 đặc tính**: Vị trí, Thời gian, Cường độ (Levine 1/6 – 6/6), Âm sắc, Hướng lan, và Thay đổi theo hô hấp [cite: 27, 29, 30].
+
+| Bệnh lý van tim | Thời gian âm thổi | Vị trí nghe rõ nhất | Hình dạng / Âm sắc | Hướng lan |
+| :— | :— | :— | :— | :— |
+| **Hở van 2 lá** [cite: 27, 30, 31] | Tâm thu (Tràn toàn tâm thu) [cite: 27, 30] | Mỏm tim [cite: 27, 29] | Dạng dải đều (plateau), âm sắc cao [cite: 27, 30, 31] | Lan ra nách trái [cite: 27, 30] |
+| **Hẹp van động mạch chủ** [cite: 28, 30, 31] | Giữa tâm thu [cite: 28, 30, 32] | KLS II bờ phải xương ức [cite: 28, 29] | Dạng hình trám (Crescendo-Decrescendo), thô ráp [cite: 28, 30, 31] | Lan lên động mạch cảnh 2 bên [cite: 28, 30] |
+| **Hẹp van 2 lá** [cite: 6, 28, 30, 31] | Tâm trương (Rù tâm trương + Nhấn mạnh tiền tâm thu) [cite: 28, 30, 31] | Mỏm tim (nghe bằng chuông, nằm nghiêng trái) [cite: 28, 30, 36] | Âm trầm, như tiếng ve vỗ cánh / rù [cite: 28] | Thường không lan xa [cite: 28] |
+| **Hở van động mạch chủ** [cite: 28, 30, 31] | Đầu tâm trương [cite: 28, 30, 31] | KLS III bờ trái ức (ổ Erb) [cite: 28, 29] | Dạng giảm dần (Decrescendo), âm sắc cao êm dịu [cite: 28, 31] | Lan dọc bờ trái xương ức xuống mỏm [cite: 28, 30] |
+| **Hở van 3 lá** [cite: 28, 30] | Toàn tâm thu [cite: 28, 30] | KLS IV - V bờ trái ức [cite: 29, 30] | Êm dịu, **tăng lên khi hít vào sâu (Carvallo (+))** [cite: 28, 33, 36] | Lan xuống vùng thượng vị [cite: 30] |
