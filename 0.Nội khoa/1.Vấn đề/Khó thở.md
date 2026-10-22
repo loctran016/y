@@ -172,8 +172,8 @@ Thang điểm khó thở mMRC (modified Medical Research Council)
 
 | Triệu chứng / Kiểu khó thở         | Hoàn cảnh & Tính chất                                   | Tỉ số khả dĩ dương (LR+) | Tỉ số khả dĩ âm (LR-) | Vai trò chẩn đoán                                                            |
 | :--------------------------------- | :------------------------------------------------------ | :----------------------: | :-------------------: | :--------------------------------------------------------------------------- |
-| **Khó thở khi gắng sức**           | Xuất hiện khi vận động, giảm khi nghỉ.       |           1,3            |       **0,48**        | **Độ nhạy cao** \\(\rightarrow\\) Nếu âm tính giúp **Loại trừ**.             |
-| **Khó thở khi nằm (Orthopnea)**    | Ngộp thở khi nằm ngửa, đỡ khi ngồi dậy. |         **2,2**          |         0,65          | **Độ đặc hiệu cao** \\(\rightarrow\\) **Chỉ điểm chẩn đoán**. |
+| **Khó thở khi gắng sức**           | Xuất hiện khi vận động, giảm khi nghỉ.       |           1,3            |       **0,48**        | **Độ nhạy cao** `→` Nếu âm tính giúp **Loại trừ**.             |
+| **Khó thở khi nằm (Orthopnea)**    | Ngộp thở khi nằm ngửa, đỡ khi ngồi dậy. |         **2,2**          |         0,65          | **Độ đặc hiệu cao** `→` **Chỉ điểm chẩn đoán**. |
 | **Khó thở kịch phát về đêm (PND)** | Đột ngột thức giấc sau khi ngủ 1–3h.    |         **2,6**          |         0,70          | **Độ đặc hiệu cao** (Tiêu chuẩn chính Framingham).                           |
 | **Tiếng Gallop T3**                | Nghe ở mỏm tim đầu tâm trương.           | **11,0**  |  0,88  | **Đặc hiệu nhất trên lâm sàng**.                              |
 | **NT-proBNP < 125 pg/mL**          | Thử máu lúc nhập viện.                       |            —             |       **< 0,1**       | **Tiêu chuẩn vàng loại trừ suy tim** (NPV > 90%).        |
@@ -186,13 +186,13 @@ A. Khó thở khi nằm đầu thấp (Orthopnea)
 
 - Bệnh nhân cảm thấy ngộp thở, ho khan, buộc phải **kê cao từ 2 – 3 gối trở lên** hoặc **ngồi thẳng dậy** mới dễ thở hơn. Nguyên nhân do dịch từ tuần hoàn ngoại biên dồn về tim làm tăng áp lực mao mạch phổi.
 
-* **Giá trị chẩn đoán:** Có **độ đặc hiệu rất cao** và là triệu chứng cơ năng có tỉ số khả dĩ dương cao nhất trong các triệu chứng khó thở (\\(LR+ = 2{,}2\\))
+* **Giá trị chẩn đoán:** Có **độ đặc hiệu rất cao** và là triệu chứng cơ năng có tỉ số khả dĩ dương cao nhất trong các triệu chứng khó thở (`LR+ = 2,2`)
 
 B. Khó thở kịch phát về đêm (Paroxysmal Nocturnal Dyspnea - PND)
 
 - Bệnh nhân **đột ngột tỉnh giấc trong tình trạng ngộp thở, ho khan hoặc khò khè ("hen tim")**, phải **bật dậy, ngồi buông thõng hai chân xuống giường** để giảm thể tích máu về tim. Triệu chứng không giảm ngay khi ngồi mà kéo dài từ 15–30 phút.
 
-- **Giá trị chẩn đoán:** Có **độ đặc hiệu cao** (\\(LR+ = 2{,}6\\)), là **Tiêu chuẩn chính trong Tiêu chuẩn chẩn đoán Suy tim của Framingham**.
+- **Giá trị chẩn đoán:** Có **độ đặc hiệu cao** (`LR+ = 2,6`), là **Tiêu chuẩn chính trong Tiêu chuẩn chẩn đoán Suy tim của Framingham**.
 
 C. Cơn Phù phổi cấp do tim (Khó thở cấp tính nặng nhất)
 

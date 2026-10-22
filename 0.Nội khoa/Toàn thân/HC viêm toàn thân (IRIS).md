@@ -22,7 +22,7 @@ Dưới đây là các nhóm nguyên nhân Nội khoa kinh điển gây ra tình
 ### NHÓM BỆNH LÝ TỰ MIỄN & MÔ LIÊN KẾT (Autoimmune Diseases)
 
 1. **Bệnh Still ở người lớn (Adult-onset Still's disease):**
-   - Đây là điển hình của SIRS không nhiễm trùng. Bệnh nhân có **sốt cao dao động thành cơn**, ban hồng nhạt trên da, đau/viêm đa khớp và bạch cầu đa nhân trung tính (Neutrophil) tăng rất cao (thường \\(> 15.000/\text{mm}^3\\)).
+   - Đây là điển hình của SIRS không nhiễm trùng. Bệnh nhân có **sốt cao dao động thành cơn**, ban hồng nhạt trên da, đau/viêm đa khớp và bạch cầu đa nhân trung tính (Neutrophil) tăng rất cao (thường `> 15.000/mm³`).
 2. **Lupus ban đỏ hệ thống (SLE) đợt bùng phát cấp:**
    - Phức hợp miễn dịch lắng đọng khắp các cơ quan kích hoạt hệ thống bổ thể và cytokine viêm, gây sốt, nhịp tim nhanh, thở nhanh, bạch cầu biến động (tăng hoặc giảm nặng).
 3. **Viêm mạch máu hệ thống (Systemic Vasculitis):**
@@ -35,7 +35,7 @@ Dưới đây là các nhóm nguyên nhân Nội khoa kinh điển gây ra tình
 
 1. **Bệnh lý Ác tính Huyết học (U lympho & Bệnh bạch cầu cấp):**
    - **Bệnh Lymphoma (Hodgkin & Non-Hodgkin):** Hàng tế bào ác tính tiết trực tiếp các cytokine gây sốt (Sốt Pel-Ebstein), vã mồ hôi đêm, mạch nhanh và biến động công thức máu (thỏa hoàn toàn tiêu chuẩn SIRS).
-   - **Bệnh Bạch cầu cấp (Leukemia):** Tăng sinh dòng bạch cầu non ác tính quá mức trong máu ngoại vi (WBC có thể vọt lên \\(20.000 - 50.000/\text{mm}^3\\)), kèm sốt và mạch nhanh.
+   - **Bệnh Bạch cầu cấp (Leukemia):** Tăng sinh dòng bạch cầu non ác tính quá mức trong máu ngoại vi (WBC có thể vọt lên `20.000 - 50.000/mm³`), kèm sốt và mạch nhanh.
 2. **Khối u đặc hoại tử trung tâm / Hội chứng Cận ung:**
    - Ung thư tế bào thận (RCC), Ung thư gan (HCC), Ung thư phổi... khi khối u phát triển quá nhanh gây hoại tử trung tâm hoặc tiết ra các chất gây viêm hệ thống.
 
@@ -44,9 +44,9 @@ Dưới đây là các nhóm nguyên nhân Nội khoa kinh điển gây ra tình
 ### NHÓM BỆNH LÝ NỘI TIẾT & RỐI LOẠN CHUYỂN HÓA
 
 1. **Cơn bão giáp (Thyroid Storm):**
-   - Tình trạng nhiễm độc giáp cấp tính làm tăng chuyển hóa cơ bản cực độ: Sốt cao vọt (\\(> 39 - 40^\circ\text{C}\\)), nhịp tim rất nhanh (\\(> 120 - 140\\) lần/phút), thở nhanh và tăng bạch cầu do phản ứng stress cấp.
+   - Tình trạng nhiễm độc giáp cấp tính làm tăng chuyển hóa cơ bản cực độ: Sốt cao vọt (`> 39 - 40°C`), nhịp tim rất nhanh (`> 120 - 140` lần/phút), thở nhanh và tăng bạch cầu do phản ứng stress cấp.
 2. **Cơn gút cấp (Acute Gouty Arthritis):**
-   - Lắng đọng tinh thể Urat kích hoạt đại thực bào giải phóng IL-1beta thông qua con đường NLRP3 inflammasome. Ở các cơn gút cấp nhiều khớp, bệnh nhân có thể sốt cao \\(38,5 - 39^\circ\text{C}\\), lạnh run, mạch nhanh, bạch cầu tăng \\(> 12.000/\text{mm}^3\\).
+   - Lắng đọng tinh thể Urat kích hoạt đại thực bào giải phóng IL-1beta thông qua con đường NLRP3 inflammasome. Ở các cơn gút cấp nhiều khớp, bệnh nhân có thể sốt cao `38,5 - 39°C`, lạnh run, mạch nhanh, bạch cầu tăng `> 12.000/mm³`.
 
 ---
 
@@ -64,7 +64,7 @@ Dưới đây là các nhóm nguyên nhân Nội khoa kinh điển gây ra tình
 ### NGUYÊN NHÂN MẠCH MÁU CRITICAL
 
 - **Thuyên tắc phổi cấp diện rộng (Massive Pulmonary Embolism):**
-  - Nhồi máu mô phổi kết hợp với suy thất phải cấp gây phản ứng viêm rầm rộ: Thở nhanh (\\(> 20\\) l/p), Mạch nhanh (\\(> 90\\) l/p), Sốt nhẹ đến vừa và tăng bạch cầu phản ứng.
+  - Nhồi máu mô phổi kết hợp với suy thất phải cấp gây phản ứng viêm rầm rộ: Thở nhanh (`> 20` l/p), Mạch nhanh (`> 90` l/p), Sốt nhẹ đến vừa và tăng bạch cầu phản ứng.
 
 ---
 
@@ -73,7 +73,7 @@ Dưới đây là các nhóm nguyên nhân Nội khoa kinh điển gây ra tình
 Khi gặp bệnh nhân có **Sốt + SIRS**, để phân biệt nguyên nhân do **Nhiễm trùng** hay **Không do nhiễm trùng**, bác sĩ thường dựa vào:
 
 - **Procalcitonin (PCT):**
-  - **Tăng rất cao (\\(> 2 - 10\text{ ng/mL}\\)):** Gợi ý rất mạnh Nhiễm khuẩn vi khuẩn toàn thân / Sepsis.
-  - **Thấp hoặc Bình thường (\\(< 0{,}5\text{ ng/mL}\\)):** Gợi ý SIRS do nguyên nhân không nhiễm trùng (hoặc do siêu vi/bệnh tự miễn).
+  - **Tăng rất cao (`> 2 - 10 ng/mL`):** Gợi ý rất mạnh Nhiễm khuẩn vi khuẩn toàn thân / Sepsis.
+  - **Thấp hoặc Bình thường (`< 0,5 ng/mL`):** Gợi ý SIRS do nguyên nhân không nhiễm trùng (hoặc do siêu vi/bệnh tự miễn).
 - **Bilan vi sinh (Cấy máu, cấy dịch, PCR):** Âm tính kéo dài.
 - **Đáp ứng với điều trị:** Bệnh nhân không hạ sốt hay cải thiện SIRS khi dùng kháng sinh mạnh, nhưng đáp ứng nhanh với Corticoid (trong bệnh tự miễn) hoặc khi giải quyết tổn thương nguyên phát (như dẫn lưu mô hoại tử, ngưng thuốc gây dị ứng).

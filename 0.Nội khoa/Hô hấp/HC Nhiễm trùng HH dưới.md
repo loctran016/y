@@ -72,7 +72,7 @@ Lưu ý: không có TCTT / TCCN nào có chẩn đoán xác định / loại tr�
    - **Đặc điểm:** Bệnh nhân bùng phát **Tam chứng Anthonisen** (Khó thở tăng, Lượng đàm tăng, Đàm chuyển thành đàm mủ). Nghe phổi có **ran rít, ran ngáy lan tỏa** (COPD) hoặc **ran ẩm/nổ cố định vùng tổn thương cũ** (Giãn phế quản).
    - **X-quang ngực:** **Không có tổn thương thâm nhiễm nhu mô mới** (chỉ có hình ảnh ứ khí phế thũng hoặc dãn phế quản mạn tính).
 2. **Viêm phổi cộng đồng xuất hiện trên nền Bệnh phổi mạn:**
-   - **LƯU Ý CỰC KỲ QUAN TRỌNG:** Nếu bệnh nhân COPD / Giãn phế quản nhập viện vì đợt cấp, nhưng khi chụp X-quang hoặc CT-scan ngực ghi nhận **có hình ảnh thâm nhiễm / đông đặc nhu mô MỚI** \\(\rightarrow\\) Bệnh nhân được chẩn đoán và điều trị theo phác đồ **Viêm phổi cộng đồng**.
+   - **LƯU Ý CỰC KỲ QUAN TRỌNG:** Nếu bệnh nhân COPD / Giãn phế quản nhập viện vì đợt cấp, nhưng khi chụp X-quang hoặc CT-scan ngực ghi nhận **có hình ảnh thâm nhiễm / đông đặc nhu mô MỚI** `→` Bệnh nhân được chẩn đoán và điều trị theo phác đồ **Viêm phổi cộng đồng**.
 
 —
 

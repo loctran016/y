@@ -43,20 +43,20 @@ Bài giảng gồm 2 phần chính :
   - **Đi / Xuất cư (E - Emigrants)**: Số người chuyển đi .
 
 - **Công thức:**
-  \\[P_t = P_0 + (B - D) + (I - E)\\]
+  `P_t = P₀ + (B - D) + (I - E)`
 
   _Trong đó :_
-  - \\(P_0\\): Dân số ở thời điểm đầu thời kỳ .
-  - \\(P_t\\): Dân số ở thời điểm cuối thời kỳ (sau khoảng thời gian \\(t\\)) .
-  - \\((B - D)\\): **Tăng tự nhiên** (biến động tự nhiên) .
-  - \\((I - E)\\): **Tăng cơ học** (biến động cơ học) .
+  - `P₀`: Dân số ở thời điểm đầu thời kỳ .
+  - `P_t`: Dân số ở thời điểm cuối thời kỳ (sau khoảng thời gian `t`) .
+  - `(B - D)`: **Tăng tự nhiên** (biến động tự nhiên) .
+  - `(I - E)`: **Tăng cơ học** (biến động cơ học) .
 
 - **Vai trò của phương trình cân bằng dân số :**
   1. **Ước lượng số dân :**
-     - _Ví dụ:_ Nước A có dân số đầu năm 2014 là \\(7.000\\) người. Trong năm 2014 có \\(112\\) trẻ sinh ra, \\(80\\) người chết, và di cư làm tăng thêm \\(100\\) người. Dân số đầu năm 2015 là :
-       \\[P_{(2015)} = 7000 + (112 - 80) + 100 = 7.132\text{ người}\\] .
+     - _Ví dụ:_ Nước A có dân số đầu năm 2014 là `7.000` người. Trong năm 2014 có `112` trẻ sinh ra, `80` người chết, và di cư làm tăng thêm `100` người. Dân số đầu năm 2015 là :
+       `P₍₂₀₁₅₎ = 7000 + (112 - 80) + 100 = 7.132 người` .
   2. **Ước lượng di cư thuần (net migration) :**
-     \\[(I - E) = P_t - P_0 - (B - D)\\]
+     `(I - E) = P_t - P₀ - (B - D)`
   3. **Dự báo dân số:** Dựa trên các giả định về số sinh, tử, nhập cư, xuất cư của các năm trước để dự báo cho các năm sau .
   4. **Kiểm tra tính hợp lý và thống nhất** của số liệu thống kê dân số .
 
@@ -64,17 +64,17 @@ Bài giảng gồm 2 phần chính :
 
 ### **Tốc độ gia tăng DS**
 
-- **Dân số đóng (bỏ qua biến động di cư):** Phương trình rút gọn thành \\(P_t = P_0 + (B - D)\\) .
+- **Dân số đóng (bỏ qua biến động di cư):** Phương trình rút gọn thành `P_t = P₀ + (B - D)` .
 - **Mô hình tăng trưởng theo hàm số mũ (exponential growth):**
-  \\[P_t = P_0 \cdot e^{rt}\\]
+  `P_t = P₀ · e^rt`
 
   _Trong đó :_
-  - \\(e \approx 2,71828\\) .
-  - \\(r\\): Tốc độ gia tăng dân số hằng năm (đơn vị: %) .
-  - \\(t\\): Khoảng thời gian từ \\(P_0\\) đến \\(P_t\\) .
+  - `e ≈ 2,71828` .
+  - `r`: Tốc độ gia tăng dân số hằng năm (đơn vị: %) .
+  - `t`: Khoảng thời gian từ `P₀` đến `P_t` .
 
-- **Công thức tính tốc độ gia tăng dân số (\\(r\\)) :**
-  \\[r = \frac{\ln P_t - \ln P_0}{t} = \frac{1}{t} \ln\left(\frac{P_t}{P_0}\right)\\]
+- **Công thức tính tốc độ gia tăng dân số (`r`) :**
+  `r = (\ln P_t - \ln P₀)/t = 1/t \ln(P_t/P₀)`
 - **Ý nghĩa:** Tốc độ gia tăng dân số dùng để phản ánh mức độ thay đổi quy mô dân số theo thời gian .
 
 ---
@@ -110,36 +110,36 @@ Bài giảng gồm 2 phần chính :
 
 - **Công thức tính :**
   - **Tỷ số phụ thuộc chung (TSPT chung):**
-    \\[TSPT_{(chung)} = \frac{P_{<15} + P_{\ge 65}}{P_{15-64}} \times 100\\]
+    `TSPT_(chung) = \fracP_<15 + P_≥ 65P₁₅₋₆₄ × 100`
   - **Tỷ số phụ thuộc trẻ (TSPT trẻ):**
-    \\[TSPT_{(trẻ)} = \frac{P_{<15}}{P_{15-64}} \times 100\\]
+    `TSPT_(trẻ) = \fracP_<15P₁₅₋₆₄ × 100`
   - **Tỷ số phụ thuộc già (TSPT già):**
-    \\[TSPT_{(già)} = \frac{P_{\ge 65}}{P_{15-64}} \times 100\\]
-    _(Trong đó \\(P\_{15-64}\\) là dân số độ tuổi lao động )._
+    `TSPT_(già) = \fracP_≥ 65P₁₅₋₆₄ × 100`
+    _(Trong đó `P_15-64` là dân số độ tuổi lao động )._
 
 - **Phân biệt thuật ngữ :**
-  - **Tỷ lệ (\\(\frac{A}{B}\\) với \\(A \in B\\)):** Có cùng đơn vị hoặc tính theo tỷ lệ %.
-  - **Tỷ số (\\(\frac{A}{B}\\) với \\(A \notin B\\)):** Không có đơn vị.
-- **Ý nghĩa:** TSPT chung \\(= 100\\) có nghĩa là 1 người trong độ tuổi lao động phải gánh \\(1\\) người phụ thuộc . TSPT chung giảm sẽ làm giảm gánh nặng xã hội .
+  - **Tỷ lệ (`A/B` với `A \in B`):** Có cùng đơn vị hoặc tính theo tỷ lệ %.
+  - **Tỷ số (`A/B` với `A \notin B`):** Không có đơn vị.
+- **Ý nghĩa:** TSPT chung `= 100` có nghĩa là 1 người trong độ tuổi lao động phải gánh `1` người phụ thuộc . TSPT chung giảm sẽ làm giảm gánh nặng xã hội .
 - **Thực trạng tại Việt Nam:** Việt Nam bước vào cơ cấu dân số vàng khi vẫn là nước có thu nhập bình quân đầu người thấp, tỷ lệ lao động có trình độ còn hạn chế . Do đó, **đầu tư cho giáo dục** là yếu tố then chốt .
 
 ---
 
 ###3. Tỷ lệ người cao tuổi** [9, 10]
 
-### **Phân loại của Thế giới (Cowgill & Holmes, 1970)** _(tính % người \\(\ge 65\\) tuổi)_ [9, 10]:
+### **Phân loại của Thế giới (Cowgill & Holmes, 1970)** _(tính % người `≥ 65` tuổi)_ [9, 10]:
 
-- **\\(\ge 7\%\\):** Dân số già hóa (ageing society) [9, 10].
-- **\\(\ge 10\%\\):** Dân số già (aged society) — mốc kết thúc giai đoạn dân số vàng [9, 10].
-- **\\(\ge 20\%\\):** Dân số rất già (very aged society) [9, 10].
-- **\\(\ge 30\%\\):** Dân số siêu già (super aged society) [9, 10].
+- **`≥ 7%`:** Dân số già hóa (ageing society) [9, 10].
+- **`≥ 10%`:** Dân số già (aged society) — mốc kết thúc giai đoạn dân số vàng [9, 10].
+- **`≥ 20%`:** Dân số rất già (very aged society) [9, 10].
+- **`≥ 30%`:** Dân số siêu già (super aged society) [9, 10].
 
-#### **Phân loại tại Việt Nam** _(tính % người \\(\ge 60\\) tuổi - độ tuổi về hưu)_ :
+#### **Phân loại tại Việt Nam** _(tính % người `≥ 60` tuổi - độ tuổi về hưu)_ :
 
-- **\\(\ge 10\%\\):** Dân số già hóa .
-- **\\(\ge 20\%\\):** Dân số già .
-- **\\(\ge 30\%\\):** Dân số rất già .
-- **\\(\ge 35\%\\):** Dân số siêu già .
+- **`≥ 10%`:** Dân số già hóa .
+- **`≥ 20%`:** Dân số già .
+- **`≥ 30%`:** Dân số rất già .
+- **`≥ 35%`:** Dân số siêu già .
 
 #### **3 nguyên nhân cốt lõi của già hóa nhanh chóng:**
 
@@ -152,7 +152,7 @@ Bài giảng gồm 2 phần chính :
 ###4. Tỷ số giới tính**
 
 - **Khái niệm:** Tỷ số giới tính (Sex Ratio - SR) là số nam tính trên 100 nữ:
-  \\[SR = \frac{\text{Số nam}}{\text{Số nữ}} \times 100\\]
+  `SR = (Số nam)/(Số nữ) × 100`
 - **Đặc điểm:** Tỷ số giới tính thay đổi theo nhóm tuổi. Tỷ số giới tính khi sinh (SRB) chuẩn sinh học tự nhiên thường rơi vào khoảng **105 đến 106 nam / 100 nữ**.
 
 ---

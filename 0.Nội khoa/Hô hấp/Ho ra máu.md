@@ -30,8 +30,8 @@ Khi tiếp cận một bệnh nhân ho ra máu, bác sĩ lâm sàng cần trả 
 
 #### Phân loại mức độ theo lượng máu tống xuất
 
-- **Ho ra máu lượng ít:** Lượng máu ho ra **\\(< 100\text{ mL/24 giờ}\\)** (thường chỉ thành sợi máu hoặc đàm lẫn máu) .
-- **Ho ra máu lượng nhiều (Massive hemoptysis):** Lượng máu ho ra **\\(> 100\text{ mL/24 giờ}\\)** (hoặc \\(> 100 - 1.000\text{ mL/24 giờ}\\) tùy tiêu chuẩn), hoặc tốc độ mất máu nhanh (\\(\ge 2\\) đợt ho ra máu trong 24 giờ) . Đây là một **cấp cứu nội khoa** có tỷ lệ tử vong cao (thậm chí \\(> 50\%\\) nếu không điều trị can thiệp kịp thời) .
+- **Ho ra máu lượng ít:** Lượng máu ho ra **`< 100 mL/24 giờ`** (thường chỉ thành sợi máu hoặc đàm lẫn máu) .
+- **Ho ra máu lượng nhiều (Massive hemoptysis):** Lượng máu ho ra **`> 100 mL/24 giờ`** (hoặc `> 100 - 1.000 mL/24 giờ` tùy tiêu chuẩn), hoặc tốc độ mất máu nhanh (`≥ 2` đợt ho ra máu trong 24 giờ) . Đây là một **cấp cứu nội khoa** có tỷ lệ tử vong cao (thậm chí `> 50%` nếu không điều trị can thiệp kịp thời) .
 
 #### Biến chứng cấp cứu nguy hiểm
 
@@ -80,7 +80,7 @@ Bảng ghi nhớ nguyên nhân ho ra máu (Thuật ngữ **BATTLE CAAAMP**) :
 
 #### Thăm khám thực thể tại giường
 
-- **Đánh giá Sinh hiệu & Tri giác:** Mạch, Huyết áp, Nhịp thở, \\(\text{SpO}_2\\). Tìm dấu hiệu suy hô hấp (tím tái, co kéo cơ hô hấp phụ) hoặc dấu hiệu choáng mất máu (mạch nhanh nhỏ, HA tụt) .
+- **Đánh giá Sinh hiệu & Tri giác:** Mạch, Huyết áp, Nhịp thở, `SpO₂`. Tìm dấu hiệu suy hô hấp (tím tái, co kéo cơ hô hấp phụ) hoặc dấu hiệu choáng mất máu (mạch nhanh nhỏ, HA tụt) .
 - **Thăm khám lồng ngực:** Nghe phổi tìm **ran nổ / ran ẩm khu trú một bên** (giúp định hướng bên phổi bị tổn thương hoặc có máu đọng) .
 - **Thăm khám toàn thân:** Tìm nốt xuất huyết dưới da (bệnh tự miễn, rối loạn đông máu), ngón tay dùi trống (giãn phế quản, ung thư phổi, u nấm), âm thổi ở tim (hẹp van 2 lá) .
 

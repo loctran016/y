@@ -43,7 +43,7 @@ Lưu ý về khó thở khi nằm: bất kỳ bệnh nhân nào khó thở cũng
 
 Triệu chứng cơ năng đặc hiệu và có giá trị nhất của suy tim là **Khó thở khi nằm (Orthopnea)** và **Khó thở kịch phát về đêm (PND)**, kết hợp với các dấu hiệu thực thể sung huyết như **Tĩnh mạch cổ nổi, Phản hồi gan - tĩnh mạch cảnh (+), Ran nổ ở phổi và tiếng Gallop T3**.
 
-Nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực. Bên cạnh do  Hội chứng Mạch vành Cấp & Mạn (hẹp/tắc động mạch vành lớn do mảng xơ vữa) hiện tượng đau ngực ở bệnh nhân suy tim xuất phát từ các cơ chế sinh lý bệnh sau:
+Nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực. Bên cạnh do Hội chứng Mạch vành Cấp & Mạn (hẹp/tắc động mạch vành lớn do mảng xơ vữa) hiện tượng đau ngực ở bệnh nhân suy tim xuất phát từ các cơ chế sinh lý bệnh sau:
 
 ---
 
@@ -55,7 +55,7 @@ Nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực. Bên cạnh do
 - **Rối loạn chức năng Vi mạch cơ tim (Microvascular Dysfunction):**
   - Sự suy giảm khả năng co dãn của các động mạch vành kích thước nhỏ (cấp độ vi tuần hoàn) do rối loạn nội mạc và xơ hóa mô kẽ trong suy tim.
 - **Tăng áp động mạch phổi thứ phát:**
-  - Suy tim trái gây tăng áp lực ứ trệ về tĩnh mạch phổi \\(\rightarrow\\) Tăng áp động mạch phổi thứ phát. Áp lực mạch phổi tăng cao làm tăng gánh nặng thất phải, gây thiếu máu cơ tim thất phải và bộc lộ cơn **đau ngực dưới xương ức kiểu đè ép** khi gắng sức.
+  - Suy tim trái gây tăng áp lực ứ trệ về tĩnh mạch phổi `→` Tăng áp động mạch phổi thứ phát. Áp lực mạch phổi tăng cao làm tăng gánh nặng thất phải, gây thiếu máu cơ tim thất phải và bộc lộ cơn **đau ngực dưới xương ức kiểu đè ép** khi gắng sức.
 - **Tràn dịch màng ngoài tim / Tràn dịch màng phổi thứ phát:**
   - Tình trạng quá tải thể tích và tăng áp lực tĩnh mạch hệ thống trong suy tim nặng có thể gây tràn dịch màng ngoài tim hoặc tràn dịch màng phổi. Bệnh nhân sẽ có cảm giác **đau nặng ngực âm ỉ** hoặc **đau ngực kiểu màng phổi** (đau nhói tăng lên khi hít sâu hoặc ho).
 - **Gan to sung huyết (Căng bao Glisson):**
@@ -65,33 +65,33 @@ Nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực. Bên cạnh do
 
 ### HC Mạch vành Cấp (ACS) & Mạn (CCS)
 
-| Tiêu chí                        | Đau ngực thứ phát trong Suy tim                                                                    | HC Mạch vành Cấp (ACS)                                                | HC Mạch vành Mạn (CCS)                                                         |
-| :------------------------------ | :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- |
-| **Bản chất tổn thương**         | Tăng sức căng thành thất, thiếu máu dưới nội mạc, tăng áp phổi, tràn dịch màng. | Nứt/vỡ mảng xơ vữa gây **huyết khối tắc nghẽn cấp tính** ĐMV.          | Mảng xơ vữa tiến triển gây **hẹp cố định** \\(\ge 50 - 70\%\\) lòng ĐMV.        |
-| **Tính chất đau**               | Đau âm ỉ, cảm giác nặng ngực miên man hoặc đau kiểu màng phổi.                  | **Đau đè ép, siết chặt, bóp nghẹt** dữ dội sau xương ức.              | **Đau thắt/đè ép** sau xương ức, lan vai/tay trái/hàm.                         |
-| **Thời gian cơn đau**           | Kéo dài âm ỉ theo đợt sung huyết / quá tải thể tích.                                    | **Kéo dài \\(> 20\text{ phút}\\)**.                                   | **Thường kéo dài \\(< 20\text{ phút}\\)**.                                     |
-| **Yếu tố khởi phát & Giảm đau** | Xuất hiện khi nhịp tim nhanh, tăng cân/phù; giảm khi dùng **lợi tiểu** hạ tiền tải. | Xuất hiện cả **khi nghỉ**; **không giảm** hoặc giảm kém với Nitrat.   | Xuất hiện **khi gắng sức/xúc động**; **giảm nhanh khi nghỉ hoặc ngậm Nitrat**. |
-| **Men tim (Troponin)**          | Troponin có thể **tăng nhẹ mạn tính / bằng phẳng** do hoại tử vi thể.               | Troponin **tăng/giảm có động học rõ rệt** (gấp nhiều lần ngưỡng 99th). | Troponin **bình thường** lúc nghỉ.                                                  |
+| Tiêu chí                        | Đau ngực thứ phát trong Suy tim                                                     | HC Mạch vành Cấp (ACS)                                                 | HC Mạch vành Mạn (CCS)                                                         |
+| :------------------------------ | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| **Bản chất tổn thương**         | Tăng sức căng thành thất, thiếu máu dưới nội mạc, tăng áp phổi, tràn dịch màng.     | Nứt/vỡ mảng xơ vữa gây **huyết khối tắc nghẽn cấp tính** ĐMV.          | Mảng xơ vữa tiến triển gây **hẹp cố định** `≥ 50 - 70%` lòng ĐMV.       |
+| **Tính chất đau**               | Đau âm ỉ, cảm giác nặng ngực miên man hoặc đau kiểu màng phổi.                      | **Đau đè ép, siết chặt, bóp nghẹt** dữ dội sau xương ức.               | **Đau thắt/đè ép** sau xương ức, lan vai/tay trái/hàm.                         |
+| **Thời gian cơn đau**           | Kéo dài âm ỉ theo đợt sung huyết / quá tải thể tích.                                | **Kéo dài `> 20 phút`**.                                    | **Thường kéo dài `< 20 phút`**.                                     |
+| **Yếu tố khởi phát & Giảm đau** | Xuất hiện khi nhịp tim nhanh, tăng cân/phù; giảm khi dùng **lợi tiểu** hạ tiền tải. | Xuất hiện cả **khi nghỉ**; **không giảm** hoặc giảm kém với Nitrat.    | Xuất hiện **khi gắng sức/xúc động**; **giảm nhanh khi nghỉ hoặc ngậm Nitrat**. |
+| **Men tim (Troponin)**          | Troponin có thể **tăng nhẹ mạn tính / bằng phẳng** do hoại tử vi thể.               | Troponin **tăng/giảm có động học rõ rệt** (gấp nhiều lần ngưỡng 99th). | Troponin **bình thường** lúc nghỉ.                                             |
 
 ---
 
 :::details{summary="Sinh lý bệnh Khó thở kịch phát về đêm (PND)"}
 
-- **Tái phân bố dịch khi nằm:** Khi bệnh nhân nằm ngủ, lượng dịch tích tụ ở hai chi dưới và các nội tạng tái phân bố dồn về tuần hoàn trung tâm, làm gia tăng đột ngột thể tích máu trở về tim trái [1, 2].
-- **Thoát dịch vào mô kẽ (Phù mô kẽ cấp):** Thất trái bị suy không tống hết lượng máu này khiến áp lực trong các tĩnh mạch và mao mạch phổi tăng vọt, đẩy dịch thấm thoát ra ngoài lòng mạch vào **khoảng mô kẽ** quanh phế quản và phế nang [1, 2].
-- **Kích hoạt cơn PND:** Tình trạng phù nề mô kẽ làm tăng sức cản đường thở và gây co thắt phế quản thứ phát (hiện tượng _"hen tim"_) [1, 2]. Điều này kích thích trung tâm hô hấp khiến bệnh nhân **đột ngột tỉnh giấc sau khi ngủ 1 – 3 giờ** trong tình trạng ho, khò khè, ngộp thở và bắt buộc phải ngồi dậy buông thõng hai chân xuống giường để giảm lượng máu dồn về tim [1, 2].
+- **Tái phân bố dịch khi nằm:** Khi bệnh nhân nằm ngủ, lượng dịch tích tụ ở hai chi dưới và các nội tạng tái phân bố dồn về tuần hoàn trung tâm, làm gia tăng đột ngột thể tích máu trở về tim trái.
+- **Thoát dịch vào mô kẽ (Phù mô kẽ cấp):** Thất trái bị suy không tống hết lượng máu này khiến áp lực trong các tĩnh mạch và mao mạch phổi tăng vọt, đẩy dịch thấm thoát ra ngoài lòng mạch vào **khoảng mô kẽ** quanh phế quản và phế nang.
+- **Kích hoạt cơn PND:** Tình trạng phù nề mô kẽ làm tăng sức cản đường thở và gây co thắt phế quản thứ phát (hiện tượng _"hen tim"_). Điều này kích thích trung tâm hô hấp khiến bệnh nhân **đột ngột tỉnh giấc sau khi ngủ 1 – 3 giờ** trong tình trạng ho, khò khè, ngộp thở và bắt buộc phải ngồi dậy buông thõng hai chân xuống giường để giảm lượng máu dồn về tim.
 
 :::
 
 :::details{summary="từ PND sang Cơn Phù phổi cấp"}
 
-| Mức độ tổn thương                          | Vị trí đọng dịch trong phổi              | Biểu hiện lâm sàng đặc trưng                                                                                                                                                  |
-| :----------------------------------------- | :--------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nhẹ / Trung bình** _(Giai đoạn đầu)_     | **Mô kẽ phổi** (Phù mô kẽ) [1, 2].       | **Khó thở kịch phát về đêm (PND)** hoặc Khó thở khi nằm (Orthopnea); ho khan, khò khè nhẹ [1, 2].                                                                             |
-| **Nặng / Dồn dập** _(Giai đoạn bùng phát)_ | **Lòng phế nang** (Phù phế nang) [1, 2]. | **Cơn Phù phổi cấp do tim điển hình:** Khó thở dữ dội, "chết đuối trên cạn", **ho khạc đờm bọt hồng**, vật vã, vã mồ hôi, ran ẩm dâng nhanh từ 2 đáy lên đỉnh phổi [1, 2, 4]. |
+| Mức độ tổn thương                          | Vị trí đọng dịch trong phổi       | Biểu hiện lâm sàng đặc trưng                                                                                                                                        |
+| :----------------------------------------- | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nhẹ / Trung bình** _(Giai đoạn đầu)_     | **Mô kẽ phổi** (Phù mô kẽ).       | **Khó thở kịch phát về đêm (PND)** hoặc Khó thở khi nằm (Orthopnea); ho khan, khò khè nhẹ.                                                                          |
+| **Nặng / Dồn dập** _(Giai đoạn bùng phát)_ | **Lòng phế nang** (Phù phế nang). | **Cơn Phù phổi cấp do tim điển hình:** Khó thở dữ dội, "chết đuối trên cạn", **ho khạc đờm bọt hồng**, vật vã, vã mồ hôi, ran ẩm dâng nhanh từ 2 đáy lên đỉnh phổi. |
 
 💡 **Tóm lại:**
-Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ cấp tính diễn ra ban đêm** [1, 2]. Nếu tình trạng ứ dịch này tiếp tục gia tăng nhanh chóng vượt quá ngưỡng chịu đựng, dịch sẽ bứt phá tràn ngập vào lòng phế nang và bùng phát thành **Cơn Phù phổi cấp do tim rầm rộ** [1, 2].
+Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ cấp tính diễn ra ban đêm**. Nếu tình trạng ứ dịch này tiếp tục gia tăng nhanh chóng vượt quá ngưỡng chịu đựng, dịch sẽ bứt phá tràn ngập vào lòng phế nang và bùng phát thành **Cơn Phù phổi cấp do tim rầm rộ**.
 
 :::
 
@@ -127,9 +127,9 @@ Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ 
 - **Khó thở (Triệu chứng then chốt):** Tiến triển theo từng giai đoạn:
   - _Khó thở khi gắng sức:_ Triệu chứng xuất hiện sớm nhất.
   - _Khó thở khi nằm (Orthopnea):_ Bệnh nhân phải kê cao gối hoặc ngồi dậy để thở do máu từ ngoại biên dồn về tim làm tăng áp lực mao mạch phổi.
-  - _Khó thở kịch phát về đêm (PND):_ Bệnh nhân đang ngủ phải bật dậy phồng mang trợn mắt để hít thở sau khi nằm \\(1 - 3\\) giờ.
+  - _Khó thở kịch phát về đêm (PND):_ Bệnh nhân đang ngủ phải bật dậy phồng mang trợn mắt để hít thở sau khi nằm `1 - 3` giờ.
   - _Phù phổi cấp:_ Khó thở dữ dội, thở nhanh đói khí, khạc đờm bọt hồng.
-- **Phù ngoại biên:** Phù mềm, ấn lõm, đối xứng \\(2\\) bên cẳng chân/cổ chân, tăng về chiều tối.
+- **Phù ngoại biên:** Phù mềm, ấn lõm, đối xứng `2` bên cẳng chân/cổ chân, tăng về chiều tối.
 - **Mệt mỏi & Giảm khả năng gắng sức:** Do giảm tưới máu cơ mô.
 - **Triệu chứng tiêu hóa:** Cảm giác đầy bụng, chán ăn, đau hạ sườn phải (do gan sung huyết).
 
@@ -137,17 +137,17 @@ Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ 
 
 - **Khám tim:**
   - **Tim to:** Mỏm tim đập lệch xuống dưới và ra ngoài đường trung đòn trái.
-  - **Tiếng Gallop T3:** Dấu hiệu thực thể có giá trị chẩn đoán suy tim rất cao (\\(LR+ = 11\\)), chỉ điểm tình trạng quá tải thể tích và tăng áp lực đổ đầy thất trái.
+  - **Tiếng Gallop T3:** Dấu hiệu thực thể có giá trị chẩn đoán suy tim rất cao (`LR+ = 11`), chỉ điểm tình trạng quá tải thể tích và tăng áp lực đổ đầy thất trái.
   - Âm thổi tâm thu của hở van hai lá hoặc hở van ba lá cơ năng do dãn buồng tim.
-- **Khám phổi:** Ran ẩm, ran nổ hạt nhỏ rải rác \\(2\\) đáy phổi (do thoát dịch vào mô kẽ và phế nang).
+- **Khám phổi:** Ran ẩm, ran nổ hạt nhỏ rải rác `2` đáy phổi (do thoát dịch vào mô kẽ và phế nang).
 - **Khám hệ thống & Tĩnh mạch:**
-  - **Tĩnh mạch cổ nổi (\\(45^\circ\\)):** Bộc lộ áp lực nhĩ phải tăng (\\(LR+ = 5{,}1\\)).
-  - **Phản hồi gan - tĩnh mạch cảnh (+):** Rất đặc hiệu cho suy tim (\\(LR+ = 6{,}4\\)).
+  - **Tĩnh mạch cổ nổi (`45°`):** Bộc lộ áp lực nhĩ phải tăng (`LR+ = 5,1`).
+  - **Phản hồi gan - tĩnh mạch cảnh (+):** Rất đặc hiệu cho suy tim (`LR+ = 6,4`).
   - Gan to, đau nhẹ, báng bụng (cổ chướng) trong suy tim phải hoặc suy tim toàn bộ.
 
 ### Các Nhóm Nguyên nhân Nguyên phát Thường gặp ở Bệnh cảnh Điển hình
 
-- **Bệnh động mạch vành (Bệnh tim thiếu máu cục bộ):** Là nguyên nhân hàng đầu (chiếm \\(> 50\%\\) các trường hợp).
+- **Bệnh động mạch vành (Bệnh tim thiếu máu cục bộ):** Là nguyên nhân hàng đầu (chiếm `> 50%` các trường hợp).
 - **Tăng huyết áp:** Tăng áp lực hậu tải mạn tính gây phì đại và dãn thất trái.
 - **Bệnh van tim:** Hẹp/hở van hai lá, hẹp/hở van động mạch chủ.
 - **Bệnh cơ tim:** Bệnh cơ tim dãn nở, bệnh cơ tim phì đại.
@@ -212,12 +212,12 @@ Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ 
 
 ## BẢNG SO SÁNH BỆNH CẢNH ĐIỂN HÌNH VS BỆNH CẢNH ĐẶC BIỆT
 
-| Tiêu chí                 | Bệnh cảnh Điển hình (Kinh điển)                                                                          | Bệnh cảnh Đặc biệt / Thầm lặng                                                                |
-| :----------------------- | :------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-| **Triệu chứng chính**    | Khó thở gắng sức \\(\rightarrow\\) khó thở khi nằm \\(\rightarrow\\) PND; Đau ngực đè ép. | **Không đau ngực / Khó thở mờ nhạt**; thay bằng mệt lả, lơ mơ, té ngã, ho đêm. |
+| Tiêu chí                 | Bệnh cảnh Điển hình (Kinh điển)                                                           | Bệnh cảnh Đặc biệt / Thầm lặng                                                 |
+| :----------------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| **Triệu chứng chính**    | Khó thở gắng sức `→` khó thở khi nằm `→` PND; Đau ngực đè ép. | **Không đau ngực / Khó thở mờ nhạt**; thay bằng mệt lả, lơ mơ, té ngã, ho đêm. |
 | **Thực thể phát hiện**   | Gallop T3, Phản hồi gan-TMC (+), Ran nổ 2 đáy phổi, Phù chân.                             | Triệu chứng dễ bị quy kết nhầm cho bệnh nền (phổi, thận, xơ gan).              |
 | **Bệnh nhân thường gặp** | Trưởng thành, có YTNC tim mạch rõ (THA, mạch vành).                                       | Đái tháo đường, Người cao tuổi, COPD/Hen, Suy thận mạn, Thai kỳ.               |
-| **Nguyên nhân hàng đầu** | Bệnh động mạch vành, Tăng huyết áp, Bệnh van tim.                                         | Bệnh vành thầm lặng, Bệnh cơ tim ĐTĐ, HFpEF, Cor Pulmonale.                |
+| **Nguyên nhân hàng đầu** | Bệnh động mạch vành, Tăng huyết áp, Bệnh van tim.                                         | Bệnh vành thầm lặng, Bệnh cơ tim ĐTĐ, HFpEF, Cor Pulmonale.                    |
 
 ---
 
@@ -225,9 +225,9 @@ Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ 
 
 ### Chỉ định Cận lâm sàng Trọng tâm
 
-- **Chỉ dấu sinh học Natriuretic Peptides (NT-proBNP / BNP):** Tiêu chuẩn vàng để loại trừ hoặc xác định suy tim. Ngưỡng loại trừ suy tim: \\(\text{NT-proBNP} < 125\text{ pg/mL}\\) hoặc \\(\text{BNP} < 35\text{ pg/mL}\\). _(Lưu ý: Ngưỡng chẩn đoán cần hiệu chỉnh tăng lên ở người cao tuổi và bệnh nhân suy thận)_.
+- **Chỉ dấu sinh học Natriuretic Peptides (NT-proBNP / BNP):** Tiêu chuẩn vàng để loại trừ hoặc xác định suy tim. Ngưỡng loại trừ suy tim: `NT-proBNP < 125 pg/mL` hoặc `BNP < 35 pg/mL`. _(Lưu ý: Ngưỡng chẩn đoán cần hiệu chỉnh tăng lên ở người cao tuổi và bệnh nhân suy thận)_.
 - **Điện tâm đồ (ECG 12 chuyển đạo):** Tầm soát nhồi máu cơ tim thầm lặng (sóng Q hoại tử, ST-T biến đổi), phì đại thất trái, rối loạn nhịp (Rung nhĩ).
-- **Siêu âm tim Doppler:** Tiêu chuẩn vàng đánh giá cấu trúc tim, phân suất tống máu (\\(\text{EF}\\)), áp lực động mạch phổi (\\(\text{PAPs}\\)) và rối loạn vận động vùng.
+- **Siêu âm tim Doppler:** Tiêu chuẩn vàng đánh giá cấu trúc tim, phân suất tống máu (`EF`), áp lực động mạch phổi (`PAPs`) và rối loạn vận động vùng.
 - **hs-Troponin (T hoặc I):** Đánh giá tổn thương cơ tim cấp hoặc hoại tử vi thể.
 
 ### Sơ đồ Thuật toán Tiếp cận Chẩn đoán (Chuẩn VNHA / ESC)

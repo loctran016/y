@@ -11,14 +11,14 @@ Phù toàn thân xuất phát từ sự mất cân bằng các lực Starling (�
 - **Cơ chế sinh lý bệnh:** Tăng áp lực thủy tĩnh mao mạch hệ thống (do ứ máu ngược dòng) combined với giảm thể tích lòng mạch hiệu dụng kích thích hệ RAA và thần kinh giao cảm gây giữ muối và nước ở thận .
 - **Đặc điểm lâm sàng:**
   - Phù mềm, ấn lõm, **xuất hiện đầu tiên ở vùng thấp** (cẳng chân, cổ chân), nặng hơn về chiều tối hoặc sau khi đứng lâu .
-  - Kèm các triệu chứng của suy tim: Khó thở khi gắng sức, khó thở khi nằm, khó thở kịch phát về đêm, tĩnh mạch cổ nổi (\\[45^\circ\\]), phản hồi gan - tĩnh mạch cảnh (+), gan to, tiếng \\[T_3\\] Gallop .
+  - Kèm các triệu chứng của suy tim: Khó thở khi gắng sức, khó thở khi nằm, khó thở kịch phát về đêm, tĩnh mạch cổ nổi (`45°`), phản hồi gan - tĩnh mạch cảnh (+), gan to, tiếng `T₃` Gallop .
 
 ### Nhóm bệnh lý THẬN (Hội chứng Thận hư / Viêm cầu thận / Suy thận)
 
 - **Cơ chế sinh lý bệnh:** Giảm áp lực keo huyết tương nghiêm trọng do mất Albumin qua nước tiểu (Hội chứng Thận hư) HOẶC tăng thể tích lòng mạch do giảm độ lọc cầu thận và ứ muối nước nguyên phát tại thận (Viêm cầu thận cấp/mạn, Suy thận) .
 - **Đặc điểm lâm sàng:**
   - **Phù trắng, mềm, ấn lõm, rầm rộ**, xuất hiện rõ nhất ở **mi mắt và mặt vào buổi sáng mới ngủ dậy**, sau đó tiến triển ra toàn thân .
-  - Kèm các dấu hiệu thận: Nước tiểu có bọt trắng mịn lâu tan (\\[> 15 - 30\text{ phút}\\] - đạm niệu) , tiểu máu (màu coca/xá xị) , thiểu niệu (\\[< 400\text{ mL}/24\text{h}\\]) , tăng huyết áp .
+  - Kèm các dấu hiệu thận: Nước tiểu có bọt trắng mịn lâu tan (`> 15 - 30 phút` - đạm niệu) , tiểu máu (màu coca/xá xị) , thiểu niệu (`< 400 mL/24h`) , tăng huyết áp .
 
 ### Nhóm bệnh lý GAN (Xơ gan mất bù)
 
@@ -47,18 +47,18 @@ Trong bệnh án Nội khoa, phù toàn thân ít khi đứng đơn độc. Vi�
 
 ### Các Hội chứng Định vị Cơ quan Nguyên nhân
 
-- **Hội chứng Suy tim toàn bộ / Suy tim phải:** Phù 2 chân + Khó thở khi nằm/gắng sức + Tĩnh mạch cổ nổi + Gan to, đau + Tiếng \\[T_3\\] Gallop .
-- **Hội chứng Thận hư (HCTH):** Phù toàn thân + Tiểu bọt lâu tan _(CLS: Protein niệu \\[> 3{,}5\text{ g/24h}\\], Albumin máu \\[< 30\text{ g/L}\\])_ .
+- **Hội chứng Suy tim toàn bộ / Suy tim phải:** Phù 2 chân + Khó thở khi nằm/gắng sức + Tĩnh mạch cổ nổi + Gan to, đau + Tiếng `T₃` Gallop .
+- **Hội chứng Thận hư (HCTH):** Phù toàn thân + Tiểu bọt lâu tan _(CLS: Protein niệu `> 3,5 g/24h`, Albumin máu `< 30 g/L`)_ .
 - **Hội chứng Viêm cầu thận cấp (VCTC):** Phù mặt/chi + Tăng huyết áp + Tiểu máu đại thể (màu xá xị) + Thiểu niệu .
 - **Hội chứng Suy tế bào gan (STBG):** Phù chân + Báng bụng + Sao mạch + Lòng bàn tay son + Vàng da .
 - **Hội chứng Tăng áp lực Tĩnh mạch cửa (TALTMC):** Tuần hoàn bàng hệ cửa - chủ + Lách to + Báng bụng .
 
 ### Các Vấn đề / Biến chứng Cấp tính & Toàn thân
 
-- **Hội chứng Suy hô hấp cấp / Phù phổi cấp:** \\[\text{SpO}_2 < 90\%\\] , khó thở dữ dội, thở nhanh \\[> 30\text{ lần/phút}\\], khạc bọt hồng, ran ẩm dâng cao 2 phế trường .
-- **Cơn Tăng Huyết Áp (Cấp cứu / Khẩn cấp):** Huyết áp \\[\ge 180/120\text{ mmHg}\\] _(Thường đi kèm tổn thương thận cấp/mạn hoặc Viêm cầu thận)_ .
-- **Tổn thương thận cấp (AKI) / Thiểu niệu - Vô niệu:** Thể tích nước tiểu \\[< 400\text{ mL}/24\text{h}\\] (thiểu niệu) hoặc \\[< 100\text{ mL}/24\text{h}\\] (vô niệu) .
-- **Hội chứng Suy kiệt / Dinh dưỡng / Cận ung:** BMI \\[< 18{,}5\text{ kg/m}^2\\], sụt cân không chủ ý, teo cơ .
+- **Hội chứng Suy hô hấp cấp / Phù phổi cấp:** `SpO₂ < 90%` , khó thở dữ dội, thở nhanh `> 30 lần/phút`, khạc bọt hồng, ran ẩm dâng cao 2 phế trường .
+- **Cơn Tăng Huyết Áp (Cấp cứu / Khẩn cấp):** Huyết áp `≥ 180/120 mmHg` _(Thường đi kèm tổn thương thận cấp/mạn hoặc Viêm cầu thận)_ .
+- **Tổn thương thận cấp (AKI) / Thiểu niệu - Vô niệu:** Thể tích nước tiểu `< 400 mL/24h` (thiểu niệu) hoặc `< 100 mL/24h` (vô niệu) .
+- **Hội chứng Suy kiệt / Dinh dưỡng / Cận ung:** BMI `< 18,5 kg/m²`, sụt cân không chủ ý, teo cơ .
 
 ---
 
@@ -66,5 +66,5 @@ Trong bệnh án Nội khoa, phù toàn thân ít khi đứng đơn độc. Vi�
 
 > - **Vấn đề 1:** Phù toàn thân mức độ nhiều + Hội chứng 3 giảm màng phổi 2 bên .
 > - **Vấn đề 2:** Hội chứng Thận hư (Phù toàn thân + Tiểu bọt lâu tan) .
-> - **Vấn đề 3:** Cơn Tăng huyết áp khẩn cấp (\\(\text{HA} = 190/100\text{ mmHg}\\)) .
-> - **Vấn đề 4:** Thiểu niệu cấp (\\(\text{V}_{\text{nước tiểu}} = 300\text{ mL}/24\text{h}\\)) .
+> - **Vấn đề 3:** Cơn Tăng huyết áp khẩn cấp (`HA = 190/100 mmHg`) .
+> - **Vấn đề 4:** Thiểu niệu cấp (`V_nước tiểu = 300 mL/24h`) .

@@ -201,9 +201,9 @@ Trong thực hành lâm sàng Nội khoa, tiếp cận **Hội chứng Tắc ngh
 | Đặc tính thăm khám & Bệnh sử | Hen phế quản | Bệnh phổi tắc nghẽn mạn tính (COPD) | Giãn phế quản | Tắc nghẽn cố định (Dị vật / U phế quản) |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Âm sắc khò khè / ran** | **Đa âm (Polyphonic)**, dạng âm nhạc tần số cao (ran rít). | **Đa âm (Polyphonic)**, ran rít kèm ran ngáy trầm đục, âm phế bào giảm. | **Đa âm hoặc Đơn âm**, phối hợp nhiều **ran ẩm, ran nổ** hạt to/vừa. | **ĐƠN ÂM (Monophonic)** điển hình (một nốt nhạc tần số cố định). |
-| **2. Thì hô hấp** | Chiếm ưu thế ở **thì thở ra** (khi nặng nghe cả 2 thì). | **Thì thở ra kéo dài** rõ rệt (\\(> 6\\) đến \\(9\\) giây). | Thường xuất hiện ở **cả 2 thì** (do ứ đọng dịch đờm trong lòng phế quản). | Xuất hiện ở **cả 2 thì** hoặc **thì thở ra**, cường độ không đổi sau ho. |
+| **2. Thì hô hấp** | Chiếm ưu thế ở **thì thở ra** (khi nặng nghe cả 2 thì). | **Thì thở ra kéo dài** rõ rệt (`> 6` đến `9` giây). | Thường xuất hiện ở **cả 2 thì** (do ứ đọng dịch đờm trong lòng phế quản). | Xuất hiện ở **cả 2 thì** hoặc **thì thở ra**, cường độ không đổi sau ho. |
 | **3. Vị trí nghe rõ nhất** | **Lan tỏa đối xứng 2 bên** phế trường. | **Lan tỏa đối xứng 2 bên** phế trường. | Có thể **khu trú** (nếu tổn thương thùy) hoặc **lan tỏa** 2 bên. | **KHU TRÚ tại một vị trí cố định** ở một bên lồng ngực. |
-| **4. Tiền căn & Triệu chứng đi kèm** | Tiếp xúc **dị nguyên**, thay đổi thời tiết; có triệu chứng **GERD** kích phát cơn; không có hội chứng nhiễm trùng (trừ khi bội nhiễm). | **Tiếp xúc khói thuốc lá** (\\(> 20\\) gói-năm), khói bụi mạn tính; xuất hiện **hội chứng nhiễm trùng** trong đợt cấp (AECOPD). | **Hội chứng nhiễm trùng mạn tính/tái phát:** ho khạc đờm mủ lượng nhiều hằng ngày, ho ra máu; tiền căn Lao phổi. | **Hội chứng hít sặc** khởi phát đột ngột (dị vật) HOẶC **khói thuốc lá nặng**, ho ra máu, sụt cân (u phế quản). |
+| **4. Tiền căn & Triệu chứng đi kèm** | Tiếp xúc **dị nguyên**, thay đổi thời tiết; có triệu chứng **GERD** kích phát cơn; không có hội chứng nhiễm trùng (trừ khi bội nhiễm). | **Tiếp xúc khói thuốc lá** (`> 20` gói-năm), khói bụi mạn tính; xuất hiện **hội chứng nhiễm trùng** trong đợt cấp (AECOPD). | **Hội chứng nhiễm trùng mạn tính/tái phát:** ho khạc đờm mủ lượng nhiều hằng ngày, ho ra máu; tiền căn Lao phổi. | **Hội chứng hít sặc** khởi phát đột ngột (dị vật) HOẶC **khói thuốc lá nặng**, ho ra máu, sụt cân (u phế quản). |
 
 ---
 
@@ -215,12 +215,12 @@ Trong thực hành lâm sàng Nội khoa, tiếp cận **Hội chứng Tắc ngh
 ## PHỔI TẮC NGHỄN MẠN TÍNH (COPD)
 * **Cơ chế:** Viêm mạn tính và hẹp lòng tiểu phế quản cố định kết hợp khí phế thũng.
 * **Đặc tính nghe:** Nghe ran rít, ran ngáy **đa âm ở thì thở ra**, thời gian thở ra kéo dài đáng kể. Khám ghi nhận lồng ngực căng phồng, gõ vang và giảm âm phế bào.
-* **Bệnh sử & Yếu tố nguy cơ:** Tiền căn **hút thuốc lá/thuốc giáo nhiều năm** (thường \\(> 20 - 40\\) gói-năm) hoặc phơi nhiễm khói bếp than/bụi nghề nghiệp ở người lớn tuổi (\\(> 40\\) tuổi). Khi vào đợt cấp (AECOPD), bệnh nhân bộc lộ rõ **hội chứng nhiễm trùng** (sốt, ho tăng, đờm đổi màu nhầy mủ).
+* **Bệnh sử & Yếu tố nguy cơ:** Tiền căn **hút thuốc lá/thuốc giáo nhiều năm** (thường `> 20 - 40` gói-năm) hoặc phơi nhiễm khói bếp than/bụi nghề nghiệp ở người lớn tuổi (`> 40` tuổi). Khi vào đợt cấp (AECOPD), bệnh nhân bộc lộ rõ **hội chứng nhiễm trùng** (sốt, ho tăng, đờm đổi màu nhầy mủ).
 
 ## GIÃN PHẾ QUẢN (Bronchiectasis)
 * **Cơ chế:** Dãn vĩnh viễn thành phế quản kèm đọng dịch đờm nhầy mủ trong lòng đường thở.
 * **Đặc tính nghe:** Ngoài tiếng ran rít/ran ngáy (do hẹp lòng phế quản bởi đờm), đặc trưng nhất là nghe thấy các **ran ẩm, ran nổ hạt to/vừa xuất hiện ở cả 2 thì** (hít vào và thở ra) do dòng khí xoáy qua các ổ ứ đọng đờm. Ran phổi có thể **khu trú** ở thùy phổi bị dãn hoặc **lan tỏa**.
-* **Bệnh sử & Yếu tố nguy cơ:** Nổi bật với **hội chứng nhiễm trùng hô hấp mạn tính/tái đi tái lại**: ho khạc đờm mủ lượng nhiều hằng ngày (\\(> 100\text{ mL/24h}\\)), đờm hôi, ho ra máu tái phát. Tiền căn thường liên quan đến Lao phổi cũ hoặc nhiễm trùng hô hấp nặng lúc nhỏ.
+* **Bệnh sử & Yếu tố nguy cơ:** Nổi bật với **hội chứng nhiễm trùng hô hấp mạn tính/tái đi tái lại**: ho khạc đờm mủ lượng nhiều hằng ngày (`> 100 mL/24h`), đờm hôi, ho ra máu tái phát. Tiền căn thường liên quan đến Lao phổi cũ hoặc nhiễm trùng hô hấp nặng lúc nhỏ.
 
 ## TẮC NGHỄN CỐ ĐỊNH / DỊ VẬT / U PHẾ QUẢN
 * **Cơ chế:** Tắc nghẽn một vị trí cố định tại đường dẫn khí lớn trong lồng ngực (phế quản gốc, phế quản thùy).

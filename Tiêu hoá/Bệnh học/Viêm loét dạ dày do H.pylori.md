@@ -22,15 +22,15 @@ Dạ dày - tá tràng không bị tổn thương nhờ sự cân bằng giữa 
 
 #### Cơ chế đề kháng và tồn tại trong môi trường acid dạ dày**
 
-- **Sản xuất enzyme Urease mạnh:** _H. pylori_ tiết ra lượng lớn enzyme **Urease** giúp thủy phân Ure thành Ammonia (NH3) có tính kiềm và CO2 [5]. Khí NH3 tạo thành một "đám mây kiềm" bao quanh vi khuẩn, trung hòa bớt acid HCl dịch vị ở môi trường vi mô xung quanh [5].
+- **Sản xuất enzyme Urease mạnh:** _H. pylori_ tiết ra lượng lớn enzyme **Urease** giúp thủy phân Ure thành Ammonia (NH3) có tính kiềm và CO2. Khí NH3 tạo thành một "đám mây kiềm" bao quanh vi khuẩn, trung hòa bớt acid HCl dịch vị ở môi trường vi mô xung quanh.
 - **Thích ứng hình thái và di chuyển:** _H. pylori_ có hình dạng xoắn ốc và các chiên mao (chùm lông roi) giúp nó di chuyển linh hoạt, xuyên qua lớp chất nhầy dày của dạ dày để đến trú ẩn tại lớp niêm mạc sát tế bào biểu mô – nơi có môi trường pH gần trung tính .
 - **Bám dính:** Vi khuẩn sử dụng các protein màng ngoài (adhesins như BabA, SabA) để bám dính chặt vào tế bào biểu mô, tránh bị tống xuất bởi nhu động dạ dày .
 
 #### Cơ chế gây bệnh viêm loét**
 
-- **Độc tố gây tổn thương trực tiếp:** Khí NH3 tạo ra cùng các độc tố tế bào do vi khuẩn tiết ra như **VacA)** (gây không bào hóa tế bào) và **(CagA)** (gây biến đổi cấu trúc tế bào, kích thích phản ứng viêm mạnh) trực tiếp làm đứt gãy liên kết chặt, gây tổn thương hoại tử tế bào biểu mô và suy giảm lớp chất nhầy [5].
+- **Độc tố gây tổn thương trực tiếp:** Khí NH3 tạo ra cùng các độc tố tế bào do vi khuẩn tiết ra như **VacA)** (gây không bào hóa tế bào) và **(CagA)** (gây biến đổi cấu trúc tế bào, kích thích phản ứng viêm mạnh) trực tiếp làm đứt gãy liên kết chặt, gây tổn thương hoại tử tế bào biểu mô và suy giảm lớp chất nhầy.
 - **Kích hoạt phản ứng viêm mạn tính:** _H. pylori_ thu hút và kích thích các tế bào miễn dịch (bạch cầu đa nhân, lympho bào) xâm nhập niêm mạc, giải phóng hàng loạt các cytokine tiền viêm (IL-1beta, TNF-alpha)) gây ra viêm dạ dày mạn tính hoạt động .
-- **Rối loạn điều hòa acid (Cơ chế gây loét tá tràng):** Tình trạng viêm ưu thế vùng hang vị do _H. pylori_ làm tổn thương và giảm số lượng **tế bào D** (nơi tiết Somatostatin) . Mất hiệu ứng ức chế của Somatostatin làm tế bào G tăng bài tiết **Gastrin** vào máu, kích thích các tế bào thành ở thân vị tăng tiết acid HCl kéo dài [6]. Lượng acid dư thừa tràn xuống tá tràng làm tá tràng bị dị sản niêm mạc dạng dạ dày, tạo điều kiện cho _H. pylori_ đến cư trú tại tá tràng và gây ra tổn thương loét .
+- **Rối loạn điều hòa acid (Cơ chế gây loét tá tràng):** Tình trạng viêm ưu thế vùng hang vị do _H. pylori_ làm tổn thương và giảm số lượng **tế bào D** (nơi tiết Somatostatin) . Mất hiệu ứng ức chế của Somatostatin làm tế bào G tăng bài tiết **Gastrin** vào máu, kích thích các tế bào thành ở thân vị tăng tiết acid HCl kéo dài. Lượng acid dư thừa tràn xuống tá tràng làm tá tràng bị dị sản niêm mạc dạng dạ dày, tạo điều kiện cho _H. pylori_ đến cư trú tại tá tràng và gây ra tổn thương loét .
 
 ### Nguyên tắc của các xét nghiệm chẩn đoán _H. pylori_ bằng enzyme Urease**
 
@@ -51,8 +51,8 @@ Cả hai kỹ thuật này đều khai thác đặc tính sinh hóa đặc trưn
 ### Nguyên tắc ức chế bài tiết acid trong điều trị làm lành ổ loét dạ dày – tá tràng**
 
 - **Tạo môi trường tối ưu cho niêm mạc tự phục hồi:** Khả năng tự lành của ổ loét phụ thuộc vào việc giảm thiểu sự hiện diện của yếu tố tấn công. Nâng pH dạ dày lên **(> 4.0)** kéo dài trong nhiều giờ mỗi ngày là điều kiện bắt buộc để ổ loét tái tạo biểu mô và liền sẹo .
-- **Bất hoạt Pepsin:** Pepsin là enzyme tiêu đạm, chỉ hoạt động mạnh ở môi trường acid mạnh (pH ; 1.8 - 3.5)) [7]. Khi dùng thuốc ức chế bài tiết acid nâng (pH dạ dày lên (> 4.0), Pepsin bị mất hoạt tính, ngăn chặn quá trình enzyme này tự tiêu hóa niêm mạc và ăn mòn đáy ổ loét .
-- **Ngăn chặn sự khuếch tán ngược của ion H^+):** Giảm nồng độ ion H^+) tự do trong lòng dạ dày giúp ngăn chặn sự trào ngược ion H^+) qua lớp biểu mô đang tổn thương, bảo vệ vi tuần hoàn và giảm đau thượng vị tức thì cho bệnh nhân [1]. ---
+- **Bất hoạt Pepsin:** Pepsin là enzyme tiêu đạm, chỉ hoạt động mạnh ở môi trường acid mạnh (pH ; 1.8 - 3.5)). Khi dùng thuốc ức chế bài tiết acid nâng (pH dạ dày lên (> 4.0), Pepsin bị mất hoạt tính, ngăn chặn quá trình enzyme này tự tiêu hóa niêm mạc và ăn mòn đáy ổ loét .
+- **Ngăn chặn sự khuếch tán ngược của ion H^+):** Giảm nồng độ ion H^+) tự do trong lòng dạ dày giúp ngăn chặn sự trào ngược ion H^+) qua lớp biểu mô đang tổn thương, bảo vệ vi tuần hoàn và giảm đau thượng vị tức thì cho bệnh nhân. ---
 
 ### Nguyên tắc sử dụng thuốc ức chế bài tiết acid (PPI) kết hợp với kháng sinh trong phác đồ tiệt trừ _H. pylori_**
 

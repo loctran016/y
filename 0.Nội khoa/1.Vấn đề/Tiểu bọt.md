@@ -9,7 +9,7 @@ Về mặt sinh lý bệnh, khi hiện tượng tiểu bọt xuất hiện rầm
 ### Hội chứng Thận hư (Nephrotic Syndrome) & Các Bệnh Cầu thận nặng
 
 - **Tần suất & Mức độ:** **Gần như 100%** bệnh nhân Hội chứng Thận hư giai đoạn rầm rộ đều bị tiểu bọt rất nhiều .
-- **Cơ chế:** Màng lọc cầu thận bị tổn thương nghiêm trọng khiến một lượng đạm khổng lồ (chủ yếu là **Albumin**) thoát vào nước tiểu (\\(> 3{,}5\text{ g/24h}\\)) . Albumin là chất hạ áp lực bề mặt cực kỳ mạnh .
+- **Cơ chế:** Màng lọc cầu thận bị tổn thương nghiêm trọng khiến một lượng đạm khổng lồ (chủ yếu là **Albumin**) thoát vào nước tiểu (`> 3,5 g/24h`) . Albumin là chất hạ áp lực bề mặt cực kỳ mạnh .
 - **Đặc điểm bọt:** Nước tiểu có bọt **trắng mịn như xà phòng, nổi thành tầng/lớp dày và đọng lại trong bồn cầu rất lâu (>15–30 phút không tan)** .
 - **Các nguyên nhân gây HCTH:** Bệnh thận màng, Xơ hóa cầu thận ổ đoạn (FSGS), Sang thương tối thiểu (ở trẻ em), Bệnh thận Lupus bài tiết đạm nặng .
 

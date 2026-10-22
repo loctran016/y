@@ -44,9 +44,9 @@ Hội chứng mạch vành cấp được phân thành 3 thể lâm sàng chính
 
 Nghi ngờ HCMVC khi cơn đau ngực mang 1 trong 3 đặc điểm sau:
 
-1. **Đau ngực lúc nghỉ:** Xuất hiện khi nghỉ ngơi và kéo dài **\\[\ge 20\text{ phút}\\]**.
-2. **Đau ngực mới xuất hiện:** Cơn đau mới xuất hiện trong vòng vài tuần gần đây, cường độ dữ dội từ mức **\\[\text{CCS III}\\]** trở lên.
-3. **Đau ngực tăng dần:** Cơn đau thắt ngực ổn định trước đó nay xuất hiện thường xuyên hơn, kéo dài hơn, ngưỡng gắng sức thấp hơn (tăng ít nhất 1 độ CCS hoặc **\\[\ge \text{CCS III}\\]**).
+1. **Đau ngực lúc nghỉ:** Xuất hiện khi nghỉ ngơi và kéo dài **`≥ 20 phút`**.
+2. **Đau ngực mới xuất hiện:** Cơn đau mới xuất hiện trong vòng vài tuần gần đây, cường độ dữ dội từ mức **`CCS III`** trở lên.
+3. **Đau ngực tăng dần:** Cơn đau thắt ngực ổn định trước đó nay xuất hiện thường xuyên hơn, kéo dài hơn, ngưỡng gắng sức thấp hơn (tăng ít nhất 1 độ CCS hoặc **`≥ CCS III`**).
 
 ### Triệu chứng đi kèm
 
@@ -60,7 +60,7 @@ Nghi ngờ HCMVC khi cơn đau ngực mang 1 trong 3 đặc điểm sau:
 Khám thực thể giúp phân tầng nguy cơ và phát hiện các biến chứng cấp tính:
 
 - Khám sinh hiệu: Tình trạng nhịp tim nhanh/chậm, tụt huyết áp hoặc cơn tăng huyết áp.
-- Tìm dấu hiệu suy tim / sung huyết phổi: Nghe được tiếng **\\[\text{T3}\\]**, **\\[\text{T4}\\]**, ran ẩm ở hai đáy phổi.
+- Tìm dấu hiệu suy tim / sung huyết phổi: Nghe được tiếng **`T3`**, **`T4`**, ran ẩm ở hai đáy phổi.
 
 ### Phát hiện biến chứng cơ học
 
@@ -79,19 +79,19 @@ Khám thực thể giúp phân tầng nguy cơ và phát hiện các biến ch�
 
 #### Nguyên tắc thực hiện
 
-- Bắt buộc thực hiện ngay trong vòng **\\[10\text{ phút}\\]** đầu kể từ khi bệnh nhân tiếp cận y tế. Nếu chưa khẳng định, cần đo lặp lại mỗi **\\[15 - 30\text{ phút}\\]** trong những giờ đầu.
+- Bắt buộc thực hiện ngay trong vòng **`10 phút`** đầu kể từ khi bệnh nhân tiếp cận y tế. Nếu chưa khẳng định, cần đo lặp lại mỗi **`15 - 30 phút`** trong những giờ đầu.
 
 #### Tiêu chuẩn biến đổi ST-T trong HCMVC
 
 1. **STEMI (Đoạn ST chênh lên):**
    - ST chênh lên mới tại điểm J ở ít nhất 2 chuyển đạo liên tiếp:
-     - Chuyển đạo **\\[\text{V2, V3}\\]**: **\\[\ge 0{,}2\text{ mV}\\]** ở nam **\\[\ge 40\text{ tuổi}\\]**; **\\[\ge 0{,}25\text{ mV}\\]** ở nam **\\[< 40\text{ tuổi}\\]**; **\\[\ge 0{,}15\text{ mV}\\]** ở nữ.
-     - Các chuyển đạo khác: **\\[\ge 0{,}1\text{ mV}\\]** (**\\[\ge 1\text{ mm}\\]**).
+     - Chuyển đạo **`V2, V3`**: **`≥ 0,2 mV`** ở nam **`≥ 40 tuổi`**; **`≥ 0,25 mV`** ở nam **`< 40 tuổi`**; **`≥ 0,15 mV`** ở nữ.
+     - Các chuyển đạo khác: **`≥ 0,1 mV`** (**`≥ 1 mm`**).
    - Block nhánh trái mới xuất hiện (hoặc nghi ngờ mới xuất hiện).
-   - _Lưu ý:_ Nếu nghi ngờ nhồi máu thất phải hoặc thành sau, cần đo thêm các chuyển đạo **\\[\text{V3R, V4R}\\]** và **\\[\text{V7, V8, V9}\\]**.
+   - _Lưu ý:_ Nếu nghi ngờ nhồi máu thất phải hoặc thành sau, cần đo thêm các chuyển đạo **`V3R, V4R`** và **`V7, V8, V9`**.
 2. **NSTEMI / UA (Không ST chênh lên):**
-   - ST chênh xuống đi ngang hoặc đi xuống **\\[\ge 0{,}05\text{ mV}\\]** (**\\[\ge 0{,}5\text{ mm}\\]**) ở 2 chuyển đạo liên tiếp.
-   - Sóng T đảo ngược sâu **\\[\ge 0{,}1\text{ mV}\\]**.
+   - ST chênh xuống đi ngang hoặc đi xuống **`≥ 0,05 mV`** (**`≥ 0,5 mm`**) ở 2 chuyển đạo liên tiếp.
+   - Sóng T đảo ngược sâu **`≥ 0,1 mV`**.
    - ECG có thể bình thường hoặc chỉ có thay đổi ST-T không đặc hiệu.
 
 ### Chất chỉ điểm sinh học tim (Cardiac Biomarkers)
@@ -99,20 +99,20 @@ Khám thực thể giúp phân tầng nguy cơ và phát hiện các biến ch�
 #### Tiêu chuẩn vàng Troponin (cTn)
 
 - Định lượng **Troponin I (cTnI)** hoặc **Troponin T (cTnT)**, ưu tiên sử dụng các xét nghiệm **Troponin siêu nhạy (hs-cTnI / hs-cTnT)**.
-- **Tiêu chuẩn chẩn đoán tổn thương cơ tim cấp:** Có sự **tăng và/hoặc giảm động học** của Troponin với ít nhất một giá trị vượt bách phân vị thứ 99 của giới hạn trên bình thường (**\\[> \text{URL 99th}\\]**).
+- **Tiêu chuẩn chẩn đoán tổn thương cơ tim cấp:** Có sự **tăng và/hoặc giảm động học** của Troponin với ít nhất một giá trị vượt bách phân vị thứ 99 của giới hạn trên bình thường (**`> URL 99th`**).
 
 #### Phác đồ động học Troponin siêu nhạy (hs-cTn)
 
-- Áp dụng phác đồ **\\[0\text{h}/1\text{h}\\]** hoặc **\\[0\text{h}/2\text{h}\\]** (hoặc **\\[0\text{h}/3\text{h}\\]**) theo khuyến cáo ESC/AHA để chẩn đoán xác định nhanh hoặc loại trừ NSTEMI:
-  - **Loại trừ nhanh (Rule-out):** Mẫu hs-cTn lúc **\\[0\text{h}\\]** rất thấp hoặc không có sự thay đổi delta **\\[\Delta\\]** sau **\\[1\text{h}/2\text{h}\\]**.
-  - **Chẩn đoán xác định (Rule-in):** Mẫu hs-cTn lúc **\\[0\text{h}\\]** cao rõ rệt hoặc có sự gia tăng biến động delta **\\[\Delta\\]** đáng kể sau **\\[1\text{h}/2\text{h}\\]**.
+- Áp dụng phác đồ **`0h/1h`** hoặc **`0h/2h`** (hoặc **`0h/3h`**) theo khuyến cáo ESC/AHA để chẩn đoán xác định nhanh hoặc loại trừ NSTEMI:
+  - **Loại trừ nhanh (Rule-out):** Mẫu hs-cTn lúc **`0h`** rất thấp hoặc không có sự thay đổi delta **`Δ`** sau **`1h/2h`**.
+  - **Chẩn đoán xác định (Rule-in):** Mẫu hs-cTn lúc **`0h`** cao rõ rệt hoặc có sự gia tăng biến động delta **`Δ`** đáng kể sau **`1h/2h`**.
 
 ### Các cận lâm sàng chẩn đoán hình ảnh & hỗ trợ
 
 #### Siêu âm tim tại giường
 
 - Giúp phát hiện rối loạn vận động vùng (giảm động, vô động, nghịch động) ủng hộ chẩn đoán thiếu máu cục bộ cơ tim.
-- Đánh giá chức năng tâm thu thất trái (**\\[\text{EF}\\]**) và tầm soát các biến chứng cơ học (hở van 2 lá cấp, thủng vách liên thất, tràn dịch màng ngoài tim/chèn ép tim).
+- Đánh giá chức năng tâm thu thất trái (**`EF`**) và tầm soát các biến chứng cơ học (hở van 2 lá cấp, thủng vách liên thất, tràn dịch màng ngoài tim/chèn ép tim).
 
 #### Chụp động mạch vành qua da (DSA)
 
@@ -139,14 +139,14 @@ Dựa vào sự kết hợp giữa **Lâm sàng + ECG + Troponin**, phân biệt
 Giúp đánh giá mức độ suy bơm thất trái tại giường và tiên lượng tử vong:
 
 - **Killip I:** Lâm sàng bình thường, không có dấu hiệu suy tim.
-- **Killip II:** Có suy tim nhẹ–vừa (ran ẩm **\\[< 1/2\\]** phế trường, có tiếng **\\[\text{T3}\\]** Gallop hoặc tĩnh mạch cổ nổi).
-- **Killip III:** Phù phổi cấp (ran ẩm nổ dâng cao **\\[> 1/2\\]** phế trường).
-- **Killip IV:** Choáng tim (Tụt huyết áp **\\[\text{HATT} < 90\text{ mmHg}\\]**, biểu hiện giảm tưới máu mô ngoại biên).
+- **Killip II:** Có suy tim nhẹ–vừa (ran ẩm **`< 1/2`** phế trường, có tiếng **`T3`** Gallop hoặc tĩnh mạch cổ nổi).
+- **Killip III:** Phù phổi cấp (ran ẩm nổ dâng cao **`> 1/2`** phế trường).
+- **Killip IV:** Choáng tim (Tụt huyết áp **`HATT < 90 mmHg`**, biểu hiện giảm tưới máu mô ngoại biên).
 
 ### Phân tầng nguy cơ trong NSTEMI / UA
 
 Sử dụng các bảng điểm chuẩn hóa (TIMI, GRACE) để lựa chọn chiến lược điều trị can thiệp mạch vành:
 
-- **Group Nguy cơ rất cao (Can thiệp khẩn cấp \\[< 2\text{ giờ}\\]):** Rối loạn huyết động/choáng tim, đau ngực tái phát kháng trị, rối loạn nhịp nguy hiểm, biến chứng cơ học, suy tim cấp.
-- **Group Nguy cơ cao (Can thiệp sớm \\[< 24\text{ giờ}\\]):** Chẩn đoán xác định NSTEMI dựa vào Troponin, thay đổi ST-T động học, điểm GRACE **\\[> 140\\]**.
+- **Group Nguy cơ rất cao (Can thiệp khẩn cấp `< 2 giờ`):** Rối loạn huyết động/choáng tim, đau ngực tái phát kháng trị, rối loạn nhịp nguy hiểm, biến chứng cơ học, suy tim cấp.
+- **Group Nguy cơ cao (Can thiệp sớm `< 24 giờ`):** Chẩn đoán xác định NSTEMI dựa vào Troponin, thay đổi ST-T động học, điểm GRACE **`> 140`**.
 - **Group Nguy cơ thấp (Can thiệp chọn lọc):** Không thuộc các tiêu chuẩn nguy cơ trên.

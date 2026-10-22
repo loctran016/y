@@ -178,8 +178,8 @@ Khi đợt cấp COPD điều trị không đỡ, nguyên nhân khiến khó th�
 #### Nhóm nguyên nhân TIM MẠCH đi kèm (Cardiovascular Causes)
 
 - **Suy tim trái mất bù cấp hoặc Suy tim phải (Tâm phế mạn):**
-  - Tình trạng viêm và tăng công thở trong đợt cấp COPD làm gia tăng gánh nặng lên tim. Hạ oxy máu mạn tính gây co mạch phổi \\(\rightarrow\\) Tăng áp động mạch phổi và suy thất phải.
-  - _Dấu hiệu gợi ý:_ Phù 2 chân, tĩnh mạch cổ nổi (\\(45^\circ\\)), gan to, phản hồi gan - TMC (+), nghe tiếng **Gallop \\(T_3\\)** ở tim.
+  - Tình trạng viêm và tăng công thở trong đợt cấp COPD làm gia tăng gánh nặng lên tim. Hạ oxy máu mạn tính gây co mạch phổi `→` Tăng áp động mạch phổi và suy thất phải.
+  - _Dấu hiệu gợi ý:_ Phù 2 chân, tĩnh mạch cổ nổi (`45°`), gan to, phản hồi gan - TMC (+), nghe tiếng **Gallop `T₃`** ở tim.
 - **Hội chứng mạch vành cấp thầm lặng (Silent ACS):**
   - Ở người lớn tuổi, hút thuốc lá nhiều năm, hạ oxy máu dồn dập có thể châm ngòi cho thiếu máu cơ tim cấp. Bệnh nhân COPD bị nhồi máu cơ tim đôi khi **chỉ biểu hiện duy nhất là khó thở tăng vọt mà không hề đau ngực**.
 - **Rối loạn nhịp tim (Rung nhĩ đáp ứng thất nhanh):**
@@ -245,7 +245,7 @@ Khi đợt cấp COPD điều trị không đỡ, nguyên nhân khiến khó th�
    - _Mạch máu:_ Xác định hoặc loại trừ Thuyên tắc phổi.
    - _Màng phổi:_ Phát hiện tràn khí/tràn dịch lượng ít bị xẹp phổi che lấp.
    - _Nhu mô & Đường thở:_ Phát hiện thâm nhiễm viêm phổi kẽ, áp xe, giãn phế quản, xẹp phổi hoặc u phổi.
-2. **Siêu âm tim Doppler:** Đánh giá phân suất tống máu thất trái (\\(\text{EF}\\)), áp lực động mạch phổi (\\(\text{PAPs}\\)) và dấu hiệu căng giãn thất phải cấp.
+2. **Siêu âm tim Doppler:** Đánh giá phân suất tống máu thất trái (`EF`), áp lực động mạch phổi (`PAPs`) và dấu hiệu căng giãn thất phải cấp.
 3. **Bộ Dấu ấn Sinh học (Biomarkers):**
    - **D-Dimer:** Tầm soát huyết khối/thuyên tắc mạch.
    - **NT-proBNP / BNP:** Loại trừ hoặc xác định suy tim sung huyết phối hợp.

@@ -4,7 +4,7 @@ Tiếp nối chuỗi triệu chứng Thận - Tiết niệu, **Thiểu niệu** 
 
 ### Định nghĩa & Ngưỡng chuẩn y khoa (Sách Tiếp cận YDS)
 
-- **Thiểu niệu (Oliguria):** Thể tích nước tiểu **\\(< 400\text{ mL}/24\text{ giờ}\\]** (hoặc \\(< 0{,}5\text{ mL/kg/giờ}\\]\\) kéo dài \\(> 6\text{ giờ}\\]\\)) .
+- **Thiểu niệu (Oliguria):** Thể tích nước tiểu **`< 400 mL/24 giờ\\]** (hoặc \\(< 0,5 mL/kg/giờ\\]` kéo dài `> 6 giờ\\]`) .
 - **Vô niệu (Anuria):** Thể tích nước tiểu **\\(< 100\text{ mL}/24\text{ giờ}\\]** (hoặc hoàn toàn không có nước tiểu) .
 - ⚠️ **Phân biệt quan trọng:** Cần phân biệt **Thiểu niệu/Vô niệu** _(thận không tạo ra được nước tiểu)_ với **Bí tiểu (Urinary retention)** _(thận vẫn tạo ra nước tiểu nhưng bị kẹt lại ở bàng quang không đi ra ngoài được, khám thấy **Cầu bàng quang (+)**)_ .
 

@@ -4,17 +4,17 @@ Hội chứng Thận hư (HCTH) là một hội chứng lâm sàng và sinh hóa
 
 Sự tổn thương màng đáy cầu thận kích hoạt chuỗi rối loạn chuyển hóa theo cơ chế:
 
-\\[\text{Tổn thương màng lọc} \longrightarrow \text{Đạm niệu nặng} \longrightarrow \text{Giảm Albumin máu} \longrightarrow \begin{cases} \text{Giảm áp lực keo} \rightarrow \text{Phù toàn thân} \\ \text{Gan tăng tổng hợp} \rightarrow \text{Tăng Lipid máu} \end{cases}\\]
+`Tổn thương màng lọc → Đạm niệu nặng → Giảm Albumin máu → \begincases Giảm áp lực keo → Phù toàn thân \ Gan tăng tổng hợp → Tăng Lipid máu \endcases`
 
 ### 4 Tiêu chuẩn Chẩn đoán Xác định (Kinh điển)
 
 1. **Phù toàn thân:** Phù trắng, mềm, ấn lõm, xuất hiện rầm rộ, rõ ở mi mắt/mặt vào buổi sáng, tiến triển ra cẳng chân và tràn dịch các màng (báng bụng, màng phổi).
 2. **Đạm niệu ngưỡng thận hư (Tiêu chuẩn BẮT BUỘC):**
-   - Định lượng Protein niệu 24 giờ \\[\ge 3{,}5\text{ g/24h}\\] (hoặc tỷ lệ Protein/Creatinine niệu \\[\text{UPCR} \ge 3{,}5\text{ g/g}\\]).
+   - Định lượng Protein niệu 24 giờ `≥ 3,5 g/24h` (hoặc tỷ lệ Protein/Creatinine niệu `UPCR ≥ 3,5 g/g`).
 3. **Giảm Albumin & Protein máu (Tiêu chuẩn BẮT BUỘC):**
-   - Albumin máu \\[< 30\text{ g/L}\\] và Protein máu toàn phần \\[< 60\text{ g/L}\\].
+   - Albumin máu `< 30 g/L` và Protein máu toàn phần `< 60 g/L`.
 4. **Tăng Lipid máu:**
-   - Tăng Cholesterol toàn phần (\\[> 6{,}5\text{ mmol/L}\\]) và/hoặc tăng Triglyceride.
+   - Tăng Cholesterol toàn phần (`> 6,5 mmol/L`) và/hoặc tăng Triglyceride.
 
 ---
 
@@ -22,7 +22,7 @@ Sự tổn thương màng đáy cầu thận kích hoạt chuỗi rối loạn c
 
 ### Triệu chứng Lâm sàng Trọng tâm
 
-- **Nước tiểu:** Bệnh nhân khai nước tiểu có bọt trắng mịn **lâu tan (\\[>15 - 30\text{ phút}\\])** do giảm áp lực bề mặt.
+- **Nước tiểu:** Bệnh nhân khai nước tiểu có bọt trắng mịn **lâu tan (`>15 - 30 phút`)** do giảm áp lực bề mặt.
 - **Phù:** Phù toàn thân, mức độ nhiều, mềm, ấn lõm, không đau.
 
 ### Phân biệt 2 Thể Lâm sàng
@@ -52,7 +52,7 @@ Sinh thiết thận đánh giá qua 3 phương pháp: **Kính hiển vi quang h�
 
 ### Sang thương tối thiểu (Minimal Change Disease - MCD)
 
-- **Lâm sàng & Dịch tễ:** Trẻ em (\\[>80-90\%\\]) hoặc người trẻ tuổi; biểu hiện **HCTH Đơn thuần** điển hình; rất nhạy cảm và đáp ứng nhanh với Corticoid.
+- **Lâm sàng & Dịch tễ:** Trẻ em (`>80-90%`) hoặc người trẻ tuổi; biểu hiện **HCTH Đơn thuần** điển hình; rất nhạy cảm và đáp ứng nhanh với Corticoid.
 - **Đặc điểm GPB:**
   - **LM:** Cầu thận nhìn gần như bình thường (hoặc tăng sinh nhẹ mô đệm).
   - **IF:** Âm tính (không có lắng đọng phức hợp miễn dịch).
@@ -60,7 +60,7 @@ Sinh thiết thận đánh giá qua 3 phương pháp: **Kính hiển vi quang h�
 
 ### Bệnh cầu thận màng (Membranous Nephropathy - MN)
 
-- **Lâm sàng & Dịch tễ:** Người lớn trung niên/cao tuổi (\\[>40-50\text{ tuổi}\\] - nguyên nhân HCTH nguyên phát hàng đầu ở người lớn); nguy cơ **Huyết khối / Tắc mạch** rất cao; xét nghiệm Anti-PLA2R (+); hoặc thứ phát sau Ung thư tạng đặc / Viêm gan B.
+- **Lâm sàng & Dịch tễ:** Người lớn trung niên/cao tuổi (`>40-50 tuổi` - nguyên nhân HCTH nguyên phát hàng đầu ở người lớn); nguy cơ **Huyết khối / Tắc mạch** rất cao; xét nghiệm Anti-PLA2R (+); hoặc thứ phát sau Ung thư tạng đặc / Viêm gan B.
 - **Đặc điểm GPB:**
   - **LM:** **Dày màng đáy cầu thận lan tỏa**; nhuộm bạc (PAMS) thấy hình ảnh **"gai-màng" (spikes / spike-and-dome)**.
   - **IF:** Lắng đọng hạt lan tỏa của **IgG và C3** dọc theo màng đáy.
@@ -68,15 +68,15 @@ Sinh thiết thận đánh giá qua 3 phương pháp: **Kính hiển vi quang h�
 
 ### Xơ chai cầu thận khu trú từng vùng (Focal Segmental Glomerulosclerosis - FSGS)
 
-- **Lâm sàng & Dịch tễ:** Người trẻ/trưởng thành (20–40 tuổi); **HCTH Không đơn thuần** (kèm Tăng HA, Tiểu máu, Creatinine tăng); **Kháng Corticoid**; liên quan Béo phì nặng (BMI \\[>30-35\text{ kg/m}^2\\]) hoặc HIV.
+- **Lâm sàng & Dịch tễ:** Người trẻ/trưởng thành (20–40 tuổi); **HCTH Không đơn thuần** (kèm Tăng HA, Tiểu máu, Creatinine tăng); **Kháng Corticoid**; liên quan Béo phì nặng (BMI `>30-35 kg/m²`) hoặc HIV.
 - **Đặc điểm GPB:**
-  - **LM:** **Khu trú (Focal - \\[<50\%\\] số cầu thận)** và **Từng vùng (Segmental - chỉ một phần búi mao mạch)** bị xơ chai, dính vào bao Bowman.
+  - **LM:** **Khu trú (Focal - `<50%` số cầu thận)** và **Từng vùng (Segmental - chỉ một phần búi mao mạch)** bị xơ chai, dính vào bao Bowman.
   - **IF:** IgM và C3 lắng đọng không đặc hiệu ở vùng xơ chai.
   - **EM:** Mất chân giả Podocyte lan tỏa + xơ hóa búi mao mạch.
 
 ### Bệnh thận đái tháo đường (Diabetic Nephropathy - DN)
 
-- **Lâm sàng & Dịch tễ:** Tiền căn Đái tháo đường kéo dài (\\[>5-10\text{ năm}\\]); soi đáy mắt có **Bệnh màng lưới đái tháo đường (Diabetic Retinopathy)**; diễn tiến đạm niệu tăng dần.
+- **Lâm sàng & Dịch tễ:** Tiền căn Đái tháo đường kéo dài (`>5-10 năm`); soi đáy mắt có **Bệnh màng lưới đái tháo đường (Diabetic Retinopathy)**; diễn tiến đạm niệu tăng dần.
 - **Đặc điểm GPB:**
   - **LM:** Dày màng đáy cầu thận lan tỏa, tăng sinh chất nền trung mô; đặc trưng bởi **Nốt Kimmelstiel-Wilson** (xơ hóa dạng nốt ở vùng trung mô).
   - **IF:** Lắng đọng dải tuyến tính (linear) IgG dọc màng đáy (do gắn lắng đọng không do miễn dịch).
@@ -132,9 +132,9 @@ Sinh thiết thận đánh giá qua 3 phương pháp: **Kính hiển vi quang h�
 | Dữ kiện Lâm sàng & Tiền căn trọng tâm trong Đề thi                                                                 | Đáp án Giải phẫu bệnh (GPB) Phù Hợp Nhất      |
 | :----------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
 | Trẻ em / Trẻ tuổi + HCTH Đơn thuần + Thận bình thường + Nhạy Corticoid                                             | **Sang thương tối thiểu (MCD)**               |
-| Người lớn \\[>40-50\text{t}\\] + HCTH rầm rộ + Tắc mạch/Huyết khối + (Anti-PLA2R [+] / K tạng đặc)                 | **Bệnh cầu thận màng (MN)**                   |
+| Người lớn `>40-50t` + HCTH rầm rộ + Tắc mạch/Huyết khối + (Anti-PLA2R [+] / K tạng đặc)                 | **Bệnh cầu thận màng (MN)**                   |
 | Người trẻ/trung niên + HCTH Không đơn thuần + Tăng HA + Tiểu máu + Creatinine tăng + Kháng Corticoid + Béo phì/HIV | **Xơ chai cầu thận khu trú từng vùng (FSGS)** |
-| Tiền căn Đái tháo đường \\[>5-10\text{ năm}\\] + Soi đáy mắt có Bệnh màng lưới ĐTĐ                                 | **Bệnh thận đái tháo đường (DN)**             |
+| Tiền căn Đái tháo đường `>5-10 năm` + Soi đáy mắt có Bệnh màng lưới ĐTĐ                                 | **Bệnh thận đái tháo đường (DN)**             |
 | HCTH + Nhuộm Đỏ Congo cho màu xanh táo dưới ánh sáng phân cực                                                      | **Bệnh Bột thận (Amyloidosis)**               |
 | HCTH + Màng đáy chẻ đôi (hình ảnh viền đôi / đường ray xe lửa)                                                     | **Viêm cầu thận tăng sinh màng (MPGN)**       |
 | Nữ trẻ tuổi + Tiêu chuẩn Lupus + IF có hình ảnh "Full house" / wire-loop                                           | **Bệnh thận Lupus (Lupus Nephritis)**         |

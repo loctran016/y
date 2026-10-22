@@ -17,9 +17,9 @@ Bạn sẽ ưu tiên đặt **Chẩn đoán sơ bộ là Lao màng bụng** (và
 
 Bạn sẽ ưu tiên đặt **Chẩn đoán sơ bộ là K màng bụng** (và Chẩn đoán phân biệt là Lao màng bụng) khi bệnh cảnh lâm sàng bộc lộ rõ tính chất rầm rộ của bệnh lý ác tính:
 
-- **Tuổi tác:** Bệnh nhân **lớn tuổi** (thường \(> 50 - 60\) tuổi).
+- **Tuổi tác:** Bệnh nhân **lớn tuổi** (thường `> 50 - 60` tuổi).
 - **Tốc độ tiến triển:** Báng bụng xuất hiện và **thành lập rất nhanh**, bụng to căng tức nhiều trong thời gian ngắn.
-- **Hội chứng suy mòn (Cachexia):** Bệnh nhân **sụt cân nhanh và nghiêm trọng** (ví dụ sụt \(> 5 - 10\text{ kg/tháng}\)), thể trạng suy kiệt.
+- **Hội chứng suy mòn (Cachexia):** Bệnh nhân **sụt cân nhanh và nghiêm trọng** (ví dụ sụt `> 5 - 10 kg/tháng`), thể trạng suy kiệt.
 - **Gợi ý Khối U nguyên phát:** Khai thác bệnh sử hoặc thăm khám ghi nhận dấu hiệu nghi ngờ ung thư nguyên phát di căn màng bụng (u dạ dày, u đại tràng, u buồng trứng, u tụy...).
 - **Tính chất dịch báng (nếu đã có kết quả chọc dò):** Dịch báng có màu **máu** (đỏ/hồng) hoặc dịch **dưỡng trấp**.
 
