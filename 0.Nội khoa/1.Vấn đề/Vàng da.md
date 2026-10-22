@@ -1,20 +1,22 @@
-Dưới đây là sơ đồ và quy trình **Tiếp cận chẩn đoán bệnh nhân Vàng da** được chuẩn hóa theo Giáo trình *Tiếp cận Chẩn đoán Bệnh Nội khoa* & *Triệu chứng học Nội khoa* – Đại học Y Dược TP.HCM (ĐHYD / YDS) [cite: 39, 58]:
+## Khai thác bệnh sử
 
----
+Vàng da có thể tính từ lúc nước tiểu sẫm màu (tr/c đầu tiên của vàng da tại/sau gan)
 
-### BƯỚC 1: XÁC NHẬN VÀNG DA THẬT SỰ (LOẠI TRỪ GIẢ VÀNG DA)
+### Xác nhận vàng da thực sự và loại trừ giả vàng da
 
-1. **Xác nhận Vàng da do tăng Bilirubin:**
+**Xác nhận Vàng da do tăng Bilirubin:**
    * **Vàng da (Jaundice / Icterus):** Là tình trạng nhuốm màu vàng ở da, niêm mạc (rõ nhất dưới lưỡi) và củng mạc mắt do **Bilirubin toàn phần trong máu tăng > 2,5 mg/dL** [cite: 39, 74].
-2. **Phân biệt với các trường hợp KHÔNG do tăng Bilirubin (Giả vàng da):**
-   * **Tăng Beta-carotene** (do ăn nhiều đu đủ, cà rốt, cà chua, củ cải đỏ): Vàng da ưu thế ở lòng bàn tay, bàn chân. **Đặc điểm chìa khóa: Củng mạc mắt và niêm mạc KHÔNG VÀNG** [cite: 42, 69].
-   * **Do thuốc** (Quinine, Chloroquine): Vàng da nhưng củng mạc mắt không vàng [cite: 39, 42].
-   * **Tiểu vàng sậm do cô đặc nước tiểu (thiếu nước):** *Foam test (-)* (lắc không nổi bọt vàng), uống đủ nước nước tiểu sẽ trong trở lại [cite: 68, 77].
-   * **Vàng kết mạc mắt đốm ở người hút thuốc lá lâu năm:** Chỉ vàng thành đốm khu trú ở kết mạc mắt, không vàng da toàn thân [cite: 77].
+
+Phân biệt với các trường hợp KHÔNG do tăng Bilirubin (Giả vàng da):
+  
+* **Tăng Beta-carotene** (do ăn nhiều đu đủ, cà rốt, cà chua, củ cải đỏ): Vàng da ưu thế ở lòng bàn tay, bàn chân. **Đặc điểm chìa khóa: Củng mạc mắt và niêm mạc KHÔNG VÀNG** [cite: 42, 69].
+* **Do thuốc** (Quinine, Chloroquine): Vàng da nhưng củng mạc mắt không vàng [cite: 39, 42].
+* **Tiểu vàng sậm do cô đặc nước tiểu (thiếu nước):** *Foam test (-)* (lắc không nổi bọt vàng), uống đủ nước nước tiểu sẽ trong trở lại [cite: 68, 77].
+* **Vàng kết mạc mắt đốm ở người hút thuốc lá lâu năm:** Chỉ vàng thành đốm khu trú ở kết mạc mắt, không vàng da toàn thân [cite: 77].
 
 ---
 
-### BƯỚC 2: TẦM SOÁT BIẾN CHỨNG CẤP TÍNH ĐE DOẠ TÍNH MẠNG (GHI NGAY VÀO PHẦN ĐẶT VẤN ĐỀ)
+### Tầm soát biến chứng cấp cứu
 
 Trước khi tìm nguyên nhân mạn tính, bắt buộc phải thăm khám và loại trừ 3 cấp cứu y khoa đe dọa tử vong [cite: 20, 65, 77]:
 
@@ -24,9 +26,9 @@ Trước khi tìm nguyên nhân mạn tính, bắt buộc phải thăm khám và
 
 ---
 
-### BƯỚC 3: PHÂN BIỆT VỊ TRÍ TỔN THƯƠNG & NGUYÊN NHÂN (CƠ CHẾ BỆNH SINH)
+### Vàng da trước gan, tại gan hay sau gan
 
-Theo YDS, nguyên nhân vàng da được chia thành 3 nhóm vị trí giải phẫu [cite: 40, 41, 79]:
+Nguyên nhân vàng da được chia thành 3 nhóm vị trí giải phẫu [cite: 40, 41, 79]:
 
 ```
                                     [ BỆNH NHÂN VÀNG DA ]
@@ -70,11 +72,9 @@ Theo YDS, nguyên nhân vàng da được chia thành 3 nhóm vị trí giải p
 
 ---
 
-### BƯỚC 4: ĐỀ NGHỊ CẬN LÂM SÀNG CHẨN ĐOÁN
+## ĐỀ NGHỊ CẬN LÂM SÀNG CHẨN ĐOÁN
 
-Theo phân cấp trong giáo trình YDS, đề nghị cận lâm sàng gồm 3 nhóm [cite: 45, 62, 78]:
-
-#### 1. Xét nghiệm Máu & Sinh hóa Chức năng Gan - Mật
+### 1. Xét nghiệm Máu & Sinh hóa Chức năng Gan - Mật
 * **Bilirubin toàn phần, trực tiếp, gián tiếp:** Phân loại nhóm tăng ưu thế [cite: 39, 78].
 * **Men gan Transaminase (AST, ALT):** Đánh giá hoại tử tế bào gan (tăng rất cao > 1000 U/L gặp trong viêm gan cấp do virus, thuốc hoặc thiếu máu cục bộ) [cite: 16, 17, 45].
 * **Enzyme ứ mật (ALP, GGT):** Tăng cao ưu thế (> 3–4 lần giới hạn bình thường) gặp trong Hội chứng tắc mật/ứ mật [cite: 45, 71].
@@ -82,10 +82,10 @@ Theo phân cấp trong giáo trình YDS, đề nghị cận lâm sàng gồm 3 n
 * **Tầm soát Tán huyết (nếu nghi trước gan):** Công thức máu, Mảnh vỡ hồng cầu, Coombs test, LDH, Haptoglobin, Hồng cầu lưới [cite: 45, 78].
 * **Tầm soát Nguyên nhân tại gan:** HBsAg, Anti-HCV, IgM anti-HAV, Ceruloplasmin (Wilson), ANA/Anti-dsDNA (Tự miễn) [cite: 45, 46].
 
-#### 2. Xét nghiệm Nước tiểu
+### 2. Xét nghiệm Nước tiểu
 * **Tổng phân tích nước tiểu (10TS):** Xác định sự có mặt của Bilirubin niệu (+) và Urobilinogen [cite: 63, 78].
 
-#### 3. Chẩn đoán Hình ảnh & Thăm dò Đường mật (Phương tiện quyết định cho Tắc mật)
+### 3. Chẩn đoán Hình ảnh & Thăm dò Đường mật (Phương tiện quyết định cho Tắc mật)
 * **Siêu âm bụng:** Phương tiện hình ảnh học đầu tay. Giúp xác định đường mật trong/ngoài gan có dãn không, tìm sỏi, u, dãn túi mật, nhu mô gan, lách to, báng bụng [cite: 46, 78, 82].
 * **CT-scan bụng có cản quang / MRCP (Cộng hưởng từ dựng hình đường mật):** Xác định chính xác vị trí, bản chất bế tắc (sỏi vs u) và mức độ xâm lấn [cite: 46, 78, 83].
 * **ERCP (Nội soi mật tụy ngược dòng) / EUS (Siêu âm qua nội soi):** Vừa chẩn đoán vừa kết hợp can thiệp lấy sỏi hoặc đặt stent thông mật [cite: 46, 47].
