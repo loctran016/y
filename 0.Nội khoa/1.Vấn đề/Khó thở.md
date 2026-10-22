@@ -152,6 +152,12 @@ Khó thở xảy ra khi có sự mất cân bằng giữa nhu cầu thông khí 
 
 :::
 
+## Tiếp cận khó thở
+
+Khó thở cấp/mạn
+
+=> xác suất khó thở
+
 ## Mức độ khó thở
 
 Thang điểm khó thở mMRC (modified Medical Research Council)
