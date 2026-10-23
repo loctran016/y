@@ -12,6 +12,8 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 8. **Triệu chứng đi kèm:** Vã mồ hôi hột, khó thở, hồi hộp, sốt, ho, ho ra máu, nôn/buồn nôn, ợ chua.
 9. **Tiền căn & Yếu tố nguy cơ:** Tăng huyết áp, Đái tháo đường, Hút thuốc lá, Rối loạn lipid máu, tiền căn nằm bất động/phẫu thuật, bệnh lý tim/phổi sẵn có.
 
+? Cấp hay mạn
+
 | Tiêu chí             | ĐAU NGỰC DO TIM                                                                                           | ĐAU NGỰC DO PHỔI                                                                                   |
 | :-—————— | :——————————————————————————————————— | :-———————————————————————————————— |
 | **Kiểu đau**         | Đè ép, siết chặt, nặng trĩu sau xương ức (Mạch vành) hoặc đau xé (Bóc tách ĐMC).                          | Đau nhói, sắc nét, khu trú 1 bên ngực, **tăng rõ khi hít sâu / ho (kiểu màng phổi)**.              |
