@@ -14,14 +14,15 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 
 ? Cấp hay mạn
 
-| Tiêu chí             | ĐAU NGỰC DO TIM                                                                                           | ĐAU NGỰC DO PHỔI                                                                                   |
-| :-—————— | :——————————————————————————————————— | :-———————————————————————————————— |
-| **Kiểu đau**         | Đè ép, siết chặt, nặng trĩu sau xương ức (Mạch vành) hoặc đau xé (Bóc tách ĐMC).                          | Đau nhói, sắc nét, khu trú 1 bên ngực, **tăng rõ khi hít sâu / ho (kiểu màng phổi)**.              |
-| **Hướng lan**        | Lan lên cổ, hàm dưới, vai, **mặt trong cánh tay trái** (ACS) hoặc lan thẳng ra sau lưng.                  | Thường **không lan**, khu trú tại vị trí màng phổi / nhu mô bị tổn thương.                         |
-| **Yếu tố tăng/giảm** | Tăng khi gắng sức/xúc động, giảm khi nghỉ/ngậm Nitroglycerin; hoặc giảm khi ngồi cúi ra trước (Viêm MNT). | **Tăng khi hít thở sâu, ho, hắt hơi, xoay trở lồng ngực**. Không đổi khi ngậm Nitroglycerin.       |
-| **Triệu chứng kèm**  | **Vã mồ hôi hột**, mệt lả, hồi hộp, ho đàm bọt hồng (suy tim), bất đồng mạch.                             | Khó thở, ho đàm mủ / ho ra máu, **sốt, lạnh run**, sưng đau 1 bên cẳng chân (DVT).                 |
-| **Khám tim**         | Tiếng T3/T4 gallop, âm thổi hở van 2 lá/chủ mới xuất hiện, **tiếng cọ màng ngoài tim**.                   | Nhịp tim nhanh thứ phát do thiếu oxy/sốt; tim thường **không nghe âm thổi bệnh lý mới**.           |
-| **Khám phổi**        | Phổi trong hoặc ran ẩm 2 đáy dâng cao (suy tim / phù phổi cấp do tim).                                    | **Ran nổ/ran ẩm khu trú, Hội chứng Đông đặc, Tam chứng Galliard (TKMP), Hội chứng 3 giảm (TDMP)**. |
+|     Tiêu chí     |                                              ĐAU NGỰC DO TIM                                              |                                        ĐAU NGỰC DO PHỔI                                        |
+|:-—————:|:———————————————————————————————————:|:-———————————————————————————————:|
+| Kiểu đau         | Đè ép, siết chặt, nặng trĩu sau xương ức (Mạch vành) hoặc đau xé (Bóc tách ĐMC).                          | Đau nhói, sắc nét, khu trú 1 bên ngực, tăng rõ khi hít sâu / ho (kiểu màng phổi).              |
+| Hướng lan        | Lan lên cổ, hàm dưới, vai, mặt trong cánh tay trái (ACS) hoặc lan thẳng ra sau lưng.                      | Thường không lan, khu trú tại vị trí màng phổi / nhu mô bị tổn thương.                         |
+| Yếu tố tăng/giảm | Tăng khi gắng sức/xúc động, giảm khi nghỉ/ngậm Nitroglycerin; hoặc giảm khi ngồi cúi ra trước (Viêm MNT). | Tăng khi hít thở sâu, ho, hắt hơi, xoay trở lồng ngực. Không đổi khi ngậm Nitroglycerin.       |
+| Triệu chứng kèm  | Vã mồ hôi hột, mệt lả, hồi hộp, ho đàm bọt hồng (suy tim), bất đồng mạch.                                 | Khó thở, ho đàm mủ / ho ra máu, sốt, lạnh run, sưng đau 1 bên cẳng chân (DVT).                 |
+| Khám tim         | Tiếng T3/T4 gallop, âm thổi hở van 2 lá/chủ mới xuất hiện, tiếng cọ màng ngoài tim.                       | Nhịp tim nhanh thứ phát do thiếu oxy/sốt; tim thường không nghe âm thổi bệnh lý mới.           |
+| Khám phổi        | Phổi trong hoặc ran ẩm 2 đáy dâng cao (suy tim / phù phổi cấp do tim).                                    | Ran nổ/ran ẩm khu trú, Hội chứng Đông đặc, Tam chứng Galliard (TKMP), Hội chứng 3 giảm (TDMP). |
+
 
 ## Đau ngực cấp cứu
 
