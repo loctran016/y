@@ -16,9 +16,7 @@ Sau khi khai thác đầy đủ **7 tính chất đau ngực** (Hoàn cảnh kh�
 
 Mỗi kiểu đau có **nghiệm pháp/kỹ thuật khám lâm sàng đặc thù** và **nhóm nguyên nhân gốc rễ** tương ứng như sau:
 
-—
-
-### Đau ngực kiểu Thiếu máu cục bộ cơ tim (Cơn đau thắt ngực)
+### Cơn đau thắt ngực ổn định/không ổn định
 * **Đặc điểm kiểu đau:** Đau kiểu **đè ép, siết chặt, bóp nghẹt, nặng ngực** sau xương ức hoặc ngực trái, lan lên cổ, hàm, vai và chạy dọc mặt trong cánh tay trái.
 * **Cách khám lâm sàng đặc thù:**
   * **Nghiệm pháp ấn thành ngực:** Dùng ngón tay ấn vào vùng ngực đau `→` **Không gây đau thêm (không có điểm đau khu trú)**.
