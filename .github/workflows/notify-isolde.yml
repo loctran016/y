@@ -1,0 +1,20 @@
+name: Notify Isolde
+
+on:
+  push:
+    branches: [main] # change to master if that's y's default branch
+    paths-ignore:
+      - '.obsidian/**'
+      - '.vscode/**'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Tell Isolde the notes changed
+        run: |
+          curl -fsS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.ISOLDE_DISPATCH_TOKEN }}" \
+            https://api.github.com/repos/loctran016/Isolde/dispatches \
+            -d '{"event_type":"content-updated"}'
