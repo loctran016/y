@@ -1,14 +1,19 @@
-### **CẨM NANG TIẾP CẬN CHẨN ĐOÁN THUYÊN TẮC PHỔI (PULMONARY EMBOLISM - PE)**
+## Bài báo
 
----
 
-### ĐẠI CƯƠNG & SINH LÝ BỆNH
+Tóm tắt
+Đặt vấn đề: Thuyên tắc phổi nguy cơ trung bình – cao chiếm tỉ lệ khá cao trong tổng số bệnh nhân thuyên tắc phổi nhập viện. Các bệnh nhân này cần được theo dõi sát sao vì có nhiều khả năng có các biến chứng liên quan tới thuyên tắc phổi và có thể cần lên thang công thức điều trị. Hiện dữ liệu tại Việt Nam mô tả về nhóm đối tượng này còn hạn chế. Mục tiêu: Mô tả đặc điểm lâm sàng và cận lâm sàng của các bệnh nhân thuyên tắc phổi nguy cơ trung bình – cao nhập viện. Đối tượng và phương pháp nghiên cứu: nghiên cứu cắt ngang mô tả, hồi cứu kết hợp tiến cứu, từ 01/01/2022 đến 30/05/2023, tại khoa Nội Tim mạch, Bệnh viện Chợ Rẫy. Kết quả: Chúng tôi thu nhận 75 trường hợp vào mẫu nghiên cứu với độ tuổi trung bình là 62,28 ± 17,28 tuổi, nữ giới chiếm đa số (64%). Béo phì chiếm tỉ lệ cao (28%) và cũng là yếu tố nguy cơ thường gặp nhất. Triệu chứng cơ năng chủ yếu là khó thở (84%) và mạch nhanh (74,66%) là triệu chứng thực thể được ghi nhận nhiều nhất. Điểm PESI trung bình là 105,76 ± 32,84 điểm. Hầu hết bệnh nhân đều có tăng troponin và NT-proBNP. Nhịp nhanh xoang (68%) là bất thường điện tâm đồ thường gặp nhất. Tất cả bệnh nhân đều có suy thất phải với TAPSE trung bình là 14,19 ± 2,73 mm. Huyết khối động mạch phổi chủ yếu phân bố tại nhánh chính (64,67%), 85,33% bệnh nhân có huyết khối lan tỏa hai bên. Huyết khối tĩnh mạch sâu chi dưới được ghi nhận ở 60% trường hợp. Gần 1/3 bệnh nhân có diễn tiến lâm sàng nặng hơn trong quá trình điều trị nội trú. Kết luận: Thuyên tắc phổi nguy cơ trung bình – cao chủ yếu gặp ở những bệnh nhân nữ, lớn tuổi. Béo phì có thể có liên quan với mức độ nặng của bệnh. Hầu hết trường hợp đều có đa dạng biểu hiện của suy thất phải trên các phương tiện cận lâm sàng. Một tỉ lệ khá cao các bệnh nhân có diễn tiến mất bù trong quá trình theo dõi. Việc hiểu rõ về đặc điểm lâm sàng và cận lâm sàng có thể giúp phân tầng nguy cơ chính xác hơn và có chiến lược điều trị phù hợp.
+                            
+  Bùi, H. M. K., Nguyễn, M. K., & Hoàng, V. S. (2023). ĐẶC ĐIỂM LÂM SÀNG VÀ CẬN LÂM SÀNG CỦA BỆNH NHÂN THUYÊN TẮC PHỔI NGUY CƠ TRUNG BÌNH – CAO. Tạp chí Y học Việt Nam, 530(1). https://doi.org/10.51298/vmj.v530i1.6643
+
+                        
+## ĐẠI CƯƠNG & SINH LÝ BỆNH
 
 **Thuyên tắc phổi (PE)** là tình trạng tắc nghẽn động mạch phổi hoặc các nhánh của nó, hầu hết (trên 90%) xuất phát từ huyết khối tĩnh mạch sâu (DVT) chi dưới hoặc vùng chậu di chuyển lên. Đây là một **cấp cứu nội khoa nguy hiểm**, có nguy cơ tử vong cao nếu không được chẩn đoán và xử trí kịp thời do gây suy thất phải cấp tính và rối loạn trao đổi khí nghiêm trọng.
 
 ---
 
-### KHAI THÁC BỆNH SỬ & YẾU TỐ NGUY CƠ (TAM CHỨNG VIRCHOW)
+## KHAI THÁC BỆNH SỬ & YẾU TỐ NGUY CƠ (TAM CHỨNG VIRCHOW)
 
 Cần chủ động khai thác các yếu tố nguy cơ thúc đẩy hình thành huyết khối:
 
@@ -23,16 +28,16 @@ Cần chủ động khai thác các yếu tố nguy cơ thúc đẩy hình thàn
 
 ---
 
-### TRIỆU CHỨNG LÂM SÀNG DIỂN HÌNH & DẤU HIỆU CỜ ĐỎ
+## TRIỆU CHỨNG LÂM SÀNG DIỂN HÌNH & DẤU HIỆU CỜ ĐỎ
 
-#### Triệu chứng cơ năng
+### Triệu chứng cơ năng
 
 - **Khó thở cấp tính:** Triệu chứng phổ biến nhất (xuất hiện ở `> 80%` bệnh nhân), thường xuất hiện đột ngột khi nghỉ ngơi hoặc khi gắng sức nhẹ mà không giải thích được.
 - **Đau ngực kiểu màng phổi:** Đau nhói một bên ngực, tăng lên rõ rệt khi hít sâu hoặc ho (do nhồi máu mô phổi ngoại biên).
 - **Ho ra máu:** Thường ho ra máu tươi lượng ít hoặc đờm lẫn máu (nằm trong tam chứng kinh điển: _Khó thở + Đau ngực màng phổi + Ho ra máu_).
 - **Ngất hoặc Tiền ngất:** Dấu hiệu cảnh báo **Thuyên tắc phổi diện rộng / Nguy cơ tử vong cao** do sụt giảm đột ngột cung lượng tim.
 
-#### Triệu chứng thực thể
+### Triệu chứng thực thể
 
 - **Hô hấp:** Thở nhanh (`> 20 - 30` lần/phút), tím tái niêm mạc, giảm `SpO₂`.
 - **Tim mạch:**
@@ -43,7 +48,7 @@ Cần chủ động khai thác các yếu tố nguy cơ thúc đẩy hình thàn
 
 ---
 
-### PHÂN TẦNG NGUY CƠ LÂM SÀNG (THANG ĐIỂM WELLS)
+## PHÂN TẦNG NGUY CƠ LÂM SÀNG (THANG ĐIỂM WELLS)
 
 Sử dụng **Thang điểm Wells cải tiến** để đánh giá xác suất lâm sàng mắc PE trước khi chỉ định cận lâm sàng:
 
@@ -63,7 +68,7 @@ Sử dụng **Thang điểm Wells cải tiến** để đánh giá xác suất l
 
 ---
 
-### CẬN LÂM SÀNG & QUY TRÌNH CHẨN ĐOÁN
+## CẬN LÂM SÀNG & QUY TRÌNH CHẨN ĐOÁN
 
 1. **Xét nghiệm D-Dimer (Độ nhạy cao, Giá trị tiên đoán âm rất cao):**
    - **Chỉ định:** Khi bệnh nhân thuộc nhóm **Ít khả năng mắc PE** (Wells `≤ 4 điểm`).
@@ -82,7 +87,7 @@ Sử dụng **Thang điểm Wells cải tiến** để đánh giá xác suất l
 
 ---
 
-### SƠ ĐỒ THUẬT TOÁN TIẾP CẬN CHẨN ĐOÁN (CHUẨN ESC / YDS)
+## SƠ ĐỒ THUẬT TOÁN TIẾP CẬN CHẨN ĐOÁN (CHUẨN ESC / YDS)
 
 ```
                         [ BỆNH NHÂN NGHI NGỜ THUYÊN TẮC PHỔI ]
@@ -108,7 +113,3 @@ Sử dụng **Thang điểm Wells cải tiến** để đánh giá xác suất l
                                                  v                 v                           [cite: 106, 121]
                                           [ Loại trừ PE ]   [ Chụp CTPA ] [cite: 105, 106]
 ```
-
----
-
-🫁 Bạn có muốn mình tạo một **Sơ đồ Tư duy (Mindmap)** hoặc **Sơ đồ tóm tắt dạng Báo cáo (Report)** về Thuyên tắc phổi để lưu lại ôn thi trạm Hô hấp - Tim mạch không?

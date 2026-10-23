@@ -118,6 +118,34 @@ Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ 
 
 ---
 
+## Yếu tố thúc đẩy
+
+**Đợt cấp suy tim mất bù**, việc chủ động tìm kiếm và loại trừ các **yếu tố thúc đẩy (triggering factors)** đóng vai trò quyết định giúp rút ngắn thời gian nằm viện và cải thiện tiên lượng.
+
+Nhóm nguyên nhân cấp tính nguy hiểm nhất cần được tầm soát ngay lập tức khi tiếp cận bệnh nhân suy tim cấp:
+
+1. **C** (*Coronary syndrome*) – **Hội chứng vành cấp:** Nhồi máu cơ tim cấp hoặc thiếu máu cục bộ cơ tim tiến triển [1].
+2. **H** (*Hypertension*) – **Cơn tăng huyết áp:** Tăng huyết áp cấp bách/nguy kịch làm tăng đột ngột gánh nặng hậu tải [1].
+3. **A** (*Arrhythmia*) – **Rối loạn nhịp:** Như rung nhĩ đáp ứng thất nhanh, nhịp nhanh thất [1].
+4. **M** (*Mechanical causes*) – **Biến chứng cơ học:** Đứt dây chằng/cơ nhú gây hở van 2 lá cấp, vỡ vách liên thất... [1]
+5. **P** (*Pulmonary embolism*) – **Thuyên tắc phổi:** Tắc nghẽn mạch máu phổi cấp tính [1].
+6. **I** (*Infection*) – **Nhiễm trùng:** Đặc biệt là nhiễm trùng đường hô hấp (viêm phổi, viêm phế quản cấp) hoặc nhiễm trùng huyết [1, 2].
+7. **T** (*Tamponade*) – **Chèn ép tim cấp:** Tích tụ dịch màng ngoài tim gây cản trở đổ đầy thất [1].
+
+—
+
+* **Không tuân thủ điều trị:** Tự ý ngưng hoặc giảm liều thuốc điều trị suy tim (đặc biệt là thuốc lợi tiểu, hạ áp), hoặc chế độ ăn không tuân thủ (ăn mặn, uống quá nhiều nước) [1, 2].
+* **Do thuốc hoặc độc chất:** Sử dụng các thuốc gây giữ muối/nước hoặc độc cho cơ tim (như NSAIDs, Corticoid, chống ung thư, hoặc lạm dụng rượu/bia) [1].
+
+Các rối loạn chuyển hóa & Bệnh lý hệ thống
+* **Thiếu máu cấp hoặc mạn tính nặng:** Làm giảm khả năng vận chuyển oxy, buộc tim phải tăng co bóp [2].
+* **Rối loạn chuyển hóa / Hormone:** Cường giáp (bão giáp), suy thận tiến triển gây quá tải thể tích, hoặc rối loạn điện giải [1, 2].
+* **Biến cố thần kinh - tâm thần:** Biến cố mạch máu não (đột quỵ), căng thẳng/stress tâm lý nặng làm tăng hoạt hệ giao cảm [1].
+* **Sinh lý / Ngoại khoa:** Thai kỳ [2], hoặc các biến chứng trong và sau phẫu thuật [1].
+* **Bệnh lý viêm nhiễm tiến triển:** Thấp tim tiến triển hoặc tái phát [1].
+
+## Nguyên nhân suy tim
+
 ## BỆNH CẢNH BÌNH THƯỜNG (ĐIỂN HÌNH)
 
 Ở người trưởng thành không có các yếu tố che lấp, suy tim biểu hiện qua các triệu chứng rầm rộ do tình trạng **sung huyết phổi - hệ thống** và **giảm cung lượng tim**:
@@ -320,3 +348,35 @@ BN khó thở liên tục, khởi phát từ từ, tăng dần kiểu hụt hơi
 
 * Chèn ép tim cấp: Không ghi nhận tam chứng Beck (BN không tụt huyết áp, JVP (-), khám không ghi nhận tiếng tim mờ)
   => Ít nghĩ nhưng không loại trừ. Đề nghị CLS: Siêu âm tim
+
+## Bệnh lý bẩm sinh thúc đẩy suy tim
+
+Trong bệnh lý **Thông liên thất (Ventricular Septal Defect - VSD)**, **SUY TIM TRÁI sẽ xuất hiện TRƯỚC**.
+
+—
+
+### CƠ CHẾ SINH LÝ BỆNH 
+
+1. **Luồng thông Trái \\(\rightarrow\\) Phải (Left-to-Right Shunt):** 
+   Trong thì tâm thu, do áp lực ở thất trái (khoảng \\(120\text{ mmHg}\\)) cao hơn rất nhiều so với thất phải (khoảng \\(25\text{ mmHg}\\)), máu từ thất trái sẽ phọt sang thất phải qua lỗ thông.
+
+2. **Quá tải thể tích Thất trái (Volume Overload):**
+   Lượng máu phụ thuộc luồng thông này được thất phải tống ngay lên động mạch phổi \\(\rightarrow\\) qua hệ mao mạch phổi \\(\rightarrow\\) rồi **đổ toàn bộ về Nhĩ trái và Thất trái**. 
+   * Như vậy, **thất trái bắt buộc phải tiếp nhận một thể tích máu lớn hơn bình thường** (gồm lưu lượng tuần hoàn hệ thống + lượng máu luồng thông quay trở lại).
+
+3. **Diễn tiến thành Suy tim trái trước:**
+   Do phải làm việc liên tục để bơm lượng máu tăng vọt này, **nhĩ trái và thất trái sẽ bị dãn, phì đại và dẫn đến suy tim trái trước** (với các biểu hiện sung huyết phổi, ho, khó thở).
+
+4. **Giai đoạn muộn \\(\rightarrow\\) Suy tim phải (Hội chứng Eisenmenger):**
+   Nếu lỗ thông lớn và không được can thiệp:
+   * Tình trạng tăng lưu lượng máu lên phổi kéo dài sẽ gây phản xạ co thắt và xơ hóa mạch máu phổi \\(\rightarrow\\) **Tăng áp lực động mạch phổi cố định**.
+   * Lúc này thất phải phải co bóp chống lại áp lực rất cao ở động mạch phổi \\(\rightarrow\\) Thất phải dãn, phì đại \\(\rightarrow\\) **Dẫn đến suy tim phải**.
+   * Khi áp lực thất phải vượt quá thất trái, luồng thông sẽ bị đảo ngược (Phải \\(\rightarrow\\) Trái) gây ra **Hội chứng Eisenmenger** (bệnh nhân bị tím tái).
+
+—
+
+| Bệnh lý bẩm sinh | Buồng tim bị quá tải thể tích ban đầu | Dạng suy tim xuất hiện trước |
+| :— | :— | :— |
+| **Thông liên thất (VSD)** | **Nhĩ trái & Thất trái** | **Suy tim TRÁI trước** |
+| **Thông liên nhĩ (ASD)** | **Nhĩ phải & Thất phải** | **Suy tim PHẢI trước** |
+| **Còn ống động mạch (PDA)** | **Nhĩ trái & Thất trái** | **Suy tim TRÁI trước** |
