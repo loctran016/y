@@ -15,13 +15,14 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 ? Cấp hay mạn
 
 | Tiêu chí | ĐAU NGỰC DO TIM | ĐAU NGỰC DO PHỔI |
-| :——-: | :-——: | :—-—: |
+| :-------: | :-------: | :-------: |
 | Kiểu đau | Đè ép, siết chặt, nặng trĩu sau xương ức (Mạch vành) hoặc đau xé (Bóc tách ĐMC). | Đau nhói, sắc nét, khu trú 1 bên ngực, tăng rõ khi hít sâu / ho (kiểu màng phổi). |
 | Hướng lan | Lan lên cổ, hàm dưới, vai, mặt trong cánh tay trái (ACS) hoặc lan thẳng ra sau lưng. | Thường không lan, khu trú tại vị trí màng phổi / nhu mô bị tổn thương. |
 | Yếu tố tăng/giảm | Tăng khi gắng sức/xúc động, giảm khi nghỉ/ngậm Nitroglycerin; hoặc giảm khi ngồi cúi ra trước (Viêm MNT). | Tăng khi hít thở sâu, ho, hắt hơi, xoay trở lồng ngực. Không đổi khi ngậm Nitroglycerin. |
 | Triệu chứng kèm | Vã mồ hôi hột, mệt lả, hồi hộp, ho đàm bọt hồng (suy tim), bất đồng mạch. | Khó thở, ho đàm mủ / ho ra máu, sốt, lạnh run, sưng đau 1 bên cẳng chân (DVT). |
 | Khám tim | Tiếng T3/T4 gallop, âm thổi hở van 2 lá/chủ mới xuất hiện, tiếng cọ màng ngoài tim. | Nhịp tim nhanh thứ phát do thiếu oxy/sốt; tim thường không nghe âm thổi bệnh lý mới. |
 | Khám phổi | Phổi trong hoặc ran ẩm 2 đáy dâng cao (suy tim / phù phổi cấp do tim). | Ran nổ/ran ẩm khu trú, Hội chứng Đông đặc, Tam chứng Galliard (TKMP), Hội chứng 3 giảm (TDMP). |
+
 
 ## Đau ngực cấp cứu
 
@@ -129,11 +130,12 @@ Khi màng phổi bị viêm, bề mặt màng phổi trở nên thô ráp. Thì 
 ### Nguyên nhân thường gặp
 
 | Nhóm nguyên nhân | Bệnh cảnh lâm sàng đặc trưng |
-| :— | :— |
+| :--- | :--- |
 | **1. Bệnh lý Nhu mô & Màng phổi** | • **Viêm phổi / Tràn dịch màng phổi cận viêm:** Đau ngực kiểu màng phổi kèm sốt cao, ho khạc đờm mủ, nghe phổi có ran nổ.<br>• **Tràn khí màng phổi tự phát:** Đau ngực kiểu màng phổi đột ngột một bên kèm khó thở cấp, nghe rì rào phế nang giảm/mất.<br>• **Lao màng phổi / Ung thư di căn màng phổi:** Đau ngực âm ỉ kéo dài, sốt về chiều, ho khan, sụt cân, khám có **Hội chứng 3 giảm**. |
 | **2. Bệnh lý Mạch máu phổi** | • **Thuyên tắc phổi (PE):** Đau ngực kiểu màng phổi **khởi phát đột ngột** kèm khó thở, thở nhanh, nhịp tim nhanh, ho ra máu, có yếu tố nguy cơ huyết khối (nằm lâu, hậu phẫu, DVT). |
 | **3. Bệnh lý Tim mạch** | • **Viêm màng ngoài tim cấp:** Đau nhói sau xương ức/ngực trái giống kiểu màng phổi, đặc điểm chìa khóa: **đau giảm rõ khi ngồi cúi người ra trước**. |
 | **4. Các nguyên nhân khác** | • **Bệnh tự miễn:** Lupus ban đỏ hệ thống (SLE), Viêm khớp dạng thấp gây tràn dịch/viêm đa màng.<br>• **Chấn thương lồng ngực / Viêm sụn sườn / Herpes Zoster:** Đau thành ngực, ấn có điểm đau khu trú nông trên xương sườn. |
+
 
 Cận lâm sàng chẩn đoán:
 
@@ -143,7 +145,8 @@ Cận lâm sàng chẩn đoán:
 
 ### Viêm màng ngoài tim cấp
 
--   **Đặc điểm kiểu đau:** Đau nhói sau xương ức hoặc ngực trái, lan lên vai trái (bờ cơ thang); đau tăng khi nằm ngửa hoặc hít sâu.
+Đau nhói sau xương ức hoặc ngực trái, lan lên vai trái (bờ cơ thang); đau tăng khi nằm ngửa hoặc hít sâu.
+
 -   **Cách khám lâm sàng đặc thù:**
     -   **Nghiệm pháp tư thế (Thay đổi tư thế nằm - ngồi):** Yêu cầu bệnh nhân **ngồi dậy và cúi gập người ra phía trước** `→` Quan sát và hỏi bệnh nhân: **cảm giác đau ngực sẽ giảm đi rõ rệt**.
     -   **Nghe tim:** Nghe tiếng **cọ màng ngoài tim** (tiếng thô ráp 2 hoặc 3 thì) rõ nhất ở bờ trái xương ức khi bệnh nhân ngồi cúi ra trước.
@@ -151,9 +154,11 @@ Cận lâm sàng chẩn đoán:
 
 ### Ung thư phổi / Màng phổi di căn (Lung Cancer / Mesothelioma)
 
--   **Bệnh sử:** Đau ngực **âm ỉ, dai dẳng kéo dài nhiều tuần đến nhiều tháng**, cường độ tăng dần. Ho kéo dài, ho ra máu rỉ rả, chán ăn, **sụt cân không rõ nguyên nhân**, sốt nhẹ về chiều.
--   **Tiền căn:** Hút thuốc lá nặng (nhiều gói-năm), tiếp xúc bụi chất độc hại.
--   **Khám thực thể:** Thể trạng suy kiệt, ngón tay dùi trống, **sờ thấy hạch thượng đòn** (hạch Virchow), hoặc có **Hội chứng 3 giảm** (Gõ đục, Rung thanh giảm, RRPA giảm) do Tràn dịch màng phổi cận ung.
+Đau ngực **âm ỉ, dai dẳng kéo dài nhiều tuần đến nhiều tháng**, cường độ tăng dần. Ho kéo dài, ho ra máu rỉ rả, chán ăn, **sụt cân không rõ nguyên nhân**, sốt nhẹ về chiều.
+
+**Tiền căn:** Hút thuốc lá nặng (nhiều gói-năm), tiếp xúc bụi chất độc hại.
+
+**Khám thực thể:** Thể trạng suy kiệt, ngón tay dùi trống, **sờ thấy hạch thượng đòn** (hạch Virchow), hoặc có **Hội chứng 3 giảm** (Gõ đục, Rung thanh giảm, RRPA giảm) do Tràn dịch màng phổi cận ung.
 
 ### Tràn khí màng phổi tự phát (Spontaneous Pneumothorax)
 
