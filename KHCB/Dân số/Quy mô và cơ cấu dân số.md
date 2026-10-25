@@ -149,7 +149,7 @@ Bài giảng gồm 2 phần chính :
 
 ---
 
-###4. Tỷ số giới tính**
+### 4. Tỷ số giới tính**
 
 - **Khái niệm:** Tỷ số giới tính (Sex Ratio - SR) là số nam tính trên 100 nữ:
   `SR = (Số nam)/(Số nữ) × 100`
