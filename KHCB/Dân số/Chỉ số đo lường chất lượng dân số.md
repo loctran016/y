@@ -104,7 +104,7 @@ HDI nhận giá trị từ 0 đến 1 (0 = không có phát triển nhân văn; 
 
 ## Chỉ Số Nghèo Đa Chiều (MPI)
 
-* Khái niệm: Thay vì chỉ dùng nghèo thu nhập, MPI đo lường các thiếu hụt chồng chéo mà cá nhân/hộ gia đình phải đối mặt ở 3 chiều cạnh [12, 16]:
+Khái niệm: Thay vì chỉ dùng nghèo thu nhập, MPI đo lường các thiếu hụt chồng chéo mà cá nhân/hộ gia đình phải đối mặt ở 3 chiều cạnh [12, 16]:
   1. Sức khỏe: Dinh dưỡng, Tử vong trẻ em [12].
   2. Giáo dục: Số năm đi học, Tỷ lệ trẻ em đi học [12].
   3. Tiêu chuẩn sống: Nhiên liệu nấu ăn, Hố xí/Vệ sinh, Nước sạch, Điện, Nhà ở, Tài sản [12].

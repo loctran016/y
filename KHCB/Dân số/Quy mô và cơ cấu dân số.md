@@ -1,7 +1,3 @@
-Giảng viên: ThS. Nguyễn Thị Thanh Trúc
-
----
-
 ## **Tóm tắt**
 
 Sau khi học xong bài này, học viên có khả năng :
@@ -24,25 +20,27 @@ Bài giảng gồm 2 phần chính :
 
 ---
 
-## Quy mô dân số**
+## Quy mô dân số
 
 ### **Quy mô**
 
-- **Khái niệm:** Quy mô dân số là tổng số dân của một vùng lãnh thổ tại một thời điểm cụ thể .
-- **Đặc điểm:** Là một đại lượng luôn thay đổi theo thời gian .
-- **Số liệu tham khảo:** Dân số thế giới đạt khoảng **7,6 tỷ người** (năm 2018), **7,7 tỷ người** (năm 2019) và **7,8 tỷ người** (năm 2020) .
+**Khái niệm:** Quy mô dân số là tổng số dân của một vùng lãnh thổ tại một thời điểm cụ thể .
+
+**Đặc điểm:** Là một đại lượng luôn thay đổi theo thời gian .
+
+**Số liệu tham khảo:** Dân số thế giới đạt khoảng **7,6 tỷ người** (năm 2018), **7,7 tỷ người** (năm 2019) và **7,8 tỷ người** (năm 2020) .
 
 ---
 
 ### **Phương trình cân bằng DS**
 
-- **Các yếu tố biến động dân số:** Dân số chịu ảnh hưởng của 4 yếu tố chính :
+**Các yếu tố biến động dân số:** Dân số chịu ảnh hưởng của 4 yếu tố chính :
   - **Sinh (B - Births)**: Số trẻ sinh sống .
   - **Tử (D - Deaths)**: Số người chết .
   - **Đến / Nhập cư (I - In-migrants)**: Số người chuyển đến .
   - **Đi / Xuất cư (E - Emigrants)**: Số người chuyển đi .
 
-- **Công thức:**
+**Công thức:**
   `P_t = P₀ + (B - D) + (I - E)`
 
   _Trong đó :_
@@ -51,8 +49,8 @@ Bài giảng gồm 2 phần chính :
   - `(B - D)`: **Tăng tự nhiên** (biến động tự nhiên) .
   - `(I - E)`: **Tăng cơ học** (biến động cơ học) .
 
-- **Vai trò của phương trình cân bằng dân số :**
-  1. **Ước lượng số dân :**
+**Vai trò của phương trình cân bằng dân số :**
+  1. **Ước lượng số dân:**
      - _Ví dụ:_ Nước A có dân số đầu năm 2014 là `7.000` người. Trong năm 2014 có `112` trẻ sinh ra, `80` người chết, và di cư làm tăng thêm `100` người. Dân số đầu năm 2015 là :
        `P₍₂₀₁₅₎ = 7000 + (112 - 80) + 100 = 7.132 người` .
   2. **Ước lượng di cư thuần (net migration) :**
@@ -64,8 +62,9 @@ Bài giảng gồm 2 phần chính :
 
 ### **Tốc độ gia tăng DS**
 
-- **Dân số đóng (bỏ qua biến động di cư):** Phương trình rút gọn thành `P_t = P₀ + (B - D)` .
-- **Mô hình tăng trưởng theo hàm số mũ (exponential growth):**
+**Dân số đóng (bỏ qua biến động di cư):** Phương trình rút gọn thành `P_t = P₀ + (B - D)` .
+
+**Mô hình tăng trưởng theo hàm số mũ (exponential growth):**
   `P_t = P₀ · e^rt`
 
   _Trong đó :_
@@ -73,42 +72,50 @@ Bài giảng gồm 2 phần chính :
   - `r`: Tốc độ gia tăng dân số hằng năm (đơn vị: %) .
   - `t`: Khoảng thời gian từ `P₀` đến `P_t` .
 
-- **Công thức tính tốc độ gia tăng dân số (`r`) :**
+**Công thức tính tốc độ gia tăng dân số (`r`) :**
   `r = (\ln P_t - \ln P₀)/t = 1/t \ln(P_t/P₀)`
-- **Ý nghĩa:** Tốc độ gia tăng dân số dùng để phản ánh mức độ thay đổi quy mô dân số theo thời gian .
+
+**Ý nghĩa:** Tốc độ gia tăng dân số dùng để phản ánh mức độ thay đổi quy mô dân số theo thời gian .
 
 ---
 
-## Cơ cấu dân số theo tuổi và giới**
+## Cơ cấu dân số theo tuổi và giới
 
-###1. Tháp dân số**
+### Tháp dân số
 
-- **Khái niệm:** Tháp dân số (tháp tuổi) là biểu đồ dân số được biểu diễn theo nhóm tuổi và giới tính (trục tung ghi tuổi/khoảng tuổi, trục hoành bên trái biểu diễn Nam, bên phải biểu diễn Nữ). Tháp phản ánh hình ảnh tổng quát của dân số hiện hành .
-- **Sự chuyển dịch cấu trúc dân số (Demographic transition):** Được thể hiện qua 3 dạng tháp tuổi chính :
+**Khái niệm:** Tháp dân số (tháp tuổi) là biểu đồ dân số được biểu diễn theo nhóm tuổi và giới tính (trục tung ghi tuổi/khoảng tuổi, trục hoành bên trái biểu diễn Nam, bên phải biểu diễn Nữ). Tháp phản ánh hình ảnh tổng quát của dân số hiện hành .
+
+**Sự chuyển dịch cấu trúc dân số (Demographic transition):** Được thể hiện qua 3 dạng tháp tuổi chính :
 
 #### **Tháp tuổi tiến biến** (Dân số trẻ)
 
-- **Đặc điểm:** Đáy tháp rộng nhất (mức sinh cao), thu hẹp dần lên đỉnh .
-- **Tính chất:** Tỷ số phụ thuộc trẻ cao, tuổi thọ trung bình sắp tới thấp .
-- **Vấn đề dân số:** Cần thực hiện chính sách kế hoạch hóa gia đình để giảm sinh .
+**Đặc điểm:** Đáy tháp rộng nhất (mức sinh cao), thu hẹp dần lên đỉnh .
+
+**Tính chất:** Tỷ số phụ thuộc trẻ cao, tuổi thọ trung bình sắp tới thấp .
+
+**Vấn đề dân số:** Cần thực hiện chính sách kế hoạch hóa gia đình để giảm sinh .
 
 #### **Tháp tuổi tĩnh biến** (Dân số vàng)
 
-- **Đặc điểm:** Hình ảnh dân số ổn định, phần bụng giữa (độ tuổi lao động 15–59 tuổi) phình to nhất .
-- **Tính chất:** Mức sinh và mức tử thấp và ít thay đổi; tuổi thọ trung bình sắp tới cao; tỷ số phụ thuộc chung thấp .
-- **Vấn đề dân số:** Nâng cao chất lượng dân số (sàng lọc trước sinh, khám sức khỏe tiền hôn nhân) và khai thác tốt lực lượng lao động .
+**Đặc điểm:** Hình ảnh dân số ổn định, phần bụng giữa (độ tuổi lao động 15–59 tuổi) phình to nhất .
+
+**Tính chất:** Mức sinh và mức tử thấp và ít thay đổi; tuổi thọ trung bình sắp tới cao; tỷ số phụ thuộc chung thấp .
+
+**Vấn đề dân số:** Nâng cao chất lượng dân số (sàng lọc trước sinh, khám sức khỏe tiền hôn nhân) và khai thác tốt lực lượng lao động .
 
 #### **Tháp tuổi thoái biến** (Dân số già)
 
-- **Đặc điểm:** Đáy tháp nhỏ dần, đỉnh tháp phình to [6, 8].
-- **Tính chất:** Tỷ số phụ thuộc già cao, phản ánh dân số già .
-- **Vấn đề dân số:** Già hóa dân số, chất lượng cuộc sống người cao tuổi, nguy cơ thiếu hụt lao động trong tương lai, chính sách khuyến khích sinh .
+**Đặc điểm:** Đáy tháp nhỏ dần, đỉnh tháp phình to [6, 8].
+
+**Tính chất:** Tỷ số phụ thuộc già cao, phản ánh dân số già .
+
+**Vấn đề dân số:** Già hóa dân số, chất lượng cuộc sống người cao tuổi, nguy cơ thiếu hụt lao động trong tương lai, chính sách khuyến khích sinh .
 
 ---
 
-###2. Tỷ số phụ thuộc**
+### Tỷ số phụ thuộc
 
-- **Công thức tính :**
+**Công thức tính :**
   - **Tỷ số phụ thuộc chung (TSPT chung):**
     `TSPT_(chung) = \fracP_<15 + P_≥ 65P₁₅₋₆₄ × 100`
   - **Tỷ số phụ thuộc trẻ (TSPT trẻ):**
@@ -117,7 +124,7 @@ Bài giảng gồm 2 phần chính :
     `TSPT_(già) = \fracP_≥ 65P₁₅₋₆₄ × 100`
     _(Trong đó `P_15-64` là dân số độ tuổi lao động )._
 
-- **Phân biệt thuật ngữ :**
+**Phân biệt thuật ngữ :**
   - **Tỷ lệ (`A/B` với `A \in B`):** Có cùng đơn vị hoặc tính theo tỷ lệ %.
   - **Tỷ số (`A/B` với `A \notin B`):** Không có đơn vị.
 - **Ý nghĩa:** TSPT chung `= 100` có nghĩa là 1 người trong độ tuổi lao động phải gánh `1` người phụ thuộc . TSPT chung giảm sẽ làm giảm gánh nặng xã hội .
@@ -125,7 +132,7 @@ Bài giảng gồm 2 phần chính :
 
 ---
 
-###3. Tỷ lệ người cao tuổi** [9, 10]
+### Tỷ lệ người cao tuổi** [9, 10]
 
 ### **Phân loại của Thế giới (Cowgill & Holmes, 1970)** _(tính % người `≥ 65` tuổi)_ [9, 10]:
 
@@ -149,10 +156,11 @@ Bài giảng gồm 2 phần chính :
 
 ---
 
-### 4. Tỷ số giới tính**
+### 4. Tỷ số giới tính
 
-- **Khái niệm:** Tỷ số giới tính (Sex Ratio - SR) là số nam tính trên 100 nữ:
+**Khái niệm:** Tỷ số giới tính (Sex Ratio - SR) là số nam tính trên 100 nữ:
   `SR = (Số nam)/(Số nữ) × 100`
-- **Đặc điểm:** Tỷ số giới tính thay đổi theo nhóm tuổi. Tỷ số giới tính khi sinh (SRB) chuẩn sinh học tự nhiên thường rơi vào khoảng **105 đến 106 nam / 100 nữ**.
+
+**Đặc điểm:** Tỷ số giới tính thay đổi theo nhóm tuổi. Tỷ số giới tính khi sinh (SRB) chuẩn sinh học tự nhiên thường rơi vào khoảng **105 đến 106 nam / 100 nữ**.
 
 ---
