@@ -1,17 +1,12 @@
 
-## **PHẦN I: ĐO LƯỜNG MỨC SINH (FERTILITY MEASUREMENT)**
+## Mức sinh (Fertility measurement)**
 
-### **1. Các Khái Niệm Cơ Bản**
 * **Sinh sống (Live birth)**: Hiện tượng cho ra đời một thai nhi có đầy đủ các dấu hiệu của sự sống [1].
 * **Độ tuổi sinh đẻ ở phụ nữ**: Khoảng thời gian từ khi bắt đầu cho đến khi kết thúc khả năng sinh đẻ [1]:
   * **Giới hạn dưới**: **15 tuổi** [1].
   * **Giới hạn trên**: **49 tuổi** (hoặc một số nghiên cứu quy ước là **44 tuổi**) [1].
 
----
-
-### **2. Các Chỉ Số Đo Lường Mức Sinh**
-
-#### **a. Tỷ suất sinh thô (Crude Birth Rate - CBR)**
+### **Tỷ suất sinh thô (Crude Birth Rate - CBR)**
 * **Khái niệm**: Số trường hợp sinh sống trong năm tính bình quân cho 1.000 dân [1].
 * **Công thức**:
   \\[\text{CBR} = \frac{B_0}{P} \times 1.000\quad (\text{đơn vị: }\text{‰})\\]
@@ -19,21 +14,21 @@
   * \\(P\\): Dân số trung bình trong năm [1].
 * **Lưu ý đặc biệt**: CBR bị ảnh hưởng rất mạnh bởi **cơ cấu tuổi** của dân số [1]. Do đó, khi so sánh CBR giữa các vùng hoặc các thời kỳ khác nhau thì bắt buộc phải tiến hành chuẩn hóa cơ cấu tuổi [1].
 
-#### **b. Tỷ suất sinh chung (General Fertility Rate - GFR)**
+### **Tỷ suất sinh chung (General Fertility Rate - GFR)**
 * **Khái niệm**: Số trường hợp sinh sống trong năm tính bình quân cho một phụ nữ trong độ tuổi sinh đẻ (15–49 tuổi) [2, 3].
 * **Công thức**:
   \\[\text{GFR} = \frac{B_0}{P_w} \times 1.000\quad (\text{đơn vị: }\text{‰})\\]
   * \\(B_0\\): Số trẻ sinh sống trong năm [3].
   * \\(P_w\\): Số phụ nữ trong độ tuổi sinh đẻ (15–49 tuổi) trung bình trong năm [3].
 
-#### **c. Tỷ suất sinh đặc hiệu theo tuổi (Age Specific Fertility Rate - ASFR)**
+### **Tỷ suất sinh đặc hiệu theo tuổi (Age Specific Fertility Rate - ASFR)**
 * **Khái niệm**: Số trường hợp sinh sống do phụ nữ ở tuổi \\(x\\) (hoặc nhóm tuổi \\(x\\)) sinh ra trong năm so với số phụ nữ ở tuổi \\(x\\) trong năm đó [3].
 * **Công thức**:
   \\[\text{ASFR}_x = \frac{B_x}{P_{wx}}\quad (\text{hoặc nhân với } 1.000\text{ phụ nữ})\\]
   * \\(B_x\\): Số trẻ sinh sống của phụ nữ ở tuổi \\(x\\) trong năm [3].
   * \\(P_{wx}\\): Số phụ nữ ở tuổi \\(x\\) trung bình trong năm [3].
 
-#### **d. Tổng tỷ suất sinh (Total Fertility Rate - TFR)**
+### **Tổng tỷ suất sinh (Total Fertility Rate - TFR)**
 * **Khái niệm**: Số con trung bình mà một phụ nữ có khả năng sinh ra trong suốt thời kỳ sinh đẻ (từ 15 đến 49 tuổi) nếu cô ta tuân theo các tỷ suất sinh đặc hiệu theo tuổi (\\(\text{ASFR}\\)) của năm nghiên cứu và giả định mức sinh không thay đổi [4, 5].
 * **Công thức tính**:
   * **Tính theo từng độ tuổi đơn lẻ** (từ 15 đến 49 tuổi):
@@ -53,9 +48,9 @@
 
 ---
 
-## **PHẦN II: ĐO LƯỜNG MỨC CHẾT (MORTALITY MEASUREMENT)**
+## MỨC CHẾT (MORTALITY MEASUREMENT)
 
-### **1. Tỷ Suất Chết Thô (Crude Death Rate - CDR)**
+### 1. Tỷ Suất Chết Thô (Crude Death Rate - CDR)
 * **Khái niệm**: Số trường hợp tử vong tính bình quân cho 1.000 dân trong năm [7].
 * **Công thức**:
   \\[\text{CDR} = \frac{D_0}{P} \times 1.000\quad (\text{đơn vị: }\text{‰})\\]
@@ -65,7 +60,7 @@
 
 ---
 
-### **2. Tỷ Suất Chết Đặc Trưng Theo Tuổi (Age Specific Death Rate - ASDR)**
+### 2. Tỷ Suất Chết Đặc Trưng Theo Tuổi (Age Specific Death Rate - ASDR)
 * **Khái niệm**: Số người chết ở độ tuổi \\(x\\) trong năm so với 1.000 dân ở độ tuổi \\(x\\) trung bình trong năm đó [7, 8].
 * **Công thức**:
   \\[\text{ASDR}_x = \frac{d_x}{P_x} \times 1.000\quad (\text{đơn vị: }\text{‰})\\]
@@ -77,9 +72,9 @@
 
 ---
 
-### **3. Các Chỉ Số Tử Vong Trẻ Em**
+### 3. Các Chỉ Số Tử Vong Trẻ Em
 
-#### **a. Tỷ suất chết trẻ em dưới 1 tuổi (Infant Mortality Rate - IMR)**
+#### **Tỷ suất chết trẻ em dưới 1 tuổi (Infant Mortality Rate - IMR)**
 * **Khái niệm**: Số trẻ em dưới 1 tuổi (\\(< 1\\) tuổi) bị chết trong năm so với 1.000 trẻ sinh sống trong năm đó [9].
 * **Công thức**:
   \\[\text{IMR} = \frac{D_0}{B_0} \times 1.000\quad (\text{đơn vị: }\text{‰})\\]
@@ -93,7 +88,7 @@
   * **Chết chu sinh (Perinatal mortality)**: Bao gồm chết thai nhi (tuần 20–28) và chết sơ sinh sớm (7 ngày đầu) [9].
   * **Chết sơ sinh (Neonatal mortality)**: Trẻ tử vong trong **28 ngày đầu** kể từ khi sinh [9].
 
-#### **b. Tỷ suất chết nhi đồng / Trẻ em dưới 5 tuổi (Under-five Mortality Rate - U5MR)**
+#### **Tỷ suất chết nhi đồng / Trẻ em dưới 5 tuổi (Under-five Mortality Rate - U5MR)**
 * **Khái niệm**: Số trẻ em dưới 5 tuổi (\\(< 5\\) tuổi) chết trong năm so với 1.000 trẻ sinh sống trong năm đó [9, 10].
 * **Công thức**:
   \\[\text{U5MR} = \frac{D_{U5}}{B_0} \times 1.000\quad (\text{đơn vị: }\text{‰})\\]
@@ -102,7 +97,7 @@
 
 ---
 
-### **4. Tử Vong Mẹ (Maternal Mortality)**
+### **Tử Vong Mẹ (Maternal Mortality)**
 * **Định nghĩa ca tử vong mẹ**: Là người phụ nữ bị tử vong trong giai đoạn mang thai hoặc trong vòng **42 ngày sau khi kết thúc thai kỳ**, ngoại trừ các nguyên nhân do tai nạn và tự tử [10, 11].
 * **Tỷ số tử vong mẹ (Maternal Mortality Ratio - MMR)**:
   * **Khái niệm**: Số trường hợp tử vong mẹ trong năm tính trên **100.000 trẻ sinh sống** trong năm đó [10, 11].
@@ -113,14 +108,10 @@
 
 ---
 
-### **5. Tuổi Thọ và Triển Vọng Sống (\\(e_0\\))**
+### **Tuổi Thọ và Triển Vọng Sống (\\(e_0\\))**
 * **Triển vọng sống**: Số năm trung bình mà một thế hệ có khả năng sống thêm nếu thế hệ đó tuân theo mức chết hiện hành [11].
 * **Tuổi thọ từ lúc sinh (\\(e_0\\))**: Số năm trung bình mà một đứa trẻ mới sinh có khả năng sống thêm nếu thế hệ của đứa trẻ đó tuân theo mức chết hiện hành [11]. Đây là thước đo tổng hợp quan trọng nhất đánh giá sức khỏe và sự phát triển của cộng đồng [11].
 * **Công thức ước tính đơn giản** [12, 13]:
   \\[e_0 = 0,5 + \frac{P_1 + P_2 + P_3 + \dots + P_n}{P_0}\\]
   * \\(P_0\\): Dân số mới sinh [12].
   * \\(P_1, P_2, \dots, P_n\\): Số người còn sống ở các độ tuổi 1 năm, 2 năm,... cho đến độ tuổi \\(n\\) (\\(P_n = 0\\)) [12].
-
----
-
-💡 Bạn có muốn tôi bổ sung thêm một số bài tập tính toán nhanh cho phần **CBR, TFR, IMR và MMR** này để ôn tập trọn vẹn cả 3 bài học không?

@@ -21,7 +21,7 @@
 6. Thói quen - Dị ứng [cite: 37]: Hút thuốc lá, uống rượu bia, chế độ ăn mặn (thói quen ăn muối), stress [cite: 37]
 7. Gia đình [cite: 41]: Tiền căn gia đình có bệnh tim mạch sớm, Tăng huyết áp, Đột quỵ, bệnh thận mạn... [cite: 41]
 
-—
+—--
 
 ## II. ĐAU NGỰC
 
@@ -51,7 +51,7 @@
 5. Thói quen - Dị ứng [cite: 37]: Hút thuốc lá (gói-năm), uống rượu bia, căng thẳng/stress, thuốc đang dùng (kháng đông, kháng tiểu cầu, NSAIDs...) [cite: 37]
 6. Gia đình [cite: 41]: Bệnh lý mạch vành sớm, đột tử do tim [cite: 41]
 
-—
+—--
 
 ## III. KHÓ THỞ
 
@@ -81,7 +81,7 @@
 6. Thói quen - Dị ứng [cite: 37]: Hút thuốc lá (tính số gói-năm), tiếp xúc bụi nghề nghiệp/hóa chất, dị ứng thời tiết/thức ăn [cite: 37]
 7. Gia đình [cite: 41]: Hen phế quản, bệnh lý dị ứng, lao phổi, bệnh tim mạch [cite: 41]
 
-—
+—--
 
 ## IV. SỐT
 
@@ -112,7 +112,7 @@
 6. Thói quen - Dị ứng [cite: 37]: Tiêm ngừa/tiêm vắc-xin, dị ứng thuốc, tiếp xúc độc chất
 7. Gia đình [cite: 41]: Tiền căn lao, ung thư, bệnh lý truyền nhiễm [cite: 41]
 
-—
+—--
 
 ## V. HO RA MÁU
 
@@ -145,7 +145,7 @@
 6. Thói quen - Dị ứng [cite: 37]: Hút thuốc lá (tính gói-năm), ăn cua/ốc sống (sán lá phổi Paragonimus)
 7. Gia đình [cite: 41]: Lao phổi, ung thư phổi, bệnh lý rối loạn đông máu [cite: 41]
 
-—
+—--
 
 ## VI. TIỂU ÍT
 
@@ -179,7 +179,7 @@
 6. Thói quen - Dị ứng [cite: 57]: Hút thuốc lá, uống rượu bia, dị ứng thuốc, tiếp xúc độc chất (kim loại nặng, mật gấu, mật cá, ong đốt, rắn cắn) [cite: 57]
 7. Gia đình [cite: 41, 60]: Bệnh thận mạn, bệnh thận đa nang, hội chứng Alport, bệnh tim mạch [cite: 41, 60]
 
-—
+—--
 
 ## VII. TIỂU MÁU
 
@@ -211,7 +211,7 @@
 6. Thói quen - Dị ứng [cite: 53]: Hút thuốc lá (yếu tố nguy cơ u bàng quang/thận), uống rượu bia, thuốc đang dùng (kháng đông, NSAIDs) [cite: 53]
 7. Gia đình [cite: 54]: Tiền căn lao, ung thư, hội chứng Goodpasture, hội chứng Alport, bệnh thận màng đáy mỏng, thận đa nang [cite: 54]
 
-—
+—--
 
 ## VIII. PHÙ
 
@@ -243,7 +243,7 @@
 6. Thói quen - Dị ứng [cite: 60]: Hút thuốc lá, uống rượu bia, chế độ ăn, dị ứng, tiếp xúc độc chất: mật gấu, ong đốt, rắn cắn [cite: 60]
 7. Gia đình [cite: 60]: Lao, ung thư, bệnh tim mạch, bệnh thận (bệnh thận mạn, bệnh thận IgA, hội chứng Alport, thận đa nang...) [cite: 60]
 
-—
+—--
 
 ## IX. XUẤT HUYẾT TIÊU HÓA (XHTH)
 
@@ -270,7 +270,7 @@
 6. Thói quen - Dị ứng [cite: 40]: Hút thuốc lá, uống rượu bia (tính lượng g cồn/ngày, số năm), stress cuộc sống [cite: 40]
 7. Gia đình [cite: 41]: Lao, ung thư tiêu hóa, viêm gan B/C, xơ gan [cite: 41]
 
-—
+—--
 
 ## X. BỤNG TO (BÁNG BỤNG)
 
@@ -307,7 +307,7 @@
 7. Thói quen - Dị ứng [cite: 46]: Hút thuốc lá [cite: 46], uống rượu bia (tính lượng g cồn/ngày, số năm) [cite: 46], chế độ ăn mặn/thiếu đạm [cite: 46], lối sống.
 8. Gia đình [cite: 46]: Bệnh gan mật (viêm gan B/C, xơ gan) [cite: 46], bệnh thận [cite: 46], lao, ung thư [cite: 46].
 
-—
+—--
 
 ## XI. VÀNG DA
 
@@ -339,7 +339,3 @@
 6. Sản khoa (ở nữ) [cite: 50]: Tiền căn PARA, thai kỳ (vàng da ứ mật thai kỳ) [cite: 50].
 7. Thói quen - Dị ứng [cite: 50]: Hút thuốc lá, uống rượu bia (tính g cồn/ngày, số năm).
 8. Gia đình [cite: 50]: Bệnh gan mật (viêm gan B/C, xơ gan) [cite: 50], bệnh lý huyết học (thiếu máu tán huyết, bệnh Wilson, tăng Bilirubin bẩm sinh: Gilbert, Crigler-Najjar) [cite: 50], ung thư, lao [cite: 50].
-
-—
-
-🫁 Bạn có muốn thảo luận về cách ứng dụng các bảng kiểm này để tóm tắt bệnh án hay lập danh sách Đặt vấn đề cho một ca lâm sàng cụ thể không?
