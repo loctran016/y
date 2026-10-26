@@ -1,4 +1,4 @@
-## I. TĂNG HUYẾT ÁP (TĂNG HA)
+## Tăng huyết áp
 
 1. Xác nhận BN có tăng HA [cite: 24]:
    * Trị số HA đo được lần này / hôm nay [cite: 24]
@@ -23,7 +23,7 @@
 
 ---
 
-## II. ĐAU NGỰC
+## Đau ngực
 
 1. Hỏi 7 tính chất đau ngực:
    * Hoàn cảnh khởi phát: Đột ngột / từ từ? Khi nghỉ ngơi hay khi gắng sức? Sau xúc động mạnh? Sau ăn?
@@ -53,7 +53,7 @@
 
 ---
 
-## III. KHÓ THỞ
+## Khó thở
 
 1. Xác nhận BN có thực sự khó thở:
    * Cảm giác thiếu không khí, ngộp thở, hụt hơi, thở không sâu [cite: 61]
@@ -83,7 +83,7 @@
 
 ---
 
-## IV. SỐT
+## Sốt
 
 1. Xác định có thực sự là sốt không [cite: 25]:
    * Có đo nhiệt độ bằng nhiệt kế không [cite: 26]? (Nhiệt độ bao nhiêu? Đo ở vị trí nào: nách, miệng, hậu môn, tai) [cite: 26]
@@ -114,7 +114,7 @@
 
 ---
 
-## V. HO RA MÁU
+## Ho ra máu
 
 1. Xác nhận có thực sự ho ra máu không [cite: 31, 34]:
    * Phân biệt nôn ra máu: Máu xuất hiện sau cơn ho hay sau khi ói [cite: 31, 34]?
@@ -147,7 +147,7 @@
 
 ---
 
-## VI. TIỂU ÍT
+## Tiểu ít / vô niệu
 
 1. Xác định bệnh nhân có thực sự tiểu ít / vô niệu [cite: 55]:
    * Hoàn cảnh khởi phát & Thời gian: Xuất hiện đột ngột hay từ từ [cite: 55]? Cách đây bao lâu [cite: 55]?
@@ -181,7 +181,7 @@
 
 ---
 
-## VII. TIỂU MÁU
+## Tiểu máu
 
 1. Xác nhận có thực sự là tiểu máu không [cite: 51]:
    * Loại trừ do thực phẩm: Có sử dụng thực phẩm màu đỏ (củ cải đường, củ cải đỏ, mâm xôi, việt quất, thực phẩm phẩm màu) [cite: 51]?
@@ -213,7 +213,7 @@
 
 ---
 
-## VIII. PHÙ
+## Phù
 
 1. BN có thực sự phù [cite: 58]:
    * Nặng mi mắt [cite: 58]
@@ -245,7 +245,7 @@
 
 ---
 
-## IX. XUẤT HUYẾT TIÊU HÓA (XHTH)
+## XHTH
 
 1. Xác nhận sự hiện diện thực sự của XHTH [cite: 34, 84]:
    * Nôn ra máu: Phân biệt với ho ra máu (ngứa họng, ho khạc, máu có bọt) [cite: 34, 84], chảy máu hầu họng/mũi miệng chảy xuống rồi ói ra [cite: 34, 84], nôn ra thực phẩm màu đỏ (tiết canh, dưa hấu, xí muội) [cite: 34, 84].
@@ -272,7 +272,7 @@
 
 ---
 
-## X. BỤNG TO (BÁNG BỤNG)
+## Bụng to
 
 1. Xác nhận có thật sự là báng bụng không (Loại trừ 6F) [cite: 43]:
    * Béo phì (Fat): Bụng đã to sẵn từ trước chưa [cite: 43]?
@@ -309,7 +309,7 @@
 
 ---
 
-## XI. VÀNG DA
+## Vàng da
 
 1. Xác nhận có thật sự vàng da do tăng Bilirubin không [cite: 47]:
    * Có thấy vàng da [cite: 47]? Vàng mắt (củng mạc mắt) [cite: 47]?
