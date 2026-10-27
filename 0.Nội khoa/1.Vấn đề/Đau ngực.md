@@ -186,6 +186,21 @@ Chẩn đoán:
 
 ### Không thiếu máu cơ tim - (Đau ngực kiểu MP)
 
+#### Viêm màng ngoài tim cấp (Acute Pericarditis)
+
+Đau sau xương ức / ngực trái, đau nhói hoặc đau ngực kiểu màng phổi , lan lên *vai trái (bờ cơ thang)*. Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho, **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
+
+**Tiền căn:** biến chứng sau NMCT hay có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
+
+Khám thực thể: giai đoạn đầu có **Tiếng cọ màng ngoài tim (Pericardial friction rub)** ở bờ trái xương ức (tiếng thô ráp xuất hiện ở cả thì tâm thu và tâm trương, nghe rõ nhất khi bệnh nhân ngồi cúi ra trước và nín thở), giai đoạn sau có tam chứng Beck chèn ép tim cấp.
+
+Khám thực thể:
+
+- **Nghiệm pháp tư thế (Thay đổi tư thế nằm - ngồi):** Yêu cầu bệnh nhân **ngồi dậy và cúi gập người ra phía trước** `→` Quan sát và hỏi bệnh nhân: **cảm giác đau ngực sẽ giảm đi rõ rệt**.
+- tiếng **cọ màng ngoài tim** (tiếng thô ráp 2 hoặc 3 thì) rõ nhất ở bờ trái xương ức khi bệnh nhân ngồi cúi ra trước.
+
+**Nguyên nhân:** Viêm màng ngoài tim cấp do nhiễm siêu vi/vi khuẩn, bệnh tự miễn (Lupus, RA), tăng ure máu, hoặc sau nhồi máu cơ tim (Hội chứng Dressler).
+
 ## Đau ngực không do tim
 
 ### Mạch máu
@@ -220,23 +235,7 @@ Thuyên tắc phổi:
 | **3. Bệnh lý Tim mạch** | • **Viêm màng ngoài tim cấp:** Đau nhói sau xương ức/ngực trái giống kiểu màng phổi, đặc điểm chìa khóa: **đau giảm rõ khi ngồi cúi người ra trước**. |
 | **4. Các nguyên nhân khác** | • **Bệnh tự miễn:** Lupus ban đỏ hệ thống (SLE), Viêm khớp dạng thấp gây tràn dịch/viêm đa màng.<br>• **Chấn thương lồng ngực / Viêm sụn sườn / Herpes Zoster:** Đau thành ngực, ấn có điểm đau khu trú nông trên xương sườn. |
 
-
-### Viêm màng ngoài tim cấp (Acute Pericarditis)
-
-Đau sau xương ức / ngực trái, đau nhói hoặc đau ngực kiểu màng phổi , lan lên *vai trái (bờ cơ thang)*. Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho, **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
-
-**Tiền căn:** biến chứng sau NMCT hay có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
-
-Khám thực thể: giai đoạn đầu có **Tiếng cọ màng ngoài tim (Pericardial friction rub)** ở bờ trái xương ức (tiếng thô ráp xuất hiện ở cả thì tâm thu và tâm trương, nghe rõ nhất khi bệnh nhân ngồi cúi ra trước và nín thở), giai đoạn sau có tam chứng Beck chèn ép tim cấp.
-
-Khám thực thể:
-
-- **Nghiệm pháp tư thế (Thay đổi tư thế nằm - ngồi):** Yêu cầu bệnh nhân **ngồi dậy và cúi gập người ra phía trước** `→` Quan sát và hỏi bệnh nhân: **cảm giác đau ngực sẽ giảm đi rõ rệt**.
-- tiếng **cọ màng ngoài tim** (tiếng thô ráp 2 hoặc 3 thì) rõ nhất ở bờ trái xương ức khi bệnh nhân ngồi cúi ra trước.
-
-**Nguyên nhân:** Viêm màng ngoài tim cấp do nhiễm siêu vi/vi khuẩn, bệnh tự miễn (Lupus, RA), tăng ure máu, hoặc sau nhồi máu cơ tim (Hội chứng Dressler).
-
-### Ung thư phổi / Màng phổi di căn (Lung Cancer / Mesothelioma)
+#### Ung thư phổi / Màng phổi di căn (Lung Cancer / Mesothelioma)
 
 Đau ngực **âm ỉ, dai dẳng kéo dài nhiều tuần đến nhiều tháng**, cường độ tăng dần. Ho kéo dài, ho ra máu rỉ rả, chán ăn, **sụt cân không rõ nguyên nhân**, sốt nhẹ về chiều.
 
@@ -244,7 +243,7 @@ Khám thực thể:
 
 **Khám thực thể:** Thể trạng suy kiệt, ngón tay dùi trống, **sờ thấy hạch thượng đòn** (hạch Virchow), hoặc có **Hội chứng 3 giảm** (Gõ đục, Rung thanh giảm, RRPA giảm) do Tràn dịch màng phổi cận ung.
 
-### Tràn khí màng phổi tự phát (Spontaneous Pneumothorax)
+#### Tràn khí màng phổi tự phát (Spontaneous Pneumothorax)
 
 Đau ngực **đột ngột một bên ngực**, tính chất đau nhói sắc nét, **tăng lên rõ rệt khi hít sâu hoặc ho**, đi kèm **Khó thở đột ngột**.
 
@@ -256,7 +255,7 @@ Khám thực thể:
     3. **Rì rào phế nang giảm hoặc mất hẳn** bên tổn thương.
     4. **Rung thanh giảm** bên tổn thương. _(Nếu TKMP áp lực: Khí quản và mỏm tim bị đẩy lệch sang bên đối diện, tụt huyết áp)_.
 
-## Đau ngực do nguyên nhân Tiêu hóa (Trào ngược / Co thắt thực quản / Loét dạ dày)
+### Đau ngực do nguyên nhân Tiêu hóa (Trào ngược / Co thắt thực quản / Loét dạ dày)
 
 Đau kiểu **nóng rát (heartburn)**, đè nặng sau xương ức hoặc vùng thượng vị; liên quan rõ đến bữa ăn (sau khi ăn no), nằm ngửa, uống rượu/bia; kèm ợ hơi, ợ chua.
 
@@ -267,7 +266,7 @@ Khám lâm sàng có thể thấy:
 
 **Nguyên nhân gợi ý:** Bệnh trào ngược dạ dày - thực quản (GERD), Co thắt thực quản, Loét dạ dày - tá tràng, Viêm túi mật / Sỏi mật, Viêm tụy cấp.
 
-## Đau Thành ngực (Cơ - Xương - Thần kinh thành ngực)
+### Đau Thành ngực (Cơ - Xương - Thần kinh thành ngực)
 
 Đau nhói, khu trú nông tại một điểm trên thành ngực; **tăng khi cử động lồng ngực, xoay trở tư thế, ho hoặc hít thở**.
 
@@ -277,7 +276,7 @@ Khám lâm sàng có thể thấy:
 
 Nguyên nhân: Viêm sụn sườn (Hội chứng Tietze), Chấn thương / Đau cơ liên sườn, Viêm thần kinh gian sườn do Herpes Zoster.
 
-## Đau ngực do Nguyên nhân Tâm lý (Rối loạn lo âu / Cơn hoảng sợ)
+### Đau ngực do Nguyên nhân Tâm lý (Rối loạn lo âu / Cơn hoảng sợ)
 
 **Đặc điểm kiểu đau:** Đau ê ẩm vùng mỏm tim hoặc sau xương ức kéo dài nhiều giờ, hoặc thỉnh thoảng nhói lên 1-2 giây; thường gặp ở người trẻ khi căng thẳng, stress.
 
