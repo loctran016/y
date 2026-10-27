@@ -1,8 +1,4 @@
-Theo Giáo trình **"Tiếp cận chẩn đoán bệnh Nội khoa"** và bảng kiểm kỹ năng hỏi bệnh (Đại học Y Dược TP.HCM), quy trình tiếp cận chẩn đoán một bệnh nhân **Phù** được chuẩn hóa qua 5 bước logic sau:
-
----
-
-### KHÁI NIỆM & CƠ CHẾ SINH LÝ BỆNH (LỰC STARLING)
+## KHÁI NIỆM & CƠ CHẾ SINH LÝ BỆNH (LỰC STARLING)
 
 Phù là tình trạng **tăng thể tích dịch mô kẽ**. Sự di chuyển dịch giữa lòng mạch và mô kẽ được chi phối bởi **4 lực Starling**:
 

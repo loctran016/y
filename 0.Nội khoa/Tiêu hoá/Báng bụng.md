@@ -1,8 +1,6 @@
-## ĐẠI CƯƠNG & XÁC ĐỊNH BỤNG TO (Loại trừ các nguyên nhân 6F / 5F)
+## Tiếp cận lâm sàng
 
-Khi tiếp cận bệnh nhân đến khám vì **bụng to ra**, nhiệm vụ đầu tiên của bác sĩ lâm sàng là xác định bụng to này là do **Dịch tự do trong khoang màng bụng (Báng bụng / Cổ trướng)** hay do các nguyên nhân khác gây phồng bụng.
-
-Bảng nhớ nhanh các nguyên nhân gây Bụng to (Quy tắc **6F**):
+6 nguyên nhân gây Bụng to (Quy tắc **6F**):
 
 1. **Fat (Béo phì / Mỡ thành bụng & Mạc treo):** Bụng to tròn đều, rốn lõm sâu, tiền căn tăng cân kéo dài, da bụng dày.
 2. **Fluid (Báng bụng - Dịch màng bụng):** Dịch tự do tích tụ trong khoang màng bụng (Bụng bè 2 bên khi nằm, rốn phẳng/lồi).
@@ -13,11 +11,7 @@ Bảng nhớ nhanh các nguyên nhân gây Bụng to (Quy tắc **6F**):
    - **U nang buồng trứng lớn / U tạng:** Khối u chiếm ổ bụng đẩy rốn lồi, **gõ đục vùng trung tâm (thượng vị/hạ vị) và gõ vang ở hai bên hông** (ngược lại hoàn toàn với báng bụng tự do).
    - **Cầu bàng quang:** Bụng to phồng vùng hạ vị, ấn đau tức, **gõ đục hình đường cong giới hạn trên lồi hướng về phía rốn**, biến mất hoàn toàn sau khi đặt xông tiểu.
 
----
-
-## KHÁM LÂM SÀNG BÁNG BỤNG & PHÂN ĐỘ MỨC ĐỘ
-
-### Dấu hiệu lâm sàng đặc trưng của Báng bụng tự do
+### Dấu hiệu lâm sàng của Báng bụng tự do
 
 - **Tư thế nằm ngửa:** Bụng bệnh nhân **bè ra hai bên** (bụng hoa súng), da bụng căng, rốn phẳng hoặc lồi.
 - **Quy luật gõ:** Vùng chướng hơi của các quai ruột nổi lên tập trung ở **phần trên/trung tâm**, vùng dịch lắng xuống gây **Gõ đục vùng thấp** (hai bên hông và hạ vị).
@@ -34,12 +28,41 @@ Bảng nhớ nhanh các nguyên nhân gây Bụng to (Quy tắc **6F**):
 - **Độ 3 (Lượng nhiều):** Bụng căng to tròn, da bụng bóng, lằn rốn lồi. Bệnh nhân có thể khó thở do dịch chèn ép cơ hoành, có thoát vị rốn/bẹn. Khám thấy **Gõ đục khắp bụng** và **Dấu hiệu sóng vỗ (+)**.
 - **Báng bụng khu trú (Cổ trướng khu trú):** Dịch bị giới hạn bởi các dính màng bụng (thường do Lao màng bụng, Ung thư màng bụng). Khám thấy **Gõ đục chỗ trong xen kẽ (Gõ đục bàn cờ)**, vùng đục **không di chuyển** khi thay đổi tư thế.
 
----
+### Đặt vấn đề
 
-## BẢNG TIẾP CẬN BỆNH SỬ & TIỀN CĂN BỤNG TO (Theo Bảng kiểm YDS)
+- Báng bụng đơn thuần.
+- Hội chứng nhiễm trùng (sốt, môi khô, lưỡi dơ).
+- Hội chứng nhiễm lao chung (sốt về chiều, chán ăn, sụt cần, đổ mồ hôi trộm, suy sụp tổng trạng).
+Hội chứng bán tắc ruột (không đi tiêu, không trung tiện, chướng bụng, đi đuợc khi thụt tháo).
+- Hội chứng suy tế bào gan (sao mạch, lòng bàn tay son, báng bụng, phù chân…).
+- Hội chứng tăng áp cửa (lách to, báng bụng, tuần hoàn bàng hệ cửa chủ…).
 
-Khi hỏi bệnh sử và tiền căn bệnh nhân bụng to, cần tuân thủ theo 3 nhóm câu hỏi chuẩn hóa:
+### Các nguyên nhân gây báng bụng
 
+Tại màng bụng:
+- Viêm phúc mạc nhiễm khuẩn nguyên phát.
+- Lao màng bụng.
+- K màng bụng.
+
+Ngoài màng bụng:
+- Suy tim (P)
+- HCTH
+- Suy dinh dưỡng
+- Xơ gan
+- Hội chứng Demond Meigs: TDMP, báng bụng đơn thuần, u nang buồn trứng.
+ 
+### Câu chẩn đoán
+
+Báng bụng độ I/II/III (đa phần là trung bình, nhiều nếu có dấu sóng vỗ), do (xơ gan, lao màng bụng, ung thư màng bụng), biến chứng (viêm phúc mạc nhiễm khuẩn nguyên phát)/bệnh nền.
+
+Ví dụ:
+- Báng bụng lượng trung bình, do xơ gan, biến chứng viêm phúc mạc nhiễm khuẩn nguyên phát.
+Báng bụng lượng trung bình, do lao màng bụng, biến chứng viêm phúc mạc nhiễm khuẩn nguyên phát. (lưu ý
+đến hội chứng nhiễm lao chung)
+- Báng bụng lượng trung bình, do ung thư màng bụng nguyên phát (di căn), biến chứng viêm phúc mạc nhiễm
+khuẩn nguyên phát. (lưu ý với hội chứng cận ung – đã viết ở phần XHTH).
+
+## BẢNG TIẾP CẬN BỆNH SỬ & TIỀN CĂN BỤNG TO
 | Bước khai thác                              | Nội dung chi tiết cần hỏi                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Mục đích định hướng                                          |
 | :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------- |
 | **Step 1: Xác nhận & Phân biệt 6F**         | • Bụng to ra từ bao giờ? Diễn tiến từ từ hay đột ngột?<br>• Có thay đổi cân nặng không? Quần áo có bị chật vùng hông/bụng không?<br>• Có tắt kinh (thai), táo bón kéo dài (ứ phân), xì hơi được không (trướng hơi), hay có thấy khối u ở bụng?<br>• Có tiểu khó, bí tiểu không (cầu bàng quang)?                                                                                                                                                                                            | Xác nhận thực sự có báng bụng hay thuộc nhóm 5F còn lại.     |
@@ -48,7 +71,7 @@ Khi hỏi bệnh sử và tiền căn bệnh nhân bụng to, cần tuân thủ 
 
 ---
 
-## TIẾP CẬN CHẨN ĐOÁN NGUYÊN NHÂN QUA CHỌC DỊCH BÁNG (THANG ĐIỂM SAAG)
+## Chẩn đoán nguyên nhân báng bụng thông qua chọc dò dịch báng
 
 Chọc dò dịch báng là thủ thuật quan trọng nhất tại giường để phân loại và tìm nguyên nhân gây báng bụng.
 

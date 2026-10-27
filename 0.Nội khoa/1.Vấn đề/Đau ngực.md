@@ -1,4 +1,6 @@
-## Tiếp cận lâm sàng đau ngực 
+## Tiếp cận lâm sàng đau ngực
+
+### Bệnh sử 
 
 Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai thác đủ **7 tính chất**:
 
@@ -28,64 +30,67 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 
 ### Bóc tách động mạch chủ (Đau xé rách)
 
-Đau khởi phát **đột ngột, dữ dội đạt đỉnh ngay từ giây đầu tiên**; kiểu đau **”như xé”, “như đâm”**, lan từ trước ngực xuyên ra sau lưng (vùng giữa 2 xương báng vai) hoặc lan xuống bụng.
+Đau khởi phát **đột ngột, dữ dội đạt đỉnh ngay từ giây đầu tiên**; kiểu đau *”như xé”, “như đâm”*, lan từ trước ngực xuyên ra sau lưng giữa 2 xương bả vai hoặc lan xuống bụng.
 
-> **Nguyên nhân:** Phình bóc tách động mạch chủ ngực cấp tính.
+Khám có thể thấy:
 
-Khám thực thể:
-
-- **Bất đồng huyết áp và mạch giữa 2 tay** (chênh lệch Huyết áp tâm thu `> 20 mmHg` giữa tay trái và tay phải) hoặc mất mạch ngoại biên.
-- **Bắt mạch đối chiếu:** Bắt song song mạch cảnh, mạch quay, mạch đùi 2 bên để tìm **dấu hiệu mất mạch hoặc mạch bắt bất cân đối**.
+- **Bất đồng huyết áp và mạch giữa 2 tay** (chênh lệch HA tâm thu `> 20 mmHg` giữa tay trái và tay phải) hoặc mất mạch ngoại biên (Bắt song song mạch cảnh, mạch quay, mạch đùi 2 bên).
 - **Âm thổi tâm trương mới tại đáy tim** (do hở van động mạch chủ cấp).
 - Có thể kèm dấu hiệu thần kinh khu trú (yếu/liệt chi do thiếu máu tủy/não).
 
-**Nguyên nhân:** Phình bóc tách động mạch chủ ngực cấp tính.
-
 **Tiền căn:** **Tăng huyết áp nặng không kiểm soát**, Hội chứng Marfan, van động mạch chủ 2 lá van.
-
----
 
 ### Hội chứng Mạch vành cấp / Thiếu máu cục bộ Cơ tim (ACS / Ischemic Heart Disease)
 
-_(Bao gồm: Nhồi máu cơ tim cấp, Cơn đau thắt ngực không ổn định / ổn định)_
+_Bao gồm: Nhồi máu cơ tim cấp, Cơn đau thắt ngực không ổn định / ổn định_
 
-**Vị trí & Lan:** Đau sau xương ức hoặc vùng trước tim, **lan lên cổ, hàm dưới, vai hoặc dọc mặt trong cánh tay trái** (đến ngón 4–5).
+Đau sau xương ức hoặc vùng trước tim, **lan lên cổ, hàm dưới, vai hoặc dọc mặt trong cánh tay trái** (đến ngón 4–5). Đau kiểu **đè ép, siết chặt, nặng trĩu** (“như có tảng đá đè lên ngực”).
 
--   **Kiểu đau:** Cảm giác **đè ép, siết chặt, nặng trĩu** (“như có tảng đá đè lên ngực”).
-    -   **Hoàn cảnh & Kéo dài:** Khởi phát khi gắng sức, xúc động mạnh hoặc đột ngột lúc nghỉ; kéo dài **> 20 phút** (đối với Hội chứng vành cấp) hoặc **< 15 phút** và giảm khi nghỉ ngơi / ngậm Nitroglycerin (đối với Cơn đau thắt ngực mạn).
+**Hoàn cảnh & Kéo dài:** Khởi phát khi gắng sức, xúc động mạnh hoặc đột ngột lúc nghỉ; kéo dài **> 20 phút** (đối với Hội chứng vành cấp) hoặc **< 15 phút** và giảm khi nghỉ ngơi / ngậm Nitroglycerin (đối với Cơn đau thắt ngực mạn).
 
-**Triệu chứng kèm:** **Vã mồ hôi hột, khó thở, mệt lả, hồi hộp, buồn nôn/nôn** (do kích thích giao cảm/phế vị).
+Triệu chứng kèm theo: **Vã mồ hôi hột, khó thở, mệt lả, hồi hộp, buồn nôn/nôn** (do kích thích giao cảm/phế vị).
 
-**Tiền căn nguy cơ cao:** Nam `> 45` tuổi, Nữ `> 55` tuổi, **hút thuốc lá nhiều (gói-năm), Tăng huyết áp, Đái tháo đường, Rối loạn lipid máu, béo phì**.
+Tiền căn nguy cơ cao: Nam `> 45` tuổi, Nữ `> 55` tuổi, **hút thuốc lá nhiều (gói-năm), Tăng huyết áp, Đái tháo đường, Rối loạn lipid máu, béo phì**.
 
-**Khăm thực thể:** - Bệnh nhân bứt rứt, lo âu, mặt tái nhợt, vã mồ hôi, chi lạnh. - Nghe tim: Có thể nghe tiếng **T3, T4 Gallop**, **Âm thổi tâm thu mới xuất hiện tại mỏm** (do hở van 2 lá cấp do đứt/suy cơ nhú) hoặc tiếng cọ màng ngoài tim thứ phát. - Khám phổi: Có thể nghe **ran ẩm rải rác 2 đáy phổi** nếu có biến chứng suy tim cấp / sung huyết phổi.
+**Khám thực thể:** 
+- Bệnh nhân bứt rứt, lo âu, mặt tái nhợt, vã mồ hôi, chi lạnh. 
+- Nghe tim: Có thể nghe tiếng **T3, T4 Gallop**, **Âm thổi tâm thu mới xuất hiện tại mỏm** (do hở van 2 lá cấp do đứt/suy cơ nhú) hoặc tiếng cọ màng ngoài tim thứ phát. 
+- Khám phổi: Có thể nghe **ran ẩm rải rác 2 đáy phổi** nếu có biến chứng suy tim cấp / sung huyết phổi.
 
 ### Thuyên tắc phổi cấp (Pulmonary Embolism - PE)
 
-Khởi phát **đột ngột** đau ngực **kiểu màng phổi** (đau nhói tăng khi hít sâu/ho, thường đau một bên ngực) hoặc đau đè ép sau xương ức (nếu thuyên tắc nhánh lớn diện rộng).
-        -   Đi kèm **Khó thở đột ngột không giải thích được**, ho ra máu tươi, hồi hộp, ngất/tiền ngất.
+Khởi phát **đột ngột** đau ngực **kiểu màng phổi** hoặc đau đè ép sau xương ức (nếu thuyên tắc nhánh lớn diện rộng).
+ - Đi kèm **Khó thở đột ngột không giải thích được**, ho ra máu tươi, hồi hộp, ngất/tiền ngất.
 
  **Tiền căn / Yếu tố nguy cơ (Thang điểm Well):** Nằm bất động `> 3` ngày, mới phẫu thuật/chấn thương trong 4 tuần qua, ung thư tiến triển, dùng thuốc tránh thai/hormone, hoặc có tiền căn **Huyết khối tĩnh mạch sâu chi dưới (DVT)**.
     -   **Khám thực thể:**
         -   **Thở nhanh (`> 20` lần/phút), Nhịp tim nhanh (`> 100` lần/phút)**, tím tái, tụt huyết áp (thuyên tắc diện rộng).
         -   Khám chi dưới: Phát hiện **Dấu hiệu Huyết khối tĩnh mạch sâu** (sưng, đau, nóng, đỏ bất cân đối ở 1 bên cẳng chân/đùi).
 
+### Chèn ép tim cấp
+
+Tụt huyết áp, tĩnh mạch cảnh nổi, tiếng tim mờ (tam chứng Beck)
+
 ## Cơn đau thắt ngực ổn định / không ổn định
 
 Đau kiểu **đè ép, siết chặt, bóp nghẹt, nặng ngực** sau xương ức hoặc ngực trái, lan lên cổ, hàm, vai và chạy dọc mặt trong cánh tay trái.
 
-Cách khám lâm sàng đặc thù:
+Khám lâm sàng tìm kiếm:
 
--   **Nghiệm pháp ấn thành ngực:** Dùng ngón tay ấn vào vùng ngực đau `→` **Không gây đau thêm (không có điểm đau khu trú)**.
--   tiếng **T3, T4 (tiếng ngựa phi/gallop)** hoặc âm thổi tâm thu mới xuất hiện do hở van hai lá cấp (biến chứng đứt/dãn cơ nhú).
--   **ran ẩm / ran nổ ở đáy phổi** để phát hiện biến chứng suy tim cấp hoặc sung huyết phổi.
--   **Phản ứng giao cảm:** Bệnh nhân lo âu, bứt rứt, da tái nhợt, vã mồ hôi hột, nhịp tim nhanh.
+- **Nghiệm pháp ấn thành ngực:** Dùng ngón tay ấn vào vùng ngực đau `→` **Không gây đau thêm (không có điểm đau khu trú)**.
+- tiếng **T3, T4 (tiếng ngựa phi/gallop)** hoặc âm thổi tâm thu mới xuất hiện do hở van hai lá cấp (biến chứng đứt/dãn cơ nhú).
+- **ran ẩm / ran nổ ở đáy phổi** để phát hiện biến chứng suy tim cấp hoặc sung huyết phổi.
+- **Phản ứng giao cảm:** Bệnh nhân lo âu, bứt rứt, da tái nhợt, vã mồ hôi hột, nhịp tim nhanh.
 
-**Nguyên nhân:**
+Nguyên nhân:
 
--   **Hội chứng mạch vành cấp:** Nhồi máu cơ tim cấp (có/không ST chênh lên), Cơn đau thắt ngực không ổn định.
--   **Hội chứng mạch vành mạn:** Cơn đau thắt ngực ổn định.
--   **Khác:** Co thắt mạch vành (Prinzmetal), Bệnh vi mạch vành.
+- **Hội chứng mạch vành cấp:** Nhồi máu cơ tim cấp (có/không ST chênh lên), Cơn đau thắt ngực không ổn định.
+- **Hội chứng mạch vành mạn:** Cơn đau thắt ngực ổn định.
+- **Khác:** Co thắt mạch vành (Prinzmetal), Bệnh vi mạch vành.
+
+Chẩn đoán:
+- Cơn đau thắt ngực ổn định, CCS (I/II/III), YTNC tim mạch.
+- Hội chứng vành cấp giờ thứ, biến chứng (rối loạn nhịp, suy tim cấp, thủng van), ytnc tim mạch
 
 ## Đau ngực kiểu màng phổi
 
@@ -142,14 +147,11 @@ Cận lâm sàng chẩn đoán:
 
 ### Viêm màng ngoài tim cấp (Acute Pericarditis)
 
-Đau nhói sắc nét hoặc đè ép sau xương ức / ngực trái, lan lên vai trái (bờ cơ thang).
+Đau sau xương ức / ngực trái, đau nhói hoặc đau ngực kiểu màng phổi , lan lên *vai trái (bờ cơ thang)*. Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho, **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
 
-- **Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho**
-- **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
+**Tiền căn:** biến chứng sau NMCT hay có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
 
-**Tiền căn:** Có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
-
-Khám thực thể: **Tiếng cọ màng ngoài tim (Pericardial friction rub)** ở bờ trái xương ức (tiếng thô ráp xuất hiện ở cả thì tâm thu và tâm trương, nghe rõ nhất khi bệnh nhân ngồi cúi ra trước và nín thở).
+Khám thực thể: giai đoạn đầu có **Tiếng cọ màng ngoài tim (Pericardial friction rub)** ở bờ trái xương ức (tiếng thô ráp xuất hiện ở cả thì tâm thu và tâm trương, nghe rõ nhất khi bệnh nhân ngồi cúi ra trước và nín thở), giai đoạn sau có tam chứng Beck chèn ép tim cấp.
 
 Khám thực thể:
 
@@ -170,8 +172,9 @@ Khám thực thể:
 
 Đau ngực **đột ngột một bên ngực**, tính chất đau nhói sắc nét, **tăng lên rõ rệt khi hít sâu hoặc ho**, đi kèm **Khó thở đột ngột**.
 
--   **Cơ địa:** Thường gặp ở nam giới trẻ, thể trạng cao gầy (nguyên phát); hoặc bệnh nhân COPD, Lao phổi cũ, xơ phổi (thứ phát).
--   **Khám thực thể (Tam chứng Galliard một bên phổi):**
+**Cơ địa:** Thường gặp ở nam giới trẻ, thể trạng cao gầy (nguyên phát); hoặc bệnh nhân COPD, Lao phổi cũ, xơ phổi (thứ phát).
+
+**Khám thực thể (Tam chứng Galliard một bên phổi):**
     1. Lồng ngực bên tổn thương di động kém, khoang liên sườn giãn rộng.
     2. **Gõ vang trống** bên tổn thương.
     3. **Rì rào phế nang giảm hoặc mất hẳn** bên tổn thương.
@@ -179,31 +182,31 @@ Khám thực thể:
 
 ## Đau ngực do nguyên nhân Tiêu hóa (Trào ngược / Co thắt thực quản / Loét dạ dày)
 
-**Đặc điểm kiểu đau:** Đau kiểu **nóng rát (heartburn)**, đè nặng sau xương ức hoặc vùng thượng vị; liên quan rõ đến bữa ăn (sau khi ăn no), nằm ngửa, uống rượu/bia; kèm ợ hơi, ợ chua.
+Đau kiểu **nóng rát (heartburn)**, đè nặng sau xương ức hoặc vùng thượng vị; liên quan rõ đến bữa ăn (sau khi ăn no), nằm ngửa, uống rượu/bia; kèm ợ hơi, ợ chua.
 
-**Cách khám lâm sàng đặc thù:**
+Khám lâm sàng có thể thấy:
 
--   **Ấn chẩn thượng vị:** Ấn sâu vùng thượng vị có điểm đau tức nhẹ; ấn thành ngực không đau.
--   **Đánh giá phản ứng với thuốc/thức ăn:** Đau giảm nhanh sau khi uống thuốc trung hòa acid (Antacid) hoặc sau khi ăn nhẹ; đau giảm sau ngậm Nitroglycerin nếu có kèm co thắt thực quản.
+- **Ấn chẩn thượng vị:** Ấn sâu vùng thượng vị có điểm đau tức nhẹ; ấn thành ngực không đau.
+- **Đánh giá phản ứng với thuốc/thức ăn:** Đau giảm nhanh sau khi uống thuốc trung hòa acid (Antacid) hoặc sau khi ăn nhẹ; đau giảm sau ngậm Nitroglycerin nếu có kèm co thắt thực quản.
 
-**Nguyên nhân:** Bệnh trào ngược dạ dày - thực quản (GERD), Co thắt thực quản, Loét dạ dày - tá tràng, Viêm túi mật / Sỏi mật, Viêm tụy cấp.
+**Nguyên nhân gợi ý:** Bệnh trào ngược dạ dày - thực quản (GERD), Co thắt thực quản, Loét dạ dày - tá tràng, Viêm túi mật / Sỏi mật, Viêm tụy cấp.
 
 ## Đau Thành ngực (Cơ - Xương - Thần kinh thành ngực)
 
-**Đặc điểm kiểu đau:** Đau nhói, khu trú nông tại một điểm trên thành ngực; **tăng khi cử động lồng ngực, xoay trở tư thế, ho hoặc hít thở**.
+Đau nhói, khu trú nông tại một điểm trên thành ngực; **tăng khi cử động lồng ngực, xoay trở tư thế, ho hoặc hít thở**.
 
-**Cách khám lâm sàng đặc thù:**
-    -   **Ấn tìm điểm đau khu trú (Nghiệm pháp ấn thành ngực / Khớp ức sườn):** Dùng ngón tay **ấn trực tiếp vào vị trí sụn sườn, khớp ức sườn hay cơ liên sườn** `→` **Tái lập chính xác cơn đau ngực của bệnh nhân** (dấu hiệu điểm đau chói (+)).
-    -   **Khám da lồng ngực:** Quan sát tìm các nốt mụn nước, bóng nước mọc thành chùm dọc theo khoang thần kinh gian sườn (trong bệnh **Herpes Zoster / Giời bò**).
+Khám lâm sàng có thể thấy:
+- điểm đau khu trú (Nghiệm pháp ấn thành ngực / Khớp ức sườn): Dùng ngón tay **ấn trực tiếp vào vị trí sụn sườn, khớp ức sườn hay cơ liên sườn** `→` **Tái lập chính xác cơn đau ngực của bệnh nhân** (dấu hiệu điểm đau chói (+)).
+- Các nốt mụn nước, bóng nước mọc thành chùm dọc theo khoang thần kinh gian sườn (trong bệnh **Herpes Zoster / Giời bò**).
 
-**Nguyên nhân:** Viêm sụn sườn (Hội chứng Tietze), Chấn thương / Đau cơ liên sườn, Viêm thần kinh gian sườn do Herpes Zoster.
+Nguyên nhân: Viêm sụn sườn (Hội chứng Tietze), Chấn thương / Đau cơ liên sườn, Viêm thần kinh gian sườn do Herpes Zoster.
 
 ## Đau ngực do Nguyên nhân Tâm lý (Rối loạn lo âu / Cơn hoảng sợ)
 
 **Đặc điểm kiểu đau:** Đau ê ẩm vùng mỏm tim hoặc sau xương ức kéo dài nhiều giờ, hoặc thỉnh thoảng nhói lên 1-2 giây; thường gặp ở người trẻ khi căng thẳng, stress.
 
-**Cách khám lâm sàng đặc thù:**
-    -   **Khám tổng quát & Sinh hiệu:** Khám tim phổi hoàn toàn bình thường; quan sát thấy bệnh nhân thở nhanh nông (tăng thông khí), tay chân run, tê đầu chi, hồi hộp.
-    -   **Ấn chẩn mơ hồ:** Bệnh nhân hay than đau mơ hồ khắp vùng trước tim khi bác sĩ thăm khám.
+Gợi ý đau do tâm lý, tuy nhiên không đặc hiệu, thông thường cần loại bỏ tất cả nguyên nhân đau ngực khác:
 
-**Nguyên nhân:** Rối loạn lo âu lan tỏa, Cơn hoảng sợ (Panic attack), Rối loạn dạng cơ thể.
+- Nữ < 40 tuổi.
+- Có tình trạng lo lắng, căng thẳng.
+- Tiền căn trầm cảm hoặc cơn hoảng loạn.

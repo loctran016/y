@@ -1,6 +1,6 @@
-:::details{summary="Lí thuyết"}
+## Tiếp cận Lâm sàng
 
-## Đại cương & Cơ chế Sinh lý bệnh
+:::details{summary="Đại cương & Cơ chế Sinh lý bệnh"} 
 
 Khó thở là cảm giác chủ quan của bệnh nhân, có thể diễn tiến cấp tính (từ vài giờ đến vài ngày), bán cấp (vài ngày đến vài tuần) hoặc mạn tính (kéo dài trên (4 - 8) tuần).
 
@@ -10,40 +10,53 @@ Khó thở xảy ra khi có sự mất cân bằng giữa nhu cầu thông khí 
 - **Hệ tim mạch:** Suy giảm chức năng co bóp tâm thu/tâm trương, bệnh van tim, bệnh màng ngoài tim, hoặc thiếu máu cục bộ cơ tim cấp tính gây sung huyết phổi và giảm tưới máu mô.
 - **Cơ chế khác:** Thiếu máu mạn tính, rối loạn chuyển hóa (toan chuyển hóa), nguyên nhân tâm lý.
 
----
+:::
 
-## Tiếp cận Lâm sàng
+### Tính chất của khó thở
 
-### Hoàn cảnh & Thời gian khởi phát
+Hoàn cảnh & Thời gian khởi phát:
 
 - **Khởi phát đột ngột / Cấp tính (vài phút đến vài giờ):** Gợi ý các nguyên nhân cấp cứu như Cơn hen phế quản cấp, Đợt cấp COPD, Phù phổi cấp, Thuyên tắc phổi, Tràn khí màng phổi tự phát, Hội chứng vành cấp, Chèn ép tim cấp, Dị vật đường thở hoặc Phản ứng phản vệ.
 - **Khởi phát từ từ / Mạn tính (vài tuần đến vài tháng):** Bệnh phổi tắc nghẽn mạn tính (COPD), Bệnh phổi kẽ, Suy tim mạn, Thiếu máu mạn, Tràn dịch màng phổi.
 
-### Tư thế & Thời điểm xuất hiện khó thở
+Tư thế & Thời điểm xuất hiện khó thở:
 
 - **Khó thở khi nằm (Orthopnea):** Bệnh nhân xuất hiện hoặc tăng khó thở khi nằm phẳng, giảm khi ngồi dậy hoặc kê cao đầu. Là dấu hiệu đặc trưng của [Suy tim](../Tim%20mạch/Suy%20tim.md) sung huyết (do tái phân bố dịch từ ngoại biên về tuần hoàn trung tâm), nhưng cũng có thể gặp ở bệnh nhân béo phì, báng bụng lượng nhiều, hoặc bệnh phổi nặng.
 - **Khó thở kịch phát về đêm (Paroxysmal Nocturnal Dyspnea - PND):** Bệnh nhân đang ngủ ((1 - 3) giờ sau khi ngủ) phải đột ngột bật dậy để hít thở. Đây là dấu hiệu rất đặc hiệu cho [Suy tim](../Tim%20mạch/Suy%20tim.md).
 - **Khó thở khi gắng sức:** Xuất hiện ở giai đoạn sớm của suy tim hoặc bệnh phổi mạn tính, tiến triển tăng dần.
 
-### Cảm giác khó thở
+Cảm giác khó thở:
 
 - _"Căng ngực" / "Co thắt":_ Co thắt phế quản (Hen, COPD), phù mô kẽ.
 - _"Tăng công thở" / "Gắng sức hít thở":_ COPD, bệnh thần kinh - cơ, giới hạn lồng ngực.
 - _"Đói không khí" / "Phải hít thở sâu":_ Tăng xung động hô hấp (Suy tim sung huyết, Thuyên tắc phổi, Hen).
 - _"Thở nặng nề" / "Mệt lả":_ Bệnh nhân suy mòn, ít vận động, bệnh tim/phổi đi kèm.
 
-#### Triệu chứng đi kèm cần phát hiện
+### Mức độ khó thở
 
-- **Đau ngực:** Gợi ý Hội chứng vành cấp, Thuyên tắc phổi, Tràn khí màng phổi, Viêm phổi/màng phổi.
-- **Ho & Khạc đờm:** Đờm mủ (Viêm phổi, đợt cấp COPD/Hen), đờm bọt hồng (Phù phổi cấp). Ho khan dai dẳng có thể gặp trong suy tim, hen, bệnh phổi kẽ, thuyên tắc phổi.
+Thang điểm khó thở mMRC (modified Medical Research Council)
+
+- mMRC 0: Chỉ khó thở khi hoạt động thể lực mạnh.
+- mMRC 1: Khó thở khi đi vội trên đường bằng hoặc đi lên dốc nhẹ.
+- **mMRC 2:** Đi chậm hơn người cùng tuổi vì khó thở, hoặc phải dừng lại để thở khi đi bộ trên đường bằng.
+- mMRC 3: Phải dừng lại để thở sau khi đi bộ khoảng 100 mét (hoặc sau vài phút) trên đường bằng.
+- mMRC 4: Quá khó thở không thể rời khỏi nhà, hoặc khó thở ngay cả khi mặc/thay quần áo.
+
+### Triệu chứng kèm theo
+
+- **Đau ngực:** Gợi ý Hội chứng vành cấp, Thuyên tắc phổi, Tràn khí màng phổi, Viêm phổi/màng phổi. 
+- **Vã mồ hôi, hồi hộp:** Phản ứng giao cảm rầm rộ (Hội chứng vành cấp, Phù phổi cấp, Rối loạn nhịp).
+- **Ho & Khạc đờm:** Đờm mủ (Viêm phổi, đợt cấp COPD/Hen), đờm bọt hồng (Phù phổi cấp).
+- **Khò khè, nặng ngực** (hen)
 - **Sốt, lạnh run:** Nhiễm trùng hô hấp (Viêm phổi, viêm phế quản).
 - **Ho ra máu:** Thuyên tắc phổi, Lao phổi, Ung thư phổi, Hẹp van hai lá.
-- **Vã mồ hôi, hồi hộp:** Phản ứng giao cảm rầm rộ (Hội chứng vành cấp, Phù phổi cấp, Rối loạn nhịp).
+- Chảy mũi, nghẹt mũi (nhiễm siêu vi thúc đẩy đợt cấp hen và COPD)
 
 ### Tiền căn
 
-- **Bản thân:** Tiền căn Hen, COPD, Bệnh mạch vành, Tăng huyết áp, Đái tháo đường, Suy thận, Thuyên tắc huyết khối tĩnh mạch sâu (DVT). Tiền căn nghiện thuốc lá (tính theo gói-năm).
-- **Dùng thuốc:** Thói quen tuân thủ điều trị suy tim, thuốc làm kích phát cơn hen (Aspirin, NSAIDs, Chẹn Beta).
+**Bản thân:** Tiền căn Hen, COPD, Bệnh mạch vành, Tăng huyết áp, Đái tháo đường, Suy thận, Thuyên tắc huyết khối tĩnh mạch sâu (DVT). Tiền căn nghiện thuốc lá (tính theo gói-năm).
+
+**Dùng thuốc:** Thói quen tuân thủ điều trị suy tim, thuốc làm kích phát cơn hen (Aspirin, NSAIDs, Chẹn Beta).
 
 ---
 
@@ -76,7 +89,7 @@ Khó thở xảy ra khi có sự mất cân bằng giữa nhu cầu thông khí 
 
 ---
 
-## Phân loại Nguyên nhân Khó thở
+## Các nguyên nhân Khó thở
 
 ### Nguyên nhân Khó thở Cấp tính (Cần loại trừ cấp cứu)
 
@@ -150,115 +163,61 @@ Khó thở xảy ra khi có sự mất cân bằng giữa nhu cầu thông khí 
 • Siêu âm tim Doppler   • D-Dimer (Thuyên tắc) [cite: 102] • Khí máu động mạch [cite: 102]
 ```
 
-:::
-
 ## Tiếp cận khó thở
 
 Khó thở cấp/mạn
 
 => xác suất khó thở
 
-## Mức độ khó thở
-
-Thang điểm khó thở mMRC (modified Medical Research Council)
-
-- **mMRC 0:** Chỉ khó thở khi hoạt động thể lực mạnh.
-- **mMRC 1:** Khó thở khi đi vội trên đường bằng hoặc đi lên dốc nhẹ.
-- **mMRC 2:** Đi chậm hơn người cùng tuổi vì khó thở, hoặc phải dừng lại để thở khi đi bộ trên đường bằng.
-- **mMRC 3:** Phải dừng lại để thở sau khi đi bộ khoảng 100 mét (hoặc sau vài phút) trên đường bằng.
-- **mMRC 4:** Quá khó thở không thể rời khỏi nhà, hoặc khó thở ngay cả khi mặc/thay quần áo.
 
 ## Khó thở do Tim
 
-| Triệu chứng / Kiểu khó thở         | Hoàn cảnh & Tính chất                                   | Tỉ số khả dĩ dương (LR+) | Tỉ số khả dĩ âm (LR-) | Vai trò chẩn đoán                                                            |
-| :--------------------------------- | :------------------------------------------------------ | :----------------------: | :-------------------: | :--------------------------------------------------------------------------- |
-| **Khó thở khi gắng sức**           | Xuất hiện khi vận động, giảm khi nghỉ.       |           1,3            |       **0,48**        | **Độ nhạy cao** `→` Nếu âm tính giúp **Loại trừ**.             |
-| **Khó thở khi nằm (Orthopnea)**    | Ngộp thở khi nằm ngửa, đỡ khi ngồi dậy. |         **2,2**          |         0,65          | **Độ đặc hiệu cao** `→` **Chỉ điểm chẩn đoán**. |
-| **Khó thở kịch phát về đêm (PND)** | Đột ngột thức giấc sau khi ngủ 1–3h.    |         **2,6**          |         0,70          | **Độ đặc hiệu cao** (Tiêu chuẩn chính Framingham).                           |
-| **Tiếng Gallop T3**                | Nghe ở mỏm tim đầu tâm trương.           | **11,0**  |  0,88  | **Đặc hiệu nhất trên lâm sàng**.                              |
-| **NT-proBNP < 125 pg/mL**          | Thử máu lúc nhập viện.                       |            —             |       **< 0,1**       | **Tiêu chuẩn vàng loại trừ suy tim** (NPV > 90%).        |
+### HC suy tim
 
-### Khó thở có độ đặc hiệu cao, giúp nghĩ nhiều
+Khó thở khi gắng sức (Dyspnea on Exertion) thường xuất hiện ở *giai đoạn sớm nhất của HC suy tim*, Diễn tiến thành khó thở khi nằm đầu thấp (Orthopnea) khó thở kịch phát về đêm (Paroxysmal Nocturnal Dyspnea - PND)
 
-Các kiểu khó thở này xuất hiện trong những hoàn cảnh rất đặc trưng của tình trạng tăng áp lực mao mạch phổi cấp/mạn tính thứ phát do suy tim trái:
-
-A. Khó thở khi nằm đầu thấp (Orthopnea)
-
-- Bệnh nhân cảm thấy ngộp thở, ho khan, buộc phải **kê cao từ 2 – 3 gối trở lên** hoặc **ngồi thẳng dậy** mới dễ thở hơn. Nguyên nhân do dịch từ tuần hoàn ngoại biên dồn về tim làm tăng áp lực mao mạch phổi.
-
-* **Giá trị chẩn đoán:** Có **độ đặc hiệu rất cao** và là triệu chứng cơ năng có tỉ số khả dĩ dương cao nhất trong các triệu chứng khó thở (`LR+ = 2,2`)
-
-B. Khó thở kịch phát về đêm (Paroxysmal Nocturnal Dyspnea - PND)
-
-- Bệnh nhân **đột ngột tỉnh giấc trong tình trạng ngộp thở, ho khan hoặc khò khè ("hen tim")**, phải **bật dậy, ngồi buông thõng hai chân xuống giường** để giảm thể tích máu về tim. Triệu chứng không giảm ngay khi ngồi mà kéo dài từ 15–30 phút.
-
-- **Giá trị chẩn đoán:** Có **độ đặc hiệu cao** (`LR+ = 2,6`), là **Tiêu chuẩn chính trong Tiêu chuẩn chẩn đoán Suy tim của Framingham**.
-
-C. Cơn Phù phổi cấp do tim (Khó thở cấp tính nặng nhất)
+Cơn Phù phổi cấp do tim (Khó thở cấp tính nặng nhất)
 
 - Khởi phát cấp tính dữ dội, tiến triển cực kỳ nhanh (thường về đêm hoặc sau khi gắng sức/xúc động).
 - Thở nhanh đói khí, ngạt thở ("chết đuối trên cạn"), vật vã, vã mồ hôi hột, **ho khạc đờm bọt hồng**, nghe phổi có ran ẩm dâng nhanh từ 2 đáy lên đỉnh phổi.
 - **Giá trị chẩn đoán:** Chỉ điểm tình trạng **suy thất trái cấp / quá tải thể tích lòng phế nang mức độ nghiêm trọng**.
 
-### Độ nhạy cao, để ít nghĩ/loại trừ
+### Chèn ép tim cấp / Viêm màng ngoài tim
 
-Khó thở khi gắng sức (Dyspnea on Exertion):
+Khó thở cấp tính diễn tiến nhanh, giảm hơn khi ngồi cúi người ra phía trước.
 
-- Xuất hiện ở **giai đoạn sớm nhất của bệnh tim**. Diễn tiến thành khó thở khi nằm và khó thở kịch phát về đêm (bằng chứng cho việc DIỄN TIẾN DẦN DẦN trong HC suy tim)
-- **Độ nhạy rất cao** nhưng **độ đặc hiệu thấp** (do có thể gặp trong bệnh COPD, hen, thiếu máu, béo phì).
-- **Giá trị LOẠI TRỪ (LR- = 0,48):** KHÔNG hề bị khó thở khi gắng sức, khả năng bệnh nhân bị suy tim là **rất thấp** (giúp loại trừ suy tim).
-
-:::details{summary=“Bệnh cảnh chi tiết”}
-
-### Khó thở mạn
-
-**Suy tim (Suy tim sung huyết / Suy tim trái / Suy tim mất bù):**
-
-- Giai đoạn sớm khó thở khi gắng sức; tiến triển thành khó thở khi nằm và khó thở kịch phát về đêm.
-- **Triệu chứng kèm theo:** Ho khan hoặc ho khạc đàm bọt hồng, giảm khả năng gắng sức, mệt mỏi, phù mềm ấn lõm ở hai cẳng chân/ngoại biên, tĩnh mạch cổ nổi, phản hồi gan - tĩnh mạch cảnh dương tính, gan to, nghe tim có tiếng T3 Gallop.
-
-**Phù phổi cấp do tim:**
-
-- **Đặc điểm khó thở:** Khó thở cấp tính dữ dội, tiến triển cực kỳ nhanh, cảm giác ngộp thở ngạt thở ("chết đuối trên cạn"), bắt buộc bệnh nhân phải ngồi thẳng dậy buông thõng hai chân.
-- **Triệu chứng kèm theo:** Ho khạc ra đàm bọt hồng, hốt hoảng, lo lắng, vật vã, vã mồ hôi hột, tím tái, nghe phổi có **ran ẩm rải rác dâng nhanh từ hai đáy lên đỉnh phổi**.
-
-- **Hẹp van hai lá:**
-  - **Đặc điểm khó thở:** Khó thở khi gắng sức, khó thở khi nằm, tiến triển thành khó thở kịch phát về đêm do tăng áp lực nhĩ trái và sung huyết tĩnh mạch phổi.
-  - **Triệu chứng kèm theo:** Ho ra máu (khạc đàm lẫn máu hoặc đàm bọt hồng), hồi hộp đánh trống ngực (thường kèm rung nhĩ), mệt mỏi do giảm cung lượng tim, phù hai chân, nghe tim có tiếng T1 đanh, clạc mở van hai lá và rù tâm trương ở mỏm tim.
-
-### Khó thở cấp
-
-_Chèn ép tim cấp / Viêm màng ngoài tim:_
-
-- **Đặc điểm khó thở:** Khó thở cấp tính diễn tiến nhanh, giảm hơn khi ngồi cúi người ra phía trước.
 - **Triệu chứng kèm theo:** Tam chứng Beck (tụt huyết áp, tĩnh mạch cổ nổi, tiếng tim mờ), mạch nghịch, đau ngực sau xương ức tăng lên khi nằm ngửa và khi hít sâu, tiếng cọ màng ngoài tim.
 
-_Hội chứng mạch vành cấp / Nhồi máu cơ tim cấp:_
+### Hội chứng mạch vành cấp / Nhồi máu cơ tim cấp
 
-- **Đặc điểm khó thở:** Khó thở cấp tính xuất hiện đột ngột (ở người già hoặc bệnh nhân đái tháo đường, khó thở có thể là triệu chứng duy nhất tương đương với đau ngực).
-- **Triệu chứng kèm theo:** Đau ngực kiểu đè ép, siết chặt, nặng trĩu sau xương ức lan lên hàm hoặc tay trái, vã mồ hôi hột, hồi hộp, buồn nôn, nôn, nhịp tim nhanh hoặc tụt huyết áp.
-  :::
+Khó thở cấp tính xuất hiện đột ngột (ở người già hoặc bệnh nhân đái tháo đường, khó thở có thể là triệu chứng duy nhất tương đương với đau ngực).
 
-## Khó thở do Phổi
+**Triệu chứng kèm theo:** Đau ngực kiểu đè ép, siết chặt, nặng trĩu sau xương ức lan lên hàm hoặc tay trái, vã mồ hôi hột, hồi hộp, buồn nôn, nôn, nhịp tim nhanh hoặc tụt huyết áp.
+
+## Khó thở do hô hấp
 
 Rà soát cấu trúc từ ngoài -> trong: màng phổi, nhu mô phổi, đường dẫn khí và mạch máu phổi
 
 ### Màng phổi
 
-**Tràn khí màng phổi tự phát:** Khó thở khởi phát đột ngột, dữ dội, kèm theo:
+**Tràn dịch MP**:
 
-- Đau ngực kiểu màng phổi đột ngột một bên ngực (đau nhói sắc nét),
+**Tràn khí màng phổi:** Khó thở khởi phát đột ngột, dữ dội, kèm theo
+
+- Đau ngực kiểu màng phổi đột ngột một bên kèm khó thở.
+- Tiền căn *chấn thương và đặt catheter* tĩnh mạch trung tâm
 - Nghe phổi có rì rào phế nang giảm hoặc mất hẳn bên tổn thương, gõ vang trống, rung thanh giảm (Tam chứng Galliard).
 
 ### Nhu mô phổi
 
-- **Bệnh phổi kẽ / Xơ phổi:**
-  - **Đặc điểm khó thở:** Khó thở mạn tính tiến triển từ từ, tăng lên khi gắng sức.
-  - **Triệu chứng kèm theo:** Ho khan dai dẳng, ngón tay dùi trống, nghe phổi có **ran nổ khô rải rác hai đáy phổi** ở cuối thì hít vào (tiếng bóc băng dính - velcro rales).
+**Bệnh phổi kẽ / Xơ phổi:**
 
-- **Viêm phổi mắc phải cộng đồng (CAP):**
-  - **Đặc điểm khó thở:** Khó thở cấp tính diễn tiến trong vài giờ đến vài ngày.
-  - **Triệu chứng kèm theo:** Sốt cao, lạnh run, vã mồ hôi, ho khạc đàm mủ (vàng, xanh) hoặc đàm gỉ sắt, đau ngực kiểu màng phổi (đau nhói tăng khi hít sâu hoặc ho), nghe phổi có ran nổ khu trú hoặc hội chứng đông đặc.
+- Khó thở mạn tính tiến triển từ từ, tăng lên khi gắng sức.
+- **Triệu chứng kèm theo:** Ho khan dai dẳng, ngón tay dùi trống, nghe phổi có **ran nổ khô rải rác hai đáy phổi** ở cuối thì hít vào (tiếng bóc băng dính - velcro rales).
+
+**Viêm phổi mắc phải cộng đồng (CAP):**
+- Khó thở cấp tính diễn tiến trong vài giờ đến vài ngày.
+- **Triệu chứng kèm theo:** Sốt cao, lạnh run, vã mồ hôi, ho khạc đàm mủ (vàng, xanh) hoặc đàm gỉ sắt, đau ngực kiểu màng phổi (đau nhói tăng khi hít sâu hoặc ho), nghe phổi có ran nổ khu trú hoặc hội chứng đông đặc.
 
 ### Đường dẫn khí
 
@@ -268,19 +227,29 @@ Thường gặp: [Tắc nghẽn đường HH dưới](../Hô%20hấp/Tắc%20ngh
 
 **Phổi tắc nghẽn mãn tính (COPD - Đợt cấp COPD):**
 
-- Khó thở mạn tính, dai dẳng, <u>tiến triển nặng dần</u> (tính trạng nặng dần) theo thời gian (đặc biệt tăng khi gắng sức); Ho mạn tính, khạc đàm mạn tính.
+- Khó thở mạn tính, dai dẳng, <u>tiến triển nặng dần</u>; Ho khạc đàm mạn tính.
+- VPQ mạn: ho khạc đàm buổi sáng sau thức, đàm nhầy trong dính.
+- KPT: lồng ngực hình thùng, KLS dãn rộng, kém di động theo nhịp thở, thì thở ra kéo dài.
+Khám thấy ran rít ngáy, RT giảm, RRPN giảm, gõ vang.
 - Khò khè tái đi tái lại, thở chúm môi, lồng ngực hình thùng, dấu Hoover (thành ngực di động nghịch thường).
 - Trong đợt cấp: khó thở tăng vọt cấp tính kèm kéo dài thì thở ra; đàm chuyển thành đàm mủ vàng/xanh.
 
-- **Giãn phế quản:**
-  - **Đặc điểm khó thở:** Khó thở mạn tính hoặc gia tăng trong đợt bội nhiễm.
-  - **Triệu chứng kèm theo:** Ho khạc đàm mủ mạn tính kéo dài (đàm lượng nhiều nhầy mủ), ho ra máu tái đi tái lại, nhiễm trùng hô hấp tái phát, ngón tay dùi trống, nghe phổi có ran ẩm, ran nổ cố định tại vùng tổn thương.
+**Giãn phế quản:**
+- Khó thở mạn tính hoặc gia tăng trong đợt bội nhiễm.
+- **Triệu chứng kèm theo:** Ho khạc đàm mủ mạn tính kéo dài (đàm lượng nhiều nhầy mủ), ho ra máu tái đi tái lại, nhiễm trùng hô hấp tái phát, ngón tay dùi trống, nghe phổi có ran ẩm, ran nổ cố định tại vùng tổn thương.
+
+**Dị vật đường thở**
+
+- Thường gặp ở trẻ em và người già trên 75 tuổi.
+- Hội chứng xâm nhập
 
 ### Mạch máu phổi
 
-- **Thuyên tắc phổi cấp:**
-  - **Đặc điểm khó thở:** Khó thở đột ngột không giải thích được, xuất hiện ngay cả khi ngồi nghỉ.
-  - **Triệu chứng kèm theo:** Đau ngực kiểu màng phổi đột ngột (hoặc đau đè ép sau xương ức đối với thuyên tắc lớn), ho khan hoặc ho ra máu tươi, hồi hộp, thở nhanh, nhịp tim nhanh, vã mồ hôi, ngất/tiền ngất, sưng đau một bên cẳng chân (dấu hiệu huyết khối tĩnh mạch sâu chi dưới).
+**Thuyên tắc phổi cấp:**
+
+- Các yếu tố nguy cơ: rối loạn đông máu, thuốc kháng đông, nằm bất động, hậu phẫu, gãy xương.
+- Khó thở đột ngột không giải thích được, xuất hiện ngay cả khi ngồi nghỉ.
+- **Triệu chứng kèm theo:** Đau ngực kiểu màng phổi đột ngột (hoặc đau đè ép sau xương ức đối với thuyên tắc lớn), ho khan hoặc ho ra máu tươi, hồi hộp, thở nhanh, nhịp tim nhanh, vã mồ hôi, ngất/tiền ngất, sưng đau một bên cẳng chân (dấu hiệu huyết khối tĩnh mạch sâu chi dưới).
 
 ## SƠ ĐỒ LƯU ĐỒ TƯ DUY XỬ TRÍ LÂM SÀNG TẠI GIƯỜNG
 
