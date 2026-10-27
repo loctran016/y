@@ -106,18 +106,19 @@ Cách khám lâm sàng đặc thù:
 
 **Nguyên nhân:**
 
--   Viêm phổi / Tràn dịch màng phổi cận viêm, Tràn khí màng phổi tự phát
--   Thuyên tắc phổi
--   Lao màng phổi
--   Ung thư di căn màng phổi.
+- Viêm phổi / Tràn dịch màng phổi cận viêm, Tràn khí màng phổi tự phát
+- Thuyên tắc phổi
+- Lao màng phổi
+- Ung thư di căn màng phổi.
+- Viêm màng ngoài tim cấp: Đau nhói sau xương ức/ngực trái giống kiểu màng phổi, đặc điểm chìa khóa: **đau giảm rõ khi ngồi cúi người ra trước**; biến chứng của HC suy tim
 
 **Hướng lan gợi ý vị trí tổn thương:**
 
--   _Viêm màng phổi sườn:_ Đau khu trú chính xác tại vị trí màng phổi bị tổn thương, kèm tăng cảm giác đau nông ngoài da.
--   _Viêm màng phổi hoành vùng trung tâm:_ Đau lan lên **vùng vai cùng bên** (do thần kinh hoành màng phổi dẫn truyền chung rễ thần kinh cổ `C₄`).
--   _Viêm màng phổi hoành vùng ngoại biên:_ Đau lan xuống hạ sườn, mạn sườn hoặc lan khắp bụng.
+- _Viêm màng phổi sườn:_ Đau khu trú chính xác tại vị trí màng phổi bị tổn thương, kèm tăng cảm giác đau nông ngoài da.
+- _Viêm màng phổi hoành vùng trung tâm:_ Đau lan lên **vùng vai cùng bên** (do thần kinh hoành màng phổi dẫn truyền chung rễ thần kinh cổ `C₄`).
+- _Viêm màng phổi hoành vùng ngoại biên:_ Đau lan xuống hạ sườn, mạn sườn hoặc lan khắp bụng.
 
-:::details{summary=“Sinh lý bệnh”}
+:::details{summary="Sinh lý bệnh"}
 
 **Nguồn gốc cảm giác đau:** **Lá thành màng phổi** chứa các thụ cảm thể cảm giác đau (chi phối bởi thần kinh gian sườn và thần kinh hoành), trong khi lá tạng màng phổi không có thụ cảm thể đau.
 
