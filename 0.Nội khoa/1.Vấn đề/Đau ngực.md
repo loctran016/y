@@ -1,4 +1,4 @@
-## Khai thác bệnh sử
+## Tiếp cận lâm sàng đau ngực 
 
 Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai thác đủ **7 tính chất**:
 
@@ -136,17 +136,24 @@ Trong đợt tràn dịch màng phổi, khi **lượng dịch tích tụ ngày c
 
 Cận lâm sàng chẩn đoán:
 
--   **X-quang ngực thẳng & Siêu âm màng phổi:** Đánh giá tổn thương nhu mô, phát hiện tràn dịch/tràn khí màng phổi.
--   **CT-scan ngực / CTA ngực:** Đánh giá chi tiết tổn thương xơ/u/lao hoặc dựng hình mạch máu chẩn đoán thuyên tắc phổi.
--   **Điện tâm đồ (ECG):** Loại trừ Hội chứng vành cấp hoặc phát hiện đoạn ST chênh lan tỏa trong Viêm màng ngoài tim cấp.
+- **X-quang ngực thẳng & Siêu âm màng phổi:** Đánh giá tổn thương nhu mô, phát hiện tràn dịch/tràn khí màng phổi.
+- **CT-scan ngực / CTA ngực:** Đánh giá chi tiết tổn thương xơ/u/lao hoặc dựng hình mạch máu chẩn đoán thuyên tắc phổi.
+- **Điện tâm đồ (ECG):** Loại trừ Hội chứng vành cấp hoặc phát hiện đoạn ST chênh lan tỏa trong Viêm màng ngoài tim cấp.
 
-### Viêm màng ngoài tim cấp
+### Viêm màng ngoài tim cấp (Acute Pericarditis)
 
-Đau nhói sau xương ức hoặc ngực trái, lan lên vai trái (bờ cơ thang); đau tăng khi nằm ngửa hoặc hít sâu.
+Đau nhói sắc nét hoặc đè ép sau xương ức / ngực trái, lan lên vai trái (bờ cơ thang).
+
+- **Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho**
+- **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
+
+**Tiền căn:** Có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
+
+Khám thực thể: **Tiếng cọ màng ngoài tim (Pericardial friction rub)** ở bờ trái xương ức (tiếng thô ráp xuất hiện ở cả thì tâm thu và tâm trương, nghe rõ nhất khi bệnh nhân ngồi cúi ra trước và nín thở).
 
 Khám thực thể:
 
--   **Nghiệm pháp tư thế (Thay đổi tư thế nằm - ngồi):** Yêu cầu bệnh nhân **ngồi dậy và cúi gập người ra phía trước** `→` Quan sát và hỏi bệnh nhân: **cảm giác đau ngực sẽ giảm đi rõ rệt**.
+- **Nghiệm pháp tư thế (Thay đổi tư thế nằm - ngồi):** Yêu cầu bệnh nhân **ngồi dậy và cúi gập người ra phía trước** `→` Quan sát và hỏi bệnh nhân: **cảm giác đau ngực sẽ giảm đi rõ rệt**.
 - tiếng **cọ màng ngoài tim** (tiếng thô ráp 2 hoặc 3 thì) rõ nhất ở bờ trái xương ức khi bệnh nhân ngồi cúi ra trước.
 
 **Nguyên nhân:** Viêm màng ngoài tim cấp do nhiễm siêu vi/vi khuẩn, bệnh tự miễn (Lupus, RA), tăng ure máu, hoặc sau nhồi máu cơ tim (Hội chứng Dressler).
@@ -170,39 +177,33 @@ Khám thực thể:
     3. **Rì rào phế nang giảm hoặc mất hẳn** bên tổn thương.
     4. **Rung thanh giảm** bên tổn thương. _(Nếu TKMP áp lực: Khí quản và mỏm tim bị đẩy lệch sang bên đối diện, tụt huyết áp)_.
 
-### Viêm màng ngoài tim cấp (Acute Pericarditis)
-
-Đau nhói sắc nét hoặc đè ép sau xương ức / ngực trái, lan lên vai trái (bờ cơ thang).
-
--   **Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho**
-- **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
-
-**Tiền căn:** Có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
-
-Khám thực thể: **Tiếng cọ màng ngoài tim (Pericardial friction rub)** ở bờ trái xương ức (tiếng thô ráp xuất hiện ở cả thì tâm thu và tâm trương, nghe rõ nhất khi bệnh nhân ngồi cúi ra trước và nín thở).
-
 ## Đau ngực do nguyên nhân Tiêu hóa (Trào ngược / Co thắt thực quản / Loét dạ dày)
 
--   **Đặc điểm kiểu đau:** Đau kiểu **nóng rát (heartburn)**, đè nặng sau xương ức hoặc vùng thượng vị; liên quan rõ đến bữa ăn (sau khi ăn no), nằm ngửa, uống rượu/bia; kèm ợ hơi, ợ chua.
+**Đặc điểm kiểu đau:** Đau kiểu **nóng rát (heartburn)**, đè nặng sau xương ức hoặc vùng thượng vị; liên quan rõ đến bữa ăn (sau khi ăn no), nằm ngửa, uống rượu/bia; kèm ợ hơi, ợ chua.
 
 **Cách khám lâm sàng đặc thù:**
 
 -   **Ấn chẩn thượng vị:** Ấn sâu vùng thượng vị có điểm đau tức nhẹ; ấn thành ngực không đau.
 -   **Đánh giá phản ứng với thuốc/thức ăn:** Đau giảm nhanh sau khi uống thuốc trung hòa acid (Antacid) hoặc sau khi ăn nhẹ; đau giảm sau ngậm Nitroglycerin nếu có kèm co thắt thực quản.
--   **Nguyên nhân:** Bệnh trào ngược dạ dày - thực quản (GERD), Co thắt thực quản, Loét dạ dày - tá tràng, Viêm túi mật / Sỏi mật, Viêm tụy cấp.
+
+**Nguyên nhân:** Bệnh trào ngược dạ dày - thực quản (GERD), Co thắt thực quản, Loét dạ dày - tá tràng, Viêm túi mật / Sỏi mật, Viêm tụy cấp.
 
 ## Đau Thành ngực (Cơ - Xương - Thần kinh thành ngực)
 
--   **Đặc điểm kiểu đau:** Đau nhói, khu trú nông tại một điểm trên thành ngực; **tăng khi cử động lồng ngực, xoay trở tư thế, ho hoặc hít thở**.
--   **Cách khám lâm sàng đặc thù:**
+**Đặc điểm kiểu đau:** Đau nhói, khu trú nông tại một điểm trên thành ngực; **tăng khi cử động lồng ngực, xoay trở tư thế, ho hoặc hít thở**.
+
+**Cách khám lâm sàng đặc thù:**
     -   **Ấn tìm điểm đau khu trú (Nghiệm pháp ấn thành ngực / Khớp ức sườn):** Dùng ngón tay **ấn trực tiếp vào vị trí sụn sườn, khớp ức sườn hay cơ liên sườn** `→` **Tái lập chính xác cơn đau ngực của bệnh nhân** (dấu hiệu điểm đau chói (+)).
     -   **Khám da lồng ngực:** Quan sát tìm các nốt mụn nước, bóng nước mọc thành chùm dọc theo khoang thần kinh gian sườn (trong bệnh **Herpes Zoster / Giời bò**).
--   **Nguyên nhân:** Viêm sụn sườn (Hội chứng Tietze), Chấn thương / Đau cơ liên sườn, Viêm thần kinh gian sườn do Herpes Zoster.
+
+**Nguyên nhân:** Viêm sụn sườn (Hội chứng Tietze), Chấn thương / Đau cơ liên sườn, Viêm thần kinh gian sườn do Herpes Zoster.
 
 ## Đau ngực do Nguyên nhân Tâm lý (Rối loạn lo âu / Cơn hoảng sợ)
 
--   **Đặc điểm kiểu đau:** Đau ê ẩm vùng mỏm tim hoặc sau xương ức kéo dài nhiều giờ, hoặc thỉnh thoảng nhói lên 1-2 giây; thường gặp ở người trẻ khi căng thẳng, stress.
--   **Cách khám lâm sàng đặc thù:**
+**Đặc điểm kiểu đau:** Đau ê ẩm vùng mỏm tim hoặc sau xương ức kéo dài nhiều giờ, hoặc thỉnh thoảng nhói lên 1-2 giây; thường gặp ở người trẻ khi căng thẳng, stress.
+
+**Cách khám lâm sàng đặc thù:**
     -   **Khám tổng quát & Sinh hiệu:** Khám tim phổi hoàn toàn bình thường; quan sát thấy bệnh nhân thở nhanh nông (tăng thông khí), tay chân run, tê đầu chi, hồi hộp.
     -   **Ấn chẩn mơ hồ:** Bệnh nhân hay than đau mơ hồ khắp vùng trước tim khi bác sĩ thăm khám.
--   **Nguyên nhân:** Rối loạn lo âu lan tỏa, Cơn hoảng sợ (Panic attack), Rối loạn dạng cơ thể.
+
+**Nguyên nhân:** Rối loạn lo âu lan tỏa, Cơn hoảng sợ (Panic attack), Rối loạn dạng cơ thể.
