@@ -64,7 +64,7 @@ Trong đợt tràn dịch màng phổi, khi **lượng dịch tích tụ ngày c
 | **3. Bệnh lý Tim mạch** | • **Viêm màng ngoài tim cấp:** Đau nhói sau xương ức/ngực trái giống kiểu màng phổi, đặc điểm chìa khóa: **đau giảm rõ khi ngồi cúi người ra trước**. |
 | **4. Các nguyên nhân khác** | • **Bệnh tự miễn:** Lupus ban đỏ hệ thống (SLE), Viêm khớp dạng thấp gây tràn dịch/viêm đa màng.<br>• **Chấn thương lồng ngực / Viêm sụn sườn / Herpes Zoster:** Đau thành ngực, ấn có điểm đau khu trú nông trên xương sườn. |
 
-## Cơn đau thắt ngực ổn định / không ổn định
+### Cơn đau thắt ngực ổn định / không ổn định
 
 Đau kiểu **đè ép, siết chặt, bóp nghẹt, nặng ngực** sau xương ức hoặc ngực trái, lan lên cổ, hàm, vai và chạy dọc mặt trong cánh tay trái.
 
@@ -84,54 +84,6 @@ Nguyên nhân:
 Chẩn đoán:
 - Cơn đau thắt ngực ổn định, CCS (I/II/III), YTNC tim mạch.
 - Hội chứng vành cấp giờ thứ, biến chứng (rối loạn nhịp, suy tim cấp, thủng van), ytnc tim mạch
-
-## Tiếp cận lâm sàng đau ngực
-
-```mermaid
-graph TD
-    Root[TIẾP CẬN ĐAU NGỰC] --> B(BƯỚC 1: SÀNG LỌC CẤP CỨU)
-    Root --> C(BƯỚC 2: PHÂN NHÁNH CƠ QUAN)
-
-    %% Sàng lọc cấp cứu
-    B --> B1[Hội chứng vành cấp <br/> TAG: Đau đè ép]
-    B --> B2[Bóc tách ĐMC ngực <br/> TAG: Đau xé rách]
-    B --> B3[Thuyên tắc phổi cấp <br/> TAG: Kiểu màng phổi/Đè ép]
-    B --> B4[Tràn khí màng phổi <br/> TAG: Nhói đột ngột]
-    B --> B5[Chèn ép tim cấp <br/> TAG: Tam chứng Beck]
-
-    %% Phân nhánh cơ quan
-    C --> D{DO TIM}
-    C --> E{KHÔNG DO TIM}
-
-    %% Do tim
-    D --> D1(Mạch vành)
-    D --> D2(Không do mạch vành)
-    D1 --> D1a[Cơn đau thắt ngực ổn định <br/> TAG: Đau đè ép]
-    D2 --> D2a[Viêm màng ngoài tim <br/> TAG: Kiểu màng phổi]
-
-    %% Không do tim
-    E --> E1(Hô hấp - Màng phổi)
-    E --> E2(Tiêu hóa)
-    E --> E3(Thành ngực)
-    E --> E4(Tâm lý)
-
-    E1 --> E1a[Viêm phổi / Tràn dịch màng phổi / U <br/> TAG: Kiểu màng phổi]
-    E2 --> E2a[GERD / Loét dạ dày / Co thắt <br/> TAG: Nóng rát]
-    E3 --> E3a[Viêm sụn sườn / Chấn thương / Zona <br/> TAG: Đau khu trú]
-    E4 --> E4a[Hoảng sợ / Rối loạn lo âu <br/> TAG: Không đặc hiệu]
-
-    %% Style cho nhóm cấp cứu
-    classDef emergency fill:#fee2e2,stroke:#ef4444,stroke-width:2px;
-    class B,B1,B2,B3,B4,B5 emergency;
-    
-    %% Style cho nhóm Do Tim
-    classDef dotim fill:#fef3c7,stroke:#f59e0b,stroke-width:2px;
-    class D,D1,D2,D1a,D2a dotim;
-    
-    %% Style cho nhóm Không do tim
-    classDef khongdotim fill:#d1fae5,stroke:#10b981,stroke-width:2px;
-    class E,E1,E2,E3,E4,E1a,E2a,E3a,E4a khongdotim;
-```
 
 ## Đau ngực cấp cứu
 
