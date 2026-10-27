@@ -147,7 +147,9 @@ Bóc tách ĐM chủ (Đau ngực cấp cứu)
 Thuyên tắc phổi:
 
 - Đau ngực cấp cứu
-- 
+- Tiền căn Wells
+
+### Phổi - (Đau ngực kiểu MP)
 
 ## Đau ngực kiểu màng phổi
 
