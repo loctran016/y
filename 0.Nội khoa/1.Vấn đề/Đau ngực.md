@@ -142,7 +142,12 @@ Chẩn đoán:
 
 ### Mạch máu
 
-####
+Bóc tách ĐM chủ (Đau ngực cấp cứu)
+
+Thuyên tắc phổi:
+
+- Đau ngực cấp cứu
+- 
 
 ## Đau ngực kiểu màng phổi
 
