@@ -15,6 +15,7 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 ### Triệu chứng đi kèm:
 
 Vã mồ hôi hột, khó thở, hồi hộp, sốt, ho, ho ra máu, nôn/buồn nôn, ợ chua.
+
 ### Tiền căn & Yếu tố nguy cơ
 
 Tăng huyết áp, Đái tháo đường, Hút thuốc lá, Rối loạn lipid máu, tiền căn nằm bất động/phẫu thuật, bệnh lý tim/phổi sẵn có.
