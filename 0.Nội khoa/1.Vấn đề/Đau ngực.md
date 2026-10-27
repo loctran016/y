@@ -132,6 +132,18 @@ Chẩn đoán:
 - Cơn đau thắt ngực ổn định, CCS (I/II/III), YTNC tim mạch.
 - Hội chứng vành cấp giờ thứ, biến chứng (rối loạn nhịp, suy tim cấp, thủng van), ytnc tim mạch
 
+## Đau ngực do tim
+
+### Thiếu máu cơ tim (Đau thắt ngực ổn định / không ổn định)
+
+### Không thiếu máu cơ tim - (Đau ngực kiểu MP)
+
+## Đau ngực không do tim
+
+### Mạch máu
+
+####
+
 ## Đau ngực kiểu màng phổi
 
 **Đau ngực kiểu màng phổi (Pleuritic Chest Pain)** phản ảnh tình trạng kích thích hoặc viêm nhiễm tại lá thành của màng phổi hoặc màng ngoài tim.
