@@ -30,18 +30,18 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 
 Đau khởi phát **đột ngột, dữ dội đạt đỉnh ngay từ giây đầu tiên**; kiểu đau **”như xé”, “như đâm”**, lan từ trước ngực xuyên ra sau lưng (vùng giữa 2 xương báng vai) hoặc lan xuống bụng.
 
-**Cách khám lâm sàng đặc thù:**
+> **Nguyên nhân:** Phình bóc tách động mạch chủ ngực cấp tính.
 
--   **Đo huyết áp hai tay:** Đo huyết áp đồng thời ở 2 tay để tìm **dấu hiệu chênh lệch huyết áp** (chênh lệch huyết áp tâm thu `> 20 mmHg` giữa tay trái và tay phải).
--   **Bắt mạch đối chiếu:** Bắt song song mạch cảnh, mạch quay, mạch đùi 2 bên để tìm **dấu hiệu mất mạch hoặc mạch bắt bất cân đối**.
--   **Nghe tim:** Tìm âm thổi tâm trương mới xuất hiện do **hở van động mạch chủ cấp**.
--   **Nguyên nhân:** Phình bóc tách động mạch chủ ngực cấp tính.
+Khám thực thể:
 
-    -   **Tiền căn:** **Tăng huyết áp nặng không kiểm soát**, Hội chứng Marfan, van động mạch chủ 2 lá van.
-    -   **Khám thực thể:**
-        -   **Bất đồng huyết áp và mạch giữa 2 tay** (chênh lệch Huyết áp tâm thu `> 20 mmHg` giữa tay trái và tay phải) hoặc mất mạch ngoại biên.
-        -   Nghe tim: Xuất hiện **Âm thổi tâm trương mới tại đáy tim** (do hở van động mạch chủ cấp).
-        -   Có thể kèm dấu hiệu thần kinh khu trú (yếu/liệt chi do thiếu máu tủy/não).
+- **Bất đồng huyết áp và mạch giữa 2 tay** (chênh lệch Huyết áp tâm thu `> 20 mmHg` giữa tay trái và tay phải) hoặc mất mạch ngoại biên.
+- **Bắt mạch đối chiếu:** Bắt song song mạch cảnh, mạch quay, mạch đùi 2 bên để tìm **dấu hiệu mất mạch hoặc mạch bắt bất cân đối**.
+- **Âm thổi tâm trương mới tại đáy tim** (do hở van động mạch chủ cấp).
+- Có thể kèm dấu hiệu thần kinh khu trú (yếu/liệt chi do thiếu máu tủy/não).
+
+**Nguyên nhân:** Phình bóc tách động mạch chủ ngực cấp tính.
+
+**Tiền căn:** **Tăng huyết áp nặng không kiểm soát**, Hội chứng Marfan, van động mạch chủ 2 lá van.
 
 ---
 
@@ -62,12 +62,10 @@ _(Bao gồm: Nhồi máu cơ tim cấp, Cơn đau thắt ngực không ổn đ�
 
 ### Thuyên tắc phổi cấp (Pulmonary Embolism - PE)
 
--   **Yếu tố GỢI Ý / NGHĨ NHIỀU (Ủng hộ chẩn đoán):**
-
-    -   **Bệnh sử:**
-        -   Khởi phát **đột ngột** đau ngực **kiểu màng phổi** (đau nhói tăng khi hít sâu/ho, thường đau một bên ngực) hoặc đau đè ép sau xương ức (nếu thuyên tắc nhánh lớn diện rộng).
+Khởi phát **đột ngột** đau ngực **kiểu màng phổi** (đau nhói tăng khi hít sâu/ho, thường đau một bên ngực) hoặc đau đè ép sau xương ức (nếu thuyên tắc nhánh lớn diện rộng).
         -   Đi kèm **Khó thở đột ngột không giải thích được**, ho ra máu tươi, hồi hộp, ngất/tiền ngất.
-    -   **Tiền căn / Yếu tố nguy cơ (Thang điểm Well):** Nằm bất động `> 3` ngày, mới phẫu thuật/chấn thương trong 4 tuần qua, ung thư tiến triển, dùng thuốc tránh thai/hormone, hoặc có tiền căn **Huyết khối tĩnh mạch sâu chi dưới (DVT)**.
+
+ **Tiền căn / Yếu tố nguy cơ (Thang điểm Well):** Nằm bất động `> 3` ngày, mới phẫu thuật/chấn thương trong 4 tuần qua, ung thư tiến triển, dùng thuốc tránh thai/hormone, hoặc có tiền căn **Huyết khối tĩnh mạch sâu chi dưới (DVT)**.
     -   **Khám thực thể:**
         -   **Thở nhanh (`> 20` lần/phút), Nhịp tim nhanh (`> 100` lần/phút)**, tím tái, tụt huyết áp (thuyên tắc diện rộng).
         -   Khám chi dưới: Phát hiện **Dấu hiệu Huyết khối tĩnh mạch sâu** (sưng, đau, nóng, đỏ bất cân đối ở 1 bên cẳng chân/đùi).
@@ -98,19 +96,19 @@ Cách khám lâm sàng đặc thù:
 -   Đau tăng rõ rệt khi hít thở sâu, ho, hắt hơi hoặc cử động lồng ngực.
 -   Đau giảm khi nín thở, nằm nghiêng ép sang bên ngực bị tổn thương hoặc dùng tay đè nén cố định thành ngực.
 
-Định hướng khám lâm sàng:
+Khám thực thể:
 
--   **Nghiệm pháp Hít sâu - Nín thở (Tư thế):** Yêu cầu bệnh nhân **hít sâu vào** (cảm giác đau tăng vọt), sau đó **nín thở** hoặc **nằm nghiêng ép người sang bên bị đau** (cảm giác đau giảm rõ rệt do cố định lồng ngực).
--   tiếng **cọ màng phổi** ở thì hít vào và đầu thì thở ra; hoặc khám tìm **Hội chứng 3 giảm** (giảm dãn nở, giảm/mất rung thanh, gõ đục, giảm/mất rì rào phế nang) nếu có tràn dịch màng phổi đi kèm.
--   **Gõ phổi:** Gõ vang trống + mất rì rào phế nang 1 bên nếu có tràn khí màng phổi.
+- **Nghiệm pháp Hít sâu - Nín thở (Tư thế):** Yêu cầu bệnh nhân **hít sâu vào** (cảm giác đau tăng vọt), sau đó **nín thở** hoặc **nằm nghiêng ép người sang bên bị đau** (cảm giác đau giảm rõ rệt do cố định lồng ngực).
+- tiếng **cọ màng phổi** ở thì hít vào và đầu thì thở ra; hoặc khám tìm **Hội chứng 3 giảm** (giảm dãn nở, giảm/mất rung thanh, gõ đục, giảm/mất rì rào phế nang) nếu có tràn dịch màng phổi đi kèm.
+- Gõ vang trống + mất rì rào phế nang 1 bên nếu có tràn khí màng phổi.
 
 **Nguyên nhân:**
 
-- Viêm phổi / Tràn dịch màng phổi cận viêm, Tràn khí màng phổi tự phát
+- Viêm phổi hoặc Tràn dịch màng phổi cận viêm, Tràn khí màng phổi tự phát
 - Thuyên tắc phổi
 - Lao màng phổi
 - Ung thư di căn màng phổi.
-- Viêm màng ngoài tim cấp: Đau nhói sau xương ức/ngực trái giống kiểu màng phổi, đặc điểm chìa khóa: **đau giảm rõ khi ngồi cúi người ra trước**; biến chứng của HC suy tim
+- Viêm màng ngoài tim cấp: **đau giảm rõ khi ngồi cúi người ra trước**; sau nhồi máu cơ tim (Hội chứng Dressler)
 
 **Hướng lan gợi ý vị trí tổn thương:**
 
@@ -118,17 +116,15 @@ Cách khám lâm sàng đặc thù:
 - _Viêm màng phổi hoành vùng trung tâm:_ Đau lan lên **vùng vai cùng bên** (do thần kinh hoành màng phổi dẫn truyền chung rễ thần kinh cổ `C₄`).
 - _Viêm màng phổi hoành vùng ngoại biên:_ Đau lan xuống hạ sườn, mạn sườn hoặc lan khắp bụng.
 
-:::details{summary="Sinh lý bệnh"}
+:::details{summary="Sinh lý bệnh cảm giác đau"}
 
-**Nguồn gốc cảm giác đau:** **Lá thành màng phổi** chứa các thụ cảm thể cảm giác đau (chi phối bởi thần kinh gian sườn và thần kinh hoành), trong khi lá tạng màng phổi không có thụ cảm thể đau.
+**Lá thành màng phổi** chứa các thụ cảm thể cảm giác đau (chi phối bởi thần kinh gian sườn và thần kinh hoành), trong khi lá tạng màng phổi không có thụ cảm thể đau.
 
 Khi màng phổi bị viêm, bề mặt màng phổi trở nên thô ráp. Thì hít vào làm lồng ngực dãn nở, hai lá màng phổi trượt cọ xát lên nhau gây kích thích thần kinh cảm giác.
 
-**Diễn tiến theo lượng dịch:** Trong đợt tràn dịch màng phổi, khi **lượng dịch tích tụ ngày càng nhiều** đẩy tách hai lá màng phổi ra xa, triệu chứng đau ngực kiểu màng phổi sẽ **có xu hướng giảm bớt**, nhường chỗ cho triệu chứng **khó thở** nổi trội.
+Trong đợt tràn dịch màng phổi, khi **lượng dịch tích tụ ngày càng nhiều** đẩy tách hai lá màng phổi ra xa, triệu chứng đau ngực kiểu màng phổi sẽ **có xu hướng giảm bớt**, nhường chỗ cho triệu chứng **khó thở** nổi trội.
 
 :::
-
-### Nguyên nhân thường gặp
 
 | Nhóm nguyên nhân | Bệnh cảnh lâm sàng đặc trưng |
 | :--- | :--- |
@@ -148,10 +144,12 @@ Cận lâm sàng chẩn đoán:
 
 Đau nhói sau xương ức hoặc ngực trái, lan lên vai trái (bờ cơ thang); đau tăng khi nằm ngửa hoặc hít sâu.
 
--   **Cách khám lâm sàng đặc thù:**
-    -   **Nghiệm pháp tư thế (Thay đổi tư thế nằm - ngồi):** Yêu cầu bệnh nhân **ngồi dậy và cúi gập người ra phía trước** `→` Quan sát và hỏi bệnh nhân: **cảm giác đau ngực sẽ giảm đi rõ rệt**.
-    -   **Nghe tim:** Nghe tiếng **cọ màng ngoài tim** (tiếng thô ráp 2 hoặc 3 thì) rõ nhất ở bờ trái xương ức khi bệnh nhân ngồi cúi ra trước.
--   **Nguyên nhân:** Viêm màng ngoài tim cấp do nhiễm siêu vi/vi khuẩn, bệnh tự miễn (Lupus, RA), tăng ure máu, hoặc sau nhồi máu cơ tim (Hội chứng Dressler).
+Khám thực thể:
+
+-   **Nghiệm pháp tư thế (Thay đổi tư thế nằm - ngồi):** Yêu cầu bệnh nhân **ngồi dậy và cúi gập người ra phía trước** `→` Quan sát và hỏi bệnh nhân: **cảm giác đau ngực sẽ giảm đi rõ rệt**.
+- tiếng **cọ màng ngoài tim** (tiếng thô ráp 2 hoặc 3 thì) rõ nhất ở bờ trái xương ức khi bệnh nhân ngồi cúi ra trước.
+
+**Nguyên nhân:** Viêm màng ngoài tim cấp do nhiễm siêu vi/vi khuẩn, bệnh tự miễn (Lupus, RA), tăng ure máu, hoặc sau nhồi máu cơ tim (Hội chứng Dressler).
 
 ### Ung thư phổi / Màng phổi di căn (Lung Cancer / Mesothelioma)
 
@@ -174,11 +172,14 @@ Cận lâm sàng chẩn đoán:
 
 ### Viêm màng ngoài tim cấp (Acute Pericarditis)
 
-**Bệnh sử:** Đau nhói sắc nét hoặc đè ép sau xương ức / ngực trái, lan lên vai trái (bờ cơ thang).
+Đau nhói sắc nét hoặc đè ép sau xương ức / ngực trái, lan lên vai trái (bờ cơ thang).
 
--   **Yếu tố tư thế đặc hiệu:** **Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho**; **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
--   **Tiền căn:** Có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
--   **Khám thực thể:** Nghe tim phát hiện **Tiếng cọ màng ngoài tim (Pericardial friction rub)** ở bờ trái xương ức (tiếng thô ráp xuất hiện ở cả thì tâm thu và tâm trương, nghe rõ nhất khi bệnh nhân ngồi cúi ra trước và nín thở).
+-   **Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho**
+- **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
+
+**Tiền căn:** Có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
+
+Khám thực thể: **Tiếng cọ màng ngoài tim (Pericardial friction rub)** ở bờ trái xương ức (tiếng thô ráp xuất hiện ở cả thì tâm thu và tâm trương, nghe rõ nhất khi bệnh nhân ngồi cúi ra trước và nín thở).
 
 ## Đau ngực do nguyên nhân Tiêu hóa (Trào ngược / Co thắt thực quản / Loét dạ dày)
 
