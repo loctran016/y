@@ -46,7 +46,7 @@ graph TD
     class E,E1,E2,E3,E4,E1a,E2a,E3a,E4a khongdotim;
 ```
 
-### Tính chất đau ngực
+## Bệnh sử đau ngực
 
 Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai thác đủ **7 tính chất**:
 
@@ -57,6 +57,54 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 5. **Cường độ đau:** Đau nhẹ, trung bình hay dữ dội (thang điểm VAS)?
 6. **Thời gian kéo dài:** Kéo dài vài giây, vài phút (5–15 phút), > 20 phút hay ê ẩm dai dẳng nhiều ngày?
 7. **Yếu tố tăng / giảm:** Giảm khi nghỉ ngơi, khi ngồi cúi người ra trước, ngậm Nitroglycerin; hay tăng khi hít thở sâu, ho, ấn vào thành ngực?
+
+## Kiểu đau
+
+### Đau ngực kiểu màng phổi
+
+**Đau ngực kiểu màng phổi (Pleuritic Chest Pain)** phản ảnh tình trạng kích thích hoặc viêm nhiễm tại lá thành của màng phổi hoặc màng ngoài tim.
+
+Đau nhói, sắc, như **”dao đâm”**, thường khu trú một bên ngực.
+
+-   Đau tăng rõ rệt khi hít thở sâu, ho, hắt hơi hoặc cử động lồng ngực.
+-   Đau giảm khi nín thở, nằm nghiêng ép sang bên ngực bị tổn thương hoặc dùng tay đè nén cố định thành ngực.
+
+Khám thực thể:
+
+- **Nghiệm pháp Hít sâu - Nín thở (Tư thế):** Yêu cầu bệnh nhân **hít sâu vào** (cảm giác đau tăng vọt), sau đó **nín thở** hoặc **nằm nghiêng ép người sang bên bị đau** (cảm giác đau giảm rõ rệt do cố định lồng ngực).
+- tiếng **cọ màng phổi** ở thì hít vào và đầu thì thở ra; hoặc khám tìm **Hội chứng 3 giảm** (giảm dãn nở, giảm/mất rung thanh, gõ đục, giảm/mất rì rào phế nang) nếu có tràn dịch màng phổi đi kèm.
+- Gõ vang trống + mất rì rào phế nang 1 bên nếu có tràn khí màng phổi.
+
+**Nguyên nhân:**
+
+- Viêm phổi hoặc Tràn dịch màng phổi cận viêm, Tràn khí màng phổi tự phát
+- Thuyên tắc phổi
+- Lao màng phổi
+- Ung thư di căn màng phổi.
+- Viêm màng ngoài tim cấp: **đau giảm rõ khi ngồi cúi người ra trước**; sau nhồi máu cơ tim (Hội chứng Dressler)
+
+**Hướng lan gợi ý vị trí tổn thương:**
+
+- _Viêm màng phổi sườn:_ Đau khu trú chính xác tại vị trí màng phổi bị tổn thương, kèm tăng cảm giác đau nông ngoài da.
+- _Viêm màng phổi hoành vùng trung tâm:_ Đau lan lên **vùng vai cùng bên** (do thần kinh hoành màng phổi dẫn truyền chung rễ thần kinh cổ `C₄`).
+- _Viêm màng phổi hoành vùng ngoại biên:_ Đau lan xuống hạ sườn, mạn sườn hoặc lan khắp bụng.
+
+:::details{summary="Sinh lý bệnh cảm giác đau"}
+
+**Lá thành màng phổi** chứa các thụ cảm thể cảm giác đau (chi phối bởi thần kinh gian sườn và thần kinh hoành), trong khi lá tạng màng phổi không có thụ cảm thể đau.
+
+Khi màng phổi bị viêm, bề mặt màng phổi trở nên thô ráp. Thì hít vào làm lồng ngực dãn nở, hai lá màng phổi trượt cọ xát lên nhau gây kích thích thần kinh cảm giác.
+
+Trong đợt tràn dịch màng phổi, khi **lượng dịch tích tụ ngày càng nhiều** đẩy tách hai lá màng phổi ra xa, triệu chứng đau ngực kiểu màng phổi sẽ **có xu hướng giảm bớt**, nhường chỗ cho triệu chứng **khó thở** nổi trội.
+
+:::
+
+| Nhóm nguyên nhân | Bệnh cảnh lâm sàng đặc trưng |
+| :--- | :--- |
+| **1. Bệnh lý Nhu mô & Màng phổi** | • **Viêm phổi / Tràn dịch màng phổi cận viêm:** Đau ngực kiểu màng phổi kèm sốt cao, ho khạc đờm mủ, nghe phổi có ran nổ.<br>• **Tràn khí màng phổi tự phát:** Đau ngực kiểu màng phổi đột ngột một bên kèm khó thở cấp, nghe rì rào phế nang giảm/mất.<br>• **Lao màng phổi / Ung thư di căn màng phổi:** Đau ngực âm ỉ kéo dài, sốt về chiều, ho khan, sụt cân, khám có **Hội chứng 3 giảm**. |
+| **2. Bệnh lý Mạch máu phổi** | • **Thuyên tắc phổi (PE):** Đau ngực kiểu màng phổi **khởi phát đột ngột** kèm khó thở, thở nhanh, nhịp tim nhanh, ho ra máu, có yếu tố nguy cơ huyết khối (nằm lâu, hậu phẫu, DVT). |
+| **3. Bệnh lý Tim mạch** | • **Viêm màng ngoài tim cấp:** Đau nhói sau xương ức/ngực trái giống kiểu màng phổi, đặc điểm chìa khóa: **đau giảm rõ khi ngồi cúi người ra trước**. |
+| **4. Các nguyên nhân khác** | • **Bệnh tự miễn:** Lupus ban đỏ hệ thống (SLE), Viêm khớp dạng thấp gây tràn dịch/viêm đa màng.<br>• **Chấn thương lồng ngực / Viêm sụn sườn / Herpes Zoster:** Đau thành ngực, ấn có điểm đau khu trú nông trên xương sườn. |
 
 ### Triệu chứng đi kèm:
 
@@ -151,21 +199,6 @@ Thuyên tắc phổi:
 
 ### Phổi - (Đau ngực kiểu MP)
 
-## Đau ngực kiểu màng phổi
-
-**Đau ngực kiểu màng phổi (Pleuritic Chest Pain)** phản ảnh tình trạng kích thích hoặc viêm nhiễm tại lá thành của màng phổi hoặc màng ngoài tim.
-
-Đau nhói, sắc, như **”dao đâm”**, thường khu trú một bên ngực.
-
--   Đau tăng rõ rệt khi hít thở sâu, ho, hắt hơi hoặc cử động lồng ngực.
--   Đau giảm khi nín thở, nằm nghiêng ép sang bên ngực bị tổn thương hoặc dùng tay đè nén cố định thành ngực.
-
-Khám thực thể:
-
-- **Nghiệm pháp Hít sâu - Nín thở (Tư thế):** Yêu cầu bệnh nhân **hít sâu vào** (cảm giác đau tăng vọt), sau đó **nín thở** hoặc **nằm nghiêng ép người sang bên bị đau** (cảm giác đau giảm rõ rệt do cố định lồng ngực).
-- tiếng **cọ màng phổi** ở thì hít vào và đầu thì thở ra; hoặc khám tìm **Hội chứng 3 giảm** (giảm dãn nở, giảm/mất rung thanh, gõ đục, giảm/mất rì rào phế nang) nếu có tràn dịch màng phổi đi kèm.
-- Gõ vang trống + mất rì rào phế nang 1 bên nếu có tràn khí màng phổi.
-
 **Nguyên nhân:**
 
 - Viêm phổi hoặc Tràn dịch màng phổi cận viêm, Tràn khí màng phổi tự phát
@@ -180,16 +213,6 @@ Khám thực thể:
 - _Viêm màng phổi hoành vùng trung tâm:_ Đau lan lên **vùng vai cùng bên** (do thần kinh hoành màng phổi dẫn truyền chung rễ thần kinh cổ `C₄`).
 - _Viêm màng phổi hoành vùng ngoại biên:_ Đau lan xuống hạ sườn, mạn sườn hoặc lan khắp bụng.
 
-:::details{summary="Sinh lý bệnh cảm giác đau"}
-
-**Lá thành màng phổi** chứa các thụ cảm thể cảm giác đau (chi phối bởi thần kinh gian sườn và thần kinh hoành), trong khi lá tạng màng phổi không có thụ cảm thể đau.
-
-Khi màng phổi bị viêm, bề mặt màng phổi trở nên thô ráp. Thì hít vào làm lồng ngực dãn nở, hai lá màng phổi trượt cọ xát lên nhau gây kích thích thần kinh cảm giác.
-
-Trong đợt tràn dịch màng phổi, khi **lượng dịch tích tụ ngày càng nhiều** đẩy tách hai lá màng phổi ra xa, triệu chứng đau ngực kiểu màng phổi sẽ **có xu hướng giảm bớt**, nhường chỗ cho triệu chứng **khó thở** nổi trội.
-
-:::
-
 | Nhóm nguyên nhân | Bệnh cảnh lâm sàng đặc trưng |
 | :--- | :--- |
 | **1. Bệnh lý Nhu mô & Màng phổi** | • **Viêm phổi / Tràn dịch màng phổi cận viêm:** Đau ngực kiểu màng phổi kèm sốt cao, ho khạc đờm mủ, nghe phổi có ran nổ.<br>• **Tràn khí màng phổi tự phát:** Đau ngực kiểu màng phổi đột ngột một bên kèm khó thở cấp, nghe rì rào phế nang giảm/mất.<br>• **Lao màng phổi / Ung thư di căn màng phổi:** Đau ngực âm ỉ kéo dài, sốt về chiều, ho khan, sụt cân, khám có **Hội chứng 3 giảm**. |
@@ -197,12 +220,6 @@ Trong đợt tràn dịch màng phổi, khi **lượng dịch tích tụ ngày c
 | **3. Bệnh lý Tim mạch** | • **Viêm màng ngoài tim cấp:** Đau nhói sau xương ức/ngực trái giống kiểu màng phổi, đặc điểm chìa khóa: **đau giảm rõ khi ngồi cúi người ra trước**. |
 | **4. Các nguyên nhân khác** | • **Bệnh tự miễn:** Lupus ban đỏ hệ thống (SLE), Viêm khớp dạng thấp gây tràn dịch/viêm đa màng.<br>• **Chấn thương lồng ngực / Viêm sụn sườn / Herpes Zoster:** Đau thành ngực, ấn có điểm đau khu trú nông trên xương sườn. |
 
-
-Cận lâm sàng chẩn đoán:
-
-- **X-quang ngực thẳng & Siêu âm màng phổi:** Đánh giá tổn thương nhu mô, phát hiện tràn dịch/tràn khí màng phổi.
-- **CT-scan ngực / CTA ngực:** Đánh giá chi tiết tổn thương xơ/u/lao hoặc dựng hình mạch máu chẩn đoán thuyên tắc phổi.
-- **Điện tâm đồ (ECG):** Loại trừ Hội chứng vành cấp hoặc phát hiện đoạn ST chênh lan tỏa trong Viêm màng ngoài tim cấp.
 
 ### Viêm màng ngoài tim cấp (Acute Pericarditis)
 
