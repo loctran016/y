@@ -10,9 +10,15 @@
 6. **Thời gian kéo dài:** Kéo dài vài giây, vài phút (5–15 phút), > 20 phút hay ê ẩm dai dẳng nhiều ngày?
 7. **Yếu tố tăng / giảm:** Giảm khi nghỉ ngơi, khi ngồi cúi người ra trước, ngậm Nitroglycerin; hay tăng khi hít thở sâu, ho, ấn vào thành ngực?
 
-### Kiểu đau
+Triệu chứng đi kèm:
 
-#### Đau ngực kiểu màng phổi
+Vã mồ hôi hột, khó thở, hồi hộp, sốt, ho, ho ra máu, nôn/buồn nôn, ợ chua.
+
+Tiền căn & Yếu tố nguy cơ
+
+Tăng huyết áp, Đái tháo đường, Hút thuốc lá, Rối loạn lipid máu, tiền căn nằm bất động/phẫu thuật, bệnh lý tim/phổi sẵn có.
+
+### Đau ngực kiểu màng phổi
 
 **Đau ngực kiểu màng phổi (Pleuritic Chest Pain)** phản ảnh tình trạng kích thích hoặc viêm nhiễm tại lá thành của màng phổi hoặc màng ngoài tim.
 
@@ -58,13 +64,26 @@ Trong đợt tràn dịch màng phổi, khi **lượng dịch tích tụ ngày c
 | **3. Bệnh lý Tim mạch** | • **Viêm màng ngoài tim cấp:** Đau nhói sau xương ức/ngực trái giống kiểu màng phổi, đặc điểm chìa khóa: **đau giảm rõ khi ngồi cúi người ra trước**. |
 | **4. Các nguyên nhân khác** | • **Bệnh tự miễn:** Lupus ban đỏ hệ thống (SLE), Viêm khớp dạng thấp gây tràn dịch/viêm đa màng.<br>• **Chấn thương lồng ngực / Viêm sụn sườn / Herpes Zoster:** Đau thành ngực, ấn có điểm đau khu trú nông trên xương sườn. |
 
-### Triệu chứng đi kèm:
+## Cơn đau thắt ngực ổn định / không ổn định
 
-Vã mồ hôi hột, khó thở, hồi hộp, sốt, ho, ho ra máu, nôn/buồn nôn, ợ chua.
+Đau kiểu **đè ép, siết chặt, bóp nghẹt, nặng ngực** sau xương ức hoặc ngực trái, lan lên cổ, hàm, vai và chạy dọc mặt trong cánh tay trái.
 
-### Tiền căn & Yếu tố nguy cơ
+Khám lâm sàng tìm kiếm:
 
-Tăng huyết áp, Đái tháo đường, Hút thuốc lá, Rối loạn lipid máu, tiền căn nằm bất động/phẫu thuật, bệnh lý tim/phổi sẵn có.
+- **Nghiệm pháp ấn thành ngực:** Dùng ngón tay ấn vào vùng ngực đau `→` **Không gây đau thêm (không có điểm đau khu trú)**.
+- tiếng **T3, T4 (tiếng ngựa phi/gallop)** hoặc âm thổi tâm thu mới xuất hiện do hở van hai lá cấp (biến chứng đứt/dãn cơ nhú).
+- **ran ẩm / ran nổ ở đáy phổi** để phát hiện biến chứng suy tim cấp hoặc sung huyết phổi.
+- **Phản ứng giao cảm:** Bệnh nhân lo âu, bứt rứt, da tái nhợt, vã mồ hôi hột, nhịp tim nhanh.
+
+Nguyên nhân:
+
+- **Hội chứng mạch vành cấp:** Nhồi máu cơ tim cấp (có/không ST chênh lên), Cơn đau thắt ngực không ổn định.
+- **Hội chứng mạch vành mạn:** Cơn đau thắt ngực ổn định.
+- **Khác:** Co thắt mạch vành (Prinzmetal), Bệnh vi mạch vành.
+
+Chẩn đoán:
+- Cơn đau thắt ngực ổn định, CCS (I/II/III), YTNC tim mạch.
+- Hội chứng vành cấp giờ thứ, biến chứng (rối loạn nhịp, suy tim cấp, thủng van), ytnc tim mạch
 
 ## Tiếp cận lâm sàng đau ngực
 
@@ -158,27 +177,6 @@ Khởi phát **đột ngột** đau ngực **kiểu màng phổi** hoặc đau �
 ### Chèn ép tim cấp
 
 Tụt huyết áp, tĩnh mạch cảnh nổi, tiếng tim mờ (tam chứng Beck)
-
-## Cơn đau thắt ngực ổn định / không ổn định
-
-Đau kiểu **đè ép, siết chặt, bóp nghẹt, nặng ngực** sau xương ức hoặc ngực trái, lan lên cổ, hàm, vai và chạy dọc mặt trong cánh tay trái.
-
-Khám lâm sàng tìm kiếm:
-
-- **Nghiệm pháp ấn thành ngực:** Dùng ngón tay ấn vào vùng ngực đau `→` **Không gây đau thêm (không có điểm đau khu trú)**.
-- tiếng **T3, T4 (tiếng ngựa phi/gallop)** hoặc âm thổi tâm thu mới xuất hiện do hở van hai lá cấp (biến chứng đứt/dãn cơ nhú).
-- **ran ẩm / ran nổ ở đáy phổi** để phát hiện biến chứng suy tim cấp hoặc sung huyết phổi.
-- **Phản ứng giao cảm:** Bệnh nhân lo âu, bứt rứt, da tái nhợt, vã mồ hôi hột, nhịp tim nhanh.
-
-Nguyên nhân:
-
-- **Hội chứng mạch vành cấp:** Nhồi máu cơ tim cấp (có/không ST chênh lên), Cơn đau thắt ngực không ổn định.
-- **Hội chứng mạch vành mạn:** Cơn đau thắt ngực ổn định.
-- **Khác:** Co thắt mạch vành (Prinzmetal), Bệnh vi mạch vành.
-
-Chẩn đoán:
-- Cơn đau thắt ngực ổn định, CCS (I/II/III), YTNC tim mạch.
-- Hội chứng vành cấp giờ thứ, biến chứng (rối loạn nhịp, suy tim cấp, thủng van), ytnc tim mạch
 
 ## Đau ngực do tim
 
