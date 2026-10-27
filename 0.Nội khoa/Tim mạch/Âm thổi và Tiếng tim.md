@@ -19,24 +19,29 @@
 
 ---
 
-### 1. BỆNH VAN HAI LÁ (Mitral Valve)
-* **Hở van 2 lá (Mitral Regurgitation - MR):**
+### Van 2 lá (Mitral Valve)
+
+**Hở van 2 lá (Mitral Regurgitation - MR):**
   * **Cơ chế:** Dòng máu phụt ngược từ thất trái về nhĩ trái trong kỳ tâm thu [cite: 42].
   * **Khám nghe:** Âm thổi toàn tâm thu nghe rõ nhất ở **mỏm tim**, lan ra **nách trái** [cite: 39, 42]. T1 mờ do lá van đóng không kín [cite: 39]. Xuất hiện tiếng **T3** khi có quá tải thể tích thất trái [cite: 39, 45].
-* **Hẹp van 2 lá (Mitral Stenosis - MS):**
+
+**Hẹp van 2 lá (Mitral Stenosis - MS):**
   * **Cơ chế:** Cản trở dòng máu đổ từ nhĩ trái xuống thất trái trong kỳ tâm trương [cite: 40].
   * **Khám nghe:** **Bộ 3 triệu chứng kinh điển tại mỏm tim:** **(1) T1 đanh**, **(2) Clac mở van (OS)** ở đầu tâm trương, và **(3) Rù tâm trương** có nhấn mạnh tiền tâm thu [cite: 39, 40, 42]. Nghe rõ nhất bằng **ống nghe chuông**, cho bệnh nhân **nằm nghiêng trái** và nín thở ở thì thở ra [cite: 40].
 
-### 2. BỆNH VAN ĐỘNG MẠCH CHỦ (Aortic Valve)
-* **Hẹp van ĐMC (Aortic Stenosis - AS):**
+### Van ĐỘNG MẠCH CHỦ (Aortic Valve)
+
+**Hẹp van ĐMC (Aortic Stenosis - AS):**
   * **Cơ chế:** Cản trở dòng máu tống từ thất trái ra động mạch chủ trong kỳ tâm thu [cite: 40, 47].
   * **Khám nghe:** Âm thổi giữa tâm thu dạng **hình trám (Crescendo-Decrescendo)**, thô ráp, nghe rõ nhất ở **KLS II bờ phải xương ức**, lan **dọc lên 2 động mạch cảnh** [cite: 40, 42]. Khi hẹp van nặng, đỉnh âm thổi đến muộn và tiếng T2 mờ/mất [cite: 45].
-* **Hở van ĐMC (Aortic Regurgitation - AR):**
+
+**Hở van ĐMC (Aortic Regurgitation - AR):**
   * **Cơ chế:** Dòng máu phụt ngược từ động mạch chủ về thất trái trong kỳ tâm trương [cite: 40, 47].
   * **Khám nghe:** Âm thổi đầu tâm trương dạng **giảm dần (Decrescendo)**, âm sắc cao êm dịu [cite: 40, 42]. Nghe rõ nhất ở **ổ Erb (KLS III bờ trái ức)** khi bệnh nhân **ngồi cúi người ra trước, thở ra hết sức và nín thở** [cite: 40]. Lan dọc bờ trái xương ức xuống mỏm [cite: 40, 42].
 
-### 3. BỆNH VAN BA LÁ VÀ VAN ĐỘNG MẠCH PHỔI (Tricuspid & Pulmonic Valves)
-* **Quy tắc phân biệt tim Phải vs. tim Trái (Nghiệm pháp Carvallo):**
+### Van 3 lá và van ĐM Phổi (Tricuspid & Pulmonic Valves)
+
+**Quy tắc phân biệt tim Phải vs. tim Trái (Nghiệm pháp Carvallo):**
   * Các âm thổi xuất phát từ **tim phải (van 3 lá, van ĐMP)** sẽ **tăng cường độ khi bệnh nhân hít vào sâu** (**Carvallo (+)**) do áp lực âm lồng ngực hút nhiều máu tĩnh mạch trở về tim phải [cite: 40, 45].
   * Các âm thổi xuất phát từ **tim trái (van 2 lá, van ĐMC)** thường không đổi hoặc giảm nhẹ khi hít vào [cite: 45].
 
@@ -132,18 +137,18 @@ Khi nghe thấy âm thổi ở tim, bắt buộc phải phân tích đầy đủ
 
 ## Cận lâm sàng
 
-### Điện tâm đồ (ECG)
+Điện tâm đồ (ECG)
 
 - Lớn nhĩ trái / nhĩ phải (Lớn nhĩ trái hay gặp trong hẹp/hở van hai lá).
 - Phì đại thất trái / thất phải.
 - Rối loạn nhịp: Rung nhĩ (rất hay gặp trong bệnh van hai lá do thấp).
 
-### X-quang lồng ngực
+X-quang lồng ngực
 
 - Đánh giá chỉ số tim - lồng ngực (bóng tim to).
 - Tăng tuần hoàn phổi, cung động mạch phổi nổi, phù mô kẽ / phù phế nang.
 
-### Siêu âm tim (Tiêu chuẩn vàng chẩn đoán)
+Siêu âm tim (Tiêu chuẩn vàng chẩn đoán)
 
 Là phương tiện cận lâm sàng **quan trọng nhất**:
 
@@ -157,8 +162,9 @@ Là phương tiện cận lâm sàng **quan trọng nhất**:
 
 ### Bước 1: Âm thổi này là Thực thể hay Cơ năng?
 
-- **Âm thổi cơ năng (Lành tính):** Âm thổi tâm thu, cường độ **`≤ 2/6`**, dạng giữa tâm thu, nghe ngắn, không lan, KHÔNG kèm triệu chứng bệnh tim khác, ECG và X-quang bình thường.
-- **Âm thổi thực thể:** TẤT CẢ âm thổi tâm trương hoặc liên tục; âm thổi tâm thu cường độ **`≥ 3/6`** hoặc có rung miêu; âm thổi toàn tâm thu/cuối tâm thu; hoặc có kèm triệu chứng bệnh tim khác.
+**Âm thổi cơ năng (Lành tính):** Âm thổi tâm thu, cường độ **`≤ 2/6`**, dạng giữa tâm thu, nghe ngắn, không lan, KHÔNG kèm triệu chứng bệnh tim khác, ECG và X-quang bình thường.
+
+**Âm thổi thực thể:** TẤT CẢ âm thổi tâm trương hoặc liên tục; âm thổi tâm thu cường độ **`≥ 3/6`** hoặc có rung miêu; âm thổi toàn tâm thu/cuối tâm thu; hoặc có kèm triệu chứng bệnh tim khác.
 
 ### Bước 2: Xác định Âm thổi thực thể do tổn thương van nào?
 
