@@ -1,6 +1,6 @@
 ## Tiếp cận lâm sàng đau ngực
 
-### Bệnh sử 
+### Tính chất đau ngực
 
 Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai thác đủ **7 tính chất**:
 
@@ -11,8 +11,13 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 5. **Cường độ đau:** Đau nhẹ, trung bình hay dữ dội (thang điểm VAS)?
 6. **Thời gian kéo dài:** Kéo dài vài giây, vài phút (5–15 phút), > 20 phút hay ê ẩm dai dẳng nhiều ngày?
 7. **Yếu tố tăng / giảm:** Giảm khi nghỉ ngơi, khi ngồi cúi người ra trước, ngậm Nitroglycerin; hay tăng khi hít thở sâu, ho, ấn vào thành ngực?
-8. **Triệu chứng đi kèm:** Vã mồ hôi hột, khó thở, hồi hộp, sốt, ho, ho ra máu, nôn/buồn nôn, ợ chua.
-9. **Tiền căn & Yếu tố nguy cơ:** Tăng huyết áp, Đái tháo đường, Hút thuốc lá, Rối loạn lipid máu, tiền căn nằm bất động/phẫu thuật, bệnh lý tim/phổi sẵn có.
+
+### Triệu chứng đi kèm:
+
+Vã mồ hôi hột, khó thở, hồi hộp, sốt, ho, ho ra máu, nôn/buồn nôn, ợ chua.
+### Tiền căn & Yếu tố nguy cơ
+
+Tăng huyết áp, Đái tháo đường, Hút thuốc lá, Rối loạn lipid máu, tiền căn nằm bất động/phẫu thuật, bệnh lý tim/phổi sẵn có.
 
 ## Đau ngực cấp cứu
 
