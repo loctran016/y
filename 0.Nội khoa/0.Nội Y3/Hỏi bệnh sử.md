@@ -1,5 +1,7 @@
 ## Tăng huyết áp
 
+Các nguyên nhân gây tăng huyết áp *tim mạch - RL lipid, thừa cân; thận niệu; nội tiết; đái tháo đường*
+
 1. Xác nhận BN có tăng HA [cite: 24]:
    * Trị số HA đo được lần này / hôm nay [cite: 24]
    * Trị số HA đo được những lần trước đó (HA dễ chịu, HA đỉnh/cao nhất) [cite: 24]
@@ -24,6 +26,8 @@
 ---
 
 ## Đau ngực
+
+Các nguyên nhân gây đau ngực: *tim mạch - RL lipid, hô hấp; tiêu hoá; đái tháo đường*
 
 1. Hỏi 7 tính chất đau ngực:
    * Hoàn cảnh khởi phát: Đột ngột / từ từ? Khi nghỉ ngơi hay khi gắng sức? Sau xúc động mạnh? Sau ăn?
@@ -54,6 +58,8 @@
 ---
 
 ## Khó thở
+
+Các nguyên nhân gây khó thở: *tim mạch - RL lipid; hô hấp; phù - thận; đái tháo đường*
 
 1. Xác nhận BN có thực sự khó thở:
    * Cảm giác thiếu không khí, ngộp thở, hụt hơi, thở không sâu [cite: 61]
