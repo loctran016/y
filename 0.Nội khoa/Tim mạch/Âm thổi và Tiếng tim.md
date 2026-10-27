@@ -6,6 +6,42 @@
 
 ---
 
+| Bệnh lý van tim | Thì chu chuyển tim | Dạng & Âm sắc âm thổi | Vị trí nghe rõ nhất | Hướng lan đặc trưng | Tiếng tim & Nghiệm pháp kèm theo |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hở van 2 lá** [cite: 39, 42] | **Tâm thu** (Toàn tâm thu / Pansystolic) [cite: 39, 42] | Âm sắc cao, dạng dải đều (plateau) [cite: 39, 43] | **Mỏm tim** (KLS V đường trung đòn trái) [cite: 39, 41] | **Lan ra nách trái** và ra sau lưng [cite: 39, 42] | • **T1 mờ/mất** [cite: 39]<br>• Có thể nghe tiếng **T3** ở mỏm nếu hở nặng [cite: 39] |
+| **Hẹp van ĐMC** [cite: 40, 42] | **Tâm thu** (Giữa tâm thu / Mid-systolic) [cite: 40, 44] | Dạng hình trám (Crescendo - Decrescendo), âm thô ráp [cite: 40, 42] | **Khoang liên sườn II bờ phải xương ức** (Ổ van ĐMC) [cite: 40, 41] | **Lan dọc lên 2 động mạch cảnh** ở cổ [cite: 40, 42] | • **Click phun máu** đầu tâm thu [cite: 39]<br>• **T2 mờ** hoặc tách đôi đảo ngược khi hẹp nặng [cite: 45] |
+| **Hở van 3 lá** [cite: 40, 42] | **Tâm thu** (Toàn tâm thu) [cite: 42] | Âm sắc êm dịu, dạng dải đều [cite: 42] | **KLS IV – V bờ trái xương ức** hoặc vùng mũi ức [cite: 40, 41] | Lan sang phải hoặc xuống vùng thượng vị [cite: 42] | • **Nghiệm pháp Carvallo (+):** Âm thổi **tăng cường độ rõ rệt khi hít vào sâu** [cite: 40, 45] |
+| **Hẹp van ĐMP** [cite: 41, 44] | **Tâm thu** (Giữa tâm thu) [cite: 44] | Dạng hình trám, âm thô ráp [cite: 44] | **KLS II bờ trái xương ức** (Ổ van ĐMP) [cite: 41, 44] | Lan lên vai trái và xương đòn trái | • Âm thổi tăng nhẹ khi hít vào<br>• Tiếng **P2 mờ** hoặc tách đôi rộng [cite: 39] |
+| **Hẹp van 2 lá** [cite: 40, 42] | **Tâm trương** (Rù tâm trương + Nhấn mạnh tiền tâm thu) [cite: 40, 42] | Âm trầm, như tiếng ve vỗ cánh / rù [cite: 40] | **Mỏm tim** (Nghe bằng chuông, nằm nghiêng trái, thở ra hết sức) [cite: 40] | Thường khu trú tại mỏm, **ít lan** [cite: 40] | • **T1 đanh** [cite: 39, 42]<br>• **Clac mở van (OS)** ở đầu tâm trương [cite: 39, 40]<br>• **P2 mạnh** nếu có tăng áp ĐMP [cite: 39] |
+| **Hở van ĐMC** [cite: 40, 42] | **Tâm trương** (Đầu tâm trương / Early diastolic) [cite: 40, 42] | Dạng giảm dần (Decrescendo), âm sắc cao êm dịu như tiếng thở [cite: 40, 42] | **KLS III bờ trái ức** (Ổ Erb-Botkin) hoặc KLS II bờ phải ức [cite: 40, 41] | **Lan dọc bờ trái xương ức** xuống vùng mỏm tim [cite: 40, 42] | • Nghe rõ nhất khi bệnh nhân **ngồi cúi người ra trước, thở ra hết sức và nín thở** [cite: 40]<br>• Dấu hiệu động tuần hoàn (Mạch Corrigan, dấu Hill) [cite: 40, 45] |
+| **Hở van ĐMP** *(Graham Steell)* [cite: 41, 44] | **Tâm trương** (Đầu tâm trương) [cite: 44] | Dạng giảm dần (Decrescendo), âm sắc cao [cite: 44] | **KLS II – III bờ trái xương ức** [cite: 41, 44] | Lan dọc bờ trái xương ức xuống dưới | • Thường xuất hiện thứ phát sau **Tăng áp lực động mạch phổi nặng** (P2 rất mạnh) [cite: 39] |
+| **Hẹp van 3 lá** [cite: 41] | **Tâm trương** (Rù tâm trương) | Âm trầm [cite: 40] | **KLS IV – V bờ trái xương ức** [cite: 41] | Khu trú | • **Nghiệm pháp Carvallo (+):** Tăng cường độ khi hít vào sâu [cite: 40, 45] |
+
+---
+
+### 1. BỆNH VAN HAI LÁ (Mitral Valve)
+* **Hở van 2 lá (Mitral Regurgitation - MR):**
+  * **Cơ chế:** Dòng máu phụt ngược từ thất trái về nhĩ trái trong kỳ tâm thu [cite: 42].
+  * **Khám nghe:** Âm thổi toàn tâm thu nghe rõ nhất ở **mỏm tim**, lan ra **nách trái** [cite: 39, 42]. T1 mờ do lá van đóng không kín [cite: 39]. Xuất hiện tiếng **T3** khi có quá tải thể tích thất trái [cite: 39, 45].
+* **Hẹp van 2 lá (Mitral Stenosis - MS):**
+  * **Cơ chế:** Cản trở dòng máu đổ từ nhĩ trái xuống thất trái trong kỳ tâm trương [cite: 40].
+  * **Khám nghe:** **Bộ 3 triệu chứng kinh điển tại mỏm tim:** **(1) T1 đanh**, **(2) Clac mở van (OS)** ở đầu tâm trương, và **(3) Rù tâm trương** có nhấn mạnh tiền tâm thu [cite: 39, 40, 42]. Nghe rõ nhất bằng **ống nghe chuông**, cho bệnh nhân **nằm nghiêng trái** và nín thở ở thì thở ra [cite: 40].
+
+### 2. BỆNH VAN ĐỘNG MẠCH CHỦ (Aortic Valve)
+* **Hẹp van ĐMC (Aortic Stenosis - AS):**
+  * **Cơ chế:** Cản trở dòng máu tống từ thất trái ra động mạch chủ trong kỳ tâm thu [cite: 40, 47].
+  * **Khám nghe:** Âm thổi giữa tâm thu dạng **hình trám (Crescendo-Decrescendo)**, thô ráp, nghe rõ nhất ở **KLS II bờ phải xương ức**, lan **dọc lên 2 động mạch cảnh** [cite: 40, 42]. Khi hẹp van nặng, đỉnh âm thổi đến muộn và tiếng T2 mờ/mất [cite: 45].
+* **Hở van ĐMC (Aortic Regurgitation - AR):**
+  * **Cơ chế:** Dòng máu phụt ngược từ động mạch chủ về thất trái trong kỳ tâm trương [cite: 40, 47].
+  * **Khám nghe:** Âm thổi đầu tâm trương dạng **giảm dần (Decrescendo)**, âm sắc cao êm dịu [cite: 40, 42]. Nghe rõ nhất ở **ổ Erb (KLS III bờ trái ức)** khi bệnh nhân **ngồi cúi người ra trước, thở ra hết sức và nín thở** [cite: 40]. Lan dọc bờ trái xương ức xuống mỏm [cite: 40, 42].
+
+### 3. BỆNH VAN BA LÁ VÀ VAN ĐỘNG MẠCH PHỔI (Tricuspid & Pulmonic Valves)
+* **Quy tắc phân biệt tim Phải vs. tim Trái (Nghiệm pháp Carvallo):**
+  * Các âm thổi xuất phát từ **tim phải (van 3 lá, van ĐMP)** sẽ **tăng cường độ khi bệnh nhân hít vào sâu** (**Carvallo (+)**) do áp lực âm lồng ngực hút nhiều máu tĩnh mạch trở về tim phải [cite: 40, 45].
+  * Các âm thổi xuất phát từ **tim trái (van 2 lá, van ĐMC)** thường không đổi hoặc giảm nhẹ khi hít vào [cite: 45].
+
+---
+
 ## Tiếp cận lâm sàng
 
 ### Triệu chứng cơ năng
