@@ -4,7 +4,7 @@
 
 Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai thác đủ **7 tính chất**:
 
-1. **Hoàn cảnh khởi phát:** Đột ngột hay từ từ? Khởi phát khi gắng sức, kích động tâm lý, sau ăn no, hay khi nằm/xoay trở?
+1. **Hoàn cảnh và yếu tố khởi phát:** Đột ngột hay từ từ? Khởi phát khi gắng sức, kích động tâm lý, sau ăn no, hay khi nằm/xoay trở?
 2. **Vị trí đau:** Sau xương ức, ngực trái, mỏm tim hay khu trú một bên lồng ngực?
 3. **Kiểu đau / Tính chất đau:** Đè ép, siết chặt, nặng trĩu, đau như xé/dao đâm, đau nóng rát, hay đau nhói kiểu màng phổi (tăng khi hít sâu/ho)?
 4. **Hướng lan:** Lan lên cổ, hàm, vai, mặt trong cánh tay trái, hay lan thẳng ra sau lưng giữa 2 xương bả vai?
@@ -13,8 +13,6 @@ Khi tiếp cận bệnh nhân đau ngực, bác sĩ cần chủ động khai th�
 7. **Yếu tố tăng / giảm:** Giảm khi nghỉ ngơi, khi ngồi cúi người ra trước, ngậm Nitroglycerin; hay tăng khi hít thở sâu, ho, ấn vào thành ngực?
 8. **Triệu chứng đi kèm:** Vã mồ hôi hột, khó thở, hồi hộp, sốt, ho, ho ra máu, nôn/buồn nôn, ợ chua.
 9. **Tiền căn & Yếu tố nguy cơ:** Tăng huyết áp, Đái tháo đường, Hút thuốc lá, Rối loạn lipid máu, tiền căn nằm bất động/phẫu thuật, bệnh lý tim/phổi sẵn có.
-
-? Cấp hay mạn
 
 | Tiêu chí | ĐAU NGỰC DO TIM | ĐAU NGỰC DO PHỔI |
 | :-------: | :-------: | :-------: |
