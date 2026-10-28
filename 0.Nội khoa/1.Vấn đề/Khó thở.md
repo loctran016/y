@@ -190,7 +190,7 @@ Khó thở cấp tính diễn tiến nhanh, giảm hơn khi ngồi cúi người
 - **Triệu chứng kèm theo:** Tam chứng Beck (tụt huyết áp, tĩnh mạch cổ nổi, tiếng tim mờ), mạch nghịch, đau ngực sau xương ức tăng lên khi nằm ngửa và khi hít sâu, tiếng cọ màng ngoài tim.
 
 ### HCVC - khó thở cấp
-
+3~~
 Khó thở cấp tính xuất hiện đột ngột (ở người già hoặc bệnh nhân đái tháo đường, khó thở có thể là triệu chứng duy nhất tương đương với đau ngực).
 
 **Triệu chứng kèm theo:** Đau ngực kiểu đè ép, siết chặt, nặng trĩu sau xương ức lan lên hàm hoặc tay trái, vã mồ hôi hột, hồi hộp, buồn nôn, nôn, nhịp tim nhanh hoặc tụt huyết áp.
