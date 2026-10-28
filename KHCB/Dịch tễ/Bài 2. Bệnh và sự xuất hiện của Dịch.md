@@ -55,14 +55,14 @@ Sự xuất hiện của bệnh là kết quả của sự tương tác qua lạ
 
 Dây truyền lây truyền mô tả con đường mầm bệnh di chuyển từ nguồn lây đến túc chủ mới qua 6 mắt xích [8-11]:
 
-- **Vật chủ (Nguồn truyền / Reservoir):** Nơi cư trú tự nhiên mà tác nhân sống và phát triển (người bệnh, người mang trùng, động vật, đất, nước) [8-10]. Người mang trùng gồm các dạng: không triệu chứng, mang trùng ẩn, hồi phục mang trùng và mạn tính [9].
-- **Ngõ ra (Portal of exit):** Con đường tác nhân rời khỏi vật chủ (đường hô hấp, tiêu hóa, sinh dục, máu hoặc qua da) [10].
-- **Tác nhân gây bệnh:** Vi sinh vật hoặc nhân tố gây bệnh rời khỏi vật chủ [10].
+- **Vật chủ (Nguồn truyền / Reservoir):** Nơi cư trú tự nhiên mà tác nhân sống và phát triển (người bệnh, người mang trùng, động vật, đất, nước). Người mang trùng gồm các dạng: không triệu chứng, mang trùng ẩn, hồi phục mang trùng và mạn tính.
+- **Ngõ ra (Portal of exit):** Con đường tác nhân rời khỏi vật chủ (đường hô hấp, tiêu hóa, sinh dục, máu hoặc qua da).
+- **Tác nhân gây bệnh:** Vi sinh vật hoặc nhân tố gây bệnh rời khỏi vật chủ.
 - **Cách thức lây truyền (Modes of transmission):**
-  - _Lây truyền trực tiếp:_ Tiếp xúc trực tiếp người - người, tiếp xúc với đất/thực vật, hoặc bắn giọt bắn ở khoảng cách ngắn [10, 11].
-  - _Lây truyền gián tiếp:_ Qua vật chuyên chở chung (nước, thức ăn, đồ dùng), sinh vật trung gian/vector (ruồi, muỗi - truyền cơ học hoặc sinh học), hoặc qua không khí [10, 11].
-- **Ngõ vào (Portal of entry):** Con đường mầm bệnh xâm nhập vào túc chủ mới (thường tương ứng với ngõ ra, như niêm mạc hô hấp, tiêu hóa, vết thương da) [10, 11].
-- **Túc chủ cảm thụ (Susceptible host):** Cá thể thiếu kháng thể bảo vệ đặc hiệu hoặc có sức đề kháng suy giảm [11].
+  - _Lây truyền trực tiếp:_ Tiếp xúc trực tiếp người - người, tiếp xúc với đất/thực vật, hoặc bắn giọt bắn ở khoảng cách ngắn.
+  - _Lây truyền gián tiếp:_ Qua vật chuyên chở chung (nước, thức ăn, đồ dùng), sinh vật trung gian/vector (ruồi, muỗi - truyền cơ học hoặc sinh học), hoặc qua không khí.
+- **Ngõ vào (Portal of entry):** Con đường mầm bệnh xâm nhập vào túc chủ mới (thường tương ứng với ngõ ra, như niêm mạc hô hấp, tiêu hóa, vết thương da).
+- **Túc chủ cảm thụ (Susceptible host):** Cá thể thiếu kháng thể bảo vệ đặc hiệu hoặc có sức đề kháng suy giảm.
 
 ### Ứng dụng dây truyền lây trong phòng ngừa
 
@@ -78,7 +78,7 @@ Dây truyền lây truyền mô tả con đường mầm bệnh di chuyển từ
 
 **Miễn dịch quần thể (Herd immunity)** là sức đề kháng của một nhóm người đối với sự tấn công của một bệnh dịch, đạt được khi một tỷ lệ lớn thành viên trong cộng đồng có miễn dịch bảo vệ.
 
-Khi tỷ lệ người có miễn dịch đủ cao, dây truyền lây bị gián đoạn vì tác nhân khó tìm thấy túc chủ cảm thụ. Nhờ đó, những cá thể chưa có miễn dịch (như trẻ sơ sinh, người dị ứng vắc-xin) cũng được **bảo vệ gián tiếp** [4, 5]. Đây là cơ sở khoa học để triển khai các chiến dịch tiêm chủng mở rộng mà không cần thiết phải đạt 100% bao phủ dân số.
+Khi tỷ lệ người có miễn dịch đủ cao, dây truyền lây bị gián đoạn vì tác nhân khó tìm thấy túc chủ cảm thụ. Nhờ đó, những cá thể chưa có miễn dịch (như trẻ sơ sinh, người dị ứng vắc-xin) cũng được **bảo vệ gián tiếp**. Đây là cơ sở khoa học để triển khai các chiến dịch tiêm chủng mở rộng mà không cần thiết phải đạt 100% bao phủ dân số.
 
 ---
 
@@ -89,17 +89,17 @@ Khi tỷ lệ người có miễn dịch đủ cao, dây truyền lây bị giá
 - **Tản phát / Ca lẻ tày dịch (Sporadic):** Bệnh xuất hiện bất thường, rải rác, các ca không có mối liên hệ rõ ràng về không gian và thời gian.
 - **Mức lưu hành (Endemic):** Bệnh hiện diện thường xuyên và tương đối ổn định ở mức độ mong đợi trong một cộng đồng.
 - **Mức lưu hành cao (Hyperendemic):** Bệnh hiện diện liên tục ở mức độ rất cao trong dân số.
-- **Vụ dịch / Trận dịch (Epidemic / Outbreak):** Số ca mắc bệnh gia tăng đột ngột, vượt rõ rệt so với mức độ lưu hành bình thường trong một khu vực và khoảng thời gian cụ thể [5, 12].
-- **Đại dịch (Pandemic):** Trận dịch bùng phát lan rộng ra nhiều quốc gia, châu lục hoặc toàn cầu [12].
+- **Vụ dịch / Trận dịch (Epidemic / Outbreak):** Số ca mắc bệnh gia tăng đột ngột, vượt rõ rệt so với mức độ lưu hành bình thường trong một khu vực và khoảng thời gian cụ thể.
+- **Đại dịch (Pandemic):** Trận dịch bùng phát lan rộng ra nhiều quốc gia, châu lục hoặc toàn cầu.
 
 ### Các mô hình vụ dịch
 
-- **Dịch nguồn chung (Common source):** Tất cả bệnh nhân cùng tiếp xúc với một nguồn lây chung [12].
-  - _Nguồn điểm (Point source):_ Tiếp xúc một lần trong thời gian ngắn (ví dụ: ngộ độc thực phẩm tại một bữa tiệc) [12].
-  - _Tiếp xúc liên tục (Continuous source):_ Tiếp xúc kéo dài qua nhiều ngày/tuần (ví dụ: nguồn nước bị ô nhiễm liên tục) [12].
-  - _Tiếp xúc ngắt quãng (Intermittent source):_ Tiếp xúc không liên tục theo từng đợt [12].
-- **Dịch lan truyền / Nhân rộng (Propagated):** Lây từ người sang người qua tiếp xúc trực tiếp, giọt bắn hoặc vector, làm số ca bệnh tăng thành nhiều làn sóng nối tiếp nhau [12].
-- **Dịch hỗn hợp (Mixed):** Bắt đầu bằng một dịch nguồn chung, sau đó mầm bệnh tiếp tục lan truyền từ người sang người [12].
+- **Dịch nguồn chung (Common source):** Tất cả bệnh nhân cùng tiếp xúc với một nguồn lây chung.
+  - _Nguồn điểm (Point source):_ Tiếp xúc một lần trong thời gian ngắn (ví dụ: ngộ độc thực phẩm tại một bữa tiệc).
+  - _Tiếp xúc liên tục (Continuous source):_ Tiếp xúc kéo dài qua nhiều ngày/tuần (ví dụ: nguồn nước bị ô nhiễm liên tục).
+  - _Tiếp xúc ngắt quãng (Intermittent source):_ Tiếp xúc không liên tục theo từng đợt.
+- **Dịch lan truyền / Nhân rộng (Propagated):** Lây từ người sang người qua tiếp xúc trực tiếp, giọt bắn hoặc vector, làm số ca bệnh tăng thành nhiều làn sóng nối tiếp nhau.
+- **Dịch hỗn hợp (Mixed):** Bắt đầu bằng một dịch nguồn chung, sau đó mầm bệnh tiếp tục lan truyền từ người sang người.
 
 ## Định Nghĩa Trường Hợp Bệnh
 
@@ -109,6 +109,6 @@ Các mức độ trong phân loại ca bệnh:
 
 - **Ca nghi ngờ (Suspected case):** Dựa trên triệu chứng lâm sàng định hướng ban đầu.
 - **Ca có khả năng (Probable case):** Dựa trên triệu chứng lâm sàng rõ rệt kèm yếu tố dịch tễ học phù hợp.
-- **Ca xác định (Confirmed case):** Đã có bằng chứng khẳng định từ xét nghiệm phòng thí nghiệm [6, 13].
+- **Ca xác định (Confirmed case):** Đã có bằng chứng khẳng định từ xét nghiệm phòng thí nghiệm.
 
-Tùy theo mục tiêu giám sát (cần độ nhạy cao để phát hiện sớm hay độ đặc hiệu cao để khẳng định nguyên nhân), nhà dịch tễ học sẽ điều chỉnh định nghĩa trường hợp rộng hay hẹp phù hợp [13].
+Tùy theo mục tiêu giám sát (cần độ nhạy cao để phát hiện sớm hay độ đặc hiệu cao để khẳng định nguyên nhân), nhà dịch tễ học sẽ điều chỉnh định nghĩa trường hợp rộng hay hẹp phù hợp.

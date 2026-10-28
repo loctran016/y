@@ -82,8 +82,8 @@ Khi số đo mới mắc được ghi nhận dưới dạng **tỷ suất mới 
 `RR = IR₁/IR₀ = (a/NTG₁)/(b/NTG₀)`
 
 - **Ví dụ SGK (Bảng 4.5):** Nghiên cứu sử dụng kích thích tố hậu mãn kinh và bệnh mạch vành tính theo đơn vị người-năm [7, 10]:
-  - Tỷ suất nhóm sử dụng kích thích tố: `IR₁ = 30/(54.308,7 người-năm) = 5,52 / 10.000 người-năm` [10].
-  - Tỷ suất nhóm không sử dụng: `IR₀ = 60/(51.477,5 người-năm) = 11,66 / 10.000 người-năm` [10].
+  - Tỷ suất nhóm sử dụng kích thích tố: `IR₁ = 30/(54.308,7 người-năm) = 5,52 / 10.000 người-năm`.
+  - Tỷ suất nhóm không sử dụng: `IR₀ = 60/(51.477,5 người-năm) = 11,66 / 10.000 người-năm`.
   - `RR = 5,52/11,66 = 0,47`.
 
 #### Cách giải thích và ý nghĩa của giá trị RR
@@ -112,23 +112,23 @@ Khi số đo mới mắc được ghi nhận dưới dạng **tỷ suất mới 
 
 #### Ứng dụng OR trong nghiên cứu bệnh - chứng và điều kiện xấp xỉ RR
 
-- Trong **nghiên cứu bệnh - chứng**, đối tượng được chọn dựa trên trạng thái đã có bệnh (`a+c`) hay không có bệnh (`b+d`), nên nhà nghiên cứu **không thể tính trực tiếp số mới mắc (`R₁, R₀`)** để tìm `RR` [3, 8, 12].
-- Tuy nhiên, ta có thể tính số chênh phơi nhiễm ở nhóm bệnh (`a/c`) và nhóm chứng (`b/d`) [12]. Về mặt toán học, tỷ số của hai số chênh phơi nhiễm cũng cho ra đúng kết quả:
+- Trong **nghiên cứu bệnh - chứng**, đối tượng được chọn dựa trên trạng thái đã có bệnh (`a+c`) hay không có bệnh (`b+d`), nên nhà nghiên cứu **không thể tính trực tiếp số mới mắc (`R₁, R₀`)** để tìm `RR`.
+- Tuy nhiên, ta có thể tính số chênh phơi nhiễm ở nhóm bệnh (`a/c`) và nhóm chứng (`b/d`). Về mặt toán học, tỷ số của hai số chênh phơi nhiễm cũng cho ra đúng kết quả:
 
 `OR = (a/c)/(b/d) = (a × d)/(b × c)`
 
-- **Điều kiện bệnh hiếm (`OR ≈ RR`):** Khi bệnh nghiên cứu có tỷ lệ mắc rất thấp trong dân số (thường là **`< 5%`**), số ca bệnh `a` và `c` sẽ rất nhỏ so với `b` và `d` [12]. Khi đó: `a + b ≈ b` và `c + d ≈ d` [12].
+- **Điều kiện bệnh hiếm (`OR ≈ RR`):** Khi bệnh nghiên cứu có tỷ lệ mắc rất thấp trong dân số (thường là **`< 5%`**), số ca bệnh `a` và `c` sẽ rất nhỏ so với `b` và `d`. Khi đó: `a + b ≈ b` và `c + d ≈ d`.
 - Lúc này, công thức `RR` trở thành [12]:
 
 `RR = (a/(a+b))/(c/(c+d)) ≈ (a/b)/(c/d) = (a × d)/(b × c) = OR`
 
-Do đó, trong nghiên cứu bệnh - chứng về bệnh hiếm, giá trị **`OR` được dùng để ước lượng gần đúng cho nguy cơ tương đối `RR`** [8, 12].
+Do đó, trong nghiên cứu bệnh - chứng về bệnh hiếm, giá trị **`OR` được dùng để ước lượng gần đúng cho nguy cơ tương đối `RR`**.
 
 ---
 
 ## Các Số Đo Tác Động Dạng Quy Trách
 
-Khác với `RR` hay `OR` (đo độ mạnh mối liên quan), các số đo tác động dạng hiệu số đo lường **gánh nặng bệnh tật thực sự** do yếu tố nguy cơ gây ra và trả lời câu hỏi: _Nếu loại bỏ hoàn toàn yếu tố nguy cơ thì tỷ lệ bệnh tật sẽ giảm đi bao nhiêu?_ [8, 13].
+Khác với `RR` hay `OR` (đo độ mạnh mối liên quan), các số đo tác động dạng hiệu số đo lường **gánh nặng bệnh tật thực sự** do yếu tố nguy cơ gây ra và trả lời câu hỏi: _Nếu loại bỏ hoàn toàn yếu tố nguy cơ thì tỷ lệ bệnh tật sẽ giảm đi bao nhiêu?_.
 
 ### Nguy Cơ Quy Trách (Attributable Risk - AR)
 
@@ -138,10 +138,10 @@ Khác với `RR` hay `OR` (đo độ mạnh mối liên quan), các số đo tá
 
 `AR = R₁ - R₀ = a/(a + b) - c/(c + d)`
 
-- **Ý nghĩa:** `AR` phản ánh lượng nguy cơ dôi ra riêng ở nhóm phơi nhiễm do chính yếu tố phơi nhiễm đó gây ra (sau khi đã trừ đi nguy cơ do các nguyên nhân khác) [13, 14].
+- **Ý nghĩa:** `AR` phản ánh lượng nguy cơ dôi ra riêng ở nhóm phơi nhiễm do chính yếu tố phơi nhiễm đó gây ra (sau khi đã trừ đi nguy cơ do các nguyên nhân khác).
 - **Ví dụ SGK:** Với `R₁ = 12%` và `R₀ = 4%`:
   `AR = 12% - 4% = 8% trong 6 năm`
-  - _Giải thích:_ Nếu loại bỏ hoàn toàn tăng cholesterol máu ở những người có cholesterol cao về mức bình thường thì trong 6 năm sẽ **giảm được 8 ca mắc bệnh mạch vành trên mỗi 100 người** thuộc nhóm này [14].
+  - _Giải thích:_ Nếu loại bỏ hoàn toàn tăng cholesterol máu ở những người có cholesterol cao về mức bình thường thì trong 6 năm sẽ **giảm được 8 ca mắc bệnh mạch vành trên mỗi 100 người** thuộc nhóm này.
 
 #### Phần trăm nguy cơ quy trách (AR%)
 
@@ -151,7 +151,7 @@ Khác với `RR` hay `OR` (đo độ mạnh mối liên quan), các số đo tá
 
 - **Ví dụ SGK:**
   `AR% = (0,12 - 0,04)/0,12 × 100% = 67%`
-  - _Giải thích:_ Trong số những người tăng cholesterol máu bị bệnh mạch vành, có **`67%` số ca bệnh thực sự là do tăng cholesterol máu gây ra** [14]. Nếu kiểm soát tốt cholesterol máu cho nhóm này, số ca bệnh mạch vành ở họ sẽ giảm `67%` [14].
+  - _Giải thích:_ Trong số những người tăng cholesterol máu bị bệnh mạch vành, có **`67%` số ca bệnh thực sự là do tăng cholesterol máu gây ra**. Nếu kiểm soát tốt cholesterol máu cho nhóm này, số ca bệnh mạch vành ở họ sẽ giảm `67%`.
 
 ### Nguy Cơ Quy Trách Dân Số (Population Attributable Risk - PAR)
 
@@ -190,15 +190,15 @@ Hoặc tính theo tỷ lệ phơi nhiễm trong dân số (`p_e`) và nguy cơ t
 
 #### Ứng dụng của số đo tương đối (RR, OR)
 
-- Cho biết **độ mạnh của mối liên quan nhân - quả** giữa yếu tố nguy cơ và bệnh [6, 11].
-- Giá trị `RR` hoặc `OR` càng lớn hơn 1 (hoặc càng nhỏ hơn 1) thì bằng chứng về mối liên quan nhân - quả giữa phơi nhiễm và bệnh càng mạnh [11].
-- Giúp các nhà nghiên cứu kiểm định giả thuyết dịch tễ học [6, 11].
+- Cho biết **độ mạnh của mối liên quan nhân - quả** giữa yếu tố nguy cơ và bệnh.
+- Giá trị `RR` hoặc `OR` càng lớn hơn 1 (hoặc càng nhỏ hơn 1) thì bằng chứng về mối liên quan nhân - quả giữa phơi nhiễm và bệnh càng mạnh.
+- Giúp các nhà nghiên cứu kiểm định giả thuyết dịch tễ học.
 
 #### Ứng dụng của số đo tác động (AR, PAR)
 
-- **`AR` và `AR%` (Ý nghĩa lâm sàng):** Giúp bác sĩ lâm sàng tư vấn trực tiếp cho cá nhân người bệnh về lợi ích sức khỏe thực tế nếu họ ngừng tiếp xúc với yếu tố nguy cơ (ví dụ: tư vấn cai thuốc lá hay kiểm soát mỡ máu) [8, 13].
-- **`PAR` và `PAR%` (Ý nghĩa y tế công cộng):** Giúp các nhà hoạch định chính sách y tế đánh giá hiệu quả của các chương trình can thiệp trên quy mô toàn dân [6, 8].
-- Một yếu tố nguy cơ dù có `RR` rất cao nhưng nếu tỷ lệ phơi nhiễm trong dân số (`p_e`) rất thấp thì `PAR%` của nó cũng sẽ nhỏ [8, 15]. Ngược lại, một yếu tố nguy cơ có `RR` vừa phải nhưng nếu rất phổ biến trong cộng đồng thì việc can thiệp loại bỏ nó sẽ mang lại hiệu quả cải thiện sức khỏe cộng đồng rất lớn [8, 15].
+- **`AR` và `AR%` (Ý nghĩa lâm sàng):** Giúp bác sĩ lâm sàng tư vấn trực tiếp cho cá nhân người bệnh về lợi ích sức khỏe thực tế nếu họ ngừng tiếp xúc với yếu tố nguy cơ (ví dụ: tư vấn cai thuốc lá hay kiểm soát mỡ máu).
+- **`PAR` và `PAR%` (Ý nghĩa y tế công cộng):** Giúp các nhà hoạch định chính sách y tế đánh giá hiệu quả của các chương trình can thiệp trên quy mô toàn dân.
+- Một yếu tố nguy cơ dù có `RR` rất cao nhưng nếu tỷ lệ phơi nhiễm trong dân số (`p_e`) rất thấp thì `PAR%` của nó cũng sẽ nhỏ. Ngược lại, một yếu tố nguy cơ có `RR` vừa phải nhưng nếu rất phổ biến trong cộng đồng thì việc can thiệp loại bỏ nó sẽ mang lại hiệu quả cải thiện sức khỏe cộng đồng rất lớn.
 
 ### Bảng Tóm Tắt Công Thức
 
@@ -206,12 +206,12 @@ Bảng tổng hợp công thức các số đo kết hợp và tác động dự
 
 | Loại số đo                             |   Ký hiệu   | Công thức tính toán từ Bảng 2x2                                                                                               |
 | :------------------------------------- | :---------: | :---------------------------------------------------------------------------------------------------------------------------- |
-| **Nguy cơ tương đối**                  |  `RR`   | `RR = (a / (a + b))/(c / (c + d))` _(theo nguy cơ)_ <br> `RR = (a / NTG₁)/(b / NTG₀)` _(theo tỷ suất)_ [15] |
-| **Tỷ số số chênh**                     |  `OR`   | `OR = (a × d)/(b × c)` [15]                                                                                 |
-| **Nguy cơ quy trách**                  |  `AR`   | `AR = R₁ - R₀ = a/(a + b) - c/(c + d)` [15]                                                                 |
-| **Phần trăm nguy cơ quy trách**        | `AR%`  | `AR% = (R₁ - R₀)/R₁ × 100% = (RR - 1)/RR × 100%` [15]                                         |
-| **Nguy cơ quy trách dân số**           |  `PAR`  | `PAR = R_T - R₀` [15]                                                                                                    |
-| **Phần trăm nguy cơ quy trách dân số** | `PAR%` | `PAR% = (R_T - R₀)/R_T × 100% = (p_e (RR - 1))/(1 + p_e (RR - 1)) × 100%` [15]                    |
+| **Nguy cơ tương đối**                  |  `RR`   | `RR = (a / (a + b))/(c / (c + d))` _(theo nguy cơ)_ <br> `RR = (a / NTG₁)/(b / NTG₀)` _(theo tỷ suất)_ |
+| **Tỷ số số chênh**                     |  `OR`   | `OR = (a × d)/(b × c)`                                                                                 |
+| **Nguy cơ quy trách**                  |  `AR`   | `AR = R₁ - R₀ = a/(a + b) - c/(c + d)`                                                                 |
+| **Phần trăm nguy cơ quy trách**        | `AR%`  | `AR% = (R₁ - R₀)/R₁ × 100% = (RR - 1)/RR × 100%`                                         |
+| **Nguy cơ quy trách dân số**           |  `PAR`  | `PAR = R_T - R₀`                                                                                                    |
+| **Phần trăm nguy cơ quy trách dân số** | `PAR%` | `PAR% = (R_T - R₀)/R_T × 100% = (p_e (RR - 1))/(1 + p_e (RR - 1)) × 100%`                    |
 
 ---
 
@@ -219,6 +219,6 @@ Bảng tổng hợp công thức các số đo kết hợp và tác động dự
 
 Khi nghiên cứu bất kỳ hiện tượng sức khỏe nào trong cộng đồng, dịch tễ học lần lượt trả lời 3 câu hỏi lớn [16]:
 
-1. **Hiện tượng đó xảy ra phổ biến như thế nào?** `→` Trả lời bằng các _số đo bệnh trạng_ (Số hiện mắc `P`, Số mới mắc `I, CI, IR`) [16].
-2. **Nguyên nhân nào gây ra hiện tượng đó?** `→` Trả lời bằng các _số đo kết hợp dạng tương đối_ (`RR, OR`) [16].
-3. **Mức độ cải thiện sức khỏe cộng đồng là bao nhiêu nếu tiến hành can thiệp?** `→` Trả lời bằng các _số đo tác động dạng quy trách_ (`AR, AR%, PAR, PAR%`) [16].
+1. **Hiện tượng đó xảy ra phổ biến như thế nào?** `→` Trả lời bằng các _số đo bệnh trạng_ (Số hiện mắc `P`, Số mới mắc `I, CI, IR`).
+2. **Nguyên nhân nào gây ra hiện tượng đó?** `→` Trả lời bằng các _số đo kết hợp dạng tương đối_ (`RR, OR`).
+3. **Mức độ cải thiện sức khỏe cộng đồng là bao nhiêu nếu tiến hành can thiệp?** `→` Trả lời bằng các _số đo tác động dạng quy trách_ (`AR, AR%, PAR, PAR%`).

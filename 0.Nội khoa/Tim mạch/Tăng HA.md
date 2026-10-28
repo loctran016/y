@@ -34,7 +34,7 @@ Cơn THA khẩn cấp: THA độ 3 nhưng chưa có tổn thương cơ quan đí
 | :----------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
 | **Trị số Huyết áp**                  | Thường **(≥ 180/120 mmHg)** (Tăng huyết áp độ 3) .                                                                                        | Thường **(≥ 180/120 mmHg)** (Tăng huyết áp độ 3) .                                                                        |
 | **Tổn thương cơ quan đích cấp tính** | **CÓ** biến chứng tổn thương cơ quan đích cấp tính, đe dọa tính mạng người bệnh.                                                          | **KHÔNG CÓ** tổn thương cơ quan đích cấp tính .                                                                           |
-| **Triệu chứng lâm sàng**             | Rầm rộ tùy thuộc vào cơ quan bị tổn thương: Đau ngực dữ dội, khó thở cấp, lơ mơ, co giật, yếu liệt chi, nhìn mờ đột ngột, tiểu ít [3, 4]. | Thường không có triệu chứng hoặc chỉ có triệu chứng nhẹ/không đặc hiệu: Nhức đầu nhẹ, choáng váng, hồi hộp, lo âu [3, 4]. |
+| **Triệu chứng lâm sàng**             | Rầm rộ tùy thuộc vào cơ quan bị tổn thương: Đau ngực dữ dội, khó thở cấp, lơ mơ, co giật, yếu liệt chi, nhìn mờ đột ngột, tiểu ít. | Thường không có triệu chứng hoặc chỉ có triệu chứng nhẹ/không đặc hiệu: Nhức đầu nhẹ, choáng váng, hồi hộp, lo âu. |
 | **Nơi điều trị**                     | **Bắt buộc nhập viện khẩn cấp** (Khoa Cấp cứu / ICU).                                                                                     | Không nhất thiết phải nhập viện, có thể xử trí và theo dõi tại phòng cấp cứu/ngoại trú .                                  |
 | **Thái độ dùng thuốc hạ áp**         | Dùng thuốc hạ áp **đường tiêm tĩnh mạch (IV)**, hạ huyết áp khẩn cấp và kiểm soát chặt chẽ theo phác đồ từng bệnh cảnh.                   | Dùng thuốc hạ áp **đường uống (Oral)**, hạ huyết áp từ từ trong vòng **24 – 48 giờ** .                                    |
 
@@ -98,11 +98,11 @@ Khi tiếp nhận bệnh nhân có huyết áp (≥ 180/120 mmHg), bác sĩ cầ
 1. **Hỏi bệnh sử & Khám thực thể hệ thống (Não, Mắt, Tim, Thận, Mạch máu):** Hỏi triệu chứng đau ngực, khó thở, đau đầu, nhìn mờ, tiểu ít; khám thần kinh định vị, nghe tim/phổi, bắt mạch ngoại biên 4 chi.
 2. **Đề nghị Cận lâm sàng khẩn cấp để tìm tổn thương cơ quan đích:**
    - **Điện tâm đồ (ECG 12 chuyển đạo):** Tìm dấu hiệu thiếu máu cơ tim / NMCT cấp, phì đại thất trái.
-   - **Men tim (hs-Troponin I/T):** Xác định tổn thương cơ tim cấp [11, 12].
-   - **X-quang ngực thẳng:** Đánh giá ứ huyết phổi, bóng tim, dãn quai động mạch chủ [6, 11].
+   - **Men tim (hs-Troponin I/T):** Xác định tổn thương cơ tim cấp.
+   - **X-quang ngực thẳng:** Đánh giá ứ huyết phổi, bóng tim, dãn quai động mạch chủ.
    - **Sinh hóa máu & Tổng phân tích nước tiểu:** Creatinine, Ure, Ion đồ, định lượng đạm niệu/hồng cầu niệu để đánh giá chức năng thận.
-   - **Soi đáy mắt:** Tầm soát xuất huyết võng mạc và phù gai thị [5, 10].
-   - **CT scan / MRI não:** Chỉ định khi bệnh nhân có rối loạn tri giác, co giật hoặc dấu thần kinh khu trú [8, 13].
+   - **Soi đáy mắt:** Tầm soát xuất huyết võng mạc và phù gai thị.
+   - **CT scan / MRI não:** Chỉ định khi bệnh nhân có rối loạn tri giác, co giật hoặc dấu thần kinh khu trú.
 
 ---
 

@@ -25,21 +25,21 @@ Theo đáp ứng điều trị: (Không) đáp ứng ĐT ban đầu
 
 Viêm phổi cần nhập ICU được gọi là viêm phổi nặng, còn lại không phân độ
 
-### Thang điểm CURB-65 (Hiệp hội Lồng ngực Anh - BTS)** [9]
+### Thang điểm CURB-65 (Hiệp hội Lồng ngực Anh - BTS)**
 
 Mỗi tiêu chuẩn đạt tính 1 điểm:
 
-- **C (Confusion):** Mất định hướng / Rối loạn tri giác [9].
-- **U (Urea):** BUN (> 7text mmol/L) (hoặc (> 19text mg/dL) [9].
-- **R (Respiratory rate):** Nhịp thở (ge 30text lần/phút) [9].
-- **B (Blood pressure):** HA tâm thu (< 90text mmHg) hoặc HA tâm trương (le 60text mmHg) [9].
-- **65:** Tuổi (ge 65) [9].
+- **C (Confusion):** Mất định hướng / Rối loạn tri giác.
+- **U (Urea):** BUN (> 7text mmol/L) (hoặc (> 19text mg/dL).
+- **R (Respiratory rate):** Nhịp thở (ge 30text lần/phút).
+- **B (Blood pressure):** HA tâm thu (< 90text mmHg) hoặc HA tâm trương (le 60text mmHg).
+- **65:** Tuổi (ge 65).
 
 | Điểm CURB-65 | Tỉ lệ tử vong 30 ngày | Hướng xử trí đề xuất |
 | :-————: | :-——————: | :————————————————— |
-| **0 – 1 điểm** | (0,7 - 2,1%) | **Điều trị ngoại trú** [9]. |
-| **2 điểm** | (9,2%) | **Nhập viện điều trị nội trú** (Khoa Nội phổi) [9]. |
-| **(ge 3) điểm** | (14,5 - 57%) | **Nhập viện nội trú nặng / Cân nhắc ICU** [9]. |
+| **0 – 1 điểm** | (0,7 - 2,1%) | **Điều trị ngoại trú**. |
+| **2 điểm** | (9,2%) | **Nhập viện điều trị nội trú** (Khoa Nội phổi). |
+| **(ge 3) điểm** | (14,5 - 57%) | **Nhập viện nội trú nặng / Cân nhắc ICU**. |
 
 ### Tiêu chuẩn ATS/IDSA (2007)
 
@@ -120,9 +120,9 @@ Các biến chứng thường gặp:
    - Bắt buộc thực hiện để chẩn đoán xác định viêm phổi (độ nhạy (sim 75%).
    - **Hình ảnh đặc trưng:** Thâm nhiễm đám mờ phế nang/mô kẽ, đám mờ đồng nhất dạng thùy kèm hình ảnh **"khí phế quản đồ" (Air-bronchogram)**.
 2. **Chụp cắt lớp vi tính (CT scan) ngực:**
-   - Chỉ định khi X-quang ngực không rõ ràng, nghi ngờ biến chứng (áp xe, tràn mủ màng phổi) hoặc cần tìm bệnh nền phối hợp (COPD, Giãn phế quản, U phổi) [5, 7].
+   - Chỉ định khi X-quang ngực không rõ ràng, nghi ngờ biến chứng (áp xe, tràn mủ màng phổi) hoặc cần tìm bệnh nền phối hợp (COPD, Giãn phế quản, U phổi).
 3. **Xét nghiệm máu & Sinh hóa:**
-   - **Công thức máu:** Bạch cầu tăng ((> 12.000/textmm^3) với Neutrophil ưu thế [5, 8].
+   - **Công thức máu:** Bạch cầu tăng ((> 12.000/textmm^3) với Neutrophil ưu thế.
    - **Biomarkers:** **CRP** và **Procalcitonin (PCT)** tăng cao giúp khẳng định nhiễm vi khuẩn và theo dõi đáp ứng kháng sinh.
    - **Khí máu động mạch (ABG):** Đánh giá mức độ suy hô hấp ((PaO_2), (PaCO_2).
 4. **Xét nghiệm Vi sinh (Nhuộm Gram & Cấy đờm, Cấy máu):**
@@ -153,12 +153,12 @@ Do kết quả cấy vi khuẩn thường mất (48 - 72) giờ, việc lựa ch
 
 | Mức độ nặng / Cơ địa              | Tác nhân vi sinh thường gặp nhất                                                                                          |
 | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
-| **Nhẹ (Ngoại trú)**               | _Streptococcus pneumoniae_, _Mycoplasma pneumoniae_, _Chlamydia pneumoniae_, _Haemophilus influenzae_, Virus hô hấp [12]. |
-| **Trung bình (Khoa Nội)**         | _S. pneumoniae_, _M. pneumoniae_, _H. influenzae_, Vi khuẩn Gram âm ruột, _Legionella spp._, Anaerobes [12].              |
-| **Nặng (ICU)**                    | _S. pneumoniae_, _Legionella spp._, _Staphylococcus aureus_ (MRSA), _Pseudomonas aeruginosa_, Trực khuẩn Gram âm [12].    |
-| **Cơ địa COPD / Hút thuốc**       | _H. influenzae_, _Pseudomonas aeruginosa_, _Legionella spp._, _Moraxella catarrhalis_ [12].                               |
-| **Cơ địa Hít sặc / Răng mồm kém** | Vi khuẩn Gram âm đường ruột, Vi khuẩn kỵ khí vùng răng miệng [12].                                                        |
-| **Bệnh cấu trúc phổi (Giãn PQ)**  | _Pseudomonas aeruginosa_, _Burkholderia cepacia_, _S. aureus_ [12].                                                       |
+| **Nhẹ (Ngoại trú)**               | _Streptococcus pneumoniae_, _Mycoplasma pneumoniae_, _Chlamydia pneumoniae_, _Haemophilus influenzae_, Virus hô hấp. |
+| **Trung bình (Khoa Nội)**         | _S. pneumoniae_, _M. pneumoniae_, _H. influenzae_, Vi khuẩn Gram âm ruột, _Legionella spp._, Anaerobes.              |
+| **Nặng (ICU)**                    | _S. pneumoniae_, _Legionella spp._, _Staphylococcus aureus_ (MRSA), _Pseudomonas aeruginosa_, Trực khuẩn Gram âm.    |
+| **Cơ địa COPD / Hút thuốc**       | _H. influenzae_, _Pseudomonas aeruginosa_, _Legionella spp._, _Moraxella catarrhalis_.                               |
+| **Cơ địa Hít sặc / Răng mồm kém** | Vi khuẩn Gram âm đường ruột, Vi khuẩn kỵ khí vùng răng miệng.                                                        |
+| **Bệnh cấu trúc phổi (Giãn PQ)**  | _Pseudomonas aeruginosa_, _Burkholderia cepacia_, _S. aureus_.                                                       |
 
 ---
 

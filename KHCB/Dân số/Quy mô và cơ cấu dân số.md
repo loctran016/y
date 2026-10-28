@@ -105,7 +105,7 @@ Bài giảng gồm 2 phần chính :
 
 #### **Tháp tuổi thoái biến** (Dân số già)
 
-**Đặc điểm:** Đáy tháp nhỏ dần, đỉnh tháp phình to [6, 8].
+**Đặc điểm:** Đáy tháp nhỏ dần, đỉnh tháp phình to.
 
 **Tính chất:** Tỷ số phụ thuộc già cao, phản ánh dân số già .
 
@@ -132,14 +132,14 @@ Bài giảng gồm 2 phần chính :
 
 ---
 
-### Tỷ lệ người cao tuổi** [9, 10]
+### Tỷ lệ người cao tuổi**
 
 ### **Phân loại của Thế giới (Cowgill & Holmes, 1970)** _(tính % người `≥ 65` tuổi)_ [9, 10]:
 
-- **`≥ 7%`:** Dân số già hóa (ageing society) [9, 10].
-- **`≥ 10%`:** Dân số già (aged society) — mốc kết thúc giai đoạn dân số vàng [9, 10].
-- **`≥ 20%`:** Dân số rất già (very aged society) [9, 10].
-- **`≥ 30%`:** Dân số siêu già (super aged society) [9, 10].
+- **`≥ 7%`:** Dân số già hóa (ageing society).
+- **`≥ 10%`:** Dân số già (aged society) — mốc kết thúc giai đoạn dân số vàng.
+- **`≥ 20%`:** Dân số rất già (very aged society).
+- **`≥ 30%`:** Dân số siêu già (super aged society).
 
 #### **Phân loại tại Việt Nam** _(tính % người `≥ 60` tuổi - độ tuổi về hưu)_ :
 
@@ -156,7 +156,7 @@ Bài giảng gồm 2 phần chính :
 
 ---
 
-### 4. Tỷ số giới tính
+### Tỷ số giới tính
 
 **Khái niệm:** Tỷ số giới tính (Sex Ratio - SR) là số nam tính trên 100 nữ:
   `SR = (Số nam)/(Số nữ) × 100`

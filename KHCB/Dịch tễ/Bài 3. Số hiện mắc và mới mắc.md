@@ -28,18 +28,18 @@ Số hiện mắc (Prevalence) phản ánh **trạng thái hoặc tính phổ bi
 
 ### Công Dụng Của Số Hiện Mắc
 
-- Đo lường gánh nặng bệnh tật hiện tại của cộng đồng [5, 6].
+- Đo lường gánh nặng bệnh tật hiện tại của cộng đồng.
 - Giúp các nhà quản lý y tế lập kế hoạch, tính toán nhu cầu điều trị, ước tính số giường bệnh, trang thiết bị y tế, thuốc men và nguồn nhân lực cần thiết.
 
 ---
 
 ## Số Mới Mắc
 
-Số mới mắc (Incidence) mô tả sự chuyển đổi từ **trạng thái không bệnh sang trạng thái có bệnh**. Số mới mắc phản ánh khả năng hoặc xác suất xuất hiện ca bệnh mới ở những người chưa bao giờ mắc bệnh (gọi là **dân số nguy cơ**) [4, 7].
+Số mới mắc (Incidence) mô tả sự chuyển đổi từ **trạng thái không bệnh sang trạng thái có bệnh**. Số mới mắc phản ánh khả năng hoặc xác suất xuất hiện ca bệnh mới ở những người chưa bao giờ mắc bệnh (gọi là **dân số nguy cơ**).
 
 ### Số Mới Mắc Tích Lũy (Nguy Cơ)
 
-Số mới mắc tích lũy (Cumulative Incidence - CI / Risk) là xác suất để một cá nhân không có bệnh sẽ phát triển bệnh trong một khoảng thời gian nhất định [7, 8].
+Số mới mắc tích lũy (Cumulative Incidence - CI / Risk) là xác suất để một cá nhân không có bệnh sẽ phát triển bệnh trong một khoảng thời gian nhất định.
 
 `Số mới mắc tích lũy = (Số người mới mắc bệnh trong một thời khoảng)/(Dân số nguy cơ có mặt vào đầu thời khoảng)`
 
@@ -47,27 +47,27 @@ Số mới mắc tích lũy (Cumulative Incidence - CI / Risk) là xác suất �
 
 ### Tỷ Suất Mới Mắc (Tỷ Trọng Mới Mắc)
 
-Tỷ suất mới mắc (Incidence Density / Incidence Rate) đo lường tốc độ xuất hiện ca bệnh mới tính trên tổng thời gian nguy cơ mà các cá thể đóng góp [3, 9].
+Tỷ suất mới mắc (Incidence Density / Incidence Rate) đo lường tốc độ xuất hiện ca bệnh mới tính trên tổng thời gian nguy cơ mà các cá thể đóng góp.
 
 `Tỷ suất mới mắc = (Số ca bệnh mới khởi phát)/(Tổng thời gian - người nguy cơ)`
 
-- **Đặc điểm:** Là một tỷ suất thực sự, có đơn vị là `1/(thời gian)` (ví dụ: ca/người-năm) và trị số có thể kéo dài từ `0` đến `∞` [9].
+- **Đặc điểm:** Là một tỷ suất thực sự, có đơn vị là `1/(thời gian)` (ví dụ: ca/người-năm) và trị số có thể kéo dài từ `0` đến `∞`.
 
 ### Các Điểm Lưu Ý Và Thời Gian - Người
 
-- **Dân số nguy cơ:** Chỉ bao gồm những người chưa mắc bệnh và có khả năng mắc bệnh (loại trừ những người đã mắc bệnh hoặc đã có miễn dịch) [10].
+- **Dân số nguy cơ:** Chỉ bao gồm những người chưa mắc bệnh và có khả năng mắc bệnh (loại trừ những người đã mắc bệnh hoặc đã có miễn dịch).
 - **Thời gian - người (Person-time):** Là tổng thời gian mà mỗi cá thể trong dân số thực sự đóng góp vào quá trình theo dõi khi họ còn có nguy cơ mắc bệnh (chưa bị bệnh, chưa tử vong, chưa bỏ cuộc). Đơn vị thường dùng là _người-năm_, _người-tháng_.
 
 ---
 
 ## Mối Liên Quan Giữa Số Hiện Mắc Và Số Mới Mắc
 
-Số hiện mắc (`P`) chịu ảnh hưởng đồng thời bởi số mới mắc (`I`) và thời gian kéo dài trung bình của bệnh (`d`) [11]. Trong điều kiện ổn định, mối liên quan này được thể hiện qua công thức xấp xỉ:
+Số hiện mắc (`P`) chịu ảnh hưởng đồng thời bởi số mới mắc (`I`) và thời gian kéo dài trung bình của bệnh (`d`). Trong điều kiện ổn định, mối liên quan này được thể hiện qua công thức xấp xỉ:
 
-`P ≈ I × d` [11]
+`P ≈ I × d`
 
-- **Bệnh mạn tính:** Có thời gian kéo dài bệnh (`d`) lớn, do đó số hiện mắc (`P`) sẽ cao hơn nhiều so với số mới mắc (`I`) [11].
-- **Bệnh cấp tính / Chữa khỏi nhanh hoặc Tử vong nhanh:** Có thời gian bệnh (`d`) ngắn, làm cho số hiện mắc (`P`) giữ ở mức thấp dù số mới mắc (`I`) có thể cao [11].
+- **Bệnh mạn tính:** Có thời gian kéo dài bệnh (`d`) lớn, do đó số hiện mắc (`P`) sẽ cao hơn nhiều so với số mới mắc (`I`).
+- **Bệnh cấp tính / Chữa khỏi nhanh hoặc Tử vong nhanh:** Có thời gian bệnh (`d`) ngắn, làm cho số hiện mắc (`P`) giữ ở mức thấp dù số mới mắc (`I`) có thể cao.
 
 ---
 
@@ -75,13 +75,13 @@ Số hiện mắc (`P`) chịu ảnh hưởng đồng thời bởi số mới m�
 
 ### Số Đo Về Bệnh Và Dịch
 
-- **Tỷ suất tấn công (Attack Rate):** Bản chất là số mới mắc tích lũy, dùng cho các đợt bùng phát dịch trong thời gian ngắn [11].
-  `Tỷ suất tấn công = (Số ca bệnh mới của một bệnh cụ thể trong đợt dịch)/(Tổng dân số nguy cơ trong cùng thời khoảng)` [11]
-- **Tỷ suất tấn công thứ phát (Secondary Attack Rate):** Đo lường tỷ lệ ca bệnh mới xuất hiện ở những người có tiếp xúc với ca bệnh nguyên phát [12].
+- **Tỷ suất tấn công (Attack Rate):** Bản chất là số mới mắc tích lũy, dùng cho các đợt bùng phát dịch trong thời gian ngắn.
+  `Tỷ suất tấn công = (Số ca bệnh mới của một bệnh cụ thể trong đợt dịch)/(Tổng dân số nguy cơ trong cùng thời khoảng)`
+- **Tỷ suất tấn công thứ phát (Secondary Attack Rate):** Đo lường tỷ lệ ca bệnh mới xuất hiện ở những người có tiếp xúc với ca bệnh nguyên phát.
 
 ### Số Đo Về Tử Vong
 
-- **Tỷ suất chết thô (Crude Mortality Rate):** Tổng số ca tử vong do mọi nguyên nhân chia cho dân số giữa kỳ [12].
-- **Tỷ suất chết nguyên nhân cụ thể (Cause-specific Mortality Rate):** Số ca tử vong do một nguyên nhân cụ thể chia cho dân số giữa kỳ [12].
-- **Tỷ suất chết bệnh (Case-Fatality Rate):** Tỷ lệ số người tử vong do một bệnh cụ thể trên tổng số người mắc chính bệnh đó [12].
-- **Tỷ suất chết trẻ em dưới 1 tuổi, chết sơ sinh (<28 ngày), chết chu sinh và tỷ suất chết mẹ:** Các chỉ số quan trọng phản ánh sức khỏe sinh sản và chất lượng hệ thống y tế [6, 12].
+- **Tỷ suất chết thô (Crude Mortality Rate):** Tổng số ca tử vong do mọi nguyên nhân chia cho dân số giữa kỳ.
+- **Tỷ suất chết nguyên nhân cụ thể (Cause-specific Mortality Rate):** Số ca tử vong do một nguyên nhân cụ thể chia cho dân số giữa kỳ.
+- **Tỷ suất chết bệnh (Case-Fatality Rate):** Tỷ lệ số người tử vong do một bệnh cụ thể trên tổng số người mắc chính bệnh đó.
+- **Tỷ suất chết trẻ em dưới 1 tuổi, chết sơ sinh (<28 ngày), chết chu sinh và tỷ suất chết mẹ:** Các chỉ số quan trọng phản ánh sức khỏe sinh sản và chất lượng hệ thống y tế.

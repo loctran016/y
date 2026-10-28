@@ -58,7 +58,7 @@ Sự phối hợp giữa đánh giá triệu chứng và nguy cơ đợt cấp x
 
 Mô hình chẩn đoán tổng thể cho bệnh nhân COPD ổn định phối hợp mức độ giới hạn đường dẫn khí và phân nhóm lâm sàng:
 
-$$\text{COPD} \ - \ \text{GOLD [1–4]} \ - \ \text{Nhóm [A/B/C/D]}$$
+$$\text{COPD} \ - \ \text{GOLD 1 – 4} \ - \ \text{Nhóm [A/B/C/D]}$$
 
 _Ví dụ chẩn đoán:_ **Bệnh phổi tắc nghẽn mạn tính (COPD) - GOLD 2 - Nhóm B** _(ở bệnh nhân có_ $\text{FEV}_1 = 65\%$_, điểm mMRC = 2, không có đợt cấp nào nhập viện trong năm qua)_.
 
@@ -72,8 +72,8 @@ _Ví dụ chẩn đoán:_ **Bệnh phổi tắc nghẽn mạn tính (COPD) - GOL
 - **Mức độ Trung bình:** Bệnh nhân cần điều trị phối hợp thuốc giãn phế quản tác dụng ngắn (SABA) cùng với kháng sinh và/hoặc corticosteroid uống .
 - **Mức độ Nặng:** Bệnh nhân cần phải nhập viện hoặc thăm khám tại phòng Cấp cứu. Ở người bệnh nhập viện, độ nặng được phân chia thêm (chi tiết bên dưới):
   - Không suy hô hấp cấp
-  - Suy hô hấp cấp không đe doạ tính mạng (Không thay đổi *tri giác*)
-  - Suy hô hấp cấp đe doạ tính mạng (Thay đổi *tri giác*) 
+  - Suy hô hấp cấp không đe doạ tính mạng (Không thay đổi _tri giác_)
+  - Suy hô hấp cấp đe doạ tính mạng (Thay đổi _tri giác_)
 
 ---
 

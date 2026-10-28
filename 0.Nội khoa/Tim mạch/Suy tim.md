@@ -14,29 +14,29 @@ TCCN đặc hiệu và giá trị nhất của suy tim là Khó thở khi gắng
 
 ### Đau ngực thứ phát trong suy tim
 
-Sự khác biệt giữa **Đau ngực thứ phát trong suy tim** với **Cơn đau thắt ngực ổn định** và **Cơn đau thắt ngực không ổn định** nằm ở **bản chất tổn thương nguyên phát**, **cơ chế sinh lý bệnh** và **triệu chứng lâm sàng kèm theo** [cite: 18, 61, 70, 114].
+Sự khác biệt giữa **Đau ngực thứ phát trong suy tim** với **Cơn đau thắt ngực ổn định** và **Cơn đau thắt ngực không ổn định** nằm ở **bản chất tổn thương nguyên phát**, **cơ chế sinh lý bệnh** và **triệu chứng lâm sàng kèm theo**.
 
 SO SÁNH BẢN CHẤT & CƠ CHẾ SINH LÝ BỆNH
 
-| Tiêu chí | Cơn đau thắt ngực ỔN ĐỊNH [cite: 61, 70, 114] | Cơn đau thắt ngực KHÔNG ỔN ĐỊNH [cite: 60, 61, 114] | Đau ngực THỨ PHÁT trong SUY TIM [cite: 18, 22, 110] |
+| Tiêu chí | Cơn đau thắt ngực ỔN ĐỊNH | Cơn đau thắt ngực KHÔNG ỔN ĐỊNH | Đau ngực THỨ PHÁT trong SUY TIM |
 | :--- | :--- | :--- | :--- |
-| **Bản chất nguyên phát** | **Mảng xơ vữa cố định** làm hẹp lòng động mạch vành (thường \\(\ge 70\%\\)) [cite: 60, 70]. | **Nứt vỡ/loét mảng xơ vữa** \\(\rightarrow\\) hình thành huyết khối gây tắc nghẽn cấp tính (không hoàn toàn) [cite: 61, 70]. | **Không nhất thiết do hẹp/tắc mạch vành nguyên phát**, mà do hậu quả huyết động và biến chứng của suy tim [cite: 18, 22]. |
-| **Cơ chế thiếu máu / gây đau** | **Mất cân bằng Cung - Cầu O<sub>2</sub> khi gắng sức**: Nhu cầu \\(O_2\\) cơ tim tăng nhưng mạch vành bị hẹp không dãn ra đủ [cite: 61, 70]. | **Giảm đột ngột dòng máu mạch vành**: Do huyết khối tụ lại trên mảng xơ vữa bị tổn thương [cite: 61, 70]. | **Tăng áp lực thất & Biến chứng ngoại biên**: <br>• LVEDP tăng chèn ép mạch máu dưới nội tâm mạc [cite: 18].<br>• Nhịp nhanh rút ngắn thời gian tâm trương [cite: 17].<br>• Căng bao Glisson gan, tràn dịch màng phổi/tim, thuyên tắc phổi [cite: 21, 22, 108]. |
+| **Bản chất nguyên phát** | **Mảng xơ vữa cố định** làm hẹp lòng động mạch vành (thường `≥ 70%`). | **Nứt vỡ/loét mảng xơ vữa** `→` hình thành huyết khối gây tắc nghẽn cấp tính (không hoàn toàn). | **Không nhất thiết do hẹp/tắc mạch vành nguyên phát**, mà do hậu quả huyết động và biến chứng của suy tim. |
+| **Cơ chế thiếu máu / gây đau** | **Mất cân bằng Cung - Cầu O<sub>2</sub> khi gắng sức**: Nhu cầu `O₂` cơ tim tăng nhưng mạch vành bị hẹp không dãn ra đủ. | **Giảm đột ngột dòng máu mạch vành**: Do huyết khối tụ lại trên mảng xơ vữa bị tổn thương. | **Tăng áp lực thất & Biến chứng ngoại biên**: <br>• LVEDP tăng chèn ép mạch máu dưới nội tâm mạc.<br>• Nhịp nhanh rút ngắn thời gian tâm trương.<br>• Căng bao Glisson gan, tràn dịch màng phổi/tim, thuyên tắc phổi. |
 
  BẢNG PHÂN BIỆT ĐẶC ĐIỂM LÂM SÀNG
 
-| Đặc điểm lâm sàng | Cơn đau thắt ngực ỔN ĐỊNH [cite: 61, 85, 89, 114] | Cơn đau thắt ngực KHÔNG ỔN ĐỊNH [cite: 85, 89, 114] | Đau ngực THỨ PHÁT trong SUY TIM [cite: 18, 22, 45, 110] |
+| Đặc điểm lâm sàng | Cơn đau thắt ngực ỔN ĐỊNH | Cơn đau thắt ngực KHÔNG ỔN ĐỊNH | Đau ngực THỨ PHÁT trong SUY TIM |
 | :--- | :--- | :--- | :--- |
-| **Hoàn cảnh khởi phát** | **Dự đoán được**: Khi gắng sức, căng thẳng tâm lý, thời tiết lạnh, sau ăn no [cite: 61, 87, 89]. | **Bất ngờ / Đột ngột**: Xảy ra cả khi nghỉ ngơi, khi đang ngủ, hoặc khi gắng sức rất nhẹ [cite: 61, 85, 114]. | **Thay đổi theo tư thế & tình trạng sung huyết**: Đau/nặng ngực khi nằm phẳng (orthopnea), khi vận động hoặc sau ho dai dẳng [cite: 44, 110]. |
-| **Thời gian kéo dài** | **Ngắn** (thường \\(< 5 - 10\\) phút, dưới 15 phút) [cite: 85, 115]. | **Kéo dài hơn** (thường \\(> 15 - 20\\) phút hoặc diễn tiến tăng dần) [cite: 85, 114, 115]. | **Dai dẳng hoặc kéo dài** tùy nguyên nhân (đau tức hạ sườn phải dai dẳng do gan to; đau kiểu màng phổi kéo dài) [cite: 22, 119]. |
-| **Đáp ứng với nghỉ ngơi / Nitroglycerin** | **Đáp ứng tốt**: Đau dịu nhanh sau 3–5 phút nghỉ ngơi hoặc ngậm Nitroglycerin [cite: 85, 87, 89]. | **Đáp ứng kém hoặc không đáp ứng** với nghỉ ngơi / Nitroglycerin [cite: 85, 89, 116]. | **Đáp ứng tốt với điều trị Suy tim / Lợi tiểu**: Đau ngực/nặng ngực giảm rõ khi dùng lợi tiểu xả bớt thể tích, giảm LVEDP hoặc hạ nhịp tim [cite: 7, 18]. |
-| **Triệu chứng kèm theo** | Thường **không có hoặc nhẹ** (khó thở nhẹ) [cite: 89]. | **Rầm rộ phản ứng giao cảm**: Vã mồ hôi hột, lo âu, bứt rứt, da tái nhợt, hoảng sợ [cite: 85, 89, 116]. | **Rõ rệt dấu hiệu Sung huyết & Tải thể tích**: Khó thở kịch phát về đêm (PND), tĩnh mạch cổ nổi, gan to, ấn lõm phù 2 chân, ran ẩm đáy phổi [cite: 44, 45, 110]. |
+| **Hoàn cảnh khởi phát** | **Dự đoán được**: Khi gắng sức, căng thẳng tâm lý, thời tiết lạnh, sau ăn no. | **Bất ngờ / Đột ngột**: Xảy ra cả khi nghỉ ngơi, khi đang ngủ, hoặc khi gắng sức rất nhẹ. | **Thay đổi theo tư thế & tình trạng sung huyết**: Đau/nặng ngực khi nằm phẳng (orthopnea), khi vận động hoặc sau ho dai dẳng. |
+| **Thời gian kéo dài** | **Ngắn** (thường `< 5 - 10` phút, dưới 15 phút). | **Kéo dài hơn** (thường `> 15 - 20` phút hoặc diễn tiến tăng dần). | **Dai dẳng hoặc kéo dài** tùy nguyên nhân (đau tức hạ sườn phải dai dẳng do gan to; đau kiểu màng phổi kéo dài). |
+| **Đáp ứng với nghỉ ngơi / Nitroglycerin** | **Đáp ứng tốt**: Đau dịu nhanh sau 3–5 phút nghỉ ngơi hoặc ngậm Nitroglycerin. | **Đáp ứng kém hoặc không đáp ứng** với nghỉ ngơi / Nitroglycerin. | **Đáp ứng tốt với điều trị Suy tim / Lợi tiểu**: Đau ngực/nặng ngực giảm rõ khi dùng lợi tiểu xả bớt thể tích, giảm LVEDP hoặc hạ nhịp tim. |
+| **Triệu chứng kèm theo** | Thường **không có hoặc nhẹ** (khó thở nhẹ). | **Rầm rộ phản ứng giao cảm**: Vã mồ hôi hột, lo âu, bứt rứt, da tái nhợt, hoảng sợ. | **Rõ rệt dấu hiệu Sung huyết & Tải thể tích**: Khó thở kịch phát về đêm (PND), tĩnh mạch cổ nổi, gan to, ấn lõm phù 2 chân, ran ẩm đáy phổi. |
 
 
-1. **Một bệnh nhân suy tim có thể bị CẢ HAI:** Suy tim mạn tính do bệnh mạch vành (HCVM) hoàn toàn có thể xuất hiện thêm **đợt đau thắt ngực không ổn định / Nhồi máu cơ tim cấp** đóng vai trò là **yếu tố thúc đẩy** làm suy tim mất bù cấp [cite: 17, 43, 60].
+1. **Một bệnh nhân suy tim có thể bị CẢ HAI:** Suy tim mạn tính do bệnh mạch vành (HCVM) hoàn toàn có thể xuất hiện thêm **đợt đau thắt ngực không ổn định / Nhồi máu cơ tim cấp** đóng vai trò là **yếu tố thúc đẩy** làm suy tim mất bù cấp.
 2. **Khác biệt về hướng xử trí:**
-   * **Cơn đau thắt ngực không ổn định:** Cần quản lý theo phác đồ **Hội chứng vành cấp (ACS)** (thử hs-Troponin động học, ECG lặp lại, kháng đông, kháng tiểu cầu kép, can thiệp mạch vành khẩn) [cite: 80, 84, 122, 126].
-   * **Đau ngực thứ phát do suy tim:** Xử trí trọng tâm là **tối ưu hóa điều trị suy tim và giải quyết yếu tố hậu quả** (dùng lợi tiểu giảm áp lực LVEDP, chẹn beta kiểm soát tần số thất, chọc dò dịch màng phổi/màng tim nếu chèn ép, hoặc chống đông nếu có thuyên tắc phổi) [cite: 7, 18, 108].
+   * **Cơn đau thắt ngực không ổn định:** Cần quản lý theo phác đồ **Hội chứng vành cấp (ACS)** (thử hs-Troponin động học, ECG lặp lại, kháng đông, kháng tiểu cầu kép, can thiệp mạch vành khẩn).
+   * **Đau ngực thứ phát do suy tim:** Xử trí trọng tâm là **tối ưu hóa điều trị suy tim và giải quyết yếu tố hậu quả** (dùng lợi tiểu giảm áp lực LVEDP, chẹn beta kiểm soát tần số thất, chọc dò dịch màng phổi/màng tim nếu chèn ép, hoặc chống đông nếu có thuyên tắc phổi).
 
 :::details{summary="Sinh lý bệnh Đau ngực thứ phát trong suy tim"}
 
@@ -155,21 +155,21 @@ Trong bệnh lý **Thông liên thất (Ventricular Septal Defect - VSD)**, **SU
 
 Diễn tiến theo sinh lý bệnh
 
-1. **Luồng thông Trái \\(\rightarrow\\) Phải (Left-to-Right Shunt):** 
-   Trong thì tâm thu, do áp lực ở thất trái (khoảng \\(120\text{ mmHg}\\)) cao hơn rất nhiều so với thất phải (khoảng \\(25\text{ mmHg}\\)), máu từ thất trái sẽ phọt sang thất phải qua lỗ thông.
+1. **Luồng thông Trái `→` Phải (Left-to-Right Shunt):** 
+   Trong thì tâm thu, do áp lực ở thất trái (khoảng `120 mmHg`) cao hơn rất nhiều so với thất phải (khoảng `25 mmHg`), máu từ thất trái sẽ phọt sang thất phải qua lỗ thông.
 
 2. **Quá tải thể tích Thất trái (Volume Overload):**
-   Lượng máu phụ thuộc luồng thông này được thất phải tống ngay lên động mạch phổi \\(\rightarrow\\) qua hệ mao mạch phổi \\(\rightarrow\\) rồi **đổ toàn bộ về Nhĩ trái và Thất trái**. 
+   Lượng máu phụ thuộc luồng thông này được thất phải tống ngay lên động mạch phổi `→` qua hệ mao mạch phổi `→` rồi **đổ toàn bộ về Nhĩ trái và Thất trái**. 
    * Như vậy, **thất trái bắt buộc phải tiếp nhận một thể tích máu lớn hơn bình thường** (gồm lưu lượng tuần hoàn hệ thống + lượng máu luồng thông quay trở lại).
 
 3. **Diễn tiến thành Suy tim trái trước:**
    Do phải làm việc liên tục để bơm lượng máu tăng vọt này, **nhĩ trái và thất trái sẽ bị dãn, phì đại và dẫn đến suy tim trái trước** (với các biểu hiện sung huyết phổi, ho, khó thở).
 
-4. **Giai đoạn muộn \\(\rightarrow\\) Suy tim phải (Hội chứng Eisenmenger):**
+4. **Giai đoạn muộn `→` Suy tim phải (Hội chứng Eisenmenger):**
    Nếu lỗ thông lớn và không được can thiệp:
-   * Tình trạng tăng lưu lượng máu lên phổi kéo dài sẽ gây phản xạ co thắt và xơ hóa mạch máu phổi \\(\rightarrow\\) **Tăng áp lực động mạch phổi cố định**.
-   * Lúc này thất phải phải co bóp chống lại áp lực rất cao ở động mạch phổi \\(\rightarrow\\) Thất phải dãn, phì đại \\(\rightarrow\\) **Dẫn đến suy tim phải**.
-   * Khi áp lực thất phải vượt quá thất trái, luồng thông sẽ bị đảo ngược (Phải \\(\rightarrow\\) Trái) gây ra **Hội chứng Eisenmenger** (bệnh nhân bị tím tái).
+   * Tình trạng tăng lưu lượng máu lên phổi kéo dài sẽ gây phản xạ co thắt và xơ hóa mạch máu phổi `→` **Tăng áp lực động mạch phổi cố định**.
+   * Lúc này thất phải phải co bóp chống lại áp lực rất cao ở động mạch phổi `→` Thất phải dãn, phì đại `→` **Dẫn đến suy tim phải**.
+   * Khi áp lực thất phải vượt quá thất trái, luồng thông sẽ bị đảo ngược (Phải `→` Trái) gây ra **Hội chứng Eisenmenger** (bệnh nhân bị tím tái).
 
 
 | Bệnh lý bẩm sinh | Buồng tim bị quá tải thể tích ban đầu | Dạng suy tim xuất hiện trước |
@@ -182,25 +182,25 @@ Diễn tiến theo sinh lý bệnh
 
 Nhóm nguyên nhân cấp tính nguy hiểm nhất cần được tầm soát ngay lập tức khi tiếp cận bệnh nhân suy tim cấp:
 
-1. **C** (*Coronary syndrome*) – **Hội chứng vành cấp:** Nhồi máu cơ tim cấp hoặc thiếu máu cục bộ cơ tim tiến triển [1].
-2. **H** (*Hypertension*) – **Cơn tăng huyết áp:** Tăng huyết áp cấp bách/nguy kịch làm tăng đột ngột gánh nặng hậu tải [1].
-3. **A** (*Arrhythmia*) – **Rối loạn nhịp:** Như rung nhĩ đáp ứng thất nhanh, nhịp nhanh thất [1].
-4. **M** (*Mechanical causes*) – **Biến chứng cơ học:** Đứt dây chằng/cơ nhú gây hở van 2 lá cấp, vỡ vách liên thất... [1]
-5. **P** (*Pulmonary embolism*) – **Thuyên tắc phổi:** Tắc nghẽn mạch máu phổi cấp tính [1].
-6. **I** (*Infection*) – **Nhiễm trùng:** Đặc biệt là nhiễm trùng đường hô hấp (viêm phổi, viêm phế quản cấp) hoặc nhiễm trùng huyết [1, 2].
-7. **T** (*Tamponade*) – **Chèn ép tim cấp:** Tích tụ dịch màng ngoài tim gây cản trở đổ đầy thất [1].
+1. **C** (*Coronary syndrome*) – **Hội chứng vành cấp:** Nhồi máu cơ tim cấp hoặc thiếu máu cục bộ cơ tim tiến triển.
+2. **H** (*Hypertension*) – **Cơn tăng huyết áp:** Tăng huyết áp cấp bách/nguy kịch làm tăng đột ngột gánh nặng hậu tải.
+3. **A** (*Arrhythmia*) – **Rối loạn nhịp:** Như rung nhĩ đáp ứng thất nhanh, nhịp nhanh thất.
+4. **M** (*Mechanical causes*) – **Biến chứng cơ học:** Đứt dây chằng/cơ nhú gây hở van 2 lá cấp, vỡ vách liên thất...
+5. **P** (*Pulmonary embolism*) – **Thuyên tắc phổi:** Tắc nghẽn mạch máu phổi cấp tính.
+6. **I** (*Infection*) – **Nhiễm trùng:** Đặc biệt là nhiễm trùng đường hô hấp (viêm phổi, viêm phế quản cấp) hoặc nhiễm trùng huyết.
+7. **T** (*Tamponade*) – **Chèn ép tim cấp:** Tích tụ dịch màng ngoài tim gây cản trở đổ đầy thất.
 
 —
 
-* **Không tuân thủ điều trị:** Tự ý ngưng hoặc giảm liều thuốc điều trị suy tim (đặc biệt là thuốc lợi tiểu, hạ áp), hoặc chế độ ăn không tuân thủ (ăn mặn, uống quá nhiều nước) [1, 2].
-* **Do thuốc hoặc độc chất:** Sử dụng các thuốc gây giữ muối/nước hoặc độc cho cơ tim (như NSAIDs, Corticoid, chống ung thư, hoặc lạm dụng rượu/bia) [1].
+* **Không tuân thủ điều trị:** Tự ý ngưng hoặc giảm liều thuốc điều trị suy tim (đặc biệt là thuốc lợi tiểu, hạ áp), hoặc chế độ ăn không tuân thủ (ăn mặn, uống quá nhiều nước).
+* **Do thuốc hoặc độc chất:** Sử dụng các thuốc gây giữ muối/nước hoặc độc cho cơ tim (như NSAIDs, Corticoid, chống ung thư, hoặc lạm dụng rượu/bia).
 
 Các rối loạn chuyển hóa & Bệnh lý hệ thống
-* **Thiếu máu cấp hoặc mạn tính nặng:** Làm giảm khả năng vận chuyển oxy, buộc tim phải tăng co bóp [2].
-* **Rối loạn chuyển hóa / Hormone:** Cường giáp (bão giáp), suy thận tiến triển gây quá tải thể tích, hoặc rối loạn điện giải [1, 2].
-* **Biến cố thần kinh - tâm thần:** Biến cố mạch máu não (đột quỵ), căng thẳng/stress tâm lý nặng làm tăng hoạt hệ giao cảm [1].
-* **Sinh lý / Ngoại khoa:** Thai kỳ [2], hoặc các biến chứng trong và sau phẫu thuật [1].
-* **Bệnh lý viêm nhiễm tiến triển:** Thấp tim tiến triển hoặc tái phát [1].
+* **Thiếu máu cấp hoặc mạn tính nặng:** Làm giảm khả năng vận chuyển oxy, buộc tim phải tăng co bóp.
+* **Rối loạn chuyển hóa / Hormone:** Cường giáp (bão giáp), suy thận tiến triển gây quá tải thể tích, hoặc rối loạn điện giải.
+* **Biến cố thần kinh - tâm thần:** Biến cố mạch máu não (đột quỵ), căng thẳng/stress tâm lý nặng làm tăng hoạt hệ giao cảm.
+* **Sinh lý / Ngoại khoa:** Thai kỳ, hoặc các biến chứng trong và sau phẫu thuật.
+* **Bệnh lý viêm nhiễm tiến triển:** Thấp tim tiến triển hoặc tái phát.
 
 - Yếu tố thúc đẩy vào đợt cấp mất bù:
 
