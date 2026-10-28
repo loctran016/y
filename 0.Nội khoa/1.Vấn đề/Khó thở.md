@@ -182,6 +182,14 @@ Cơn Phù phổi cấp do tim (Khó thở cấp tính nặng nhất)
 - Thở nhanh đói khí, ngạt thở ("chết đuối trên cạn"), vật vã, vã mồ hôi hột, **ho khạc đờm bọt hồng**, nghe phổi có ran ẩm dâng nhanh từ 2 đáy lên đỉnh phổi.
 - **Giá trị chẩn đoán:** Chỉ điểm tình trạng **suy thất trái cấp / quá tải thể tích lòng phế nang mức độ nghiêm trọng**.
 
+:::details{summary="Xác định khó thở khi nằm thông qua thăm khám"}
+Bất kỳ bệnh nhân nào khó thở cũng cảm thấy dễ chịu khi kê gối cao khi nằm, vì vậy để xác định là **Khó thở khi nằm**, cần quan sát:
+
+- Khám thực thể ghi nhận bệnh nhân thở gắng sức, co kéo cơ hô hấp phụ khi nằm
+- Bệnh nhân xuất hiện hoặc tăng triệu chứng khó thở nhanh chóng (với cảm giác ngộp thở, ho, tức ngực) trong vòng vài phút khi chuyển sang tư thế nằm phẳng, và giảm rõ rệt khi ngồi dậy hoặc nâng cao đầu/ngực.
+- Bệnh nhân hoàn toàn không thể nằm phẳng trên giường, bắt buộc phải chọn tư thế ngồi buông thõng hai chân hoặc kê 2–3 gối cao (ngủ ngồi) mới có thể thở được/mới ngủ được.
+:::
+
 ### Chèn ép tim cấp / Viêm màng ngoài tim
 
 Khó thở cấp tính diễn tiến nhanh, giảm hơn khi ngồi cúi người ra phía trước.

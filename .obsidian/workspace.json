@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Nội khoa/Tim mạch/Suy tim.md",
+                "file": "0.Nội khoa/1.Vấn đề/Khó thở.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Suy tim"
+              "title": "Khó thở"
             }
           }
         ]
@@ -200,12 +200,14 @@
       "obsidian-importer:Import notes": false,
       "sheet-plus:Create excel file": false,
       "custom-sidebar-icons:Open custom icon library": false,
-      "full-width-toggle:Toggle current note width": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "full-width-toggle:Toggle current note width": false
     }
   },
   "active": "77b88dd80f3fa924",
   "lastOpenFiles": [
+    "0.Nội khoa/Hô hấp/COPD.md",
+    "0.Nội khoa/Tim mạch/Suy tim.md",
     "0.Nội khoa/Tim mạch/HC vành cấp.md",
     "0.Nội khoa/Tim mạch/Tăng HA.md",
     "0.Nội khoa/Nhiễm trùng/Lao.md",
@@ -233,8 +235,6 @@
     "0.Nội khoa/0.Nội Y3/Tiểu bọt.md",
     "0.Nội khoa/Hô hấp/Viêm phổi.md",
     "0.Nội khoa/Hô hấp/Giãn PQ.md",
-    "0.Nội khoa/Hô hấp/Tắc nghẽn đường HH dưới.md",
-    "0.Nội khoa/Hô hấp/COPD.md",
     "0.Nội khoa/1.Vấn đề/Thiểu niệu",
     "0.Nội khoa/Tim mạch/Tăng HA-1791454394377.webp",
     "0.Nội khoa/Tim mạch/Tăng HA-1791453510356.webp",

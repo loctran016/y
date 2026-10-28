@@ -1,26 +1,6 @@
 ## Gợi ý suy tim
 
-:::details{summary="TCCN"}
 
-1. **Khó thở:**
-   - **Khó thở khi gắng sức:** Xuất hiện ở giai đoạn sớm, xuất hiện khi làm việc nặng và tiến triển dần khi làm việc nhẹ.
-   - **Khó thở khi nằm (Orthopnea):** Xuất hiện trễ hơn; bệnh nhân phải kê cao gối hoặc ngồi dậy mới dễ thở do sự tái phân bố dịch từ nội tạng/chi dưới về tim khi nằm phẳng.
-   - **Khó thở kịch phát về đêm (PND):** Bệnh nhân đang ngủ (1–3 giờ sau khi nằm) đột ngột tỉnh giấc vì ngộp thở, ho, khò khè, phải ngồi bật dậy buông thõng 2 chân bên giường mới đỡ.
-   - **Ho về đêm / Ho khạc đàm bọt hồng:** Ho do sung huyết phổi; trường hợp nặng khạc đàm bọt hồng là dấu hiệu của **Phù phổi cấp**.
-2. **Giảm cung lượng tim & Giảm tưới máu:**
-   - Mệt mỏi, giảm khả năng gắng sức thể lực.
-   - Rối loạn định hướng, lú lẫn, mất tập trung (đặc biệt ở người lớn tuổi do giảm tưới máu não).
-3. **Triệu chứng sung huyết hệ thống & Tiêu hóa:**
-   - Chán ăn, buồn nôn, đầy bụng, mau no (do sung huyết màng ruột).
-   - Đau tức nhẹ vùng hạ sườn phải (do gan to sung huyết và căng dãn bao gan).
-
-Lưu ý về khó thở khi nằm: bất kỳ bệnh nhân nào khó thở cũng cảm thấy dễ chịu khi kê gối cao khi nằm, vì vậy để xác định là **Khó thở khi nằm**, cần quan sát:
-
-- Khám thực thể ghi nhận bệnh nhân thở gắng sức, co kéo cơ hô hấp phụ khi nằm
-- Bệnh nhân xuất hiện hoặc tăng triệu chứng khó thở nhanh chóng (với cảm giác ngộp thở, ho, tức ngực) trong vòng vài phút khi chuyển sang tư thế nằm phẳng, và giảm rõ rệt khi ngồi dậy hoặc nâng cao đầu/ngực.
-- Bệnh nhân hoàn toàn không thể nằm phẳng trên giường, bắt buộc phải chọn tư thế ngồi buông thõng hai chân hoặc kê 2–3 gối cao (ngủ ngồi) mới có thể thở được/mới ngủ được.
-
-:::
 
 :::details{summary="TCTT"}
 
