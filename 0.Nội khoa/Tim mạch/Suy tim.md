@@ -2,15 +2,7 @@
 
 ### Khó thở
 
-TCCN đặc hiệu và giá trị nhất của suy tim là Khó thở khi gắng sức diễn tiền thành Khó thở khi nằm (Orthopnea) và Khó thở kịch phát về đêm (PND).
-
-- **Khó thở (Triệu chứng then chốt):** Tiến triển theo từng giai đoạn:
-  - _Khó thở khi gắng sức:_ Triệu chứng xuất hiện sớm nhất.
-  - _Khó thở khi nằm (Orthopnea):_ Bệnh nhân phải kê cao gối hoặc ngồi dậy để thở do máu từ ngoại biên dồn về tim làm tăng áp lực mao mạch phổi.
-  - _Khó thở kịch phát về đêm (PND):_ Bệnh nhân đang ngủ phải bật dậy phồng mang trợn mắt để hít thở sau khi nằm `1 - 3` giờ.
-  - _Phù phổi cấp:_ Khó thở dữ dội, thở nhanh đói khí, khạc đờm bọt hồng.
-- **Phù ngoại biên:** Phù mềm, ấn lõm, đối xứng `2` bên cẳng chân/cổ chân, tăng về chiều tối.
-- **Triệu chứng tiêu hóa:** Cảm giác đầy bụng, chán ăn, đau hạ sườn phải (do gan sung huyết).
+TCCN đặc hiệu và giá trị nhất của suy tim là Khó thở khi gắng sức diễn tiền thành Khó thở khi nằm (Orthopnea) và Khó thở kịch phát về đêm (PND). Ngoài ra có thể **Phù ngoại biên:** Phù mềm, ấn lõm, đối xứng `2` bên cẳng chân/cổ chân, tăng về chiều tối và Cảm giác đầy bụng, chán ăn, đau hạ sườn phải (do gan sung huyết).
 
 :::details{summary="Sinh lý bệnh Khó thở khi nằm và kịch phát về đêm (PND)"}
 
