@@ -163,40 +163,33 @@ Thang điểm khó thở mMRC (modified Medical Research Council)
 • Siêu âm tim Doppler   • D-Dimer (Thuyên tắc) [cite: 102] • Khí máu động mạch [cite: 102]
 ```
 
-## Tiếp cận khó thở
-
-Khó thở cấp/mạn
-
-=> xác suất khó thở
-
-
 ## Khó thở do Tim
 
-### HC suy tim
+### HC suy tim - Khó thở mạn
 
 Khó thở khi gắng sức (Dyspnea on Exertion) thường xuất hiện ở *giai đoạn sớm nhất của HC suy tim*, Diễn tiến thành khó thở khi nằm đầu thấp (Orthopnea) khó thở kịch phát về đêm (Paroxysmal Nocturnal Dyspnea - PND)
 
-Cơn Phù phổi cấp do tim (Khó thở cấp tính nặng nhất)
+Cơn Phù phổi cấp do tim:
 
 - Khởi phát cấp tính dữ dội, tiến triển cực kỳ nhanh (thường về đêm hoặc sau khi gắng sức/xúc động).
 - Thở nhanh đói khí, ngạt thở ("chết đuối trên cạn"), vật vã, vã mồ hôi hột, **ho khạc đờm bọt hồng**, nghe phổi có ran ẩm dâng nhanh từ 2 đáy lên đỉnh phổi.
-- **Giá trị chẩn đoán:** Chỉ điểm tình trạng **suy thất trái cấp / quá tải thể tích lòng phế nang mức độ nghiêm trọng**.
+- Chỉ điểm tình trạng **suy thất trái cấp / quá tải thể tích lòng phế nang mức độ nghiêm trọng**.
 
 :::details{summary="Xác định khó thở khi nằm thông qua thăm khám"}
-Bất kỳ bệnh nhân nào khó thở cũng cảm thấy dễ chịu khi kê gối cao khi nằm, vì vậy để xác định là **Khó thở khi nằm**, cần quan sát:
+Khi HBS, phần lớn bệnh nhân đều cảm thấy khó thở giảm khi ngồi và tăng khi nằm, vì vậy để xác định **Khó thở khi nằm** gợi ý suy tim, cần quan sát:
 
 - Khám thực thể ghi nhận bệnh nhân thở gắng sức, co kéo cơ hô hấp phụ khi nằm
 - Bệnh nhân xuất hiện hoặc tăng triệu chứng khó thở nhanh chóng (với cảm giác ngộp thở, ho, tức ngực) trong vòng vài phút khi chuyển sang tư thế nằm phẳng, và giảm rõ rệt khi ngồi dậy hoặc nâng cao đầu/ngực.
 - Bệnh nhân hoàn toàn không thể nằm phẳng trên giường, bắt buộc phải chọn tư thế ngồi buông thõng hai chân hoặc kê 2–3 gối cao (ngủ ngồi) mới có thể thở được/mới ngủ được.
 :::
 
-### Chèn ép tim cấp / Viêm màng ngoài tim
+### Chèn ép tim cấp / Viêm màng ngoài tim / Viêm cơ tim - Khó thở cấp / mạn
 
 Khó thở cấp tính diễn tiến nhanh, giảm hơn khi ngồi cúi người ra phía trước.
 
 - **Triệu chứng kèm theo:** Tam chứng Beck (tụt huyết áp, tĩnh mạch cổ nổi, tiếng tim mờ), mạch nghịch, đau ngực sau xương ức tăng lên khi nằm ngửa và khi hít sâu, tiếng cọ màng ngoài tim.
 
-### Hội chứng mạch vành cấp / Nhồi máu cơ tim cấp
+### HCVC - khó thở cấp
 
 Khó thở cấp tính xuất hiện đột ngột (ở người già hoặc bệnh nhân đái tháo đường, khó thở có thể là triệu chứng duy nhất tương đương với đau ngực).
 
