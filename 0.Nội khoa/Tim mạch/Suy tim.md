@@ -1,61 +1,34 @@
-## Gợi ý suy tim
+## Tiếp cận lâm sàng suy tim
 
+### TCCN
 
+TCCN đặc hiệu và giá trị nhất của suy tim là Khó thở khi gắng sức diễn tiền thành Khó thở khi nằm (Orthopnea) và Khó thở kịch phát về đêm (PND).
 
-:::details{summary="TCTT"}
+Trong khi đó, triệu chứng đau ngực tuy thường hiện diện ở BN suy tim nhưng không xác định suy tim mà lại gợi ý *nguyên nhân gây suy tim*
 
-- **Tĩnh mạch cảnh trong nổi:** Tĩnh mạch cảnh nổi ở tư thế nằm đầu cao 45°, **phản hồi bụng – tĩnh mạch cảnh dương tính**.
-- **Khám tim:**
-  - **Mỏm tim lệch:** Đập lệch xuống dưới và ra ngoài đường trung đòn trái (dấu hiệu tim to/dãn thất trái).
-  - **Tiếng T3 Gallop (Ngựa phi T3):** Nghe rõ ở mỏm tim, là dấu hiệu rất đặc hiệu gợi ý suy chức năng tâm thu thất trái nặng.
-  - **Âm thổi tâm thu:** Do hở van 2 lá hoặc van 3 lá cơ năng.
-- **Thăm khám phổi:**
-  - **Ran ẩm, ran nổ:** Xuất hiện rải rác ở 2 đáy phổi; trong phù phổi cấp ran ẩm dâng nhanh như sóng từ đáy lên đỉnh phổi.
-  - **Tràn dịch màng phổi:** Thường gặp ở cả 2 bên hoặc bên phải.
-- **Ứ dịch ngoại biên & Ổ bụng:**
-  - **Phù ngoại biên:** Phù mềm, ấn lõm, đối xứng 2 bên (thường ở mắt cá chân, cẳng chân; bệnh nhân nằm lâu thì phù vùng xương cùng).
-  - **Gan to:** Gan căng đau, bề mặt nhẵn, bờ tù; có thể đập theo nhịp tim nếu có hở van 3 lá đi kèm.
-  - **Báng bụng (Cổ trướng):** Xuất hiện ở giai đoạn muộn do tăng áp lực tĩnh mạch hệ thống.
+Bên cạnh đau thắt ngực ổn định / không ổn định, đau ngực ở bệnh nhân suy tim xuất phát từ các cơ chế sinh lý bệnh sau:
+
+:::details{summary="Sinh lý bệnh đau ngực trong suy tim"}
+
+Thiếu máu cơ tim dưới nội mạc do Tăng sức căng thành thất (Wall Stress):
+  - Trong suy tim (đặc biệt là suy tim dãn buồng tim), áp lực cuối tâm trương thất trái (LVEDP) tăng cao kết hợp với thể tích buồng tim dãn rộng làm **tăng sức căng thành thất** (theo định luật Laplace).
+  - Áp lực cao trong buồng tim chèn ép trực tiếp lên các mạch máu nhỏ nuôi vùng dưới nội mạc (subendocardium). Tình trạng này làm giảm tưới máu mạch vành thì tâm trương, gây ra cơn đau ngực do **thiếu máu cơ tim dưới nội mạc** mặc dù thân chính động mạch vành hoàn toàn không bị hẹp tắc.
+
+**Rối loạn chức năng Vi mạch cơ tim (Microvascular Dysfunction):**
+  - Sự suy giảm khả năng co dãn của các động mạch vành kích thước nhỏ (cấp độ vi tuần hoàn) do rối loạn nội mạc và xơ hóa mô kẽ trong suy tim.
+
+**Tăng áp động mạch phổi thứ phát:**
+  - Suy tim trái gây tăng áp lực ứ trệ về tĩnh mạch phổi `→` Tăng áp động mạch phổi thứ phát. Áp lực mạch phổi tăng cao làm tăng gánh nặng thất phải, gây thiếu máu cơ tim thất phải và bộc lộ cơn **đau ngực dưới xương ức kiểu đè ép** khi gắng sức.
+
+**Tràn dịch màng ngoài tim / Tràn dịch màng phổi thứ phát:**
+  - Tình trạng quá tải thể tích và tăng áp lực tĩnh mạch hệ thống trong suy tim nặng có thể gây tràn dịch màng ngoài tim hoặc tràn dịch màng phổi. Bệnh nhân sẽ có cảm giác **đau nặng ngực âm ỉ** hoặc **đau ngực kiểu màng phổi** (đau nhói tăng lên khi hít sâu hoặc ho).
+
+**Gan to sung huyết (Căng bao Glisson):**
+  - Suy tim phải gây ứ máu ngoại biên làm gan to nhanh và căng bao Glisson. Bệnh nhân thường cảm thấy đau tức vùng hạ sườn phải hoặc thượng vị, đôi khi mô tả nhầm thành đau ngực dưới.
 
 :::
 
-**Đau ngực KHÔNG CÓ tính đặc hiệu đối với Suy tim**.
-
-Triệu chứng cơ năng đặc hiệu và có giá trị nhất của suy tim là **Khó thở khi nằm (Orthopnea)** và **Khó thở kịch phát về đêm (PND)**, kết hợp với các dấu hiệu thực thể sung huyết như **Tĩnh mạch cổ nổi, Phản hồi gan - tĩnh mạch cảnh (+), Ran nổ ở phổi và tiếng Gallop T3**.
-
-Nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực. Bên cạnh do Hội chứng Mạch vành Cấp & Mạn (hẹp/tắc động mạch vành lớn do mảng xơ vữa) hiện tượng đau ngực ở bệnh nhân suy tim xuất phát từ các cơ chế sinh lý bệnh sau:
-
----
-
-### Các Cơ chế Gây Đau Ngực Trực tiếp trong Suy tim (Không do hẹp xơ vữa mạch vành lớn)
-
-- **Thiếu máu cơ tim dưới nội mạc do Tăng sức căng thành thất (Wall Stress):**
-  - Trong suy tim (đặc biệt là suy tim dãn buồng tim), áp lực cuối tâm trương thất trái (LVEDP) tăng cao kết hợp với thể tích buồng tim dãn rộng làm **tăng sức căng thành thất** (theo định luật Laplace).
-  - Áp lực cao trong buồng tim chèn ép trực tiếp lên các mạch máu nhỏ nuôi vùng dưới nội mạc (subendocardium). Tình trạng này làm giảm tưới máu mạch vành thì tâm trương, gây ra cơn đau ngực do **thiếu máu cơ tim dưới nội mạc** mặc dù thân chính động mạch vành hoàn toàn không bị hẹp tắc.
-- **Rối loạn chức năng Vi mạch cơ tim (Microvascular Dysfunction):**
-  - Sự suy giảm khả năng co dãn của các động mạch vành kích thước nhỏ (cấp độ vi tuần hoàn) do rối loạn nội mạc và xơ hóa mô kẽ trong suy tim.
-- **Tăng áp động mạch phổi thứ phát:**
-  - Suy tim trái gây tăng áp lực ứ trệ về tĩnh mạch phổi `→` Tăng áp động mạch phổi thứ phát. Áp lực mạch phổi tăng cao làm tăng gánh nặng thất phải, gây thiếu máu cơ tim thất phải và bộc lộ cơn **đau ngực dưới xương ức kiểu đè ép** khi gắng sức.
-- **Tràn dịch màng ngoài tim / Tràn dịch màng phổi thứ phát:**
-  - Tình trạng quá tải thể tích và tăng áp lực tĩnh mạch hệ thống trong suy tim nặng có thể gây tràn dịch màng ngoài tim hoặc tràn dịch màng phổi. Bệnh nhân sẽ có cảm giác **đau nặng ngực âm ỉ** hoặc **đau ngực kiểu màng phổi** (đau nhói tăng lên khi hít sâu hoặc ho).
-- **Gan to sung huyết (Căng bao Glisson):**
-  - Suy tim phải gây ứ máu ngoại biên làm gan to nhanh và căng bao Glisson. Bệnh nhân thường cảm thấy đau tức vùng hạ sườn phải hoặc thượng vị, đôi khi mô tả nhầm thành đau ngực dưới.
-
----
-
-### HC Mạch vành Cấp (ACS) & Mạn (CCS)
-
-| Tiêu chí                        | Đau ngực thứ phát trong Suy tim                                                     | HC Mạch vành Cấp (ACS)                                                 | HC Mạch vành Mạn (CCS)                                                         |
-| :------------------------------ | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
-| **Bản chất tổn thương**         | Tăng sức căng thành thất, thiếu máu dưới nội mạc, tăng áp phổi, tràn dịch màng.     | Nứt/vỡ mảng xơ vữa gây **huyết khối tắc nghẽn cấp tính** ĐMV.          | Mảng xơ vữa tiến triển gây **hẹp cố định** `≥ 50 - 70%` lòng ĐMV.       |
-| **Tính chất đau**               | Đau âm ỉ, cảm giác nặng ngực miên man hoặc đau kiểu màng phổi.                      | **Đau đè ép, siết chặt, bóp nghẹt** dữ dội sau xương ức.               | **Đau thắt/đè ép** sau xương ức, lan vai/tay trái/hàm.                         |
-| **Thời gian cơn đau**           | Kéo dài âm ỉ theo đợt sung huyết / quá tải thể tích.                                | **Kéo dài `> 20 phút`**.                                    | **Thường kéo dài `< 20 phút`**.                                     |
-| **Yếu tố khởi phát & Giảm đau** | Xuất hiện khi nhịp tim nhanh, tăng cân/phù; giảm khi dùng **lợi tiểu** hạ tiền tải. | Xuất hiện cả **khi nghỉ**; **không giảm** hoặc giảm kém với Nitrat.    | Xuất hiện **khi gắng sức/xúc động**; **giảm nhanh khi nghỉ hoặc ngậm Nitrat**. |
-| **Men tim (Troponin)**          | Troponin có thể **tăng nhẹ mạn tính / bằng phẳng** do hoại tử vi thể.               | Troponin **tăng/giảm có động học rõ rệt** (gấp nhiều lần ngưỡng 99th). | Troponin **bình thường** lúc nghỉ.                                             |
-
----
-
-:::details{summary="Sinh lý bệnh Khó thở kịch phát về đêm (PND)"}
+:::details{summary="Sinh lý bệnh Khó thở khi nằm và kịch phát về đêm (PND)"}
 
 - **Tái phân bố dịch khi nằm:** Khi bệnh nhân nằm ngủ, lượng dịch tích tụ ở hai chi dưới và các nội tạng tái phân bố dồn về tuần hoàn trung tâm, làm gia tăng đột ngột thể tích máu trở về tim trái.
 - **Thoát dịch vào mô kẽ (Phù mô kẽ cấp):** Thất trái bị suy không tống hết lượng máu này khiến áp lực trong các tĩnh mạch và mao mạch phổi tăng vọt, đẩy dịch thấm thoát ra ngoài lòng mạch vào **khoảng mô kẽ** quanh phế quản và phế nang.
@@ -70,31 +43,57 @@ Nhiều bệnh nhân suy tim vẫn than phiền bị đau ngực. Bên cạnh do
 | **Nhẹ / Trung bình** _(Giai đoạn đầu)_     | **Mô kẽ phổi** (Phù mô kẽ).       | **Khó thở kịch phát về đêm (PND)** hoặc Khó thở khi nằm (Orthopnea); ho khan, khò khè nhẹ.                                                                          |
 | **Nặng / Dồn dập** _(Giai đoạn bùng phát)_ | **Lòng phế nang** (Phù phế nang). | **Cơn Phù phổi cấp do tim điển hình:** Khó thở dữ dội, "chết đuối trên cạn", **ho khạc đờm bọt hồng**, vật vã, vã mồ hôi, ran ẩm dâng nhanh từ 2 đáy lên đỉnh phổi. |
 
-💡 **Tóm lại:**
-Khó thở kịch phát về đêm (PND) chính là **mức độ phù mô kẽ cấp tính diễn ra ban đêm**. Nếu tình trạng ứ dịch này tiếp tục gia tăng nhanh chóng vượt quá ngưỡng chịu đựng, dịch sẽ bứt phá tràn ngập vào lòng phế nang và bùng phát thành **Cơn Phù phổi cấp do tim rầm rộ**.
+### TCTT
 
-:::
+- **Tĩnh mạch cảnh trong nổi:** Tĩnh mạch cảnh nổi ở tư thế nằm đầu cao 45°, **phản hồi bụng – tĩnh mạch cảnh dương tính**.
+- **Khám tim:**
+  - **Mỏm tim lệch:** Đập lệch xuống dưới và ra ngoài đường trung đòn trái (dấu hiệu tim to/dãn thất trái).
+  - **Tiếng T3 Gallop (Ngựa phi T3):** Nghe rõ ở mỏm tim, là dấu hiệu rất đặc hiệu gợi ý suy chức năng tâm thu thất trái nặng.
+  - **Âm thổi tâm thu:** Do hở van 2 lá hoặc van 3 lá cơ năng.
+- **Thăm khám phổi:**
+  - **Ran ẩm, ran nổ:** Xuất hiện rải rác ở 2 đáy phổi; trong phù phổi cấp ran ẩm dâng nhanh như sóng từ đáy lên đỉnh phổi.
+  - **Tràn dịch màng phổi:** Thường gặp ở cả 2 bên hoặc bên phải.
+- **Ứ dịch ngoại biên & Ổ bụng:**
+  - **Phù ngoại biên:** Phù mềm, ấn lõm, đối xứng 2 bên (thường ở mắt cá chân, cẳng chân; bệnh nhân nằm lâu thì phù vùng xương cùng).
+  - **Gan to:** Gan căng đau, bề mặt nhẵn, bờ tù; có thể đập theo nhịp tim nếu có hở van 3 lá đi kèm.
+  - **Báng bụng (Cổ trướng):** Xuất hiện ở giai đoạn muộn do tăng áp lực tĩnh mạch hệ thống.
 
-### PHÂN BIỆT: SUY TIM TRÁI VS SUY TIM PHẢI
 
-| Đặc điểm                 | Suy tim trái                                                                                    | Suy tim phải                                                                     |
-| :----------------------- | :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
-| **Triệu chứng nổi trội** | **Sung huyết phổi:** Khó thở khi gắng sức / nằm / kịch phát về đêm, ho về đêm, ho đàm bọt hồng. | **Sung huyết hệ thống:** Phù chi, gan to, tĩnh mạch cảnh nổi, báng bụng, mau no. |
-| **Khám tim & Phổi**      | Ran nổ/ẩm 2 đáy phổi, mỏm tim lệch ngoài, T3/T4 mỏm tim.                                        | Dấu nảy trước ngực, Harzer (+), T3/T4 bờ trái xương ức, âm thổi hở van 3 lá.     |
+## Tiếp cận chẩn đoán suy tim
 
----
-
-### BỘ TIÊU CHUẨN FRAMINGHAM CHẨN ĐOÁN SUY TIM
+### Tiêu chuẩn FRAMINGHAM
 
 | Tiêu chuẩn chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Tiêu chuẩn phụ                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. Khó thở kịch phát về đêm hoặc khó thở khi nằm.<br>  2. Tĩnh mạch cảnh trong nổi.<br>  3. Ran ở phổi.<br>  4. Tim to (mỏm tim lệch ngoài).<br> * Khám: Sờ mỏm tim đập lệch xuống dưới và ra ngoài đường trung đòn trái.<br>* CLS: Xác định bóng tim to trên X-quang ngực thẳng (chỉ số tim/lồng ngực > 0.5) hoặc dãn các buồng tim trên Siêu âm tim.<br>  5. Phù phổi cấp.<br>* Khám: Bệnh nhân khó thở dữ dội, ho khạc đàm bọt hồng, nghe ran ẩm dâng nhanh khắp 2 phế trường.<br>* CLS: Hình ảnh ứ huyết phế nang, đường Kerley B trên X-quang ngực thẳng; giảm severe trên Khí máu động mạch.<br>  6. Tiếng T3 Gallop.<br>  7. Tăng áp lực tĩnh mạch trung tâm (> 16 cmH_2O)) <br> * Khám: Ước lượng chiều cao cột máu tĩnh mạch cảnh trên góc xương ức + 5 cm.<br>* CLS: Đo trực tiếp áp lực tĩnh mạch trung tâm (CVP) qua Catheter hoặc đo đường kính + độ xẹp tĩnh mạch chủ dưới (IVC) trên Siêu âm tim tại giường.<br>  8. Phản hồi gan – tĩnh mạch cảnh dương tính. <br>* Khám: Ấn vùng hạ sườn phải (gan) trong 30–60 giây và nhìn tĩnh mạch cảnh nổi cao thêm > 3–4 cm. | 1. Phù mắt cá chân 2 bên.<br>  2. Ho về đêm.<br>  3. Khó thở khi gắng sức thông thường.<br>  4. Gan to.<br>  5. Tràn dịch màng phổi.<br>  6. Dung tích sống giảm 1/3 so với tối đa.<br>  7. Nhịp tim nhanh (> 120 lần/phút). |
+|  1. Khó thở kịch phát về đêm hoặc khó thở khi nằm.<br>  2. Tĩnh mạch cảnh trong nổi.<br>  3. Ran ở phổi.<br>  4. Tim to (mỏm tim lệch ngoài).<br> * Khám: Sờ mỏm tim đập lệch xuống dưới và ra ngoài đường trung đòn trái.<br>* CLS: Xác định bóng tim to trên X-quang ngực thẳng (chỉ số tim/lồng ngực > 0.5) hoặc dãn các buồng tim trên Siêu âm tim.<br>  5. Phù phổi cấp.<br>* Khám: Bệnh nhân khó thở dữ dội, ho khạc đàm bọt hồng, nghe ran ẩm dâng nhanh khắp 2 phế trường.<br>* CLS: Hình ảnh ứ huyết phế nang, đường Kerley B trên X-quang ngực thẳng; giảm severe trên Khí máu động mạch.<br>  6. Tiếng T3 Gallop.<br>  7. Tăng áp lực tĩnh mạch trung tâm (> 16 cmH_2O)) <br> * Khám: Ước lượng chiều cao cột máu tĩnh mạch cảnh trên góc xương ức + 5 cm.<br>* CLS: Đo trực tiếp áp lực tĩnh mạch trung tâm (CVP) qua Catheter hoặc đo đường kính + độ xẹp tĩnh mạch chủ dưới (IVC) trên Siêu âm tim tại giường.<br>  8. Phản hồi gan – tĩnh mạch cảnh dương tính. <br>* Khám: Ấn vùng hạ sườn phải (gan) trong 30–60 giây và nhìn tĩnh mạch cảnh nổi cao thêm > 3–4 cm. | 1. Phù mắt cá chân 2 bên.<br>  2. Ho về đêm.<br>  3. Khó thở khi gắng sức thông thường.<br>  4. Gan to.<br>  5. Tràn dịch màng phổi.<br>  6. Dung tích sống giảm 1/3 so với tối đa.<br>  7. Nhịp tim nhanh (> 120 lần/phút). |
 
 - **Tiêu chuẩn chính/phụ:** Giảm (> 4,5 kg) trong vòng 5 ngày điều trị đáp ứng với thuốc lợi tiểu.
 
 👉 **Chẩn đoán xác định Suy tim theo Framingham:** Khi bệnh nhân thỏa mãn **2 tiêu chuẩn chính** HOẶC **1 tiêu chuẩn chính + 2 tiêu chuẩn phụ**.
 
-##HCM) và Khuyến cáo của Hội Tim mạch Việt Nam (VNHA / ESC):
+
+
+
+---
+
+### HC Mạch vành Cấp (ACS) & Mạn (CCS)
+
+| Tiêu chí                        | Đau ngực thứ phát trong Suy tim                                                     | HC Mạch vành Cấp (ACS)                                                 | HC Mạch vành Mạn (CCS)                                                         |
+| :------------------------------ | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| **Bản chất tổn thương**         | Tăng sức căng thành thất, thiếu máu dưới nội mạc, tăng áp phổi, tràn dịch màng.     | Nứt/vỡ mảng xơ vữa gây **huyết khối tắc nghẽn cấp tính** ĐMV.          | Mảng xơ vữa tiến triển gây **hẹp cố định** `≥ 50 - 70%` lòng ĐMV.       |
+| **Tính chất đau**               | Đau âm ỉ, cảm giác nặng ngực miên man hoặc đau kiểu màng phổi.                      | **Đau đè ép, siết chặt, bóp nghẹt** dữ dội sau xương ức.               | **Đau thắt/đè ép** sau xương ức, lan vai/tay trái/hàm.                         |
+| **Thời gian cơn đau**           | Kéo dài âm ỉ theo đợt sung huyết / quá tải thể tích.                                | **Kéo dài `> 20 phút`**.                                    | **Thường kéo dài `< 20 phút`**.                                     |
+| **Yếu tố khởi phát & Giảm đau** | Xuất hiện khi nhịp tim nhanh, tăng cân/phù; giảm khi dùng **lợi tiểu** hạ tiền tải. | Xuất hiện cả **khi nghỉ**; **không giảm** hoặc giảm kém với Nitrat.    | Xuất hiện **khi gắng sức/xúc động**; **giảm nhanh khi nghỉ hoặc ngậm Nitrat**. |
+| **Men tim (Troponin)**          | Troponin có thể **tăng nhẹ mạn tính / bằng phẳng** do hoại tử vi thể.               | Troponin **tăng/giảm có động học rõ rệt** (gấp nhiều lần ngưỡng 99th). | Troponin **bình thường** lúc nghỉ.                                             |
+
+:::
+
+### Xác định suy tim Phải / Trái / Toàn bộ
+
+| Đặc điểm                 | Suy tim trái                                                                                    | Suy tim phải                                                                     |
+| :----------------------- | :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
+| **Triệu chứng nổi trội** | **Sung huyết phổi:** Khó thở khi gắng sức / nằm / kịch phát về đêm, ho về đêm, ho đàm bọt hồng. | **Sung huyết hệ thống:** Phù chi, gan to, tĩnh mạch cảnh nổi, báng bụng, mau no. |
+| **Khám tim & Phổi**      | Ran nổ/ẩm 2 đáy phổi, mỏm tim lệch ngoài, T3/T4 mỏm tim.                                        | Dấu nảy trước ngực, Harzer (+), T3/T4 bờ trái xương ức, âm thổi hở van 3 lá.     |
 
 ---
 
