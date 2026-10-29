@@ -12,6 +12,11 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
+      - name: Test Auth
+        env:
+          ISOLDE_DISPATCH_TOKEN: ${{ secrets.ISOLDE_DISPATCH_TOKEN }}
+        run: |
+          curl -s -H "Authorization: Bearer $ISOLDE_DISPATCH_TOKEN" https://api.github.com/repos/loctran016/Isolde
       - name: Tell Isolde the notes changed
         env:
           ISOLDE_DISPATCH_TOKEN: ${{ secrets.ISOLDE_DISPATCH_TOKEN }}
