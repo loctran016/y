@@ -1,7 +1,3 @@
-Bài giảng chi tiết **Bài 6: Dịch Tễ Học Mô Tả** được biên soạn bám sát theo giáo trình *Dịch Tễ Học Cơ Bản*. Tất cả các tiêu đề được tổ chức phân cấp theo đúng cấu trúc H2 > H3 > H4 và hoàn toàn không sử dụng số đứng trước tiêu đề [1].
-
----
-
 ## Mục Tiêu Bài Giảng
 
 Sau khi học xong bài này, bạn sẽ nắm vững [1]:
