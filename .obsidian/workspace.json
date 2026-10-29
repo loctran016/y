@@ -200,8 +200,7 @@
       "obsidian-importer:Import notes": false,
       "sheet-plus:Create excel file": false,
       "custom-sidebar-icons:Open custom icon library": false,
-      "obsidian-git:Open Git source control": false,
-      "full-width-toggle:Toggle current note width": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "77b88dd80f3fa924",
