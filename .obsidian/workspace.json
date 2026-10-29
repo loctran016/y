@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Nội khoa/Tim mạch/Suy tim.md",
+                "file": "0.Nội khoa/Tim mạch/HC vành cấp.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Suy tim"
+              "title": "HC vành cấp"
             }
           }
         ]
@@ -200,15 +200,16 @@
       "obsidian-importer:Import notes": false,
       "sheet-plus:Create excel file": false,
       "custom-sidebar-icons:Open custom icon library": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "full-width-toggle:Toggle current note width": false
     }
   },
   "active": "77b88dd80f3fa924",
   "lastOpenFiles": [
+    "0.Nội khoa/Tim mạch/Suy tim.md",
     "0.Nội khoa/1.Vấn đề/Khó thở.md",
     "0.Nội khoa/1.Vấn đề/Phù.md",
     "0.Nội khoa/Hô hấp/COPD.md",
-    "0.Nội khoa/Tim mạch/Suy tim.md",
     "0.Nội khoa/Tim mạch/HC vành cấp.md",
     "0.Nội khoa/Tim mạch/Tăng HA.md",
     "0.Nội khoa/Nhiễm trùng/Lao.md",
