@@ -1,68 +1,69 @@
-## Các nhóm yếu tố nguy cơ bệnh mạch vành
-
-1. Nhóm I: Can thiệp điều trị chắc chắn cải thiện tiên lượng BMV
-   Hút thuốc lá, tăng LDL-C, THA, phì đại thất trái, các yếu tố sinh huyết khối
-2. Nhóm II: can thiệp điều trị nhiều khả năng cải thiện tiên lượng BMV
-   ĐTĐ, HDL-C thấp, béo phì, ít vận động thể lực
-3. Nhóm III: Can thiệp điều trị có thể làm giảm nguy cơ BMV Các yếu tố tâm lý xã hội, trầm cảm, lo âu, tăng triglyceride máu, tăng lipoprotein a, tăng homocystein máu, stress oxy hoá, uống rượu nhiều.
-4. Nhóm IV: Yếu tố nguy cơ không thể thay đổi Nam, tiền sử gia đình BMV sớm (nam<55, nữ <65), tuổi (nam > 45, nữ > 55)
-
-Dưới đây là sơ đồ tiếp cận chẩn đoán **Hội chứng mạch vành cấp (HCMVC)** được chuẩn hóa theo Giáo trình _Tiếp cận Chẩn đoán Bệnh Nội khoa_ và _Điều trị học Nội khoa_ (ĐHYD TP.HCM):
-
----
-
 ## Đại cương & Sinh lý bệnh
 
-### Định nghĩa
-
-Hội chứng mạch vành cấp (Acute Coronary Syndrome - ACS) là một tình trạng tổn thương cấp tính ở động mạch vành, gây ra do sự nứt/vỡ mảng xơ vữa dẫn đến sự hình thành huyết khối làm tắc nghẽn một phần hoặc toàn bộ lòng động mạch vành một cách đột ngột.
-
-### Các thể lâm sàng chính
+Hội chứng mạch vành cấp (Acute Coronary Syndrome - ACS) là một tình trạng tổn thương cấp tính ở động mạch vành, gây ra do sự nứt/vỡ *mảng xơ vữa* dẫn đến sự hình thành huyết khối làm tắc nghẽn một phần hoặc toàn bộ lòng động mạch vành một cách đột ngột.
 
 Hội chứng mạch vành cấp được phân thành 3 thể lâm sàng chính dựa trên Điện tâm đồ (ECG) và Chất chỉ điểm sinh học tim (Troponin):
 
 1. **Nhồi máu cơ tim cấp có ST chênh lên (STEMI):** Tắc nghẽn hoàn toàn động mạch vành.
-2. **Nhồi máu cơ tim cấp không ST chênh lên (NSTEMI):** Tắc nghẽn không hoàn toàn hoặc hẹp nặng dòng chảy.
-3. **Cơn đau thắt ngực không ổn định (UA):** Thiếu máu cục bộ cơ tim cấp tính nhưng chưa gây hoại tử cơ tim.
+2. **Nhồi máu cơ tim cấp không ST chênh lên (NSTEMI):** Tắc nghẽn không hoàn toàn hoặc hẹp nặng dòng chảy (h.
+3. **Cơn đau thắt ngực không ổn định (UA):** Thiếu máu cục bộ cơ tim cấp tính nhưng chưa gây hoại tử cơ tim nên chưa thay đổi động học men tim).
 
 ---
 
-<!-- ## Tiếp cận chẩn đoán lâm sàng -->
+## Các yếu tố nguy cơ bệnh mạch vành
+
+1. Nhóm I (Can thiệp điều trị *chắc chắn* cải thiện tiên lượng BMV): Hút thuốc lá, tăng LDL-C, THA, phì đại thất trái, các yếu tố sinh huyết khối
+2. Nhóm II (Can thiệp điều trị nhiều *khả năng* cải thiện tiên lượng BMV): ĐTĐ, HDL-C thấp, béo phì, ít vận động thể lực
+3. Nhóm III (Can thiệp điều trị có thể làm giảm nguy cơ BMV): Các yếu tố tâm lý xã hội, trầm cảm, lo âu, tăng triglyceride máu, tăng lipoprotein a, tăng homocystein máu, stress oxy hoá, uống rượu nhiều.
+4. Nhóm IV (Yếu tố nguy cơ không thể thay đổi): Nam, tiền sử gia đình BMV sớm (nam < 55, nữ < 65), tuổi (nam > 45, nữ > 55)
 
 ## Khai thác bệnh sử & Triệu chứng cơ năng
 
+### Đau thắt ngực điển hình
+
+Cơn đau thắt ngực điển hình của BMV theo ACC/AHA có các đặc điểm:
+
+1. Đau ngay sau xương ức với tính chất và thời gian điển
+hình: đau thắt chẹn, kiểu đè ép, xiết chặt, bỏng rát;
+lan lên cổ, hàm dưới, vai, tay trái; đau < 15ph và ≥ 1ph
+2. Xuất hiện khi gắng sức / xúc cảm
+3. Giảm khi nghỉ hay khi dùng nitrates
+
+Đau thắt ngực không điển hình: 2/3 tiêu chuẩn trên.
+Đau thắt ngực không do tim: 0 - 1 tiêu chuẩn.
+
+> Đau thắt ngực điển hình có thể gặp ở cả HCVC và HCVM
+
 ### Đặc điểm cơn đau ngực kiểu thiếu máu cục bộ cơ tim
 
-Đau ngực là triệu chứng thường gặp nhất và mang tính chất then chốt. Cơn đau ngực điển hình có các đặc điểm:
+Cơn đau thắt ngực trong HCVC (cơn đau thắt ngực không ổn định):
 
 - **Vị trí:** Sau xương ức hoặc vùng trước tim.
 - **Tính chất:** Đau kiểu đè ép, siết chặt, nặng trĩu, bóp nghẹt như có tảng đá đè lên ngực.
 - **Hướng lan:** Lan lên cổ, hàm dưới, vai trái và chạy dọc mặt trong cánh tay trái xuống các ngón tay.
 - **Hoàn cảnh xuất hiện:** Đột ngột khởi phát lúc nghỉ ngơi hoặc sau kích động tâm lý, gắng sức.
 
-### 3 Bệnh cảnh đau ngực gợi ý Hội chứng mạch vành cấp
+Nghi ngờ HCVC khi cơn đau ngực mang 1 trong 3 đặc điểm sau:
 
-Nghi ngờ HCMVC khi cơn đau ngực mang 1 trong 3 đặc điểm sau:
-
-1. **Đau ngực lúc nghỉ:** Xuất hiện khi nghỉ ngơi và kéo dài **`≥ 20 phút`**.
+1. **Đau ngực lúc nghỉ:** Xuất hiện khi nghỉ ngơi và kéo dài, thường **`≥ 20 phút`**.
 2. **Đau ngực mới xuất hiện:** Cơn đau mới xuất hiện trong vòng vài tuần gần đây, cường độ dữ dội từ mức **`CCS III`** trở lên.
 3. **Đau ngực tăng dần:** Cơn đau thắt ngực ổn định trước đó nay xuất hiện thường xuyên hơn, kéo dài hơn, ngưỡng gắng sức thấp hơn (tăng ít nhất 1 độ CCS hoặc **`≥ CCS III`**).
 
-### Triệu chứng đi kèm
+Đau thắt ngực không ổn định: đau khi nghỉ, kéo dài > 30 phút, đau thắt ngực mới khởi phát và từ CCS III trở lên, tăng nặng và giới hạn hoạt động nhiều hơn
+
+Triệu chứng kèm theo:
 
 - **Phản ứng giao cảm:** Vã mồ hôi hột, da tái lạnh, hồi hộp, lo âu.
 - **Triệu chứng hô hấp & tiêu hóa:** Khó thở, mệt lả, buồn nôn, nôn, đau thượng vị (thường gặp ở bệnh nhân lớn tuổi, đái tháo đường hoặc nhồi máu cơ tim thành dưới).
 
 ## Thăm khám thực thể
 
-### Đánh giá huyết động & Suy tim
-
 Khám thực thể giúp phân tầng nguy cơ và phát hiện các biến chứng cấp tính:
 
 - Khám sinh hiệu: Tình trạng nhịp tim nhanh/chậm, tụt huyết áp hoặc cơn tăng huyết áp.
 - Tìm dấu hiệu suy tim / sung huyết phổi: Nghe được tiếng **`T3`**, **`T4`**, ran ẩm ở hai đáy phổi.
 
-### Phát hiện biến chứng cơ học
+Biến chứng cơ học
 
 - Ám thổi tâm thu mới xuất hiện ở mỏm tim (do hở van hai lá cấp do đứt/nhồi máu cơ nhú) hoặc âm thổi dạng nan hoa ở bờ trái xương ức (do thủng vách liên thất).
 
@@ -77,9 +78,7 @@ Khám thực thể giúp phân tầng nguy cơ và phát hiện các biến ch�
 
 ### Điện tâm đồ (ECG 12 chuyển đạo)
 
-#### Nguyên tắc thực hiện
-
-- Bắt buộc thực hiện ngay trong vòng **`10 phút`** đầu kể từ khi bệnh nhân tiếp cận y tế. Nếu chưa khẳng định, cần đo lặp lại mỗi **`15 - 30 phút`** trong những giờ đầu.
+Bắt buộc thực hiện ngay trong vòng **`10 phút`** đầu kể từ khi bệnh nhân tiếp cận y tế. Nếu chưa khẳng định, cần đo lặp lại mỗi **`15 - 30 phút`** trong những giờ đầu.
 
 #### Tiêu chuẩn biến đổi ST-T trong HCMVC
 
@@ -132,9 +131,38 @@ Dựa vào sự kết hợp giữa **Lâm sàng + ECG + Troponin**, phân biệt
 
 ---
 
-## Phân tầng nguy cơ & Đánh giá biến chứng
+## Tiếp cận chẩn đoán
 
-### Phân độ Killip (Áp dụng trong Nhồi máu cơ tim cấp)
+### Xác định BN có bị HCVC hay không?
+
+Bệnh sử giúp đến HCVC khi (đặc điểm của đau thắt ngực không ổn định):
+
+* Đau ngực lúc nghỉ tĩnh và kéo dài, thường là trên 20 phút.
+* Đau ngực mới xuất hiện, trước đây không có đau ngực mà đau ngực mới xuất hiện với cường độ dữ dội, ít nhất là CCS III.
+* Đau ngực tăng dần, trước đây được chẩn đoán là cơn đau thắt ngực ổn định, giờ cơn đau xuất hiện thường hơn, dài hơn, ngưỡng gắng sức xuất hiện thấp hơn (ít nhất là tăng 1 độ theo phân độ CCS hoặc ít nhất là CCS III).
+ 
+TCTT thường ít trong khi TCCN thường rất phong phú. Khám thực thể chủ yếu để loại trừ các chẩn đoán khác và tìm các biến chứng cơ học của NMCT:
+
+* Rối loạn nhịp
+* T3: có nhồi máu rộng và tổn thương cơ tim lan tỏa
+Xác định khi ST ↗ thỏa tiêu chuẩn ở ít nhất hai
+* Âm thổi tâm thu: hở van hai lá cấp / dãn thất trái / thông liên thất cấp chuyển đạo liên tiếp, có ST ↘ ở chuyển đạo soi
+* Tiếng cọ màng ngoài tim: chèn ép tim cấp
+
+Đặc điểm CLS: (chỉ với LS không thể phân biệt đau thắt ngực k ổn định và NMCT)
+
+* ECG: ST chênh lên, ST chênh xuống, sóng T thiếu máu cơ tim, Q hoại tử, block nhánh trái, lớn thất…
+* Men tim: Troponin I, T hoặc CK-MB tăng thỏa tiêu chuẩn chẩn đoán NMCT
+* Siêu âm tim: rối loạn vận động vùng, hở van 2 lá, thủng vách liên thất…
+* Chụp mạch vành và buồng thất trái có cản quang: xác định chính xác ĐMV bị tắc
+
+### 3 thể lâm sàng HCVC
+
+NMCT cấp (không) ST chênh lên
+
+Đau thắt ngực không ổn định:
+
+### Phân độ Killip (Áp dụng trong Nhồi máu cơ tim cấp) trong STEMI
 
 Giúp đánh giá mức độ suy bơm thất trái tại giường và tiên lượng tử vong:
 
@@ -150,3 +178,19 @@ Sử dụng các bảng điểm chuẩn hóa (TIMI, GRACE) để lựa chọn ch
 - **Group Nguy cơ rất cao (Can thiệp khẩn cấp `< 2 giờ`):** Rối loạn huyết động/choáng tim, đau ngực tái phát kháng trị, rối loạn nhịp nguy hiểm, biến chứng cơ học, suy tim cấp.
 - **Group Nguy cơ cao (Can thiệp sớm `< 24 giờ`):** Chẩn đoán xác định NSTEMI dựa vào Troponin, thay đổi ST-T động học, điểm GRACE **`> 140`**.
 - **Group Nguy cơ thấp (Can thiệp chọn lọc):** Không thuộc các tiêu chuẩn nguy cơ trên.
+
+### Chẩn đoán biến chứng
+
+Biến chứng cấp:
+
+* Rối loạn nhịp: nhịp nhanh, nhịp chậm, ngoại tâm thu, rối loạn dẫn truyền, rung nhĩ, rung thất…
+* Suy bơm: phù phổi cấp, suy tim cấp, choáng (SHH, tụt HA)…
+* Cơ học: thủng vách liên thất, vỡ thành tự do, hở 2 lá cấp,  chèn ép tim cấp
+* Viêm màng ngoài tim, huyết khối, thuyên tắc, NMCT tái phát
+
+Biến chứng muộn:
+
+* Phình vách thất: ST ↗ sau 1 tháng NMCT
+* RL nhịp nhanh thất, EF giảm
+* Hội chứng Dressler: BC tăng, tràn dịch màng ngoài tim
+* HC vai – bàn tay: viêm kèm xơ hóa quanh khớp bên T

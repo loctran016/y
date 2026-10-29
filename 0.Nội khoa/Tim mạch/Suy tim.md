@@ -1,8 +1,10 @@
 ## Lâm sàng suy tim
 
+Các TCCN của suy tim thường gặp là khó thở và đau ngực, ngoài ra còn có thể có **Phù ngoại biên:** Phù mềm, ấn lõm, đối xứng `2` bên cẳng chân/cổ chân, tăng về chiều tối và Cảm giác đầy bụng, chán ăn, đau hạ sườn phải (do gan sung huyết).
+
 ### Khó thở
 
-TCCN đặc hiệu và giá trị nhất của suy tim là Khó thở khi gắng sức diễn tiền thành Khó thở khi nằm (Orthopnea) và Khó thở kịch phát về đêm (PND). Ngoài ra có thể **Phù ngoại biên:** Phù mềm, ấn lõm, đối xứng `2` bên cẳng chân/cổ chân, tăng về chiều tối và Cảm giác đầy bụng, chán ăn, đau hạ sườn phải (do gan sung huyết).
+TCCN đặc hiệu và giá trị nhất của suy tim là Khó thở khi gắng sức diễn tiền thành Khó thở khi nằm (Orthopnea) và Khó thở kịch phát về đêm (PND).
 
 :::details{summary="Sinh lý bệnh Khó thở khi nằm và kịch phát về đêm (PND)"}
 
@@ -111,28 +113,40 @@ Chẩn đoán xác định Suy tim theo Framingham: Khi bệnh nhân thỏa mãn
 
 ---
 
-### Phân độ NYHA: 
+### Phân độ chức năng NYHA (New York Heart Association)
 
-BN bị giới hạn nhẹ hoạt động thể lực. Thoải mái khi nghỉ. Các hoạt động dưới mức thông thường, sinh hoạt gây mệt, khó thở
-  => NYHA III
+| Phân độ NYHA | Mức độ giới hạn hoạt động thể lực | Đối chiếu với bệnh nhân |
+| :--- | :--- | :---: |
+| **NYHA I** | **Không giới hạn** hoạt động thể lực. Vận động thể lực thông thường không gây mệt, hồi hộp hay khó thở [cite: 49]. | |
+| **NYHA II** | **Giới hạn nhẹ** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi. Vận động thể lực thông thường (leo cầu thang, đi bộ nhanh) gây mệt, khó thở [cite: 49]. | |
+| **NYHA III** | **Giới hạn đáng kể/rõ rệt** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi, nhưng **các hoạt động dưới mức thông thường (sinh hoạt nhẹ hằng ngày) đã gây mệt, khó thở** [cite: 49]. | **XÁC ĐỊNH NYHA III** [cite: 49] |
+| **NYHA IV** | **Không thực hiện được bất kỳ hoạt động thể lực nào** mà không khó chịu. Triệu chứng suy tim xuất hiện ngay cả khi nghỉ ngơi [cite: 49]. | |
 
-### Giai đoạn ACC: 
+*Lưu ý:* Mặc dù trong lời khai bệnh nhân có thể dùng từ "nhẹ", nhưng khi các triệu chứng mệt/khó thở đã xuất hiện với **các hoạt động dưới mức thông thường (sinh hoạt cá nhân)** thì quy chuẩn lâm sàng xếp vào **NYHA III** [cite: 49].
 
-BN bị giới hạn nhẹ vận động thể lực (NYHA III) và có bệnh tim cấu trúc (siêu âm tim tuyến trước ghi nhận dãn thất trái, dày đồng tâm thất trái) và có triệu chứng suy tim (khó thở kịch phát về đêm, khó thở khi nằm đầu thấp, giảm khi ngồi, tăng khi gắng sức)
-  => ACC giai đoạn C
-  
+### Phân giai đoạn ACC/AHA (American College of Cardiology / American Heart Association)
+
+| Giai đoạn ACC/AHA | Tiêu chuẩn phân giai đoạn | Đối chiếu với bệnh nhân |
+| :--- | :--- | :---: |
+| **Giai đoạn A** | Có **nguy cơ cao suy tim** (THA, ĐTĐ, béo phì...), **chưa có** bệnh tim cấu trúc và **chưa từng có** triệu chứng suy tim [cite: 50]. | |
+| **Giai đoạn B** | **Có bệnh tim cấu trúc** (dày thất trái, dãn thất, NMCT cũ...), nhưng **chưa từng có** triệu chứng suy tim [cite: 50]. | |
+| **Giai đoạn C** | **Có bệnh tim cấu trúc** VÀ **đã hoặc đang có triệu chứng suy tim** lâm sàng [cite: 50]. | **XÁC ĐỊNH GIAI ĐOẠN C** [cite: 50] |
+| **Giai đoạn D** | **Suy tim giai đoạn cuối (kháng trị)**, triệu chứng rầm rộ khi nghỉ ngơi dù đã điều trị nội khoa tối ưu, cần can thiệp đặc biệt [cite: 50]. | |
+
+
+Phối hợp phần phân độ NYHA và ACC/AHA với chỉ số **LVEF trên siêu âm tim** để hoàn thiện đầy đủ chẩn đoán suy tim (HFrEF, HFmrEF hay HFpEF)
+
 ## Nguyên nhân gây suy tim
 
 Các Nhóm Nguyên nhân Nguyên phát Thường gặp ở Bệnh cảnh Điển hình
 
-- **Bệnh động mạch vành (Bệnh tim thiếu máu cục bộ):** Là nguyên nhân hàng đầu (chiếm `> 50%` các trường hợp).
-- **Tăng huyết áp:** Tăng áp lực hậu tải mạn tính gây phì đại và dãn thất trái.
-- **Bệnh van tim:** Hẹp/hở van hai lá, hẹp/hở van động mạch chủ.
-- **Bệnh cơ tim:** Bệnh cơ tim dãn nở, bệnh cơ tim phì đại.
-- **Rối loạn nhịp mạn tính:** Rung nhĩ đáp ứng thất nhanh kéo dài.
+- Bệnh động mạch vành (Bệnh tim thiếu máu cục bộ): Là nguyên nhân hàng đầu.
+- Tăng huyết áp: Tăng áp lực hậu tải mạn tính gây phì đại và dãn thất trái (tim to, mỏm tim lệch khi khám).
+- Bệnh van tim: Hẹp/hở van hai lá, hẹp/hở van động mạch chủ.
+- Bệnh cơ tim: Bệnh cơ tim dãn nở, bệnh cơ tim phì đại.
+- Rối loạn nhịp mạn tính: Rung nhĩ đáp ứng thất nhanh kéo dài.
+- Bệnh màng ngoài tim:
 
-
-- Nguyên nhân:
 
 * Bệnh mạch vành: BN không đau ngực. Tiền căn không ghi nhận bệnh mạch vành, rối loạn lipid máu, xơ vữa động mạch
   => Ít nghĩ nhưng không loại trừ. Đề nghị CLS: ECG, NT-proBNP
@@ -190,7 +204,7 @@ Nhóm nguyên nhân cấp tính nguy hiểm nhất cần được tầm soát ng
 6. **I** (*Infection*) – **Nhiễm trùng:** Đặc biệt là nhiễm trùng đường hô hấp (viêm phổi, viêm phế quản cấp) hoặc nhiễm trùng huyết.
 7. **T** (*Tamponade*) – **Chèn ép tim cấp:** Tích tụ dịch màng ngoài tim gây cản trở đổ đầy thất.
 
-—
+Khác:
 
 * **Không tuân thủ điều trị:** Tự ý ngưng hoặc giảm liều thuốc điều trị suy tim (đặc biệt là thuốc lợi tiểu, hạ áp), hoặc chế độ ăn không tuân thủ (ăn mặn, uống quá nhiều nước).
 * **Do thuốc hoặc độc chất:** Sử dụng các thuốc gây giữ muối/nước hoặc độc cho cơ tim (như NSAIDs, Corticoid, chống ung thư, hoặc lạm dụng rượu/bia).
