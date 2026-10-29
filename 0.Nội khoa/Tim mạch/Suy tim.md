@@ -115,24 +115,23 @@ Chẩn đoán xác định Suy tim theo Framingham: Khi bệnh nhân thỏa mãn
 
 ### Phân độ chức năng NYHA (New York Heart Association)
 
-| Phân độ NYHA | Mức độ giới hạn hoạt động thể lực | Đối chiếu với bệnh nhân |
-| :--- | :--- | :---: |
-| **NYHA I** | **Không giới hạn** hoạt động thể lực. Vận động thể lực thông thường không gây mệt, hồi hộp hay khó thở [cite: 49]. | |
-| **NYHA II** | **Giới hạn nhẹ** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi. Vận động thể lực thông thường (leo cầu thang, đi bộ nhanh) gây mệt, khó thở [cite: 49]. | |
-| **NYHA III** | **Giới hạn đáng kể/rõ rệt** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi, nhưng **các hoạt động dưới mức thông thường (sinh hoạt nhẹ hằng ngày) đã gây mệt, khó thở** [cite: 49]. | **XÁC ĐỊNH NYHA III** [cite: 49] |
-| **NYHA IV** | **Không thực hiện được bất kỳ hoạt động thể lực nào** mà không khó chịu. Triệu chứng suy tim xuất hiện ngay cả khi nghỉ ngơi [cite: 49]. | |
+| Phân độ NYHA | Mức độ giới hạn hoạt động thể lực |
+| :--- | :--- |
+| **NYHA I** | **Không giới hạn** hoạt động thể lực. Vận động thể lực thông thường không gây mệt, hồi hộp hay khó thở [cite: 49]. |
+| **NYHA II** | **Giới hạn nhẹ** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi. Vận động thể lực thông thường (leo cầu thang, đi bộ nhanh) gây mệt, khó thở [cite: 49]. |
+| **NYHA III** | **Giới hạn đáng kể/rõ rệt** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi, nhưng **các hoạt động dưới mức thông thường (sinh hoạt nhẹ hằng ngày) đã gây mệt, khó thở** [cite: 49]. |
+| **NYHA IV** | **Không thực hiện được bất kỳ hoạt động thể lực nào** mà không khó chịu. Triệu chứng suy tim xuất hiện ngay cả khi nghỉ ngơi [cite: 49]. |
 
 *Lưu ý:* Mặc dù trong lời khai bệnh nhân có thể dùng từ "nhẹ", nhưng khi các triệu chứng mệt/khó thở đã xuất hiện với **các hoạt động dưới mức thông thường (sinh hoạt cá nhân)** thì quy chuẩn lâm sàng xếp vào **NYHA III** [cite: 49].
 
 ### Phân giai đoạn ACC/AHA (American College of Cardiology / American Heart Association)
 
-| Giai đoạn ACC/AHA | Tiêu chuẩn phân giai đoạn | Đối chiếu với bệnh nhân |
-| :--- | :--- | :---: |
-| **Giai đoạn A** | Có **nguy cơ cao suy tim** (THA, ĐTĐ, béo phì...), **chưa có** bệnh tim cấu trúc và **chưa từng có** triệu chứng suy tim [cite: 50]. | |
-| **Giai đoạn B** | **Có bệnh tim cấu trúc** (dày thất trái, dãn thất, NMCT cũ...), nhưng **chưa từng có** triệu chứng suy tim [cite: 50]. | |
-| **Giai đoạn C** | **Có bệnh tim cấu trúc** VÀ **đã hoặc đang có triệu chứng suy tim** lâm sàng [cite: 50]. | **XÁC ĐỊNH GIAI ĐOẠN C** [cite: 50] |
-| **Giai đoạn D** | **Suy tim giai đoạn cuối (kháng trị)**, triệu chứng rầm rộ khi nghỉ ngơi dù đã điều trị nội khoa tối ưu, cần can thiệp đặc biệt [cite: 50]. | |
-
+| Giai đoạn ACC/AHA | Tiêu chuẩn phân giai đoạn |
+| :--- | :--- |
+| **Giai đoạn A** | Có **nguy cơ cao suy tim** (THA, ĐTĐ, béo phì...), **chưa có** bệnh tim cấu trúc và **chưa từng có** triệu chứng suy tim [cite: 50]. |
+| **Giai đoạn B** | **Có bệnh tim cấu trúc** (dày thất trái, dãn thất, NMCT cũ...), nhưng **chưa từng có** triệu chứng suy tim [cite: 50]. |
+| **Giai đoạn C** | **Có bệnh tim cấu trúc** VÀ **đã hoặc đang có triệu chứng suy tim** lâm sàng [cite: 50]. |
+| **Giai đoạn D** | **Suy tim giai đoạn cuối (kháng trị)**, triệu chứng rầm rộ khi nghỉ ngơi dù đã điều trị nội khoa tối ưu, cần can thiệp đặc biệt [cite: 50]. |
 
 Phối hợp phần phân độ NYHA và ACC/AHA với chỉ số **LVEF trên siêu âm tim** để hoàn thiện đầy đủ chẩn đoán suy tim (HFrEF, HFmrEF hay HFpEF)
 
@@ -140,19 +139,12 @@ Phối hợp phần phân độ NYHA và ACC/AHA với chỉ số **LVEF trên s
 
 Các Nhóm Nguyên nhân Nguyên phát Thường gặp ở Bệnh cảnh Điển hình
 
-- Bệnh động mạch vành (Bệnh tim thiếu máu cục bộ): Là nguyên nhân hàng đầu.
+- Bệnh động mạch vành (Bệnh tim thiếu máu cục bộ): Là nguyên nhân hàng đầu (không đau ngực. Tiền căn bệnh mạch vành, rối loạn lipid máu, xơ vữa động mạch; Đề nghị CLS: ECG, NT-proBNP).
 - Tăng huyết áp: Tăng áp lực hậu tải mạn tính gây phì đại và dãn thất trái (tim to, mỏm tim lệch khi khám).
-- Bệnh van tim: Hẹp/hở van hai lá, hẹp/hở van động mạch chủ.
+- Bệnh van tim: Hẹp/hở van hai lá, hẹp/hở van động mạch chủ (âm thổi và tiếng tim).
 - Bệnh cơ tim: Bệnh cơ tim dãn nở, bệnh cơ tim phì đại.
 - Rối loạn nhịp mạn tính: Rung nhĩ đáp ứng thất nhanh kéo dài.
-- Bệnh màng ngoài tim:
-
-
-* Bệnh mạch vành: BN không đau ngực. Tiền căn không ghi nhận bệnh mạch vành, rối loạn lipid máu, xơ vữa động mạch
-  => Ít nghĩ nhưng không loại trừ. Đề nghị CLS: ECG, NT-proBNP
-
-* Tăng huyết áp: Ghi nhận huyết áp 200/130mmHg, siêu âm tuyến trước ghi nhận dày đồng tâm thất trái, dãn thất trái. (đã biện luận)
-  => Nghĩ nhiều.
+- Bệnh màng ngoài tim: BN không đau ngực, không ghi nhận nhiễm siêu vi trước đợt bệnh này. Khám không ghi nhận sốt, không tiếng tim bất thường, không tiếng cọ màng ngoài tim. Tiền căn không ghi nhận bệnh tự miễn, ung thư.
 
 * Bệnh cơ tim: BN khó thở nhưng không đau thắt ngực. Khám ghi nhận mỏm tim lệch ngoài đường trung đòn trái #2cm. Siêu âm tuyến trước ghi nhận dày dãn thành thất trái nhưng cũng có thể được giải thích là biến chứng của tăng huyết áp
   => Ít nghĩ nhưng không loại trừ
@@ -160,9 +152,6 @@ Các Nhóm Nguyên nhân Nguyên phát Thường gặp ở Bệnh cảnh Điển
 * Bệnh van tim: Khám không ghi nhận âm thổi. Siêu âm tuyến trước không ghi nhận bất thường về van tim
   => Không nghĩ
 
-* Bệnh màng ngoài tim: BN không đau ngực, không ghi nhận nhiễm siêu vi trước đợt bệnh này. Khám không ghi nhận sốt, không tiếng tim bất thường, không tiếng cọ màng ngoài tim. Tiền căn không ghi nhận bệnh tự miễn, ung thư
-  => Không nghĩ 
-  
 ### Thông liên thất - Bệnh lý bẩm sinh thúc đẩy suy tim
 
 Trong bệnh lý **Thông liên thất (Ventricular Septal Defect - VSD)**, **SUY TIM TRÁI sẽ xuất hiện TRƯỚC**.
