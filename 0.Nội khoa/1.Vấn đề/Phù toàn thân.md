@@ -1,8 +1,4 @@
-Đánh giá và tiếp cận **Phù toàn thân** theo Giáo trình _Tiếp cận Chẩn đoán Bệnh Nội khoa_ (ĐHYD TP.HCM) dựa trên **4 nhóm nguyên nhân cơ quan tạng chính** và cách tích hợp các **Hội chứng / Vấn đề đi kèm** khi Đặt vấn đề trong bệnh án :
-
----
-
-## Phân Loại Phù Toàn Thân Theo 4 Nhóm Cơ Quan Tạng
+## Nguyên nhân phù toàn thân
 
 Phù toàn thân xuất phát từ sự mất cân bằng các lực Starling (áp lực thủy tĩnh, áp lực keo, tính thấm mao mạch, lưu thông bạch huyết) . Lâm sàng phân chia thành **4 nhóm nguyên nhân cốt lõi** :
 
