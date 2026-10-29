@@ -1,6 +1,4 @@
-Bài giảng này trình bày hệ thống các loại thiết kế nghiên cứu dịch tễ học – công cụ phương pháp luận cốt lõi giúp các nhà nghiên cứu mô tả bệnh trạng, xác định nguyên nhân/yếu tố nguy cơ và lượng giá hiệu quả của các biện pháp can thiệp y tế.
-
-Mục Tiêu Bài Giảng
+## Mục Tiêu Bài Giảng
 
 - Liệt kê được 9 loại thiết kế nghiên cứu dịch tễ học cơ bản.
 - Xác định được bản chất, đặc điểm cốt lõi của từng loại thiết kế nghiên cứu.

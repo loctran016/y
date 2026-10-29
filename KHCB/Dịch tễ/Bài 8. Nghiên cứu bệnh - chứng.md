@@ -1,9 +1,3 @@
-# Bài 8: Nghiên Cứu Bệnh - Chứng
-
-Bài giảng này trình bày về **Nghiên cứu bệnh - chứng** (Case-control study) – một thiết kế nghiên cứu quan sát phân tích phổ biến trong dịch tễ học nhằm tìm kiếm yếu tố nguyên nhân hoặc yếu tố nguy cơ của bệnh [1, 2].
-
----
-
 ## Mục Tiêu Bài Giảng
 
 Sau khi học xong bài này, bạn sẽ nắm vững:
