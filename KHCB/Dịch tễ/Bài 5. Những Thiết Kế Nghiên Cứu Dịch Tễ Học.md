@@ -4,25 +4,25 @@
 - Xác định được bản chất, đặc điểm cốt lõi của từng loại thiết kế nghiên cứu.
 - Nêu và so sánh được những điểm mạnh, điểm hạn chế của từng thiết kế nghiên cứu dịch tễ học.
 
-—
+---
 
 ## Khái Niệm Về Thiết Kế Nghiên Cứu Dịch Tễ Học
 
 Thiết kế nghiên cứu dịch tễ học là một kế hoạch mô tả chi tiết những bước cơ bản để xác định đối tượng nghiên cứu, phương pháp thu thập, phân tích và lý giải dữ kiện nhằm mô tả bệnh trạng, suy diễn mối liên quan nhân - quả giữa yếu tố nguy cơ và bệnh, hoặc kết luận về hiệu quả của một biện pháp can thiệp sức khỏe.
 
-—
+---
 
 ## Phân Loại Các Thiết Kế Nghiên Cứu Dịch Tễ Học
 
 Dựa trên chiến lược nghiên cứu và mục đích, các thiết kế nghiên cứu dịch tễ học được chia thành hai nhóm lớn: **Nghiên cứu quan sát** và **Nghiên cứu can thiệp**.
 
 | Loại nghiên cứu | Thiết kế nghiên cứu | Chiến lược nghiên cứu | Mục đích nghiên cứu chính |
-| :——-: | :——-: | :——-: | :——-: |
+| :-------: | :-------: | :-------: | :-------: |
 | **Nghiên cứu quan sát - Mô tả** | • Nghiên cứu tương quan<br>• Báo cáo một ca<br>• Báo cáo hàng loạt ca<br>• Cắt ngang mô tả | Mô tả bệnh trạng trên dân số hoặc cá thể | Xác định mối liên quan ban đầu, mô tả đặc điểm ca bệnh, mô tả mô hình bệnh trạng quần thể và hình thành giả thuyết nhân - quả. |
 | **Nghiên cứu quan sát - Phân tích** | • Cắt ngang phân tích<br>• Nghiên cứu bệnh - chứng<br>• Nghiên cứu đoàn hệ | So sánh bệnh trạng hoặc tỷ lệ phơi nhiễm giữa các nhóm | Xác định và kiểm định mối liên quan nhân - quả giữa yếu tố nguy cơ (phơi nhiễm) và bệnh. |
 | **Nghiên cứu can thiệp** | • Thử nghiệm lâm sàng<br>• Thử nghiệm thực địa<br>• Thử nghiệm can thiệp cộng đồng | So sánh kết quả giữa nhóm có can thiệp và nhóm không can thiệp | Xác định hiệu quả của phác đồ điều trị, biện pháp phòng bệnh trên cá thể khỏe mạnh hoặc trên toàn cộng đồng. |
 
-—
+---
 
 ## Nghiên Cứu Quan Sát - Nhóm Nghiên Cứu Mô Tả
 
@@ -47,7 +47,7 @@ Trong các nghiên cứu quan sát mô tả, nhà nghiên cứu chỉ thu thập
 - **Bản chất:** Ghi nhận tình trạng bệnh tật và sự hiện diện của yếu tố liên quan trên từng cá thể tại một thời điểm khảo sát nhất định nhằm ước lượng tỷ lệ hiện mắc.
 - **Ưu điểm:** Cung cấp thông tin giá trị cho các nhà quản lý y tế để đánh giá nhu cầu chăm sóc sức khỏe và lập kế hoạch y tế công cộng.
 
-—
+---
 
 ## Nghiên Cứu Quan Sát - Nhóm Nghiên Cứu Phân Tích
 
@@ -80,7 +80,7 @@ Nghiên cứu phân tích bắt buộc phải có **nhóm so sánh** nhằm ki�
 ### Bảng so sánh đặc điểm các thiết kế nghiên cứu quan sát phân tích
 
 | Đặc điểm so sánh | Nghiên cứu cắt ngang | Nghiên cứu bệnh - chứng | Nghiên cứu đoàn hệ |
-| :— | :— | :— | :— |
+| :--- | :--- | :--- | :--- |
 | **Mức độ dễ thực hiện** | Dễ nhất (++) | Khá dễ (+) | Khó (-) |
 | **Chi phí** | Thấp (+) | Thấp (+) | Cao (++) |
 | **Thời gian nghiên cứu** | Ngắn (+) | Dài hơn (++) | Rất dài (+++) |
@@ -88,7 +88,7 @@ Nghiên cứu phân tích bắt buộc phải có **nhóm so sánh** nhằm ki�
 | **Sức mạnh bằng chứng nhân - quả** | Yếu (-) | Yếu (-) | **Mạnh (+)** |
 | **Khả năng đo lường trực tiếp nguy cơ** | Không (-) | Chỉ ước lượng gần đúng (OR) khi bệnh hiếm | **Đo lường trực tiếp (RR)** |
 
-—
+---
 
 ## Nghiên Cứu Can Thiệp
 
@@ -110,7 +110,7 @@ Nghiên cứu can thiệp (Interventional / Experimental study) có bản chất
 - **Đối tượng:** Toàn thể một hay nhiều cộng đồng/khu vực dân cư.
 - **Mục đích:** Đánh giá hiệu quả của các chương trình can thiệp sức khỏe áp dụng ở quy mô đại chúng (ví dụ: bổ sung Fluor vào nguồn nước sinh hoạt để ngừa sâu răng, chương trình giáo dục sức khỏe truyền thông).
 
-—
+---
 
 ## Các Nguyên Tắc Phân Biệt Và Lựa Chọn Thiết Kế Nghiên Cứu
 
