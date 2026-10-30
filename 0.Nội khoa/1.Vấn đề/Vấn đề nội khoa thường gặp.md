@@ -1,23 +1,3 @@
-```mermaid
-flowchart LR
-    %% Define styles (optional, to match the GoJS colors)
-    classDef root fill:#f8bbd0,stroke:#333,stroke-width:2px,color:#000
-    classDef symptom fill:#b2dfdb,stroke:#333,stroke-width:1px,color:#000
-    classDef disease fill:#ffcc80,stroke:#333,stroke-width:1px,color:#000
-
-    %% Define the nodes and their connections
-    A[Khó thở]:::root --> B[Khó thở khi nằm]:::symptom
-    A --> C[Khó thở kịch phát về đêm]:::symptom
-
-    %% Multiple symptoms linking to Suy tim
-    B --> D[Suy tim]:::disease
-    C --> D
-
-    %% Khó thở khi nằm linking to multiple other diseases
-    B --> E[COPD]:::disease
-    B --> F[Bệnh lý hô hấp khác]:::disease
-```
-
 ## Trại Tiêu hoá
 
 ### Các triệu chứng Tiêu hóa - Gan mật trọng tâm**
