@@ -111,7 +111,7 @@ Các nguyên nhân gây khó thở: *tim mạch - RL lipid; hô hấp; phù - th
    * Không do nhiễm trùng (Sụt cân, sợ nóng, rụng tóc): Cường giáp, Bệnh tự miễn (Lupus), Bệnh ác tính / Hội chứng cận ung, Do thuốc, Chấn thương dập cơ
 4. Tiền căn:
    * Tiền căn sốt trước đây? Tính chất có giống lần này không? Được chẩn đoán và điều trị gì?
-   * Bệnh lý nội khoa: Hô hấp (Lao, tiếp xúc nguồn lao, COVID-19), Tim mạch (THA, viêm nội tâm mạc), Tiêu hóa (Viêm gan, xơ gan, áp-xe gan), Chuyển hóa (Cường giáp, ĐTĐ), Tự miễn (Lupus, viêm khớp dạng thấp), Bệnh ác tính
+   * Bệnh lý nội khoa: Hô hấp (Lao, tiếp xúc nguồn lao, COVID-19), Tim mạch (THA, viêm nội tâm mạc), Tiêu hóa (Viêm gan, xơ gan, áp-xe gan), Thận niệu (Nhiễm trùng tiểu), Chuyển hóa (Cường giáp, ĐTĐ), Tự miễn (Lupus, viêm khớp dạng thấp), Bệnh ác tính
    * Yếu tố dịch tễ: Đi du lịch gần đây? Nằm viện? Yếu tố nguy cơ lây nhiễm? Tiếp xúc gia súc, gia cầm? Vùng lưu hành sốt xuất huyết, sốt rét?
    * Thuốc đang dùng: Thuốc hạ sốt, kháng sinh, Corticoid, thuốc gây sốt do thuốc
 5. Tiền căn ngoại khoa / Thủ thuật: Phẫu thuật gần đây, đặt thông tiểu, cấy ghép thiết bị
