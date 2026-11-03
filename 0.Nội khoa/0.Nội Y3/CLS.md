@@ -16,16 +16,16 @@
 
 ---
 
-## 1. TRẠI TIM MẠCH (Cardiology)
+## Trại Tim mạch (Cardiology)
 
-### A. CLS Thường quy khoa Tim mạch [cite: 1, 7, 17]:
+### CLS Thường quy khoa Tim mạch [cite: 1, 7, 17]:
 
 * CBC, Điện giải đồ (\\(\text{Na}^+, \text{K}^+, \text{Cl}^-\\)), Urea, Creatinine, eGFR, Glucose/HbA1c [cite: 1, 7, 17].
 * **Bilan Lipid máu toàn phần:** Cholesterol toàn phần, Triglyceride, LDL-C, HDL-C [cite: 1, 7, 17].
 * ECG 12 chuyển đạo lúc nghỉ + X-quang ngực thẳng [cite: 1, 7, 14].
 * Phân tích nước tiểu, Tỷ lệ Albumin/Creatinine niệu (uACR) [cite: 7].
 
-### B. CLS Chẩn đoán & Chuyên biệt Tim mạch (Theo bệnh lý) [cite: 7, 17, 23]:
+### CLS Chẩn đoán & Chuyên biệt Tim mạch (Theo bệnh lý) [cite: 7, 17, 23]:
 
 * **Hội chứng vành cấp (ACS) & Bệnh mạch vành mạn (CCS):**
   * **Men tim / Chỉ dấu hoại tử cơ tim:** **hs-Troponin I** hoặc **hs-Troponin T** (theo lưu đồ động học 0h/1h hoặc 0h/3h) [cite: 23, 24, 110], CK-MB.
@@ -47,15 +47,15 @@
 
 ---
 
-## 2. TRẠI HÔ HẤP (Pulmonology)
+## Trại Hô Hấp (Pulmonology)
 
-### A. CLS Thường quy khoa Hô hấp [cite: 36, 38, 39, 50]:
+### CLS Thường quy khoa Hô hấp [cite: 36, 38, 39, 50]:
 * Công thức máu (chú ý Bạch cầu, Neutrophil, Eosinophil, Hgb/Hct) [cite: 38, 39, 110].
 * Sinh hóa cơ bản (Urea, Creatinine, Electrolytes, Glucose) [cite: 39, 50].
 * **Đo độ bão hòa Oxy ngoại vi (\\(\text{SpO}_2\\))** [cite: 36, 41, 47].
 * X-quang ngực thẳng (PA) + ECG 12 chuyển đạo [cite: 36, 38, 40, 50].
 
-### B. CLS Chẩn đoán & Chuyên biệt Hô hấp (Theo bệnh lý) [cite: 34, 35, 36]:
+### CLS Chẩn đoán & Chuyên biệt Hô hấp (Theo bệnh lý) [cite: 34, 35, 36]:
 
 * **Nhiễm trùng hô hấp (Viêm phổi, Áp phế phổi, Lao phổi):**
   * **Chỉ dấu viêm hệ thống:** **CRP**, **Procalcitonin (PCT)** (hướng dẫn kháng sinh) [cite: 39, 40, 50].
@@ -86,7 +86,7 @@
 
 ## 3. TRẠI TIÊU HÓA - GAN MẬT (Gastroenterology & Hepatology)
 
-### A. CLS Thường quy khoa Tiêu hóa [cite: 23, 50, 99, 101]:
+### CLS Thường quy khoa Tiêu hóa [cite: 23, 50, 99, 101]:
 * Công thức máu (chú ý Hgb, Hct, tiểu cầu) [cite: 53, 99, 103].
 * Đông cầm máu: PT/INR, aPTT, Fibrinogen [cite: 23, 99, 103].
 * Sinh hóa máu: Urea, Creatinine, Electrolytes, Glucose [cite: 50, 99, 101].
@@ -94,7 +94,7 @@
 * Siêu âm bụng tổng quát [cite: 86, 95, 101].
 * X-quang ngực thẳng & X-quang bụng không sửa sửa (KUB - tìm liềm hơi dưới hoành, mức nước hơi) [cite: 89, 101].
 
-### B. CLS Chẩn đoán & Chuyên biệt Tiêu hóa - Gan mật (Theo bệnh lý) [cite: 56, 66, 86, 99]:
+### CLS Chẩn đoán & Chuyên biệt Tiêu hóa - Gan mật (Theo bệnh lý) [cite: 56, 66, 86, 99]:
 
 * **Xuất huyết tiêu hóa (XHTH) & Bệnh lý Dạ dày - Tá tràng:**
   * **Nội soi thực quản - dạ dày - tá tràng (TQ-DD-TT) khẩn:** Tiêu chuẩn vàng chẩn đoán vị trí, nguyên nhân (loét, vỡ dãn TMTQ) và can thiệp cầm máu [cite: 66, 99, 100].
@@ -118,9 +118,9 @@
 
 ---
 
-## 4. TRẠI THẬN NIỆU (Nephrology & Urology)
+## TRẠI THẬN NIỆU (Nephrology & Urology)
 
-### A. CLS Thường quy khoa Thận niệu [cite: 7, 8, 68, 89]:
+### CLS Thường quy khoa Thận niệu [cite: 7, 8, 68, 89]:
 * Công thức máu toàn bộ (CBC - đánh giá mức độ thiếu máu mạn trong CKD, bạch cầu trong nhiễm trùng) [cite: 68, 89].
 * **Sinh hóa máu:** **Urea (BUN), Creatinine máu \\(\rightarrow\\) Ước tính eGFR** (MDRD hoặc CKD-EPI) [cite: 7, 89].
 * Điện giải đồ máu: \\(\text{Na}^+, \text{K}^+, \text{Cl}^-, \text{Ca}^{2+}, \text{Phosphorus}\\) [cite: 7, 8, 89].
@@ -128,7 +128,7 @@
 * Siêu âm Hệ tiết niệu (Thận - Bàng quang - Tuyến tiền liệt) [cite: 7, 90].
 * X-quang hệ tiết niệu không sửa sửa (**KUB**) [cite: 89, 91].
 
-### B. CLS Chẩn đoán & Chuyên biệt Thận niệu (Theo bệnh lý) [cite: 7, 8, 67, 90]:
+### CLS Chẩn đoán & Chuyên biệt Thận niệu (Theo bệnh lý) [cite: 7, 8, 67, 90]:
 
 * **Tổn thương thận cấp (AKI) & Bệnh thận mạn (CKD):**
   * **Đạm niệu 24 giờ** (Protein niệu / 24h) hoặc Tỷ lệ **Protein/Creatinine niệu (PCR)**, **Albumin/Creatinine niệu (ACR)** [cite: 7, 8].
