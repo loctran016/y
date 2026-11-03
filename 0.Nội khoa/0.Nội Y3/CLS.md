@@ -50,6 +50,7 @@
 ## Trại Hô Hấp (Pulmonology)
 
 ### CLS Thường quy khoa Hô hấp [cite: 36, 38, 39, 50]:
+
 * Công thức máu (chú ý Bạch cầu, Neutrophil, Eosinophil, Hgb/Hct) [cite: 38, 39, 110].
 * Sinh hóa cơ bản (Urea, Creatinine, Electrolytes, Glucose) [cite: 39, 50].
 * **Đo độ bão hòa Oxy ngoại vi (\\(\text{SpO}_2\\))** [cite: 36, 41, 47].
@@ -84,9 +85,10 @@
 
 ---
 
-## 3. TRẠI TIÊU HÓA - GAN MẬT (Gastroenterology & Hepatology)
+## Trại Tiêu Hoá - Gan Mật (Gastroenterology & Hepatology)
 
 ### CLS Thường quy khoa Tiêu hóa [cite: 23, 50, 99, 101]:
+
 * Công thức máu (chú ý Hgb, Hct, tiểu cầu) [cite: 53, 99, 103].
 * Đông cầm máu: PT/INR, aPTT, Fibrinogen [cite: 23, 99, 103].
 * Sinh hóa máu: Urea, Creatinine, Electrolytes, Glucose [cite: 50, 99, 101].
@@ -118,9 +120,10 @@
 
 ---
 
-## TRẠI THẬN NIỆU (Nephrology & Urology)
+## Trại Thận Niệu (Nephrology & Urology)
 
 ### CLS Thường quy khoa Thận niệu [cite: 7, 8, 68, 89]:
+
 * Công thức máu toàn bộ (CBC - đánh giá mức độ thiếu máu mạn trong CKD, bạch cầu trong nhiễm trùng) [cite: 68, 89].
 * **Sinh hóa máu:** **Urea (BUN), Creatinine máu \\(\rightarrow\\) Ước tính eGFR** (MDRD hoặc CKD-EPI) [cite: 7, 89].
 * Điện giải đồ máu: \\(\text{Na}^+, \text{K}^+, \text{Cl}^-, \text{Ca}^{2+}, \text{Phosphorus}\\) [cite: 7, 8, 89].
