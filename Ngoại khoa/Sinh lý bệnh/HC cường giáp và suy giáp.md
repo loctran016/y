@@ -1,0 +1,1 @@
+SLB hội chứng cường giáp, suy giáp
