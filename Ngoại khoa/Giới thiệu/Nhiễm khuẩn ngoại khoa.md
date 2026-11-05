@@ -1,0 +1,167 @@
+ ## 1. ĐỊNH NGHĨA VÀ ĐẠI CƯƠNG
+
+### 1.1. Định nghĩa Nhiễm khuẩn nói chung
+* **Định nghĩa:** Nhiễm khuẩn là sự hiện diện của vi sinh vật trong mô hoặc trong máu kèm theo đáp ứng viêm của cơ thể đối với các tác nhân gây bệnh đó [1].
+* **Dấu hiệu lâm sàng:**
+  * **Tại chỗ (dấu hiệu cổ điển):** Sưng, nóng, đỏ, đau [1].
+  * **Toàn thân:** Sốt, nhịp tim nhanh, thở nhanh, số lượng bạch cầu trong máu tăng [1].
+
+### 1.2. Khái niệm Nhiễm khuẩn Ngoại khoa (NKNK)
+* **Quan niệm trước đây:** NKNK là các nhiễm khuẩn cần điều trị bằng phẫu thuật hoặc là biến chứng của phẫu thuật, của chấn thương hay vết thương [1].
+* **Quan niệm hiện đại (mở rộng):** Mở rộng bao gồm cả những trường hợp nhiễm khuẩn xuất hiện trong thời gian chờ phẫu thuật làm ảnh hưởng đến cuộc mổ (ví dụ: nhiễm khuẩn đường truyền tĩnh mạch trung tâm, viêm phổi bệnh viện, nhiễm khuẩn đường tiết niệu...) [2].
+
+---
+
+## 2. CƠ CHẾ BỆNH SINH
+
+Nhiễm khuẩn ngoại khoa là kết quả của sự **mất cân bằng** giữa **sức đề kháng của cơ thể** và **khả năng gây bệnh của vi sinh vật**, có liên quan trực tiếp đến các can thiệp ngoại khoa [2].
+
+### 2.1. Sức đề kháng của cơ thể
+Cơ thể bảo vệ trước sự xâm nhập của vi sinh vật bằng hệ thống các hàng rào tự nhiên và đáp ứng miễn dịch [2]:
+
+#### A. Hàng rào bảo vệ đặc hiệu tại chỗ (Hàng rào vật lý & sinh học)
+* **Da:** Lớp biểu mô nhiều tầng sừng hóa tạo hàng rào cơ học vững chắc; sự bong tróc tế bào; vi khuẩn thường trú; hóa chất và axit do tuyến bã tiết ra giúp kìm hãm vi khuẩn [3].
+* **Đường hô hấp:** Niêm mạc tiết chất nhầy bẫy dị vật; hệ thống tế bào lông mao đẩy vi khuẩn lên trên; phản xạ ho; kháng thể bề mặt IgA; đại thực bào phế nang bảo vệ các phế quản nhỏ [3].
+* **Đường tiêu hóa:** Co bóp cơ học; pH axit dịch vị; chất nhầy; hệ thống miễn dịch bề mặt và hệ vi khuẩn thường trú phong phú [3].
+* **Đường tiết niệu, mật, tụy:** pH dịch bài tiết, hệ thống van và dòng chảy một chiều [3].
+* **Các yếu tố mô tại chỗ khác:** 
+  * Protein gắn sắt (*Lactoferrin, Transferrin*) giúp cô lập sắt – yếu tố tăng trưởng thiết yếu của vi khuẩn [4].
+  * *Fibrinogen* trong dịch viêm tạo màng fibrin cô lập ổ nhiễm khuẩn [4].
+  * *Mạc nối lớn* trong khoang phúc mạc bao bọc và khu trú ổ nhiễm khuẩn [4].
+
+#### B. Đáp ứng tế bào và thể dịch khi vi sinh vật xâm nhập mô
+* **Đại thực bào tại chỗ:** Được kích hoạt qua các thụ thể nhận diện phân tử trên vi khuẩn, tiết ra các cytokine hướng viêm: **TNF-α, IL-1β, IL-6, IL-8, INF-γ** giúp chiêu mộ bạch cầu [5].
+* **Cơ chế điều hòa đối lập:** Tiết các yếu tố kháng viêm (*TNF-BP, IL-1ra, IL-4, IL-10*) để kiểm soát mức độ viêm [5, 6].
+* **Hệ thống Bổ thể:** Kích hoạt theo con đường cổ điển hoặc альтернатив (nhánh), dẫn đến *opsonin hóa*, thực bào và phá hủy vi sinh vật [6]. Quá trình này phóng thích các mảnh protein **C3a, C4a, C5a** làm tăng tính thấm mạch máu [6].
+* **Bạch cầu đa nhân trung tính:** Di chuyển đến ổ viêm, thực bào và tiêu diệt vi khuẩn nhờ phóng thích các men và chất oxy hóa [6, 7].
+
+### 2.2. Tác nhân gây bệnh (Vi sinh vật)
+Mức độ trầm trọng của nhiễm khuẩn phụ thuộc vào số lượng, khả năng tăng sinh, độc lực của vi sinh vật và sức đề kháng chủ thể [7]. Các tác nhân thường gặp gồm [7-10]:
+
+| Nhóm vi sinh vật | Tác nhân tiêu biểu |
+| :--- | :--- |
+| **Cầu khuẩn ái khí Gram (+)** | *Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Streptococcus pneumoniae, Enterococcus faecium, Enterococcus faecalis* [7, 8]. |
+| **Trực khuẩn ái khí Gram (-)** | *Escherichia coli, Pseudomonas aeruginosa, Klebsiella pneumoniae, Proteus mirabilis, Enterobacter, Serratia marcescens, Acinetobacter...* [8] |
+| **Vi khuẩn kỵ khí Gram (+)** | *Clostridium difficile, Clostridium perfringens, Clostridium tetani, Peptostreptococcus spp.* [8] |
+| **Vi khuẩn kỵ khí Gram (-)** | *Bacteroides fragilis, Fusobacterium spp.* [9] |
+| **Vi khuẩn khác** | *Mycobacterium tuberculosis, Mycobacterium avium, Nocardia, Legionella...* [9] |
+| **Nấm** *(thường gặp khi dùng KS kéo dài, Corticoid, suy giảm miễn dịch)* | *Candida albicans, Candida tropicalis, Aspergillus fumigatus, Cryptococcus neoformans...* [9] |
+| **Siêu vi & Ký sinh trùng** | *CMV, EBV, HBV, HCV, HSV, HIV, VZV; Amip...* [9, 10] |
+
+### 2.3. Các yếu tố nguy cơ của Nhiễm khuẩn Ngoại khoa [10-13]
+1. **Nguồn lây nhiễm:** Ổ dập nát mô, tổ chức hoại tử, ổ tắc huyết – đây là môi trường cản trở kháng sinh thâm nhập [10].
+2. **Ngõ vào:** Vết thương chấn thương, đường rạch mổ, chỗ chọc tĩnh mạch, vị trí đặt catheter [10].
+3. **Bất thường gen:** Đột biến các gen quy định đáp ứng viêm (TNF-α, IL-1, IL-6...), miễn dịch tự nhiên (*Toll-like receptor 4*) hoặc hệ thống đông máu [10].
+4. **Lớn tuổi:** Bệnh nhân **> 65 tuổi** thường kèm suy giảm miễn dịch nên dễ nhiễm khuẩn và diễn tiến nặng hơn [10].
+5. **Tăng đường huyết:**
+   * Làm suy giảm chức năng miễn dịch tế bào [10].
+   * Đường huyết **> 200 mg/dL** ở ngày hậu phẫu thứ nhất làm tăng nguy cơ nhiễm khuẩn lên **4 lần** [11, 12].
+   * *Mục tiêu kiểm soát:* Duy trì đường huyết khoảng **140 – 180 mg/dL** [12].
+6. **Hạ thân nhiệt:** Do không giữ ấm tốt, truyền lượng lớn dịch/máu lạnh, bộc lộ phẫu trường rộng (mổ bụng, ngực) [10, 12]. Hạ thân nhiệt gây co mạch ngoại vi, giảm tưới máu, suy giảm miễn dịch và tăng nguy cơ tử vong [12].
+7. **Giảm oxy máu:** Giảm oxy mô sau chấn thương/phẫu thuật làm tăng rõ rệt nguy cơ nhiễm khuẩn vết mổ [13].
+8. **Truyền máu:** Truyền máu gây **ức chế miễn dịch** (thay đổi trình diện kháng nguyên bạch cầu và tế bào T-giúp đỡ) [13]. Truyền 1 đơn vị máu đã tăng nguy cơ nhiễm khuẩn; truyền **> 15 đơn vị** làm tăng nguy cơ nhiễm khuẩn lên **5 lần** ở bệnh nhân chấn thương [13].
+
+---
+
+## 3. PHÒNG NGỪA VÀ ĐIỀU TRỊ NHIỄM KHUẨN NGOẠI KHOA
+
+### 3.1. Nguyên tắc chung
+* Đảm bảo cơ sở vật chất, trang thiết bị vô khuẩn phòng mổ [13].
+* Nhân viên y tế, bệnh nhân và thân nhân tuân thủ nghiêm ngặt quy trình chống nhiễm khuẩn [13].
+* Sử dụng kháng sinh hợp lý: Đúng phổ, đúng liều và đủ thời gian [14].
+
+### 3.2. Biện pháp phòng ngừa theo các giai đoạn [14-16]
+
+#### A. Chuẩn bị người bệnh trước mổ [14, 15]
+* Đánh giá, kiểm soát đường huyết, hỗ trợ dinh dưỡng; điều trị dứt điểm các ổ nhiễm khuẩn xa trước khi mổ chương trình [14, 15].
+* **Tắm sạch:** Bệnh nhân tắm bằng dung dịch xà phòng chứa *Iodine* hoặc *Chlorhexidine* vào tối trước ngày mổ hoặc sáng ngày mổ [15].
+* **Xử lý lông/tóc:** Không cạo lông diện rộng bằng dao cạo [15]. Nếu cần loại bỏ lông/tóc vùng mổ, chỉ dùng kéo hoặc máy cắt trong vòng **1 giờ trước mổ** [15].
+* **Kháng sinh dự phòng (KSDP):** Áp dụng cho phẫu thuật sạch hoặc sạch-nhiễm; tiêm tĩnh mạch trong vòng **30 phút trước khi rạch da** [15].
+
+#### B. Trong phẫu thuật [15, 16]
+* Hạn chế tối đa số người ra vào phòng mổ [15].
+* Trang phục phòng mổ đúng quy chuẩn (mũ, khẩu trang, quần áo scrubs, áo mổ vô khuẩn, găng tay vô khuẩn) [15].
+* Rửa tay ngoại khoa đúng quy trình [15].
+* Sát khuẩn da vùng mổ bằng dung dịch chuẩn và trải xăng vô trùng [15].
+* **Kỹ thuật mổ:** Thao tác nhẹ nhàng, phẫu tích đúng phẫu trường, hạn chế dập mô, loại bỏ mô chết, cầm máu tốt, không để lại khoảng trống [15].
+* Giữ ấm cho bệnh nhân trong suốt quá trình phẫu thuật [15].
+
+#### C. Hậu phẫu [16]
+* Băng vết mổ bằng gạc vô khuẩn liên tục **24 – 48 giờ** sau mổ [16].
+* Chăm sóc vết mổ và dẫn lưu đúng kỹ thuật; **rút ống dẫn lưu sớm nhất có thể** [16].
+* Khướng dẫn vận động sớm, tập thở, vỗ lưng [16].
+* Theo dõi phát hiện sớm các dấu hiệu nhiễm khuẩn tại chỗ và toàn thân [16].
+
+### 3.3. Nguyên tắc điều trị nhiễm khuẩn [16, 17]
+1. **Kiểm soát nguồn lây nhiễm (Quan trọng nhất):** Dẫn lưu mủ, lấy bỏ dị vật, cắt lọc mô hoại tử/mô chết, khâu lỗ thủng tạng rỗng [16, 17].
+2. **Sử dụng kháng sinh phù hợp:**
+   * **Đơn nhiễm khuẩn (thường là NKBV như nhiễm khuẩn tiết niệu, viêm phổi):** Dùng kháng sinh phổ rộng ban đầu, sau đó điều chỉnh theo kết quả cấy vi khuẩn và kháng sinh đồ [16, 17].
+   * **Đa nhiễm khuẩn (thường là nhiễm khuẩn ổ bụng):** Việc kiểm soát nguồn lây quan trọng hơn kháng sinh đồ. Không nên chỉ dựa vào kết quả cấy vi khuẩn để thay đổi kháng sinh nếu lâm sàng bệnh nhân đang tiến triển tốt [17].
+   * **Kháng sinh kinh nghiệm:** Nên giới hạn từ **3 – 5 ngày** [17].
+   * *Thời gian điều trị chuẩn:* Nhiễm khuẩn tiết niệu (2–5 ngày), viêm phổi (7–10 ngày), nhiễm khuẩn huyết (10–14 ngày) [17].
+
+---
+
+## 4. CÁC DẠNG NHIỄM KHUẨN NGOẠI KHOA THƯỜNG GẶP
+
+### 4.1. Nhiễm khuẩn vùng mổ (Surgical Site Infection - SSI) [18, 19]
+* **Định nghĩa:** Là nhiễm khuẩn xảy ra gần đường mổ trong vòng **30 ngày** sau phẫu thuật (hoặc **1 năm** nếu có đặt vật liệu nhân tạo/mảnh ghép) [18].
+* **Phân loại vết mổ theo nguy cơ nhiễm khuẩn (4 nhóm):** [18]
+
+| Phân loại vết mổ | Đặc điểm định nghĩa |
+| :--- | :--- |
+| **Loại I: Vết thương Sạch** | Phẫu thuật ở mô không viêm, không chấn thương; không thông vào đường hô hấp, tiêu hóa, tiết niệu – sinh dục [18]. |
+| **Loại II: Vết thương Sạch - Nhiễm** | Phẫu thuật thông vào đường tiêu hóa, hô hấp, tiết niệu – sinh dục nhưng dịch không chảy ra ngoài nhiều (được kiểm soát tốt) [18]. |
+| **Loại III: Vết thương Nhiễm** | Vết thương do chấn thương mới; phẫu thuật có vi phạm lớn kỹ thuật vô trùng; dịch tiêu hóa trào ra nhiều; rạch qua mô viêm không có mủ [18]. |
+| **Loại IV: Vết thương Bẩn / Bẩn - Nhiễm** | Vết thương chấn thương cũ có mô hoại tử/dị vật; vết mổ qua vùng nhiễm khuẩn có mủ; phẫu thuật thủng tạng rỗng vấy nhiễm phân/dịch [18]. |
+
+* **Tiêu chuẩn chẩn đoán SSI:** [18]
+  * Chảy mủ từ vết mổ hoặc từ ống dẫn lưu [18].
+  * Cấy dịch tiết từ vết thương cho kết quả dương tính [18].
+  * Phẫu thuật viên chủ động mở vết mổ ra do có dấu hiệu sưng, đỏ, đau và sốt **> 38°C** [18].
+* **Điều trị SSI:** Mở vết thương (cắt chỉ một phần hoặc toàn bộ) để thoát dịch/mủ, rửa sạch, cắt lọc mô hoại tử [19]. *Lưu ý:* Kháng sinh toàn thân không cần thiết đối với vết thương nông không có biểu hiện nhiễm khuẩn toàn thân; chỉ dùng khi nhiễm khuẩn lan rộng hoặc có triệu chứng toàn thân [19].
+
+### 4.2. Nhiễm khuẩn trong ổ bụng (Viêm phúc mạc) [19-23]
+* **Viêm phúc mạc (VPM) nguyên phát:** Vi khuẩn xâm nhập vào khoang phúc mạc qua đường máu hoặc bạch huyết từ nơi khác [19]. Thường xảy ra ở bệnh nhân xơ gan báng bụng hoặc thẩm phân phúc mạc [19]. Là nhiễm khuẩn **đơn khuẩn** (*E. coli, K. pneumoniae, Pneumococci...*) [20]. **Điều trị nội khoa bằng kháng sinh (14–21 ngày), hiếm khi cần phẫu thuật** [19, 20].
+* **Viêm phúc mạc thứ phát:** Do thủng, vỡ hoặc viêm nhiễm nặng các tạng rỗng trong ổ bụng (viêm ruột thừa thủng, thủng dạ dày, thủng túi thừa đại tràng...) [20]. Là nhiễm khuẩn **đa khuẩn** (phối hợp ái khí Gram - và kỵ khí) [21]. **Bắt buộc phải phẫu thuật kiểm soát nguồn lây** (cắt bỏ/sửa chữa tạng tổn thương, rửa sạch ổ bụng, dẫn lưu) kết hợp kháng sinh phổ rộng [20, 21].
+* **Viêm phúc mạc đại dẳng / Cấp độ 3 (Tertiary peritonitis):** Tình trạng nhiễm khuẩn ổ bụng kéo dài hoặc tái phát sau khi đã được điều trị phẫu thuật và dùng kháng sinh đầy đủ [22]. Thường gặp ở bệnh nhân suy giảm miễn dịch, nằm ICU dài ngày [22]. Tác nhân hay gặp: *E. faecalis, S. epidermidis, Candida albicans, P. aeruginosa* [22].
+* **Áp xe trong ổ bụng:**
+  * Khẳng định chẩn đoán bằng **CT scan** bụng [23].
+  * *Điều trị ưu tiên:* Dẫn lưu mủ qua da dưới hướng dẫn của CT hoặc siêu âm [23].
+  * *Chỉ định phẫu thuật:* Có nhiều ổ áp xe, ổ áp xe gần cấu trúc quan trọng không thể dẫn lưu qua da an toàn, hoặc nguồn nhiễm trùng vẫn đang tiếp diễn (rò tiêu hóa) [23].
+
+### 4.3. Nhiễm khuẩn da và mô mềm [24-27]
+* **Viêm mô tế bào:** Nhiễm khuẩn da nông, thường do *Streptococci* từ vết thương nhỏ [24]. Lâm sàng: Vùng da sưng, nóng, đỏ, đau, bờ không rõ nét [24]. Đáp ứng tốt với Penicillin và các dẫn xuất [24].
+* **Nhiễm khuẩn mô mềm hoại tử:**
+  * Nhiễm khuẩn cấp tính ít gặp nhưng **rất nguy hiểm, diễn tiến hoại tử da và mô mềm cực kỳ nhanh chóng** [25].
+  * *Tác nhân:* Phối hợp giữa *Streptococci* tiêu huyết beta nhóm A, cầu khuẩn Gram (+) kỵ khí, trực khuẩn Gram (-) và *Bacteroides* [25].
+  * *Lâm sàng:* Đau nhức dữ dội vượt quá mức độ tổn thương nhìn thấy ngoài da; muộn hơn có sưng phù, xuất huyết, hoại tử da, tiết dịch thối, có hơi dưới da (dấu hiệu lép bép) [25, 26].
+  * *Điều trị:* **Hồi sức tích cực + Phẫu thuật cắt lọc rộng rãi toàn bộ mô hoại tử khẩn cấp + Kháng sinh tĩnh mạch phổ rộng** [26, 27].
+
+### 4.4. Áp xe nông [28, 29]
+* **Định nghĩa:** Là ổ mủ trong mô hoặc khoảng kín của cơ thể, hình thành do sự tổn thương hàng rào bảo vệ [28].
+* **Tác nhân ở da:** Thường do *Staphylococcus aureus* [28].
+* **Lâm sàng:** Khối sưng phồng, nóng, đỏ, đau; giai đoạn muộn có dấu hiệu chuyên sóng (phập phồng) [28, 29].
+* **Điều trị:** **Phẫu thuật rạch tháo mủ, dẫn lưu và nạo vách ổ áp xe** [29]. *Kháng sinh đơn thuần không có tác dụng* vì không thâm nhập được qua vách áp xe; kháng sinh chỉ dùng khi có biểu hiện nhiễm khuẩn toàn thân [29].
+
+### 4.5. Áp xe lạnh [29, 30]
+* **Đặc điểm:** Ổ mủ hình thành chậm, **không có các dấu hiệu phản ứng viêm cấp tính** (không sưng, không nóng, không đỏ, không đau) [29].
+* **Tác nhân:** Hầu hết do vi khuẩn **Lao** (*M. tuberculosis*), hoặc *Actinomyces*, phong [29]. Mủ chứa mô hoại tử bã đậu [30].
+* **Điều trị:** Điều trị bằng **thuốc kháng lao đặc hiệu** kết hợp **chọc hút mủ qua vùng da lành** [30]. *Tuyệt đối không rạch tháo mủ* vì dễ gây rò mủ kéo dài và bội nhiễm [30].
+
+### 4.6. Nhiễm khuẩn liên quan đến dụng cụ cấy ghép [30]
+* Vi khuẩn bám vào bề mặt dụng cụ nhân tạo, phát triển và tiết exopolysaccharide tạo nên lớp **màng sinh học (Biofilm / Glycocalyx)** [30].
+* Lớp Biofilm đóng vai trò như hàng rào bảo vệ vi khuẩn khỏi sự tấn công của hệ miễn dịch và kháng sinh [30].
+* **Xử trí:** Hầu hết các trường hợp điều trị hiệu quả duy nhất là **phải tháo bỏ dụng cụ cấy ghép ra khỏi cơ thể** kết hợp dùng kháng sinh [30].
+
+### 4.7. Nhiễm khuẩn bệnh viện (Hospital-Acquired Infections) [31-35]
+* **Định nghĩa:** Nhiễm khuẩn xảy ra từ **48 giờ sau khi nhập viện** cho đến **ngày thứ 30** (hoặc 1 năm nếu có phẫu thuật) sau khi xuất viện [31].
+* **Tần suất:** Xuất hiện ở khoảng 10% bệnh nhân nhập viện, cao nhất tại các khoa Hồi sức tích cực (ICU) [31].
+* **Thứ tự các vị trí nhiễm khuẩn bệnh viện thường gặp nhất:** [31, 33]
+  1. **Nhiễm khuẩn đường tiết niệu (Phổ biến nhất):** Liên quan chủ yếu đến đặt sonde niệu [31, 32]. Tác nhân: *E. coli* (17.5%), *Candida albicans* (16%), *Enterococcus* (14%), *P. aeruginosa* (11%) [32].
+  2. **Viêm phổi bệnh viện:** Thường gặp thứ 2 trong NKBV chung, gặp thứ 3 ở bệnh nhân sau mổ [33]. Do hít sặc vi khuẩn hầu họng hoặc thông khí cơ học (đặt nội khí quản) [33]. Tác nhân: *S. aureus, P. aeruginosa, E. coli, Klebsiella* [33].
+  3. **Nhiễm khuẩn đường truyền tĩnh mạch:** Liên quan đến đặt catheter tĩnh mạch trung tâm [34]. Tác nhân: *S. aureus, S. epidermidis* [34]. Xử trí: Bắt buộc phải **rút bỏ đường truyền** kết hợp kháng sinh [35].
+
+---
+
+💡 **Gợi ý tiếp theo:** Bạn có muốn thực hành làm ngay **bộ câu hỏi trắc nghiệm lượng giá của Bài 2** (có đáp án và giải thích chi tiết dựa trên sách) hoặc tóm tắt sơ đồ tư duy cho bài này không?
