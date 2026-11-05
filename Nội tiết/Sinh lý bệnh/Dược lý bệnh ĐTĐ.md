@@ -1,21 +1,23 @@
-### 1. ĐỊNH NGHĨA VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG
-* **Định nghĩa:** Đái tháo đường là một nhóm các bệnh chuyển hóa đặc trưng bởi tình trạng **tăng glucose huyết** do khiếm khuyết tiết insulin, khiếm khuyết tác động của insulin hoặc cả hai [1].
-* **Phân loại theo nguyên nhân (Bảng 8.1):**
-  1. **Đái tháo đường típ 1:** Do tế bào beta tụy bị phá hủy, thường dẫn đến thiếu insulin tuyệt đối [1, 2].
-     * *Típ 1A (Miễn dịch):* Chiếm 5 – 10% dân số đái tháo đường chung (chiếm 95% đái tháo đường típ 1), xuất hiện do cơ chế tự miễn phá hủy tế bào beta tụy [1, 3].
-     * *Típ 1B (Vô căn):* Chiếm < 5% đái tháo đường típ 1, thiếu insulin và dễ nhiễm ceton nhưng không có bằng chứng tự miễn [1, 3].
-  2. **Đái tháo đường típ 2:** Chiếm **90 – 95%** dân số đái tháo đường, liên quan chặt chẽ với béo phì (đặc biệt là béo phì bụng) và di truyền; cơ chế do đề kháng insulin phối hợp với suy giảm tiết insulin tương đối [2, 4].
-  3. **Các típ đặc hiệu khác:**
-     * *Khuyết đơn gen chức năng tế bào beta:* Đái tháo đường người trẻ khởi phát lúc trưởng thành (MODY 1, 2, 3...), đột biến DNA ty thể, đái tháo đường sơ sinh [2, 4].
-     * *Khuyết gen hoạt tính insulin:* Đề kháng insulin loại A, hội chứng Rabson-Mendenhall, Leprechaunism, thể teo mỡ [2, 4].
-     * *Bệnh lý tụy ngoại tiết:* Viêm tụy mạn, ung thư tụy, xơ nang tụy, bệnh nhiễm sắt [2].
-     * *Bệnh nội tiết:* To đầu chi, hội chứng Cushing, u tiết glucagon, u tủy thượng thận, cường giáp [2].
-     * *Do thuốc/hóa chất:* Glucocorticoid, thiazid, hormone tuyến giáp, phenytoin, interferon-alpha [2].
+## Định nghĩa và phân loại đái tháo đường
+
+Đái tháo đường là một nhóm các bệnh chuyển hóa đặc trưng bởi tình trạng **tăng glucose huyết** do khiếm khuyết tiết insulin, khiếm khuyết tác động của insulin hoặc cả hai [1].
+
+**Phân loại theo nguyên nhân (Bảng 8.1):**
+1. **Đái tháo đường típ 1:** Do tế bào beta tụy bị phá hủy, thường dẫn đến thiếu insulin tuyệt đối [1, 2].
+   * *Típ 1A (Miễn dịch):* Chiếm 5 – 10% dân số đái tháo đường chung (chiếm 95% đái tháo đường típ 1), xuất hiện do cơ chế tự miễn phá hủy tế bào beta tụy [1, 3].
+   * *Típ 1B (Vô căn):* Chiếm < 5% đái tháo đường típ 1, thiếu insulin và dễ nhiễm ceton nhưng không có bằng chứng tự miễn [1, 3].
+2. **Đái tháo đường típ 2:** Chiếm **90 – 95%** dân số đái tháo đường, liên quan chặt chẽ với béo phì (đặc biệt là béo phì bụng) và di truyền; cơ chế do đề kháng insulin phối hợp với suy giảm tiết insulin tương đối [2, 4].
+3. **Các típ đặc hiệu khác:**
+   * *Khuyết đơn gen chức năng tế bào beta:* Đái tháo đường người trẻ khởi phát lúc trưởng thành (MODY 1, 2, 3...), đột biến DNA ty thể, đái tháo đường sơ sinh [2, 4].
+   * *Khuyết gen hoạt tính insulin:* Đề kháng insulin loại A, hội chứng Rabson-Mendenhall, Leprechaunism, thể teo mỡ [2, 4].
+   * *Bệnh lý tụy ngoại tiết:* Viêm tụy mạn, ung thư tụy, xơ nang tụy, bệnh nhiễm sắt [2].
+   * *Bệnh nội tiết:* To đầu chi, hội chứng Cushing, u tiết glucagon, u tủy thượng thận, cường giáp [2].
+   * *Do thuốc/hóa chất:* Glucocorticoid, thiazid, hormone tuyến giáp, phenytoin, interferon-alpha [2].
   4. **Đái tháo đường thai kỳ:** Được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối thai kỳ [2].
 
 ---
 
-### 2. CƠ CHẾ BỆNH SINH ĐÁI THÁO ĐƯỜNG TÍP 1
+### Cơ chế bệnh sinh ĐTĐ type 
 
 #### 2.1. Yếu tố khởi phát và Tự kháng thể
 * **Dấu ấn tự miễn (Típ 1A):** Xuất hiện các tự kháng thể lưu hành trước khi có biểu hiện tăng glucose huyết [3]:
