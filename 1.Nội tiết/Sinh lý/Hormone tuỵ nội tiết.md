@@ -286,7 +286,3 @@ Sự ổn định đường huyết được duy trì nhờ sự phối hợp c�
 * **Giảm Glucose máu:**
   * *Sinh lý:* Nhịn đói kéo dài [16].
   * *Bệnh lý:* Khối u tế bào beta tiết insulin quá mức (Insulinoma), quá liều Insulin/thuốc hạ đường huyết, suy tuyến thượng thận, nhiễm trùng nặng... Triệu chứng đặc trưng: Vã mồ hôi, da tái lạnh, run tay, đói cào ruột, lơ mơ, co giật, hôn mê [16].
-
----
-
-💡 Bạn có muốn tạo một bài trắc nghiệm **Quiz** hoặc bộ **Flashcards** để ôn tập lại các kiến thức sinh lý hormon tụy nội tiết này không? 
