@@ -45,6 +45,71 @@ Bóc tách động mạch chủ ngực là một cấp cứu tim mạch – mạ
 
 ---
 
+## Biến chứng ĐMC ngực
+
+Các biến chứng của **Bóc tách động mạch chủ ngực (Thoracic Aortic Dissection)** diễn tiến vô cùng tối cấp và nguy hiểm, xuất phát từ 3 cơ chế sinh lý bệnh chính: **(1) Vỡ thành động mạch chủ**, **(2) Lan ngược về tim**, và **(3) Chèn ép/tắc các nhánh động mạch xuất phát từ động mạch chủ gây thiếu máu cơ quan (Malperfusion Syndrome)**.
+
+Dưới đây là chi tiết các biến chứng lâm sàng được phân nhóm hệ thống:
+
+---
+
+### I. BIẾN CHỨNG TẠI TIM (Thường gặp khi bóc tách ĐMC đoạn lên - Stanford A)
+
+1. **Hở van động mạch chủ cấp tính:**
+   * **Cơ chế:** Nếp bóc tách lan ngược về gốc ĐMC làm biến dạng, xô lệch hoặc sập các lá van ĐMC.
+   * **Biểu hiện:** Xuất hiện **Âm thổi tâm trương mới ở đáy tim**, suy tim cấp tiến triển nhanh, phù phổi cấp.
+2. **Chèn ép tim cấp (Cardiac Tamponade):**
+   * **Cơ chế:** Máu từ lòng giả thấm hoặc vỡ trực tiếp vào khoang màng ngoài tim.
+   * **Biểu hiện:** **Tam chứng Beck** (Huyết áp tụt, Tĩnh mạch cảnh nổi, Tiếng tim mờ), choáng tim và là nguyên nhân tử vong hàng đầu trước khi đến viện.
+3. **Nhồi máu cơ tim cấp thứ phát:**
+   * **Cơ chế:** Nếp bóc tách lan chèn ép hoặc lấp lỗ xuất phát của động mạch vành (thường gặp nhất là ĐM vành phải - RCA).
+   * **Biểu hiện:** Đau ngực cấp kèm biến đổi ST chênh lên trên ECG (dễ bị chẩn đoán nhầm thành NMCT đơn thuần và dùng nhầm thuốc chống đông/tiêu sợi huyết rất nguy hiểm).
+
+---
+
+### II. BIẾN CHỨNG THIẾU MÁU CƠ QUAN THỨ PHÁT (MALPERFUSION SYNDROME)
+
+Nếp bóc tách hoặc huyết khối trong lòng giả chèn ép lòng thật, làm tắc dòng máu nuôi các nhánh động mạch xuất phát từ ĐMC:
+
+1. **Thần kinh Trung ương & Tủy sống:**
+   * **Nhồi máu não / TIA (Đột quỵ):** Do tắc ĐM thân cánh tay đầu hoặc ĐM cảnh chung \\(\rightarrow\\) Yếu/liệt nửa người, rối loạn tri giác, hôn mê.
+   * **Liệt hai chi dưới (Thiếu máu tủy cấp):** Do tắc các ĐM gian sườn nuôi tủy (nhất là ĐM Adamkiewicz).
+   * **Khàn tiếng / Hội chứng Horner:** Do khối bóc tách dãn to chèn ép thần kinh thanh quản ngoặt ngược hoặc chuỗi thần kinh giao cảm cổ.
+2. **Thận:**
+   * **Tổn thương thận cấp (AKI):** Do tắc một hoặc hai bên ĐM thận \\(\rightarrow\\) Thiểu niệu, vô niệu, tăng huyết áp ác tính thứ phát.
+3. **Tiêu hóa & Tạng bụng:**
+   * **Thiếu máu / Nhồi máu mạc treo ruột:** Do tắc ĐM thân tạng hoặc ĐM mạc treo tràng trên \\(\rightarrow\\) Đau bụng dữ dội không tương xứng với hoại tử ruột, chướng bụng, nhiễm trùng huyết, vỡ ruột.
+4. **Mạch chi (Chi trên & Chi dưới):**
+   * **Thiếu máu chi cấp tính:** Do tắc ĐM dưới đòn (chi trên) hoặc ĐM chậu/đùi (chi dưới) \\(\rightarrow\\) Mất mạch ngoại biên, bất đồng huyết áp \\(> 20\text{ mmHg}\\) giữa 2 tay, chi lạnh, dị cảm, đau chi dữ dội, nguy cơ hoại tử cắt lọc chi.
+
+---
+
+### III. BIẾN CHỨNG VỠ MẠCH & XUẤT HUYẾT TỐI CẤP
+
+* **Tràn máu màng phổi (Hemothorax):** Lòng giả vỡ vào khoang màng phổi (thường là màng phổi trái) \\(\rightarrow\\) Choáng mất máu cấp, sốc giảm thể tích, suy hô hấp cấp nặng, gõ đục phế trường, tử vong nhanh chóng.
+* **Rò ĐMC - Thực quản / ĐMC - Khí phế quản:** Vỡ vách ĐMC vào đường tiêu hóa hoặc hô hấp \\(\rightarrow\\) **Ho ra máu sét đánh** hoặc **Nôn ra máu ồ ạt** không cầm được.
+
+---
+
+### IV. BIẾN CHỨNG MẠN TÍNH / MUỘN
+
+* **Phình ĐMC thứ phát / Giả phình ĐMC:** Lòng giả không được tái thông hoặc xơ hóa dãn rộng dần theo thời gian, hình thành khối phình có nguy cơ vỡ muộn.
+* **Tăng huyết áp mạn tính kháng trị:** Do suy giảm độ đàn hồi của thành ĐMC và tổn thương tưới máu thận kéo dài.
+
+---
+
+### 📋 BẢNG TỔNG HỢP TRIỆU CHỨNG LÂM SÀNG CẢNH BÁO BIẾN CHỨNG
+
+| Biến chứng nguy hiểm | Dấu hiệu lâm sàng gợi ý ngay tại Cấp cứu |
+| :--- | :--- |
+| **Chèn ép tim cấp** | Tụt huyết áp, tĩnh mạch cổ nổi, tiếng tim mờ (Tam chứng Beck). |
+| **Hở van ĐMC cấp** | Âm thổi tâm trương mới ở đáy tim, thở nhanh, ran ẩm ở phổi. |
+| **Thiếu máu não / Tủy** | Yếu liệt nửa người, rối loạn tri giác, hoặc liệt đột ngột 2 chi dưới. |
+| **Thiếu máu chi cấp** | Bất đồng HA tâm thu \\(> 20\text{ mmHg}\\) giữa 2 tay, mất mạch quay/mạch đùi. |
+| **Vỡ ĐMC vào màng phổi** | Choáng mất máu, mạch nhanh nhỏ, huyết áp tụt, gõ đục 1 bên phổi. |
+
+---
+
 ## V. CẬN LÂM SÀNG CHẨN ĐOÁN & PHÂN TẦNG
 
 1. **X-quang ngực thẳng (PA)**:
