@@ -35,21 +35,24 @@ Bài giảng gồm 2 phần chính :
 ### **Phương trình cân bằng DS**
 
 **Các yếu tố biến động dân số:** Dân số chịu ảnh hưởng của 4 yếu tố chính :
-  - **Sinh (B - Births)**: Số trẻ sinh sống .
-  - **Tử (D - Deaths)**: Số người chết .
-  - **Đến / Nhập cư (I - In-migrants)**: Số người chuyển đến .
-  - **Đi / Xuất cư (E - Emigrants)**: Số người chuyển đi .
+
+- **Sinh (B - Births)**: Số trẻ sinh sống .
+- **Tử (D - Deaths)**: Số người chết .
+- **Đến / Nhập cư (I - In-migrants)**: Số người chuyển đến .
+- **Đi / Xuất cư (E - Emigrants)**: Số người chuyển đi .
 
 **Công thức:**
   `P_t = P₀ + (B - D) + (I - E)`
 
   _Trong đó :_
-  - `P₀`: Dân số ở thời điểm đầu thời kỳ .
-  - `P_t`: Dân số ở thời điểm cuối thời kỳ (sau khoảng thời gian `t`) .
-  - `(B - D)`: **Tăng tự nhiên** (biến động tự nhiên) .
-  - `(I - E)`: **Tăng cơ học** (biến động cơ học) .
+
+- `P₀`: Dân số ở thời điểm đầu thời kỳ .
+- `P_t`: Dân số ở thời điểm cuối thời kỳ (sau khoảng thời gian `t`) .
+- `(B - D)`: **Tăng tự nhiên** (biến động tự nhiên) .
+- `(I - E)`: **Tăng cơ học** (biến động cơ học) .
 
 **Vai trò của phương trình cân bằng dân số :**
+
   1. **Ước lượng số dân:**
      - _Ví dụ:_ Nước A có dân số đầu năm 2014 là `7.000` người. Trong năm 2014 có `112` trẻ sinh ra, `80` người chết, và di cư làm tăng thêm `100` người. Dân số đầu năm 2015 là :
        `P₍₂₀₁₅₎ = 7000 + (112 - 80) + 100 = 7.132 người` .
@@ -68,9 +71,10 @@ Bài giảng gồm 2 phần chính :
   `P_t = P₀ · e^rt`
 
   _Trong đó :_
-  - `e ≈ 2,71828` .
-  - `r`: Tốc độ gia tăng dân số hằng năm (đơn vị: %) .
-  - `t`: Khoảng thời gian từ `P₀` đến `P_t` .
+
+- `e ≈ 2,71828` .
+- `r`: Tốc độ gia tăng dân số hằng năm (đơn vị: %) .
+- `t`: Khoảng thời gian từ `P₀` đến `P_t` .
 
 **Công thức tính tốc độ gia tăng dân số (`r`) :**
   `r = (\ln P_t - \ln P₀)/t = 1/t \ln(P_t/P₀)`
@@ -116,17 +120,19 @@ Bài giảng gồm 2 phần chính :
 ### Tỷ số phụ thuộc
 
 **Công thức tính :**
-  - **Tỷ số phụ thuộc chung (TSPT chung):**
+
+- **Tỷ số phụ thuộc chung (TSPT chung):**
     `TSPT_(chung) = \fracP_<15 + P_≥ 65P₁₅₋₆₄ × 100`
-  - **Tỷ số phụ thuộc trẻ (TSPT trẻ):**
+- **Tỷ số phụ thuộc trẻ (TSPT trẻ):**
     `TSPT_(trẻ) = \fracP_<15P₁₅₋₆₄ × 100`
-  - **Tỷ số phụ thuộc già (TSPT già):**
+- **Tỷ số phụ thuộc già (TSPT già):**
     `TSPT_(già) = \fracP_≥ 65P₁₅₋₆₄ × 100`
     _(Trong đó `P_15-64` là dân số độ tuổi lao động )._
 
 **Phân biệt thuật ngữ :**
-  - **Tỷ lệ (`A/B` với `A \in B`):** Có cùng đơn vị hoặc tính theo tỷ lệ %.
-  - **Tỷ số (`A/B` với `A \notin B`):** Không có đơn vị.
+
+- **Tỷ lệ (`A/B` với `A \in B`):** Có cùng đơn vị hoặc tính theo tỷ lệ %.
+- **Tỷ số (`A/B` với `A \notin B`):** Không có đơn vị.
 - **Ý nghĩa:** TSPT chung `= 100` có nghĩa là 1 người trong độ tuổi lao động phải gánh `1` người phụ thuộc . TSPT chung giảm sẽ làm giảm gánh nặng xã hội .
 - **Thực trạng tại Việt Nam:** Việt Nam bước vào cơ cấu dân số vàng khi vẫn là nước có thu nhập bình quân đầu người thấp, tỷ lệ lao động có trình độ còn hạn chế . Do đó, **đầu tư cho giáo dục** là yếu tố then chốt .
 
@@ -134,14 +140,14 @@ Bài giảng gồm 2 phần chính :
 
 ### Tỷ lệ người cao tuổi**
 
-### **Phân loại của Thế giới (Cowgill & Holmes, 1970)** _(tính % người `≥ 65` tuổi)_ [9, 10]:
+### **Phân loại của Thế giới (Cowgill & Holmes, 1970)** _(tính % người `≥ 65` tuổi)_ [9, 10]
 
 - **`≥ 7%`:** Dân số già hóa (ageing society).
 - **`≥ 10%`:** Dân số già (aged society) — mốc kết thúc giai đoạn dân số vàng.
 - **`≥ 20%`:** Dân số rất già (very aged society).
 - **`≥ 30%`:** Dân số siêu già (super aged society).
 
-#### **Phân loại tại Việt Nam** _(tính % người `≥ 60` tuổi - độ tuổi về hưu)_ :
+#### **Phân loại tại Việt Nam** _(tính % người `≥ 60` tuổi - độ tuổi về hưu)_
 
 - **`≥ 10%`:** Dân số già hóa .
 - **`≥ 20%`:** Dân số già .

@@ -5,7 +5,7 @@
 - Ho cấp < 3 tuần.
 - Ho bán cấp từ 3-8 tuần.
 - Ho mạn > 8 tuần.
- 
+
 Mục tiêu tiếp cận ho ra máu:
 
 1. Có đúng là ho ra máu không?
@@ -13,7 +13,6 @@ Mục tiêu tiếp cận ho ra máu:
 3. Có biến chứng đe doạ tính mạng chưa?
 4. Bệnh đang tiến triển hay đã tạm ngưng (Đuôi khái huyết)?
 5. Vị trí chảy máu nằm ở đâu (Phổi bên phải hay bên trái) & Nguyên nhân là gì?
-
 
 ```
                      BỆNH NHÂN KHẠC/HO RA MÁU
@@ -48,11 +47,13 @@ Mục tiêu tiếp cận ho ra máu:
 :::
 
 Một phản xạ ho không chủ ý gồm 3 loại kích thích thườn gặp:
+
 - Cơ học.
 - Phản ứng viêm.
 - Tâm lý.
 
 Kích thích hướng tâm phản xạ ho thông qua 4 dây TK:
+
 - TK V: mũi và các xoang cạnh mũi.
 - TK IX: vùng hầu họng.
 - TK X: thanh quản, khí quản, phế quản, dạ dày, màng phổi.
@@ -70,8 +71,7 @@ Kích thích hướng tâm phản xạ ho thông qua 4 dây TK:
 - Yếu tố nguy cơ: Hút thuốc lá (tính theo gói-năm), tiền căn khối u ác tính, bất động lâu ngày (nguy cơ thuyên tắc phổi) .
 - Thuốc đang sử dụng: Thuốc kháng đông (Warfarin, NOACs), Thuốc kháng kết tập tiểu cầu (Aspirin, Clopidogrel) .
 
-
-## Chẩn đoán sơ bộ 
+## Chẩn đoán sơ bộ
 
 ```
 Ho ra máu lượng ít / nhiều (>= 100mL/24h) + Biến chứng (Suy hô hấp / Choáng mất máu) nghĩ do + Nguyên nhân  
@@ -128,6 +128,7 @@ Hệ thống mạch máu nuôi phổi gồm **Động mạch phổi** (chiếm 9
 - **Chụp mạch máu xóa nền (DSA) & Thuyên tắc động mạch phế quản (BAE):** Vừa chẩn đoán chính xác nguồn chảy máu từ động mạch phế quản, vừa là phương pháp can thiệp **cầm máu tối ưu** trong ho ra máu lượng nhiều hoặc tái phát .
 
 ### Xét nghiệm Huyết học & Vi sinh
+
 - **Công thức máu (CBC):** Đánh giá mức độ thiếu máu (Hemoglobin, Hematocrit) và số lượng bạch cầu/tiểu cầu .
 - **Đông cầm máu toàn bộ (PT, aPTT, INR, Fibrinogen):** Rà soát rối loạn đông máu .
 - **Xét nghiệm vi sinh đàm:** Soi trực tiếp tìm AFB, xét nghiệm **GeneXpert MTB/RIF** (tìm vi khuẩn Lao và mức độ kháng Rifampicin), nhuộm Gram và cấy đàm tìm vi khuẩn/nấm .

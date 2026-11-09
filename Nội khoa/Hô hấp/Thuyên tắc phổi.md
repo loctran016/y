@@ -1,12 +1,10 @@
 ## Bài báo
 
-
 Tóm tắt
 Đặt vấn đề: Thuyên tắc phổi nguy cơ trung bình – cao chiếm tỉ lệ khá cao trong tổng số bệnh nhân thuyên tắc phổi nhập viện. Các bệnh nhân này cần được theo dõi sát sao vì có nhiều khả năng có các biến chứng liên quan tới thuyên tắc phổi và có thể cần lên thang công thức điều trị. Hiện dữ liệu tại Việt Nam mô tả về nhóm đối tượng này còn hạn chế. Mục tiêu: Mô tả đặc điểm lâm sàng và cận lâm sàng của các bệnh nhân thuyên tắc phổi nguy cơ trung bình – cao nhập viện. Đối tượng và phương pháp nghiên cứu: nghiên cứu cắt ngang mô tả, hồi cứu kết hợp tiến cứu, từ 01/01/2022 đến 30/05/2023, tại khoa Nội Tim mạch, Bệnh viện Chợ Rẫy. Kết quả: Chúng tôi thu nhận 75 trường hợp vào mẫu nghiên cứu với độ tuổi trung bình là 62,28 ± 17,28 tuổi, nữ giới chiếm đa số (64%). Béo phì chiếm tỉ lệ cao (28%) và cũng là yếu tố nguy cơ thường gặp nhất. Triệu chứng cơ năng chủ yếu là khó thở (84%) và mạch nhanh (74,66%) là triệu chứng thực thể được ghi nhận nhiều nhất. Điểm PESI trung bình là 105,76 ± 32,84 điểm. Hầu hết bệnh nhân đều có tăng troponin và NT-proBNP. Nhịp nhanh xoang (68%) là bất thường điện tâm đồ thường gặp nhất. Tất cả bệnh nhân đều có suy thất phải với TAPSE trung bình là 14,19 ± 2,73 mm. Huyết khối động mạch phổi chủ yếu phân bố tại nhánh chính (64,67%), 85,33% bệnh nhân có huyết khối lan tỏa hai bên. Huyết khối tĩnh mạch sâu chi dưới được ghi nhận ở 60% trường hợp. Gần 1/3 bệnh nhân có diễn tiến lâm sàng nặng hơn trong quá trình điều trị nội trú. Kết luận: Thuyên tắc phổi nguy cơ trung bình – cao chủ yếu gặp ở những bệnh nhân nữ, lớn tuổi. Béo phì có thể có liên quan với mức độ nặng của bệnh. Hầu hết trường hợp đều có đa dạng biểu hiện của suy thất phải trên các phương tiện cận lâm sàng. Một tỉ lệ khá cao các bệnh nhân có diễn tiến mất bù trong quá trình theo dõi. Việc hiểu rõ về đặc điểm lâm sàng và cận lâm sàng có thể giúp phân tầng nguy cơ chính xác hơn và có chiến lược điều trị phù hợp.
-                            
-  Bùi, H. M. K., Nguyễn, M. K., & Hoàng, V. S. (2023). ĐẶC ĐIỂM LÂM SÀNG VÀ CẬN LÂM SÀNG CỦA BỆNH NHÂN THUYÊN TẮC PHỔI NGUY CƠ TRUNG BÌNH – CAO. Tạp chí Y học Việt Nam, 530(1). https://doi.org/10.51298/vmj.v530i1.6643
 
-                        
+  Bùi, H. M. K., Nguyễn, M. K., & Hoàng, V. S. (2023). ĐẶC ĐIỂM LÂM SÀNG VÀ CẬN LÂM SÀNG CỦA BỆNH NHÂN THUYÊN TẮC PHỔI NGUY CƠ TRUNG BÌNH – CAO. Tạp chí Y học Việt Nam, 530(1). <https://doi.org/10.51298/vmj.v530i1.6643>
+
 ## ĐẠI CƯƠNG & SINH LÝ BỆNH
 
 **Thuyên tắc phổi (PE)** là tình trạng tắc nghẽn động mạch phổi hoặc các nhánh của nó, hầu hết (trên 90%) xuất phát từ huyết khối tĩnh mạch sâu (DVT) chi dưới hoặc vùng chậu di chuyển lên. Đây là một **cấp cứu nội khoa nguy hiểm**, có nguy cơ tử vong cao nếu không được chẩn đoán và xử trí kịp thời do gây suy thất phải cấp tính và rối loạn trao đổi khí nghiêm trọng.
@@ -52,15 +50,15 @@ Cần chủ động khai thác các yếu tố nguy cơ thúc đẩy hình thàn
 
 Sử dụng **Thang điểm Wells cải tiến** để đánh giá xác suất lâm sàng mắc PE trước khi chỉ định cận lâm sàng:
 
-| Tiêu chuẩn trong Thang điểm Wells                                          | Điểm      |
+| Tiêu chuẩn trong Thang điểm Wells | Điểm |
 | :------------------------------------------------------------------------- | :-------- |
-| Triệu chứng lâm sàng của DVT (Sưng chân, đau khi ấn)            | **+ 3,0** |
-| Chẩn đoán khác ít nghĩ hơn Thuyên tắc phổi                      | **+ 3,0** |
-| Nhịp tim `> 100 lần/phút`                            | **+ 1,5** |
+| Triệu chứng lâm sàng của DVT (Sưng chân, đau khi ấn) | **+ 3,0** |
+| Chẩn đoán khác ít nghĩ hơn Thuyên tắc phổi | **+ 3,0** |
+| Nhịp tim `> 100 lần/phút` | **+ 1,5** |
 | Bất động `> 3 ngày` hoặc phẫu thuật trong 4 tuần qua | **+ 1,5** |
-| Tiền căn bị DVT hoặc Thuyên tắc phổi (PE)                       | **+ 1,5** |
-| Ho ra máu                                                       | **+ 1,0** |
-| Bệnh lý ung thư đang tiến triển/điều trị                        | **+ 1,0** |
+| Tiền căn bị DVT hoặc Thuyên tắc phổi (PE) | **+ 1,5** |
+| Ho ra máu | **+ 1,0** |
+| Bệnh lý ung thư đang tiến triển/điều trị | **+ 1,0** |
 
 - **Phân loại 2 nhóm (Cải tiến - Thường dùng nhất):**
   - **Ít khả năng thuyên tắc phổi (PE Unlikely):** `≤ 4 điểm` `→` Chỉ định **D-Dimer**.

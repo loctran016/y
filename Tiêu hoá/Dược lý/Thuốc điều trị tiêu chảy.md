@@ -82,8 +82,8 @@ Nguyên tắc cốt lõi: Bồi phụ nước và điện giải là ưu tiên h
 
 -
 
-* Sự hấp thu Na và nước ở ruột non được tăng cường mạnh mẽ nhờ Glucose.
-* Glucose đồng hấp thu tích cực với Na+ qua hệ thống đồng vận chuyển Glucose – Natri ở niêm mạc ruột non.
+- Sự hấp thu Na và nước ở ruột non được tăng cường mạnh mẽ nhờ Glucose.
+- Glucose đồng hấp thu tích cực với Na+ qua hệ thống đồng vận chuyển Glucose – Natri ở niêm mạc ruột non.
 
 > -Thành phần bổ trợ:
 

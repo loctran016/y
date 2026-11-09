@@ -77,7 +77,7 @@ _Ví dụ chẩn đoán:_ **Bệnh phổi tắc nghẽn mạn tính (COPD) - GOL
 
 ---
 
-2. Phân độ nặng theo Tiêu chuẩn Anthonisen (Chỉ điểm dùng kháng sinh)
+1. Phân độ nặng theo Tiêu chuẩn Anthonisen (Chỉ điểm dùng kháng sinh)
 
 Tiêu chuẩn Anthonisen phân loại đợt cấp thành 3 mức độ dựa trên sự hiện diện của 3 triệu chứng chính (tăng khó thở, tăng thể tích đàm, đàm chuyển thành đàm mủ) :
 
@@ -87,7 +87,7 @@ Tiêu chuẩn Anthonisen phân loại đợt cấp thành 3 mức độ dựa tr
 
 ---
 
-3. Phân độ nặng Đợt cấp Nhập viện (Dựa trên Mức độ Suy hô hấp)
+1. Phân độ nặng Đợt cấp Nhập viện (Dựa trên Mức độ Suy hô hấp)
 
 Đối với bệnh nhân cần nhập viện, mức độ nặng được phân loại dựa vào các dấu hiệu lâm sàng và kết quả khí máu động mạch :
 

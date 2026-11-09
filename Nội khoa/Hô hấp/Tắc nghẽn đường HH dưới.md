@@ -2,7 +2,7 @@
 
 ## Đại cương
 
-Là tình trạng suy giảm lưu lượng khí lưu thông tại thanh - khí quản, phế quản hoặc các tiểu phế quản, đặc trưng bởi các triệu chứng nghẽn tắc đường thở như khó thở thì thở ra, khò khè, Ứ khí ở phổi, có / không kèm theo các dấu hiệu suy hô hấp cấp/mạn tính. Được phân loại thành trung tâm hoặc ngoại biên, đối xứng hay không đối xứng hai bên lồng ngực. 
+Là tình trạng suy giảm lưu lượng khí lưu thông tại thanh - khí quản, phế quản hoặc các tiểu phế quản, đặc trưng bởi các triệu chứng nghẽn tắc đường thở như khó thở thì thở ra, khò khè, Ứ khí ở phổi, có / không kèm theo các dấu hiệu suy hô hấp cấp/mạn tính. Được phân loại thành trung tâm hoặc ngoại biên, đối xứng hay không đối xứng hai bên lồng ngực.
 
 Nghe phổi là phương pháp khám lâm sàng cung cấp nhiều thông tin nhất trong tiếp cận.
 
@@ -13,7 +13,7 @@ Các nguyên nhân phổ biến nhất gây tắc nghẽn hô hấp dưới bao 
 - Giãn phế quản
 - Viêm tiểu phế quản
 - Viêm phổi
-- U phế quản, lao phế quản, dị vật đường thở 
+- U phế quản, lao phế quản, dị vật đường thở
 
 ---
 
@@ -152,7 +152,6 @@ Các tiếng khò khè được phân biệt dựa vào:
   - **Bệnh lý màng phổi & Mạch máu:** Tràn dịch màng phổi lượng nhiều , Tràn khí màng phổi , Thuyên tắc phổi cấp
   - **Đợt cấp rất nặng của Hen phế quản hoặc COPD** (khi bệnh nhân rơi vào tình trạng suy hô hấp đe dọa ngưng thở)
 
-
 ## Cận lâm sàng
 
 ### Chức năng hô hấp
@@ -208,26 +207,30 @@ Trong thực hành lâm sàng Nội khoa, tiếp cận **Hội chứng Tắc ngh
 ---
 
 ## HEN PHẾ QUẢN (Asthma)
-* **Cơ chế:** Co thắt cơ trơn phế quản lan tỏa làm đè ép cùng lúc nhiều đường dẫn khí nhỏ.
-* **Đặc tính nghe:** Tiếng khò khè mang tính chất **đa âm (polyphonic)** như dạng âm nhạc, nghe rõ ở **thì thở ra** và nghe **lan tỏa đối xứng khắp 2 bên phổi**.
-* **Bệnh sử & Yếu tố nguy cơ:** Bệnh nhân thường có cơ địa dị ứng, khởi phát cơn khó thở khi tiếp xúc **dị nguyên** (bụi, phấn hoa, lông thú) hoặc khí lạnh. Cơn hen rất dễ bị kích phát bởi **Trào ngược dạ dày thực quản (GERD)** do acid dịch vị trào ngược gây phản xạ co thắt phế quản. Thường không có hội chứng nhiễm trùng đi kèm trong cơn hen thuần túy.
+
+- **Cơ chế:** Co thắt cơ trơn phế quản lan tỏa làm đè ép cùng lúc nhiều đường dẫn khí nhỏ.
+- **Đặc tính nghe:** Tiếng khò khè mang tính chất **đa âm (polyphonic)** như dạng âm nhạc, nghe rõ ở **thì thở ra** và nghe **lan tỏa đối xứng khắp 2 bên phổi**.
+- **Bệnh sử & Yếu tố nguy cơ:** Bệnh nhân thường có cơ địa dị ứng, khởi phát cơn khó thở khi tiếp xúc **dị nguyên** (bụi, phấn hoa, lông thú) hoặc khí lạnh. Cơn hen rất dễ bị kích phát bởi **Trào ngược dạ dày thực quản (GERD)** do acid dịch vị trào ngược gây phản xạ co thắt phế quản. Thường không có hội chứng nhiễm trùng đi kèm trong cơn hen thuần túy.
 
 ## PHỔI TẮC NGHỄN MẠN TÍNH (COPD)
-* **Cơ chế:** Viêm mạn tính và hẹp lòng tiểu phế quản cố định kết hợp khí phế thũng.
-* **Đặc tính nghe:** Nghe ran rít, ran ngáy **đa âm ở thì thở ra**, thời gian thở ra kéo dài đáng kể. Khám ghi nhận lồng ngực căng phồng, gõ vang và giảm âm phế bào.
-* **Bệnh sử & Yếu tố nguy cơ:** Tiền căn **hút thuốc lá/thuốc giáo nhiều năm** (thường `> 20 - 40` gói-năm) hoặc phơi nhiễm khói bếp than/bụi nghề nghiệp ở người lớn tuổi (`> 40` tuổi). Khi vào đợt cấp (AECOPD), bệnh nhân bộc lộ rõ **hội chứng nhiễm trùng** (sốt, ho tăng, đờm đổi màu nhầy mủ).
+
+- **Cơ chế:** Viêm mạn tính và hẹp lòng tiểu phế quản cố định kết hợp khí phế thũng.
+- **Đặc tính nghe:** Nghe ran rít, ran ngáy **đa âm ở thì thở ra**, thời gian thở ra kéo dài đáng kể. Khám ghi nhận lồng ngực căng phồng, gõ vang và giảm âm phế bào.
+- **Bệnh sử & Yếu tố nguy cơ:** Tiền căn **hút thuốc lá/thuốc giáo nhiều năm** (thường `> 20 - 40` gói-năm) hoặc phơi nhiễm khói bếp than/bụi nghề nghiệp ở người lớn tuổi (`> 40` tuổi). Khi vào đợt cấp (AECOPD), bệnh nhân bộc lộ rõ **hội chứng nhiễm trùng** (sốt, ho tăng, đờm đổi màu nhầy mủ).
 
 ## GIÃN PHẾ QUẢN (Bronchiectasis)
-* **Cơ chế:** Dãn vĩnh viễn thành phế quản kèm đọng dịch đờm nhầy mủ trong lòng đường thở.
-* **Đặc tính nghe:** Ngoài tiếng ran rít/ran ngáy (do hẹp lòng phế quản bởi đờm), đặc trưng nhất là nghe thấy các **ran ẩm, ran nổ hạt to/vừa xuất hiện ở cả 2 thì** (hít vào và thở ra) do dòng khí xoáy qua các ổ ứ đọng đờm. Ran phổi có thể **khu trú** ở thùy phổi bị dãn hoặc **lan tỏa**.
-* **Bệnh sử & Yếu tố nguy cơ:** Nổi bật với **hội chứng nhiễm trùng hô hấp mạn tính/tái đi tái lại**: ho khạc đờm mủ lượng nhiều hằng ngày (`> 100 mL/24h`), đờm hôi, ho ra máu tái phát. Tiền căn thường liên quan đến Lao phổi cũ hoặc nhiễm trùng hô hấp nặng lúc nhỏ.
+
+- **Cơ chế:** Dãn vĩnh viễn thành phế quản kèm đọng dịch đờm nhầy mủ trong lòng đường thở.
+- **Đặc tính nghe:** Ngoài tiếng ran rít/ran ngáy (do hẹp lòng phế quản bởi đờm), đặc trưng nhất là nghe thấy các **ran ẩm, ran nổ hạt to/vừa xuất hiện ở cả 2 thì** (hít vào và thở ra) do dòng khí xoáy qua các ổ ứ đọng đờm. Ran phổi có thể **khu trú** ở thùy phổi bị dãn hoặc **lan tỏa**.
+- **Bệnh sử & Yếu tố nguy cơ:** Nổi bật với **hội chứng nhiễm trùng hô hấp mạn tính/tái đi tái lại**: ho khạc đờm mủ lượng nhiều hằng ngày (`> 100 mL/24h`), đờm hôi, ho ra máu tái phát. Tiền căn thường liên quan đến Lao phổi cũ hoặc nhiễm trùng hô hấp nặng lúc nhỏ.
 
 ## TẮC NGHỄN CỐ ĐỊNH / DỊ VẬT / U PHẾ QUẢN
-* **Cơ chế:** Tắc nghẽn một vị trí cố định tại đường dẫn khí lớn trong lồng ngực (phế quản gốc, phế quản thùy).
-* **Đặc tính nghe:** Tiếng khò khè **ĐƠN ÂM (monophonic)** điển hình (chỉ có một nốt nhạc duy nhất). Tiếng ran này **khu trú cố định tại một vùng phổi**, nghe thấy ở **cả 2 thì** và không mất đi sau khi bệnh nhân ho.
-* **Bệnh sử & Yếu tố nguy cơ:** 
-  * *Do Dị vật:* Tiền căn có **hội chứng hít sặc** khởi phát đột ngột khi đang ăn.
-  * *Do U phế quản:* Bệnh nhân lớn tuổi, **hút thuốc lá nặng**, kèm ho ra máu, đau ngực khu trú và sụt cân mạn tính. Nếu khối u gây bít tắc hoàn toàn sẽ dẫn đến **hội chứng nhiễm trùng thứ phát (viêm phổi bít tắc)** phía sau chỗ hẹp.
+
+- **Cơ chế:** Tắc nghẽn một vị trí cố định tại đường dẫn khí lớn trong lồng ngực (phế quản gốc, phế quản thùy).
+- **Đặc tính nghe:** Tiếng khò khè **ĐƠN ÂM (monophonic)** điển hình (chỉ có một nốt nhạc duy nhất). Tiếng ran này **khu trú cố định tại một vùng phổi**, nghe thấy ở **cả 2 thì** và không mất đi sau khi bệnh nhân ho.
+- **Bệnh sử & Yếu tố nguy cơ:**
+  - *Do Dị vật:* Tiền căn có **hội chứng hít sặc** khởi phát đột ngột khi đang ăn.
+  - *Do U phế quản:* Bệnh nhân lớn tuổi, **hút thuốc lá nặng**, kèm ho ra máu, đau ngực khu trú và sụt cân mạn tính. Nếu khối u gây bít tắc hoàn toàn sẽ dẫn đến **hội chứng nhiễm trùng thứ phát (viêm phổi bít tắc)** phía sau chỗ hẹp.
 
 ---
 

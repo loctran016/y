@@ -1,6 +1,6 @@
 ## Tiếp cận Lâm sàng
 
-:::details{summary="Đại cương & Cơ chế Sinh lý bệnh"} 
+:::details{summary="Đại cương & Cơ chế Sinh lý bệnh"}
 
 Khó thở là cảm giác chủ quan của bệnh nhân, có thể diễn tiến cấp tính (từ vài giờ đến vài ngày), bán cấp (vài ngày đến vài tuần) hoặc mạn tính (kéo dài trên (4 - 8) tuần).
 
@@ -44,7 +44,7 @@ Thang điểm khó thở mMRC (modified Medical Research Council)
 
 ### Triệu chứng kèm theo
 
-- **Đau ngực:** Gợi ý Hội chứng vành cấp, Thuyên tắc phổi, Tràn khí màng phổi, Viêm phổi/màng phổi. 
+- **Đau ngực:** Gợi ý Hội chứng vành cấp, Thuyên tắc phổi, Tràn khí màng phổi, Viêm phổi/màng phổi.
 - **Vã mồ hôi, hồi hộp:** Phản ứng giao cảm rầm rộ (Hội chứng vành cấp, Phù phổi cấp, Rối loạn nhịp).
 - **Ho & Khạc đờm:** Đờm mủ (Viêm phổi, đợt cấp COPD/Hen), đờm bọt hồng (Phù phổi cấp).
 - **Khò khè, nặng ngực** (hen)
@@ -167,7 +167,7 @@ Thang điểm khó thở mMRC (modified Medical Research Council)
 
 ### HC suy tim - Khó thở mạn
 
-Khó thở khi gắng sức (Dyspnea on Exertion) thường xuất hiện ở *giai đoạn sớm nhất của HC suy tim*, Diễn tiến thành khó thở khi nằm đầu thấp (Orthopnea) khó thở kịch phát về đêm (Paroxysmal Nocturnal Dyspnea - PND)
+Khó thở khi gắng sức (Dyspnea on Exertion) thường xuất hiện ở _giai đoạn sớm nhất của HC suy tim_, Diễn tiến thành khó thở khi nằm đầu thấp (Orthopnea) khó thở kịch phát về đêm (Paroxysmal Nocturnal Dyspnea - PND)
 
 Cơn Phù phổi cấp do tim:
 
@@ -181,6 +181,7 @@ Khi HBS, phần lớn bệnh nhân đều cảm thấy khó thở giảm khi ng�
 - Khám thực thể ghi nhận bệnh nhân thở gắng sức, co kéo cơ hô hấp phụ khi nằm
 - Bệnh nhân xuất hiện hoặc tăng triệu chứng khó thở nhanh chóng (với cảm giác ngộp thở, ho, tức ngực) trong vòng vài phút khi chuyển sang tư thế nằm phẳng, và giảm rõ rệt khi ngồi dậy hoặc nâng cao đầu/ngực.
 - Bệnh nhân hoàn toàn không thể nằm phẳng trên giường, bắt buộc phải chọn tư thế ngồi buông thõng hai chân hoặc kê 2–3 gối cao (ngủ ngồi) mới có thể thở được/mới ngủ được.
+
 :::
 
 ### Chèn ép tim cấp / Viêm màng ngoài tim / Viêm cơ tim - Khó thở cấp / mạn
@@ -190,6 +191,7 @@ Khó thở cấp tính diễn tiến nhanh, giảm hơn khi ngồi cúi người
 - **Triệu chứng kèm theo:** Tam chứng Beck (tụt huyết áp, tĩnh mạch cổ nổi, tiếng tim mờ), mạch nghịch, đau ngực sau xương ức tăng lên khi nằm ngửa và khi hít sâu, tiếng cọ màng ngoài tim.
 
 ### HCVC - khó thở cấp
+
 3~~
 Khó thở cấp tính xuất hiện đột ngột (ở người già hoặc bệnh nhân đái tháo đường, khó thở có thể là triệu chứng duy nhất tương đương với đau ngực).
 
@@ -206,7 +208,7 @@ Rà soát cấu trúc từ ngoài -> trong: màng phổi, nhu mô phổi, đư�
 **Tràn khí màng phổi:** Khó thở khởi phát đột ngột, dữ dội, kèm theo
 
 - Đau ngực kiểu màng phổi đột ngột một bên kèm khó thở.
-- Tiền căn *chấn thương và đặt catheter* tĩnh mạch trung tâm
+- Tiền căn _chấn thương và đặt catheter_ tĩnh mạch trung tâm
 - Nghe phổi có rì rào phế nang giảm hoặc mất hẳn bên tổn thương, gõ vang trống, rung thanh giảm (Tam chứng Galliard).
 
 ### Nhu mô phổi
@@ -217,6 +219,7 @@ Rà soát cấu trúc từ ngoài -> trong: màng phổi, nhu mô phổi, đư�
 - **Triệu chứng kèm theo:** Ho khan dai dẳng, ngón tay dùi trống, nghe phổi có **ran nổ khô rải rác hai đáy phổi** ở cuối thì hít vào (tiếng bóc băng dính - velcro rales).
 
 **Viêm phổi mắc phải cộng đồng (CAP):**
+
 - Khó thở cấp tính diễn tiến trong vài giờ đến vài ngày.
 - **Triệu chứng kèm theo:** Sốt cao, lạnh run, vã mồ hôi, ho khạc đàm mủ (vàng, xanh) hoặc đàm gỉ sắt, đau ngực kiểu màng phổi (đau nhói tăng khi hít sâu hoặc ho), nghe phổi có ran nổ khu trú hoặc hội chứng đông đặc.
 
@@ -236,6 +239,7 @@ Khám thấy ran rít ngáy, RT giảm, RRPN giảm, gõ vang.
 - Trong đợt cấp: khó thở tăng vọt cấp tính kèm kéo dài thì thở ra; đàm chuyển thành đàm mủ vàng/xanh.
 
 **Giãn phế quản:**
+
 - Khó thở mạn tính hoặc gia tăng trong đợt bội nhiễm.
 - **Triệu chứng kèm theo:** Ho khạc đàm mủ mạn tính kéo dài (đàm lượng nhiều nhầy mủ), ho ra máu tái đi tái lại, nhiễm trùng hô hấp tái phát, ngón tay dùi trống, nghe phổi có ran ẩm, ran nổ cố định tại vùng tổn thương.
 

@@ -1,6 +1,6 @@
 ## Định nghĩa
 
-_Nhiễm trùng hô hấp dưới cấp (Lower Respiratory Tract Infection - LRTI):_ Nhiễm trùng cấp tính *(< 21 ngày)* ở các cấu trúc thuộc đường hô hấp nằm **dưới dây thanh âm**:
+_Nhiễm trùng hô hấp dưới cấp (Lower Respiratory Tract Infection - LRTI):_ Nhiễm trùng cấp tính _(< 21 ngày)_ ở các cấu trúc thuộc đường hô hấp nằm **dưới dây thanh âm**:
 
 - **Cấu trúc Đường dẫn khí (Airways - Viêm phế quản / Cây phế quản):**
   - **Viêm phế quản cấp (Acute Bronchitis):** Tổn thương viêm cấp tính niêm mạc phế quản (phần lớn do vi-rút, tự giới hạn).
@@ -25,8 +25,6 @@ _Nhiễm trùng hô hấp dưới cấp (Lower Respiratory Tract Infection - LRT
       └─ Đợt cấp Giãn phế quản     └─ Áp-xe phổi (tạo hang)
 ```
 
-
-
 1. **Đợt cấp Bệnh phổi tắc nghẽn mạn tính (AECOPD) bội nhiễm:**
    - **Khai thác vị trí:** Đường dẫn khí nhỏ bị tắc nghẽn mạn tính.
    - **Đặc điểm:** Tiền căn hút thuốc lá nhiều, khó thở mạn tính. Xuất hiện **Tam chứng Anthonisen** (Tăng khó thở + Tăng lượng đàm + Đàm chuyển thành đàm mủ). Nghe phổi có **ran rít, ran ngáy lan tỏa 2 phế trường**.
@@ -42,7 +40,6 @@ _Nhiễm trùng hô hấp dưới cấp (Lower Respiratory Tract Infection - LRT
 
 —
 
-
 ## Lâm sàng
 
 ### Viêm phế quản cấp
@@ -53,13 +50,14 @@ Ho khan có thể đàm trong, đàm nhầy hay nhầy mủ. Đảm mù không c
 
 ### Viêm phổi cấp
 
-Triệu chứng tại phổi thường gặp: 
+Triệu chứng tại phổi thường gặp:
+
 - **Sốt** (có thể cao đến 39 - 40 ^o^C), lạnh run, nhịp nhanh hay đổ mồ hôi
 - khó thở; Ho có thể đàm/không
-- Có thể gây *ho ra máu đại thể*
+- Có thể gây _ho ra máu đại thể_
 - đau ngực kiểu MP (có thể có)
 - ran nổ cuối thì hít vào
- 
+
 Ngoài ra có thể kèm theo biến chứng: Suy hô hấp, HC đông đặc phổi, tiếng thổi ống, tiếng de kêu, tiếng phế quản
 
 Lưu ý: không có TCTT / TCCN nào có chẩn đoán xác định / loại trừ viêm phổi. Nên cần KÈM **X - quang phổi có hình mờ phổi mới**
@@ -81,7 +79,6 @@ Lưu ý: không có TCTT / TCCN nào có chẩn đoán xác định / loại tr�
    - **Người có bệnh phổi mạn (COPD nặng, Giãn phế quản):** Nguy cơ cao nhiễm các vi khuẩn Gram âm kháng thuốc như _**Pseudomonas aeruginosa**_ (Trực khuẩn mủ xanh), _Enterobacteriaceae_. Bác sĩ bắt buộc phải xem xét phủ kháng sinh antipseudonal (như Piperacillin/Tazobactam, Cefepime, Levofloxacin).
 2. **Biện luận hình ảnh học (X-quang/CT):**
    - Giúp bạn có cái nhìn phản biện: Trên nền phổi đã hư hại sẵn (bóng khí, xơ dính), X-quang ngực rất khó đọc. Do đó, so sánh với **phim X-quang cũ** hoặc chỉ định **CT-scan ngực** là chìa khóa để phát hiện thâm nhiễm mới.
-
 
 ## Tiếp cận chẩn đoán
 
@@ -111,7 +108,6 @@ Sinh hiệu HOÀN TOÀN BÌNH THƯỜNG            Có ít nhất 1 sinh hiệu 
    • KHÔNG dùng kháng sinh                   • Làm CTM, CRP, Procalcitonin
    • Điều trị triệu chứng (giảm ho)          • Chỉ định Kháng sinh theo kinh nghiệm
 ```
-
 
 | Tiêu chí phân biệt                         | VIÊM PHẾ QUẢN CẤP _(Tổn thương Đường dẫn khí)_                                                                          | VIÊM PHỔI CỘNG ĐỒNG _(Tổn thương Phế nang / Nhu mô)_                                                                                    |
 | :----------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |

@@ -122,7 +122,7 @@ C. Phần phía trước của ruột giữa
 D. Phần phía sau của ruột giữa
 
 **✓ ĐÁP ÁN ĐÚNG: B  
-**_Giải thích: Trong phôi thai, mặt sau của ruột trước phát triển nhanh và mạnh hơn mặt trước, phình to ra tạo nên bờ cong lớn. Bờ cong nhỏ được tạo thành từ thành trước của ruột trước._
+***Giải thích: Trong phôi thai, mặt sau của ruột trước phát triển nhanh và mạnh hơn mặt trước, phình to ra tạo nên bờ cong lớn. Bờ cong nhỏ được tạo thành từ thành trước của ruột trước.*
 
 **Câu 2: Ống tụy chính (Ống Wirsung) được hình thành từ cấu trúc phôi thai nào?**
 
@@ -132,7 +132,7 @@ C. Phần xa của nụ tụy lưng và toàn bộ nụ tụy bụng
 D. Phần xa của nụ tụy bụng và toàn bộ nụ tụy lưng
 
 **✓ ĐÁP ÁN ĐÚNG: C  
-**_Giải thích: Ống tụy chính hình thành từ sự sáp nhập giữa phần xa của ống tụy lưng và toàn bộ ống tụy bụng. Phần gần ống tụy lưng hình thành ống tụy phụ (Santorini)._
+***Giải thích: Ống tụy chính hình thành từ sự sáp nhập giữa phần xa của ống tụy lưng và toàn bộ ống tụy bụng. Phần gần ống tụy lưng hình thành ống tụy phụ (Santorini).*
 
 **Câu 3: Tế bào Kupffer và mô liên kết của gan có nguồn gốc phôi thai từ cấu trúc nào?**
 
@@ -142,7 +142,7 @@ C. Trung bì vách ngang
 D. Nội bì ruột giữa
 
 **✓ ĐÁP ÁN ĐÚNG: C  
-**_Giải thích: Tế bào biểu mô gan và lót đường mật từ Nội bì ruột trước; còn tế bào Kupffer, tế bào tạo máu và mô liên kết gan xuất phát từ Trung bì vách ngang (septum transversum)._
+***Giải thích: Tế bào biểu mô gan và lót đường mật từ Nội bì ruột trước; còn tế bào Kupffer, tế bào tạo máu và mô liên kết gan xuất phát từ Trung bì vách ngang (septum transversum).*
 
 **Câu 4: Quai ruột giữa thực hiện sự xoay tổng cộng bao nhiêu độ và theo chiều nào trong quá trình phát triển phôi thai?**
 
@@ -152,7 +152,7 @@ C. 270 độ ngược chiều kim đồng hồ
 D. 270 độ cùng chiều kim đồng hồ
 
 **✓ ĐÁP ÁN ĐÚNG: C  
-**_Giải thích: Quai ruột giữa xoay tổng cộng 270° ngược chiều kim đồng hồ quanh ĐM mạc treo tràng trên (90° trong cuống rốn ở tuần 6 và 180° khi trở về ổ bụng ở tuần 10)._
+***Giải thích: Quai ruột giữa xoay tổng cộng 270° ngược chiều kim đồng hồ quanh ĐM mạc treo tràng trên (90° trong cuống rốn ở tuần 6 và 180° khi trở về ổ bụng ở tuần 10).*
 
 **Câu 5: Niêm mạc ở cấu trúc nào dưới đây được bao phủ bởi biểu mô lát tầng sừng hóa?**
 
@@ -162,7 +162,7 @@ C. Khẩu hầu và thực quản
 D. Lưng lưỡi và hãm lưỡi
 
 **✓ ĐÁP ÁN ĐÚNG: A  
-**_Giải thích: Khẩu cái cứng và nướu răng (lợi) tiếp xúc trực tiếp với thức ăn cứng khi nhai nên được lót bởi biểu mô lát tầng sừng hóa (niêm mạc nhai)._
+***Giải thích: Khẩu cái cứng và nướu răng (lợi) tiếp xúc trực tiếp với thức ăn cứng khi nhai nên được lót bởi biểu mô lát tầng sừng hóa (niêm mạc nhai).*
 
 **Câu 6: Loại gai lưỡi nào có số lượng nhiều nhất nhưng KHÔNG chứa nụ vị giác?**
 
@@ -172,7 +172,7 @@ C. Gai dạng đài
 D. Gai dạng lá
 
 **✓ ĐÁP ÁN ĐÚNG: B  
-**_Giải thích: Gai dạng chỉ (filiform) chiếm số lượng nhiều nhất trên lưng lưỡi, có vai trò tạo độ nhám ma sát và KHÔNG chứa nụ vị giác._
+***Giải thích: Gai dạng chỉ (filiform) chiếm số lượng nhiều nhất trên lưng lưỡi, có vai trò tạo độ nhám ma sát và KHÔNG chứa nụ vị giác.*
 
 **Câu 7: Tế bào thành (parietal cell) của tuyến đáy vị dạ dày có đặc điểm mô học nào sau đây?**
 
@@ -182,7 +182,7 @@ C. Nhân dẹt nằm sát cực đáy, bài tiết Pepsinogen
 D. Nằm ở lớp dưới niêm mạc, bài tiết chất nhầy kiềm
 
 **✓ ĐÁP ÁN ĐÚNG: B  
-**_Giải thích: Tế bào thành có kích thước lớn, bào tương ưa acid (đỏ), nhân tròn ở giữa, tập trung chủ yếu ở cổ và thân tuyến (1/2 trên). Bài tiết HCl và Yếu tố nội._
+***Giải thích: Tế bào thành có kích thước lớn, bào tương ưa acid (đỏ), nhân tròn ở giữa, tập trung chủ yếu ở cổ và thân tuyến (1/2 trên). Bài tiết HCl và Yếu tố nội.*
 
 **Câu 8: Tuyến Brunner nằm ở tầng nào của ống tiêu hóa và gặp ở đoạn nào?**
 
@@ -192,7 +192,7 @@ C. Tầng niêm mạc - Hồi tràng
 D. Tầng dưới niêm mạc - Kết tràng
 
 **✓ ĐÁP ÁN ĐÚNG: B  
-**_Giải thích: Tuyến Brunner nằm ở TẦNG DƯỚI NIÊM MẠC của tá tràng, có chức năng bài tiết dịch nhầy kiềm chứa Bicarbonate để trung hòa acid từ dạ dày xuống._
+***Giải thích: Tuyến Brunner nằm ở TẦNG DƯỚI NIÊM MẠC của tá tràng, có chức năng bài tiết dịch nhầy kiềm chứa Bicarbonate để trung hòa acid từ dạ dày xuống.*
 
 **Câu 9: Tế bào Paneth có vai trò bài tiết Lysozyme và Defensin nằm ở vị trí nào?**
 
@@ -202,7 +202,7 @@ C. Biểu mô ống vân tuyến nước bọt
 D. Khoảng cửa tiểu thùy gan
 
 **✓ ĐÁP ÁN ĐÚNG: A  
-**_Giải thích: Tế bào Paneth nằm ở đáy tuyến ruột (tuyến Lieberkuhn) ở ruột non, chứa các hạt ưa acid lớn bài tiết Lysozyme và Defensin tiêu diệt vi khuẩn._
+***Giải thích: Tế bào Paneth nằm ở đáy tuyến ruột (tuyến Lieberkuhn) ở ruột non, chứa các hạt ưa acid lớn bài tiết Lysozyme và Defensin tiêu diệt vi khuẩn.*
 
 **Câu 10: Tế bào sao (Ito cell) nằm ở vị trí nào trong gan và có vai trò gì trong bệnh sinh xơ gan?**
 
@@ -212,7 +212,7 @@ C. Ở khoảng cửa - Tiết dịch mật vào vi quản mật
 D. Ở tĩnh mạch trung tâm - Tổng hợp Albumin
 
 **✓ ĐÁP ÁN ĐÚNG: B  
-**_Giải thích: Tế bào sao nằm trong khoảng Disse (khoảng quanh xoang). Bình thường dự trữ Vitamin A, khi gan bị viêm/tổn thương mạn tính sẽ kích hoạt thành nguyên bào sợi-cơ tổng hợp collagen gây xơ hóa gan._
+***Giải thích: Tế bào sao nằm trong khoảng Disse (khoảng quanh xoang). Bình thường dự trữ Vitamin A, khi gan bị viêm/tổn thương mạn tính sẽ kích hoạt thành nguyên bào sợi-cơ tổng hợp collagen gây xơ hóa gan.*
 
 # **MA TRẬN ĐỀ THI VỀ PHẦN MÔ PHÔI (Y20 - Y23)**
 

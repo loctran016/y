@@ -34,29 +34,33 @@ SO SÁNH BẢN CHẤT & CƠ CHẾ SINH LÝ BỆNH
 | **Đáp ứng với nghỉ ngơi / Nitroglycerin** | **Đáp ứng tốt**: Đau dịu nhanh sau 3–5 phút nghỉ ngơi hoặc ngậm Nitroglycerin. | **Đáp ứng kém hoặc không đáp ứng** với nghỉ ngơi / Nitroglycerin. | **Đáp ứng tốt với điều trị Suy tim / Lợi tiểu**: Đau ngực/nặng ngực giảm rõ khi dùng lợi tiểu xả bớt thể tích, giảm LVEDP hoặc hạ nhịp tim. |
 | **Triệu chứng kèm theo** | Thường **không có hoặc nhẹ** (khó thở nhẹ). | **Rầm rộ phản ứng giao cảm**: Vã mồ hôi hột, lo âu, bứt rứt, da tái nhợt, hoảng sợ. | **Rõ rệt dấu hiệu Sung huyết & Tải thể tích**: Khó thở kịch phát về đêm (PND), tĩnh mạch cổ nổi, gan to, ấn lõm phù 2 chân, ran ẩm đáy phổi. |
 
-
 1. **Một bệnh nhân suy tim có thể bị CẢ HAI:** Suy tim mạn tính do bệnh mạch vành (HCVM) hoàn toàn có thể xuất hiện thêm **đợt đau thắt ngực không ổn định / Nhồi máu cơ tim cấp** đóng vai trò là **yếu tố thúc đẩy** làm suy tim mất bù cấp.
 2. **Khác biệt về hướng xử trí:**
-   * **Cơn đau thắt ngực không ổn định:** Cần quản lý theo phác đồ **Hội chứng vành cấp (ACS)** (thử hs-Troponin động học, ECG lặp lại, kháng đông, kháng tiểu cầu kép, can thiệp mạch vành khẩn).
-   * **Đau ngực thứ phát do suy tim:** Xử trí trọng tâm là **tối ưu hóa điều trị suy tim và giải quyết yếu tố hậu quả** (dùng lợi tiểu giảm áp lực LVEDP, chẹn beta kiểm soát tần số thất, chọc dò dịch màng phổi/màng tim nếu chèn ép, hoặc chống đông nếu có thuyên tắc phổi).
+   - **Cơn đau thắt ngực không ổn định:** Cần quản lý theo phác đồ **Hội chứng vành cấp (ACS)** (thử hs-Troponin động học, ECG lặp lại, kháng đông, kháng tiểu cầu kép, can thiệp mạch vành khẩn).
+   - **Đau ngực thứ phát do suy tim:** Xử trí trọng tâm là **tối ưu hóa điều trị suy tim và giải quyết yếu tố hậu quả** (dùng lợi tiểu giảm áp lực LVEDP, chẹn beta kiểm soát tần số thất, chọc dò dịch màng phổi/màng tim nếu chèn ép, hoặc chống đông nếu có thuyên tắc phổi).
 
 :::details{summary="Sinh lý bệnh Đau ngực thứ phát trong suy tim"}
 
 Thiếu máu cơ tim dưới nội mạc do Tăng sức căng thành thất (Wall Stress):
-  - Trong suy tim (đặc biệt là suy tim dãn buồng tim), áp lực cuối tâm trương thất trái (LVEDP) tăng cao kết hợp với thể tích buồng tim dãn rộng làm **tăng sức căng thành thất** (theo định luật Laplace).
-  - Áp lực cao trong buồng tim chèn ép trực tiếp lên các mạch máu nhỏ nuôi vùng dưới nội mạc (subendocardium). Tình trạng này làm giảm tưới máu mạch vành thì tâm trương, gây ra cơn đau ngực do **thiếu máu cơ tim dưới nội mạc** mặc dù thân chính động mạch vành hoàn toàn không bị hẹp tắc.
+
+- Trong suy tim (đặc biệt là suy tim dãn buồng tim), áp lực cuối tâm trương thất trái (LVEDP) tăng cao kết hợp với thể tích buồng tim dãn rộng làm **tăng sức căng thành thất** (theo định luật Laplace).
+- Áp lực cao trong buồng tim chèn ép trực tiếp lên các mạch máu nhỏ nuôi vùng dưới nội mạc (subendocardium). Tình trạng này làm giảm tưới máu mạch vành thì tâm trương, gây ra cơn đau ngực do **thiếu máu cơ tim dưới nội mạc** mặc dù thân chính động mạch vành hoàn toàn không bị hẹp tắc.
 
 **Rối loạn chức năng Vi mạch cơ tim (Microvascular Dysfunction):**
-  - Sự suy giảm khả năng co dãn của các động mạch vành kích thước nhỏ (cấp độ vi tuần hoàn) do rối loạn nội mạc và xơ hóa mô kẽ trong suy tim.
+
+- Sự suy giảm khả năng co dãn của các động mạch vành kích thước nhỏ (cấp độ vi tuần hoàn) do rối loạn nội mạc và xơ hóa mô kẽ trong suy tim.
 
 **Tăng áp động mạch phổi thứ phát:**
-  - Suy tim trái gây tăng áp lực ứ trệ về tĩnh mạch phổi `→` Tăng áp động mạch phổi thứ phát. Áp lực mạch phổi tăng cao làm tăng gánh nặng thất phải, gây thiếu máu cơ tim thất phải và bộc lộ cơn **đau ngực dưới xương ức kiểu đè ép** khi gắng sức.
+
+- Suy tim trái gây tăng áp lực ứ trệ về tĩnh mạch phổi `→` Tăng áp động mạch phổi thứ phát. Áp lực mạch phổi tăng cao làm tăng gánh nặng thất phải, gây thiếu máu cơ tim thất phải và bộc lộ cơn **đau ngực dưới xương ức kiểu đè ép** khi gắng sức.
 
 **Tràn dịch màng ngoài tim / Tràn dịch màng phổi thứ phát:**
-  - Tình trạng quá tải thể tích và tăng áp lực tĩnh mạch hệ thống trong suy tim nặng có thể gây tràn dịch màng ngoài tim hoặc tràn dịch màng phổi. Bệnh nhân sẽ có cảm giác **đau nặng ngực âm ỉ** hoặc **đau ngực kiểu màng phổi** (đau nhói tăng lên khi hít sâu hoặc ho).
+
+- Tình trạng quá tải thể tích và tăng áp lực tĩnh mạch hệ thống trong suy tim nặng có thể gây tràn dịch màng ngoài tim hoặc tràn dịch màng phổi. Bệnh nhân sẽ có cảm giác **đau nặng ngực âm ỉ** hoặc **đau ngực kiểu màng phổi** (đau nhói tăng lên khi hít sâu hoặc ho).
 
 **Gan to sung huyết (Căng bao Glisson):**
-  - Suy tim phải gây ứ máu ngoại biên làm gan to nhanh và căng bao Glisson. Bệnh nhân thường cảm thấy đau tức vùng hạ sườn phải hoặc thượng vị, đôi khi mô tả nhầm thành đau ngực dưới.
+
+- Suy tim phải gây ứ máu ngoại biên làm gan to nhanh và căng bao Glisson. Bệnh nhân thường cảm thấy đau tức vùng hạ sườn phải hoặc thượng vị, đôi khi mô tả nhầm thành đau ngực dưới.
 
 :::
 
@@ -72,7 +76,6 @@ Thiếu máu cơ tim dưới nội mạc do Tăng sức căng thành thất (Wal
   - **Phản hồi gan - tĩnh mạch cảnh (+):** Rất đặc hiệu cho suy tim (`LR+ = 6,4`).
   - Gan to, đau nhẹ, báng bụng (cổ chướng) trong suy tim phải hoặc suy tim toàn bộ.
 
-
 - **Tĩnh mạch cảnh trong nổi:** Tĩnh mạch cảnh nổi ở tư thế nằm đầu cao 45°, **phản hồi bụng – tĩnh mạch cảnh dương tính**.
 - **Khám tim:**
   - **Mỏm tim lệch:** Đập lệch xuống dưới và ra ngoài đường trung đòn trái (dấu hiệu tim to/dãn thất trái).
@@ -86,14 +89,13 @@ Thiếu máu cơ tim dưới nội mạc do Tăng sức căng thành thất (Wal
   - **Gan to:** Gan căng đau, bề mặt nhẵn, bờ tù; có thể đập theo nhịp tim nếu có hở van 3 lá đi kèm.
   - **Báng bụng (Cổ trướng):** Xuất hiện ở giai đoạn muộn do tăng áp lực tĩnh mạch hệ thống.
 
-
 ## Tiếp cận chẩn đoán suy tim
 
 ### Tiêu chuẩn FRAMINGHAM
 
 | Tiêu chuẩn chính                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Tiêu chuẩn phụ                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    1. Khó thở kịch phát về đêm hoặc khó thở khi nằm.<br>2. Tĩnh mạch cảnh trong nổi.<br>3. Ran ở phổi.<br>4. Tim to (mỏm tim lệch ngoài).<br> * Khám: Sờ mỏm tim đập lệch xuống dưới và ra ngoài đường trung đòn trái.<br>* CLS: Xác định bóng tim to trên X-quang ngực thẳng (chỉ số tim/lồng ngực > 0.5) hoặc dãn các buồng tim trên Siêu âm tim.<br>5. Phù phổi cấp.<br>* Khám: Bệnh nhân khó thở dữ dội, ho khạc đàm bọt hồng, nghe ran ẩm dâng nhanh khắp 2 phế trường.<br>* CLS: Hình ảnh ứ huyết phế nang, đường Kerley B trên X-quang ngực thẳng; giảm severe trên Khí máu động mạch.<br>6. Tiếng T3 Gallop.<br>7. Tăng áp lực tĩnh mạch trung tâm (> 16 cmH_2O)) <br> * Khám: Ước lượng chiều cao cột máu tĩnh mạch cảnh trên góc xương ức + 5 cm.<br>* CLS: Đo trực tiếp áp lực tĩnh mạch trung tâm (CVP) qua Catheter hoặc đo đường kính + độ xẹp tĩnh mạch chủ dưới (IVC) trên Siêu âm tim tại giường.<br>8. Phản hồi gan – tĩnh mạch cảnh dương tính. <br>* Khám: Ấn vùng hạ sườn phải (gan) trong 30–60 giây và nhìn tĩnh mạch cảnh nổi cao thêm > 3–4 cm. | 1. Phù mắt cá chân 2 bên.<br>  2. Ho về đêm.<br>  3. Khó thở khi gắng sức thông thường.<br>  4. Gan to.<br>  5. Tràn dịch màng phổi.<br>  6. Dung tích sống giảm 1/3 so với tối đa.<br>  7. Nhịp tim nhanh (> 120 lần/phút). |
+|    1. Khó thở kịch phát về đêm hoặc khó thở khi nằm.<br>2. Tĩnh mạch cảnh trong nổi.<br>3. Ran ở phổi.<br>4. Tim to (mỏm tim lệch ngoài).<br> _Khám: Sờ mỏm tim đập lệch xuống dưới và ra ngoài đường trung đòn trái.<br>_ CLS: Xác định bóng tim to trên X-quang ngực thẳng (chỉ số tim/lồng ngực > 0.5) hoặc dãn các buồng tim trên Siêu âm tim.<br>5. Phù phổi cấp.<br>_Khám: Bệnh nhân khó thở dữ dội, ho khạc đàm bọt hồng, nghe ran ẩm dâng nhanh khắp 2 phế trường.<br>_ CLS: Hình ảnh ứ huyết phế nang, đường Kerley B trên X-quang ngực thẳng; giảm severe trên Khí máu động mạch.<br>6. Tiếng T3 Gallop.<br>7. Tăng áp lực tĩnh mạch trung tâm (> 16 cmH_2O)) <br> _Khám: Ước lượng chiều cao cột máu tĩnh mạch cảnh trên góc xương ức + 5 cm.<br>_ CLS: Đo trực tiếp áp lực tĩnh mạch trung tâm (CVP) qua Catheter hoặc đo đường kính + độ xẹp tĩnh mạch chủ dưới (IVC) trên Siêu âm tim tại giường.<br>8. Phản hồi gan – tĩnh mạch cảnh dương tính. <br>* Khám: Ấn vùng hạ sườn phải (gan) trong 30–60 giây và nhìn tĩnh mạch cảnh nổi cao thêm > 3–4 cm. | 1. Phù mắt cá chân 2 bên.<br>  2. Ho về đêm.<br>  3. Khó thở khi gắng sức thông thường.<br>  4. Gan to.<br>  5. Tràn dịch màng phổi.<br>  6. Dung tích sống giảm 1/3 so với tối đa.<br>  7. Nhịp tim nhanh (> 120 lần/phút). |
 
 - **Tiêu chuẩn chính/phụ:** Giảm (> 4,5 kg) trong vòng 5 ngày điều trị đáp ứng với thuốc lợi tiểu.
 
@@ -117,21 +119,21 @@ Chẩn đoán xác định Suy tim theo Framingham: Khi bệnh nhân thỏa mãn
 
 | Phân độ NYHA | Mức độ giới hạn hoạt động thể lực |
 | :--- | :--- |
-| **NYHA I** | **Không giới hạn** hoạt động thể lực. Vận động thể lực thông thường không gây mệt, hồi hộp hay khó thở [cite: 49]. |
-| **NYHA II** | **Giới hạn nhẹ** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi. Vận động thể lực thông thường (leo cầu thang, đi bộ nhanh) gây mệt, khó thở [cite: 49]. |
-| **NYHA III** | **Giới hạn đáng kể/rõ rệt** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi, nhưng **các hoạt động dưới mức thông thường (sinh hoạt nhẹ hằng ngày) đã gây mệt, khó thở** [cite: 49]. |
-| **NYHA IV** | **Không thực hiện được bất kỳ hoạt động thể lực nào** mà không khó chịu. Triệu chứng suy tim xuất hiện ngay cả khi nghỉ ngơi [cite: 49]. |
+| **NYHA I** | **Không giới hạn** hoạt động thể lực. Vận động thể lực thông thường không gây mệt, hồi hộp hay khó thở. |
+| **NYHA II** | **Giới hạn nhẹ** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi. Vận động thể lực thông thường (leo cầu thang, đi bộ nhanh) gây mệt, khó thở. |
+| **NYHA III** | **Giới hạn đáng kể/rõ rệt** hoạt động thể lực. Bệnh nhân thoải mái khi nghỉ ngơi, nhưng **các hoạt động dưới mức thông thường (sinh hoạt nhẹ hằng ngày) đã gây mệt, khó thở**. |
+| **NYHA IV** | **Không thực hiện được bất kỳ hoạt động thể lực nào** mà không khó chịu. Triệu chứng suy tim xuất hiện ngay cả khi nghỉ ngơi. |
 
-*Lưu ý:* Mặc dù trong lời khai bệnh nhân có thể dùng từ "nhẹ", nhưng khi các triệu chứng mệt/khó thở đã xuất hiện với **các hoạt động dưới mức thông thường (sinh hoạt cá nhân)** thì quy chuẩn lâm sàng xếp vào **NYHA III** [cite: 49].
+_Lưu ý:_ Mặc dù trong lời khai bệnh nhân có thể dùng từ "nhẹ", nhưng khi các triệu chứng mệt/khó thở đã xuất hiện với **các hoạt động dưới mức thông thường (sinh hoạt cá nhân)** thì quy chuẩn lâm sàng xếp vào **NYHA III**.
 
 ### Phân giai đoạn ACC/AHA (American College of Cardiology / American Heart Association)
 
 | Giai đoạn ACC/AHA | Tiêu chuẩn phân giai đoạn |
 | :--- | :--- |
-| **Giai đoạn A** | Có **nguy cơ cao suy tim** (THA, ĐTĐ, béo phì...), **chưa có** bệnh tim cấu trúc và **chưa từng có** triệu chứng suy tim [cite: 50]. |
-| **Giai đoạn B** | **Có bệnh tim cấu trúc** (dày thất trái, dãn thất, NMCT cũ...), nhưng **chưa từng có** triệu chứng suy tim [cite: 50]. |
-| **Giai đoạn C** | **Có bệnh tim cấu trúc** VÀ **đã hoặc đang có triệu chứng suy tim** lâm sàng [cite: 50]. |
-| **Giai đoạn D** | **Suy tim giai đoạn cuối (kháng trị)**, triệu chứng rầm rộ khi nghỉ ngơi dù đã điều trị nội khoa tối ưu, cần can thiệp đặc biệt [cite: 50]. |
+| **Giai đoạn A** | Có **nguy cơ cao suy tim** (THA, ĐTĐ, béo phì...), **chưa có** bệnh tim cấu trúc và **chưa từng có** triệu chứng suy tim. |
+| **Giai đoạn B** | **Có bệnh tim cấu trúc** (dày thất trái, dãn thất, NMCT cũ...), nhưng **chưa từng có** triệu chứng suy tim. |
+| **Giai đoạn C** | **Có bệnh tim cấu trúc** VÀ **đã hoặc đang có triệu chứng suy tim** lâm sàng. |
+| **Giai đoạn D** | **Suy tim giai đoạn cuối (kháng trị)**, triệu chứng rầm rộ khi nghỉ ngơi dù đã điều trị nội khoa tối ưu, cần can thiệp đặc biệt. |
 
 Phối hợp phần phân độ NYHA và ACC/AHA với chỉ số **LVEF trên siêu âm tim** để hoàn thiện đầy đủ chẩn đoán suy tim (HFrEF, HFmrEF hay HFpEF)
 
@@ -146,10 +148,10 @@ Các Nhóm Nguyên nhân Nguyên phát Thường gặp ở Bệnh cảnh Điển
 - Rối loạn nhịp mạn tính: Rung nhĩ đáp ứng thất nhanh kéo dài.
 - Bệnh màng ngoài tim: BN không đau ngực, không ghi nhận nhiễm siêu vi trước đợt bệnh này. Khám không ghi nhận sốt, không tiếng tim bất thường, không tiếng cọ màng ngoài tim. Tiền căn không ghi nhận bệnh tự miễn, ung thư.
 
-* Bệnh cơ tim: BN khó thở nhưng không đau thắt ngực. Khám ghi nhận mỏm tim lệch ngoài đường trung đòn trái #2cm. Siêu âm tuyến trước ghi nhận dày dãn thành thất trái nhưng cũng có thể được giải thích là biến chứng của tăng huyết áp
+- Bệnh cơ tim: BN khó thở nhưng không đau thắt ngực. Khám ghi nhận mỏm tim lệch ngoài đường trung đòn trái #2cm. Siêu âm tuyến trước ghi nhận dày dãn thành thất trái nhưng cũng có thể được giải thích là biến chứng của tăng huyết áp
   => Ít nghĩ nhưng không loại trừ
 
-* Bệnh van tim: Khám không ghi nhận âm thổi. Siêu âm tuyến trước không ghi nhận bất thường về van tim
+- Bệnh van tim: Khám không ghi nhận âm thổi. Siêu âm tuyến trước không ghi nhận bất thường về van tim
   => Không nghĩ
 
 ### Thông liên thất - Bệnh lý bẩm sinh thúc đẩy suy tim
@@ -158,22 +160,21 @@ Trong bệnh lý **Thông liên thất (Ventricular Septal Defect - VSD)**, **SU
 
 Diễn tiến theo sinh lý bệnh
 
-1. **Luồng thông Trái `→` Phải (Left-to-Right Shunt):** 
+1. **Luồng thông Trái `→` Phải (Left-to-Right Shunt):**
    Trong thì tâm thu, do áp lực ở thất trái (khoảng `120 mmHg`) cao hơn rất nhiều so với thất phải (khoảng `25 mmHg`), máu từ thất trái sẽ phọt sang thất phải qua lỗ thông.
 
 2. **Quá tải thể tích Thất trái (Volume Overload):**
-   Lượng máu phụ thuộc luồng thông này được thất phải tống ngay lên động mạch phổi `→` qua hệ mao mạch phổi `→` rồi **đổ toàn bộ về Nhĩ trái và Thất trái**. 
-   * Như vậy, **thất trái bắt buộc phải tiếp nhận một thể tích máu lớn hơn bình thường** (gồm lưu lượng tuần hoàn hệ thống + lượng máu luồng thông quay trở lại).
+   Lượng máu phụ thuộc luồng thông này được thất phải tống ngay lên động mạch phổi `→` qua hệ mao mạch phổi `→` rồi **đổ toàn bộ về Nhĩ trái và Thất trái**.
+   - Như vậy, **thất trái bắt buộc phải tiếp nhận một thể tích máu lớn hơn bình thường** (gồm lưu lượng tuần hoàn hệ thống + lượng máu luồng thông quay trở lại).
 
 3. **Diễn tiến thành Suy tim trái trước:**
    Do phải làm việc liên tục để bơm lượng máu tăng vọt này, **nhĩ trái và thất trái sẽ bị dãn, phì đại và dẫn đến suy tim trái trước** (với các biểu hiện sung huyết phổi, ho, khó thở).
 
 4. **Giai đoạn muộn `→` Suy tim phải (Hội chứng Eisenmenger):**
    Nếu lỗ thông lớn và không được can thiệp:
-   * Tình trạng tăng lưu lượng máu lên phổi kéo dài sẽ gây phản xạ co thắt và xơ hóa mạch máu phổi `→` **Tăng áp lực động mạch phổi cố định**.
-   * Lúc này thất phải phải co bóp chống lại áp lực rất cao ở động mạch phổi `→` Thất phải dãn, phì đại `→` **Dẫn đến suy tim phải**.
-   * Khi áp lực thất phải vượt quá thất trái, luồng thông sẽ bị đảo ngược (Phải `→` Trái) gây ra **Hội chứng Eisenmenger** (bệnh nhân bị tím tái).
-
+   - Tình trạng tăng lưu lượng máu lên phổi kéo dài sẽ gây phản xạ co thắt và xơ hóa mạch máu phổi `→` **Tăng áp lực động mạch phổi cố định**.
+   - Lúc này thất phải phải co bóp chống lại áp lực rất cao ở động mạch phổi `→` Thất phải dãn, phì đại `→` **Dẫn đến suy tim phải**.
+   - Khi áp lực thất phải vượt quá thất trái, luồng thông sẽ bị đảo ngược (Phải `→` Trái) gây ra **Hội chứng Eisenmenger** (bệnh nhân bị tím tái).
 
 | Bệnh lý bẩm sinh | Buồng tim bị quá tải thể tích ban đầu | Dạng suy tim xuất hiện trước |
 | :— | :— | :— |
@@ -185,47 +186,47 @@ Diễn tiến theo sinh lý bệnh
 
 Nhóm nguyên nhân cấp tính nguy hiểm nhất cần được tầm soát ngay lập tức khi tiếp cận bệnh nhân suy tim cấp:
 
-1. **C** (*Coronary syndrome*) – **Hội chứng vành cấp:** Nhồi máu cơ tim cấp hoặc thiếu máu cục bộ cơ tim tiến triển.
-2. **H** (*Hypertension*) – **Cơn tăng huyết áp:** Tăng huyết áp cấp bách/nguy kịch làm tăng đột ngột gánh nặng hậu tải.
-3. **A** (*Arrhythmia*) – **Rối loạn nhịp:** Như rung nhĩ đáp ứng thất nhanh, nhịp nhanh thất.
-4. **M** (*Mechanical causes*) – **Biến chứng cơ học:** Đứt dây chằng/cơ nhú gây hở van 2 lá cấp, vỡ vách liên thất...
-5. **P** (*Pulmonary embolism*) – **Thuyên tắc phổi:** Tắc nghẽn mạch máu phổi cấp tính.
-6. **I** (*Infection*) – **Nhiễm trùng:** Đặc biệt là nhiễm trùng đường hô hấp (viêm phổi, viêm phế quản cấp) hoặc nhiễm trùng huyết.
-7. **T** (*Tamponade*) – **Chèn ép tim cấp:** Tích tụ dịch màng ngoài tim gây cản trở đổ đầy thất.
+1. **C** (_Coronary syndrome_) – **Hội chứng vành cấp:** Nhồi máu cơ tim cấp hoặc thiếu máu cục bộ cơ tim tiến triển.
+2. **H** (_Hypertension_) – **Cơn tăng huyết áp:** Tăng huyết áp cấp bách/nguy kịch làm tăng đột ngột gánh nặng hậu tải.
+3. **A** (_Arrhythmia_) – **Rối loạn nhịp:** Như rung nhĩ đáp ứng thất nhanh, nhịp nhanh thất.
+4. **M** (_Mechanical causes_) – **Biến chứng cơ học:** Đứt dây chằng/cơ nhú gây hở van 2 lá cấp, vỡ vách liên thất...
+5. **P** (_Pulmonary embolism_) – **Thuyên tắc phổi:** Tắc nghẽn mạch máu phổi cấp tính.
+6. **I** (_Infection_) – **Nhiễm trùng:** Đặc biệt là nhiễm trùng đường hô hấp (viêm phổi, viêm phế quản cấp) hoặc nhiễm trùng huyết.
+7. **T** (_Tamponade_) – **Chèn ép tim cấp:** Tích tụ dịch màng ngoài tim gây cản trở đổ đầy thất.
 
 Khác:
 
-* **Không tuân thủ điều trị:** Tự ý ngưng hoặc giảm liều thuốc điều trị suy tim (đặc biệt là thuốc lợi tiểu, hạ áp), hoặc chế độ ăn không tuân thủ (ăn mặn, uống quá nhiều nước).
-* **Do thuốc hoặc độc chất:** Sử dụng các thuốc gây giữ muối/nước hoặc độc cho cơ tim (như NSAIDs, Corticoid, chống ung thư, hoặc lạm dụng rượu/bia).
+- **Không tuân thủ điều trị:** Tự ý ngưng hoặc giảm liều thuốc điều trị suy tim (đặc biệt là thuốc lợi tiểu, hạ áp), hoặc chế độ ăn không tuân thủ (ăn mặn, uống quá nhiều nước).
+- **Do thuốc hoặc độc chất:** Sử dụng các thuốc gây giữ muối/nước hoặc độc cho cơ tim (như NSAIDs, Corticoid, chống ung thư, hoặc lạm dụng rượu/bia).
 
 Các rối loạn chuyển hóa & Bệnh lý hệ thống
-* **Thiếu máu cấp hoặc mạn tính nặng:** Làm giảm khả năng vận chuyển oxy, buộc tim phải tăng co bóp.
-* **Rối loạn chuyển hóa / Hormone:** Cường giáp (bão giáp), suy thận tiến triển gây quá tải thể tích, hoặc rối loạn điện giải.
-* **Biến cố thần kinh - tâm thần:** Biến cố mạch máu não (đột quỵ), căng thẳng/stress tâm lý nặng làm tăng hoạt hệ giao cảm.
-* **Sinh lý / Ngoại khoa:** Thai kỳ, hoặc các biến chứng trong và sau phẫu thuật.
-* **Bệnh lý viêm nhiễm tiến triển:** Thấp tim tiến triển hoặc tái phát.
+
+- **Thiếu máu cấp hoặc mạn tính nặng:** Làm giảm khả năng vận chuyển oxy, buộc tim phải tăng co bóp.
+- **Rối loạn chuyển hóa / Hormone:** Cường giáp (bão giáp), suy thận tiến triển gây quá tải thể tích, hoặc rối loạn điện giải.
+- **Biến cố thần kinh - tâm thần:** Biến cố mạch máu não (đột quỵ), căng thẳng/stress tâm lý nặng làm tăng hoạt hệ giao cảm.
+- **Sinh lý / Ngoại khoa:** Thai kỳ, hoặc các biến chứng trong và sau phẫu thuật.
+- **Bệnh lý viêm nhiễm tiến triển:** Thấp tim tiến triển hoặc tái phát.
 
 - Yếu tố thúc đẩy vào đợt cấp mất bù:
 
-* Hội chứng mạch vành cấp: BN không đau ngực, nặng ngực, đau thượng vị. Khám không ghi nhận gallop T3, không ran phổi, JVP (-), chi ấm. Tiền căn không ghi nhận rối loạn lipid máu
+- Hội chứng mạch vành cấp: BN không đau ngực, nặng ngực, đau thượng vị. Khám không ghi nhận gallop T3, không ran phổi, JVP (-), chi ấm. Tiền căn không ghi nhận rối loạn lipid máu
   => Ít nghĩ nhưng chưa loại trừ. Đề nghị CLS: ECG, NT-proBNP, bilan lipid máu, CTM, siêu âm tim, X-quang ngực thẳng
 
-* Tăng huyết áp: Ghi nhận huyết áp 200/130mmHg (đã biện luận)
+- Tăng huyết áp: Ghi nhận huyết áp 200/130mmHg (đã biện luận)
   => Nghĩ nhiều
 
-* Rối loạn nhịp: BN không than phiền hồi hộp, khó thở. Khám không ghi nhận tiếng tim bất thường, ngoại tâm thu.
+- Rối loạn nhịp: BN không than phiền hồi hộp, khó thở. Khám không ghi nhận tiếng tim bất thường, ngoại tâm thu.
   => Không nghĩ.
 
-* Biến chứng cơ học: Siêu âm tuyến dưới không ghi nhận bất thường van tim, cơ nhú tim
+- Biến chứng cơ học: Siêu âm tuyến dưới không ghi nhận bất thường van tim, cơ nhú tim
   => Ít nghĩ. Đề nghị CLS: Siêu âm tim
 
-* Thuyên tắc phổi: BN không đau ngực, không khó thở đột ngột, không ho ra máu. Ghi nhận nhịp tim 120 lần/phút >100 lần/phút. Tiền căn không ghi nhận bất động, phẫu thuật, chấn thương trong 4 tuần gần đây, không có huyết khối tĩnh mạch sâu trước đây
+- Thuyên tắc phổi: BN không đau ngực, không khó thở đột ngột, không ho ra máu. Ghi nhận nhịp tim 120 lần/phút >100 lần/phút. Tiền căn không ghi nhận bất động, phẫu thuật, chấn thương trong 4 tuần gần đây, không có huyết khối tĩnh mạch sâu trước đây
   => Wells’ score = 1,5 điểm
   => Ít nghĩ nhưng không loại trừ. Đề nghị CLS: D-dimer
 
-* Chèn ép tim cấp: Không ghi nhận tam chứng Beck (BN không tụt huyết áp, JVP (-), khám không ghi nhận tiếng tim mờ)
+- Chèn ép tim cấp: Không ghi nhận tam chứng Beck (BN không tụt huyết áp, JVP (-), khám không ghi nhận tiếng tim mờ)
   => Ít nghĩ nhưng không loại trừ. Đề nghị CLS: Siêu âm tim
-
 
 ## Bệnh cảnh đặc biệt
 
@@ -248,7 +249,6 @@ Các rối loạn chuyển hóa & Bệnh lý hệ thống
 | **Thực thể phát hiện**   | Gallop T3, Phản hồi gan-TMC (+), Ran nổ 2 đáy phổi, Phù chân.                             | Triệu chứng dễ bị quy kết nhầm cho bệnh nền (phổi, thận, xơ gan).              |
 | **Bệnh nhân thường gặp** | Trưởng thành, có YTNC tim mạch rõ (THA, mạch vành).                                       | Đái tháo đường, Người cao tuổi, COPD/Hen, Suy thận mạn, Thai kỳ.               |
 | **Nguyên nhân hàng đầu** | Bệnh động mạch vành, Tăng huyết áp, Bệnh van tim.                                         | Bệnh vành thầm lặng, Bệnh cơ tim ĐTĐ, HFpEF, Cor Pulmonale.                    |
-
 
 ### Bệnh nhân Đái tháo đường ("Suy tim & Thiếu máu cơ tim Thầm lặng")
 

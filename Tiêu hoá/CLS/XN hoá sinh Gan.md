@@ -59,21 +59,21 @@ Thời gian prothrombin
 - Yếu tố X
 - Yếu tố XII
 - Yếu tố XIII
-- Thiếu hụt yếu tố đông máu thường xảy ra trong diễn tiến của bệnh gan. 
+- Thiếu hụt yếu tố đông máu thường xảy ra trong diễn tiến của bệnh gan.
 - Các protein này có thể được đo riêng rẽ hoặc đo gián tiếp bằng các thông số tổng quát về khả năng đông máu như thời gian prothrombin.
-- Kéo dài: không đặc hiệu cho bệnh gan, còn gặp ở bệnh rối loạn đông máu, xuất huyết, hoặc do thuốc. 
+- Kéo dài: không đặc hiệu cho bệnh gan, còn gặp ở bệnh rối loạn đông máu, xuất huyết, hoặc do thuốc.
 - Loại trừ các nguyên nhân trên  thời gian prothrombin kéo dài
   thường do:
 - Thiếu vitamin K
 - ăn thiếu, vàng da tắc mật kéo dài, kém hấp thu / ruột, kháng sinh làm thay đổi khuẩn chí
-  ruột. 
+  ruột.
    thời gian prothrombin thường trở về bình thường trong vòng 24 giờ sau một liều tiêm vitamin K  có ích khi đánh giá bệnh nhân vàng da.
 - Sử dụng vitamin K kém do bệnh nhu mô gan tiến triển: bổ sung vitamin K thường không hiệu quả
 
-Chỉ số bình thường hoá quốc tế (INR) 
+Chỉ số bình thường hoá quốc tế (INR)
 
 - Thường được dùng để thể hiện mức độ kháng đông ở bệnh nhân sử
-  dụng warfarin. 
+  dụng warfarin.
 - Có thể không biểu thị tốt nhất cho tình trạng rối loạn đông máu ở bệnh nhân suy gan, đặc biệt nếu không dùng cùng một thuốc thử thromboplastin khi đo.
 
 ## Nhóm Xét nghiệm Phản ánh Tình trạng Ứ Mật / Tắc Mật**
