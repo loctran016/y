@@ -84,7 +84,3 @@ Bộ dụng cụ phẫu thuật nội soi bao gồm [cite: 79, 80, 81, 287, 288,
 * **Hệ thống Camera & Ống soi (Laparoscope):** Dẫn truyền hình ảnh từ trong ổ bụng ra màn hình [cite: 79, 80, 287, 288].
 * **Móc đốt điện đơn cực / Đốt lưỡng cực (Monopolar / Bipolar):** Dùng cắt phẫu tích và cầm máu bằng nhiệt điện [cite: 81, 289].
 * **Kẹp phẫu tích nội soi, kẹp ruột, kéo nội soi, ống hút - rửa:** Thiết kế dạng ống dài thao tác qua trocar [cite: 81, 289].
-
----
-
-💡 **Gợi ý tiếp theo:** Bạn có muốn tìm hiểu quy trình kỹ thuật chi tiết của từng bước (như các bước rửa tay tay theo chuẩn 6 bước, kỹ thuật buộc chỉ bằng tay/bằng kẹp) hoặc làm bộ câu hỏi trắc nghiệm ôn tập phần kỹ năng phẫu thuật cơ bản này không?
