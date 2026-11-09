@@ -1,7 +1,3 @@
-# RỬA TAY, MẶC ÁO, MANG GĂNG VÀ NHẬN DIỆN MỘT SỐ DỤNG CỤ PHẪU THUẬT CƠ BẢN
-
----
-
 ## 1. CHUẨN BỊ TRƯỚC KHI VÀO PHÒNG MỔ
 
 ### 1.1. Trang phục phòng mổ (Scrubs), nón và khẩu trang
