@@ -52,7 +52,7 @@ _Dịch màng phổi là **DỊCH TIẾT** khi thỏa mãn **đủ ít nhất 1 
 
 _(Nếu không thỏa mãn bất kỳ tiêu chuẩn nào `→` Kết luận là **DỊCH THẤM**)._
 
-##### Đồ hình Định hướng Nguyên nhân:
+##### Đồ hình Định hướng Nguyên nhân
 
 - **Nếu là DỊCH THẤM:** Thường do bệnh lý toàn thân gây biến đổi áp lực thủy tĩnh/keo:
   - **Suy tim sung huyết**, **Xơ gan báng bụng**, **Hội chứng thận hư**, Suy giáp.

@@ -3,17 +3,20 @@
 ### Tế bào kẽ Cajal (ICC)
 
 Phân loại ICC:
+
 - ICC-MY (Myenteric -  myo: cơ + entro: ruột + ic: thuộc về)
-	- Tại đám rối cơ ruột 
-	- Tạo nhịp sóng chậm Pacemaker chính
+  - Tại đám rối cơ ruột
+  - Tạo nhịp sóng chậm Pacemaker chính
 - ICC-IM (Intramuscular) Trong lớp cơ
-	- Truyền tín hiệu thần kinh 
-	- Cơ chế tạo nhịp
+  - Truyền tín hiệu thần kinh
+  - Cơ chế tạo nhịp
 Hoạt hóa kênh Ca²⁺ (L-type, T-type) Giải phóng Ca²⁺ từ lưới nội chất (ER) Depolarization → Sóng chậm
 Gap junctions → Lan truyền
+
 ## Thực quản
 
 ### Achalasia – Co thắt tâm vị
+
 Sinh lý bệnh:
 •   Mất neuron ức chế (NO/VIP) tại cơ thắt dưới thực quản (LES).
 •   Thoái hóa neuron tại đám rối Auerbach.

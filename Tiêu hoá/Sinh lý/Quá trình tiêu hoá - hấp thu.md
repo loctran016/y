@@ -10,7 +10,7 @@ Bảng dưới đây hệ thống hóa chi tiết quá trình biến đổi hóa
 
 # 2\. Phân Tích Cơ Chế Tiêu Hóa và Hấp Thu Dưỡng Chất Đa Lượng
 
-##1. Carbohydrate: Sự Khác Biệt Giữa Tinh Bột, Galactose và Fructose
+## Carbohydrate: Sự Khác Biệt Giữa Tinh Bột, Galactose và Fructose
 
 Carbohydrate trong khẩu phần ăn chủ yếu gồm Tinh bột (Polysaccharide), Sucrose và Lactose (Disaccharide). Tất cả đều bắt buộc phải được thủy phân thành các Monosaccharide đơn giản (Glucose, Galactose, Fructose) trước khi ruột non có thể hấp thu vào máu.
 
@@ -26,7 +26,7 @@ Carbohydrate trong khẩu phần ăn chủ yếu gồm Tinh bột (Polysaccharid
 **• Fructose:** Có cơ chế vận chuyển hoàn toàn khác biệt. Fructose không phụ thuộc vào Na+ hay năng lượng ATP, mà được vận chuyển qua màng đỉnh bằng cơ chế khuếch tán hỗ trợ thông qua kênh chuyên biệt **GLUT5**.
 **• Màng đáy bên (Vào máu):** Cả 3 loại monosaccharide (Glucose, Galactose, Fructose) sau khi tích tụ trong tế bào biểu mô sẽ cùng thoát ra khoảng kẽ màng đáy bên qua kênh khuếch tán hỗ trợ **GLUT2** để đi vào mao mạch tĩnh mạch cửa về gan.
 
-##2. Protein: Thủy Phân Đa Tầng và Hệ Thống Kênh Vận Chuyển PepT1
+## Protein: Thủy Phân Đa Tầng và Hệ Thống Kênh Vận Chuyển PepT1
 
 Protein ngoại sinh (từ thức ăn) và nội sinh (từ dịch tiết, tế bào niêm mạc bong) được tiêu hóa qua 3 giai đoạn enzym nối tiếp nhau:
 
@@ -38,7 +38,7 @@ Protein ngoại sinh (từ thức ăn) và nội sinh (từ dịch tiết, tế 
 **\- Acid amin tự do:** Vận chuyển tích cực thứ phát đồng vận với Na+ qua màng đỉnh.
 **\- Dipeptide & Tripeptide:** Được vận chuyển tích cực qua màng đỉnh bằng kênh **PepT1** đồng vận với H+ (lực kéo H+ do kênh trao đổi NHE Na+/H+ tạo ra). Vào trong tế bào chất, các peptidases nội bào sẽ phân giải Di/Tripeptide thành acid amin tự do trước khi khuếch tán qua màng đáy bên vào máu.
 
-##3. Lipid: Quá Trình Nhũ Tương Hóa và Sự Tạo Hạt Micell
+## Lipid: Quá Trình Nhũ Tương Hóa và Sự Tạo Hạt Micell
 
 Lipid không tan trong nước, do đó quá trình tiêu hóa và hấp thu mỡ đòi hỏi sự hỗ trợ bắt buộc của **Muối mật** và **Lecithin** từ dịch mật do gan tiết ra.
 
@@ -61,13 +61,13 @@ Mỗi ngày hệ tiêu hóa tiếp nhận khoảng 9 lít dịch (2 lít từ ă
 
 # 4\. Quá Trình Hấp Thu Vi Lượng và Các Vitamin
 
-##1. Các Khoáng Chất Vi Lượng (Ca2+, Fe2+, Mg2+)
+## Các Khoáng Chất Vi Lượng (Ca2+, Fe2+, Mg2+)
 
 **• Canxi (Ca2+):** Hấp thu chủ động tại **Tá tràng và Hỗng tràng**. Quá trình này phụ thuộc hoàn toàn vào dạng hoạt động của Vitamin D (**1,25-(OH)2-D3**) và hormone PTH. Vitamin D kích thích tế bào niêm mạc tổng hợp protein gắn Canxi (Calbindin) và bơm Ca2+-ATPase để đưa Ca2+ vào máu. Khi nhu cầu cơ thể tăng (trẻ em, thai kỳ), PTH tăng tiết làm tăng tổng hợp 1,25-(OH)2-D3 tại thận, giúp tăng hấp thu Ca2+ ở ruột.
 **• Sắt (Fe2+):** Hấp thu chủ yếu tại **Tá tràng và đoạn đầu Hỗng tràng**. Sắt trong thức ăn tồn tại ở dạng Fe3+ (sắt vô cơ) hoặc Heme-Sắt (thịt). Vitamin C hỗ trợ khử Fe3+ thành Fe2+ để dễ tan. Fe2+ được vận chuyển qua màng đỉnh bằng kênh **DMT1 (Divalent Metal Transporter 1)**. Vào tế bào, sắt gắn với Apoferritin tạo thành **Ferritin** dự trữ. Khi cơ thể cần, sắt qua màng đáy bên nhờ Ferroportin và gắn vào **Transferrin** trong máu để vận chuyển đến tủy xương.
 **• Magie (Mg2+):** Được hấp thu dọc theo toàn bộ ruột non qua cả hai con đường: khuếch tán thụ động qua khoảng kẽ tế bào (khi nồng độ cao) và vận chuyển tích cực qua kênh TRPM6/7 màng đỉnh. Sử dụng thuốc PPI kéo dài làm suy giảm cơ chế vận chuyển tích cực này, dẫn đến hạ Mg2+ máu gây hội chứng Tetani và co giật.
 
-##2. Quá Trình Hấp Thu Các Vitamin
+## Quá Trình Hấp Thu Các Vitamin
 
 - **Vitamin tan trong dầu (A, D, E, K):** Được hấp thu hoàn toàn tương tự như Lipid. Chúng bắt buộc phải hòa tan vào hạt Micell do muối mật tạo ra, khuếch tán qua bờ bàn chải vào tế bào ruột, sau đó được đóng gói vào hạt Chylomicron để theo đường bạch huyết đi vào hệ tuần hoàn. Bất kỳ bệnh lý nào làm giảm tiết mật hoặc dịch tụy (tắc mật, xơ gan, viêm tụy mạn) đều gây thiếu hụt các vitamin này.
 - **Vitamin tan trong nước (Họ B, Vitamin C):** Hầu hết được hấp thu nhanh chóng ở đoạn đầu ruột non qua các kênh vận chuyển tích cực thứ phát đồng vận với Na+.

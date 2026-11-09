@@ -23,8 +23,8 @@ Lịch sử tự nhiên của bệnh là quá trình diễn tiến của một b
 - Ở các bệnh mạn tính không lây, thời kỳ này gọi là **thời kỳ tiềm ẩn**.
 - Dù chưa có biểu hiện ra ngoài, một số biến đổi sinh học ở giai đoạn này đã có thể phát hiện bằng các xét nghiệm sàng lọc.
 
-3. **Giai đoạn bệnh lâm sàng:** Đánh dấu bằng sự khởi phát của các triệu chứng và dấu hiệu bệnh lý. Diễn tiến lâm sàng có thể dao động từ mức độ nhẹ, trung bình đến rất nặng hoặc nguy kịch.
-4. **Giai đoạn hồi phục, tàn phế, hoặc chết:** Sau giai đoạn lâm sàng, bệnh diễn tiến đến kết cục: người bệnh khỏi hoàn toàn, mang thương tật/hạn chế chức năng (tàn phế) hoặc tử vong.
+1. **Giai đoạn bệnh lâm sàng:** Đánh dấu bằng sự khởi phát của các triệu chứng và dấu hiệu bệnh lý. Diễn tiến lâm sàng có thể dao động từ mức độ nhẹ, trung bình đến rất nặng hoặc nguy kịch.
+2. **Giai đoạn hồi phục, tàn phế, hoặc chết:** Sau giai đoạn lâm sàng, bệnh diễn tiến đến kết cục: người bệnh khỏi hoàn toàn, mang thương tật/hạn chế chức năng (tàn phế) hoặc tử vong.
 
 ### Các mức độ phòng ngừa
 

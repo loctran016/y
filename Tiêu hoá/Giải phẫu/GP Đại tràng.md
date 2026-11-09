@@ -3,11 +3,14 @@
 Ngoại trừ ruột thừa, trực tràng và hậu môn; đại tràng có các đặc điểm chung phân biệt với ruột non:
 
 1. Ba dải cơ dọc:
-	- Dải mạc treo kết tràng
-	- Dải mạc nối
-	- Dải tự do
-2. Túi phình kết tràng
-3. Các túi thừa mạc nối
+
+- Dải mạc treo kết tràng
+- Dải mạc nối
+- Dải tự do
+
+1. Túi phình kết tràng
+2. Các túi thừa mạc nối
+
 ## Manh tràng và ruột thừa
 
 Manh tràng

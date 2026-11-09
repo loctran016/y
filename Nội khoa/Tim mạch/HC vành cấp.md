@@ -87,7 +87,7 @@ Bắt buộc thực hiện ngay trong vòng **`10 phút`** đầu kể từ khi 
      - Chuyển đạo **`V2, V3`**: **`≥ 0,2 mV`** ở nam **`≥ 40 tuổi`**; **`≥ 0,25 mV`** ở nam **`< 40 tuổi`**; **`≥ 0,15 mV`** ở nữ.
      - Các chuyển đạo khác: **`≥ 0,1 mV`** (**`≥ 1 mm`**).
    - Block nhánh trái mới xuất hiện (hoặc nghi ngờ mới xuất hiện).
-   - _Lưu ý:_ Nếu nghi ngờ nhồi máu thất phải hoặc thành sau, cần đo thêm các chuyển đạo **`V3R, V4R`** và **`V7, V8, V9`**.
+   - *Lưu ý:* Nếu nghi ngờ nhồi máu thất phải hoặc thành sau, cần đo thêm các chuyển đạo **`V3R, V4R`** và **`V7, V8, V9`**.
 2. **NSTEMI / UA (Không ST chênh lên):**
    - ST chênh xuống đi ngang hoặc đi xuống **`≥ 0,05 mV`** (**`≥ 0,5 mm`**) ở 2 chuyển đạo liên tiếp.
    - Sóng T đảo ngược sâu **`≥ 0,1 mV`**.
@@ -137,24 +137,24 @@ Dựa vào sự kết hợp giữa **Lâm sàng + ECG + Troponin**, phân biệt
 
 Bệnh sử giúp đến HCVC khi (đặc điểm của đau thắt ngực không ổn định):
 
-* Đau ngực lúc nghỉ tĩnh và kéo dài, thường là trên 20 phút.
-* Đau ngực mới xuất hiện, trước đây không có đau ngực mà đau ngực mới xuất hiện với cường độ dữ dội, ít nhất là CCS III.
-* Đau ngực tăng dần, trước đây được chẩn đoán là cơn đau thắt ngực ổn định, giờ cơn đau xuất hiện thường hơn, dài hơn, ngưỡng gắng sức xuất hiện thấp hơn (ít nhất là tăng 1 độ theo phân độ CCS hoặc ít nhất là CCS III).
- 
+- Đau ngực lúc nghỉ tĩnh và kéo dài, thường là trên 20 phút.
+- Đau ngực mới xuất hiện, trước đây không có đau ngực mà đau ngực mới xuất hiện với cường độ dữ dội, ít nhất là CCS III.
+- Đau ngực tăng dần, trước đây được chẩn đoán là cơn đau thắt ngực ổn định, giờ cơn đau xuất hiện thường hơn, dài hơn, ngưỡng gắng sức xuất hiện thấp hơn (ít nhất là tăng 1 độ theo phân độ CCS hoặc ít nhất là CCS III).
+
 TCTT thường ít trong khi TCCN thường rất phong phú. Khám thực thể chủ yếu để loại trừ các chẩn đoán khác và tìm các biến chứng cơ học của NMCT:
 
-* Rối loạn nhịp
-* T3: có nhồi máu rộng và tổn thương cơ tim lan tỏa
+- Rối loạn nhịp
+- T3: có nhồi máu rộng và tổn thương cơ tim lan tỏa
 Xác định khi ST ↗ thỏa tiêu chuẩn ở ít nhất hai
-* Âm thổi tâm thu: hở van hai lá cấp / dãn thất trái / thông liên thất cấp chuyển đạo liên tiếp, có ST ↘ ở chuyển đạo soi
-* Tiếng cọ màng ngoài tim: chèn ép tim cấp
+- Âm thổi tâm thu: hở van hai lá cấp / dãn thất trái / thông liên thất cấp chuyển đạo liên tiếp, có ST ↘ ở chuyển đạo soi
+- Tiếng cọ màng ngoài tim: chèn ép tim cấp
 
 Đặc điểm CLS: (chỉ với LS không thể phân biệt đau thắt ngực k ổn định và NMCT)
 
-* ECG: ST chênh lên, ST chênh xuống, sóng T thiếu máu cơ tim, Q hoại tử, block nhánh trái, lớn thất…
-* Men tim: Troponin I, T hoặc CK-MB tăng thỏa tiêu chuẩn chẩn đoán NMCT
-* Siêu âm tim: rối loạn vận động vùng, hở van 2 lá, thủng vách liên thất…
-* Chụp mạch vành và buồng thất trái có cản quang: xác định chính xác ĐMV bị tắc
+- ECG: ST chênh lên, ST chênh xuống, sóng T thiếu máu cơ tim, Q hoại tử, block nhánh trái, lớn thất…
+- Men tim: Troponin I, T hoặc CK-MB tăng thỏa tiêu chuẩn chẩn đoán NMCT
+- Siêu âm tim: rối loạn vận động vùng, hở van 2 lá, thủng vách liên thất…
+- Chụp mạch vành và buồng thất trái có cản quang: xác định chính xác ĐMV bị tắc
 
 ### 3 thể lâm sàng HCVC
 
@@ -183,14 +183,14 @@ Sử dụng các bảng điểm chuẩn hóa (TIMI, GRACE) để lựa chọn ch
 
 Biến chứng cấp:
 
-* Rối loạn nhịp: nhịp nhanh, nhịp chậm, ngoại tâm thu, rối loạn dẫn truyền, rung nhĩ, rung thất…
-* Suy bơm: phù phổi cấp, suy tim cấp, choáng (SHH, tụt HA)…
-* Cơ học: thủng vách liên thất, vỡ thành tự do, hở 2 lá cấp,  chèn ép tim cấp
-* Viêm màng ngoài tim, huyết khối, thuyên tắc, NMCT tái phát
+- Rối loạn nhịp: nhịp nhanh, nhịp chậm, ngoại tâm thu, rối loạn dẫn truyền, rung nhĩ, rung thất…
+- Suy bơm: phù phổi cấp, suy tim cấp, choáng (SHH, tụt HA)…
+- Cơ học: thủng vách liên thất, vỡ thành tự do, hở 2 lá cấp,  chèn ép tim cấp
+- Viêm màng ngoài tim, huyết khối, thuyên tắc, NMCT tái phát
 
 Biến chứng muộn:
 
-* Phình vách thất: ST ↗ sau 1 tháng NMCT
-* RL nhịp nhanh thất, EF giảm
-* Hội chứng Dressler: BC tăng, tràn dịch màng ngoài tim
-* HC vai – bàn tay: viêm kèm xơ hóa quanh khớp bên T
+- Phình vách thất: ST ↗ sau 1 tháng NMCT
+- RL nhịp nhanh thất, EF giảm
+- Hội chứng Dressler: BC tăng, tràn dịch màng ngoài tim
+- HC vai – bàn tay: viêm kèm xơ hóa quanh khớp bên T

@@ -363,19 +363,19 @@ L
 - Huyết áp BN ghi nhận 200/130mmHg > 180mmHg
 - Đánh giá tổn thương trên cơ quan đích:
 
-* Tim mạch: BN khó thở, thở hụt hơi kiểu “đói khí” cả hai thì, tăng khi nằm đầu thấp, khi gắng sức, giảm khi ngồi, kèm khạc đàm bọt hồng ở tuyến dưới. Tiền căn ghi nhận nhiều cơn khó thở kịch phát về đêm trong vòng 1 năm gần đây. Khám tại cấp cứu BVCR có ghi nhận ít ran ẩm hai đáy phổi
+- Tim mạch: BN khó thở, thở hụt hơi kiểu “đói khí” cả hai thì, tăng khi nằm đầu thấp, khi gắng sức, giảm khi ngồi, kèm khạc đàm bọt hồng ở tuyến dưới. Tiền căn ghi nhận nhiều cơn khó thở kịch phát về đêm trong vòng 1 năm gần đây. Khám tại cấp cứu BVCR có ghi nhận ít ran ẩm hai đáy phổi
   => Nghĩ nhiều có biến chứng mất bù cấp suy tim mạn và/hoặc phù phổi cấp. Đề nghị CLS: ECG, NT-proBNP, siêu âm tim, X-quang ngực thẳng đứng
 
-* Não: BN tỉnh, tiếp xúc tốt, không đau đầu, choáng váng, chóng mặt, liệt người, nói đớ. Khám không ghi nhận dấu thần kinh định vị
+- Não: BN tỉnh, tiếp xúc tốt, không đau đầu, choáng váng, chóng mặt, liệt người, nói đớ. Khám không ghi nhận dấu thần kinh định vị
   => Ít nghĩ nhưng không loại trừ. Đề nghị CLS: CT sọ não, MRI sọ não
 
-* Thận: BN tiểu vàng trong lượng #1500mL/24h trong suốt quá trình bệnh, không phù. Tuy nhiên, tuyến trước ghi nhận eGFR = 21, đã được chẩn đoán bệnh thận mạn giai đoạn 4
+- Thận: BN tiểu vàng trong lượng #1500mL/24h trong suốt quá trình bệnh, không phù. Tuy nhiên, tuyến trước ghi nhận eGFR = 21, đã được chẩn đoán bệnh thận mạn giai đoạn 4
   => Nghĩ nhiều. Đề nghị CLS: TPTNT, BUN, creatinine huyết thanh, eGFR
 
-* Mắt: BN không nhìn mờ
+- Mắt: BN không nhìn mờ
   => Ít nghĩ nhưng chưa loại trừ. Đề nghị CLS: Soi đáy mắt
 
-* Mạch máu lớn: BN không đau ngực, đau buốt, tê bì, yếu liệt các chi. Tiền căn không ghi nhận bệnh mô liên kết (hội chứng Marfan, hội chứng Ehlers-Danlos). Khám không ghi nhận huyết áp chênh lệch giữa hai tay, không mất mạch ngoại biên.
+- Mạch máu lớn: BN không đau ngực, đau buốt, tê bì, yếu liệt các chi. Tiền căn không ghi nhận bệnh mô liên kết (hội chứng Marfan, hội chứng Ehlers-Danlos). Khám không ghi nhận huyết áp chênh lệch giữa hai tay, không mất mạch ngoại biên.
   => Không nghĩ.
 
 ### Yếu tố thúc đẩy
@@ -400,16 +400,16 @@ Những nguyên nhân thứ phát thường gặp:
 
 - Bệnh thận không do đái tháo đường:
 
-* Bệnh cầu thận (do hậu nhiễm, tự miễn, thuốc, ung thư, nguyên phát): BN không ghi nhận sốt trong thời gian gần đây, không phát ban. Tiền căn không ghi nhận bệnh tự miễn, dị ứng, sử dụng thuốc, ung thư. Ghi nhận eGFR = 21 và tuyến trước chẩn đoán bệnh thận mạn giai đoạn 4, tuy nhiên, không rõ chứng cứ giảm độ lọc cầu thận >3 tháng nên chưa loại trừ tổn thương thận cấp
+- Bệnh cầu thận (do hậu nhiễm, tự miễn, thuốc, ung thư, nguyên phát): BN không ghi nhận sốt trong thời gian gần đây, không phát ban. Tiền căn không ghi nhận bệnh tự miễn, dị ứng, sử dụng thuốc, ung thư. Ghi nhận eGFR = 21 và tuyến trước chẩn đoán bệnh thận mạn giai đoạn 4, tuy nhiên, không rõ chứng cứ giảm độ lọc cầu thận >3 tháng nên chưa loại trừ tổn thương thận cấp
   => Nghĩ nhiều. Đề nghị CLS: Siêu âm thận, động học creatinin huyết thanh, sinh thiết thận
-* Bệnh ống thận mô kẽ (NTT, sỏi niệu, bệnh thận tắc nghẽn, bệnh thận do ngộ độc thuốc): Tiền căn ghi nhận mổ sỏi niệu quản 2 lần ở niệu quản phải, không rõ huyết áp lúc được chẩn đoán sỏi niệu quản hay huyết áp sau mổ
+- Bệnh ống thận mô kẽ (NTT, sỏi niệu, bệnh thận tắc nghẽn, bệnh thận do ngộ độc thuốc): Tiền căn ghi nhận mổ sỏi niệu quản 2 lần ở niệu quản phải, không rõ huyết áp lúc được chẩn đoán sỏi niệu quản hay huyết áp sau mổ
   => Chưa loại trừ bệnh ống thận mô kẽ do sỏi niệu
-* Bệnh nang thận (thận đa nang): Không ghi nhận tiền căn gia đình có bệnh thận đa nang. Khám không ghi nhận thận to (thận không sờ chạm, bập bềnh thận (-))
+- Bệnh nang thận (thận đa nang): Không ghi nhận tiền căn gia đình có bệnh thận đa nang. Khám không ghi nhận thận to (thận không sờ chạm, bập bềnh thận (-))
   => Không nghĩ.
 
 - Bệnh mạch máu thận:
 
-* Hẹp ĐM thận do xơ vữa: BN 36 tuổi <40 tuổi, không ghi nhận tiền căn rối loạn lipid máu, xơ vữa động mạch. Khám không ghi nhận âm thổi vùng bụng
+- Hẹp ĐM thận do xơ vữa: BN 36 tuổi <40 tuổi, không ghi nhận tiền căn rối loạn lipid máu, xơ vữa động mạch. Khám không ghi nhận âm thổi vùng bụng
   => Ít nghĩ nhưng không loại trừ. Đề nghị CLS: Siêu âm Doppler thận và động mạch thận
 
 - Bệnh thận ghép: BN không có tiền căn ghép thận
@@ -453,7 +453,7 @@ Những nguyên nhân thứ phát thường gặp:
 - Thận: tiểu bọt, tiểu đêm, tiền căn bệnh thận mạn.
 - Mạch máu ngoại biên: đau cách hồi.
 
-5. Tim:
+1. Tim:
 
 - Đi lại, làm việc ở nhà có thấy thở không? Trước kia có hay
   không?
@@ -462,12 +462,12 @@ Những nguyên nhân thứ phát thường gặp:
 - Tiền căn suy tim.
 - Tiền căn rung nhĩ.
 
-6. Động mạch vành:
+1. Động mạch vành:
 
 - Có đau ngực.
 - Tiền căn NMCT, TMCTCB.
 
-7. Não:
+1. Não:
 
 - Có bị yếu liệt ở đâu không.
 - Có hay bị chóng mặt không?
@@ -475,17 +475,17 @@ Những nguyên nhân thứ phát thường gặp:
 - Tiền căn đột quỵ, xuất huyết não, cơn thoáng thiếu máu
   não.
 
-8. Thận:
+1. Thận:
 
 - Tiểu bọt.
 - Tiểu đêm.
 - Bệnh thận mạn.
 
-9. Mắt:
+1. Mắt:
 
 - Nhìn mờ.
 
-10. Mạch máu ngoại biên:
+ 1. Mạch máu ngoại biên:
 
 - Đau cách hồi: Đi bộ 100 – 200 m có bị đau chân không ạ?
   Ngồi nghĩ có đỡ không ạ?

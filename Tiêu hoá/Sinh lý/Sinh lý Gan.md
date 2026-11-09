@@ -146,7 +146,7 @@ Chuyển hóa protein tại gan là chức năng sinh mạng, bao gồm các qu�
 - Giảm cung cấp acid amin từ bữa ăn
 - Áp lực tăng lên trong xoang gan, rỉ dịch thấm (nước và Alb) qua bao gan - chủ yếu protein; dịch chủ yếu mất qua ống TH (do tăng áp cửa)
 
-2. Rối loạn đông máu
+1. Rối loạn đông máu
 
 - Giảm tổng hợp yếu tố đông máu: nhiều nhất là prothrombin (II)/suy dinh dưỡng, giảm hấp thu vitamin K
 - Yếu tố VII sẽ giảm đầu tiên do thời gian bán huỷ rất ngắn

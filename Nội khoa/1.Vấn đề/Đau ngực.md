@@ -24,8 +24,8 @@ Tăng huyết áp, Đái tháo đường, Hút thuốc lá, Rối loạn lipid m
 
 Đau nhói, sắc, như **”dao đâm”**, thường khu trú một bên ngực.
 
--   Đau tăng rõ rệt khi hít thở sâu, ho, hắt hơi hoặc cử động lồng ngực.
--   Đau giảm khi nín thở, nằm nghiêng ép sang bên ngực bị tổn thương hoặc dùng tay đè nén cố định thành ngực.
+- Đau tăng rõ rệt khi hít thở sâu, ho, hắt hơi hoặc cử động lồng ngực.
+- Đau giảm khi nín thở, nằm nghiêng ép sang bên ngực bị tổn thương hoặc dùng tay đè nén cố định thành ngực.
 
 Khám thực thể:
 
@@ -82,6 +82,7 @@ Nguyên nhân:
 - **Khác:** Co thắt mạch vành (Prinzmetal), Bệnh vi mạch vành.
 
 Chẩn đoán:
+
 - Cơn đau thắt ngực ổn định, CCS (I/II/III), YTNC tim mạch.
 - Hội chứng vành cấp giờ thứ, biến chứng (rối loạn nhịp, suy tim cấp, thủng van), ytnc tim mạch
 
@@ -89,7 +90,7 @@ Chẩn đoán:
 
 ### Bóc tách động mạch chủ (Đau xé rách)
 
-Đau khởi phát **đột ngột, dữ dội đạt đỉnh ngay từ giây đầu tiên**; kiểu đau *”như xé”, “như đâm”*, lan từ trước ngực xuyên ra sau lưng giữa 2 xương bả vai hoặc lan xuống bụng.
+Đau khởi phát **đột ngột, dữ dội đạt đỉnh ngay từ giây đầu tiên**; kiểu đau _”như xé”, “như đâm”_, lan từ trước ngực xuyên ra sau lưng giữa 2 xương bả vai hoặc lan xuống bụng.
 
 Khám có thể thấy:
 
@@ -111,15 +112,17 @@ Triệu chứng kèm theo: **Vã mồ hôi hột, khó thở, mệt lả, hồi 
 
 Tiền căn nguy cơ cao: Nam `> 45` tuổi, Nữ `> 55` tuổi, **hút thuốc lá nhiều (gói-năm), Tăng huyết áp, Đái tháo đường, Rối loạn lipid máu, béo phì**.
 
-**Khám thực thể:** 
-- Bệnh nhân bứt rứt, lo âu, mặt tái nhợt, vã mồ hôi, chi lạnh. 
-- Nghe tim: Có thể nghe tiếng **T3, T4 Gallop**, **Âm thổi tâm thu mới xuất hiện tại mỏm** (do hở van 2 lá cấp do đứt/suy cơ nhú) hoặc tiếng cọ màng ngoài tim thứ phát. 
+**Khám thực thể:**
+
+- Bệnh nhân bứt rứt, lo âu, mặt tái nhợt, vã mồ hôi, chi lạnh.
+- Nghe tim: Có thể nghe tiếng **T3, T4 Gallop**, **Âm thổi tâm thu mới xuất hiện tại mỏm** (do hở van 2 lá cấp do đứt/suy cơ nhú) hoặc tiếng cọ màng ngoài tim thứ phát.
 - Khám phổi: Có thể nghe **ran ẩm rải rác 2 đáy phổi** nếu có biến chứng suy tim cấp / sung huyết phổi.
 
 ### Thuyên tắc phổi cấp (Pulmonary Embolism - PE)
 
 Khởi phát **đột ngột** đau ngực **kiểu màng phổi** hoặc đau đè ép sau xương ức (nếu thuyên tắc nhánh lớn diện rộng).
- - Đi kèm **Khó thở đột ngột không giải thích được**, ho ra máu tươi, hồi hộp, ngất/tiền ngất.
+
+- Đi kèm **Khó thở đột ngột không giải thích được**, ho ra máu tươi, hồi hộp, ngất/tiền ngất.
 
  **Tiền căn / Yếu tố nguy cơ (Thang điểm Well):** Nằm bất động `> 3` ngày, mới phẫu thuật/chấn thương trong 4 tuần qua, ung thư tiến triển, dùng thuốc tránh thai/hormone, hoặc có tiền căn **Huyết khối tĩnh mạch sâu chi dưới (DVT)**.
     -   **Khám thực thể:**
@@ -138,7 +141,7 @@ Tụt huyết áp, tĩnh mạch cảnh nổi, tiếng tim mờ (tam chứng Beck
 
 #### Viêm màng ngoài tim cấp (Acute Pericarditis)
 
-Đau sau xương ức / ngực trái, đau nhói hoặc đau ngực kiểu màng phổi , lan lên *vai trái (bờ cơ thang)*. Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho, **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
+Đau sau xương ức / ngực trái, đau nhói hoặc đau ngực kiểu màng phổi , lan lên _vai trái (bờ cơ thang)_. Đau tăng lên khi nằm ngửa, khi hít sâu hoặc khi ho, **GIẢM RÕ RỆT khi ngồi dậy và cúi người ra phía trước**.
 
 **Tiền căn:** biến chứng sau NMCT hay có biểu hiện sốt, nhiễm siêu vi hô hấp/tiêu hóa vài tuần trước, hoặc có bệnh lý tự miễn (Lupus).
 
@@ -221,6 +224,7 @@ Khám lâm sàng có thể thấy:
 Đau nhói, khu trú nông tại một điểm trên thành ngực; **tăng khi cử động lồng ngực, xoay trở tư thế, ho hoặc hít thở**.
 
 Khám lâm sàng có thể thấy:
+
 - điểm đau khu trú (Nghiệm pháp ấn thành ngực / Khớp ức sườn): Dùng ngón tay **ấn trực tiếp vào vị trí sụn sườn, khớp ức sườn hay cơ liên sườn** `→` **Tái lập chính xác cơn đau ngực của bệnh nhân** (dấu hiệu điểm đau chói (+)).
 - Các nốt mụn nước, bóng nước mọc thành chùm dọc theo khoang thần kinh gian sườn (trong bệnh **Herpes Zoster / Giời bò**).
 

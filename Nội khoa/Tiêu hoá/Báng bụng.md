@@ -40,22 +40,25 @@ Hội chứng bán tắc ruột (không đi tiêu, không trung tiện, chướn
 ### Các nguyên nhân gây báng bụng
 
 Tại màng bụng:
+
 - Viêm phúc mạc nhiễm khuẩn nguyên phát.
 - Lao màng bụng.
 - K màng bụng.
 
 Ngoài màng bụng:
+
 - Suy tim (P)
 - HCTH
 - Suy dinh dưỡng
 - Xơ gan
 - Hội chứng Demond Meigs: TDMP, báng bụng đơn thuần, u nang buồn trứng.
- 
+
 ### Câu chẩn đoán
 
 Báng bụng độ I/II/III (đa phần là trung bình, nhiều nếu có dấu sóng vỗ), do (xơ gan, lao màng bụng, ung thư màng bụng), biến chứng (viêm phúc mạc nhiễm khuẩn nguyên phát)/bệnh nền.
 
 Ví dụ:
+
 - Báng bụng lượng trung bình, do xơ gan, biến chứng viêm phúc mạc nhiễm khuẩn nguyên phát.
 Báng bụng lượng trung bình, do lao màng bụng, biến chứng viêm phúc mạc nhiễm khuẩn nguyên phát. (lưu ý
 đến hội chứng nhiễm lao chung)
@@ -63,6 +66,7 @@ Báng bụng lượng trung bình, do lao màng bụng, biến chứng viêm ph�
 khuẩn nguyên phát. (lưu ý với hội chứng cận ung – đã viết ở phần XHTH).
 
 ## BẢNG TIẾP CẬN BỆNH SỬ & TIỀN CĂN BỤNG TO
+
 | Bước khai thác                              | Nội dung chi tiết cần hỏi                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Mục đích định hướng                                          |
 | :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------- |
 | **Step 1: Xác nhận & Phân biệt 6F**         | • Bụng to ra từ bao giờ? Diễn tiến từ từ hay đột ngột?<br>• Có thay đổi cân nặng không? Quần áo có bị chật vùng hông/bụng không?<br>• Có tắt kinh (thai), táo bón kéo dài (ứ phân), xì hơi được không (trướng hơi), hay có thấy khối u ở bụng?<br>• Có tiểu khó, bí tiểu không (cầu bàng quang)?                                                                                                                                                                                            | Xác nhận thực sự có báng bụng hay thuộc nhóm 5F còn lại.     |

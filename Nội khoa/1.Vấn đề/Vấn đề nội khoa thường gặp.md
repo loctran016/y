@@ -38,9 +38,9 @@
 #### **Lưu ý:**
 
 - **Báng bụng**: định hướng 3 cơ chế
-  1.  Tăng áp cửa: là cơ chế chủ đạo gây báng bụng, vì vậy rất dễ gom thành hội chứng
-  2.  HC suy tế bào gan: chỉ là cơ chế phụ, bắt buộc phải đi kèm với **Sao mạch, lòng bàn tay son, móng Terry, xuất huyết dưới da** (dấu chỉ suy tế bào gan → Bụng to là do suy tế bào gan)
-  3.  Đặt vấn đề biện luận riêng
+  1. Tăng áp cửa: là cơ chế chủ đạo gây báng bụng, vì vậy rất dễ gom thành hội chứng
+  2. HC suy tế bào gan: chỉ là cơ chế phụ, bắt buộc phải đi kèm với **Sao mạch, lòng bàn tay son, móng Terry, xuất huyết dưới da** (dấu chỉ suy tế bào gan → Bụng to là do suy tế bào gan)
+  3. Đặt vấn đề biện luận riêng
 
 ### Ví dụ Tóm tắt bệnh án & Đặt vấn đề mẫu Trại Tiêu hóa**
 

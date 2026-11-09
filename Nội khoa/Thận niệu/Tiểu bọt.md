@@ -25,7 +25,7 @@
 
 ---
 
-##pdf`)
+## pdf`)
 
 Khi tiếp cận bệnh nhân có tiểu bọt, bác sĩ cần khai thác các thuộc tính sau :
 
