@@ -1,4 +1,4 @@
-## I. QUY TRÌNH RỬA TAY NGOẠI KHOA CHUẨN
+## Quy trình rửa tay ngoại khoa
 
 ### 1. Chuẩn bị trước khi rửa tay
 
@@ -14,7 +14,9 @@
 
 ### Bước 1: chà móng tay (ca mổ đều tiên)
 
-Lấy khay bản chải
+Rửa tay sơ với nước và xà phòng trước khi bàn chải
+
+Lấy khay bản chải chà bằng xà bông và xả lại nước
 
 Trong 30s
 
@@ -36,14 +38,16 @@ Trong 30s
       [Khuỷu tay] (Thấp nhất)
 ```
 
+Mỗi bước 10 lần
+
 1. **Làm ướt:** Mở nước làm ướt bàn tay, cẳng tay đến trên khuỷu tay 5 cm.
 2. **Lấy xà phòng:** Nhấn lấy 3–5 ml dung dịch sát khuẩn vào lòng bàn tay.
 3. **Bước 1 - Chà lòng bàn tay:** Chà 2 lòng bàn tay vào nhau để tạo bọt.
 4. **Bước 2 - Chà lưng bàn tay:** Dùng lòng bàn tay này chà lên lưng bàn tay và kẽ ngoài các ngón tay của bàn tay kia và ngược lại.
 5. **Bước 3 - Chà kẽ trong ngón tay:** Chà 2 lòng bàn tay vào nhau, miết mạnh các kẽ ngón tay bên trong.
-6. **Bước 4 - Chà mặt ngoài ngón tay:** Khum bàn tay, chà mặt ngoài các ngón tay của bàn tay này vào lòng bàn tay kia.
-7. **Bước 5 - Chà ngón tay cái:** Dùng lòng bàn tay này xoay ngón cái của bàn tay kia và ngược lại.
-8. **Bước 6 - Chà đầu ngón tay:** Chụm các đầu ngón tay của bàn tay này xoay vào lòng bàn tay kia để làm sạch đầu ngón và kẽ móng.
+6. **Bước 5 - Chà ngón tay cái:** Dùng lòng bàn tay này xoay ngón cái của bàn tay kia và ngược lại.
+7. **Bước 4 - Chà mặt lưng ngón tay:** Khum bàn tay, chà mặt ngoài các ngón tay của bàn tay này vào lòng bàn tay kia.
+8. **Bước 6 - Chà đầu ngón tay:** Chụm các đầu ngón tay của bàn tay này xoay vào lòng bàn tay kia để làm sạch đầu ngón và kẽ móng. (KHÔNG CÓ BƯỚC NÀY NHA)
 9. **Bước 7 - Chà cẳng tay và khuỷu tay:** Dùng lòng bàn tay xoay tròn và miết dần từ cổ tay xuống cẳng tay và dừng lại ở trên khuỷu tay 5 cm.
 10. **Xả nước:** Đặt bàn tay cao hơn khuỷu tay, cho nước chảy xuôi từ đầu ngón tay xuống khuỷu tay. **Tuyệt đối không để nước chảy ngược từ khuỷu tay về bàn tay** và không chạm tay vào chậu rửa/vòi nước.
 
