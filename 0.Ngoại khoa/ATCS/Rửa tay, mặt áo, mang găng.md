@@ -1,5 +1,7 @@
 ## Quy trình rửa tay ngoại khoa
 
+Tay lúc nào cũng ngửa và để trước mặt, không được dang ra quá
+
 ### 1. Chuẩn bị trước khi rửa tay
 
 * **Trang phục:** Mặc bộ đồ *scrubs* sạch, đội nón phẫu thuật trùm kín toàn bộ tóc, đeo khẩu trang y tế che kín cả mũi và miệng [cite: 71, 279].
@@ -58,6 +60,11 @@ Mỗi bước 10 lần
     * Dùng một nửa khăn lau khô bàn tay, cổ tay, cẳng tay và khuỷu tay bên trái.
     * Lật sang mặt khăn chưa sử dụng để lau từ bàn tay xuống khuỷu tay bên phải.
     * Thả khăn vào thùng chứa đồ bẩn (không đưa khăn đã lau khuỷu tay quay ngược lại lau bàn tay).
+
+
+Lau 1 mặt xong hất lên khuỷu của tay đã lau vì đã dơ giống nhau.
+
+Lấy áo mặt nào cũng được
 
 ---
 
