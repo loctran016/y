@@ -1,14 +1,22 @@
 ## I. QUY TRÌNH RỬA TAY NGOẠI KHOA CHUẨN
 
 ### 1. Chuẩn bị trước khi rửa tay
+
 * **Trang phục:** Mặc bộ đồ *scrubs* sạch, đội nón phẫu thuật trùm kín toàn bộ tóc, đeo khẩu trang y tế che kín cả mũi và miệng [cite: 71, 279].
 * **Cá nhân:** Tháo bỏ toàn bộ đồng hồ, nhẫn, vòng tay, xỏ khuyên [cite: 72, 280]. Cắt ngắn móng tay, tẩy sạch sơn móng tay [cite: 72, 280].
 * **Kiểm tra:** Kiểm tra vòi nước (dùng cảm ứng, pedal chân hoặc khuỷu tay) và bình dung dịch xà phòng sát khuẩn (*Chlorhexidine gluconate 4%* hoặc *Povidone-Iodine 7.5%*) [cite: 8].
 
 ---
 
-### 2. Các bước rửa tay ngoại khoa (Thời gian: 3 – 5 phút)
+### 2. Các bước rửa tay ngoại khoa (Thời gian: tối thiểu 3.5 phút)
+
 > **Nguyên tắc vàng:** *Thứ tự từ vùng sạch nhất đến vùng ít sạch hơn (Bàn tay \\(\rightarrow\\) Cổ tay \\(\rightarrow\\) Cẳng tay \\(\rightarrow\\) Khuỷu tay). Bàn tay luôn phải giữ cao hơn khuỷu tay trong suốt quá trình rửa, xả nước và di chuyển.*
+
+### Bước 1: chà móng tay (ca mổ đều tiên)
+
+Lấy khay bản chaie 
+
+##@
 
 ```
       [Đầu ngón tay] (Sạch nhất)
