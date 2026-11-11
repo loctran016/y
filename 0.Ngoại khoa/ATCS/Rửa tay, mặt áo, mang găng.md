@@ -14,9 +14,11 @@
 
 ### Bước 1: chà móng tay (ca mổ đều tiên)
 
-Lấy khay bản chaie 
+Lấy khay bản chải
 
-##@
+Trong 30s
+
+### Rửa tay lần 1 (1min30)
 
 ```
       [Đầu ngón tay] (Sạch nhất)
@@ -44,6 +46,9 @@ Lấy khay bản chaie
 8. **Bước 6 - Chà đầu ngón tay:** Chụm các đầu ngón tay của bàn tay này xoay vào lòng bàn tay kia để làm sạch đầu ngón và kẽ móng.
 9. **Bước 7 - Chà cẳng tay và khuỷu tay:** Dùng lòng bàn tay xoay tròn và miết dần từ cổ tay xuống cẳng tay và dừng lại ở trên khuỷu tay 5 cm.
 10. **Xả nước:** Đặt bàn tay cao hơn khuỷu tay, cho nước chảy xuôi từ đầu ngón tay xuống khuỷu tay. **Tuyệt đối không để nước chảy ngược từ khuỷu tay về bàn tay** và không chạm tay vào chậu rửa/vòi nước.
+
+### Rửa tay lần 2 (1min30)
+
 11. **Lau khô tay:**
     * Lấy khăn lau vô khuẩn từ khay vô trùng.
     * Dùng một nửa khăn lau khô bàn tay, cổ tay, cẳng tay và khuỷu tay bên trái.
