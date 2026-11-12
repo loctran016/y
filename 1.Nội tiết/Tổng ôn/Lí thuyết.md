@@ -69,8 +69,6 @@
 
 ## **BẢNG TỔNG HỢP THUỐC ĐIỀU TRỊ ĐÁI THÁO ĐƯỜNG**
 
-Bảng dưới đây đã được chuyển sang định dạng MultiMarkdown.
-Để loại bỏ hoàn toàn các ô trống thừa thãi ở cột đầu tiên, mình đã thu gọn bảng thành 5 cột chính. Các thông tin về "Nhóm tác dụng" được chuyển thành các hàng tiêu đề phân cách (section headers) trải dài toàn bộ 5 cột bằng cú pháp gộp cột của MultiMarkdown (thêm ||||| vào cuối ô).
 | Nhóm thuốc | Danh sách tên thuốc & Phân tích Tiền / Hậu tố để nhớ tên | Đường dùng | Chống chỉ định / Cần lưu ý trên đối tượng bệnh nhân đặc biệt | Các tác dụng phụ có thể gặp |
 |---|---|---|---|---|
 | 01. Cung cấp Insulin ngoại sinh [1, 2] |  |  |  |  |
