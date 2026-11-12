@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "HC vành cấp"
             }
+          },
+          {
+            "id": "6677ab5a81625baa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       "full-width-toggle:Toggle current note width": false
     }
   },
-  "active": "77b88dd80f3fa924",
+  "active": "6677ab5a81625baa",
   "lastOpenFiles": [
     "0.Nội khoa/Tim mạch/Suy tim.md",
     "0.Nội khoa/1.Vấn đề/Khó thở.md",
