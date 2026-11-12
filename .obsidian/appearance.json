@@ -1,8 +1,10 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Cupertino",
+  "cssTheme": "Minimal Dracula",
   "enabledCssSnippets": [
     "full-width-tables"
   ],
-  "showRibbon": false
+  "showRibbon": false,
+  "textFontFamily": "MonoLisa",
+  "baseFontSizeAction": true
 }

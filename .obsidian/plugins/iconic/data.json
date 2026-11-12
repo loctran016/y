@@ -28,12 +28,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "0.Nội khoa/1.Vấn đề": {
-      "color": "red",
-      "icon": "lucide-construction"
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

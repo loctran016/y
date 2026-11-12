@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "035d94bc7e2c3996",
+        "id": "0053a7eff637b1c4",
         "type": "tabs",
         "children": [
           {
-            "id": "77b88dd80f3fa924",
+            "id": "25dff3e6ae7389fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Nội khoa/Tim mạch/HC vành cấp.md",
+                "file": "1.Nội tiết/1.Lý thuyết/0.Sinh lý hormone giáp.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HC vành cấp"
-            }
-          },
-          {
-            "id": "6677ab5a81625baa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
+              "title": "0.Sinh lý hormone giáp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,48 +204,48 @@
       "full-width-toggle:Toggle current note width": false
     }
   },
-  "active": "6677ab5a81625baa",
+  "active": "25dff3e6ae7389fc",
   "lastOpenFiles": [
-    "0.Nội khoa/Tim mạch/Suy tim.md",
-    "0.Nội khoa/1.Vấn đề/Khó thở.md",
-    "0.Nội khoa/1.Vấn đề/Phù.md",
-    "0.Nội khoa/Hô hấp/COPD.md",
-    "0.Nội khoa/Tim mạch/HC vành cấp.md",
-    "0.Nội khoa/Tim mạch/Tăng HA.md",
-    "0.Nội khoa/Nhiễm trùng/Lao.md",
-    "Y văn/Tim mạch/HC Heyde.md",
-    "Y văn/Tim mạch/Frank’s sign (DELC).md",
-    "Y văn/Tim mạch",
-    "Y văn",
-    "KHCB/Dịch tễ/Bài 5. Những Thiết Kế Nghiên Cứu Dịch Tễ Học.md",
-    "KHCB/Dịch tễ/Bài 4. Các Số Đo Kết Hợp.md",
-    "KHCB/Dịch tễ/Bài 2. Bệnh và sự xuất hiện của Dịch.md",
-    "KHCB/Dịch tễ/Bài 15. Suy diễn nguyên nhân.md",
-    "KHCB/Dịch tễ/Bài 1. Đại cương Dịch tễ.md",
-    "KHCB/Dân số/Mức độ sinh và tử.md",
-    "KHCB/Dân số/Chỉ số đo lường chất lượng dân số.md",
-    "0.Nội khoa/Tim mạch/Âm thổi và Tiếng tim.md",
-    "0.Nội khoa/Thận niệu/Nhiễm trùng tiểu.md",
-    "0.Nội khoa/Hô hấp/Tràn dịch MP.md",
-    "0.Nội khoa/1.Vấn đề/Vàng da.md",
-    "0.Nội khoa/0.Nội Y3/Hỏi bệnh sử.md",
-    "0.Nội khoa/0.Nội Y3/Đặt vấn đề.md",
-    "0.Nội khoa/Nhiễm trùng",
-    "0.Nội khoa/0.Nội Y3/Chẩn đoán sơ bộ - phân biệt - CLS.md",
-    "0.Nội khoa/0.Nội Y3/Tiểu bọt.md",
-    "0.Nội khoa/Hô hấp/Viêm phổi.md",
-    "0.Nội khoa/Hô hấp/Giãn PQ.md",
-    "0.Nội khoa/1.Vấn đề/Thiểu niệu",
-    "0.Nội khoa/Tim mạch/Tăng HA-1791454394377.webp",
-    "0.Nội khoa/Tim mạch/Tăng HA-1791453510356.webp",
-    "0.Nội khoa/Hô hấp/Hen PQ",
-    "0.Nội khoa/1.Vấn đề",
-    "0.Nội khoa/Toàn thân",
-    "0.Nội khoa/Tiêu hoá",
-    "0.Nội khoa/Tim mạch",
-    "0.Nội khoa/Thận niệu",
+    "Nội khoa/Nhiễm trùng/Lao.md",
+    "Nội khoa/Nhiễm trùng",
+    "Nội khoa/Hô hấp/Viêm phổi.md",
+    "Nội khoa/Hô hấp/Tổn thương màng phổi.md",
+    "Nội khoa/Hô hấp/Tắc nghẽn đường HH dưới.md",
+    "Nội khoa/Hô hấp/Tràn dịch MP.md",
+    "Nội khoa/Hô hấp/Thuyên tắc phổi.md",
+    "Nội khoa/Hô hấp/Lao phổi cũ.md",
+    "Nội khoa/Hô hấp/Ho ra máu.md",
+    "Nội khoa/Hô hấp/Hen PQ.md",
+    "Nội khoa/Hô hấp/HC Nhiễm trùng HH trên.md",
+    "Nội khoa/Hô hấp/HC Nhiễm trùng HH dưới.md",
+    "Nội khoa/Hô hấp/COPD.md",
+    "Nội khoa/Hô hấp/Giãn PQ.md",
+    "Nội khoa/Hô hấp",
+    "Nội khoa/1.Vấn đề/Đau ngực.md",
+    "Nội khoa/1.Vấn đề/Vấn đề nội khoa thường gặp.md",
+    "Nội khoa/1.Vấn đề/Vàng da.md",
+    "Nội khoa/1.Vấn đề/Tăng HA.md",
+    "Nội khoa/1.Vấn đề/Tiểu máu.md",
+    "Nội khoa/1.Vấn đề/Tiểu bọt.md",
+    "Nội khoa/1.Vấn đề/Tiền căn.md",
+    "Nội khoa/1.Vấn đề/Thiểu niệu.md",
+    "Nội khoa/1.Vấn đề/Thiểu niệu và Vô niệu.md",
+    "Nội khoa/1.Vấn đề/Phù.md",
+    "Nội khoa/1.Vấn đề/Phù toàn thân.md",
+    "Nội khoa/1.Vấn đề/Khó thở.md",
+    "Nội khoa/1.Vấn đề/Khám.md",
+    "Nội khoa/1.Vấn đề",
+    "Nội khoa/0.Nội Y3",
+    "Nội khoa/Toàn thân",
+    "Nội khoa/Tiêu hoá",
     "Nội khoa/Tim mạch/Tăng HA-1791454394377.webp",
     "Nội khoa/Tim mạch/Tăng HA-1791453510356.webp",
+    "Nội khoa/Tim mạch",
+    "Nội khoa/Thận niệu",
+    "1.Nội tiết/Sinh lý bệnh",
+    "1.Nội tiết/Ca LS",
+    "0.Nội khoa/Tim mạch/Tăng HA-1791454394377.webp",
+    "0.Nội khoa/Tim mạch/Tăng HA-1791453510356.webp",
     "Tiêu hoá/Dược lý/Thuốc điều trị tiêu chảy-1791105688042.webp",
     "Tiêu hoá/Sinh lý/Sinh lý Gan-1790610335970.webp",
     "Tiêu hoá/Sinh lý/Sinh lý Gan-1790610250854.webp",

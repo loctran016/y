@@ -7,5 +7,6 @@
   "useMarkdownLinks": true,
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "livePreview": false
 }
