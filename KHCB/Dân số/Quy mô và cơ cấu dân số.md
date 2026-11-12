@@ -140,7 +140,7 @@ Bài giảng gồm 2 phần chính :
 
 ### Tỷ lệ người cao tuổi**
 
-### **Phân loại của Thế giới (Cowgill & Holmes, 1970)** _(tính % người `≥ 65` tuổi)_ [9, 10]
+### **Phân loại của Thế giới (Cowgill & Holmes, 1970)** _(tính % người `≥ 65` tuổi)_
 
 - **`≥ 7%`:** Dân số già hóa (ageing society).
 - **`≥ 10%`:** Dân số già (aged society) — mốc kết thúc giai đoạn dân số vàng.

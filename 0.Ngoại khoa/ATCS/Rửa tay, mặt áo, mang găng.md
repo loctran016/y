@@ -2,17 +2,17 @@
 
 Tay lúc nào cũng ngửa và để trước mặt, không được dang ra quá
 
-### 1. Chuẩn bị trước khi rửa tay
+### Chuẩn bị trước khi rửa tay
 
-* **Trang phục:** Mặc bộ đồ *scrubs* sạch, đội nón phẫu thuật trùm kín toàn bộ tóc, đeo khẩu trang y tế che kín cả mũi và miệng [cite: 71, 279].
-* **Cá nhân:** Tháo bỏ toàn bộ đồng hồ, nhẫn, vòng tay, xỏ khuyên [cite: 72, 280]. Cắt ngắn móng tay, tẩy sạch sơn móng tay [cite: 72, 280].
-* **Kiểm tra:** Kiểm tra vòi nước (dùng cảm ứng, pedal chân hoặc khuỷu tay) và bình dung dịch xà phòng sát khuẩn (*Chlorhexidine gluconate 4%* hoặc *Povidone-Iodine 7.5%*) [cite: 8].
+- **Trang phục:** Mặc bộ đồ *scrubs* sạch, đội nón phẫu thuật trùm kín toàn bộ tóc, đeo khẩu trang y tế che kín cả mũi và miệng.
+- **Cá nhân:** Tháo bỏ toàn bộ đồng hồ, nhẫn, vòng tay, xỏ khuyên. Cắt ngắn móng tay, tẩy sạch sơn móng tay.
+- **Kiểm tra:** Kiểm tra vòi nước (dùng cảm ứng, pedal chân hoặc khuỷu tay) và bình dung dịch xà phòng sát khuẩn (*Chlorhexidine gluconate 4%* hoặc *Povidone-Iodine 7.5%*).
 
 ---
 
-### 2. Các bước rửa tay ngoại khoa (Thời gian: tối thiểu 3.5 phút)
+### Các bước rửa tay ngoại khoa (Thời gian: tối thiểu 3.5 phút)
 
-> **Nguyên tắc vàng:** *Thứ tự từ vùng sạch nhất đến vùng ít sạch hơn (Bàn tay \\(\rightarrow\\) Cổ tay \\(\rightarrow\\) Cẳng tay \\(\rightarrow\\) Khuỷu tay). Bàn tay luôn phải giữ cao hơn khuỷu tay trong suốt quá trình rửa, xả nước và di chuyển.*
+> **Nguyên tắc vàng:** *Thứ tự từ vùng sạch nhất đến vùng ít sạch hơn (Bàn tay `→` Cổ tay `→` Cẳng tay `→` Khuỷu tay). Bàn tay luôn phải giữ cao hơn khuỷu tay trong suốt quá trình rửa, xả nước và di chuyển.*
 
 ### Bước 1: chà móng tay (ca mổ đều tiên)
 
@@ -55,12 +55,11 @@ Mỗi bước 10 lần
 
 ### Rửa tay lần 2 (1min30)
 
-11. **Lau khô tay:**
-    * Lấy khăn lau vô khuẩn từ khay vô trùng.
-    * Dùng một nửa khăn lau khô bàn tay, cổ tay, cẳng tay và khuỷu tay bên trái.
-    * Lật sang mặt khăn chưa sử dụng để lau từ bàn tay xuống khuỷu tay bên phải.
-    * Thả khăn vào thùng chứa đồ bẩn (không đưa khăn đã lau khuỷu tay quay ngược lại lau bàn tay).
-
+ 1. **Lau khô tay:**
+    - Lấy khăn lau vô khuẩn từ khay vô trùng.
+    - Dùng một nửa khăn lau khô bàn tay, cổ tay, cẳng tay và khuỷu tay bên trái.
+    - Lật sang mặt khăn chưa sử dụng để lau từ bàn tay xuống khuỷu tay bên phải.
+    - Thả khăn vào thùng chứa đồ bẩn (không đưa khăn đã lau khuỷu tay quay ngược lại lau bàn tay).
 
 Lau 1 mặt xong hất lên khuỷu của tay đã lau vì đã dơ giống nhau.
 
@@ -68,17 +67,19 @@ Lấy áo mặt nào cũng được
 
 ---
 
-## II. QUY TRÌNH MẶC ÁO MỔ VÀ MANG GĂNG VÔ KHUẨN
+## QUY TRÌNH MẶC ÁO MỔ VÀ MANG GĂNG VÔ KHUẨN
 
-### 1. Quy trình mặc áo mổ vô khuẩn
+### Quy trình mặc áo mổ vô khuẩn
+
 1. **Nâng áo:** Tay đã khô dùng ngón tay nhấc áo mổ vô khuẩn ra khỏi khay, lùi ra vị trí rộng rãi, tránh va chạm xung quanh.
 2. **Mở áo:** Cầm vào phần cổ áo, thả áo mở tự nhiên hướng ra xa cơ thể (mặt trong áo hướng về phía mình, mặt ngoài hướng ra ngoài).
 3. **Luồn tay:** Luồn hai tay cùng lúc vào hai tay áo, nâng hai tay ra phía trước ngang tầm ngực.
-4. **Hỗ trợ:** Điều dưỡng vòng ngoài đứng phía sau, thò tay vào **mặt trong áo** ở vùng vai, kéo hai vai áo lên và buộc dây cố định sau cổ và sau lưng [cite: 73, 282].
+4. **Hỗ trợ:** Điều dưỡng vòng ngoài đứng phía sau, thò tay vào **mặt trong áo** ở vùng vai, kéo hai vai áo lên và buộc dây cố định sau cổ và sau lưng.
 
 ---
 
-### 2. Kỹ thuật mang găng kín (Closed Gloving - Chuẩn vô trùng nhất)
+### Kỹ thuật mang găng kín (Closed Gloving - Chuẩn vô trùng nhất)
+
 *Được thực hiện khi bàn tay vẫn nằm hoàn toàn bên trong gấu tay áo mổ.*
 
 ```
@@ -94,7 +95,7 @@ Lấy áo mặt nào cũng được
 
 ---
 
-## III. KỸ THUẬT BUỘC CHỈ PHẪU THUẬT BẰNG KẸP (INSTRUMENT TIE)
+## KỸ THUẬT BUỘC CHỈ PHẪU THUẬT BẰNG KẸP (INSTRUMENT TIE)
 
 > **Mục tiêu:** Tạo **Nút vuông (Square Knot)** gồm 2 nấc đan chéo ngược chiều nhau để nút chỉ khóa chặt, không bị tuột hay làm dập mô.
 
@@ -103,15 +104,16 @@ Lấy áo mặt nào cũng được
   Thì 2: Quấn ngược chiều   ────► Kẹp đầu ngắn ────► Kéo chéo tay (Khóa nấc 2 - Nút vuông)
 ```
 
-### 1. Các bước thực hiện:
-* **Thì 1 (Tạo nấc thứ 1 - Nút xiết):**
+### Các bước thực hiện
+
+- **Thì 1 (Tạo nấc thứ 1 - Nút xiết):**
   1. Tay trái cầm đoạn chỉ dài (đoạn nối với kim khâu).
   2. Đặt đầu kẹp mang kim (*Needle holder*) lên phía trên/trước đoạn chỉ dài.
   3. Quấn đoạn chỉ dài xung quanh đầu kẹp **1 - 2 vòng** (1 vòng chuẩn hoặc 2 vòng đối với chỉ nilon/chỉ trơn).
   4. Mở ngàm kẹp, kẹp chắc lấy đầu ngắn của sợi chỉ.
   5. Rút đầu ngắn chui qua vòng chỉ quấn, đồng thời **kéo hai tay về hai hướng ngược nhau (chéo tay)** để nấc thứ 1 nằm phẳng sát bề mặt mô.
 
-* **Thì 2 (Tạo nấc thứ 2 - Nút khóa):**
+- **Thì 2 (Tạo nấc thứ 2 - Nút khóa):**
   1. Đặt đầu kẹp mang kim xuống phía dưới/sau đoạn chỉ dài.
   2. Quấn đoạn chỉ dài quanh đầu kẹp **1 vòng theo chiều ngược lại** so với Thì 1.
   3. Mở ngàm kẹp, kẹp lấy đầu ngắn của sợi chỉ.
