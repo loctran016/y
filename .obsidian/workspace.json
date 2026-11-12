@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1.Nội tiết/1.Lý thuyết/0.Sinh lý hormone giáp.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "ec8fcb7f0c27bb43",
@@ -207,6 +206,7 @@
   },
   "active": "25dff3e6ae7389fc",
   "lastOpenFiles": [
+    "1.Nội tiết/1.Lý thuyết/0.Sinh lý hormone giáp-1794470071802.webp",
     "1.Nội tiết/Tổng ôn/Lí thuyết.md",
     "1.Nội tiết/Tổng ôn",
     "Nội khoa/Nhiễm trùng/Lao.md",
@@ -235,7 +235,6 @@
     "Nội khoa/1.Vấn đề/Thiểu niệu và Vô niệu.md",
     "Nội khoa/1.Vấn đề/Phù.md",
     "Nội khoa/1.Vấn đề/Phù toàn thân.md",
-    "Nội khoa/1.Vấn đề/Khó thở.md",
     "Nội khoa/1.Vấn đề",
     "Nội khoa/0.Nội Y3",
     "Nội khoa/Toàn thân",
