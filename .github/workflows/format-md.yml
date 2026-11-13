@@ -7,32 +7,35 @@ on:
 
 permissions:
   contents: write
-  actions: write
 
 concurrency:
-  group: note-audio
+  group: format-markdown
   cancel-in-progress: false
 
 jobs:
-  format-ms:
+  format-md:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v7
-      - uses: actions/setup-node@v7
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
         with:
           node-version: 24
-      - run: node scripts/format-md.mjs --cites
 
-      - name: Collect the text each note will read aloud
-        run: bun scripts/extract-tts.mjs
-        env:
-          TTS_HTML_DIR: .vercel/output/static # where the vercel preset writes prerendered pages
+      - name: Format markdown (remove cites)
+        run: node scripts/format-md.mjs --cites
 
-      - name: Publish to gh-pages
-        if: ${{ hashFiles('tts-out/**') != '' }}
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./tts-out
-          keep_files: true
+      - name: Commit and push changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: format markdown (remove cites) [skip ci]"
+          git push
