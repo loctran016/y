@@ -1,0 +1,38 @@
+name: Format markdown to remove cites
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: note-audio
+  cancel-in-progress: false
+
+jobs:
+  format-ms:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: node scripts/format-md.mjs --cites
+
+      - name: Collect the text each note will read aloud
+        run: bun scripts/extract-tts.mjs
+        env:
+          TTS_HTML_DIR: .vercel/output/static # where the vercel preset writes prerendered pages
+
+      - name: Publish to gh-pages
+        if: ${{ hashFiles('tts-out/**') != '' }}
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./tts-out
+          keep_files: true
