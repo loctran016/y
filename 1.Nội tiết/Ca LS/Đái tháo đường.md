@@ -1,3 +1,5 @@
+CA LÂM SÀNG: ĐÁI THÁO ĐƯỜNG TÍP 1 BIẾN CHỨNG NHIỄM CETON ACID (DKA)
+
 ## Pretest Y24
 
 Dưới đây là đáp án chi tiết và giải thích sinh lý bệnh / lâm sàng cho bài **Pretest Ca lâm sàng Đái tháo đường (2026–2027)**:
@@ -72,17 +74,12 @@ Dưới đây là đáp án chi tiết và giải thích sinh lý bệnh / lâm 
 - **Giải thích:**
   - Theo tiêu chuẩn chẩn đoán Tăng áp lực thẩm thấu máu (HHS), áp lực thẩm thấu máu hiệu dụng bắt buộc phải **> 320 mOsm/kg** (kèm theo glucose máu > 600 mg/dL hay > 33.3 mmol/L).
 
-
-# BÀI GIẢNG THẢO LUẬN CA LÂM SÀNG: ĐÁI THÁO ĐƯỜNG TÍP 1 BIẾN CHỨNG NHIỄM CETON ACID (DKA)
-
----
-
-## I. TÓM TẮT DỮ LIỆU CA LÂM SÀNG
+## Tóm tắt dữ liệu CLS
 
 * **Hành chính:** Cô T., 18 tuổi, nhập viện cấp cứu trong tình trạng hôn mê, lơ mơ [1, 2].
 * **Bệnh sử:** 
   * 1 tháng nay: Khát nước nhiều, uống nhiều, tiểu nhiều, sụt 4 kg [2].
-  * 1 tuần nay: Có dấu hiệu nhiễm trùng đường hô hấp trên (đau họng, ho khan ít, đau nhức cơ toàn thân) — đây là **yếu tố khởi kích** phổ biến làm gia tăng nhu cầu insulin [2].
+  * 1 tuần nay: Có dấu hiệu nhiễm trùng đường hô hấp trên (đau họng, ho khan ít, đau nhức cơ toàn thân) — đây là **yếu tố khởi kích** phổ biến làm gia tăng nhu cầu insulin.
   * Sáng nhập viện: Bệnh nhân lơ mơ, ngủ gà [2].
 * **Khám lâm sàng:** 
   * Bệnh nhân thể trạng gầy (BMI ~ \\(18\text{ kg/m}^2\\)), dấu hiệu mất nước nặng (mắt trũng, môi khô, nếp véo da mất chậm) [2].
@@ -97,9 +94,9 @@ Dưới đây là đáp án chi tiết và giải thích sinh lý bệnh / lâm 
 
 ---
 
-## II. GIẢI MÃ BẢN CHẤT VÀ CƠ CHẾ PHÂN TỬ CỦA CA LÂM SÀNG
+## Cơ chế bệnh sinh và cơ chế phân tử
 
-### 1. Cơ chế biểu hiện lâm sàng kinh điển: Tiểu nhiều, Uống nhiều, Khát nhiều, Sụt cân
+### Cơ chế bệnh sinh: Tiểu nhiều, Uống nhiều, Khát nhiều, Sụt cân
 * **Tiểu nhiều (Polyuria):**
   * Tình trạng thiếu hụt insulin tuyệt đối làm đường huyết tăng vọt tới \\(520\text{ mg/dL}\\) [3, 5].
   * Tại thận, bình thường \\(100\%\\) glucose lọc qua cầu thận sẽ được tái hấp thu ở ống lượng gần nhờ kênh đồng vận **SGLT-2** (chiếm 90%) và **SGLT-1** (chiếm 10%) [6].
