@@ -142,7 +142,7 @@ Dưới đây là đáp án chi tiết và giải thích sinh lý bệnh / lâm 
 
 ---
 
-## III. DƯỢC ĐỘNG HỌC VÀ NGUYÊN TẮC CHUYỂN ĐỔI PHÁC ĐỒ INSULIN
+## Dược động học và lựa chọn phác đồ insulin ngoại sinh
 
 ```
                                   [GIAI ĐOẠN CẤP CỨU]
@@ -163,8 +163,9 @@ Dưới đây là đáp án chi tiết và giải thích sinh lý bệnh / lâm 
 (3 lần/ngày trước 3 bữa ăn)                               (1 lần/ngày vào buổi tối)
 ```
 
-### 1. Tại sao phải tiêm Insulin Aspart dưới da trước 1–2 giờ rồi mới ngừng Insulin truyền tĩnh mạch?
-* **Insulin Regular truyền tĩnh mạch:** Có thời gian bán thải (\\(T_{1/2}\\)) ngắn, thời gian tác dụng kéo dài chỉ khoảng **30 phút** sau khi ngưng truyền [11]. Nếu tắt máy truyền đột ngột, nồng độ insulin trong máu sẽ sụt giảm rất nhanh [11].
+### Tại sao phải tiêm Insulin Aspart dưới da trước 1–2 giờ rồi mới ngừng Insulin truyền tĩnh mạch?
+
+* **Insulin Regular truyền tĩnh mạch:** Có thời gian bán thải (\\(T_{1/2}\\)) ngắn, thời gian tác dụng kéo dài chỉ khoảng **30 phút** sau khi ngưng truyền. Nếu tắt máy truyền đột ngột, nồng độ insulin trong máu sẽ sụt giảm rất nhanh [11].
 * **Insulin Aspart tiêm dưới da (TDD):** Thuộc nhóm tác dụng nhanh, đạt **đỉnh tác dụng sau 60 phút (1 giờ)** [11].
 * **Nguyên tắc chuyển đổi:** Bắt buộc tiêm TDD Insulin Aspart trước \\(1–2\text{ giờ}\\) rồi mới tắt truyền TM [5, 11]. Việc này đảm bảo khi insulin tiêm dưới da đạt đỉnh tác dụng thì insulin truyền TM vừa hết hiệu lực, duy trì liên tục nồng độ insulin máu, ngăn ngừa nguy cơ bùng phát lại toan ceton [11].
 
