@@ -46,3 +46,27 @@ Nên quan sát hệ thống từ ngoài vào trong:
    * **Tổn thương mô kẽ:** Biểu hiện dưới dạng tổn thương dạng lưới, dạng nốt nhỏ `[15-17]`.
    * **Ứ khí / Khí phế thũng:** Nhu mô phổi tăng sáng (đen hơn), giảm số lượng mạch máu, các khoảng gian sườn giãn rộng và hai vòm hoành bị ép dẹt `[18]`.
 
+Bảng tóm tắt so sánh chi tiết các dấu hiệu X-quang ngực đặc trưng :
+
+## Bảng so sánh dấu hiệu X-quang giữa 3 hội chứng bệnh lý phổi - màng phổi thường gặp (**Tràn dịch màng phổi**, **Tràn khí màng phổi**, và **Đông đặc phổi**)
+
+| Tiêu chí | Tràn dịch màng phổi | Tràn khí màng phổi | Đông đặc phổi |
+| :--- | :--- | :--- | :--- |
+| **Đậm độ hình ảnh** | **Đám mờ đồng nhất** ở vùng thấp của phế trường [1]. | **Vùng sáng vô mạch** (tăng thấu quang, mất hoàn toàn mạch máu) ở ngoại biên [1, 2]. | **Đám mờ phế nang / thùy phổi** (tăng tỷ trọng nhu mô) [3, 4]. |
+| **Đường ranh giới đặc trưng** | Giới hạn trên là **đường cong Damoiseau** (mặt cong cao ở ngoài, thấp ở trong khi chụp đứng) [1, 5]. | **Đường mờ sắc nét của lá tạng** bao bọc nhu mô phổi bị xẹp [1, 2]. | Ranh giới sắc nét khi đám mờ tựa vào **rãnh liên thùy** [3, 6]. |
+| **Dấu hiệu đặc hiệu** | • **Tù góc sườn hoành** [1, 7].<br>• Mất bóng mờ sắc nét của vòm hoành đồng bên (khi chụp nằm) [1].<br>• TDMP thể hoành: Tăng khoảng cách bóng hơi dạ dày - đáy phổi trái (> 1,5 cm) [8]. | • Không thấy mạch máu trong vùng thấu quang [1, 2].<br>• **Dấu hiệu khe sâu** (*deep sulcus sign* - khi chụp tư thế nằm) [1, 2]. | • **Hình ảnh khí phế quản đồ** (*Air bronchogram*) [3].<br>• **Dấu hiệu xóa bờ** (*Silhouette sign*) khi tiếp xúc cùng mặt phẳng với tim/vòm hoành [1, 9]. |
+| **Thay đổi theo tư thế** | Có thay đổi: Chụp đứng tạo đường cong Damoiseau; chụp nằm dịch trải đều gây mờ lan tỏa phế trường [1]. | Có thay đổi vị trí khí đọng: Chụp đứng khí ở đỉnh/ngoại biên; chụp nằm khí tập trung ở vòm hoành trước - dưới (dấu khe sâu) [2, 10]. | **Không thay đổi** theo tư thế bệnh nhân [4]. |
+| **Ảnh hưởng trung thất & vòm hoành** | Lượng nhiều/áp lực sẽ **đẩy trung thất và khí quản sang bên đối diện** [1, 11]. | TKMP áp lực gây **đẩy trung thất sang đối diện, vòm hoành bị ép dẹt, rộng khoảng gian sườn** [2]. | Trung thất và khí quản thường **ở vị trí trung tâm** (trừ khi có xẹp phổi đi kèm) [3, 11]. |
+
+---
+
+### Một số lưu ý phân biệt lâm sàng:
+
+* **Biến đổi theo tư thế chụp:** 
+  * Trên **phim nằm**, tràn dịch màng phổi không tạo đường cong Damoiseau mà thể hiện bằng hình ảnh mờ lan tỏa phế trường nhưng vẫn còn quan sát thấy bóng mạch máu [1]. 
+  * Tràn khí màng phổi ở **tư thế nằm** cần chú ý tìm *dấu hiệu khe sâu* ở góc sườn hoành phía trước - dưới [1, 2].
+* **Phân biệt tổn thương áp lực và xẹp phổi:** 
+  * Tràn dịch màng phổi lượng nhiều hoặc tràn khí màng phổi áp lực đều **đẩy lệch khí quản và trung thất sang bên đối diện** [2, 11]. 
+  * Ngược lại, nếu là **xẹp phổi**, khí quản và trung thất sẽ bị **kéo lệch về cùng bên tổn thương** [11].
+
+💡 Bạn có muốn cùng thực hành phân tích một ca lâm sàng X-quang cụ thể trong tài liệu để áp dụng bảng so sánh này không?
