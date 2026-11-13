@@ -2,7 +2,7 @@ import fs from 'fs'
 import path from 'path'
 
 // Configuration
-const TARGET_DIR = 'content/'
+const TARGET_DIR = '/'
 const EXTENSION = '.md'
 const DRY_RUN = process.argv.includes('--dry') // node clean-notes.mjs --dry
 const PLAIN = process.argv.includes('--plain') // LaTeX -> chữ thường, không bọc `code`
