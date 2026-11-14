@@ -38,7 +38,8 @@
 ## Xương
 ### tinh thể **hydroxyapatite** `Ca₁₀(PO₄)₆(OH)₂` 
 ### Tạo cốt bào (*osteoblast*):** 
-- thích tổng hợp sợi collagen typ 1 tạo chất nền xương (osteoid) và lắng đọng khoáng chất tạo xương mới.
+- tổng hợp collagen typ 1 tạo chất nền xương (osteoid) 
+- lắng đọng khoáng chất tạo xương mới.
   - **Hủy cốt bào (*osteoclast*):** Là tế bào đa nhân chứa nhiều ty thể và lysosome, bài tiết enzyme **collagenase** và ion `H⁺` (qua bơm V-ATPase) để phá hủy mô xương, giải phóng `Ca²⁺` và `PO₄³⁻` vào dịch ngoại bào. 
 ```
 
