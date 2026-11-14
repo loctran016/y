@@ -74,6 +74,12 @@
 
 ## Hormone tham gia điều hoà Calci huyết tương
 
+```markmap
+## PTH
+- tiết ra khi `Ca²⁺` huyết tương giảm
+- 
+```
+
 ### Hormone PTH (Parathyroid Hormone)
 
 - **Nguồn gốc và cấu trúc:** Do 4 tuyến cận giáp nằm ở mặt sau tuyến giáp bài tiết khi nồng độ `Ca²⁺` huyết tương giảm. PTH là một polypeptide gồm **84 acid amin** (trọng lượng 9.500 Da), được tổng hợp từ tiền chất preprohormone (110 aa) `→` prohormone (90 aa) `→` PTH.
