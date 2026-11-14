@@ -76,8 +76,12 @@
 
 ```markmap
 ## PTH
+### thụ thể nhạy cảm calci **CaSR** (*calcium-sensing receptor*)
+### `Ca²⁺` huyết tương tăng kích hoạt CaSR ức chế PTH
 ### tiết ra khi `Ca²⁺` huyết tương giảm
-### Tại xương
+### Tại xương (Mô hình RANKL/RANK/OPG):**
+  - *Tiết ngắt quãng (Intermittent PTH):* Có tác dụng **đồng hóa**, kích thích tạo cốt bào tăng sinh giúp tăng khối lượng xương (ứng dụng điều trị loãng xương).
+  - *Tiết liên tục (Continuous PTH):* Có tác dụng **dị hóa**, PTH gắn vào thụ thể trên tạo cốt bào làm tăng biểu hiện protein **RANKL** và giảm **OPG** (thụ thể bẫy). RANKL gắn lên thụ thể RANK trên tiền hủy cốt bào, thúc đẩy biệt hóa thành hủy cốt bào hoạt động làm tăng hủy xương.
 - tăng hoạt các hủy cốt bào.
 ### Tại thận
 - kích thích thụ thể PTH1R, kích hoạt adenylyl cyclase/cAMP/PKA làm mở kênh **TRPV5**, - tăng tái hấp thu chủ động `Ca²⁺` ở ống lượn xa và ống góp.
