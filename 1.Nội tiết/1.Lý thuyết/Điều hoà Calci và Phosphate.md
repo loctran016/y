@@ -21,6 +21,9 @@
 ## Ruột non
 ### Xuyên bào: tá, hỗng tràng
 - kênh TRPV6
+- protein gắn **Calbindin-D9k**
+- bơm **NCX1** (đồng vận chuyển `Na⁺/Ca²⁺`)
+- **PMCA1b** (bơm `Ca²⁺-ATPase 1b`)
 ### Khoảng kẽ 
 ```
 
