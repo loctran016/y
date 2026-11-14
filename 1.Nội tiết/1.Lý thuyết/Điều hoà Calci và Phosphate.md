@@ -34,16 +34,16 @@
 - khoảng kẽ nhờ protein **claudin-16**
 - Gradient điện thế dương trong lòng ống do kênh K⁺ (ROMK) tạo ra.
 ### Ống lượng xa và ống góp (10 – 15%):
-- Tái hấp thu chủ động xuyên tế bào qua kênh **TRPV5** ở màng đỉnh, 
+- Tái hấp thu chủ động xuyên tế bào qua kênh  **TRPV5** ở màng đỉnh, 
 - protein **Calbindin-D9k/D28k** trong bào tương
 - bơm **NCX1, PMCA1b** ở màng đáy bên.  
 ### hormone *PTH* và *calcitriol*
 ## Xương
 ### tinh thể **hydroxyapatite** `Ca₁₀(PO₄)₆(OH)₂` 
-### Tạo cốt bào (*osteoblast*):** 
+### Tạo cốt bào *(osteoblast)* 
 - tổng hợp collagen typ 1 tạo chất nền xương (osteoid) 
 - lắng đọng khoáng chất tạo xương mới.
-### Hủy cốt bào (*osteoclast*)
+### Hủy cốt bào *(osteoclast)*
 - enzyme **collagenase**
 - ion `H⁺` (qua bơm V-ATPase)
 ```
