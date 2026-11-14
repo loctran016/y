@@ -82,7 +82,7 @@
 ### Tại thận
 - kích thích thụ thể PTH1R, kích hoạt adenylyl cyclase/cAMP/PKA làm mở kênh **TRPV5**, - tăng tái hấp thu chủ động `Ca²⁺` ở ống lượn xa và ống góp.
 ### Tăng tổng hợp Calcitriol
-- kích thích enzyme **1`α`-hydroxylase** tại thận chuyển 25-(OH)D3 thành dạng hoạt tính `1,25-(OH)₂D₃`, từ đó gián tiếp tăng hấp thu calci tại ruột.
+- kích thích enzyme **1`α`-hydroxylase**, gián tiếp tăng hấp thu calci tại ruột.
 ```
 
 ### Hormone PTH (Parathyroid Hormone)
