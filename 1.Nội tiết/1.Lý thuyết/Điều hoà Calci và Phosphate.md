@@ -7,7 +7,7 @@
 
 ---
 
-## Điều hoà Calci & Phosphate trong huyết tương
+## Các cơ quan điều hoà Calci huyết tương
 
 ```markmap
 ## Ruột non
@@ -72,7 +72,7 @@
 
 ---
 
-## ĐIỀU HÒA NỒNG ĐỘ CALCI HUYẾT TƯƠNG
+## Hormone tham gia điều hoà Calci huyết tương
 
 ### Hormone PTH (Parathyroid Hormone)
 
@@ -106,7 +106,7 @@ Nồng độ ion `Ca²⁺` huyết tương cao tác động trực tiếp lên t
 
 ---
 
-## HOẠT ĐỘNG CÂN BẰNG VÀ ĐIỀU HÒA PHOSPHATE
+## Điều hoà Phosphate
 
 ### Hấp thu và Tái hấp thu Phosphate
 
