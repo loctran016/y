@@ -166,7 +166,7 @@ Dưới đây là tổng hợp toàn bộ **các bệnh lý, hội chứng và t
 
 ## Tổng hợp bệnh lý
 
-### **I. CÁC BỆNH LÝ VÀ HỘI CHỨNG VỀ TUYẾN GIÁP**
+### Bệnh lý tuyến giáp
 
 1. **Bệnh Basedow (Bệnh Graves / Diffuse Toxic Goiter):**
    * **Bản chất:** Bệnh lý cường giáp tự miễn phổ biến nhất (chiếm 50 – 80% các trường hợp nhiễm độc giáp), do tự kháng thể **TSI / TRAb** gắn và kích thích liên tục thụ thể TSHR tại tuyến giáp.
@@ -205,7 +205,7 @@ Dưới đây là tổng hợp toàn bộ **các bệnh lý, hội chứng và t
 
 ---
 
-### **II. CÁC BỆNH LÝ VÀ HỘI CHỨNG VỀ TUYẾN THƯỢNG THẬN**
+### Bệnh lý Tuyến thượng thận
 
 1. **Hội chứng Cushing & Bệnh Cushing (Cushing's Syndrome & Cushing's Disease):**
    * **Hội chứng Cushing:** Tình trạng phơi nhiễm mạn tính với nồng độ cortisol cao (nội sinh hoặc ngoại sinh do dùng thuốc glucocorticoid).
@@ -235,7 +235,7 @@ Dưới đây là tổng hợp toàn bộ **các bệnh lý, hội chứng và t
 
 ---
 
-### **III. CÁC BỆNH LÝ VÀ HỘI CHỨNG VỀ TUYẾN YÊN VÀ VÙNG HẠ ĐỒI**
+### Bệnh lý tuyến yên và vùng hạ đồi
 
 1. **Hội chứng Sheehan (Hoại tử tuyến yên sau sinh):**
    * **Bản chất:** Tình trạng thiếu máu cục bộ gây hoại tử thùy trước tuyến yên sau một cuộc đẻ bị mất máu nặng/tụt huyết áp kéo dài, dẫn đến suy đa tuyến nội tiết thứ phát (mất sữa, mất kinh, suy giáp, suy thượng thận).
@@ -249,7 +249,7 @@ Dưới đây là tổng hợp toàn bộ **các bệnh lý, hội chứng và t
 
 ---
 
-### **IV. CÁC BỆNH VÀ HỘI CHỨNG LIÊN QUAN ĐẾN ĐÁI THÁO ĐƯỜNG**
+### Đái tháo đường
 
 1. **Đái tháo đường người trẻ khởi phát lúc trưởng thành (MODY - Maturity-Onset Diabetes of the Young):**
    * **Bản chất:** Đái tháo đường di truyền trội trên nhiễm sắc thể thường do khiếm khuyết đơn gen về chức năng tế bào \\(\beta\\) (thường gặp MODY1, MODY2 - gen glucokinase, MODY3 - gen HNF-1a). Khởi phát < 25 tuổi, không béo phì.
