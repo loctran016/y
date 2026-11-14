@@ -17,7 +17,7 @@
 
 ## HOẠT ĐỘNG CÂN BẰNG CALCI TẠI CÁC CƠ QUAN
 
-```
+```markmap
 ## Ruột non
 ### Xuyên bào: tá, hỗng tràng
 - kênh TRPV6
