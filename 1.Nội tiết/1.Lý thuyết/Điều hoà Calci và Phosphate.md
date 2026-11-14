@@ -17,7 +17,12 @@
 
 ## HOẠT ĐỘNG CÂN BẰNG CALCI TẠI CÁC CƠ QUAN
 
-
+```
+## Ruột non
+### Xuyên bào: tá, hỗng tràng
+- kênh TRPV6
+### Khoảng kẽ 
+```
 
 ### Tại đường tiêu hóa (Ruột non)
 
