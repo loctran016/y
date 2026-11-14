@@ -17,6 +17,8 @@
 
 ## HOẠT ĐỘNG CÂN BẰNG CALCI TẠI CÁC CƠ QUAN
 
+
+
 ### Tại đường tiêu hóa (Ruột non)
 
 - Nhu cầu tiêu thụ calci trung bình qua thức ăn khoảng 1.000 mg/ngày, trong đó có khoảng 400 – 500 mg được hấp thu và khoảng 300 mg bị mất trở lại qua dịch tiêu hóa. Như vậy, lượng calci thực sự được cơ thể hấp thu ròng chỉ khoảng 100 – 200 mg/ngày.
