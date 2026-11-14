@@ -159,3 +159,121 @@
 - **Độc tính tỷ lệ thuận với hiệu lực kháng viêm:** Thuốc kháng viêm càng mạnh (như Dexamethasone) thì nguy cơ gây tăng đường huyết, loãng xương và ức chế thượng thận càng cao.
 - **Nguyên tắc rút thuốc:** Dùng < 2 tuần có thể ngưng ngay; dùng > 2 tuần phải giảm liều từ từ trước khi dừng để tránh suy thượng thận cấp.
 - **Dự phòng biến chứng xương:** BN dùng kéo dài cần bổ sung hàng ngày **1.500 mg `Ca²⁺` + 400 UI Vitamin D**, kết hợp kiểm tra mật độ xương.
+
+Dưới đây là tổng hợp toàn bộ **các bệnh lý, hội chứng và tên thương tổn đặc biệt có tên riêng (tên tác giả, tên tên gốc tiếng Anh/La-tinh)** xuất hiện trong toàn bộ giáo trình và tài liệu *Nội tiết học cơ bản*:
+
+---
+
+## Tổng hợp bệnh lý
+
+### **I. CÁC BỆNH LÝ VÀ HỘI CHỨNG VỀ TUYẾN GIÁP**
+
+1. **Bệnh Basedow (Bệnh Graves / Diffuse Toxic Goiter):**
+   * **Bản chất:** Bệnh lý cường giáp tự miễn phổ biến nhất (chiếm 50 – 80% các trường hợp nhiễm độc giáp), do tự kháng thể **TSI / TRAb** gắn và kích thích liên tục thụ thể TSHR tại tuyến giáp.
+   * **Đặc điểm:** Tuyến giáp to lan tỏa, lồi mắt, phù niêm trước xương chày và ngón tay dùi trống (*thyroid acropachy*).
+
+2. **Viêm giáp Hashimoto (Chronic Lymphocytic Thyroiditis):**
+   * **Bản chất:** Bệnh lý viêm giáp tự miễn mạn tính hàng đầu gây suy giáp, do kháng thể **anti-TPO** và **anti-Tg** phá hủy mô nang giáp.
+   * **Đặc điểm mô học:** Thâm nhiễm rộng rãi lympho bào tạo **trung tâm mầm (nang lympho)** và sự xuất hiện của các **tế bào Hürthle** (tế bào bọt/ưa acid phì đại).
+
+3. **Viêm giáp bán cấp de Quervain (de Quervain's Thyroiditis / Viêm giáp hạt):**
+   * **Bản chất:** Viêm giáp không do vi khuẩn, thường xảy ra sau đợt nhiễm siêu vi đường hô hấp trên.
+   * **Đặc điểm:** Tuyến giáp sưng to và **đau nhiều khi sờ**, gây cường giáp thoáng qua (do giải phóng chất keo) rồi chuyển sang suy giáp thoáng qua trước khi bình phục.
+
+4. **Bệnh Đần độn bẩm sinh (Cretinism):**
+   * **Bản chất:** Suy giáp bẩm sinh ở trẻ sơ sinh không được phát hiện và điều trị kịp thời bằng Levothyroxine trong những tháng đầu sau sinh.
+   * **Hậu quả:** Trẻ bị lùn không đối xứng, chân tay ngắn, lưỡi thè out, chậm phát triển trí tuệ và tâm thần vĩnh viễn không thể phục hồi.
+
+5. **Phù niêm / Hôn mê phù niêm (Myxedema / Myxedema Coma):**
+   * **Bản chất:** Tình trạng suy giáp nặng diễn tiến lâu ngày làm lắng đọng chất mucopolysaccharide và hyaluronic acid ở mô hạ da và các cơ quan. Cấp cứu **Hôn mê phù niêm** là biến chứng tử vong cao, cần tiêm tĩnh mạch Levothyroxine phối hợp Hydrocortisone.
+
+6. **Hội chứng Allan-Herndon-Dudley:**
+   * **Bản chất:** Đột biến gen vận chuyển hormone giáp **MCT8** (*monocarboxylate transporter 8*) làm T3 không đi vào tế bào thần kinh được, gây tình trạng suy giáp nội bào, chậm phát triển tâm thần nặng và bệnh lý cơ.
+
+7. **Hiệu ứng Jod-Basedow & Hiệu ứng Wolff-Chaikoff:**
+   * **Jod-Basedow:** Tình trạng **cường giáp** xuất hiện khi đưa lượng lớn iod vào cơ thể bệnh nhân có sẵn bướu giáp tiềm ẩn.
+   * **Wolff-Chaikoff:** Tình trạng **suy giáp tạm thời** khi đưa lượng lớn iod vào cơ thể người bình thường do tuyến giáp tự ngắt kênh NIS để bảo vệ.
+
+8. **U quái giáp buồng trứng (Struma ovarii):**
+   * **Bản chất:** U quái buồng trứng chứa mô tuyến giáp trưởng thành có khả năng tự động tiết hormone giáp gây cường giáp.
+
+9. **Các thể Ung thư Tuyến giáp (Carcinoma):**
+   * **Carcinoma dạng nhú (PTC):** Thường gặp nhất (>80%), đặc trưng bởi **nhân sáng Orphan Annie** (nhân mắt trẻ Orphan Annie), khía nhân và **thể Psammoma (thể cát)**.
+   * **Carcinoma dạng nang (FTC):** Chẩn đoán ác tính dựa vào hình ảnh tế bào u **xâm lấn vỏ bao xơ hoặc xâm lấn mạch máu**.
+   * **Carcinoma dạng tủy (MTC):** Xuất phát từ **tế bào C cận nang** (tiết calcitonin), mô kẽ có lắng đọng **chất dạng tinh bột (Amyloid)**.
+   * **Carcinoma không biệt hóa (Anaplastic):** Cực kỳ ác tính, tế bào dị dạng khổng lồ, diễn tiến nhanh.
+
+---
+
+### **II. CÁC BỆNH LÝ VÀ HỘI CHỨNG VỀ TUYẾN THƯỢNG THẬN**
+
+1. **Hội chứng Cushing & Bệnh Cushing (Cushing's Syndrome & Cushing's Disease):**
+   * **Hội chứng Cushing:** Tình trạng phơi nhiễm mạn tính với nồng độ cortisol cao (nội sinh hoặc ngoại sinh do dùng thuốc glucocorticoid).
+   * **Bệnh Cushing:** Là nguyên nhân nội sinh thường gặp nhất, do **u tuyến yên tiết ACTH** (thường là microadenoma < 10 mm).
+
+2. **Bệnh Addison (Suy thượng thận mạn nguyên phát):**
+   * **Bản chất:** Tổn thương phá hủy vỏ thượng thận (do tự miễn, lao, xuất huyết, u di căn), gây thiếu hụt cả 3 dòng hormone: cortisol, aldosterone và androgen.
+   * **Triệu chứng đặc trưng:** **Sạm da niêm** (do ACTH và MSH tăng cao phản ứng), hạ huyết áp tư thế, hạ \\(\text{Na}^+\\), tăng \\(\text{K}^+\\) máu, thèm ăn muối.
+
+3. **Hội chứng Conn (Cường Aldosterone nguyên phát):**
+   * **Bản chất:** U lành tính (adenoma) hoặc quá sản lớp cầu vỏ thượng thận tự động tăng tiết aldosterone.
+   * **Đặc điểm:** Tăng huyết áp kèm hạ \\(\text{K}^+\\) máu, nồng độ **Aldosterone tăng nhưng Renin máu bị ức chế giảm** (Tỷ số ARR > 30).
+
+4. **U tủy thượng thận (Pheochromocytoma):**
+   * **Bản chất:** U xuất phát từ **tế bào ưa chrom (*chromaffin cells*)** ở tủy thượng thận, tiết ồ ạt catecholamine (epinephrine/norepinephrine).
+   * **Đặc điểm:** Tăng huyết áp kịch phát, đau đầu, vãi mồ hôi, hồi hộp. Mô bệnh học có cấu trúc ổ tế bào **Zellballen** và phản ứng nhuộm đen với muối dichromate. tuân theo **Quy tắc 10%**.
+
+5. **Loạn dưỡng thượng thận chất trắng (X-linked Adrenoleukodystrophy - ALD):**
+   * **Bản chất:** Bệnh di truyền liên kết nhiễm sắc thể X gây rối loạn chuyển hóa acid béo chuỗi rất dài, dẫn đến mất myelin hệ thần kinh trung ương phối hợp với suy vỏ thượng thận (bệnh Addison).
+
+6. **Hội chứng Đa tuyến tự miễn (Autoimmune Polyendocrine Syndrome - APS):**
+   * **APS typ I:** Suy thượng thận + suy cận giáp + nhiễm nấm Candida niêm mạc.
+   * **APS typ II:** Suy thượng thận + viêm giáp tự miễn Hashimoto + đái tháo đường típ 1.
+
+7. **Các hội chứng di truyền gây U/Tăng sản vỏ thượng thận:**
+   * **Hội chứng Li-Fraumeni, Hội chứng Beckwith-Wiedemann, Hội chứng Carney** (gây tăng sản vỏ thượng thận dạng nốt nhỏ/nốt lớn kèm nevi xanh, u nhầy tim).
+
+---
+
+### **III. CÁC BỆNH LÝ VÀ HỘI CHỨNG VỀ TUYẾN YÊN VÀ VÙNG HẠ ĐỒI**
+
+1. **Hội chứng Sheehan (Hoại tử tuyến yên sau sinh):**
+   * **Bản chất:** Tình trạng thiếu máu cục bộ gây hoại tử thùy trước tuyến yên sau một cuộc đẻ bị mất máu nặng/tụt huyết áp kéo dài, dẫn đến suy đa tuyến nội tiết thứ phát (mất sữa, mất kinh, suy giáp, suy thượng thận).
+
+2. **Hội chứng McCune-Albright:**
+   * **Bản chất:** Đột biến hoạt hóa gen \\(\text{Gs}\alpha\\) gây đa u nội tiết (dậy thì sớm, u tuyến yên, cường giáp) kèm các mảng da màu cà phê sữa và loạn sản xơ xương.
+
+3. **Hội chứng Đa sản nội tiết (Multiple Endocrine Neoplasia - MEN):**
+   * **MEN 1:** U tuyến yên + u tuyến cận giáp + u tụy nội tiết.
+   * **MEN 2A / 2B:** Ung thư tuyến giáp thể tủy (MTC) + U tủy thượng thận (Pheochromocytoma) + u tuyến cận giáp (MEN 2A) hoặc hình thái giống Marfan/u thần kinh niêm mạc (MEN 2B).
+
+---
+
+### **IV. CÁC BỆNH VÀ HỘI CHỨNG LIÊN QUAN ĐẾN ĐÁI THÁO ĐƯỜNG**
+
+1. **Đái tháo đường người trẻ khởi phát lúc trưởng thành (MODY - Maturity-Onset Diabetes of the Young):**
+   * **Bản chất:** Đái tháo đường di truyền trội trên nhiễm sắc thể thường do khiếm khuyết đơn gen về chức năng tế bào \\(\beta\\) (thường gặp MODY1, MODY2 - gen glucokinase, MODY3 - gen HNF-1a). Khởi phát < 25 tuổi, không béo phì.
+
+2. **Đái tháo đường di truyền từ mẹ và điếc (MIDD - Maternally Inherited Diabetes and Deafness):**
+   * **Bản chất:** Đái tháo đường do đột biến DNA ty thể di truyền theo dòng mẹ, kèm theo khiếm thính/điếc.
+
+3. **Hội chứng Wolfram (Hội chứng DIDMOAD):**
+   * **Bản chất:** Bệnh di truyền lặn trên NST thường gồm 4 thành phần: Đái tháo nhạt (*Diabetes insipidus*), Đái tháo đường (*Diabetes mellitus*), Teo thần kinh thị (*Optic atrophy*) và Điếc (*Deafness*).
+
+4. **Hội chứng Rabson-Mendenhall & Bệnh Leprechaunism (Hội chứng Donohue):**
+   * **Bản chất:** Đột biến gen thụ thể insulin nặng ở trẻ em gây đề kháng insulin cực kịch phát, tăng insulin máu, dị dạng khuôn mặt, rậm lông, móng tay bất thường.
+
+5. **Hội chứng Người cứng (Stiff-person syndrome):**
+   * **Bản chất:** Bệnh tự miễn thần kinh do xuất hiện tự kháng thể chống lại enzyme **GAD65** (*Glutamic acid decarboxylase*) – cũng là tự kháng thể gặp trong đái tháo đường típ 1A.
+
+6. **Các hội chứng di truyền kết hợp với Đái tháo đường:**
+   * **Hội chứng Down, Klinefelter, Turner, Thất điều vận động Friedreich, Múa vờn Huntington, Lawrence-Moon-Biedl, Prader-Willi, Porphyria, Loạn dưỡng trương lực cơ.**
+
+7. **Các tổn thương mô học có tên tác giả trong Đái tháo đường:**
+   * **Hội chứng Kimmelstiel-Wilson (Xơ hóa cầu thận dạng nốt):** Tổn thương vi thể đặc hiệu nhất của bệnh thận đái tháo đường, gồm các khối xơ tròn/bầu dục ưa acid PAS(+) ở trung tâm thùy cầu thận.
+   * **Tổn thương Armanni-Ebstein:** Hiện tượng tế bào biểu mô ống lượng gần ứ đọng nhiều hạt glycogen trong bào tương (bào tương sáng nhạt) khi đường huyết tăng rất cao.
+   * **Hoại tử mỡ lipoid đái tháo đường (*Necrobiosis lipoidica diabeticorum*):** Tổn thương da dạng mảng hoại tử mỡ vi mạch ở vùng cẳng chân.
+
+8. **Dị tật Aplasia Cutis (Aplasia cutis congenita):**
+   * **Bản chất:** Dị tật khuyết da đầu bẩm sinh ở trẻ sơ sinh có mẹ sử dụng thuốc kháng giáp **Methimazole** trong 3 tháng đầu thai kỳ. 
+ 
