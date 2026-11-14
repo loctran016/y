@@ -7,14 +7,6 @@
 
 ---
 
-## TRẠNG THÁI CALCI VÀ PHOSPHATE TRONG HUYẾT TƯƠNG
-
-- **Phân bố Calci huyết tương:** Calci trong huyết tương tồn tại dưới ba dạng chính: khoảng 40% gắn với albumin, 15% kết hợp với các ion phức hợp như citrate, sulfate, phosphate và 45% còn lại ở dạng ion `Ca²⁺` tự do. Chỉ có dạng ion `Ca²⁺` tự do mới có hoạt tính sinh học và chịu sự điều hòa trực tiếp của các hormone.
-- **Phân bố Phosphate huyết tương:** Phosphate lưu hành dưới hai dạng hữu cơ (phospholipid, phosphate este) và vô cơ. Dạng vô cơ hiện diện chủ yếu dưới hai ion `HPO₄²⁻` và `H₂PO₄⁻` với tỷ lệ 4:1 ở mức pH sinh lý trung tính (pH = 7,4).
-- **Ba cơ quan trung tâm:** Sự cân bằng calci và phosphate trong cơ thể được kiểm soát chặt chẽ bởi sự phối hợp hoạt động giữa ba cơ quan: **đường tiêu hóa, xương và thận**.
-
----
-
 ## Điều hoà Calci & Phosphate trong huyết tương
 
 ```markmap
@@ -47,6 +39,14 @@
 - enzyme **collagenase**
 - ion `H⁺` (qua bơm V-ATPase)
 ```
+
+### Calci & Phosphate trong huyết tương
+
+- **Phân bố Calci huyết tương:** Calci trong huyết tương tồn tại dưới ba dạng chính: khoảng 40% gắn với albumin, 15% kết hợp với các ion phức hợp như citrate, sulfate, phosphate và 45% còn lại ở dạng ion `Ca²⁺` tự do. Chỉ có dạng ion `Ca²⁺` tự do mới có hoạt tính sinh học và chịu sự điều hòa trực tiếp của các hormone.
+- **Phân bố Phosphate huyết tương:** Phosphate lưu hành dưới hai dạng hữu cơ (phospholipid, phosphate este) và vô cơ. Dạng vô cơ hiện diện chủ yếu dưới hai ion `HPO₄²⁻` và `H₂PO₄⁻` với tỷ lệ 4:1 ở mức pH sinh lý trung tính (pH = 7,4).
+- **Ba cơ quan trung tâm:** Sự cân bằng calci và phosphate trong cơ thể được kiểm soát chặt chẽ bởi sự phối hợp hoạt động giữa ba cơ quan: **đường tiêu hóa, xương và thận**.
+
+---
 
 ### Tại đường tiêu hóa (Ruột non)
 
