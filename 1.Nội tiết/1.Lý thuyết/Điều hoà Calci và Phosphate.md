@@ -15,7 +15,7 @@
 
 ---
 
-## HOẠT ĐỘNG CÂN BẰNG CALCI TẠI CÁC CƠ QUAN
+## Điều hoà Calci & Phosphate trong huyết tương
 
 ```markmap
 ## Ruột non
@@ -29,7 +29,7 @@
 - protein **claudin-2**
 ## Thận (Ca²⁺)
 ### Ống lượng gần (~70%)
-- Tái hấp thu thụ động với `Na⁺`.
+- đồng vận chuyển `Na⁺/Ca²⁺` thụ động.
 ### Cành dày quai Henle (~20%)
 - khoảng kẽ nhờ protein **claudin-16**
 - Gradient điện thế dương trong lòng ống do kênh K⁺ (ROMK) tạo ra.
