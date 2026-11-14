@@ -40,7 +40,9 @@
 ### Tạo cốt bào (*osteoblast*):** 
 - tổng hợp collagen typ 1 tạo chất nền xương (osteoid) 
 - lắng đọng khoáng chất tạo xương mới.
-  - **Hủy cốt bào (*osteoclast*):** Là tế bào đa nhân chứa nhiều ty thể và lysosome, bài tiết enzyme **collagenase** và ion `H⁺` (qua bơm V-ATPase) để phá hủy mô xương, giải phóng `Ca²⁺` và `PO₄³⁻` vào dịch ngoại bào. 
+### Hủy cốt bào (*osteoclast*)
+- enzyme **collagenase**
+- ion `H⁺` (qua bơm V-ATPase)
 ```
 
 ### Tại đường tiêu hóa (Ruột non)
