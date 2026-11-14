@@ -24,7 +24,17 @@
 - protein gắn **Calbindin-D9k**
 - bơm **NCX1** (đồng vận chuyển `Na⁺/Ca²⁺`)
 - **PMCA1b** (bơm `Ca²⁺-ATPase 1b`)
-### Khoảng kẽ 
+### Khoảng kẽ
+- suốt chiều dài ruột non
+- protein **claudin-2**
+## Thận (Ca²⁺)
+### Ống lượng gần (~70%):
+- Tái hấp thu thụ động liên kết với sự tái hấp thu ion `Na⁺`.
+### Cành dày quai Henle (chiếm ~20%):** - khoảng kẽ nhờ protein **claudin-16**, dựa trên động lực điện thế dương trong lòng ống do kênh K⁺ (ROMK) tạo ra.
+### Ống lượng xa và ống góp ( 10 – 15%):
+- Tái hấp thu chủ động xuyên tế bào qua kênh **TRPV5** ở màng đỉnh, 
+- protein **Calbindin-D9k/D28k** trong bào tương
+- bơm **NCX1, PMCA1b** ở màng đáy bên.  ### hormone *PTH* và *calcitriol*
 ```
 
 ### Tại đường tiêu hóa (Ruột non)
