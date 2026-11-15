@@ -228,7 +228,7 @@ Nằm phía sau thanh quản, trải từ ngang mức xương móng xuống đ�
 
 ---
 
-## C. Thanh quản
+## Thanh quản
 
 Thanh quản là cơ quan phát âm chính, đồng thời là một đoạn của đường dẫn khí, dài khoảng **4 cm**, rộng **4 cm**, nằm ở phía trước cổ, ngang mức từ đốt sống cổ **C3 đến C6** [12, 17]. Thanh quản nằm dưới xương móng, trên khí quản và phía trước thanh hầu [12, 16].
 
