@@ -213,11 +213,11 @@ Dưới đây là tổng hợp toàn bộ **các bệnh lý, hội chứng và t
 
 2. **Bệnh Addison (Suy thượng thận mạn nguyên phát):**
    * **Bản chất:** Tổn thương phá hủy vỏ thượng thận (do tự miễn, lao, xuất huyết, u di căn), gây thiếu hụt cả 3 dòng hormone: cortisol, aldosterone và androgen.
-   * **Triệu chứng đặc trưng:** **Sạm da niêm** (do ACTH và MSH tăng cao phản ứng), hạ huyết áp tư thế, hạ \\(\text{Na}^+\\), tăng \\(\text{K}^+\\) máu, thèm ăn muối.
+   * **Triệu chứng đặc trưng:** **Sạm da niêm** (do ACTH và MSH tăng cao phản ứng), hạ huyết áp tư thế, hạ `Na⁺`, tăng `K⁺` máu, thèm ăn muối.
 
 3. **Hội chứng Conn (Cường Aldosterone nguyên phát):**
    * **Bản chất:** U lành tính (adenoma) hoặc quá sản lớp cầu vỏ thượng thận tự động tăng tiết aldosterone.
-   * **Đặc điểm:** Tăng huyết áp kèm hạ \\(\text{K}^+\\) máu, nồng độ **Aldosterone tăng nhưng Renin máu bị ức chế giảm** (Tỷ số ARR > 30).
+   * **Đặc điểm:** Tăng huyết áp kèm hạ `K⁺` máu, nồng độ **Aldosterone tăng nhưng Renin máu bị ức chế giảm** (Tỷ số ARR > 30).
 
 4. **U tủy thượng thận (Pheochromocytoma):**
    * **Bản chất:** U xuất phát từ **tế bào ưa chrom (*chromaffin cells*)** ở tủy thượng thận, tiết ồ ạt catecholamine (epinephrine/norepinephrine).
@@ -241,7 +241,7 @@ Dưới đây là tổng hợp toàn bộ **các bệnh lý, hội chứng và t
    * **Bản chất:** Tình trạng thiếu máu cục bộ gây hoại tử thùy trước tuyến yên sau một cuộc đẻ bị mất máu nặng/tụt huyết áp kéo dài, dẫn đến suy đa tuyến nội tiết thứ phát (mất sữa, mất kinh, suy giáp, suy thượng thận).
 
 2. **Hội chứng McCune-Albright:**
-   * **Bản chất:** Đột biến hoạt hóa gen \\(\text{Gs}\alpha\\) gây đa u nội tiết (dậy thì sớm, u tuyến yên, cường giáp) kèm các mảng da màu cà phê sữa và loạn sản xơ xương.
+   * **Bản chất:** Đột biến hoạt hóa gen `Gsα` gây đa u nội tiết (dậy thì sớm, u tuyến yên, cường giáp) kèm các mảng da màu cà phê sữa và loạn sản xơ xương.
 
 3. **Hội chứng Đa sản nội tiết (Multiple Endocrine Neoplasia - MEN):**
    * **MEN 1:** U tuyến yên + u tuyến cận giáp + u tụy nội tiết.
@@ -252,7 +252,7 @@ Dưới đây là tổng hợp toàn bộ **các bệnh lý, hội chứng và t
 ### Đái tháo đường
 
 1. **Đái tháo đường người trẻ khởi phát lúc trưởng thành (MODY - Maturity-Onset Diabetes of the Young):**
-   * **Bản chất:** Đái tháo đường di truyền trội trên nhiễm sắc thể thường do khiếm khuyết đơn gen về chức năng tế bào \\(\beta\\) (thường gặp MODY1, MODY2 - gen glucokinase, MODY3 - gen HNF-1a). Khởi phát < 25 tuổi, không béo phì.
+   * **Bản chất:** Đái tháo đường di truyền trội trên nhiễm sắc thể thường do khiếm khuyết đơn gen về chức năng tế bào `β` (thường gặp MODY1, MODY2 - gen glucokinase, MODY3 - gen HNF-1a). Khởi phát < 25 tuổi, không béo phì.
 
 2. **Đái tháo đường di truyền từ mẹ và điếc (MIDD - Maternally Inherited Diabetes and Deafness):**
    * **Bản chất:** Đái tháo đường do đột biến DNA ty thể di truyền theo dòng mẹ, kèm theo khiếm thính/điếc.

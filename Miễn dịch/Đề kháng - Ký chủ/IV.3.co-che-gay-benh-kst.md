@@ -55,7 +55,7 @@ Các cơ chế gây bệnh:
 
 ## Cơ chế gây bệnh
 
-### 1. Gây bệnh trực tiếp
+### Gây bệnh trực tiếp
 
 Cái ghẻ Sarcoptes scabiei: kích thước 250-450 µm, gây bệnh ghẻ ngứa ở kẻ tay, cổ tay, mông, lưng, nách…
 
@@ -79,7 +79,7 @@ Demodex spp: ký sinh trên da người thường gặp là Demodex folliculorum
 
 Fasciola hepatica: ký sinh trên da người, trâu bò sán non ăn mô gan ký chủ gây viêm gan, áp xe gan.
 
-### 2. Truyền mầm bệnh
+### Truyền mầm bệnh
 
 Ruồi: Tabanus sp truyền các mầm bệnh
 
@@ -116,18 +116,18 @@ Chí: truyền các mầm bệnh
 - Rickettsia prowazekii: sốt phát ban
 - Borrelia recurrentis: sốt hồi qui
 
-### 3. Tạo thuận lợi cho bệnh khác phát triển
+### Tạo thuận lợi cho bệnh khác phát triển
 
 - Entamoeba histolytica: vi khuẩn ruột
 - Clonorchis sinensis: lao
 
-### 4. Rút kiệt
+### Rút kiệt
 
 - Giun móc: hút máu
 - Diphyllobothrium latum: B12
 - Ascaris lumbricoides: dưỡng chất
 
-### 5. Cơ học
+### Cơ học
 
 Tắc ruột: A. lumbricoides
 
@@ -145,13 +145,13 @@ Tắc ống mật do:
 
 Chèn ép gan, phổi: Echinococus granulosis
 
-### 6. Chấn thương
+### Chấn thương
 
 Plasmodium vivax làm hồng cầu phình to, mất độ đàn hồi, đồng thời tiết hemolysin → vỡ hồng cầu
 
 Entamoeba histolytica: tiết men cysteine proteinase phá hủy biểu mô ruột
 
-### 7. Phản ứng mô
+### Phản ứng mô
 
 Quá dưỡng: Plasmodium vivax làm tế bào hồng cầu phì to
 
@@ -162,7 +162,7 @@ Chuyển sản: Paragonimus westermanii ở phổi biến các mô phổi thành
 Tân sinh: tế bào tăng trưởng hỗn loạn.
 Opisthorchis viverrini ký sinh ở ống mật gây ung thư biểu mô ống mật
 
-### 8. Đáp ứng quá mẫn - Dị ứng
+### Đáp ứng quá mẫn - Dị ứng
 
 KST gây dị ứng:
 

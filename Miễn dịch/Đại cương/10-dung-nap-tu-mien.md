@@ -161,7 +161,7 @@ Có 5 nguyên nhân để thoả mãn các cơ chế trên và gây ra bệnh t�
 
 ![Cơ chế bệnh lí tự miễn](/y2/mddc/10-benh-tu-mien.jpeg)
 
-### 1. Sự kích thích của *tự KN lạ*
+### Sự kích thích của *tự KN lạ*
 
 Sự xuất hiện của tự KN mà KN đó không xuất hiện ==trong máu== thời kì bào thai (có thể do chấn thương)
 
@@ -169,19 +169,19 @@ VD:
 
 - Bệnh viêm mắt giao cảm: 1 bên mắt bị tổn thương, trình diện KN, tạo thành KT đồng thời chống cả 2 mắt (tương tự viêm khớp đối xứng)
 
-### 2. *KN ngoại sinh* có epitop tương tự KN nội sinh
+### *KN ngoại sinh* có epitop tương tự KN nội sinh
 
 Cơ thể tạo KT chống lại KN ngoại sinh (VD: EBV,...) sẵn chống luôn KT nội sinh
 
 Ví dụ: Bệnh thấp tim chất hexosamine có trong liên cầu tan huyết nhóm A cũng có trong glucoprotein ở van tim → kháng thể kháng liên cầu, kháng luôn van tim
 
-### 3. Tác nhân *vật lí, hoá học và vi sinh vật*
+### Tác nhân *vật lí, hoá học và vi sinh vật*
 
 ![Cơ chế vi khuẩn có thể khởi động bệnh lí tự miễn](/y2/mddc/10-vk-tu-mien.jpeg)
 
-### 4. Đột biến *HLA*
+### Đột biến *HLA*
 
-### 5. Tổn thương *khả năng kiểm soát* của hệ MD
+### Tổn thương *khả năng kiểm soát* của hệ MD
 
 ## Tác nhân nhiễm bệnh cơ hội
 

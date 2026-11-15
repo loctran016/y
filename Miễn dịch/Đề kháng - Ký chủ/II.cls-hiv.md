@@ -64,7 +64,7 @@ tốt.
 
 Vòm hầu có nấm -> SGMD tại vì nấm bình thường sống không nổi
 
-## 1. Tại sao phải làm 3 xét nghiệm HIV ELISA để chẩn đoán nhiễm HIV?
+## Tại sao phải làm 3 xét nghiệm HIV ELISA để chẩn đoán nhiễm HIV?
 
 ::badge
 
@@ -92,7 +92,7 @@ Hỏi HIV: m có chơi hàng không?
 
 Tứ đại nhiễm trùng cơ hội: Lao & Nấm ở miệng;
 
-## 2. Hãy giải thích kết quả xét nghiệm HIV âm tính lần đầu
+## Hãy giải thích kết quả xét nghiệm HIV âm tính lần đầu
 
 Trước tiên phải xem kết quả xét nghiệm cũ của BN, xem thời điểm làm xét nghiệm rồi xem phương pháp xét nghiệm.
 
@@ -103,7 +103,7 @@ thể mới phát bệnh → âm tính giả
 - Sai sót trong quá trình làm xét nghiệm, nhầm mẫu, nhiễm bẩn…
 - Chưa đủ lượng kháng thể do đang hình thành phức hợp KN-KT
 
-## 3. Tại sao đo số lượng TB Lympho T CD4+ trong máu để theo dõi diễn tiến bệnh
+## Tại sao đo số lượng TB Lympho T CD4+ trong máu để theo dõi diễn tiến bệnh
 
 Cấu trúc kháng nguyên bề mặt virus:
 
@@ -131,7 +131,7 @@ Nếu bạn đã có tải lượng virus dưới ngưỡng phát hiện và s�
 Tuy nhiên, nếu tải lượng virus của bạn đang tăng lên hoặc bạn có các triệu chứng gợi ý HIV đang hoạt động, số lượng tế bào CD4 của bạn sẽ được theo dõi liên tục trong mỗi lần
 thăm khám định kì nhằm đánh giá hiệu quả điều trị, xem xét việc đổi phác đồ nếu có bằng chứng kháng thuốc.
 
-## 4. Tại sao số lượng tế bào Lympho T CD4+ đã giảm rất thấp và ở giai đoạn AIDS thì BN mới có biểu hiện triệu chứng
+## Tại sao số lượng tế bào Lympho T CD4+ đã giảm rất thấp và ở giai đoạn AIDS thì BN mới có biểu hiện triệu chứng
 
 ::badge
 
@@ -159,7 +159,7 @@ Các bệnh nhiễm khuẩn cơ hội có thể xảy ra trong các giai đoạn
 - Bệnh nhiễm nấm Candida
 - Bệnh lao do Mycobacterium tuberculos
 
-## 5. Tại sao cho đến nay chưa tìm ra được vaccines phòng ngừa hiệu quả nhiễm HIV
+## Tại sao cho đến nay chưa tìm ra được vaccines phòng ngừa hiệu quả nhiễm HIV
 
 Bản thân virus:
 

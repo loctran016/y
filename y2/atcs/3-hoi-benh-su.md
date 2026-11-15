@@ -58,7 +58,7 @@ ICE (ideas - concerns - expectations): ý kiến, lo lắng và mong chờ về 
 - Bác lo lắng gì nữa không ạ?
 - **Bác có mong muốn hay còn thắc mắc gì khác nữa không ạ?**
 
-### 1. Khởi đầu(WIIPP)
+### Khởi đầu(WIIPP)
 
 Quy trình chính:
 
@@ -67,14 +67,14 @@ Quy trình chính:
 - Thông tin BN: tên, tuổi, địa chỉ, nghề
 - Ngồi cách 1m
 
-### 2. Lý do khám bệnh (câu hỏi mở)
+### Lý do khám bệnh (câu hỏi mở)
 
 Câu hỏi:
 
 - Hôm nay bác đến vì lí do gì?
 - Ghi nguyên văn, hong thay đổi
 
-### 3. Bệnh sử (SOCRATES) - tập trung làm rõ lí do trên, mở và đóng
+### Bệnh sử (SOCRATES) - tập trung làm rõ lí do trên, mở và đóng
 
 - S: vị trí
 - O: khởi sự (lúc đó làm gì bị đau? bắt đầu ở when, how)
@@ -114,7 +114,7 @@ Câu hỏi:
 - Lối sống, yếu tố nguy cơ
 - Gia cảnh, nguồn lực hỗ trợ
 
-### 7. Lược qua các cơ quan: bệnh lí, quan tâm kèm theo thứ tự ưu tiên để kiểm soát triệu chứng
+### Lược qua các cơ quan: bệnh lí, quan tâm kèm theo thứ tự ưu tiên để kiểm soát triệu chứng
 
 Các cơ quan khác có thể liên quan đến bệnh lí (VD: đau bụng vì vấn đề tiêu tiểu...)
 
@@ -122,14 +122,14 @@ Các cơ quan khác có thể liên quan đến bệnh lí (VD: đau bụng vì 
 - Da niêm: phát ban, ngứa, loét
 - Đầu mặt cổ
 
-### 8. Tóm tắt: tóm tắt có định hướng, by me
+### Tóm tắt: tóm tắt có định hướng, by me
 
-### 9. Hướng chẩn đoán
+### Hướng chẩn đoán
 
 - Sơ bộ:
 - Phân biệt:
 
-### 10. Kết thúc
+### Kết thúc
 
 **Bác có mong muốn hay còn thắc mắc gì khác nữa không ạ?**
 

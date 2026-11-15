@@ -184,7 +184,7 @@ Giảm tiểu cầu thường được tình cờ phát hiện khi kiểm tra hu
 - Nếu nghi ngờ, nên kiểm tra lại huyết đồ và xem lam để loại trừ tình trạng giảm tiểu cầu giả tạo do tiểu cầu co cụm lại với nhau.
 - Sau khi kiểm tra, nếu vẫn thấy tình trạng giảm tiểu cầu thì phải tiến hành thêm những bước khác để xác định chẩn đoán.
 
-### 1. Hỏi bệnh sử và khám TQ
+### Hỏi bệnh sử và khám TQ
 
 Khám tổng quát và hỏi bệnh sử là việc quan trọng nhất trong đánh giá giảm tiểu cầu:
 
@@ -199,7 +199,7 @@ Khám tổng quát và hỏi bệnh sử là việc quan trọng nhất trong đ
 
 Hỏi thêm các triệu chứng về chảy máu kéo dài và những vết bầm tím.
 
-### 2. Thăm khám lâm sàng
+### Thăm khám lâm sàng
 
 Xác định vị trí và mức độ xuất huyết
 
@@ -223,7 +223,7 @@ Xem có tình trạng thiếu máu, giảm bạch cầu hoặc tăng bạch cầ
 
 Các bất thường này gợi ý cho thấy những vấn đề ở tủy xương có thể là nguyên nhân của giảm tiểu cầu.
 
-### 3. Các XN cận lâm sàng
+### Các XN cận lâm sàng
 
 Công thức máu:
 
