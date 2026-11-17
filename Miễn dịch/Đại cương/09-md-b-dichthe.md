@@ -192,7 +192,7 @@ Là sự tương tác, hỗ trợ qua lại giữa T<sub>h</sub> và lympho B tr
 - lympho B trình diện KN và hoạt hoá T<sub>h</sub>2
 - T<sub>h</sub>2 hoạt hoá lympho B
 
-#### 1. Sự hoạt hoá và di chuyển lympho T<sub>h</sub>
+#### Sự hoạt hoá và di chuyển lympho T<sub>h</sub>
 
 TB tua gai trình diện KN và MHC-II cho TCD<sup>4</sup><sub>+</sub>, biệt hoá thành T<sub>h</sub>2
 sản xuất cytokines di chuyển tới vùng rìa nang lympho.
@@ -202,13 +202,13 @@ sản xuất cytokines di chuyển tới vùng rìa nang lympho.
 
 ![Th giúp hoạt hoá lympho B](/y2/mddc/9-th-mddt.jpeg)
 
-#### 2. Sự trình diện KN của lympho B cho Th
+#### Sự trình diện KN của lympho B cho Th
 
 KN protein gắn lên các thụ thể màng của lympho B → nhập bào qua trung gian thụ thể và xử lý rồi trình diện peptid KN cùng với MHC-II cho TCD4+.
 
 ![Lympho B nhận diện KN bằng thụ thể rồi nhập bào, xử lý và trình diện qua MHC II](/y2/mddc/9-lym-b-trinh-dien.jpeg)
 
-#### 3. Tế bào lympho T<sub>h</sub> hoạt hoá lympho B
+#### Tế bào lympho T<sub>h</sub> hoạt hoá lympho B
 
 Tế bào T<sub>h</sub> (Tfh) hoạt hoá, kích thích lympho B tăng sinh, biệt hoá thành tương bào tham gia tổng hợp và sản xuất các KT thông qua 2 cách:
 

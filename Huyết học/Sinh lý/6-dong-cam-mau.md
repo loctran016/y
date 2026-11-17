@@ -18,7 +18,7 @@ Bao gồm
     - Đường chung (I, V, II, X)
 3. Giai đoạn tiêu sợi huyết: plasminogen -> plasmin
 
-## 1. Giai đoạn cầm máu sơ khởi (ban đầu)
+## Giai đoạn cầm máu sơ khởi (ban đầu)
 
 Giai đoạn mạch máu: khi mạch máu bị đứt, mạch máu sẽ co lại
 
@@ -55,7 +55,7 @@ Cấu trúc
 
 Kết dính/ngưng tập: hình thành nút chận tiểu cầu
 
-## 2. Giai đoạn đông máu huyết tương
+## Giai đoạn đông máu huyết tương
 
 Hoạt hóa các yếu tố đông máu để tạo cục máu đông.
 Gồm 3 con đường
@@ -91,7 +91,7 @@ Vai trò
 - Chính: Tan sợi huyết, chống đông máu
 - Phụ: tham gia vào dòng thác đông máu
 
-## 3. Giai đoạn tiêu sợi huyết
+## Giai đoạn tiêu sợi huyết
 
 Tế bào nội mạch cũng tiết ra yếu tố hoạt hóa plasminogen: tPA (Cùng lúc với dòng thác đông máu được hoạt hóa)
 

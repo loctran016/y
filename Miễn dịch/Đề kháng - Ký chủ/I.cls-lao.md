@@ -44,7 +44,7 @@ Khi không còn khu trú được thì con lao bùng lên
 
 AFB: acid fast bacilli  -> AFB + lây > AFB -
 
-## 1. Tại sao phải dùng phương pháp nhuộm kháng acid
+## Tại sao phải dùng phương pháp nhuộm kháng acid
 
 Do VK lao (*Mycobacterium tuberculosis*) có **vách lipid dày** (mycolic acid) nên:
 
@@ -54,7 +54,7 @@ Do VK lao (*Mycobacterium tuberculosis*) có **vách lipid dày** (mycolic acid)
   - Khi tẩy bằng acid-acolhol 3%, Mtb *không bị tẩy màu* (do đã tạo phức với Fuchsin) -> có tính kháng **cồn - acid**
   - Nhuộm nền xanh methylen: nền xanh, nổi mấy *con đỏ*
 
-## 2. Tại sao BN đã chủng ngừa lao vẫn bị mắc bệnh
+## Tại sao BN đã chủng ngừa lao vẫn bị mắc bệnh
 
 Vi khuẩn khi xâm nhập sẽ ẩn nấp trong ĐTB, sẽ  xảy ra 3 TH:
 
@@ -75,7 +75,7 @@ Tại sao BN đã tiêm ngừa vẫn bệnh:
 Một số nước đã bỏ vaccine lao vì thông thường người ta chỉ bắt buộc tiêm vaccine ngừa VK dễ gây ung thư/mức độ lây nhiễm cao tại nước đó
 - KT lưu hành trong máu, dịch nên tác dụng hạn chế lên vk lao ẩn nấp trong ĐTB
 
-## 3. Trên cơ sở miễn dịch học giải thích các triệu chứng của bệnh nhân
+## Trên cơ sở miễn dịch học giải thích các triệu chứng của bệnh nhân
 
 Quan trọng: IL-1, IL-6, **TFN-alpha**
 
@@ -118,7 +118,7 @@ Lympho T và ĐTB tiết ra IL-1, IL-6, **TFN-alpha**:
 
 Tiêu tốn năng lượng cho đáp ứng viêm (phụ)
 
-## 4. Chị gái anh mang thai sắp sinh, thắc mắc có nên chủng ngừa lao cho con sau khi sinh không?
+## Chị gái anh mang thai sắp sinh, thắc mắc có nên chủng ngừa lao cho con sau khi sinh không?
 
 Ở VN tiêm ngừa lao và viêm gan B nằm trong chương trình tiêm chủng mở rộng
 → bắt buộc chủng ngừa trong 24-48h ngay sau sinh
