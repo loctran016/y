@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ tìm hiểu **Bài 18: Than phiền vùng hậu môn**. Đây là nhóm triệu chứng cơ năng rất thường gặp trong thực hành lâm sàng ngoại khoa tiêu hóa và hậu môn – trực tràng.
 
@@ -32,7 +32,7 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ tìm hiểu **Bài 18: Than
 
 ---
 
-## 2. GIẢI PHẪU BÌNH THƯỜNG CỦA ỐNG HẬU MÔN
+## GIẢI PHẪU BÌNH THƯỜNG CỦA ỐNG HẬU MÔN
 
 Để giải thích được cơ chế và triệu chứng của các bệnh lý hậu môn – trực tràng, chúng ta cần nắm vững các mốc giải phẫu quan trọng:
 
@@ -45,7 +45,7 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ tìm hiểu **Bài 18: Than
 
 ---
 
-## 3. TIÊU RA MÁU
+## TIÊU RA MÁU
 
 Tiêu ra máu là triệu chứng xuất hiện ở **15 – 20% dân số ở mọi lứa tuổi**.
 
@@ -53,7 +53,7 @@ Tiêu ra máu là triệu chứng xuất hiện ở **15 – 20% dân số ở m
   * *Tiêu phân đen:* Là triệu chứng của chảy máu đường tiêu hóa trên (trên góc Treitz). Phân sệt, không có khuôn, màu đen như hắc ín/chè mè đen hoặc nâu như bã cà phê, mùi thối khắm, thường kèm chóng mặt, choáng váng.
   * *Tiêu ra máu:* Máu đỏ tươi hoặc đỏ bầm dính trên giấy vệ sinh sau khi chùi, nhỏ giọt xuống bồn cầu, chảy thành tia như cắt tiết gà, hoặc dính trên bề mặt khối phân / đáy quần lót.
 
-### 3.1. Nguyên nhân và đặc điểm
+### Nguyên nhân và đặc điểm
 
 * **Trĩ (đặc biệt là Trĩ nội):** Tiêu ra máu **không kèm đau hậu môn**. Máu chảy khi bắt đầu rặn hoặc sau khi đi tiêu xong (dính giấy vệ sinh, nhỏ giọt hoặc chảy thành tia). Tiêu máu thường kèm theo khối sa hậu môn khi trĩ nội từ độ II trở lên.
 * **Nứt hậu môn:** Là vết rách da hậu môn (*anoderm*) nằm dưới đường lược (thường ở vị trí giữa – sau). Máu đỏ tươi lượng ít dính giấy chùi hoặc nhỏ vài giọt. Triệu chứng nổi bật nhất là **đau rát hậu môn dữ dội khi đi tiêu**.
@@ -74,28 +74,28 @@ Tiêu ra máu là triệu chứng xuất hiện ở **15 – 20% dân số ở m
 | **2 – 5%** | **Thương tổn mạch máu** (Dị dạng động tĩnh mạch – AVMs) |
 | **1%** | **Loét lành tính** (do dùng NSAID, phân cứng kéo dài) |
 
-### 3.2. Hỏi bệnh sử, tiền sử
+### Hỏi bệnh sử, tiền sử
 
 * **Mối liên quan giữa máu và phân:**
   * *Máu chảy cùng với phân:* Máu lẫn trong phân (chảy máu từ trên đại tràng chậu hông); Máu dính trên bề mặt khối phân (chảy máu từ trực tràng và hậu môn).
   * *Máu chảy không cùng với phân:* Máu chảy riêng biệt (trước hoặc sau khi phân ra, nhỏ giọt xuống bồn cầu); Máu dính giấy vệ sinh (chảy máu từ da hậu môn).
 * **Tiền sử cần khai thác:** Nghề nghiệp, rượu bia, thuốc lá, thói quen ăn uống, táo bón kéo dài, tiền sử bệnh viêm ruột (lao ruột, Crohn, IBD), dùng thuốc chống đông/NSAID, tiền sử xạ trị vùng chậu, thói quen giao hợp ngả hậu môn, tiền sử gia đình bị đa polyp hoặc ung thư đại trực tràng.
 
-### 3.3. Khám lâm sàng
+### Khám lâm sàng
 * **Nguyên tắc:** Trấn an bệnh nhân, khám trong phòng kín, đủ ánh sáng, bắt buộc có người thứ ba làm chứng (đặc biệt khi bệnh nhân là nữ).
 * **Nhìn:** Quan sát hậu môn, vùng quanh hậu môn, quần lót để phát hiện máu, các khối sa, hình thể khối sa, banh nhẹ hậu môn tìm vết nứt/loét.
 * **Thăm trực tràng bằng ngón tay (BẮT BUỘC):** Đánh giá trương lực cơ thắt, tìm khối u trực tràng, polyp, búi trĩ, tổn thương cứng rải rác.
 * **Khám toàn thân:** Đánh giá tình trạng thiếu máu, hạch ngoại vi, sụt cân...
 
-### 3.4. Nội soi đại trực tràng
+### Nội soi đại trực tràng
 Chỉ định cận lâm sàng nội soi theo độ tuổi và yếu tố nguy cơ:
 * **< 40 tuổi:** Có thể theo dõi lâm sàng hoặc chỉ định nội soi trực tràng.
 * **40 – 49 tuổi:** Chỉ định nội soi trực tràng hoặc nội soi đại tràng.
-* **\\(\ge 50\\) tuổi (hoặc có triệu chứng báo động / tiền sử gia đình ung thư):** **Bắt buộc phải nội soi toàn bộ đại tràng**.
+* **`≥ 50` tuổi (hoặc có triệu chứng báo động / tiền sử gia đình ung thư):** **Bắt buộc phải nội soi toàn bộ đại tràng**.
 
 ---
 
-## 4. KHỐI SA HAY KHỐI PHỒNG HẬU MÔN
+## KHỐI SA HAY KHỐI PHỒNG HẬU MÔN
 
 Khi có khối sa ở hậu môn, bệnh nhân thường rất lo lắng không biết mình bị trĩ hay ung thư. Bác sĩ cần thăm khám kỹ để phân biệt các nguyên nhân qua Bảng 2:
 
@@ -112,7 +112,7 @@ Khi có khối sa ở hậu môn, bệnh nhân thường rất lo lắng không 
 
 ---
 
-## 5. ĐAU HẬU MÔN
+## ĐAU HẬU MÔN
 
 Đau hậu môn được chia thành **3 nhóm nguyên nhân chính**:
 
@@ -123,11 +123,11 @@ Khi có khối sa ở hậu môn, bệnh nhân thường rất lo lắng không 
 | **2. Đau lan tới hậu môn (do thần kinh)** | • Viêm / đau xương cụt (sau té ngã, sờ ấn vùng xương cụt đau) <br>• Chèn ép rễ thần kinh vùng xương cùng <br>• Viêm tiền liệt tuyến <br>• Bệnh lý tử cung (viêm tử cung, u tử cung chèn ép, viêm vùng chậu) |
 | **3. Do rối loạn chức năng sàn chậu** | • **Proctalgia Fugax** *(Thường gặp – cơn đau nhói ngắn kéo dài vài giây đến vài phút)* <br>• Hội chứng cơ nâng hậu môn *(Đau kéo dài > 20 phút)* |
 
-### 5.1. Hỏi bệnh sử
+### Hỏi bệnh sử
 * Đặt câu hỏi mở về thời điểm xuất hiện cơn đau, hoàn cảnh khởi phát, đặc điểm cơn đau (đau như dao cắt/cứa rách hay đau nhức buốt liên tục).
 * **Các triệu chứng báo động (Báo hiệu ung thư/nhiễm trùng nặng):** Sụt cân không rõ nguyên nhân, thiếu máu mạn tính, đi tiêu phân có máu lẫn nhầy hoặc màu nâu, sốt, đau ngày càng tăng dần, mất cảm giác/sức cơ vùng tầng sinh môn, thay đổi thói quen đại tiện ở người **> 50 tuổi**.
 
-### 5.2. Lưu đồ tiếp cận chẩn đoán đau hậu môn
+### Lưu đồ tiếp cận chẩn đoán đau hậu môn
 
 ```
                               ĐAU HẬU MÔN
@@ -145,11 +145,11 @@ Khi có khối sa ở hậu môn, bệnh nhân thường rất lo lắng không 
   tím sậm -> Trĩ tắc mạch     Sa trực tràng           Hội chứng cơ nâng        Bướu tân sinh/Ung thư
 ```
 
-### 5.3. Những điều cần ghi nhớ
+### Những điều cần ghi nhớ
 1. **3 nguyên nhân gây đau hậu môn thường gặp nhất:** **Nứt hậu môn**, **Trĩ tắc mạch** và **Áp xe hậu môn – trực tràng**.
 2. **Đặc điểm lâm sàng đặc trưng của Nứt hậu môn cấp:**
    * Cảm giác đau như **dao cắt hoặc mảnh thủy tinh cứa** vào hậu môn khi phân đi qua.
-   * **Diễn tiến đau 3 giai đoạn điển hình:** Đau dữ dội khi rặn phân ra \\(\rightarrow\\) Hết đau kéo dài 10 – 15 phút \\(\rightarrow\\) Đau dữ dội trở lại kéo dài nhiều giờ. Ngoài cơn đau bệnh nhân hoàn toàn bình thường.
+   * **Diễn tiến đau 3 giai đoạn điển hình:** Đau dữ dội khi rặn phân ra `→` Hết đau kéo dài 10 – 15 phút `→` Đau dữ dội trở lại kéo dài nhiều giờ. Ngoài cơn đau bệnh nhân hoàn toàn bình thường.
    * *Hình ảnh khám:* Vết loét hình vợt. Nứt hậu môn mạn tính thường có **Tam chứng nứt hậu môn**: Vết loét sâu thấy thớ cơ thắt trong, đầu ngoài có da thừa hậu môn, đầu trong có nhú gai phì đại.
 3. **Trĩ tắc mạch (Trĩ nội sa tắc mạch hoặc Trĩ ngoại tắc mạch):** Đau dữ dội liên tục khiến bệnh nhân không thể ngồi thẳng được. Khám thấy búi trĩ sưng nề căng cứng, ấn rất đau, có màu tím sậm do khối máu tụ bên trong.
 4. **Tránh sai lầm lâm sàng:** Không được tự ý quy kết tất cả các trường hợp đau hậu môn là do trĩ mà bỏ qua bước thăm trực tràng bằng ngón tay và các cận lâm sàng tầm soát ung thư ở người lớn tuổi.
@@ -158,7 +158,7 @@ Khi có khối sa ở hậu môn, bệnh nhân thường rất lo lắng không 
 
 ### TÓM TẮT NHANH
 1. 4 nhóm than phiền vùng hậu môn thường gặp là tiêu ra máu, đau hậu môn, khối sa hậu môn và rối loạn đại tiện/ngứa.
-2. Tiêu ra máu do trĩ nội thường không đau (máu nhỏ giọt/thành tia); tiêu máu do nứt hậu môn kèm đau xé rách; tiêu máu lẫn nhầy kèm phân dẹt gợi ý ung thư trực tràng. Bệnh nhân \\(\ge 50\\) tuổi tiêu máu bắt buộc phải nội soi toàn bộ đại tràng.
+2. Tiêu ra máu do trĩ nội thường không đau (máu nhỏ giọt/thành tia); tiêu máu do nứt hậu môn kèm đau xé rách; tiêu máu lẫn nhầy kèm phân dẹt gợi ý ung thư trực tràng. Bệnh nhân `≥ 50` tuổi tiêu máu bắt buộc phải nội soi toàn bộ đại tràng.
 3. Phân biệt khối sa hậu môn: Sa trực tràng có các nếp niêm mạc hình đồng tâm; Trĩ nội sa có các ngấn chia thành từng búi đỏ tím; Polyp mềm ấn không xẹp; Nhú gai phì đại sờ cộm chắc màu hồng nhạt.
 4. 3 nguyên nhân đau hậu môn thường gặp nhất là Nứt hậu môn (đau 3 giai đoạn như dao cắt khi đi tiêu), Trĩ tắc mạch (búi trĩ căng tím đau dữ dội) và Áp xe hậu môn.
 5. Thăm trực tràng bằng ngón tay là động tác thăm khám lâm sàng bắt buộc đối với tất cả bệnh nhân có than phiền vùng hậu môn.
@@ -181,7 +181,7 @@ C. Thăm trực tràng bằng ngón tay
 D. Cho thuốc nhuận tràng rồi hẹn tái khám  
 * **👉 Đáp án:** **C. Thăm trực tràng bằng ngón tay** *(Giúp phát hiện ngay các khối u ung thư trực tràng thấp nằm trong tầm ngón tay)*.
 
-**Câu 3: Diễn tiến đau hậu môn điển hình gồm 3 giai đoạn (Đau dữ dội khi phân đi qua \\(\rightarrow\\) Hết đau 10 – 15 phút \\(\rightarrow\\) Đau dữ dội trở lại kéo dài nhiều giờ) với tính chất đau như "dao cắt" là đặc trưng của bệnh lý nào?**
+**Câu 3: Diễn tiến đau hậu môn điển hình gồm 3 giai đoạn (Đau dữ dội khi phân đi qua `→` Hết đau 10 – 15 phút `→` Đau dữ dội trở lại kéo dài nhiều giờ) với tính chất đau như "dao cắt" là đặc trưng của bệnh lý nào?**
 A. Nứt hậu môn cấp tính  
 B. Trĩ ngoại tắc mạch  
 C. Hội chứng *Proctalgia fugax*  

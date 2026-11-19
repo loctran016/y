@@ -20,7 +20,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐỊNH NGHĨA
+## ĐỊNH NGHĨA
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Vàng da**. Đây là một hội chứng lâm sàng liên quan đến nhiều chuyên khoa bao gồm Huyết học, Nội gan mật và Ngoại gan mật.
 
@@ -34,7 +34,7 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Và
 
 ---
 
-## 2. SINH LÝ BỆNH
+## SINH LÝ BỆNH
 
 Để hiểu được các cơ chế gây vàng da, chúng ta cần nắm vững chu trình chuyển hóa Bilirubin trong cơ thể:
 
@@ -52,7 +52,7 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Và
 
 ---
 
-## 3. BIỂU HIỆN LÂM SÀNG
+## BIỂU HIỆN LÂM SÀNG
 
 Hội chứng vàng da thể hiện qua **6 triệu chứng lâm sàng quan trọng**:
 
@@ -67,7 +67,7 @@ Hội chứng vàng da thể hiện qua **6 triệu chứng lâm sàng quan tr�
 
 ---
 
-## 4. NGUYÊN NHÂN HỘI CHỨNG VÀNG DA
+## NGUYÊN NHÂN HỘI CHỨNG VÀNG DA
 
 #### Bảng 1. Phân loại nguyên nhân gây vàng da theo vị trí
 | Trước gan | Tại gan | Sau gan (Tắc mật ngoài gan) |
@@ -85,102 +85,102 @@ Hội chứng vàng da thể hiện qua **6 triệu chứng lâm sàng quan tr�
    * Bệnh nhân Ung thư tế bào gan nguyên phát (HCC) bị vàng da chủ yếu do xơ gan đi kèm chứ ít khi do u gan chèn ép.
 3. **Nhóm vàng da sau gan (Vàng da tắc mật):**
    * Do tắc nghẽn đường mật ngoài gan.
-   * *Nguyên nhân lành tính (Sỏi mật, giun chui ống mật, viêm hẹp Oddi):* Diễn tiến vàng da cấp tính, nằm trong bệnh cảnh viêm đường mật tắc nghẽn, điển hình với **Tam chứng Charcot**: **Đau hạ sườn phải \\(\rightarrow\\) Sốt \\(\rightarrow\\) Vàng da** (xuất hiện và mất đi theo đúng thứ tự này).
+   * *Nguyên nhân lành tính (Sỏi mật, giun chui ống mật, viêm hẹp Oddi):* Diễn tiến vàng da cấp tính, nằm trong bệnh cảnh viêm đường mật tắc nghẽn, điển hình với **Tam chứng Charcot**: **Đau hạ sườn phải `→` Sốt `→` Vàng da** (xuất hiện và mất đi theo đúng thứ tự này).
    * *Nguyên nhân ác tính (U quanh bóng Vater, U Klatskin):* Diễn tiến vàng da sậm tăng dần từ từ, sụt cân, phần lớn **không sốt, không đau bụng**.
 
 ---
 
-## 5. TIẾP CẬN CHẨN ĐOÁN LÂM SÀNG
+## TIẾP CẬN CHẨN ĐOÁN LÂM SÀNG
 
 Trước một bệnh nhân vàng da, bác sĩ cần trả lời 3 câu hỏi theo trình tự:
 
-### 5.1. Bệnh nhân này có thực sự bị hội chứng vàng da?
+### Bệnh nhân này có thực sự bị hội chứng vàng da?
 * Loại trừ giả vàng da (tăng beta-caroten, hút thuốc lá, cô đặc nước tiểu, do thuốc).
 * Khi vàng da kín đáo trên lâm sàng: Dùng tiêu chuẩn vàng là xét nghiệm **Bilirubin toàn phần huyết tương > 34,2 µmol/L (2 mg/dL)** để khẳng định.
 
-### 5.2. Hội chứng vàng da này thuộc nhóm vàng da trước gan, tại gan hay sau gan?
+### Hội chứng vàng da này thuộc nhóm vàng da trước gan, tại gan hay sau gan?
 * Hỏi chi tiết tính chất vàng da, diễn tiến, triệu chứng kèm theo (đau bụng, sốt, phân bạc màu...).
 * Tiền căn bệnh huyết học, viêm gan, xơ gan, sỏi mật, ung thư, yếu tố dịch tễ giun sán.
 * Thăm khám tìm các triệu chứng thực thể: Gan to, lách to, túi mật to, u bụng, thiếu máu...
 * *Lưu ý 2 dấu hiệu gợi ý vàng da sau gan:*
   * **Phân bạc màu:** Rất đặc hiệu cho tắc mật sau gan nặng (độ nhạy không cao).
   * **Túi mật to:** Gợi ý tắc mật ở đoạn dưới chỗ đổ của ống túi mật (nhưng không đặc hiệu vì có thể do viêm túi mật; ngược lại u ngã ba đường mật Klatskin tắc ở cao sẽ không làm túi mật to).
-* Phân biệt lâm sàng giữa tại gan và sau gan rất khó khăn \\(\rightarrow\\) Cần dựa vào cận lâm sàng (Bilirubin và hình ảnh học).
+* Phân biệt lâm sàng giữa tại gan và sau gan rất khó khăn `→` Cần dựa vào cận lâm sàng (Bilirubin và hình ảnh học).
 
-### 5.3. Nguyên nhân gây vàng da là gì?
+### Nguyên nhân gây vàng da là gì?
 Định hướng lâm sàng nguyên nhân:
 * **Xơ gan:** Tiền căn nghiện rượu, viêm gan B/C, hội chứng suy tế bào gan, hội chứng tăng áp tĩnh mạch cửa.
 * **Viêm gan:** Tiền căn siêu vi, dùng thuốc hại gan, ngộ độc rượu.
 * **Áp xe gan vi trùng:** Đau tức hạ sườn phải, rung gan (+), sốt cao lạnh run.
-* **Sỏi ống mật chủ:** Tiền căn sỏi mật, **Tam chứng Charcot** (Đau \\(\rightarrow\\) Sốt \\(\rightarrow\\) Vàng da).
+* **Sỏi ống mật chủ:** Tiền căn sỏi mật, **Tam chứng Charcot** (Đau `→` Sốt `→` Vàng da).
 * **Giun chui ống mật:** Tiền căn nhiễm giun, thói quen ăn uống/tẩy giun, Tam chứng Charcot.
 * **U quanh bóng Vater:** Bệnh nhân lớn tuổi, chán ăn sụt cân, vàng da sậm tăng dần từ từ, túi mật căng to, sờ được u...
 
 ---
 
-## 6. MỘT SỐ CẬN LÂM SÀNG LIÊN QUAN
+## MỘT SỐ CẬN LÂM SÀNG LIÊN QUAN
 
-### 6.1. Xét nghiệm
+### Xét nghiệm
 
-#### 6.1.1. Bilirubin
+#### Bilirubin
 * **Tiêu chuẩn vàng trong chẩn đoán.** 
 * Chỉ số bình thường: Bilirubin toàn phần: **0,8 – 1,2 mg/dL**; Bilirubin gián tiếp: **0,6 – 0,8 mg/dL**; Bilirubin trực tiếp: **0,2 – 0,4 mg/dL**.
 * Vàng da dưới lâm sàng khi Bilirubin toàn phần từ 2 – 2,5 mg/dL. Vàng da rõ khi **> 2,5 mg/dL**.
 * **Tỷ lệ Bilirubin trực tiếp / Bilirubin toàn phần:**
-  * **< 20%** (hoặc \\(\le 15\%\\)): Tăng Bilirubin gián tiếp ưu thế \\(\rightarrow\\) Vàng da trước gan (tán huyết).
-  * **> 50%** (hoặc \\(> 15\%\\)): Tăng Bilirubin trực tiếp ưu thế \\(\rightarrow\\) Vàng da sau gan (tắc mật ngoài gan).
-  * **20 – 50%:** Tăng Bilirubin hỗn hợp \\(\rightarrow\\) Thường gặp trong vàng da tại gan.
+  * **< 20%** (hoặc `≤ 15%`): Tăng Bilirubin gián tiếp ưu thế `→` Vàng da trước gan (tán huyết).
+  * **> 50%** (hoặc `> 15%`): Tăng Bilirubin trực tiếp ưu thế `→` Vàng da sau gan (tắc mật ngoài gan).
+  * **20 – 50%:** Tăng Bilirubin hỗn hợp `→` Thường gặp trong vàng da tại gan.
 
 #### Bảng 2. Phân loại nguyên nhân vàng da theo kiểu tăng Bilirubin
 | Tăng Bilirubin gián tiếp ưu thế | Tăng Bilirubin trực tiếp ưu thế |
 | :--- | :--- |
 | **• Tăng sản xuất Bilirubin (Tán huyết):** <br>  - Bệnh lý Hemoglobin <br>  - Cường lách nguyên phát & thứ phát <br>  - Truyền máu nhiều lần, Sốt rét <br>**• Suy giảm hấp thu Bilirubin tại gan:** <br>  - Hội chứng Gilbert, Shunt cửa-chủ, Suy tim <br>**• Suy giảm liên hợp Bilirubin tại gan:** <br>  - Hội chứng Crigler-Najjar, Gilbert, Cường giáp, Bệnh gan mạn | **• Tắc mật ngoài gan:** <br>  - Sỏi ống mật, Giun chui ống mật <br>  - U quanh bóng Vater, U rốn gan <br>  - Viêm đường mật xơ hóa nguyên phát <br>  - Viêm hẹp Oddi lành tính, Hẹp đường mật sau mổ <br>  - Viêm tụy cấp/mạn, Nang ống mật chủ <br>**• Tắc mật trong gan:** <br>  - Viêm gan siêu vi / do rượu, Xơ gan giai đoạn cuối <br>  - Hội chứng Rotor, do thuốc, nuôi ăn tĩnh mạch hoàn toàn |
 
-#### 6.1.2. Phosphatase kiềm (Alkaline Phosphatase - ALP)
+#### Phosphatase kiềm (Alkaline Phosphatase - ALP)
 * Trị số bình thường: **25 – 85 U/L**. ALP có **độ nhạy rất cao trong chẩn đoán tắc mật** (tăng sớm ngay cả khi tắc mật chưa hoàn toàn), nhưng độ đặc hiệu không cao.
-* ALP bình thường \\(\rightarrow\\) Ít nghĩ đến tắc mật.
+* ALP bình thường `→` Ít nghĩ đến tắc mật.
 * ALP tăng cao (**3 – 10 lần bình thường**): Thường do tắc mật trong hoặc ngoài gan.
 
-#### 6.1.3. GGT (G-Glutamyl Transferase)
+#### GGT (G-Glutamyl Transferase)
 * Trị số bình thường: **~30 U/L ở nữ** và **~50 U/L ở nam**.
 * Giống ALP, GGT có độ nhạy cao đánh giá rối loạn bài tiết mật nhưng không đặc hiệu (tăng trong nghiện rượu mạn, cảm ứng thuốc, nhồi máu cơ tim, đái tháo đường...).
 
-#### 6.1.4. Xét nghiệm nước tiểu
+#### Xét nghiệm nước tiểu
 * Chỉ **Bilirubin trực tiếp** mới tan trong nước và xuất hiện trong nước tiểu.
 * *Vàng da trước gan:* Bilirubin nước tiểu **nhiễm âm tính (-)**, Urobilinogen tăng cao.
 * *Vàng da sau gan (tắc mật):* Bilirubin trực tiếp và muối mật trong nước tiểu **dương tính (+)**, Urobilinogen giảm hoặc âm tính (-).
 
 ---
 
-### 6.2. Hình ảnh học
+### Hình ảnh học
 
-#### 6.2.1. Siêu âm
+#### Siêu âm
 * **Phương tiện đầu tay** giúp phân biệt tắc mật ngoài gan (vàng da sau gan) với các nhóm còn lại. Rẻ, nhanh, an toàn cho phụ nữ mang thai.
 * *Dấu hiệu tắc mật ngoài gan:* Đường mật trong và ngoài gan giãn, túi mật to, thấy nguyên nhân (sỏi, giun, u). Độ nhạy 55 – 91%.
 * *Siêu âm qua ngả nội soi (EUS):* Đánh giá rất chính xác tổn thương đầu tụy, nhú Vater, u nhỏ < 2 cm, có thể kết hợp sinh thiết kim nhỏ (FNA).
 
-#### 6.2.2. Chụp cắt lớp vi tính (CT scan)
+#### Chụp cắt lớp vi tính (CT scan)
 * Khách quan, độ nhạy và đặc hiệu cao hơn siêu âm trong chẩn đoán tắc mật ngoài gan và nguyên nhân (trừ sỏi mật không cản quang). Giúp đánh giá giai đoạn TNM của u.
 
-#### 6.2.3. Cộng hưởng từ (MRI / MRCP)
+#### Cộng hưởng từ (MRI / MRCP)
 * Chụp cộng hưởng từ đường mật (MRCP) là phương tiện không xâm lấn có **độ nhạy và độ đặc hiệu cao nhất (90 – 100%)** giúp dựng hình toàn bộ cây đường mật, định vị chính xác vị trí và nguyên nhân tắc.
 
-#### 6.2.4. ERCP và PTC
+#### ERCP và PTC
 * **Tiêu chuẩn vàng** để xác định mức độ tắc nghẽn đường mật trực tiếp trước phẫu thuật là Chụp đường mật ngược dòng qua nội soi (ERCP) hoặc Chụp đường mật xuyên gan qua da (PTC).
 * *Nguy cơ thủ thuật:* Viêm tụy / viêm đường mật (4 – 7% sau ERCP); rò mật / chảy máu (4% sau PTC).
 * *Vai trò điều trị:* Hiện nay ERCP và PTC chủ yếu dùng để điều trị can thiệp (giải áp dẫn lưu mật, cắt cơ vòng Oddi lấy sỏi, sinh thiết u nhú Vater).
 
 ---
 
-### 6.3. Sinh thiết gan
+### Sinh thiết gan
 * Chỉ định khi nghi ngờ vàng da tại gan hoặc tắc mật trong gan mà hình ảnh học và huyết thanh không tìm được nguyên nhân.
 * Giúp phân biệt **ứ mật tế bào gan** với **ứ mật do tắc nghẽn**; chẩn đoán viêm gan tự miễn, xơ gan ứ mật nguyên phát. Biến chứng chảy máu 0,4% (ở bệnh ác tính) và 0,04% (ở bệnh lành tính).
 
 ---
 
-## 7. KẾT LUẬN
+## KẾT LUẬN
 
-Tóm lại, hội chứng vàng da là một hội chứng thường gặp. Trên lâm sàng chẩn đoán xác định vàng da không khó, nhưng chẩn đoán chính xác nguyên nhân đòi hỏi phải phối hợp chặt chẽ giữa lâm sàng, xét nghiệm sinh hóa và các phương tiện hình ảnh học (Siêu âm \\(\rightarrow\\) CT / MRCP \\(\rightarrow\\) ERCP / PTC).
+Tóm lại, hội chứng vàng da là một hội chứng thường gặp. Trên lâm sàng chẩn đoán xác định vàng da không khó, nhưng chẩn đoán chính xác nguyên nhân đòi hỏi phải phối hợp chặt chẽ giữa lâm sàng, xét nghiệm sinh hóa và các phương tiện hình ảnh học (Siêu âm `→` CT / MRCP `→` ERCP / PTC).
 
 ```
                  LÂM SÀNG NGHI VÀNG DA SAU GAN (TẮC MẬT)
@@ -205,7 +205,7 @@ Có nguyên nhân   Chưa rõ nguyên nhân             (Nếu âm tính -> MRCP
 ### TÓM TẮT NHANH
 1. Vàng da xuất hiện khi nồng độ Bilirubin huyết tương **> 34,2 µmol/L (> 2 mg/dL)**; phân biệt với giả vàng da do tăng Beta-caroten (lòng bàn tay/chân vàng nhưng kết mạc mắt hoàn toàn không vàng).
 2. Phân loại 3 nhóm sinh lý bệnh: Trước gan (tán huyết, tăng Bilirubin gián tiếp); Tại gan (tổn thương tế bào gan); Sau gan (tắc mật ngoài gan, tăng Bilirubin trực tiếp ưu thế).
-3. Vàng da tắc mật sau gan có triệu chứng phân bạc màu rất đặc hiệu; nếu do nguyên nhân lành tính (sỏi, giun) biểu hiện rầm rộ với **Tam chứng Charcot** (Đau \\(\rightarrow\\) Sốt \\(\rightarrow\\) Vàng da); nếu do u diễn tiến vàng da sậm tăng dần từ từ, không sốt, không đau.
+3. Vàng da tắc mật sau gan có triệu chứng phân bạc màu rất đặc hiệu; nếu do nguyên nhân lành tính (sỏi, giun) biểu hiện rầm rộ với **Tam chứng Charcot** (Đau `→` Sốt `→` Vàng da); nếu do u diễn tiến vàng da sậm tăng dần từ từ, không sốt, không đau.
 4. Bilirubin trực tiếp / toàn phần **> 50%** hướng tới vàng da sau gan; **< 20%** hướng tới vàng da trước gan. Vàng da sau gan làm Bilirubin trực tiếp và muối mật xuất hiện trong nước tiểu (+).
 5. Siêu âm bụng là phương tiện hình ảnh đầu tay; MRCP (chụp cộng hưởng từ đường mật) có độ nhạy/đặc hiệu cao nhất (90–100%) trong chẩn đoán không xâm lấn; ERCP/PTC giữ vai trò tiêu chuẩn vàng và điều trị can thiệp giải áp.
 

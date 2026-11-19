@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. MỞ ĐẦU
+## MỞ ĐẦU
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ tìm hiểu **Bài 19: Hội chứng chảy máu trong ổ bụng**. Đây là một bệnh cảnh cấp cứu ngoại khoa nguy kịch đòi hỏi sự chẩn đoán nhanh chóng và xử trí chính xác để cứu sống bệnh nhân.
 
@@ -36,34 +36,34 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ tìm hiểu **Bài 19: Hộ
 
 ---
 
-## 2. TRIỆU CHỨNG LÂM SÀNG
+## TRIỆU CHỨNG LÂM SÀNG
 
-### 2.1. Triệu chứng toàn thân
+### Triệu chứng toàn thân
 Bệnh nhân bị mất máu cấp vào khoang phúc mạc sẽ xuất hiện các dấu hiệu suy sụp tuần hoàn tùy theo thể tích và tốc độ máu mất:
 * **Đầu & Tri giác:** Hoa mắt, chóng mặt (tăng lên khi thay đổi tư thế). Khi mất máu nặng: Bệnh nhân vật vã, bứt rứt, hoảng hốt hoặc ngược lại nằm im, thờ ơ, đáp ứng chậm chạp.
 * **Miệng:** Cảm giác khát nước dữ dội.
 * **Da & Niêm mạc:** Da xanh xao, niêm mạc mắt/lưỡi nhợt nhạt.
 * **Tứ chi:** Lạnh, vã mồ hôi, da nổi vân tím.
-* **Mạch & Huyết áp:** Mạch nhanh nhỏ, khó bắt (có khi chỉ bắt được ở động mạch lớn như động mạch cảnh, động mạch đùi). Huyết áp kẹp (hiệu số giữa HA tâm thu và HA tâm trương \\(\le 20\text{ mmHg}\\)) hoặc huyết áp tụt thấp/không đo được.
+* **Mạch & Huyết áp:** Mạch nhanh nhỏ, khó bắt (có khi chỉ bắt được ở động mạch lớn như động mạch cảnh, động mạch đùi). Huyết áp kẹp (hiệu số giữa HA tâm thu và HA tâm trương `≤ 20 mmHg`) hoặc huyết áp tụt thấp/không đo được.
 * **Chỉ số sốc (Shock Index - SI / Allgower):** Được tính bằng tỷ lệ:
-  \\[\text{SI} = \frac{\text{Nhịp tim (lần/phút)}}{\text{Huyết áp tâm thu (mmHg)}}\\]
-  * \\(\text{SI} = 0,5 – 0,7\\): Bình thường.
-  * \\(\text{SI} = 1,0\\): Mất **30%** thể tích máu lưu hành.
-  * \\(\text{SI} = 1,5\\): Mất **40%** thể tích máu lưu hành.
-  * \\(\text{SI} = 2,0\\): Mất **50%** thể tích máu lưu hành.
+  `SI = (Nhịp tim (lần/phút))/(Huyết áp tâm thu (mmHg))`
+  * `SI = 0,5 – 0,7`: Bình thường.
+  * `SI = 1,0`: Mất **30%** thể tích máu lưu hành.
+  * `SI = 1,5`: Mất **40%** thể tích máu lưu hành.
+  * `SI = 2,0`: Mất **50%** thể tích máu lưu hành.
 
-### 2.2. Triệu chứng cơ năng
+### Triệu chứng cơ năng
 * **Đau bụng:** Đau liên tục tại vị trí tạng bị tổn thương, mức độ đau tăng dần theo lượng máu chảy vào ổ bụng.
 * **Bí trung đại tiện:** Thường gặp sau 3 – 4 giờ do máu chảy vào khoang phúc mạc gây kích thích làm **liệt ruột cơ năng**.
 * **Tiểu máu:** Gợi ý tổn thương chấn thương thận hoặc đường tiết niệu.
 * **Ra máu âm đạo, trễ kinh:** Gợi ý nguyên nhân vỡ thai ngoài tử cung.
 
-### 2.3. Triệu chứng thực thể
+### Triệu chứng thực thể
 
-#### 2.3.1. Khám toàn thân
+#### Khám toàn thân
 * Đánh giá nhanh tình trạng sốc, tri giác, và phát hiện các tổn thương kết hợp (lồng ngực, sọ não, tứ chi).
 
-#### 2.3.2. Khám bụng
+#### Khám bụng
 * **Nhìn:** Bầm xát, tụ máu thành bụng. Bụng trướng nhẹ sau 3 – 4 giờ do liệt ruột.
 * **Nghe:** Nhu động ruột giảm hoặc mất hẳn do máu trong ổ bụng gây liệt ruột.
 * **Gõ:** Đau khi gõ bụng; **gõ đục vùng thấp** (do máu đọng ở rãnh thành đại tràng hai bên và tiểu khung).
@@ -76,58 +76,58 @@ Bệnh nhân bị mất máu cấp vào khoang phúc mạc sẽ xuất hiện c�
 
 ---
 
-## 3. CẬN LÂM SÀNG
+## CẬN LÂM SÀNG
 
-### 3.1. Xét nghiệm
+### Xét nghiệm
 * **Công thức máu (CTM), Hct, Hemoglobin:** Trong giai đoạn cấp (vài giờ đầu), Hct và Hb có thể chưa giảm ngay do chưa có sự pha loãng máu. Cần xét nghiệm lặp lại nhiều lần để theo dõi động học máu mất.
 * **Xét nghiệm đông máu:** Đánh giá PT, aPTT, Fibrinogen để tiên lượng chảy máu và bù các yếu tố đông máu.
 * **Xét nghiệm sinh hóa:** AST, ALT, Bilirubin tăng trong chấn thương gan; Ure, Creatinine tăng trong chấn thương thận; **Amylase máu tăng trong chấn thương tụy**.
-* **Test thử thai (\\(\text{Beta-HCG}\\)):** Bắt buộc đối với tất cả phụ nữ trong độ tuổi sinh đẻ.
-* **Định lượng Amoniac máu (\\(NH_3\\)):** Xét nghiệm mới có giá trị cao trong chấn thương bụng kín. Ngưỡng Amoniac máu **\\(\ge 89\ \mu\text{g/dL}\\)** cho **độ nhạy 100%, độ đặc hiệu 93%** chẩn đoán chảy máu ổ bụng. Nồng độ Amoniac sẽ giảm dần khi bệnh nhân đáp ứng điều trị tốt.
+* **Test thử thai (`Beta-HCG`):** Bắt buộc đối với tất cả phụ nữ trong độ tuổi sinh đẻ.
+* **Định lượng Amoniac máu (`NH₃`):** Xét nghiệm mới có giá trị cao trong chấn thương bụng kín. Ngưỡng Amoniac máu **`≥ 89 µg/dL`** cho **độ nhạy 100%, độ đặc hiệu 93%** chẩn đoán chảy máu ổ bụng. Nồng độ Amoniac sẽ giảm dần khi bệnh nhân đáp ứng điều trị tốt.
 
-### 3.2. Chẩn đoán hình ảnh
+### Chẩn đoán hình ảnh
 
-#### 3.2.1. X-quang bụng không sửa soạn
+#### X-quang bụng không sửa soạn
 * Phim đứng hoặc nửa nằm nửa ngồi: Thấy hình ảnh bụng mờ đều, các quai ruột dãn và thành ruột dày (do máu len lỏi giữa các quai ruột), khoảng cách rãnh thành – đại tràng rộng ra.
 * *Lưu ý:* Hình ảnh gián tiếp vỡ tạng đặc trên X-quang (như bóng lách to đẩy lệch dạ dày) có độ chính xác rất thấp, ngày nay **hầu như không còn sử dụng** để chẩn đoán vỡ tạng đặc.
 
-#### 3.2.2. Siêu âm bụng (FAST - Focused Abdominal Sonography for Trauma)
+#### Siêu âm bụng (FAST - Focused Abdominal Sonography for Trauma)
 * **Phương tiện đầu tay** được thực hiện ngay tại giường bệnh cấp cứu.
 * Phát hiện dịch máu tự do ở các vị trí thấp: Khoảng dưới gan (**Khoang Morison**), khoang quanh lách, túi cùng Douglas, rãnh đại tràng hai bên.
 * Giúp phát hiện đụng dập nhu mô, vỡ tạng, tụ máu dưới bao. Có thể lặp lại nhiều lần để đánh giá sự tăng lên của lượng dịch.
 
-#### 3.2.3. Chụp cắt lớp vi tính (CT scan)
-* ⚠️ **Chỉ định:** Dành cho bệnh nhân có **huyết động ổn định** (HA tâm thu \\(\ge 90\text{ mmHg}\\), mạch \\(\le 110\\) lần/phút). Bệnh nhân huyết động không ổn định chống chỉ định di chuyển đi chụp CT.
+#### Chụp cắt lớp vi tính (CT scan)
+* ⚠️ **Chỉ định:** Dành cho bệnh nhân có **huyết động ổn định** (HA tâm thu `≥ 90 mmHg`, mạch `≤ 110` lần/phút). Bệnh nhân huyết động không ổn định chống chỉ định di chuyển đi chụp CT.
 * **Ưu điểm vượt trội:** Độ nhạy cao hơn siêu âm, phát hiện được lượng dịch rất ít (chỉ **10 mL**), phân biệt được tỉ trọng dịch.
 * Đánh giá chi tiết đường vỡ, đụng dập nhu mô, tụ máu dưới bao và đặc biệt phát hiện **dấu hiệu thoát mạch thuốc cản quang (extravasation)** chứng tỏ máu đang tiếp tục chảy. CT scan là nền tảng để phân độ thương tổn tạng (AAST).
 
-### 3.3. Chọc hút và chọc rửa ổ bụng
+### Chọc hút và chọc rửa ổ bụng
 
-#### 3.3.1. Chọc hút ổ bụng
+#### Chọc hút ổ bụng
 * Chọc tại 4 vị trí (Hạ sườn phải, Hạ sườn trái, Hố chậu phải, Hố chậu trái).
 * **Kết quả dương tính:** Hút ra **máu tươi không đông**, mủ hoặc dịch tiêu hóa/mật. Độ chính xác **> 70%**.
 * Nhược điểm: Nguy cơ âm tính giả (máu ít hoặc chọc vào máu đông), dương tính giả, hoặc chọc thủng tạng.
 
-#### 3.3.2. Chọc rửa ổ bụng (DPL - Diagnostic Peritoneal Lavage)
+#### Chọc rửa ổ bụng (DPL - Diagnostic Peritoneal Lavage)
 * Luồn catheter qua vết rạch nhỏ dưới rốn vào tiểu khung, truyền nhanh **500 mL dung dịch NaCl 0,9%**, ngâm vài phút rồi xả hút ra ly tâm đếm tế bào.
 * **Tiêu chuẩn dương tính (+):**
-  * Hồng cầu \\(\ge 100.000/\text{mm}^3\\).
-  * Bạch cầu \\(\ge 500/\text{mm}^3\\).
-  * Amylase \\(\ge 100\\) đơn vị Somogyi/100mL dịch rửa.
+  * Hồng cầu `≥ 100.000/mm³`.
+  * Bạch cầu `≥ 500/mm³`.
+  * Amylase `≥ 100` đơn vị Somogyi/100mL dịch rửa.
 * Độ chính xác **> 95%**. Hiện nay ít sử dụng do sự phổ biến của siêu âm FAST và CT scan.
 
 ---
 
-## 4. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
-### 4.1. Chẩn đoán xác định
+### Chẩn đoán xác định
 * Dựa vào tiền sử chấn thương, triệu chứng mất máu toàn thân, cảm ứng phúc mạc tại chỗ, gõ đục vùng thấp và siêu âm/CT scan phát hiện máu ổ bụng.
 * Ở bệnh nhân chẩn đoán chưa rõ: Cần lập biểu đồ theo dõi sinh hiệu, Hct/Hb mỗi **30 phút đến 1 giờ**.
 * ⚠️ **Lưu ý Vỡ lách/gan thì hai:** Do khối máu tụ dưới bao tăng dần áp lực rồi vỡ vào ổ bụng sau chấn thương từ **5 – 10 ngày** (sau một cơn ho, rặn hoặc gắng sức).
 
-### 4.2. Chẩn đoán nguyên nhân
+### Chẩn đoán nguyên nhân
 
-#### 4.2.1. Do chấn thương
+#### Do chấn thương
 
 1. **Vỡ lách do chấn thương:**
    * **Chiếm hàng đầu (50,7%)** trong các chấn thương tạng bụng.
@@ -142,19 +142,19 @@ Bệnh nhân bị mất máu cấp vào khoang phúc mạc sẽ xuất hiện c�
 4. **Tổn thương mạch máu lớn trong bụng:**
    * Mạch máu sau phúc mạc và mạch máu mạc treo. Tỷ lệ tử vong rất cao (**30 – 60%**). Thường gặp trong vết thương thấu bụng.
 
-#### 4.2.2. Không do chấn thương (Chảy máu ổ bụng tự phát)
+#### Không do chấn thương (Chảy máu ổ bụng tự phát)
 
 1. **Tại Gan:** Vỡ u **Adenoma gan** (phụ nữ trẻ dùng thuốc tránh thai kéo dài) hoặc vỡ **Ung thư tế bào gan (HCC)** (rất phổ biến ở Châu Á trên nền xơ gan). **Hội chứng HELLP** ở thai phụ (tiền sản giật nặng gây xuất huyết và hoại tử gan).
 2. **Tại Lách:** Vỡ lách tự phát do lách to phì đại trong bệnh máu (bạch cầu cấp, lymphoma) hoặc nhiễm trùng (EBV, Cytomegalovirus).
 3. **Tại Thận:** Vỡ u mỡ cơ mạch (*Angiomyolipoma*) hoặc ung thư tế bào thận (RCC); bệnh lý đông máu/viêm mạch (viêm đa động mạch dạng nút).
 4. **Tuyến thượng thận:** Chảy máu 2 bên do thuốc chống đông, stress nặng, nhiễm trùng.
-5. **Sản phụ khoa:** Vỡ thai ngoài tử cung (sốc mất máu, \\(\text{Beta-HCG (+)}\\), khối nang tăng phản âm phần phụ), vỡ nang buồng trứng, vỡ nang lạc nội mạc.
+5. **Sản phụ khoa:** Vỡ thai ngoài tử cung (sốc mất máu, `Beta-HCG (+)`, khối nang tăng phản âm phần phụ), vỡ nang buồng trứng, vỡ nang lạc nội mạc.
 6. **Bệnh lý đông máu:** Do dùng thuốc kháng đông, Hemophilia... gây chảy máu tự phát vào **cơ thẳng bụng** và **cơ thắt lưng chậu**. На CT scan thấy **dấu hiệu Hematocrit sign (mức dịch – tế bào)** có độ nhạy 87%.
-7. **Bệnh lý Mạch máu:** Vỡ **Phình động mạch chủ bụng (PĐMCB)**. Dấu hiệu nguy cơ vỡ trên CT: Túi phình \\(> 5\text{ cm}\\), mất liên tục vôi hóa thành mạch, dấu hiệu liềm tăng đậm độ trong thành, khối tụ máu lớn sau phúc mạc.
+7. **Bệnh lý Mạch máu:** Vỡ **Phình động mạch chủ bụng (PĐMCB)**. Dấu hiệu nguy cơ vỡ trên CT: Túi phình `> 5 cm`, mất liên tục vôi hóa thành mạch, dấu hiệu liềm tăng đậm độ trong thành, khối tụ máu lớn sau phúc mạc.
 
 ---
 
-## 5. HƯỚNG XỬ TRÍ
+## HƯỚNG XỬ TRÍ
 
 Khi tiếp nhận bệnh nhân nghi ngờ chảy máu trong ổ bụng, tiến hành đồng thời các bước cấp cứu:
 1. Đánh giá sinh hiệu (Mạch, HA, Nhịp thở, Tri giác).
@@ -190,10 +190,10 @@ Vừa HỒI SỨC vừa MỔ CẤP CỨU         (Đánh giá phân độ tạng
     Can thiệp nội mạch TAE / Mổ)                      Nội soi bụng chẩn đoán)
 ```
 
-### 5.1. Tình trạng sốc hay huyết động học không ổn định
-* Nếu siêu âm FAST hoặc chọc dò ổ bụng có máu không đông \\(\rightarrow\\) **Chuyển khẩn cấp đến phòng mổ để vừa hồi sức vừa mở bụng thám sát cầm máu**.
+### Tình trạng sốc hay huyết động học không ổn định
+* Nếu siêu âm FAST hoặc chọc dò ổ bụng có máu không đông `→` **Chuyển khẩn cấp đến phòng mổ để vừa hồi sức vừa mở bụng thám sát cầm máu**.
 
-### 5.2. Huyết động ổn định
+### Huyết động ổn định
 * **Siêu âm không có dịch:** Tiếp tục theo dõi lâm sàng và lặp lại siêu âm.
 * **Siêu âm có dịch:** Tiến hành **chụp CT scan bụng có cản quang** để phân độ tổn thương:
   * *Tổn thương gan/lách:* Tùy mức độ có thể **điều trị bảo tồn nội khoa**, **can thiệp tắc mạch (TAE)** hoặc phẫu thuật.
@@ -204,7 +204,7 @@ Vừa HỒI SỨC vừa MỔ CẤP CỨU         (Đánh giá phân độ tạng
 ### TÓM TẮT NHANH
 1. Hội chứng chảy máu trong ổ bụng do 3 nhóm nguyên nhân chính: Vỡ tạng đặc (lách 50,7%, gan 39,8%), Đứt/vỡ mạch máu (mạc treo, phình ĐMCB), và Sản phụ khoa (vỡ thai ngoài tử cung, nang buồng trứng).
 2. Biểu hiện lâm sàng gồm hội chứng mất máu toàn thân (Mạch nhanh, HA kẹp/tụt, da nhợt, khát nước, chỉ số sốc SI > 1) và triệu chứng tại chỗ (đau bụng, cảm ứng phúc mạc, gõ đục vùng thấp, dấu Kehr đau vai trái, túi cùng Douglas căng đau).
-3. Định lượng Amoniac máu \\(\ge 89\ \mu\text{g/dL}\\) có độ nhạy 100% chẩn đoán chảy máu ổ bụng trong chấn thương bụng kín; Siêu âm FAST là phương tiện đầu tay tại giường.
+3. Định lượng Amoniac máu `≥ 89 µg/dL` có độ nhạy 100% chẩn đoán chảy máu ổ bụng trong chấn thương bụng kín; Siêu âm FAST là phương tiện đầu tay tại giường.
 4. CT scan bụng là tiêu chuẩn vàng phân độ tổn thương tạng và phát hiện điểm thoát mạch chảy máu, nhưng **chỉ thực hiện khi huyết động bệnh nhân ỔN ĐỊNH**.
 5. Bệnh nhân huyết động KHÔNG ổn định có siêu âm FAST (+) phải được chuyển thẳng phòng mổ để vừa hồi sức vừa mổ cấp cứu thám sát.
 
@@ -245,4 +245,4 @@ A. Tiếp tục theo dõi lâm sàng và hẹn siêu âm lại sau 2 giờ
 B. Chuyển mổ cấp cứu ngay lập tức  
 C. Chọc rửa ổ bụng bằng catheter  
 D. Chụp CT scan bụng chậu có tiêm thuốc cản quang  
-* **👉 Đáp án:** **D. Chụp CT scan bụng chậu có tiêm thuốc cản quang** *(Bệnh nhân huyết động ổn định, siêu âm có dịch \\(\rightarrow\\) Chụp CT scan cản quang để phân độ chấn thương lách và quyết định điều trị bảo tồn hay can thiệp)*.
+* **👉 Đáp án:** **D. Chụp CT scan bụng chậu có tiêm thuốc cản quang** *(Bệnh nhân huyết động ổn định, siêu âm có dịch `→` Chụp CT scan cản quang để phân độ chấn thương lách và quyết định điều trị bảo tồn hay can thiệp)*.

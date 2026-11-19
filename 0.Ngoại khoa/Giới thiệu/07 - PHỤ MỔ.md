@@ -31,9 +31,9 @@ Bài học này cung cấp hướng dẫn giúp các bạn: (1) Hiểu vai trò,
 
 ---
 
-## 1. MỘT SỐ VẤN ĐỀ CẦN LƯU Ý KHI LÀM VIỆC TRONG PHÒNG MỔ
+## MỘT SỐ VẤN ĐỀ CẦN LƯU Ý KHI LÀM VIỆC TRONG PHÒNG MỔ
 
-### 1.1. Mối quan hệ trong phòng mổ
+### Mối quan hệ trong phòng mổ
 * **Ứng xử với nhân viên phòng mổ:** Mối quan hệ trong phòng mổ chính yếu là giữa người với người. Khi ta tử tế và lịch sự, mọi người sẽ sẵn lòng giúp đỡ. Nhân viên phòng mổ sẽ hướng dẫn cho học viên những chi tiết mà ngay cả phẫu thuật viên chính cũng chưa chắc biết, hoặc giải thích các quy định/ký tự riêng trong phòng mổ.
 * **Giao tiếp trong phòng mổ:** Tôn ti trật tự và mệnh lệnh trong phòng mổ phải được tuân thủ nghiêm ngặt. Tuy nhiên, trong tình huống cấp bách, mối quan hệ giữa các thành viên là bình đẳng trong công việc, không nên quan trọng hóa xưng hô lịch lãm. Những từ dài dòng như *"xin cảm ơn"*, *"làm ơn cho tôi..."*, *"dạ thưa"* không phổ biến vì cần hạn chế tối đa các từ có thể nghe sai; các yêu cầu, phản hồi phải **ngắn gọn, rõ ràng, dứt khoát**.
 * **Hỏi khi chưa rõ:** Những lần đầu tham gia, nếu chưa chắc chắn (từ việc rửa tay, mặc áo, mang găng vô trùng), học viên bắt buộc phải hỏi người có kinh nghiệm để được hướng dẫn trực tiếp.
@@ -45,59 +45,59 @@ Bài học này cung cấp hướng dẫn giúp các bạn: (1) Hiểu vai trò,
 * **Xử lý khi ca mổ bị hoãn/trễ:** Ca mổ có thể muộn vài giờ do thiếu xét nghiệm, BN chưa nhịn ăn đủ giờ, hoặc ca trước kéo dài. Học viên nên mang theo sổ tay nhỏ ghi tóm tắt kiến thức để tự học trong lúc chờ.
 * **Ghi nhớ thói quen của PTV chính:** Mỗi PTV chính có thói quen làm việc riêng. Nếu PTV chính phàn nàn do làm không đúng ý, người phụ nên vui vẻ chấp nhận và ghi nhớ thói quen đó để phối hợp ăn ý và an toàn hơn ở những lần sau.
 
-### 1.2. Chủ động và thụ động
+### Chủ động và thụ động
 * Tránh thụ động đóng vai "người kéo banh" chờ lệnh. Người phụ giỏi phải **chủ động quan sát, hỗ trợ** (nâng mạc treo, vén tạng, hút dịch...).
 * Với người phụ có kinh nghiệm, người ngoài nhìn vào khó phân biệt ai là PTV chính, ai là người phụ mổ. Tích cực phụ mổ nhiều ca sẽ giúp chuyển từ thụ động sang chủ động thành thạo.
 
-### 1.3. Thích ứng với stress
+### Thích ứng với stress
 * Phòng mổ là môi trường căng thẳng (nhất là trong cấp cứu thảm họa, tai nạn hàng loạt...).
 * Hiệu suất làm việc đạt cao nhất khi **không quá stress cũng như không cảm thấy quá chán** (duy trì bản thân giữa 2 khoảng này). Hãy nhớ phẫu thuật là công việc hằng ngày của y tế, nhưng với bệnh nhân là một sự kiện lớn đe dọa tính mạng.
 
-### 1.4. Nói chuyện trong lúc mổ
+### Nói chuyện trong lúc mổ
 * Việc nói chuyện phụ thuộc vào sở thích của PTV chính, trạng thái tâm lý hôm đó, mức độ phức tạp ca mổ... Có PTV thích im lặng hoàn toàn, có người thích nghe nhạc hoặc pha trò để giảm căng thẳng.
 * Nói liên tục trong ca mổ khó sẽ gây phiền toái; không nói gì lại dễ bị xem là thụ động/nhút nhát.
 * Nếu cần nói/hỏi: Sắp xếp ý theo thứ tự ưu tiên quan trọng sẵn trong đầu, lựa chọn thời điểm thích hợp trong ca mổ để phát biểu.
 
-### 1.5. Điện thoại di động
+### Điện thoại di động
 * Thiết bị di động gây xáo trộn và phân tâm. Nên để bên ngoài phòng mổ hoặc tắt máy.
 * Trừ trường hợp trực cấp cứu cần chỉ đạo ca bệnh khó (nhờ điều dưỡng vòng ngoài cầm máy), người phụ tuyệt đối không tùy tiện dùng điện thoại di động khi PTV chính không sử dụng.
 
-### 1.6. Thức ăn và nước uống
+### Thức ăn và nước uống
 * Không mang đồ ăn, nước uống vào phòng mổ (để ở phòng chờ bác sĩ).
 * Ăn uống đầy đủ và đi vệ sinh trước khi vào phòng mổ. Nếu ít thời gian, tranh thủ ăn nhẹ trước ca mổ kéo dài.
 
-### 1.7. Khi cảm thấy quá mệt mỏi
+### Khi cảm thấy quá mệt mỏi
 * Mệt mỏi do tụt huyết áp khi đứng lâu và tập trung cao độ.
 * Khi quá mệt, cần xin phép PTV chính ngồi xuống ghế hoặc xin thay người ra ngoài nghỉ. **Không cố gắng quá sức vì có thể ngất xỉu hoặc té ngã vào phẫu trường**.
 * Biện pháp phòng tránh: Ăn nhẹ trước mổ, thỉnh thoảng **gấp đuôi cẳng chân** để giảm ứ trệ tĩnh mạch chi dưới, mặc quần áo mổ thoải mái, mang dép rộng rãi.
 
 ---
 
-## 2. TRANG PHỤC KHI VÀO PHÒNG MỔ
+## TRANG PHỤC KHI VÀO PHÒNG MỔ
 
-### 2.1. Trang phục phòng mổ (scrubs)
+### Trang phục phòng mổ (scrubs)
 * Chỉ mặc trong phạm vi khoa phẫu thuật. Phải thay toàn bộ quần áo thường nhật (trừ đồ lót), không mặc lồng scrubs lên quần áo thường.
 * Nhiều phòng mổ có vạch vàng quy định chỉ được bước qua sau khi đã thay scrubs và dép riêng của nhà mổ.
 * Trang phục thường có màu xanh giúp mắt dễ chịu. Mổ xong phải thay ra và bỏ đúng nơi quy định trước khi rời khoa.
 
-### 2.2. Nón phẫu thuật viên
+### Nón phẫu thuật viên
 * Có 3 dạng: Nửa đầu, nguyên đầu và loại có dây quấn cổ.
 * Chất liệu bằng vải hoặc giấy (giấy dùng 1 lần). PTV nữ nên chọn nón trùm kín tóc để tránh rụng tóc vào phẫu trường. Nón có dây quấn cổ thường dùng trong mổ tim hở. Không đội nón trùm quá lỗ tai gây nóng khó chịu.
 
-### 2.3. Khẩu trang
+### Khẩu trang
 * Giảm lượng vi khuẩn trong không khí, ngăn máu và dịch tiết văng lên mặt.
 * Khẩu trang vải (giặt dùng lại) hoặc giấy (dùng 1 lần).
 * Khẩu trang có 2 cặp dây: Dây dưới cột sau cổ, dây trên kéo lên phía trên đầu. Cột chặt vừa phải, che kín mũi, không bị tụt khi nói, không siết quá chặt gây khó thở.
 
-### 2.4. Đồng hồ và trang sức
+### Đồng hồ và trang sức
 * Bắt buộc tháo bỏ toàn bộ đồng hồ, nhẫn, khoen tai, khoen mũi (tránh rơi khoen tai vào phẫu trường). Nếu không tháo được khoen, phải đeo nón và khẩu trang che kín hoàn toàn.
 * Tẩy sạch sơn móng tay (nơi vi khuẩn trú ngụ dưới lớp sơn), cắt móng tay ngắn để hạn chế vi khuẩn và không làm rách găng mổ.
 
 ---
 
-## 3. VIỆC CẦN LÀM VÀ NHỮNG NGUYÊN TẮC CỦA NGƯỜI PHỤ MỎ
+## VIỆC CẦN LÀM VÀ NHỮNG NGUYÊN TẮC CỦA NGƯỜI PHỤ MỎ
 
-### 3.1. Trước mổ
+### Trước mổ
 * **Tiếp xúc bệnh nhân:** Hỏi bệnh sử, khám lâm sàng, nắm chẩn đoán và phương pháp mổ, tìm hiểu hoàn cảnh gia đình/kinh tế/nghề nghiệp để thấu hiểu người bệnh.
 * **Chuẩn bị kiến thức & dụng cụ:** Đọc bài ôn lại trình tự cuộc mổ. Kiểm tra dụng cụ/thiết bị trước ngày mổ.
 * **Khi bệnh nhân vào phòng mổ:** Treo phim X-quang/CT lên hộp đèn hoặc mở hệ thống PACS.
@@ -108,30 +108,30 @@ Bài học này cung cấp hướng dẫn giúp các bạn: (1) Hiểu vai trò,
 * **Rửa tay & Trải khăn:** PTV phụ và dụng cụ viên rửa tay, mặc áo, mang găng **trước PTV chính**. PTV phụ sát trùng vùng mổ, trải khăn mổ, phối hợp với dụng cụ viên sắp đặt bàn mổ.
 * **Time-out:** Cùng toàn bộ ê-kíp mổ thực hiện đúng bảng kiểm tổng soát lần cuối trước khi rạch da.
 
-### 3.2. Trong mổ
+### Trong mổ
 5 nguyên tắc vàng của người phụ mổ:
 
-#### 3.2.1. Tập trung vào cuộc mổ và nhiệm vụ của mình
+#### Tập trung vào cuộc mổ và nhiệm vụ của mình
 * Tập trung làm tốt nhiệm vụ, tránh làm PTV chính bị đánh lạc hướng.
 * Trong thì bình thường: Có thể trao đổi về vấn đề khác nhưng không xao lãng nhiệm vụ (như vừa lái xe vừa nói chuyện).
 * Trong thì khó khăn (chảy máu ồ ạt): Loại bỏ ngay mọi xao lãng, giữ bình tĩnh tối đa và tập trung hỗ trợ PTV chính xử trí.
 
-#### 3.2.2. Trợ giúp mà không cản trở (*assist, don't inhibit*) hay gây mất an toàn
+#### Trợ giúp mà không cản trở (*assist, don't inhibit*) hay gây mất an toàn
 * Thành thạo kỹ năng cơ bản: Cầm giữ dụng cụ, kéo banh, mở/đóng vết mổ, cột chỉ, vén tạng, bóc tách, cầm máu, khâu nối...
 * Không có động tác thừa, tận dụng cả 2 tay, biết quan sát nghe ngóng để phát hiện nguy cơ bất thường.
 * Tránh dụng cụ cản tầm nhìn PTV chính, tránh đưa dụng cụ vướng phẫu trường, không va chạm tay PTV chính. Chuyển dụng cụ sắc nhọn đúng cách an toàn, **không đưa dụng cụ vòng ra sau lưng PTV chính**.
 
-#### 3.2.3. Đoán trước được việc sắp làm
+#### Đoán trước được việc sắp làm
 * Đoán trước bước tiếp theo của PTV chính để chủ động hỗ trợ hoặc nhắc dụng cụ viên chuẩn bị sẵn (tránh PTV chính phải chờ đợi gây căng thẳng).
 * *Ví dụ 1:* Trong phẫu thuật thoát vị bẹn, PTV chính thay đổi hướng bóc tách túi thoát vị, người phụ đoán hướng và **thay đổi vị trí kéo banh linh động** bộc lộ rõ phẫu trường (không kéo cố định một chỗ).
 * *Ví dụ 2:* Khi PTV chính đang cột chỉ, người phụ cầm sẵn kéo chuẩn bị cắt chỉ ngay sau khi cột xong.
 * Đọc/xem trước video ca mổ khó để hình dung sẵn các bước trong đầu.
 
-#### 3.2.4. Làm việc trên tinh thần đồng đội
+#### Làm việc trên tinh thần đồng đội
 * Ê-kíp như một con thuyền: Một người chểnh mảng làm thuyền tiến chậm, làm sai làm đắm thuyền.
 * Chia sẻ trách nhiệm chung, hỗ trợ và bảo vệ lẫn nhau. Thành công thuộc về cả ê-kíp mổ.
 
-#### 3.2.5. Biết được hạn chế của mình
+#### Biết được hạn chế của mình
 * Khi chưa đủ kinh nghiệm trong ca khó: Xin phép PTV chính mời người phụ có kinh nghiệm hơn vào hỗ trợ. Bản thân bước lùi xuống làm phụ thứ 2 để quan sát và học hỏi thêm.
 * Thường xuyên luyện tập kỹ năng cơ bản, tích cực phụ mổ và ghi nhớ bài học từ người giỏi.
 
@@ -159,39 +159,39 @@ Bài học này cung cấp hướng dẫn giúp các bạn: (1) Hiểu vai trò,
 
 ---
 
-## 4. PHỤ MỔ TRONG PHẪU THUẬT NỘI SOI Ổ BỤNG
+## PHỤ MỔ TRONG PHẪU THUẬT NỘI SOI Ổ BỤNG
 
 * Phẫu thuật nội soi xuất hiện từ cuối những năm 1980, áp dụng tại Việt Nam từ đầu những năm 1990.
 * **Ưu điểm:** Tối thiểu xâm hại, BN phục hồi nhanh, sẹo nhỏ thẩm mỹ. PTV quan sát rõ cấu trúc dưới ánh sáng tốt, tầm nhìn rộng, không phải cúi đầu kéo dài.
 * **Nhược điểm:** Thao tác qua dụng cụ nên không có cảm giác cầm nắm trực tiếp, thao tác kém linh hoạt hơn bàn tay, đòi hỏi đường cong huấn luyện kéo dài.
-* **Dàn máy nội soi cơ bản gồm:** (1) Màn hình; (2) Nguồn sáng và dây dẫn sáng; (3) Bộ xử lý hình ảnh (ống soi, đầu camera, bộ xử lý, dây dẫn); (4) Máy bơm khí \\(\text{CO}_2\\); (5) Máy ghi hình.
+* **Dàn máy nội soi cơ bản gồm:** (1) Màn hình; (2) Nguồn sáng và dây dẫn sáng; (3) Bộ xử lý hình ảnh (ống soi, đầu camera, bộ xử lý, dây dẫn); (4) Máy bơm khí `CO₂`; (5) Máy ghi hình.
 * Dụng cụ đi kèm: Các loại trocar, máy đốt, máy hút, dao siêu âm (Harmonic scalpel), bộ dụng cụ cầm tay, gạc nội soi, bao đựng bệnh phẩm...
 
-### 4.1. Hệ thống camera
+### Hệ thống camera
 * Dây dẫn gồm 2 đầu: 1 đầu nối với nguồn camera/bộ xử lý, 1 đầu gắn với ống soi.
 * Dây camera không vô trùng nên phải **lồng vào trong bao camera vô trùng** trước khi đưa lên bàn mổ.
 
-### 4.2. Ống kính soi
+### Ống kính soi
 * Ống kim loại chứa thấu kính. 
-* 3 góc nhìn phổ biến ở đầu ống soi: **Nhìn thẳng (\\(0^\circ\\)), Nhìn chếch \\(30^\circ\\), Nhìn chếch \\(45^\circ\\)**.
+* 3 góc nhìn phổ biến ở đầu ống soi: **Nhìn thẳng (`0°`), Nhìn chếch `30°`, Nhìn chếch `45°`**.
 * Gắn ống soi vào đầu camera, cố định chắc chắn, dán bao camera bên ngoài bằng băng dính. Gắn dây dẫn sáng vào ống soi tại vị trí quy định.
 
-### 4.3. Nguồn sáng
+### Nguồn sáng
 * Sử dụng bóng đèn LED cho ánh sáng trắng (hoặc bóng Halogen dự phòng). Mở nguồn sáng ở mức 30 – 50%, tăng dần nếu thiếu sáng. Nếu vẫn mờ thì kiểm tra đèn LED, dây dẫn sáng có đứt hay ống soi mờ/vỡ.
 
-### 4.4. Hệ thống bơm khí \\(\text{CO}_2\\)
-* Bình nén khí \\(\text{CO}_2\\) (hoặc hệ thống trung tâm âm tường), máy bơm điều chỉnh áp lực, dây dẫn gắn vào van trên trocar. Kiểm tra lượng khí còn lại trong bình trước khi mổ.
+### Hệ thống bơm khí `CO₂`
+* Bình nén khí `CO₂` (hoặc hệ thống trung tâm âm tường), máy bơm điều chỉnh áp lực, dây dẫn gắn vào van trên trocar. Kiểm tra lượng khí còn lại trong bình trước khi mổ.
 
-### 4.5. Cân bằng trắng (White balance)
+### Cân bằng trắng (White balance)
 * **Mục đích:** Đưa màu sắc hiển thị trên màn hình về gần đúng nhất với màu sắc thực tế của mô.
 * **Cách làm:** Chiếu đầu ống soi vào vật liệu màu trắng (gạc, khăn mổ) cách khoảng vài cm, ấn và giữ nút White balance (trên camera) cho đến khi máy báo hoàn thành.
 
-### 4.6. Chuẩn bị dụng cụ mổ nội soi
+### Chuẩn bị dụng cụ mổ nội soi
 * Sắp xếp dây dẫn phù hợp từng phẫu thuật:
-  * *Cắt ruột thừa nội soi:* Dây sáng + \\(\text{CO}_2\\) + camera ở **phía trên rốn**; dây đốt + dây hút ở **dưới rốn**.
-  * *Cắt túi mật nội soi:* Dây sáng + \\(\text{CO}_2\\) + camera ở **dưới rốn**; dây đốt + dây hút ở **trên rốn**.
+  * *Cắt ruột thừa nội soi:* Dây sáng + `CO₂` + camera ở **phía trên rốn**; dây đốt + dây hút ở **dưới rốn**.
+  * *Cắt túi mật nội soi:* Dây sáng + `CO₂` + camera ở **dưới rốn**; dây đốt + dây hút ở **trên rốn**.
 
-#### 4.6.1. Vị trí đặt máy và tư thế bệnh nhân
+#### Vị trí đặt máy và tư thế bệnh nhân
 * **Vị trí dàn máy nội soi:** Đặt cùng bên với tạng cần phẫu thuật.
   * Mổ cắt ruột thừa / túi mật: Đặt dàn máy ở hông lưng phải BN.
   * Mổ cắt dạ dày: Đặt bên trái hướng lên phía đầu.
@@ -199,11 +199,11 @@ Bài học này cung cấp hướng dẫn giúp các bạn: (1) Hiểu vai trò,
   * Mổ thoát vị bẹn nội soi: Đặt dàn máy ở **ngay phía dưới chân BN** (bất kể mổ bên phải hay bên trái).
 * **Tư thế bệnh nhân:** Chuẩn bị tư thế tốt giúp thao tác nhanh. Tránh kê bàn quá cao hoặc để góc dạng tay/chân quá hẹp gây hạn chế biên độ thao tác của PTV.
 
-#### 4.6.2. Điều khiển camera
+#### Điều khiển camera
 Điều khiển camera là "con mắt nhìn" của PTV chính. Các nguyên tắc bắt buộc:
 1. Di chuyển camera nhẹ nhàng, chính xác, không chạm vào nội tạng hay dịch ổ bụng (gây mờ kính và tổn thương tạng, đặc biệt tử cung phụ nữ mang thai). Hướng di chuyển chậm rãi theo hướng thao tác của PTV.
 2. Vùng phẫu thuật luôn **nằm chính giữa màn hình**, không nhìn quá cao/thấp hay quá xa/gần. Dùng nút **Zoom in / Zoom out** trên camera để phóng to/nhỏ mà không cần đưa ống soi quá gần.
-3. **Luôn dùng cả 2 tay:** 1 tay cầm đầu camera, 1 tay cầm dây dẫn sáng. Tay cầm camera giữ tĩnh, không lắc hay rút ra vào liên tục. Thay đổi góc nhìn bằng cách nâng/hạ đầu camera và xoay bàn tay cầm dây sáng sang bên (ống soi \\(30^\circ - 45^\circ\\) cho góc nhìn từ trên xuống).
+3. **Luôn dùng cả 2 tay:** 1 tay cầm đầu camera, 1 tay cầm dây dẫn sáng. Tay cầm camera giữ tĩnh, không lắc hay rút ra vào liên tục. Thay đổi góc nhìn bằng cách nâng/hạ đầu camera và xoay bàn tay cầm dây sáng sang bên (ống soi `30°- 45°` cho góc nhìn từ trên xuống).
 4. **Xả khói:** Khói mờ do đốt mô được xả qua van trên trocar (nối dây xả ngâm vào nước để hòa tan khói, hoặc dùng máy hút khói tự động).
 
 ---

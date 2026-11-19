@@ -18,7 +18,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. MỞ ĐẦU
+## MỞ ĐẦU
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Khối phồng vùng bẹn, bìu**. Đây là một lý do đến khám bệnh rất phổ biến trong ngoại khoa.
 
@@ -36,7 +36,7 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Kh�
 
 ---
 
-## 2. GIẢI PHẪU VÙNG BẸN, BÌU LIÊN QUAN ĐẾN PHẪU THUẬT
+## GIẢI PHẪU VÙNG BẸN, BÌU LIÊN QUAN ĐẾN PHẪU THUẬT
 
 Để khám và chẩn đoán được các khối phồng vùng bẹn bìu, phẫu thuật viên cần nắm vững cấu trúc giải phẫu vùng bẹn – đùi:
 
@@ -49,22 +49,22 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Kh�
 
 ---
 
-## 3. NGUYÊN NHÂN KHỐI PHỒNG VÙNG BẸN, BÌU
+## NGUYÊN NHÂN KHỐI PHỒNG VÙNG BẸN, BÌU
 
 Các nguyên nhân gây phồng sưng vùng bẹn bìu được chia thành **3 nhóm chính**:
 
-### 3.1. Nhóm thoát vị
+### Nhóm thoát vị
 * **Thoát vị bẹn (Inguinal hernia):** Bao gồm thoát vị bẹn gián tiếp và thoát vị bẹn trực tiếp.
 * **Thoát vị đùi (Femoral hernia).**
 
-### 3.2. Nhóm liên quan với tinh hoàn
+### Nhóm liên quan với tinh hoàn
 * **Tràn dịch màng tinh hoàn (Hydrocele):** Dịch ứ đọng trong khoang màng tinh hoàn.
 * **Dãn tĩnh mạch thừng tinh (Varicocele):** Dãn hệ thống tĩnh mạch thừng tinh (thường gặp ở góc bìu bên trái).
 * **Tinh hoàn lạc chỗ (Ectopic testis):** Tinh hoàn dừng lại trên đường di chuyển (ví dụ nằm trong ống bẹn) thay vì xuống bìu.
 * **Viêm mào tinh hoàn (Epididymitis) / Viêm tinh hoàn:** Nhiễm trùng mào tinh hoặc tinh hoàn.
 * **Xoắn tinh hoàn (Testicular torsion):** Cấp cứu ngoại khoa do thừng tinh bị xoắn gây thiếu máu hoại tử tinh hoàn.
 
-### 3.3. Nhóm liên quan đến u bướu
+### Nhóm liên quan đến u bướu
 * **Bướu mỡ (Lipoma):** Bướu lành tính ở mô dưới da hoặc bướu mỡ thừng tinh.
 * **Tụ máu (Hematoma):** Khối máu tụ sau chấn thương hoặc va đập.
 * **Bướu bã (Sebaceous cyst):** Nang bã dưới da vùng bẹn bìu.
@@ -73,9 +73,9 @@ Các nguyên nhân gây phồng sưng vùng bẹn bìu được chia thành **3 
 
 ---
 
-## 4. TIẾP CẬN BỆNH NHÂN TRÊN LÂM SÀNG
+## TIẾP CẬN BỆNH NHÂN TRÊN LÂM SÀNG
 
-### 4.1. Hỏi bệnh sử
+### Hỏi bệnh sử
 Khi tiếp cận bệnh nhân có khối phồng vùng bẹn bìu, cần khai thác kỹ các tính chất:
 
 * **Tính chất xuất hiện và biến mất:**
@@ -89,7 +89,7 @@ Khi tiếp cận bệnh nhân có khối phồng vùng bẹn bìu, cần khai th
     * Viêm mào tinh hoàn: Kèm đau bụng dưới, **tiểu gắt buốt, tiểu đục, sốt nhẹ**.
     * Xoắn tinh hoàn hoặc Thoát vị bẹn nghẹt: **Đau dữ dội đột ngột**, sờ nắn thấy đau dọc theo thừng tinh.
 
-### 4.2. Tiền sử
+### Tiền sử
 Cần hỏi tiền sử bệnh lý toàn thân, ung thư và đánh giá các **yếu tố nguy cơ của thoát vị bẹn – đùi**:
 
 * Tiền sử gia đình có người bị thoát vị bẹn, phình động mạch chủ bụng, hoặc bệnh nhân đang thẩm phân phúc mạc.
@@ -98,12 +98,12 @@ Cần hỏi tiền sử bệnh lý toàn thân, ung thư và đánh giá các **
 * Tiền sử phẫu thuật: Đã từng **mổ mở cắt ruột thừa** hoặc **cắt tuyến tiền liệt tận gốc**.
 * **Tăng áp lực ổ bụng:**
   * *Tăng áp lực chủ động (ho, rặn kéo dài):* Là yếu tố phụ trợ. Khi rặn/ho chủ động, các cơ thành bụng phản ứng co lại để bảo vệ vùng bẹn.
-  * *Tăng áp lực thụ động (mang thai, báng bụng...):* Các cơ thành bụng vẫn ở trạng thái nghỉ, cơ chế bảo vệ không khởi động. Nếu bệnh nhân còn ống phúc tinh mạc hoặc sàn bẹn yếu \\(\rightarrow\\) Thoát vị rất dễ xảy ra.
+  * *Tăng áp lực thụ động (mang thai, báng bụng...):* Các cơ thành bụng vẫn ở trạng thái nghỉ, cơ chế bảo vệ không khởi động. Nếu bệnh nhân còn ống phúc tinh mạc hoặc sàn bẹn yếu `→` Thoát vị rất dễ xảy ra.
 * **Yếu tố thuận lợi khác:** Tuổi già, ít vận động, sinh đẻ nhiều lần, gãy xương chậu. **Giảm trọng lượng cơ thể quá nhanh** (do suy kiệt ác tính hoặc ăn kiêng quá mức) làm tiêu mất lớp mỡ đệm vùng bẹn, tạo khoảng trống dễ gây thoát vị. Luyện tập thể lực quá căng thẳng cũng là yếu tố thuận lợi.
 
 ---
 
-### 4.3. Khám lâm sàng
+### Khám lâm sàng
 
 Khám vùng bẹn bìu cần thực hiện ở cả **hai tư thế: đứng và nằm**. Khám tinh hoàn hai bên (xác định đủ 2 tinh hoàn không, kích thước, mật độ chắc hay mềm).
 
@@ -117,22 +117,22 @@ Khám vùng bẹn bìu cần thực hiện ở cả **hai tư thế: đứng và
 1. **Nghiệm pháp chẹn lỗ bẹn sâu:**
    * *Cách làm:* Cho bệnh nhân nằm, ấn cho xẹp hoàn toàn khối phồng. Dùng ngón tay cái ấn chặt vào vị trí **lỗ bẹn sâu** (từ vị trí động mạch đùi ở nếp bẹn đi thẳng lên trên 1,5 – 2 cm). Sau đó yêu cầu bệnh nhân đứng dậy, rặn hoặc làm phình bụng lên.
    * *Đánh giá:* 
-     * Nếu **khối phồng KHÔNG xuất hiện lại** \\(\rightarrow\\) Là **Thoát vị bẹn gián tiếp** (do lỗ bẹn sâu đã bị ngón tay chẹn lại).
-     * Nếu **khối phồng VẪN xuất hiện lại** \\(\rightarrow\\) Là **Thoát vị bẹn trực tiếp** (do khối thoát vị chui qua sàn bẹn ở phía trong lỗ bẹn sâu).
+     * Nếu **khối phồng KHÔNG xuất hiện lại** `→` Là **Thoát vị bẹn gián tiếp** (do lỗ bẹn sâu đã bị ngón tay chẹn lại).
+     * Nếu **khối phồng VẪN xuất hiện lại** `→` Là **Thoát vị bẹn trực tiếp** (do khối thoát vị chui qua sàn bẹn ở phía trong lỗ bẹn sâu).
 2. **Nghiệm pháp chạm ngón:**
    * *Cách làm:* Ấn khối phồng cho xẹp. Dùng ngón trỏ đẩy từ da bìu đi ngược lên vào lỗ bẹn nông, đầu ngón tay hướng về lỗ bẹn sâu, mặt lòng ngón tay hướng vào trong ổ bụng. Cho bệnh nhân rặn hoặc ho.
    * *Đánh giá:*
-     * Nếu khối thoát vị **chạm vào ĐẦU ngón tay** \\(\rightarrow\\) Là **Thoát vị bẹn gián tiếp**.
-     * Nếu khối thoát vị **chạm vào MẶT LÒNG ngón tay** \\(\rightarrow\\) Là **Thoát vị bẹn trực tiếp**.
+     * Nếu khối thoát vị **chạm vào ĐẦU ngón tay** `→` Là **Thoát vị bẹn gián tiếp**.
+     * Nếu khối thoát vị **chạm vào MẶT LÒNG ngón tay** `→` Là **Thoát vị bẹn trực tiếp**.
 
 #### Chẩn đoán các tình trạng cấp cứu và bệnh lý bẹn bìu
 
 * **Thoát vị bẹn nghẹt:**
   * Tiền sử có khối phồng xuất hiện nhiều tháng, ấn xẹp. Vài giờ gần đây khối phồng xuất hiện liên tục, **đau tăng dần, ấn KHÔNG mất đi**.
   * Khám: Khối phồng xuất hiện từ trên nếp bẹn đi qua lỗ bẹn nông xuống bìu, **ấn rất đau** từ lỗ bẹn nông đến điểm cuối khối phồng. 
-  * *Chẩn đoán phân biệt:* Nếu sờ được tinh hoàn trong bìu bình thường và không đau \\(\rightarrow\\) Là thoát vị bẹn nghẹt. Nếu không sờ được tinh hoàn hoặc sờ tinh hoàn thấy rất đau \\(\rightarrow\\) Phải phân biệt với **xoắn tinh hoàn** hoặc **viêm tinh hoàn/mào tinh hoàn**.
+  * *Chẩn đoán phân biệt:* Nếu sờ được tinh hoàn trong bìu bình thường và không đau `→` Là thoát vị bẹn nghẹt. Nếu không sờ được tinh hoàn hoặc sờ tinh hoàn thấy rất đau `→` Phải phân biệt với **xoắn tinh hoàn** hoặc **viêm tinh hoàn/mào tinh hoàn**.
 * **Thoát vị đùi nghẹt:** Khối phồng xuất hiện dưới nếp bẹn, phía trong động mạch đùi, ấn rất đau, không xẹp, không dính da. Cần phân biệt với viêm hạch bẹn hoặc áp xe hạch.
-* **Tràn dịch màng tinh hoàn:** Bìu căng to, sờ nắn không đau, không sờ được tinh hoàn. **Nghiệm pháp soi đèn (Transillumination test):** Chiếu ánh sáng qua bìu \\(\rightarrow\\) **Ánh sáng xuyên qua hoàn toàn (dương tính)**. (Nếu do u hoặc thoát vị thì ánh sáng không xuyên qua).
+* **Tràn dịch màng tinh hoàn:** Bìu căng to, sờ nắn không đau, không sờ được tinh hoàn. **Nghiệm pháp soi đèn (Transillumination test):** Chiếu ánh sáng qua bìu `→` **Ánh sáng xuyên qua hoàn toàn (dương tính)**. (Nếu do u hoặc thoát vị thì ánh sáng không xuyên qua).
 * **Dãn tĩnh mạch thừng tinh:** Bìu trái to, sờ thấy nhiều búi tĩnh mạch dãn mềm như "búi giun".
 * **Tinh hoàn lạc chỗ:** Sờ bìu chỉ thấy 1 tinh hoàn hoặc không có tinh hoàn; có thể sờ thấy khối nhỏ chắc nằm trong ống bẹn.
 * **Viêm mào tinh hoàn:** Mào tinh và tinh hoàn to, ấn đau nhẹ, có thể kèm sốt, tiểu buốt.
@@ -142,7 +142,7 @@ Khám vùng bẹn bìu cần thực hiện ở cả **hai tư thế: đứng và
 ---
 
 #### Bảng 1. Phân loại thoát vị bẹn theo Hiệp hội Thoát vị Châu Âu (EHS, 2007)
-| Thể thoát vị | Primary (Mổ lần đầu) / Recurrent (Tái phát) | Kích thước lỗ thoát vị: **0** (Không có) | **1** (\\(\le 1\\) ngón tay) | **2** (1–2 ngón tay) | **3** (\\(\ge 2\\) ngón tay) | **x** (Không đánh giá) |
+| Thể thoát vị | Primary (Mổ lần đầu) / Recurrent (Tái phát) | Kích thước lỗ thoát vị: **0** (Không có) | **1** (`≤ 1` ngón tay) | **2** (1–2 ngón tay) | **3** (`≥ 2` ngón tay) | **x** (Không đánh giá) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **L (Lateral)** | *Thoát vị gián tiếp* | | | | | |
 | **M (Medial)** | *Thoát vị trực tiếp* | | | | | |
@@ -150,20 +150,20 @@ Khám vùng bẹn bìu cần thực hiện ở cả **hai tư thế: đứng và
 
 ---
 
-## 5. CẬN LÂM SÀNG
+## CẬN LÂM SÀNG
 
 Cận lâm sàng đóng vai trò xác định chẩn đoán và phân biệt nguyên nhân trong các trường hợp lâm sàng không điển hình:
 
-### 5.1. Siêu âm
+### Siêu âm
 * **Siêu âm bẹn – bìu:** Là phương tiện đầu tay có **độ nhạy cao (77 – 81,5%) và độ đặc hiệu cao (86 – 94,5%)** trong chẩn đoán thoát vị bẹn đùi (cả thể nghẹt và không nghẹt). 
 * Giúp chẩn đoán chính xác: Tràn dịch màng tinh hoàn, dãn tĩnh mạch thừng tinh, tinh hoàn lạc chỗ, viêm mào tinh hoàn, bướu mỡ, tụ máu, bướu bã, hạch bẹn.
 * **Siêu âm Doppler màu:** Bắt buộc chỉ định khi nghi ngờ **xoắn tinh hoàn** (đánh giá dòng máu nuôi tinh hoàn bị mất) hoặc phình/giả phình động mạch đùi.
 
-### 5.2. Chụp cắt lớp vi tính và Chụp cộng hưởng từ
+### Chụp cắt lớp vi tính và Chụp cộng hưởng từ
 * **CT scan và MRI bẹn bìu:** Có độ nhạy **94%** và độ đặc hiệu **96%** trong chẩn đoán thoát vị.
 * Được chỉ định khi thăm khám và siêu âm không rõ ràng. Thường thực hiện **CT/MRI động** (chụp ở hai trạng thái: khi nghỉ ngơi và khi BN làm nghiệm pháp Valsalva/phình bụng) giúp phát hiện các túi thoát vị rất nhỏ.
 
-### 5.3. Chụp túi thoát vị (Herniography)
+### Chụp túi thoát vị (Herniography)
 * Bơm thuốc cản quang tan trong nước vào khoang phúc mạc, sau đó chụp X-quang để tìm túi thoát vị.
 * Chỉ định khi bệnh nhân đau vùng bẹn nghi do thoát vị nhưng khám lâm sàng và siêu âm không phát hiện được. Độ nhạy và đặc hiệu cao, ít biến chứng, nhưng **khuyết điểm là không phát hiện được bướu mỡ thừng tinh**.
 

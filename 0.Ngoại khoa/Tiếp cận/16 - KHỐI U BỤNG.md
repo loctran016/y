@@ -22,7 +22,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. KHÁI NIỆM
+## KHÁI NIỆM
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau tìm hiểu **Bài 16: Khối u bụng**.
 
@@ -36,7 +36,7 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau tìm hiểu **B�
 
 ---
 
-## 2. NGUYÊN NHÂN KHỐI U BỤNG
+## NGUYÊN NHÂN KHỐI U BỤNG
 
 Khối u trong ổ bụng được phân loại thành các nhóm nhỏ dựa trên bản chất bệnh lý:
 1. **Viêm:** Khối viêm (ví dụ đám quánh ruột thừa, áp xe ruột thừa, viêm túi mật, viêm tụy, viêm túi thừa đại tràng...).
@@ -54,13 +54,13 @@ Bệnh lý từ thành bụng đến khoang bụng (cả trong và sau phúc m�
   * Hẹp cổ bàng quang tạo thành cầu bàng quang căng trướng.
   * Tắc chỗ nối đại tràng chậu hông – trực tràng làm quai đại tràng chậu hông dãn lớn.
   
-👉 Trong những trường hợp này, khối u sờ được trên bụng thực chất là **phần tạng bị dãn ứ đọng** chứ không phải là khối u thực thể. Khi tháo được dịch, hơi hoặc thức ăn (qua đặt thông, ói, trung/đại tiện, thông tiểu), phần phía trên chỗ tắc xẹp lại và không còn sờ được khối u nữa \\(\rightarrow\\) Người ta gọi đó là **khối u giả**.
+👉 Trong những trường hợp này, khối u sờ được trên bụng thực chất là **phần tạng bị dãn ứ đọng** chứ không phải là khối u thực thể. Khi tháo được dịch, hơi hoặc thức ăn (qua đặt thông, ói, trung/đại tiện, thông tiểu), phần phía trên chỗ tắc xẹp lại và không còn sờ được khối u nữa `→` Người ta gọi đó là **khối u giả**.
 
 ---
 
-## 3. CHẨN ĐOÁN KHỐI U BỤNG
+## CHẨN ĐOÁN KHỐI U BỤNG
 
-### 3.1. Hỏi bệnh
+### Hỏi bệnh
 Bệnh nhân có thể đến khám vì tự sờ/thấy khối u ở vùng bụng (khi u nông và khá lớn) hoặc thấy bụng bị méo (khi u nằm sâu và đủ lớn).
 
 Bác sĩ cần khai thác đầy đủ **4 tính chất quan trọng của khối u**:
@@ -76,30 +76,30 @@ Bác sĩ cần khai thác đầy đủ **4 tính chất quan trọng của khố
 4. **Triệu chứng đi kèm:**
    * *Triệu chứng mơ hồ:* Đau âm ỉ, đầy nặng bụng, sốt, sụt cân, ăn không ngon, đầy bụng, khó tiêu.
    * *Triệu chứng đặc hiệu chỉ điểm tạng tổn thương:*
-     * Ói máu đỏ / máu đen \\(\rightarrow\\) Tổn thương tại thành dạ dày hoặc xâm lấn dạ dày.
-     * Ói thức ăn cũ \\(\rightarrow\\) Hẹp/tắc môn vị hoặc tá tràng.
-     * Vàng da hoặc túi mật to \\(\rightarrow\\) U đoạn đường mật ngoài gan.
-     * Bán tắc / tắc ruột cao \\(\rightarrow\\) Tổn thương ruột non.
-     * Táo bón, tiêu chảy, tiêu đàm máu \\(\rightarrow\\) Tổn thương đại tràng, trực tràng (tiêu chảy cũng gặp trong bệnh lý tụy).
-     * Mót rặn \\(\rightarrow\\) Tổn thương vùng trực tràng.
-     * U thay đổi kích thước theo chu kỳ kinh nguyệt \\(\rightarrow\\) Bệnh lý buồng trứng.
-     * Cơn đau quặn thận \\(\rightarrow\\) Bế tắc đường tiểu trên.
-     * Tiểu buốt, tiểu gắt \\(\rightarrow\\) Kích thích bàng quang / cổ bàng quang.
+     * Ói máu đỏ / máu đen `→` Tổn thương tại thành dạ dày hoặc xâm lấn dạ dày.
+     * Ói thức ăn cũ `→` Hẹp/tắc môn vị hoặc tá tràng.
+     * Vàng da hoặc túi mật to `→` U đoạn đường mật ngoài gan.
+     * Bán tắc / tắc ruột cao `→` Tổn thương ruột non.
+     * Táo bón, tiêu chảy, tiêu đàm máu `→` Tổn thương đại tràng, trực tràng (tiêu chảy cũng gặp trong bệnh lý tụy).
+     * Mót rặn `→` Tổn thương vùng trực tràng.
+     * U thay đổi kích thước theo chu kỳ kinh nguyệt `→` Bệnh lý buồng trứng.
+     * Cơn đau quặn thận `→` Bế tắc đường tiểu trên.
+     * Tiểu buốt, tiểu gắt `→` Kích thích bàng quang / cổ bàng quang.
 
 ---
 
-### 3.2. Khám bụng
+### Khám bụng
 
-#### 3.2.1. Nhìn
+#### Nhìn
 * Nhận định hình dạng bụng, vết sẹo mổ cũ, tổn thương nông trên da, các khối phồng. Ghi nhận tình trạng bụng trướng, bụng méo hay phẳng đều.
 
-#### 3.2.2. Nghe
+#### Nghe
 * Nghe nhu động ruột, âm thổi, vừa lắc vừa nghe tìm dấu óc ách.
-  * Nhu động ruột tăng kèm tiếng thanh (âm sắc cao) \\(\rightarrow\\) Lòng ruột bị hẹp hoặc tắc.
-  * Âm thổi \\(\rightarrow\\) Phình động mạch.
-  * Dấu óc ách \\(\rightarrow\\) Hẹp môn vị.
+  * Nhu động ruột tăng kèm tiếng thanh (âm sắc cao) `→` Lòng ruột bị hẹp hoặc tắc.
+  * Âm thổi `→` Phình động mạch.
+  * Dấu óc ách `→` Hẹp môn vị.
 
-#### 3.2.3. Sờ
+#### Sờ
 Khi sờ nắn khối u bụng, phải mô tả chi tiết **9 tính chất bắt buộc**:
 1. **Vị trí:** Vị trí ban đầu và vị trí hiện tại dựa theo phân khu thành bụng trước và vùng thắt lưng.
 2. **Kích thước:** Ghi nhận kích thước 2 chiều (cm) hoặc ước đoán đường kính nếu u tròn.
@@ -109,17 +109,17 @@ Khi sờ nắn khối u bụng, phải mô tả chi tiết **9 tính chất bắ
 6. **Độ di động:** U trong khoang phúc mạc có cuống (u mạc treo, lồng ruột, nang buồng trứng) di động dễ dàng. U xâm nhiễm, viêm dính thành bụng hay tạng lân cận sẽ mất tính di động.
 7. **Biến mất:**
    * Thay đổi tư thế/áp lực bụng (thoát vị).
-   * **Nghiệm pháp gồng thành bụng:** Cho BN gồng cứng cơ thành bụng, nếu khối u **mờ đi hoặc biến mất** \\(\rightarrow\\) U nằm trong khoang bụng; nếu khối u **hiện rõ hơn** \\(\rightarrow\\) U nằm ở thành bụng.
-   * U xẹp/mất sau thông dạ dày, ói, trung/đại tiện, thông tiểu \\(\rightarrow\\) U giả của tạng rỗng.
-   * U biến mất kèm đau dữ dội lan khắp bụng \\(\rightarrow\\) U vỡ.
+   * **Nghiệm pháp gồng thành bụng:** Cho BN gồng cứng cơ thành bụng, nếu khối u **mờ đi hoặc biến mất** `→` U nằm trong khoang bụng; nếu khối u **hiện rõ hơn** `→` U nằm ở thành bụng.
+   * U xẹp/mất sau thông dạ dày, ói, trung/đại tiện, thông tiểu `→` U giả của tạng rỗng.
+   * U biến mất kèm đau dữ dội lan khắp bụng `→` U vỡ.
 8. **Ấn đau:** U bị xoắn quanh chân, thắt, viêm nhiễm, dọa vỡ (ấn đau rõ ở cổ túi thoát vị nghẹt; ấn đau toàn bộ bề mặt u trong u hoại tử, khối viêm, dọa vỡ).
 9. **Đập theo mạch:** U dính vào động mạch lớn (đập nảy lên xuống theo thì tâm thu) hoặc phình động mạch (nẩy bung rộng ra theo thì tâm thu).
 
 ---
 
-### 3.3. Lưu đồ chẩn đoán khối u bụng
+### Lưu đồ chẩn đoán khối u bụng
 
-#### 3.3.1. Lưu đồ tổng quát
+#### Lưu đồ tổng quát
 ```
                            KHỐI U BỤNG
                                 │
@@ -134,26 +134,26 @@ Khi sờ nắn khối u bụng, phải mô tả chi tiết **9 tính chất bắ
                               Trong khoang phúc mạc    Ngoài khoang phúc mạc
 ```
 
-#### 3.3.2. Khối u thành bụng
+#### Khối u thành bụng
 * **Khối u thành bụng do viêm:** ~90% khởi phát đột ngột, kèm dấu hiệu nhiễm trùng lâm sàng/cận lâm sàng (do vi khuẩn: viêm nang lông, nhọt, cụm nhọt; siêu vi; nấm).
 * **Khối u thành bụng không do viêm:**
   * *Ác tính (90%):* Khởi phát từ từ, khuynh hướng xâm lấn xung quanh, loét muộn, thay đổi màu da nông, bờ không đều, mật độ chắc đến cứng (ung thư tế bào đáy, ung thư biểu mô da, ung thư hắc tố).
   * *Lành tính (90%):* Khởi phát từ từ, không xâm lấn, mật độ không cứng, không viêm (nang bã đậu, bướu mỡ, bướu mạch máu).
 
-#### 3.3.3. Khối u trong khoang bụng
+#### Khối u trong khoang bụng
 Phân loại theo tính chất viêm / không viêm (lành tính / ác tính) và vị trí phân khu:
 
 ##### (1) Khối u bụng vùng trên rốn:
-* Kèm Vàng da, sốt, đau bụng \\(\rightarrow\\) Viêm, sỏi, áp xe, u (Gan – Mật – Tụy).
-* Kèm triệu chứng tiêu hóa trên (đau bụng, đầy bụng, chán ăn, ói máu, tiêu phân đen, hẹp môn vị) \\(\rightarrow\\) U dạ dày, U đại tràng.
-* Khác \\(\rightarrow\\) U tụy, mạc treo, lách, phình mạch máu.
+* Kèm Vàng da, sốt, đau bụng `→` Viêm, sỏi, áp xe, u (Gan – Mật – Tụy).
+* Kèm triệu chứng tiêu hóa trên (đau bụng, đầy bụng, chán ăn, ói máu, tiêu phân đen, hẹp môn vị) `→` U dạ dày, U đại tràng.
+* Khác `→` U tụy, mạc treo, lách, phình mạch máu.
 
 ##### (2) Khối u bụng vùng 1/4 trên phải (Hạ sườn phải):
-* Kèm Vàng da, sốt, đau bụng \\(\rightarrow\\) Viêm, sỏi, áp xe, u (Gan – Mật – Tụy).
-* Kèm triệu chứng tiêu hóa trên, rối loạn đi tiêu (phân đen, phân đỏ, nhầy máu) \\(\rightarrow\\) Hẹp/U Dạ dày, Tá tràng, Đại tràng.
-* Khác \\(\rightarrow\\) U mạc treo, Thận, Mạch máu.
+* Kèm Vàng da, sốt, đau bụng `→` Viêm, sỏi, áp xe, u (Gan – Mật – Tụy).
+* Kèm triệu chứng tiêu hóa trên, rối loạn đi tiêu (phân đen, phân đỏ, nhầy máu) `→` Hẹp/U Dạ dày, Tá tràng, Đại tràng.
+* Khác `→` U mạc treo, Thận, Mạch máu.
 
-#### 3.3.4. Khối u các vị trí khác theo phân khu thành bụng (Bảng 1)
+#### Khối u các vị trí khác theo phân khu thành bụng (Bảng 1)
 
 #### Bảng 1. Nguyên nhân khối u bụng theo phân khu thành bụng trước
 | Vùng Hạ sườn phải (1/4 trên phải) | Vùng Thượng vị (Trên rốn) | Vùng Hạ sườn trái (1/4 trên trái) |
@@ -166,7 +166,7 @@ Phân loại theo tính chất viêm / không viêm (lành tính / ác tính) v�
 
 ---
 
-### 3.4. Cận lâm sàng
+### Cận lâm sàng
 
 * **Chụp X-quang bụng không sửa soạn:** Chẩn đoán sỏi hệ niệu, tắc ruột...
 * **Chụp dạ dày / đại tràng cản quang:** Chẩn đoán nguyên nhân tổn thương từ dạ dày hoặc đại tràng.
@@ -179,7 +179,7 @@ Phân loại theo tính chất viêm / không viêm (lành tính / ác tính) v�
 
 ---
 
-## 4. KẾT LUẬN
+## KẾT LUẬN
 
 Khối u vùng bụng là một triệu chứng cơ năng hoặc thực thể với nguyên nhân rất đa dạng. Ở giai đoạn sớm, triệu chứng thường mơ hồ hoặc không biểu hiện rõ rệt. Khi bệnh tiến triển, sẽ xuất hiện thêm các triệu chứng của tạng bị u hoặc tạng bị chèn ép ảnh hưởng. 
 

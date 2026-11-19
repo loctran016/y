@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng tìm hiểu bài **Sốc chấn thương**. Chấn thương là một trong những nguyên nhân hàng đầu dẫn đến tử vong, làm gia tăng gánh nặng về kinh tế và xã hội. Theo thống kê của Tổ chức Y tế Thế giới (WHO), số trường hợp tử vong do chấn thương tại Việt Nam ước tính khoảng **10,4/100.000 người hằng năm** và tập trung chủ yếu trong độ tuổi lao động.
 
@@ -32,7 +32,7 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng tìm hiểu bài **S�
 
 ---
 
-## 2. NGUYÊN NHÂN
+## NGUYÊN NHÂN
 
 Nguyên nhân của sốc chấn thương được chia thành hai nhóm chính dựa trên tiêu chí có liên quan đến chảy máu hay không. Các nguyên nhân này được đúc kết trong Bảng 1:
 
@@ -43,7 +43,7 @@ Nguyên nhân của sốc chấn thương được chia thành hai nhóm chính 
 
 ---
 
-## 3. SINH LÝ BỆNH
+## SINH LÝ BỆNH
 
 Theo hướng dẫn tiếp cận hệ thống đối với bệnh nhân chấn thương (ATLS) của Hiệp hội Phẫu thuật Hoa Kỳ (ACS), dựa trên mức độ mất máu và các dấu hiệu sinh tồn, quá trình sinh bệnh của sốc chấn thương được chia thành **5 giai đoạn chính**:
 
@@ -53,7 +53,7 @@ Theo hướng dẫn tiếp cận hệ thống đối với bệnh nhân chấn t
 4. **Giai đoạn không phục hồi bán cấp:** Sinh hiệu của bệnh nhân đã trở lại bình thường sau hồi sức, tuy nhiên sự thiếu máu ở cấp độ tế bào vẫn tiếp tục diễn tiến do tế bào bị phù nề và các mạch máu nhỏ bị tổn thương ngăn cản sự tái tưới máu. Các chất độc tạo ra từ tế bào tổn thương sẽ tràn vào máu khi tái tưới máu và gây nên **Hội chứng suy đa cơ quan (MOSF)** làm bệnh nhân tử vong.
 5. **Giai đoạn không phục hồi cấp tính:** Diễn tiến chảy máu, toan chuyển hóa và rối loạn đông máu dẫn đến tử vong ngay trong vòng 1 giờ đầu. Sự thiếu máu kéo dài làm cạn kiệt nguồn năng lượng tế bào (đặc biệt tế bào nội mạch) dẫn đến giãn mạch, mất đáp ứng với dịch truyền và catecholamine, thoát mạch, rối loạn đông máu lan tỏa và suy tuần hoàn hoàn toàn.
 
-### 3.1. Sốc mất máu
+### Sốc mất máu
 Chảy máu là nguyên nhân thường gặp nhất trong sốc chấn thương, chiếm tới **80% trường hợp tử vong sớm trong 24 giờ đầu**. Tình trạng chảy máu kéo dài không được kiểm soát sẽ dẫn đến "Tam giác chết" (Tam chứng tử vong): **toan chuyển hóa, hạ thân nhiệt và rối loạn đông máu**.
 
 * **Toan chuyển hóa:** Thiếu máu kéo dài làm giảm nồng độ ATP (nguồn năng lượng duy trì màng tế bào), dẫn đến tăng hấp thu dịch nội bào và phù nề tế bào. Tế bào chuyển sang chuyển hóa yếm khí, sản xuất acid lactic và các gốc tự do. Các chất độc này gây toan chuyển hóa, tổn thương tế bào thiếu máu và ức chế kênh trao đổi K+, dẫn đến giãn mạch và đi vào giai đoạn sốc mất bù.
@@ -63,32 +63,32 @@ Chảy máu là nguyên nhân thường gặp nhất trong sốc chấn thương
   * Truyền lượng lớn dịch tinh thể, cao phân tử và khối hồng cầu làm pha loãng các yếu tố đông máu.
   * Hạ thân nhiệt và toan chuyển hóa làm suy giảm chức năng tiểu cầu và các yếu tố đông máu.
 
-### 3.2. Sốc thần kinh
+### Sốc thần kinh
 * Sốc thần kinh là hậu quả của tổn thương bán cầu não và cột sống từ **đốt sống ngực T6 trở lên**, làm mất cơ chế giao cảm co mạch hệ thống.
 * **Biểu hiện:** Hạ huyết áp, chậm nhịp tim, giảm kháng trở mạch máu hệ thống, giảm áp lực tĩnh mạch trung tâm (CVP) và áp lực động mạch phổi. Cung lượng tim có thể thấp, bình thường hoặc tăng. Tình trạng huyết động càng phức tạp hơn khi bệnh nhân có sốc mất máu kèm theo.
 
-### 3.3. Sốc tim
+### Sốc tim
 * Nguyên nhân thường gặp nhất là thiếu máu cơ tim cấp (xuất hiện khi **35 – 40% khối cơ tâm thất trái bị thiếu máu**, đặc biệt ở người lớn tuổi) hoặc chèn ép tim cấp.
 * **Biểu hiện:** Giảm cung lượng tim, hạ huyết áp nặng, giảm tưới máu mạch vành và làm tăng vùng cơ tim bị thiếu máu. Đây là tình trạng cấp cứu rất nặng với nguy cơ tử vong cao.
 
-### 3.4. Sốc nhiễm khuẩn
+### Sốc nhiễm khuẩn
 * Sốc nhiễm khuẩn đơn thuần ít khi xuất hiện ngay lập tức sau chấn thương, trừ trường hợp có vết thương hở lớn nhiễm khuẩn.
 * Nhiễm khuẩn huyết giải phóng các chất giãn mạch (histamin, bradykinin) gây ứ máu ngoại biên, thoát huyết tương vào khoang thứ ba, làm giảm lượng máu về tim và hạ huyết áp. Cơ chế bù trừ giao cảm sẽ thất bại khi tình trạng thiếu máu cơ tim do hạ huyết áp kéo dài xuất hiện.
 
 ---
 
-## 4. LÂM SÀNG
+## LÂM SÀNG
 
 Khi tiến hành thăm khám, bệnh nhân bắt buộc phải ở tư thế nằm ngửa, bất động, không được ngồi hay đứng. Đánh giá ban đầu theo trình tự **ABCDE** của Hiệp hội Phẫu thuật Hoa Kỳ:
 
-### 4.1. Đường thở (Airway)
+### Đường thở (Airway)
 * **Làm thông thoáng đường thở:** Lấy dị vật, hút đờm dãi hầu họng, kéo hàm nâng cằm, **tuyệt đối không ngửa đầu** vì làm nặng thêm tổn thương cột sống cổ (nếu có).
 * **Bất động cột sống cổ thẳng trục:** Dùng đai nẹp cổ cứng hoặc túi cát hai bên cổ. Khoảng 1–3% trường hợp chấn thương có tổn thương cột sống cổ kèm theo.
 
-### 4.2. Thông khí (Breathing)
-* Quan sát di động lồng ngực, đếm tần số thở, nghe phổi, đo độ bão hòa oxy (\\(\text{SpO}_2 > 95\%\\)). Phát hiện và xử trí ngay các tổn thương chèn ép khoang ngực cấp tính.
+### Thông khí (Breathing)
+* Quan sát di động lồng ngực, đếm tần số thở, nghe phổi, đo độ bão hòa oxy (`SpO₂ > 95%`). Phát hiện và xử trí ngay các tổn thương chèn ép khoang ngực cấp tính.
 
-### 4.3. Huyết động và tuần hoàn (Circulation)
+### Huyết động và tuần hoàn (Circulation)
 * Mất máu là nguyên nhân hàng đầu, cần theo dõi liên tục sinh hiệu và tri giác.
 * **Phân độ mất máu theo Hiệp hội Phẫu thuật Hoa Kỳ (ACS) (Bảng 2):**
 
@@ -105,7 +105,7 @@ Khi tiến hành thăm khám, bệnh nhân bắt buộc phải ở tư thế n�
 
 * Đánh giá thời gian tái tưới máu mao mạch (CRT) và màu sắc da niêm (hồng ấm, lạnh ẩm hay tái nhạt).
 
-### 4.4. Thần kinh (Disability)
+### Thần kinh (Disability)
 * Đánh giá nhanh theo thang điểm **AVPU**: **A**lert (Tỉnh), **V**oice (Đáp ứng lời nói), **P**ain (Đáp ứng đau), **U**nconscious (Mất ý thức).
 * Đánh giá chi tiết bằng **Thang điểm Glasgow (GCS)** qua 3 đáp ứng: Mắt (E: 1–4 điểm), Lời nói (V: 1–5 điểm), Vận động (M: 1–6 điểm):
   * **GCS 15:** Bình thường.
@@ -115,37 +115,37 @@ Khi tiến hành thăm khám, bệnh nhân bắt buộc phải ở tư thế n�
   * **GCS 3 – 5:** Rối loạn ý thức rất nặng (tình trạng chết não).
 * Khám đồng tử (kích thước, phản xạ ánh sáng) và tìm các dấu hiệu tăng áp lực nội sọ (nôn vọt, giãn đồng tử, tam chứng Cushing: tăng huyết áp, chậm nhịp tim, suy hô hấp).
 
-### 4.5. Thăm khám toàn thân (Exposure)
+### Thăm khám toàn thân (Exposure)
 * Khai thác bệnh sử theo quy tắc **AMPLE**:
   * **A** (*Allergies*): Dị ứng thuốc, thực phẩm.
   * **M** (*Medications*): Thuốc đang điều trị (kháng đông, Insulin, tim mạch...).
   * **P** (*Previous history*): Tiền căn phẫu thuật, bệnh nội khoa, thai nghén.
   * **L** (*Last meal*): Bữa ăn cuối cách bao lâu.
   * **E** (*Events/Environment*): Hoàn cảnh và cơ chế chấn thương.
-* Cởi bỏ quần áo để thăm khám nhưng phải **đắp chăn ấm**, giữ thân nhiệt \\(\ge 37^\circ\text{C}\\) để tránh rối loạn đông máu. Khi nghiêng người bệnh phải có **3 người phối hợp đồng bộ** (1 giữ thân, 1 giữ 2 chân, 1 giữ đầu).
+* Cởi bỏ quần áo để thăm khám nhưng phải **đắp chăn ấm**, giữ thân nhiệt `≥ 37°C` để tránh rối loạn đông máu. Khi nghiêng người bệnh phải có **3 người phối hợp đồng bộ** (1 giữ thân, 1 giữ 2 chân, 1 giữ đầu).
 
-### 4.6. Khám từng vùng
+### Khám từng vùng
 * **Đầu, mặt, cổ:** Dấu nứt xương sọ, chảy máu/dịch từ tai, mũi.
 * **Ngực:** Gãy xương sườn, mảng sườn di động, lồng ngực nhô cao trong tràn khí màng phổi.
 * **Bụng:** Vết trầy xước hông lưng (vỡ gan, lách, thận), bụng trướng đề kháng (vỡ tạng rỗng), chảy máu mạc treo, thăm khám hậu môn/âm đạo/lỗ tiểu.
 * **Tứ chi:** Gãy xương dài (xương đùi, xương chậu gây mất máu rất lớn), yếu liệt vận động.
-* **Lưu ý quan trọng:** Theo dõi liên tục sinh hiệu, tri giác, monitor, điện tim, đo \\(\text{SpO}_2\\), đo lượng nước tiểu mỗi 15–30 phút (duy trì \\(\ge 1\text{ mL/kg/giờ}\\)). Che chắn tạm thời các tạng thoát vị bằng gạc ẩm hoặc đồ vật vô trùng.
+* **Lưu ý quan trọng:** Theo dõi liên tục sinh hiệu, tri giác, monitor, điện tim, đo `SpO₂`, đo lượng nước tiểu mỗi 15–30 phút (duy trì `≥ 1 mL/kg/giờ`). Che chắn tạm thời các tạng thoát vị bằng gạc ẩm hoặc đồ vật vô trùng.
 
 ---
 
-## 5. CẬN LÂM SÀNG
+## CẬN LÂM SÀNG
 
-### 5.1. Xét nghiệm máu
+### Xét nghiệm máu
 * Xác định nhóm máu.
 * Công thức máu: Hemoglobin và Hematocrit giảm do chảy máu. Bạch cầu tăng do phản ứng viêm; tuy nhiên nếu chảy máu không kiểm soát hoặc nhiễm khuẩn quá nặng, bạch cầu có thể giảm.
 * Đông máu: INR, TCK tăng; Tiểu cầu và Fibrinogen giảm.
-* Điện giải: \\(\text{Na}^+, \text{Cl}^-, \text{Ca}^{2+}\\) máu giảm do mất máu; \\(\text{K}^+\\) tăng khi suy thận.
+* Điện giải: `Na⁺, Cl⁻, Ca²⁺` máu giảm do mất máu; `K⁺` tăng khi suy thận.
 * Chức năng thận (Ure, Creatinin tăng), chức năng gan (AST, ALT, Bilirubin tăng).
 * Khí máu động mạch: Đánh giá toan chuyển hóa. Đường huyết, nồng độ rượu, men tim (Troponin T, CK-MB).
 
-### 5.2. Chẩn đoán hình ảnh
+### Chẩn đoán hình ảnh
 
-#### 5.2.1. Siêu âm có trọng điểm trong chấn thương (FAST)
+#### Siêu âm có trọng điểm trong chấn thương (FAST)
 * FAST (*Focused Assessment with Sonography in Trauma*) là phương pháp không xâm lấn, đánh giá nhanh dịch tự do màng ngoài tim và khoang bụng tại giường. Độ nhạy 80–82%, độ đặc hiệu 95–100%.
 * **Khảo sát 4 vùng (4 Ps):**
   1. *Pericardial:* Vùng quanh tim (màng ngoài tim).
@@ -153,30 +153,30 @@ Khi tiến hành thăm khám, bệnh nhân bắt buộc phải ở tư thế n�
   3. *Perisplenic:* Vùng quanh lách.
   4. *Pelvic:* Vùng chậu (túi cùng Douglas – nơi tập trung dịch nhiều thứ hai).
 
-#### 5.2.2. X-quang
+#### X-quang
 * Chụp X-quang tại giường giúp đánh giá nhanh tổn thương cột sống cổ nghiêng, ngực thẳng, khung chậu thẳng và xương khớp tứ chi. Với sọ脑 (sọ), X-quang chỉ thấy nứt xương sọ chứ không đánh giá được nhu mô não.
 
-#### 5.2.3. Chụp cắt lớp vi tính (CT)
+#### Chụp cắt lớp vi tính (CT)
 * Phương tiện có độ nhạy và độ đặc hiệu rất cao, giúp đánh giá chi tiết tổn thương đa tạng và theo dõi điều trị bảo tồn vỡ tạng đặc. **Chỉ thực hiện CT scan khi huyết động bệnh nhân đã ổn định**.
 * **Chống chỉ định tiêm thuốc cản quang:** Dị ứng iốt, phụ nữ mang thai, suy thận, suy gan, hen suyễn, đái tháo đường phụ thuộc insulin, tăng huyết áp, cường giáp.
 
-#### 5.2.4. Chụp cộng hưởng từ (MRI)
+#### Chụp cộng hưởng từ (MRI)
 * Ít dùng trong chẩn đoán ban đầu do thời gian chụp kéo dài. Ưu thế đánh giá tổn thương mô mềm (như dập não) trong quá trình điều trị hậu phẫu.
 
 ---
 
-## 6. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
-### 6.1. Chẩn đoán xác định
+### Chẩn đoán xác định
 Bệnh nhân sau chấn thương có rối loạn tri giác, hạ huyết áp, mạch nhanh hoặc chậm được chẩn đoán ban đầu là sốc chấn thương. Cần loại trừ các nguyên nhân hạ đường huyết, ngộ độc rượu, thuốc an thần hay chất gây nghiện.
 
-### 6.2. Chẩn đoán nguyên nhân
+### Chẩn đoán nguyên nhân
 * **Mất máu:** Mạch nhanh, da niêm nhạt, tay chân lạnh ẩm, hạ huyết áp.
 * **Thần kinh:** Mạch chậm, da niêm hồng, tay chân ấm khô, hạ huyết áp, yếu liệt và mất phản xạ gân xương tứ chi.
 * **Tim mạch:** Mạch nhanh hoặc chậm, hạ huyết áp, điện tâm đồ rối loạn nhịp, siêu âm phát hiện tràn dịch màng ngoài tim / tràn máu màng phổi chèn ép.
 * **Nhiễm khuẩn:** Xuất hiện nhiều ngày sau chấn thương, sốt, vẻ mặt nhiễm khuẩn, ổ mủ hoại tử hoặc áp xe.
 
-### 6.3. Những điều quan trọng trong chẩn đoán và kiểm soát ban đầu sốc chấn thương
+### Những điều quan trọng trong chẩn đoán và kiểm soát ban đầu sốc chấn thương
 * **Bảng 5. Tóm tắt vai trò cận lâm sàng tại hiện trường:**
   * *X-quang ngực:* Xác định tràn khí màng phổi áp lực, tràn máu màng phổi lượng nhiều, tổn thương động mạch chủ ngực.
   * *X-quang khung chậu:* Xác định gãy xương chậu (hình ảnh "mở quyển sách").
@@ -192,9 +192,9 @@ Bệnh nhân sau chấn thương có rối loạn tri giác, hạ huyết áp, m
 
 ---
 
-## 7. NGUYÊN TẮC ĐIỀU TRỊ
+## NGUYÊN TẮC ĐIỀU TRỊ
 
-### 7.1. Điều trị nội khoa
+### Điều trị nội khoa
 * **Hỗ trợ hô hấp:**
   * Thở oxy 100% qua mặt nạ.
   * Đặt nội khí quản qua đường miệng khi suy hô hấp, hôn mê (GCS < 9 điểm), tắc nghẽn đường thở. **Phải loại trừ tràn khí màng phổi áp lực và chèn ép tim cấp trước khi đặt ĐNK** (vì tăng áp lực lồng ngực khi thông khí nhân tạo sẽ làm ngưng tim). Mở khí quản khi chấn thương hàm mặt nặng, phù nề thanh môn.
@@ -210,15 +210,15 @@ Bệnh nhân sau chấn thương có rối loạn tri giác, hạ huyết áp, m
   * Đặt thông dạ dày qua đường miệng (giảm áp, ngừa viêm phổi hít).
   * Đặt thông tiểu theo dõi nước tiểu (chống chỉ định khi chảy máu lỗ tiểu, tụ máu tầng sinh môn, gãy xương chậu nghi đứt niệu đạo).
 
-### 7.2. Điều trị ngoại khoa
+### Điều trị ngoại khoa
 Chỉ định can thiệp phẫu thuật / thủ thuật khẩn cấp khi:
-* Sốc mất máu không đáp ứng nội khoa \\(\rightarrow\\) Phẫu thuật cầm máu khẩn cấp.
-* Tăng áp lực nội sọ do khối choán chỗ \\(\rightarrow\\) Mở sọ giải áp.
-* Tràn dịch màng ngoài tim gây chèn ép tim cấp \\(\rightarrow\\) Chọc dò màng ngoài tim.
-* Tràn khí / tràn dịch màng phổi gây chèn ép \\(\rightarrow\\) Dẫn lưu màng phổi.
-* Sốc nhiễm khuẩn do ổ áp xe \\(\rightarrow\\) Dẫn lưu mủ ổ áp xe.
+* Sốc mất máu không đáp ứng nội khoa `→` Phẫu thuật cầm máu khẩn cấp.
+* Tăng áp lực nội sọ do khối choán chỗ `→` Mở sọ giải áp.
+* Tràn dịch màng ngoài tim gây chèn ép tim cấp `→` Chọc dò màng ngoài tim.
+* Tràn khí / tràn dịch màng phổi gây chèn ép `→` Dẫn lưu màng phổi.
+* Sốc nhiễm khuẩn do ổ áp xe `→` Dẫn lưu mủ ổ áp xe.
 
-### 7.3. Vận chuyển bệnh nhân
+### Vận chuyển bệnh nhân
 Khi cơ sở hiện tại không đủ điều kiện điều trị, phải vừa hồi sức vừa vận chuyển bệnh nhân đến cơ sở cấp cứu ngoại khoa gần nhất. Không làm mất thời gian vào các chẩn đoán chưa cần thiết hoặc kéo dài phẫu thuật vượt quá khả năng.
 
 ---

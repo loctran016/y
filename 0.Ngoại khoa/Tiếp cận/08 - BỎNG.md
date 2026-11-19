@@ -21,7 +21,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC
+## ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau tìm hiểu **Bài 8: Bỏng**. Bỏng là một tổn thương cấp tính khá thường gặp trong đời sống sinh hoạt cũng như lao động sản xuất.
 
@@ -43,24 +43,24 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau tìm hiểu **B�
 
 ---
 
-## 2. PHÂN LOẠI BỎNG
+## PHÂN LOẠI BỎNG
 
 Việc khai thác tiền sử và bệnh sử cẩn thận giúp người thầy thuốc phân loại tổn thương bỏng một cách chính xác.
 
-### 2.1. Theo nguyên nhân
+### Theo nguyên nhân
 
-#### 2.1.1. Bỏng do nhiệt
+#### Bỏng do nhiệt
 * **Bỏng nước (scald burn):** Do chất lỏng nóng hoặc hơi nước gây ra. Đa số tổn thương tập trung ở phần thân và các bộ phận phía trên cơ thể.
 * **Bỏng do tiếp xúc (contact burn):** Do tiếp xúc chất rắn nóng (bàn ủi, dụng cụ nhà bếp nóng, thuốc lá đang cháy). Thường gặp ở bàn tay và hai tay.
 * **Bỏng do lửa (flame burn):** Gây ra bởi ngọn lửa hoặc các vụ cháy (nến, đèn, bếp lò, điếu thuốc cháy).
 * **Bỏng do hóa chất:** Tiếp xúc với các chất phản ứng hóa học như axit hoặc kiềm. Vị trí tổn thương phụ thuộc vào đường tiếp xúc (nuốt, bắn vào da/mắt, hít phải). Mức độ nặng phụ thuộc bản chất hóa chất, nồng độ, số lượng, thời gian tiếp xúc, độ xâm nhập mô và cơ chế phản ứng. Bỏng hóa chất thường **nặng hơn đánh giá ban đầu** và diễn tiến lan rộng theo thời gian.
-* **Bỏng điện:** Do dòng điện truyền qua cơ thể. Mức độ nặng phụ thuộc vào dạng dòng điện (xoay chiều hay một chiều), hiệu điện thế, cường độ, đường đi dòng điện và thời gian tiếp xúc. **Điện trở của các mô trong cơ thể tăng dần theo thứ tự:** Mô thần kinh \\(\rightarrow\\) Mạch máu \\(\rightarrow\\) Cơ \\(\rightarrow\\) Da \\(\rightarrow\\) Gân \\(\rightarrow\\) Mô mỡ \\(\rightarrow\\) Xương.
+* **Bỏng điện:** Do dòng điện truyền qua cơ thể. Mức độ nặng phụ thuộc vào dạng dòng điện (xoay chiều hay một chiều), hiệu điện thế, cường độ, đường đi dòng điện và thời gian tiếp xúc. **Điện trở của các mô trong cơ thể tăng dần theo thứ tự:** Mô thần kinh `→` Mạch máu `→` Cơ `→` Da `→` Gân `→` Mô mỡ `→` Xương.
 
-#### 2.1.2. Bỏng do hít (inhalation burn)
+#### Bỏng do hít (inhalation burn)
 * Hậu quả của việc hít thở khí nóng, hơi nước, chất lỏng nóng hoặc các sản phẩm cháy dở độc hại, gây thương tích nhiệt hoặc hóa chất cho khí quản và phổi.
 * Bỏng hít thường đi kèm với bỏng da (chiếm **20 – 35%** trường hợp) và là **nguyên nhân tử vong phổ biến nhất** trong các tai nạn bỏng do lửa. Tổn thương phổi do hít là nguyên nhân tử vong hàng đầu.
 
-### 2.2. Theo độ sâu
+### Theo độ sâu
 Dựa vào cấu trúc giải phẫu của da (lớp thượng bì, lớp bì và lớp mỡ dưới da), tổn thương bỏng được chia làm **4 độ**:
 
 * **Độ 1 (Bỏng thượng bì):** Tổn thương giới hạn ở lớp thượng bì, lớp tế bào đáy vẫn còn nguyên vẹn. Nguyên nhân thường do cháy nắng hoặc tiếp xúc rất nhanh với nước nóng/tia lửa. Bỏng độ 1 **tự lành trong vòng 1 tuần** mà không để lại sẹo hay thay đổi cấu trúc da.
@@ -81,7 +81,7 @@ Dựa vào cấu trúc giải phẫu của da (lớp thượng bì, lớp bì v�
 
 *Lưu ý:* Đa số vết bỏng không đồng nhất về độ sâu. Việc đánh giá độ sâu tổn thương lúc tiếp cận ban đầu thường chưa chính xác hoàn toàn, đặc biệt là phân biệt giữa bỏng độ 2 nông và độ 2 sâu.
 
-### 2.3. Theo độ rộng hay diện tích
+### Theo độ rộng hay diện tích
 Diện tích vết bỏng được tính bằng tỷ lệ phần trăm diện tích cơ thể bị tổn thương (% TBSA).
 
 * **Quy tắc số 9 (Áp dụng cho người lớn và trẻ > 10 tuổi):**
@@ -91,7 +91,7 @@ Diện tích vết bỏng được tính bằng tỷ lệ phần trăm diện t�
   * Thân sau (lưng - hông): **18%**
   * Chi dưới (mỗi đùi-cẳng-bàn chân): **18%** x 2 = **36%**
   * Cơ quan sinh dục / Tầng sinh môn: **1%**
-* **Bảng Lund và Browder (Áp dụng cho trẻ em \\(\le 10\\) tuổi):** Ở trẻ em, tỷ lệ diện tích đầu lớn hơn và chân nhỏ hơn so với người lớn.
+* **Bảng Lund và Browder (Áp dụng cho trẻ em `≤ 10` tuổi):** Ở trẻ em, tỷ lệ diện tích đầu lớn hơn và chân nhỏ hơn so với người lớn.
 
 #### Bảng 3. Ước lượng diện tích bỏng theo Lund và Browder ở trẻ em
 | Vùng cơ thể | 0 – 1 tuổi | 1 – 4 tuổi | 5 – 9 tuổi | 10 – 15 tuổi |
@@ -114,7 +114,7 @@ Diện tích vết bỏng được tính bằng tỷ lệ phần trăm diện t�
 
 ---
 
-## 3. ĐÁNH GIÁ ĐỘ NẶNG CỦA BỎNG
+## ĐÁNH GIÁ ĐỘ NẶNG CỦA BỎNG
 
 Đánh giá độ nặng chính xác quyết định thái độ xử trí và tiên lượng. Độ nặng phụ thuộc vào các yếu tố: Tuổi (trẻ < 2 tuổi nguy cơ tử vong rất cao), tác nhân, diện tích bỏng, độ sâu, bỏng đường hô hấp, chấn thương kèm theo và biến chứng.
 
@@ -125,7 +125,7 @@ Diện tích vết bỏng được tính bằng tỷ lệ phần trăm diện t�
 
 ---
 
-## 4. SINH LÝ BỆNH
+## SINH LÝ BỆNH
 
 Da là cơ quan rộng nhất cơ thể, dù chỉ dày vài milimet nhưng đảm nhận nhiều chức năng quan trọng giúp duy trì sự sống.
 
@@ -147,18 +147,18 @@ Da là cơ quan rộng nhất cơ thể, dù chỉ dày vài milimet nhưng đ�
   4. *Thời kỳ 4:* Giai đoạn phục hồi.
 
 * **Sơ đồ sinh lý bệnh sốc bỏng:**
-  * Nhiệt độ cao \\(\rightarrow\\) Phá hủy tế bào:
-    * Hoại tử da \\(\rightarrow\\) Nhiễm trùng.
-    * Tổn thương thần kinh \\(\rightarrow\\) Đau đớn \\(\rightarrow\\) **Sốc bỏng**.
-  * Đông tắc mạch \\(\rightarrow\\) Phóng thích chất giãn mạch \\(\rightarrow\\) Thoát huyết tương \\(\rightarrow\\) Giảm khối lượng tuần hoàn \\(\rightarrow\\) **Sốc bỏng**:
-    * Giảm máu đến thận \\(\rightarrow\\) Suy thận cấp.
-    * Giảm máu đến brain (não) \\(\rightarrow\\) Rối loạn tri giác.
+  * Nhiệt độ cao `→` Phá hủy tế bào:
+    * Hoại tử da `→` Nhiễm trùng.
+    * Tổn thương thần kinh `→` Đau đớn `→` **Sốc bỏng**.
+  * Đông tắc mạch `→` Phóng thích chất giãn mạch `→` Thoát huyết tương `→` Giảm khối lượng tuần hoàn `→` **Sốc bỏng**:
+    * Giảm máu đến thận `→` Suy thận cấp.
+    * Giảm máu đến brain (não) `→` Rối loạn tri giác.
 
 ---
 
-## 5. XỬ TRÍ
+## XỬ TRÍ
 
-### 5.1. Tại hiện trường
+### Tại hiện trường
 
 Sơ cứu ban đầu đúng cách tại hiện trường có ý nghĩa tiên lượng sống còn.
 
@@ -172,17 +172,17 @@ Sơ cứu ban đầu đúng cách tại hiện trường có ý nghĩa tiên lư
 * **Cởi bỏ trang sức, đồng hồ và quần áo chật** ở vùng bỏng trước khi mô bị sưng nề.
 * **Che phủ vết bỏng bằng gạc hoặc vải sạch** để chống nhiễm trùng và giảm mất nước.
 
-### 5.2. Tại bệnh viện
+### Tại bệnh viện
 
 * **Bỏng nhẹ (Điều trị ngoại trú):**
   * Rửa sạch vết thương, bảo tồn bọng nước vỡ vừa phải, băng kín bằng pommade Silverin (*Sulfadiazine bạc*), pommade Betadin hoặc gạc mỡ Betadin. Bỏng vùng mặt dùng pommade kháng sinh Neomycin. Thay băng mỗi 1 – 2 ngày hoặc 7 ngày.
   * Cho kháng sinh uống (*Cefalexin*), giảm đau uống (*Paracetamol*), tiêm huyết thanh chống uốn ván (SAT).
 * **Bỏng trung bình và nặng (Nhập viện khoa Bỏng):**
-  * Đánh giá theo cấp cứu A, B, C. Duy trì \\(\text{SpO}_2 > 92\%\\).
+  * Đánh giá theo cấp cứu A, B, C. Duy trì `SpO₂ > 92%`.
   * Lập 2 đường truyền tĩnh mạch lớn ở vùng da lành. Đặt sonde tiểu theo dõi lượng nước tiểu liên tục.
   * Xử trí bỏng hít nếu có dấu hiệu: Bỏng mặt, cháy xém lông mũi, đờm có vết than, khó thở, khò khè, rales phổi, hoặc soi phế quản thấy muội than/hoại tử niêm mạc.
 
-#### 5.2.1. Hồi sức tuần hoàn và bù dịch
+#### Hồi sức tuần hoàn và bù dịch
 * Bỏng nhỏ (< 20% ở người lớn, < 10 – 15% ở trẻ em): Bù dịch bằng đường uống.
 * Bỏng diện tích lớn hơn: Bắt buộc truyền dịch tĩnh mạch theo các công thức.
 
@@ -196,21 +196,21 @@ Sơ cứu ban đầu đúng cách tại hiện trường có ý nghĩa tiên lư
 | **Brooke sửa đổi** | Ringer Lactate 2 mL/kg/% (người lớn) và 3 mL/kg/% (trẻ em). | Dịch cao phân tử (0,3–0,5 mL/kg/%) + Glucose đẳng trương duy trì nước tiểu. |
 | **Galveston** | Ringer Lactate: 5.000 mL/m² diện tích bỏng + 2.000 mL/m² diện tích cơ thể (1/2 thể tích trong 8h đầu). | 3.750 mL/m² diện tích bỏng + 1.500 mL/m² diện tích cơ thể. |
 
-#### 5.2.2. Kháng sinh
+#### Kháng sinh
 * Bỏng nhẹ: Kháng sinh đường uống (Bactrim, Cephalosporin thế hệ I hoặc II).
 * Bỏng trung bình – nặng: Phối hợp Cephalosporin thế hệ III tiêm tĩnh mạch với nhóm Aminoglycoside.
 
-#### 5.2.3. Điều trị đau
+#### Điều trị đau
 * Người lớn: Tiêm tĩnh mạch Morphine liều 2,5 – 10 mg. Trẻ em: Morphine 0,1 – 0,2 mg/kg.
 * Đánh giá mức độ đau theo thang điểm VAS mỗi 3 – 5 phút để điều chỉnh liều. Bỏng nhẹ dùng Acetaminophen. Dùng thêm an thần, kháng histamin nếu bệnh nhân kích động hoặc ngứa nhiều.
 
-#### 5.2.4. Điều trị biến chứng
+#### Điều trị biến chứng
 * Kiểm soát các biến chứng: Nhiễm trùng/sốc nhiễm trùng, xuất huyết tiêu hóa, tăng huyết áp, thiếu máu, suy dinh dưỡng, sẹo co rút làm mất chức năng.
 * **Tiêu chuẩn bắt buộc chuyển Trung tâm Bỏng chuyên sâu:** Bỏng độ 2 > 10% TBSA; bỏng mặt, tay chân, sinh dục, khớp lớn; bỏng độ 3 mọi diện tích; bỏng điện/sét đánh; bỏng hóa chất; bỏng hít; có bệnh mạn tính kèm theo; có đa chấn thương nguy cơ cao.
 
 ---
 
-## 6. PHÒNG NGỪA BỎNG VÀ GIÁO DỤC KỸ NĂNG SƠ CỨU BAN ĐẦU
+## PHÒNG NGỪA BỎNG VÀ GIÁO DỤC KỸ NĂNG SƠ CỨU BAN ĐẦU
 
 ### Phòng ngừa bỏng
 * Tuân thủ quy tắc an toàn thiết bị điện/nhiệt; bảo quản xăng dầu, hóa chất, bật lửa ngoài tầm tay trẻ em.

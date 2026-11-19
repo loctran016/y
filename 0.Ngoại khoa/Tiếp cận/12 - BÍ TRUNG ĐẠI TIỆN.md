@@ -20,7 +20,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau tìm hiểu **Bài 12: Bí trung đại tiện**.
 
@@ -33,12 +33,12 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau tìm hiểu **B�
 
 ---
 
-## 2. NGUYÊN NHÂN
+## NGUYÊN NHÂN
 
-### 2.1. Tắc ruột cơ học
+### Tắc ruột cơ học
 Chia làm 3 loại theo cơ chế tắc:
 
-#### 2.1.1. Tắc ruột đơn thuần (Chỉ tắc lòng ruột)
+#### Tắc ruột đơn thuần (Chỉ tắc lòng ruột)
 Gồm 3 nhóm nguyên nhân chính:
 1. **Trong lòng ruột:**
    * Phân su ở trẻ sơ sinh, u phân (*fecaloma*) ở người già.
@@ -54,20 +54,20 @@ Gồm 3 nhóm nguyên nhân chính:
    * Khối u tạng lân cận, khối u di căn (*carcinomatose*) đè vào.
    * Khối áp xơ đè ép (áp xơ ruột thừa, áp xơ viêm túi thừa đại tràng thủng, áp xơ tồn lưu sau mổ).
 
-#### 2.1.2. Tắc ruột thắt nghẹt (Lòng ruột bị nghẹt + Mạch máu mạc treo bị thắt)
+#### Tắc ruột thắt nghẹt (Lòng ruột bị nghẹt + Mạch máu mạc treo bị thắt)
 * Tắc ruột non do dây thắt.
 * Xoắn ruột non, xoắn đại tràng (chậu hông, manh tràng, đại tràng ngang).
 * Lồng ruột.
 * Thoát vị ngoại nghẹt (bẹn, đùi, bịt, thành bụng).
 * Thoát vị nội (qua các lỗ, khe bẩm sinh hoặc hình thành sau mổ bụng).
 
-#### 2.1.3. Tắc ruột quai kín (Ruột bị tắc ở hai đầu)
+#### Tắc ruột quai kín (Ruột bị tắc ở hai đầu)
 * Tắc ruột do ung thư đại tràng khi van hồi manh tràng còn hiệu lực (ngăn dịch/hơi trào ngược lại ruột non).
 * Các tắc ruột do thắt nghẹt (trừ lồng ruột).
 
 ---
 
-### 2.2. Liệt ruột (Paralytic ileus/adynamic obstruction), Giả tắc ruột
+### Liệt ruột (Paralytic ileus/adynamic obstruction), Giả tắc ruột
 
 * **Liệt ruột:** Do thiếu vắng nhu động ruột vì rối loạn đường dẫn truyền thần kinh, làm ứ trệ dịch và hơi trong lòng ruột.
   * *Nguyên nhân thường gặp nhất:* Sau phẫu thuật ổ bụng (thường kéo dài không quá 48 – 72 giờ). Nếu kéo dài > 5 ngày phải nghi ngờ nhiễm trùng ổ bụng, chảy máu trong, rối loạn điện giải hoặc tắc ruột sớm sau mổ.
@@ -78,30 +78,30 @@ Gồm 3 nhóm nguyên nhân chính:
 
 ---
 
-## 3. SINH LÝ BỆNH
+## SINH LÝ BỆNH
 
 Rối loạn sinh lý bệnh phụ thuộc vào nguyên nhân (cơ học hay liệt ruột), triệu chứng kèm theo, thời điểm đến viện, thể trạng và bệnh mạn tính đi kèm. Được chia làm rối loạn tại chỗ và rối loạn toàn thân.
 
-### 3.1. Rối loạn tại chỗ
+### Rối loạn tại chỗ
 * **Trong lòng ruột:**
-  * Lưu thông ứ trệ làm tăng áp lực và giảm thông khí lòng ruột \\(\rightarrow\\) Kích hoạt giảm hấp thu và tăng bài tiết niêm mạc \\(\rightarrow\\) Mất nước vào lòng ruột.
+  * Lưu thông ứ trệ làm tăng áp lực và giảm thông khí lòng ruột `→` Kích hoạt giảm hấp thu và tăng bài tiết niêm mạc `→` Mất nước vào lòng ruột.
   * Ứ đọng gây nôn (mất nước, điện giải) và làm vi khuẩn tăng sinh số lượng, sản xuất độc tố.
   * Khi quai ruột bị tắc kín, dịch chứa nhiều sản phẩm chuyển hóa yếm khí, vi khuẩn và độc tố, rất nguy hại khi ruột hoại tử/thủng vỡ.
 * **Trên thành ruột:**
-  * Áp lực lòng ruột tăng đè xẹp tiểu tĩnh mạch \\(\rightarrow\\) Tăng áp lực mao mạch \\(\rightarrow\\) Thoát dịch gây phù nề thành ruột, tăng áp lực mô kẽ, thoát dịch vào khoang phúc mạc.
-  * Nếu không giải áp: Giảm tưới máu mô \\(\rightarrow\\) Hoại tử và thủng vỡ thành ruột gây viêm phúc mạc nhiễm trùng – nhiễm độc.
+  * Áp lực lòng ruột tăng đè xẹp tiểu tĩnh mạch `→` Tăng áp lực mao mạch `→` Thoát dịch gây phù nề thành ruột, tăng áp lực mô kẽ, thoát dịch vào khoang phúc mạc.
+  * Nếu không giải áp: Giảm tưới máu mô `→` Hoại tử và thủng vỡ thành ruột gây viêm phúc mạc nhiễm trùng – nhiễm độc.
   * Trong *tắc ruột thắt nghẹt*: Hoại tử diễn tiến nhanh hơn nhiều do nghẹt mạch máu mạc treo và tắc quai kín làm áp lực tăng cao rất nhanh.
 
-### 3.2. Rối loạn toàn thân
+### Rối loạn toàn thân
 * **Mất nước và điện giải:** Mỗi ngày ruột tiết 7 – 8 lít dịch tiêu hóa. Việc ức chế hấp thu + tăng tiết niêm mạc + thoát dịch khoang phúc mạc + nôn ói khiến bệnh nhân rơi vào mất nước, điện giải, cô đặc máu, có thể dẫn đến suy thận cấp trước thận.
 * **Hô hấp:** Trướng ruột đẩy đè cơ hoành gây trở ngại hô hấp (bệnh nhân thở nông, nhanh).
 * **Nhiễm trùng – Nhiễm độc:** Khi đến muộn có biến chứng hoại tử ruột hoặc viêm phúc mạc, bệnh nhân tiến tới choáng nhiễm trùng – nhiễm độc.
 
 ---
 
-## 4. TIẾP CẬN LÂM SÀNG
+## TIẾP CẬN LÂM SÀNG
 
-### 4.1. Hỏi bệnh sử
+### Hỏi bệnh sử
 Bí trung tiện có giá trị quan trọng hơn bí đại tiện (nhiều người táo bón 2-3 ngày đi cầu 1 lần nhưng trung tiện phải có hằng ngày).
 
 * **Các câu hỏi cụ thể:**
@@ -123,7 +123,7 @@ Bí trung tiện có giá trị quan trọng hơn bí đại tiện (nhiều ng�
     * Liệt ruột / Giả tắc đại tràng: Đau không rõ hoặc đau âm ỉ, căng tức lan tỏa.
   * *Nôn / Buồn nôn:* Tắc cao nôn sớm, nôn nhiều; tắc thấp nôn trễ hoặc chỉ buồn nôn. Chất nôn là dịch ruột (không phải thức ăn như hẹp môn vị). Tắc thấp chất nôn có thể có mùi phân.
 
-### 4.2. Khai thác tiền sử
+### Khai thác tiền sử
 * **Mổ bụng:** Số lần, nguyên nhân (ung thư?), mổ cấp cứu/chương trình, có đặt dẫn lưu, biến chứng? (Dính ruột chiếm 60% nguyên nhân tắc ruột).
 * **Tiền sử mổ dạ dày (cắt dạ dày, cắt thần kinh X, nối vị tràng):** Cơ địa thuận lợi gây tắc ruột do bã thức ăn.
 * **Thay đổi thói quen đi cầu, đi cầu ra máu, bán tắc ruột gần đây:** Nghi ngờ ung thư đại trực tràng.
@@ -131,14 +131,14 @@ Bí trung tiện có giá trị quan trọng hơn bí đại tiện (nhiều ng�
 * **Khối phồng vùng bẹn, đùi, thành bụng (thoát vị).**
 * **Sỏi túi mật chưa điều trị (nguy cơ tắc ruột do sỏi mật).**
 
-### 4.3. Thăm khám
+### Thăm khám
 
-#### 4.3.1. Toàn thân
+#### Toàn thân
 * Sinh hiệu (mạch, HA, nhịp thở, nhiệt độ).
 * Dấu hiệu mất nước: Da khô, nếp véo da (+), niêm mạc lưỡi/kết mạc khô, nước tiểu ít.
 * Dấu hiệu nhiễm trùng, choáng nhiễm trùng. Thể trạng gầy sút/xanh xao (ung thư). Sốt nhẹ 37,5 – 38,5°C có thể do mất nước.
 
-#### 4.3.2. Khám bụng (Nhìn – Sờ – Gõ – Nghe)
+#### Khám bụng (Nhìn – Sờ – Gõ – Nghe)
 * **Nhìn:** Bụng trướng đều hay lệch? Tìm sẹo mổ cũ, sẹo dẫn lưu. Tìm **dấu hiệu rắn bò, quai ruột nổi**. Tìm khối phồng bẹn/đùi/thành bụng (xem da có đỏ không).
 * **Sờ (thực hiện ngoài cơn đau):**
   * *Tắc ruột đơn thuần:* Ngoài cơn đau sờ bụng chỉ căng tức nhẹ, không đau.
@@ -153,7 +153,7 @@ Bí trung tiện có giá trị quan trọng hơn bí đại tiện (nhiều ng�
   * Tắc ruột thắt nghẹt: Âm ruột giảm hoặc mất hẳn khi ruột hoại tử.
   * Liệt ruột & Giả tắc đại tràng: **Âm ruột giảm hoặc mất hẳn** (bụng im lặng).
 
-#### 4.3.3. Khám các vùng đặc biệt & Thăm trực tràng
+#### Khám các vùng đặc biệt & Thăm trực tràng
 * Khám kỹ các lỗ thoát vị (bẹn, đùi, tìm dấu Howship-Romberg nghi thoát vị bịt). Khám răng người già (đánh giá sức nhai nghi tắc do bã thức ăn).
 * **Thăm trực tràng (bắt buộc):**
   * Đa số tắc ruột: **Bóng trực tràng rỗng** (không có phân hoặc chỉ có rất ít).
@@ -163,15 +163,15 @@ Bí trung tiện có giá trị quan trọng hơn bí đại tiện (nhiều ng�
 
 ---
 
-## 5. CẬN LÂM SÀNG
+## CẬN LÂM SÀNG
 
-### 5.1. X-quang bụng không sửa soạn
+### X-quang bụng không sửa soạn
 Là chỉ định đầu tay ở bệnh nhân nghi ngờ tắc ruột/liệt ruột (chụp tư thế đứng).
 * **Dấu hiệu X-quang tắc ruột cơ học:**
-  1. Quai ruột giãn (đường kính ruột non \\(\ge 3\text{ cm}\\), đại tràng \\(\ge 5\text{ cm}\\)).
+  1. Quai ruột giãn (đường kính ruột non `≥ 3 cm`, đại tràng `≥ 5 cm`).
   2. **Mức nước – hơi / chuỗi hạt**. Mức nước – hơi **chênh nhau ở 2 chân của cùng một quai ruột** (gợi ý ruột còn tăng nhu động).
   3. Giảm hoặc mất hoàn toàn hơi/phân ở đại tràng (tắc ruột non) hoặc ở phần thấp đại tràng (tắc đại tràng).
-  4. Dịch giữa các quai ruột (đường mờ giữa các quai \\(\ge 5\text{ mm}\\)).
+  4. Dịch giữa các quai ruột (đường mờ giữa các quai `≥ 5 mm`).
   5. Hình ảnh van ruột giúp xác định vị trí:
      * Hỗng tràng: Nhiều nếp gấp niêm mạc ngang xếp sát nhau (hình đèn xếp/xương cá) nằm ở trung tâm/bụng trên trái.
      * Hồi tràng: Trơn láng, nằm ở hố chậu phải/bụng dưới.
@@ -179,33 +179,33 @@ Là chỉ định đầu tay ở bệnh nhân nghi ngờ tắc ruột/liệt ru�
 * **X-quang Liệt ruột:** Trướng hơi lan tỏa cả dạ dày, ruột non và đại tràng; không có mức nước hơi chênh nhau.
 * **X-quang Giả tắc đại tràng:** Giãn toàn bộ khung đại tràng (đặc biệt manh tràng giãn to).
 
-### 5.2. Chụp cản quang
+### Chụp cản quang
 * **Đường uống / Bơm qua thông:** Chỉ định trong tắc ruột cao hoặc bán tắc ruột non khi BN ổn định.
 * **Thụt cản quang qua hậu môn:** Chỉ định trong tắc đại tràng chưa có biến chứng hoại tử/viêm phúc mạc. Dùng chất cản quang tan trong nước khi nghi giả tắc đại tràng.
 * *Hiện nay ít dùng do có CT scan.*
 
-### 5.3. Siêu âm
+### Siêu âm
 * **Dấu hiệu tắc ruột cơ học trên siêu âm:**
   1. Quai ruột giãn nằm kế quai ruột xẹp.
   2. Ruột trên chỗ tắc tăng nhu động tạo **"Dấu hiệu máy giặt" (Washing machine sign)**.
-* Phát hiện lồng ruột (dấu hiệu hình bia / hình khối lồng), thoát vị nghẹt, quai ruột nằm im lìm trong thắt nghẹt. Độ nhạy \\(\ge 85\%\\) với tắc ruột hoàn toàn.
+* Phát hiện lồng ruột (dấu hiệu hình bia / hình khối lồng), thoát vị nghẹt, quai ruột nằm im lìm trong thắt nghẹt. Độ nhạy `≥ 85%` với tắc ruột hoàn toàn.
 
-### 5.4. X-quang cắt lớp vi tính bụng chậu (CT scan)
+### X-quang cắt lớp vi tính bụng chậu (CT scan)
 Là phương pháp có **độ nhạy và độ đặc hiệu > 90%**, được xem là tiêu chuẩn vàng chẩn đoán tắc ruột cơ học.
 * **Dấu hiệu CT:**
   * Thấy quai ruột giãn nằm kế quai ruột xẹp.
-  * **Xác định vùng chuyển tiếp (Transition zone)** từ ruột giãn sang ruột xẹp \\(\rightarrow\\) Chẩn đoán chính xác nguyên nhân và vị trí tắc.
+  * **Xác định vùng chuyển tiếp (Transition zone)** từ ruột giãn sang ruột xẹp `→` Chẩn đoán chính xác nguyên nhân và vị trí tắc.
   * Đánh giá tưới máu thành ruột (phát hiện sớm hoại tử ruột trong tắc ruột thắt nghẹt).
 * *Lưu ý:* Chỉ chụp khi huyết động BN ổn định; thận trọng BN suy thận/dị ứng thuốc cản quang.
 
-### 5.5. Xét nghiệm
+### Xét nghiệm
 * **Công thức máu:** Hct tăng (cô đặc máu). Bạch cầu tăng cao, chuyển trái (nhiễm trùng, hoại tử ruột).
-* **Sinh hóa:** Ure, Creatinine tăng (suy thận trước thận). Ion đồ: Hạ \\(\text{K}^+\\), \\(\text{Cl}^-\\).
+* **Sinh hóa:** Ure, Creatinine tăng (suy thận trước thận). Ion đồ: Hạ `K⁺`, `Cl⁻`.
 * **Khí máu động mạch:** Kiềm chuyển hóa (nôn nhiều) hoặc **Toan chuyển hóa với LDH tăng** (dấu hiệu hoại tử ruột trong tắc ruột thắt nghẹt).
 
 ---
 
-## 6. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
 Trước một bệnh nhân bí trung đại tiện, PTV phải trả lời 4 câu hỏi:
 1. Có tắc ruột cơ học không? Hay là liệt ruột / giả tắc đại tràng?
@@ -213,7 +213,7 @@ Trước một bệnh nhân bí trung đại tiện, PTV phải trả lời 4 c�
 3. Nguyên nhân gây tắc là gì?
 4. Đã có biến chứng gì (suy thận, hoại tử ruột, viêm phúc mạc, sốc)?
 
-### 6.1. Chẩn đoán xác định
+### Chẩn đoán xác định
 
 #### Phân biệt Tắc ruột cơ học và Liệt ruột
 | Tiêu chí | Tắc ruột cơ học | Liệt ruột |
@@ -230,17 +230,17 @@ Trước một bệnh nhân bí trung đại tiện, PTV phải trả lời 4 c�
 | **X-quang** | • Giãn các quai ruột đến vị trí tắc. <br>• Mức nước – hơi chênh nhau. | • Giãn toàn bộ đại tràng đến góc lách/đại tràng xuống, manh tràng giãn to. |
 | **CT scan** | • Thấy khối u/vùng chuyển tiếp cơ học. | • Không có tắc nghẽn cơ học (chẩn đoán loại trừ). |
 
-### 6.2. Chẩn đoán nguyên nhân
-Dựa vào tiền sử (mổ cũ \\(\rightarrow\\) dính ruột 60%; mổ dạ dày \\(\rightarrow\\) bã thức ăn; ung thư \\(\rightarrow\\) u đại tràng), thăm khám lâm sàng (khối thoát vị nghẹt, khối lồng) và kết quả CT scan bụng có cản quang.
+### Chẩn đoán nguyên nhân
+Dựa vào tiền sử (mổ cũ `→` dính ruột 60%; mổ dạ dày `→` bã thức ăn; ung thư `→` u đại tràng), thăm khám lâm sàng (khối thoát vị nghẹt, khối lồng) và kết quả CT scan bụng có cản quang.
 
-### 6.3. Chẩn đoán biến chứng
+### Chẩn đoán biến chứng
 * Suy thận cấp trước thận (do mất nước).
-* Hoại tử ruột, vỡ ruột \\(\rightarrow\\) Viêm phúc mạc nhiễm trùng.
+* Hoại tử ruột, vỡ ruột `→` Viêm phúc mạc nhiễm trùng.
 * Choáng nhiễm trùng – nhiễm độc.
 
 ---
 
-## 7. NGUYÊN TẮC ĐIỀU TRỊ
+## NGUYÊN TẮC ĐIỀU TRỊ
 
 * **Liệt ruột / Giả tắc đại tràng:** Điều trị nội khoa là chủ yếu (ngoại khoa chỉ can thiệp khi dọa vỡ/hoại tử đại tràng hoặc viêm phúc mạc thứ phát).
 * **Tắc ruột cơ học:** **Điều trị nội khoa phối hợp bắt buộc với phẫu thuật ngoại khoa**.

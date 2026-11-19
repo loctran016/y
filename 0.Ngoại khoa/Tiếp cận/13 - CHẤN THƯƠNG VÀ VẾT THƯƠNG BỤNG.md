@@ -18,7 +18,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. MỞ ĐẦU
+## MỞ ĐẦU
 
 Chào các bạn sinh viên, hôm nay chúng ta cùng tìm hiểu **Bài 13: Chấn thương và vết thương bụng**. Đây là một bệnh lý cấp cứu ngoại khoa thường gặp và có tính chất phức tạp.
 
@@ -35,9 +35,9 @@ Chào các bạn sinh viên, hôm nay chúng ta cùng tìm hiểu **Bài 13: Ch�
 
 ---
 
-## 2. CƠ CHẾ CHẤN THƯƠNG
+## CƠ CHẾ CHẤN THƯƠNG
 
-### 2.1. Chấn thương bụng kín
+### Chấn thương bụng kín
 Sinh lý bệnh của chấn thương bụng kín được giải thích qua 4 cơ chế chính:
 
 1. **Sự gia tăng áp lực đột ngột trong ổ bụng:** Do ngoại lực tác động làm vỡ các tạng rỗng bên trong. 
@@ -47,18 +47,18 @@ Sinh lý bệnh của chấn thương bụng kín được giải thích qua 4 c
 3. **Cơ chế giảm tốc đột ngột (Lực sắc mạnh không thấu bụng):** Tạo ra vết rách ở cả tạng đặc lẫn tạng rỗng tại điểm tiếp xúc ngoài phúc mạc. Lực này làm giật đứt hoặc tổn thương lớp nội mạc cuống mạch máu, dẫn đến **nhồi máu tạng** (thận là tạng hay gặp nhất theo cơ chế này).
 4. **Tổn thương do mảnh xương gãy:** Xương sườn hoặc xương chậu bị gãy đâm rách các mô và tạng trong ổ bụng.
 
-### 2.2. Vết thương thấu bụng
+### Vết thương thấu bụng
 Được xác định khi có một vật thể (đạn, dao, mảnh vụn...) xuyên thấu qua phúc mạc vào trong khoang bụng. 
 
 * **Tác nhân:** Đạn bắn và bị đâm chém là phổ biến nhất; ít gặp hơn do cá kiếm đâm, cưa xích, mảnh pháo hoa...
 * **Sự không tương quan vị trí:** Do các tạng rỗng (đặc biệt là ruột non) có mạc treo dài nên rất di động. Vị trí lỗ vào vết thương bên thành bụng **có thể không tương quan** với vị trí tổn thương tạng bên trong.
   * *Ví dụ:* Ruột non di động nhất, khi đứng hoặc ngồi ruột non sa xuống tiểu khung. Nếu bệnh nhân bị đâm/bắn ở tư thế đứng, vết thương thành bụng nằm ở hạ vị nhưng tổn thương ruột non có thể ở vị trí cao hơn khi nằm ngửa thăm khám.
-* **Vết thương do bị đâm:** Vết thương sắc gọn, đơn giản hơn súng đạn. Khoảng **30% vết thương đâm vào bụng gây ra tổn thương tạng**. Tỷ lệ tổn thương các tạng: **Gan (40%) \\(\rightarrow\\) Ruột non (30%) \\(\rightarrow\\) Màng phổi (20%) \\(\rightarrow\\) Đại tràng (15%)**.
-* **Vết thương do súng đạn:** Phức tạp hơn do đạn đạo (tốc độ đạn, khoảng cách bắn). Tỷ lệ tổn thương các tạng: **Ruột non (50%) \\(\rightarrow\\) Ruột già (40%) \\(\rightarrow\\) Gan (30%) \\(\rightarrow\\) Mạch máu (25%)**.
+* **Vết thương do bị đâm:** Vết thương sắc gọn, đơn giản hơn súng đạn. Khoảng **30% vết thương đâm vào bụng gây ra tổn thương tạng**. Tỷ lệ tổn thương các tạng: **Gan (40%) `→` Ruột non (30%) `→` Màng phổi (20%) `→` Đại tràng (15%)**.
+* **Vết thương do súng đạn:** Phức tạp hơn do đạn đạo (tốc độ đạn, khoảng cách bắn). Tỷ lệ tổn thương các tạng: **Ruột non (50%) `→` Ruột già (40%) `→` Gan (30%) `→` Mạch máu (25%)**.
 
 ---
 
-## 3. GIẢI PHẪU BỤNG
+## GIẢI PHẪU BỤNG
 
 Để đánh giá tổn thương, ổ bụng được chia thành 4 khu vực giải phẫu bề mặt và 3 khoang bên trong:
 
@@ -75,15 +75,15 @@ Sinh lý bệnh của chấn thương bụng kín được giải thích qua 4 c
 
 ---
 
-## 4. BỆNH SỬ
+## BỆNH SỬ
 
 Khai thác bệnh sử kỹ lưỡng là nền tảng chẩn đoán. Các thông tin chung cần nắm: **Thời điểm, hoàn cảnh; Cơ chế, tác nhân, hướng lực; Triệu chứng cơ năng hiện tại; Xử trí sơ cứu tuyến trước; Tiền sử bệnh nội khoa, bệnh về máu, thuốc chống đông.**
 
-### 4.1. Chấn thương bụng kín
+### Chấn thương bụng kín
 * **Do tai nạn giao thông:** Loại xe, vận tốc; Có xe cán ngang qua người không (cơ chế gây chấn thương rất nặng); Vị trí BN trong xe ô tô; Mức độ biến dạng khoang hành khách và vô lăng; Có thắt dây an toàn không và loại dây nào.
 * **Do xe máy / Lao động / Thể thao:** Va đập trực tiếp vùng bụng, độ cao rơi...
 
-### 4.2. Vết thương thấu bụng
+### Vết thương thấu bụng
 Bác sĩ cần trả lời các câu hỏi:
 * Hung khí loại gì (dao, đạn, mảnh kim loại)?
 * Kích thước hung khí (chiều dài, chiều rộng)?
@@ -93,9 +93,9 @@ Bác sĩ cần trả lời các câu hỏi:
 
 ---
 
-## 5. TIẾP CẬN CHẨN ĐOÁN
+## TIẾP CẬN CHẨN ĐOÁN
 
-### 5.1. Thăm khám và đánh giá ban đầu
+### Thăm khám và đánh giá ban đầu
 Biểu hiện lâm sàng thay đổi từ sinh hiệu ổn định cho đến sốc nặng. **Lưu ý quan trọng:** Bệnh nhân không than đau bụng hoặc khám bụng không thấy đau **vẫn không loại trừ hoàn toàn tổn thương trong ổ bụng**.
 
 Trước một trường hợp vết thương bụng, thầy thuốc cần trả lời theo trình tự **3 câu hỏi chiến lược**:
@@ -103,7 +103,7 @@ Trước một trường hợp vết thương bụng, thầy thuốc cần trả
 2. *Có thương tổn nào trong ổ bụng cần mổ ngay hay không?* (Lòi tạng, chảy dịch tiêu hóa, dấu hiệu viêm phúc mạc...).
 3. *Tình trạng bệnh nhân có cần tiếp tục theo dõi và làm thêm cận lâm sàng hay không?*
 
-### 5.2. Triệu chứng toàn thân
+### Triệu chứng toàn thân
 Khám toàn trạng phát hiện ngay các dấu hiệu sốc chấn thương:
 * Thở nhanh nông.
 * Mạch nhanh, yếu, khó bắt. Huyết áp tâm thu hạ thấp.
@@ -111,7 +111,7 @@ Khám toàn trạng phát hiện ngay các dấu hiệu sốc chấn thương:
 * Da niêm nhợt nhạt, vã mồ hôi lạnh, da nổi vân.
 * Khát nước nhiều, lượng nước tiểu ít.
 
-### 5.3. Khám vùng bụng
+### Khám vùng bụng
 * **Nhìn:** Quan sát kỹ bụng trước, hông lưng, tầng sinh môn tìm vết bầm, vết trầy xước, tụ máu, lỗ vết thương. Kiểm tra xem có máu ở lỗ miệng sáo hay tụ máu vùng bìu/tầng sinh môn.
 * **Nghe:** Nhu động ruột mất khi có máu trong ổ bụng hoặc viêm phúc mạc. Liệt ruột cũng gặp trong gãy cột sống, vỡ xương chậu (tụ máu sau phúc mạc) hoặc gãy xương sườn.
 * **Gõ:** Đau khi gõ có giá trị tương đương phản ứng dội (+). **Gõ đục vùng thấp** chứng tỏ có dịch/máu trong ổ bụng.
@@ -127,19 +127,19 @@ Khám toàn trạng phát hiện ngay các dấu hiệu sốc chấn thương:
 | **Công thức máu** | Dung tích hồng cầu (Hct) và Hemoglobin **giảm**. | Bạch cầu (WBC) **tăng cao** (chủ yếu bạch cầu đa nhân trung tính). |
 | **Hình ảnh học** | • Chọc dò: Máu không đông. <br>• Siêu âm / CT: **Có dịch/máu ổ bụng**, xác định tạng tổn thương. | • X-quang bụng đứng: **Liềm hơi dưới hoành**. <br>• CT scan: Hơi tự do ổ bụng, mất liên tục thành ruột. |
 
-### 5.4. Một số thủ thuật và cận lâm sàng liên quan
+### Một số thủ thuật và cận lâm sàng liên quan
 
 * **a. Thăm khám nhiều lần (Điều trị có chọn lọc):** Thường xuyên thăm khám lại bụng bởi cùng một phẫu thuật viên (theo dõi nhiệt độ, mạch, bạch cầu) đối với BN huyết động ổn định. Tỷ lệ mổ bụng qua theo dõi là 40% với tỷ lệ tử vong < 3%.
 * **b. Xét nghiệm sinh hóa:**
   * *Hct < 30%:* Tăng khả năng có chấn thương trong bụng (tuy nhiên Hct bình thường lúc đầu không được chủ quan vì máu chưa kịp pha loãng).
   * *Bạch cầu (WBC):* Ít đặc hiệu; Catecholamine giải phóng do đau/sốc có thể làm WBC tăng lên 12.000 – 20.000/mm³.
-  * *Amylase, Lipase máu:* Tăng khi có chấn thương tụy nặng. AST, ALT tăng trong tổn thương gan. Thử thai (\\(\text{Beta-HCG}\\)) bắt buộc với nữ tuổi sinh đẻ.
-* **c. Thăm dò vết thương tại chỗ:** Gây tê, mở rộng vết thương thành bụng tại phòng cấp cứu. Nếu thấy **xuyên thấu qua phúc mạc thành** \\(\rightarrow\\) Thăm dò dương tính \\(\rightarrow\\) Chỉ định mổ nội soi hoặc mở bụng thám sát.
+  * *Amylase, Lipase máu:* Tăng khi có chấn thương tụy nặng. AST, ALT tăng trong tổn thương gan. Thử thai (`Beta-HCG`) bắt buộc với nữ tuổi sinh đẻ.
+* **c. Thăm dò vết thương tại chỗ:** Gây tê, mở rộng vết thương thành bụng tại phòng cấp cứu. Nếu thấy **xuyên thấu qua phúc mạc thành** `→` Thăm dò dương tính `→` Chỉ định mổ nội soi hoặc mở bụng thám sát.
 * **d. Chọc dò và chọc rửa ổ bụng (DPL - Diagnostic Peritoneal Lavage):** Trước đây là trụ cột, nay hầu như bị thay thế bởi Siêu âm (FAST) và CT scan. Hiện chỉ dùng khi siêu âm FAST nghi ngờ ở BN tụt huyết áp hoặc nơi không có máy CT/siêu âm.
 * **e. X-quang bụng không sửa soạn:** Thường không có giá trị trong chấn thương bụng kín (hiếm khi thấy khí tự do). Ngoại lệ: Chụp X-quang để tìm dị vật kim loại (lưỡi dao gãy kẹt bên trong).
 * **f. Siêu âm có trọng điểm trong chấn thương (FAST - Focused Abdominal Sonography for Trauma):**
   * Siêu âm tại giường giúp phát hiện nhanh máu màng ngoài tim, máu màng phổi và máu phúc mạc. Đặc biệt có giá trị ở bệnh nhân **huyết động không ổn định**.
-  * Độ nhạy phát hiện máu ổ bụng từ 63 – 100%. FAST (+) ở BN huyết động ổn định \\(\rightarrow\\) Chụp CT scan để đánh giá sâu hơn. FAST (-) không loại trừ hoàn toàn tổn thương.
+  * Độ nhạy phát hiện máu ổ bụng từ 63 – 100%. FAST (+) ở BN huyết động ổn định `→` Chụp CT scan để đánh giá sâu hơn. FAST (-) không loại trừ hoàn toàn tổn thương.
 * **g. Chụp cắt lớp vi tính (CT scan):** Phương pháp chính xác nhất với **độ nhạy 97 – 98% và độ đặc hiệu 97 – 99%**. Nếu CT (-) ở chấn thương bụng kín, tỷ lệ bỏ sót tổn thương **< 0,06%**.
 
 #### Bảng 3. Ưu và nhược điểm của chụp CT scan trong chấn thương bụng

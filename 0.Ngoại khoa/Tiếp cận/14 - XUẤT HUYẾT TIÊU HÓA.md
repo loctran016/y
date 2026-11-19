@@ -20,7 +20,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. GIỚI THIỆU
+## GIỚI THIỆU
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Xuất huyết tiêu hóa**. Đây là một trong những bệnh lý cấp cứu ngoại – nội khoa thường gặp, có thể đe dọa trực tiếp đến tính mạng bệnh nhân nếu không được chẩn đoán và xử trí kịp thời.
 
@@ -31,14 +31,14 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Xu�
 
 ---
 
-## 2. DỊCH TỄ HỌC
+## DỊCH TỄ HỌC
 
-### 2.1. Xuất huyết tiêu hóa trên
+### Xuất huyết tiêu hóa trên
 * **Tần suất mắc bệnh:** Hàng năm tại Mỹ có khoảng **100.000 bệnh nhân** nhập viện và tại Anh có khoảng **70.000 bệnh nhân** nhập viện vì XHTH trên (với đa số trường hợp không do tăng áp lực tĩnh mạch cửa).
 * **Giới tính và tuổi tác:** Tần suất XHTH ở nam giới **gấp 2 lần nữ giới** ở mọi lứa tuổi, tuy nhiên tỷ lệ tử vong ở hai giới là tương đương nhau. XHTH trên có xu hướng gia tăng ở nhóm người cao tuổi (**> 60 tuổi**) đi kèm nhiều bệnh lý nội khoa nền phức tạp, làm tăng nguy cơ tử vong.
 * **Xu hướng tử vong:** Nhờ sự phát triển của các phương pháp điều trị hiện đại (đặc biệt là nội soi can thiệp và thuốc), tỷ lệ tử vong đang giảm dần theo thời gian (ví dụ tại Pháp, báo cáo ghi nhận tỷ lệ tử vong giảm từ **11% xuống còn 7%**).
 
-### 2.2. Xuất huyết tiêu hóa dưới
+### Xuất huyết tiêu hóa dưới
 * **Tần suất mắc bệnh:** Tại Mỹ, tỷ lệ nhập viện vì XHTH dưới chiếm **< 1%** tổng số nguyên nhân nhập viện. Trên toàn thế giới, XHTH dưới chiếm khoảng **1 – 2%** các trường hợp nhập viện cấp cứu; trong đó **15%** biểu hiện xuất huyết lượng nhiều và khoảng **5%** cần can thiệp phẫu thuật. 
 * **Đặc điểm theo lứa tuổi và vị trí:**
   * Bệnh gặp nhiều hơn ở người lớn tuổi.
@@ -48,9 +48,9 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau học bài **Xu�
 
 ---
 
-## 3. NGUYÊN NHÂN
+## NGUYÊN NHÂN
 
-### 3.1. Xuất huyết tiêu hóa trên
+### Xuất huyết tiêu hóa trên
 
 Loét dạ dày tá tràng và vỡ dãn tĩnh mạch thực quản là hai nhóm nguyên nhân hàng đầu gây XHTH trên.
 
@@ -67,14 +67,14 @@ Loét dạ dày tá tràng và vỡ dãn tĩnh mạch thực quản là hai nhó
 
 Về mặt cơ chế và điều trị, XHTH trên được chia thành **2 nhóm lớn**:
 
-#### 3.1.1. Do tăng áp lực tĩnh mạch cửa
+#### Do tăng áp lực tĩnh mạch cửa
 * **Nguyên nhân gốc:** Thường gặp nhất là do **xơ gan**.
 * **Sinh lý bệnh:** Bình thường độ chênh áp lực cửa – chủ là **1 – 5 mmHg**. 
   * Khi độ chênh áp này **> 10 mmHg**: Gây dãn tĩnh mạch thực quản và tĩnh mạch phình vị dạ dày.
   * Khi độ chênh áp **> 12 mmHg**: Xuất hiện nguy cơ vỡ các tĩnh mạch dãn gây XHTH ồ ạt.
 * **Hình thái dãn:** Tăng áp tĩnh mạch cửa có thể gây dãn tĩnh mạch thực quản đơn thuần, dãn tĩnh mạch thực quản phối hợp dãn tĩnh mạch dạ dày, hoặc dãn tĩnh mạch dạ dày đơn thuần.
 
-#### 3.1.2. Không do tăng áp lực tĩnh mạch cửa
+#### Không do tăng áp lực tĩnh mạch cửa
 
 * **Hội chứng Mallory-Weiss (4 – 13%):**
   * Mô tả lần đầu năm 1929 bởi Kenneth Mallory và Soma Weiss. 
@@ -89,14 +89,14 @@ Về mặt cơ chế và điều trị, XHTH trên được chia thành **2 nhó
   * Thường gặp ở bệnh nhân sốc, đa chấn thương, ARDS, suy thận cấp, nhiễm trùng huyết... làm mất cân bằng yếu tố bảo vệ (nhầy, bicarbonate, máu nuôi, prostaglandin). 
   * Tổn thương là loét nông đa ổ niêm mạc dạ dày, xuất huyết thường nhẹ và tự giới hạn.
 * **Sử dụng thuốc kháng viêm không steroid (NSAIDs):**
-  * NSAIDs ức chế men COX làm giảm tổng hợp prostaglandin \\(\rightarrow\\) suy yếu lớp nhầy bảo vệ. Dùng NSAIDs hàng ngày làm **tăng nguy cơ loét dạ dày lên 40 lần** và **loét tá tràng lên 8 lần**.
+  * NSAIDs ức chế men COX làm giảm tổng hợp prostaglandin `→` suy yếu lớp nhầy bảo vệ. Dùng NSAIDs hàng ngày làm **tăng nguy cơ loét dạ dày lên 40 lần** và **loét tá tràng lên 8 lần**.
 * **Dị dạng mạch máu (Dieulafoy - 2 – 5%):**
   * Mô tả năm 1896, là các mạch máu lớn nằm ở lớp dưới niêm mạc (thường ở bờ cong nhỏ gần tâm vị). Khi bị loét trên nền viêm mạn sẽ vỡ gây chảy máu lượng rất lớn. Nghiện rượu là yếu tố nguy cơ.
 * **Các nguyên nhân khác:** Viêm trợt thực quản/dạ dày/tá tràng, ung thư dạ dày, bất thường mạch máu (hội chứng Osler-Weber-Rendu, dãn mạch hang vị), chảy máu từ đường mật (Hemobilia) hoặc ống tụy...
 
 ---
 
-### 3.2. Xuất huyết tiêu hóa dưới
+### Xuất huyết tiêu hóa dưới
 
 #### Bảng 2. Các nguyên nhân xuất huyết tiêu hóa dưới thường gặp (Theo Vernava)
 | Nguyên nhân | Tỷ lệ (%) |
@@ -108,34 +108,34 @@ Về mặt cơ chế và điều trị, XHTH trên được chia thành **2 nhó
 | **Rối loạn đông máu** | **4%** |
 | **Dị dạng mạch máu** | **3%** |
 
-#### 3.2.1. Bệnh lý túi thừa
+#### Bệnh lý túi thừa
 * Là nguyên nhân hàng đầu gây XHTH dưới (chiếm **60%**). 
 * Hầu hết chảy máu túi thừa **không liên quan đến viêm túi thừa** (viêm túi thừa không làm tăng nguy cơ chảy máu). 
 * Yếu tố nguy cơ: Chế độ ăn ít xơ, táo bón, lớn tuổi, dùng NSAIDs và aspirin.
 
-#### 3.2.2. Bệnh lý viêm ruột
+#### Bệnh lý viêm ruột
 * *Viêm đại tràng không do nhiễm trùng:* Bệnh Crohn và Viêm loét đại tràng hiếm khi chảy máu lượng lớn (Viêm loét đại tràng gây chảy máu lớn khoảng **4%**, Crohn khoảng **2%**).
 * *Viêm đại tràng do nhiễm trùng:* Do *Salmonella*, *Shigella*, *Campylobacter jejuni*, *E. coli O157:H7*, *Entamoeba histolytica* gây tiêu chảy nhiễm trùng, sốt, đau bụng dưới, tiêu máu, mót rặn.
 * *Viêm đại tràng do tia xạ:* Xuất hiện từ **9 – 15 tháng** sau xạ trị vùng chậu, thường chảy máu ít.
 
-#### 3.2.3. Bệnh lý lành tính hậu môn trực tràng
+#### Bệnh lý lành tính hậu môn trực tràng
 * Trĩ, nứt hậu môn, rò hậu môn gây chảy máu từng đợt lượng ít (máu đỏ tươi nhỏ giọt hoặc dính giấy vệ sinh).
 
-#### 3.2.4. U tân sinh
+#### U tân sinh
 * Ung thư đại trực tràng chiếm **10%** nguyên nhân chảy máu trực tràng ở người **> 50 tuổi**, chảy máu rỉ rả kéo dài.
 * U tân sinh ruột non: 10% có thể gây XHTH tiềm ẩn.
 * **Chảy máu sau cắt polyp đại tràng:** Chiếm **0,1 – 3%**, chảy máu từ động mạch nên có thể chảy máu lượng rất lớn (ngay sau cắt hoặc sau vài giờ đến vài tuần).
 
-#### 3.2.5. Dị sản mạch máu
+#### Dị sản mạch máu
 * Thường gặp ở đại tràng ở người lớn tuổi (do thoái hóa thành mạch). 
 * Chảy máu từ mao mạch nên lượng ít hơn túi thừa, **80% tự cầm** nhưng **rất dễ tái phát nhiều lần**.
 
-#### 3.2.6. Các nguyên nhân khác
+#### Các nguyên nhân khác
 * Dùng NSAIDs/Aspirin, suy giảm miễn dịch (HIV), tổn thương Dieulafoy ở ruột non/đại tràng...
 
 ---
 
-## 4. CÁC HÌNH THỨC XUẤT HUYẾT TIÊU HÓA
+## CÁC HÌNH THỨC XUẤT HUYẾT TIÊU HÓA
 
 Trải qua thăm khám lâm sàng và cận lâm sàng, XHTH được chia thành **3 hình thức thể hiện**:
 
@@ -145,7 +145,7 @@ Trải qua thăm khám lâm sàng và cận lâm sàng, XHTH được chia thàn
 
 ---
 
-## 5. TIẾP CẬN BỆNH NHÂN XUẤT HUYẾT TIÊU HÓA
+## TIẾP CẬN BỆNH NHÂN XUẤT HUYẾT TIÊU HÓA
 
 Để tiếp cận một bệnh nhân XHTH, bác sĩ lâm sàng bắt buộc phải trả lời **5 câu hỏi chiến lược**:
 
@@ -168,14 +168,14 @@ Trải qua thăm khám lâm sàng và cận lâm sàng, XHTH được chia thàn
                   5.5. DIỄN TIẾN: ĐÃ ỔN / CÒN CHẢY / TÁI PHÁT?
 ```
 
-### 5.1. Bệnh nhân có xuất huyết tiêu hóa không?
+### Bệnh nhân có xuất huyết tiêu hóa không?
 Chẩn đoán xác định XHTH khi có 1 trong các dấu hiệu:
 * **Ói ra máu:** Cần phân biệt với chảy máu cam nuốt xuống rồi ói ra, ăn tiết canh, ho ra máu (máu đỏ tươi có bọt, không lẫn thức ăn, pH kiềm).
 * **Thăm trực tràng thấy máu tươi hay máu bầm.**
 * **Thăm trực tràng thấy phân đen, hôi tanh, sệt như bã cà phê** (phân biệt với phân đen do uống thuốc Bismuth, sắt, hoặc táo bón).
 * **Xét nghiệm tìm máu ẩn trong phân (FOBT) dương tính.**
 
-### 5.2. Xuất huyết tiêu hóa trên hay dưới?
+### Xuất huyết tiêu hóa trên hay dưới?
 
 #### Bảng 3. Dự đoán vị trí xuất huyết tiêu hóa theo triệu chứng
 | Triệu chứng | Xuất huyết tiêu hóa trên | Xuất huyết tiêu hóa dưới |
@@ -187,7 +187,7 @@ Chẩn đoán xác định XHTH khi có 1 trong các dấu hiệu:
 
 *Nội soi tiêu hóa* là phương tiện chẩn đoán đầu tay. Nếu có sốc mất máu: Hồi sức tích cực rồi nội soi cấp cứu. Nếu huyết động ổn định: Nội soi theo chương trình.
 
-### 5.3. Mức độ xuất huyết tiêu hóa?
+### Mức độ xuất huyết tiêu hóa?
 Đánh giá mức độ mất máu cấp dựa vào Bảng phân độ của Hội Ngoại Khoa Hoa Kỳ (ACS):
 
 #### Bảng 4. Phân độ mất máu cấp theo Hội Ngoại Khoa Hoa Kỳ (ACS)
@@ -201,10 +201,10 @@ Chẩn đoán xác định XHTH khi có 1 trong các dấu hiệu:
 | **Nước tiểu (mL/giờ)** | > 30 | 20 – 30 | 5 – 15 | < 5 |
 | **Tri giác** | Lo lắng ít | Lo lắng vừa | Kích thích, vật vã | Lơ mơ, hôn mê |
 
-* **Lưu ý về Tilt test (Nghiệm pháp thay đổi tư thế):** Đo mạch/HA ở tư thế nằm rồi đo ở tư thế đứng. Test (+) khi ở tư thế đứng **mạch tăng > 20 lần/phút** và **HA giảm > 10 mmHg** so với tư thế nằm \\(\rightarrow\\) Bệnh nhân đã **mất ít nhất 20% thể tích máu** (tỷ lệ tử vong nhóm Tilt test (+) là 13,6% so với 8,7% ở nhóm (-)).
+* **Lưu ý về Tilt test (Nghiệm pháp thay đổi tư thế):** Đo mạch/HA ở tư thế nằm rồi đo ở tư thế đứng. Test (+) khi ở tư thế đứng **mạch tăng > 20 lần/phút** và **HA giảm > 10 mmHg** so với tư thế nằm `→` Bệnh nhân đã **mất ít nhất 20% thể tích máu** (tỷ lệ tử vong nhóm Tilt test (+) là 13,6% so với 8,7% ở nhóm (-)).
 * ⚠️ **LƯU Ý QUAN TRỌNG VỀ HEMATOCRIT (Hct):** **Không dùng Hct để đánh giá mức độ mất máu cấp ban đầu**. Trong XHTH cấp, thể tích hồng cầu và huyết giảm cân xứng nên Hct chưa giảm ngay lập tức. Phải mất **đến 24 giờ** để dịch gian bào dịch chuyển vào lòng mạch bù thể tích thì Hct mới giảm. Tuy nhiên, Hct và Hb vẫn cần làm ở tất cả BN để theo dõi tiến triển.
 
-### 5.4. Nguyên nhân xuất huyết tiêu hóa?
+### Nguyên nhân xuất huyết tiêu hóa?
 
 Các phương tiện chẩn đoán hình ảnh và thăm dò chức năng:
 * **Chụp mạch máu (Angiography):** Phát hiện chảy máu khi tốc độ chảy **0,5 – 1 mL/phút**. Có ưu điểm phối hợp thuyên tắc mạch cầm máu (TAE). Dùng khi BN huyết động không ổn định.
@@ -212,7 +212,7 @@ Các phương tiện chẩn đoán hình ảnh và thăm dò chức năng:
 * **Nội soi viên nang (Capsule Endoscopy):** Khảo sát ruột non không xâm lấn, nhưng không sinh thiết hay can thiệp cầm máu được. **Chống chỉ định khi nghi ngờ hẹp/tắc ruột**.
 * **Nội soi ruột non (Double-balloon endoscopy):** Soi sâu vào ruột non, có thể sinh thiết và can thiệp cầm máu.
 
-#### 5.4.1. Nghi ngờ xuất huyết tiêu hóa trên
+#### Nghi ngờ xuất huyết tiêu hóa trên
 Chỉ định nội soi dạ dày:
 
 ##### (a) Do tăng áp lực tĩnh mạch cửa:
@@ -239,15 +239,15 @@ Phân loại **Forrest** trên nội soi đánh giá nguy cơ chảy máu tái p
 | **IIC** | Loét phủ vết hematin đen | < 8% |
 | **III** | Loét đáy sạch | < 3% |
 
-#### 5.4.2. Nghi ngờ xuất huyết tiêu hóa dưới
-* Chỉ định **nội soi đại tràng**. Nếu có máu chảy từ van hồi manh tràng \\(\rightarrow\\) Xử trí như XHTH ruột non. 
-* Nếu huyết động bất ổn \\(\rightarrow\\) Chụp mạch máu cấp cứu phối hợp thuyên tắc mạch (TAE).
+#### Nghi ngờ xuất huyết tiêu hóa dưới
+* Chỉ định **nội soi đại tràng**. Nếu có máu chảy từ van hồi manh tràng `→` Xử trí như XHTH ruột non. 
+* Nếu huyết động bất ổn `→` Chụp mạch máu cấp cứu phối hợp thuyên tắc mạch (TAE).
 
-#### 5.4.3. Nghi ngờ xuất huyết tiêu hóa từ ruột non
-* Huyết động bất ổn \\(\rightarrow\\) Chụp mạch máu + TAE.
-* Huyết động ổn định \\(\rightarrow\\) Nội soi viên nang hoặc CTA (chụp CTA nếu có bán tắc ruột).
+#### Nghi ngờ xuất huyết tiêu hóa từ ruột non
+* Huyết động bất ổn `→` Chụp mạch máu + TAE.
+* Huyết động ổn định `→` Nội soi viên nang hoặc CTA (chụp CTA nếu có bán tắc ruột).
 
-### 5.5. Xuất huyết tiêu hóa đã ổn, còn diễn tiến, hay tái phát?
+### Xuất huyết tiêu hóa đã ổn, còn diễn tiến, hay tái phát?
 
 * **5.5.1. Xuất huyết tiêu hóa đã ổn:**
   * *Lâm sàng:* Mạch, HA ổn định, da niêm hồng, nước tiểu tăng, thăm trực tràng thấy **phân vàng**.
@@ -260,15 +260,15 @@ Phân loại **Forrest** trên nội soi đánh giá nguy cơ chảy máu tái p
 
 ---
 
-## 6. TIÊN LƯỢNG
+## TIÊN LƯỢNG
 
 Để tiên lượng nguy cơ chảy máu tái phát và tử vong ở bệnh nhân XHTH trên, hệ thống y tế sử dụng **Thang điểm Rockall** (kết hợp lâm sàng và nội soi).
 
 #### Bảng 6. Thang điểm Rockall đánh giá nguy cơ
 | Yếu tố | 0 điểm | 1 điểm | 2 điểm | 3 điểm |
 | :--- | :--- | :--- | :--- | :--- |
-| **Tuổi (năm)** | < 60 | 60 – 79 | \\(\ge 80\\) | |
-| **Sốc** | Không (Mạch < 100, HA \\(\ge 100\\)) | Nhịp tim nhanh (Mạch \\(\ge 100\\), HA \\(\ge 100\\)) | Hạ huyết áp (HA tâm thu < 100 mmHg) | |
+| **Tuổi (năm)** | < 60 | 60 – 79 | `≥ 80` | |
+| **Sốc** | Không (Mạch < 100, HA `≥ 100`) | Nhịp tim nhanh (Mạch `≥ 100`, HA `≥ 100`) | Hạ huyết áp (HA tâm thu < 100 mmHg) | |
 | **Bệnh kèm theo** | Không | | Suy tim, thiếu máu cơ tim, bệnh nặng khác | Suy gan, suy thận, ung thư di căn |
 | **Chẩn đoán nội soi** | Mallory-Weiss, không thấy tổn thương/chảy máu | Tất cả các nguyên nhân khác | Ung thư đường tiêu hóa trên | |
 | **Dấu hiệu chảy máu gần đây (nội soi)** | Không có | | Máu trong lòng tiêu hóa, cục máu đông, thấy mạch máu/đang chảy | |
@@ -286,15 +286,15 @@ Phân loại **Forrest** trên nội soi đánh giá nguy cơ chảy máu tái p
 | **5** | 10,8% | 24,1% |
 | **6** | 17,3% | 32,9% |
 | **7** | 27,0% | 43,8% |
-| **\\(\ge 8\\)** | **41,1%** | **41,8%** |
+| **`≥ 8`** | **41,1%** | **41,8%** |
 
 ---
 
 ### TÓM TẮT NHANH
 1. Xuất huyết tiêu hóa phân loại theo dây chằng Treitz: XHTH trên (tần suất gấp 4 lần XHTH dưới, tỷ lệ tử vong cao hơn) và XHTH dưới.
 2. Loét dạ dày tá tràng (35-62%) và vỡ dãn tĩnh mạch thực quản (4-31%) là nguyên nhân XHTH trên hàng đầu; Bệnh lý túi thừa đại tràng (60%) là nguyên nhân XHTH dưới hàng đầu.
-3. 5 bước tiếp cận: Chẩn đoán XHTH \\(\rightarrow\\) Vị trí trên/dưới \\(\rightarrow\\) Mức độ mất máu (ACS độ I-IV) \\(\rightarrow\\) Tìm nguyên nhân (Nội soi, CTA, Angiography) \\(\rightarrow\\) Đánh giá diễn tiến (Đã ổn, còn tiếp diễn, tái phát).
-4. Không dùng Hematocrit (Hct) để đánh giá mức độ mất máu cấp ban đầu vì Hct chưa giảm ngay (mất tới 24h để dịch gian bào bù thể tích); Tilt test (+) khi mạch tăng >20 và HA giảm >10 mmHg ở tư thế đứng (mất \\(\ge 20\%\\) thể tích máu).
+3. 5 bước tiếp cận: Chẩn đoán XHTH `→` Vị trí trên/dưới `→` Mức độ mất máu (ACS độ I-IV) `→` Tìm nguyên nhân (Nội soi, CTA, Angiography) `→` Đánh giá diễn tiến (Đã ổn, còn tiếp diễn, tái phát).
+4. Không dùng Hematocrit (Hct) để đánh giá mức độ mất máu cấp ban đầu vì Hct chưa giảm ngay (mất tới 24h để dịch gian bào bù thể tích); Tilt test (+) khi mạch tăng >20 và HA giảm >10 mmHg ở tư thế đứng (mất `≥ 20%` thể tích máu).
 5. Phân độ Forrest trên nội soi giúp tiên lượng chảy máu tái phát do loét (IA chảy thành tia 85-100%, IIA có ngòi mạch 50%); Thang điểm Rockall (0-8+ điểm) giúp tiên lượng tỷ lệ tử vong và chảy máu tái phát chung.
 
 ---

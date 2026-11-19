@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. MỞ ĐẦU
+## MỞ ĐẦU
 
 Chào các bạn sinh viên, hôm nay chúng ta cùng tìm hiểu bài **Đánh giá chuẩn bị trước phẫu thuật**. Trong điều trị ngoại khoa, sự thành công của một ca phẫu thuật phụ thuộc vào nhiều yếu tố kết hợp: chẩn đoán đúng bệnh, chỉ định phẫu thuật chính xác và kịp thời; áp dụng phương pháp phẫu thuật và phương pháp vô cảm hợp lý. Tuy nhiên, một phần quan trọng không kém góp phần quyết định sự thành công đó chính là **công tác chuẩn bị trước phẫu thuật**.
 
@@ -29,11 +29,11 @@ Chào các bạn sinh viên, hôm nay chúng ta cùng tìm hiểu bài **Đánh 
 
 ---
 
-## 2. TƯ VẤN TRƯỚC MỔ VÀ CHẤP NHẬN PHẪU THUẬT
+## TƯ VẤN TRƯỚC MỔ VÀ CHẤP NHẬN PHẪU THUẬT
 
 Phẫu thuật luôn là một nỗi lo sợ, ám ảnh lớn gây sang chấn tâm lý và thể xác cho người bệnh và gia đình. Việc thiếu thông tin rõ ràng hoặc kỳ vọng quá mức vào kết quả hoàn hảo dễ dẫn đến những phản ứng quá mức khi xảy ra sự cố không mong muốn. Để tôn trọng quyền người bệnh, khái niệm **“Đồng thuận điều trị”** hay **“Đồng thuận được phẫu thuật”** (*Consent*) đã thay thế hoàn toàn cho khái niệm "Cam kết phẫu thuật" trước đây.
 
-### 2.1. Tư vấn trước mổ
+### Tư vấn trước mổ
 Tư vấn trước mổ là quá trình cung cấp thông tin về bệnh tật, điều trị, chăm sóc nhằm giải đáp thắc mắc và giải tỏa lo lắng cho bệnh nhân và thân nhân. 
 
 * **4 nội dung chính bắt buộc trong tư vấn:**
@@ -45,11 +45,11 @@ Tư vấn trước mổ là quá trình cung cấp thông tin về bệnh tật,
   * Tư vấn của phẫu thuật viên (về bệnh tật, phương pháp mổ).
   * Tư vấn của bác sĩ Gây mê – Hồi sức (khi khám tiền mê hoặc hội chẩn chuyên khoa đối với các ca mổ phức tạp, bệnh nhân lớn tuổi, nhiều bệnh nền).
 
-### 2.2. Chấp nhận được mổ
+### Chấp nhận được mổ
 Chấp nhận được mổ là sự đồng thuận thể hiện sự đồng ý để thầy thuốc (phẫu thuật viên, bác sĩ gây mê, nhân viên y tế) thực hiện phẫu thuật/thủ thuật trên cơ thể người bệnh.
 
 * **5 nguyên tắc chính liên quan đến Đồng thuận:**
-  1. Người bệnh phải **\\(\ge 18\\) tuổi** và có đủ năng lực hành vi ra quyết định.
+  1. Người bệnh phải **`≥ 18` tuổi** và có đủ năng lực hành vi ra quyết định.
   2. Thông tin nhận được phải **đầy đủ 4 nội dung chính**, dễ hiểu và thể hiện bằng **văn bản (giấy đồng thuận)**. Khuyến khích người bệnh đặt câu hỏi.
   3. Người bệnh **hoàn toàn tự nguyện**, có quyền rút lại sự đồng thuận bất kỳ lúc nào trước khi phẫu thuật triển khai (điều này phải ghi rõ trên giấy).
   4. Sự chấp nhận phải có **trước khi tiến hành mọi tác động** lên người bệnh.
@@ -62,11 +62,11 @@ Chấp nhận được mổ là sự đồng thuận thể hiện sự đồng �
 
 ---
 
-## 3. CHUẨN BỊ TRƯỚC MỔ
+## CHUẨN BỊ TRƯỚC MỔ
 
 Chuẩn bị trước mổ nhằm đưa các bất thường về tình trạng ổn định và chuẩn bị cho cơ thể bệnh nhân ở trạng thái sẵn sàng tốt nhất để chịu đựng cuộc mổ.
 
-### 3.1. Đánh giá toàn thân
+### Đánh giá toàn thân
 Đánh giá toàn diện, hệ thống tất cả các cơ quan: Dinh dưỡng, tuổi tác, huyết học - đông cầm máu, hô hấp, tim mạch, gan, thận, thần kinh, nội tiết, miễn dịch và bệnh lây nhiễm.
 
 * **Phân loại chỉ số ASA (Hội Gây mê Hoa Kỳ, 1963):**
@@ -76,7 +76,7 @@ Chuẩn bị trước mổ nhằm đưa các bất thường về tình trạng 
   * **ASA 4:** Có bệnh toàn thân nặng – không còn khả năng hoạt động (tỷ lệ tử vong 18%).
   * **ASA 5:** Có nguy cơ tử vong trong vòng 24 giờ có hoặc không mổ.
 
-### 3.2. Đánh giá dinh dưỡng
+### Đánh giá dinh dưỡng
 Suy dinh dưỡng làm tăng nguy cơ nhiễm khuẩn, kéo dài thời gian thở máy, chậm lành vết thương, bung vết mổ, xì rò nối tiêu hóa và kéo dài thời gian nằm viện.
 
 * **3 câu hỏi PTV phải tự trả lời:** Tình trạng dinh dưỡng hiện tại ra sao? Mức độ xâm lấn của phẫu thuật? Phẫu thuật ảnh hưởng thế nào đến việc ăn uống/tiêu hóa về sau?
@@ -87,10 +87,10 @@ Suy dinh dưỡng làm tăng nguy cơ nhiễm khuẩn, kéo dài thời gian th�
   * *Bước 3:* Bác sĩ chuyên khoa đánh giá và chỉ định can thiệp cho nhóm Suy dinh dưỡng và nhóm có Nguy cơ suy dinh dưỡng.
 * **Hỗ trợ dinh dưỡng:** Theo ESPEN, bệnh nhân mổ lớn có nguy cơ suy dinh dưỡng cao cần được hỗ trợ dinh dưỡng trước mổ **tối thiểu 7 – 10 ngày**, giúp giảm 30 – 40% tỷ lệ biến chứng sau mổ.
 
-### 3.3. Tuổi tác
+### Tuổi tác
 Người lớn tuổi thường kèm suy giảm chức năng nhiều cơ quan. Bệnh ngoại khoa xuất hiện dễ khơi dậy các tổn thương mạn tính tiềm ẩn. Bệnh nhân cao tuổi có thể chịu đựng cuộc mổ tương đối tốt nhưng **rất khó vượt qua các biến chứng hậu phẫu**, đòi hỏi thời gian phục hồi và nằm viện kéo dài hơn.
 
-### 3.4. Huyết học
+### Huyết học
 Cần khai thác kỹ tiền sử chảy máu khi có vết thương, nhổ răng hay xuất hiện vết bầm tím.
 
 * **Xét nghiệm thường quy:** Công thức máu, TQ (PT), TCK (aPTT), Fibrinogen, Nhóm máu (ABO, Rh).
@@ -101,15 +101,15 @@ Cần khai thác kỹ tiền sử chảy máu khi có vết thương, nhổ răn
   * *TQ, TCK:* Thời gian đông máu không vượt quá 4 giây so với mẫu chứng.
 * **Dự trù máu:** Dự trù máu trước mổ khi khả năng mất máu trong mổ **> 500 mL**, đặc biệt ở bệnh nhân có nhóm máu hiếm.
 
-### 3.5. Hô hấp
+### Hô hấp
 Hầu hết thuốc mê dùng qua đường hô hấp và bệnh nhân nằm lâu sau mổ dễ ứ đọng đờm nhớt.
 
 * **Tỷ lệ biến chứng phổi:** Trung bình khoảng **5 – 7%**; tỷ lệ này tăng **gấp 2 lần** ở phẫu thuật bụng, **gấp 3 lần** ở người hút thuốc lá, và **gấp 4 lần** ở người có COPD.
-* **Can thiệp:** Bắt buộc ngưng hút thuốc lá **ít nhất 4 tuần trước mổ**. Hướng dẫn bệnh nhân tập thở sâu, ho khạc đờm. Đánh giá chức năng hô hấp tối thiểu đạt **\\(\text{FEV}_1 > 50\%\\)**.
+* **Can thiệp:** Bắt buộc ngưng hút thuốc lá **ít nhất 4 tuần trước mổ**. Hướng dẫn bệnh nhân tập thở sâu, ho khạc đờm. Đánh giá chức năng hô hấp tối thiểu đạt **`FEV₁ > 50%`**.
 * **Lao phổi:** Tổn thương lao tiến triển tạo hang cần điều trị nội khoa ổn định trước mổ (tối thiểu BK đờm âm tính).
 * **Xét nghiệm thường quy:** X-quang ngực thẳng. Đo chức năng hô hấp (chỉ định cho người > 60 tuổi, hút thuốc lá, có bệnh nền nội khoa hoặc triệu chứng hô hấp).
 
-### 3.6. Tim mạch
+### Tim mạch
 Sàng lọc qua tiền sử, lâm sàng, ECG, siêu âm tim, siêu âm gắng sức, chụp mạch vành...
 
 * **Tiền sử Nhồi máu cơ tim (NMCT) và tỷ lệ tái phát:**
@@ -120,40 +120,40 @@ Sàng lọc qua tiền sử, lâm sàng, ECG, siêu âm tim, siêu âm gắng s�
 * **Tăng huyết áp:** Cần đưa trị số huyết áp về mức bình thường (**< 140/90 mmHg**) trước mổ để tránh chảy máu và tai biến mạch máu脑/tim mạch khi khởi mê, tỉnh mê hoặc đau hậu phẫu.
 * **Xét nghiệm thường quy:** Điện tâm đồ (ECG). Siêu âm tim thực hiện cho người > 60 tuổi hoặc có tiền sử bệnh tim.
 
-### 3.7. Thận
+### Thận
 Bệnh nhân suy thận mạn dễ bị rối loạn điện giải, thiếu máu, suy giảm bạch cầu, ảnh hưởng lớn đến biến dưỡng thuốc mê và lành vết thương.
 
 * **Chạy thận nhân tạo:** Bệnh nhân chạy thận chu kỳ cần được **chạy thận trong vòng 24 giờ trước khi phẫu thuật** và kiểm soát nghiêm ngặt thể tích nội mạch trong mổ.
 * **Xét nghiệm thường quy:** Định lượng Ure (BUN), Creatinin máu, Ion đồ, Tổng phân tích nước tiểu.
 
-### 3.8. Gan mật
+### Gan mật
 Gan là nơi biến dưỡng thuốc mê và sản xuất các yếu tố đông máu (II, V, VII, X). 
 
 * **Đánh giá chức năng:** Tầm soát bệnh gan qua men gan (AST, ALT), Albumin, PT, aPTT, Fibrinogen, Bilirubin, ALP, LDH và huyết thanh chẩn đoán viêm gan siêu vi.
 * **Phân loại:** Đối với bệnh nhân xơ gan, sử dụng thang điểm **Child-Pugh** để phân loại mức độ suy gan trước mổ.
 
-### 3.9. Thần kinh
+### Thần kinh
 * **Bệnh mạch máu脑:** Thiếu máu não mạn tính, mảng xơ vữa động mạch cảnh dễ gây đột quỵ hậu phẫu. Bệnh nhân có tiền sử Cơn co thắt mạch não thoáng qua (TIA) có nguy cơ **30% bị đột quỵ sau mổ**.
 * **Tai biến mạch máu脑 mới xảy ra:** **Chống chỉ định phẫu thuật trong vòng 6 – 8 tuần** (thời gian cần thiết để hồi phục tuần hoàn não).
 * **Động kinh:** Kiểm soát nồng độ thuốc chống động kinh trong máu để tránh co giật làm thiếu oxy não, chảy máu hoặc bung vết mổ hậu phẫu.
 
-### 3.10. Nội tiết
+### Nội tiết
 * **Đái tháo đường:** Trước mổ phải ngưng thuốc hạ đường huyết dạng uống và **chuyển sang tiêm Insulin**. **Ngưỡng đường huyết chấp nhận mổ là < 180 mg/dL**. Xét nghiệm: Đường huyết, HbA1c.
 * **Cường giáp:** Tầm soát TSH, FT3, FT4 khi có triệu chứng nghi ngờ. Phẫu thuật khi chưa đưa về bình giáp sẽ gây ra **Cơn bão giáp (Thyroid storm)** trong và 24h sau mổ (sốt rất cao, mạch rất nhanh, kích động, lơ mơ, tử vong cao). **Bắt buộc đưa chức năng tuyến giáp về bình giáp trước mổ**.
 
-### 3.11. Miễn dịch
+### Miễn dịch
 * **Viêm gan B, C:** Xét nghiệm HBsAg, Anti-HBs, Anti-HCV ở bệnh nhân vàng da/tăng men gan. Nhân viên y tế có nguy cơ lây nhiễm **15%** khi bị tổn thương do dụng cụ sắc nhọn dính máu.
 * **HIV/AIDS:** Xét nghiệm ELISA, Western Blot cho nhóm nguy cơ cao. Lưu ý **thời kỳ cửa sổ từ 2 tuần đến 6 tháng**. Việc xét nghiệm phải được sự đồng ý của bệnh nhân và bảo mật kết quả theo Luật khám chữa bệnh.
 
 ---
 
-## 4. DỰ PHÒNG NHIỄM KHUẨN
+## DỰ PHÒNG NHIỄM KHUẨN
 
-### 4.1. Vệ sinh và sát khuẩn trước mổ
+### Vệ sinh và sát khuẩn trước mổ
 * **Vệ sinh da:** Bệnh nhân tắm xà phòng diệt khuẩn (tắm vòi sen) vào chiều hoặc tối trước mổ. Vùng da có nhiều vi khuẩn (tầng sinh môn, chi dưới) rửa bằng dung dịch *Chlorhexidine gluconate* 3 – 5 ngày trước mổ.
 * **Vấn đề cạo lông:** Cạo lông ngày hôm trước làm xước da gia tăng vi khuẩn. **Chỉ cạo lông ngay trước mổ tại khu vực tiền mê bằng kéo hoặc máy cắt nếu thật sự cần thiết**. Không cạo nếu vùng mổ chỉ có ít lông mỏng.
 
-### 4.2. Kháng sinh dự phòng trước mổ
+### Kháng sinh dự phòng trước mổ
 * **Bảng 1. Phân loại phẫu thuật theo tình trạng nhiễm trùng (Cruse PJE, 1988):**
   * **Phẫu thuật Sạch (Nhóm I):** Không chấn thương, không viêm, không gián đoạn kỹ thuật, không mở tạng rỗng. Không cần KSDP trừ khi mổ đặt cấy ghép, bệnh nền nặng hoặc mổ kéo dài > 2 giờ.
   * **Phẫu thuật Sạch - Nhiễm (Nhóm II):** Có mở tạng rỗng (tiêu hóa, hô hấp, niệu dục) nhưng kiểm soát tốt. Dùng **1 liều KSDP duy nhất trước khi rạch da 30 phút** (thường dùng Cefazolin cho mổ bụng).
@@ -162,18 +162,18 @@ Gan là nơi biến dưỡng thuốc mê và sản xuất các yếu tố đông
 
 ---
 
-## 5. CHUẨN BỊ CHUNG CHO CÁC LOẠI PHẪU THUẬT
+## CHUẨN BỊ CHUNG CHO CÁC LOẠI PHẪU THUẬT
 
 * **Bảng kiểm trước mổ (Checklist):** Kiểm tra tháo răng giả, chùi sơn móng tay, tháo nữ trang...
 * **Vệ sinh & làm trống tạng:** Vệ sinh vùng mổ, làm trống bàng quang, đại - trực tràng.
 * **Kiểm tra thuốc mạn tính:** Cắt giảm hoặc thay đổi thuốc điều trị nội khoa phù hợp.
 
-### 5.1. Chế độ ăn uống trước phẫu thuật
+### Chế độ ăn uống trước phẫu thuật
 * Ăn nhẹ chiều trước mổ.
 * **Nhịn ăn và uống qua đường miệng (kể cả nước lọc) tối thiểu 6 tiếng trước mổ** để phòng ngừa trào ngược dịch dạ dày vào đường thở khi gây mê.
 * Ngưng hút thuốc lá và chất kích thích.
 
-#### 5.1.1. Phẫu thuật đường tiêu hóa
+#### Phẫu thuật đường tiêu hóa
 
 ##### Chuẩn bị phẫu thuật tiêu hóa trên (thực quản, dạ dày, tá tràng)
 * Ngưng thuốc băng niêm mạc 3 ngày trước mổ.
@@ -192,7 +192,7 @@ Gan là nơi biến dưỡng thuốc mê và sản xuất các yếu tố đông
 
 ---
 
-## 6. KẾT LUẬN
+## KẾT LUẬN
 
 Đánh giá và chuẩn bị trước mổ là bước bắt buộc không thể thiếu trước mọi phẫu thuật. Việc chuẩn bị chu đáo đảm bảo an toàn chuyên môn, nâng cao tỷ lệ thành công, bảo vệ sức khỏe bệnh nhân và mang giá trị pháp lý bảo vệ thầy thuốc trong quá trình hành nghề.
 
@@ -200,7 +200,7 @@ Gan là nơi biến dưỡng thuốc mê và sản xuất các yếu tố đông
 
 ### TÓM TẮT NHANH
 1. Đánh giá toàn thân và chuẩn bị trước mổ là bắt buộc đối với mọi phẫu thuật chương trình nhằm tối ưu hóa tình trạng người bệnh, giảm biến chứng và tỷ lệ tử vong.
-2. Tư vấn trước mổ phải đủ 4 nội dung (lợi ích, nguy cơ, phương pháp thay thế, diễn tiến nếu từ chối) và đạt được giấy "Đồng thuận được phẫu thuật" từ bệnh nhân \\(\ge 18\\) tuổi có đủ năng lực hành vi.
+2. Tư vấn trước mổ phải đủ 4 nội dung (lợi ích, nguy cơ, phương pháp thay thế, diễn tiến nếu từ chối) và đạt được giấy "Đồng thuận được phẫu thuật" từ bệnh nhân `≥ 18` tuổi có đủ năng lực hành vi.
 3. Đánh giá các cơ quan quan trọng: Tỷ lệ tử vong tăng theo chỉ số ASA (1 - 5); bệnh nhân nhồi máu cơ tim cần chờ > 6 tháng để giảm nguy cơ tái phát còn 5%; tai biến mạch máu brain mới cần hoãn mổ 6 – 8 tuần; đái tháo đường cần đưa đường huyết < 180 mg/dL; cường giáp phải đưa về bình giáp để tránh cơn bão giáp tử vong cao.
 4. Dự phòng nhiễm khuẩn: Tắm xà phòng diệt khuẩn trước mổ, chỉ cạo lông ngay trước mổ tại phòng tiền mê nếu thực sự cần; tiêm kháng sinh dự phòng trong 30 phút trước rạch da đối với phẫu thuật loại II (sạch-nhiễm).
 5. Chuẩn bị đường tiêu hóa: Nhịn ăn uống tối thiểu 6 tiếng trước mổ; mổ đại tràng cần chế độ ăn giảm xơ 3 ngày, làm sạch ruột bằng Fortrans/Fleet và dùng kháng sinh đường ruột ngắn ngày.

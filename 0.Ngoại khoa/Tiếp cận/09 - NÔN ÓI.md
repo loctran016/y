@@ -21,7 +21,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐỊNH NGHĨA
+## ĐỊNH NGHĨA
 
 Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau tìm hiểu **Bài 9: Nôn ói**. Trong thực hành lâm sàng, nôn ói là một triệu chứng rất phổ biến, có thể gặp ở nhiều bệnh lý khác nhau từ nhẹ đến cấp cứu nguy hiểm.
 
@@ -32,7 +32,7 @@ Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng nhau tìm hiểu **B�
 
 ---
 
-## 2. SINH LÝ BỆNH
+## SINH LÝ BỆNH
 
 Hoạt động vận động bình thường của đường tiêu hóa trên là kết quả của sự tương tác giữa dạ dày - ruột và hệ thần kinh trung ương, được kiểm soát bởi **3 cấp độ chính**:
 1. Hệ thần kinh giao cảm và phó giao cảm.
@@ -44,20 +44,20 @@ Khi có rối loạn ở bất kỳ cấp độ nào đều dẫn đến rối l
 1. **Mất nước:** Nôn nhiều lần gây mất nước và giảm thể tích lòng mạch. 
    * *Mức độ nhẹ:* Khát nước, khô miệng, dấu véo da (+), tiểu ít. 
    * *Mức độ nặng:* Chóng mặt, giảm tri giác, tụt huyết áp, vô niệu... dẫn đến **sốc giảm thể tích**.
-2. **Mất điện giải:** Nôn ói làm thất thoát các ion \\(\text{Na}^+\\), \\(\text{K}^+\\) và \\(\text{Cl}^-\\) (trong đó **gặp nhiều nhất là mất \\(\text{K}^+\\)**). Hạ Kali máu gây rối loạn nhịp tim, đau cơ, yếu cơ và liệt dạ dày - ruột.
-3. **Mất ion \\(\text{H}^+\\) (Kiềm chuyển hóa):** Dịch vị dạ dày chứa nồng độ acid rất cao. Nôn ói kéo dài làm mất ion \\(\text{H}^+\\), gây nên tình trạng **kiềm chuyển hóa**. Kiềm chuyển hóa lại làm di chuyển \\(\text{K}^+\\) từ máu vào trong tế bào (làm nặng thêm hạ Kali máu), làm giảm \\(\text{Ca}^{2+}\\) máu, giảm thông khí phế nang bù trừ gây thiếu oxy máu, và co thắt tiểu động mạch làm giảm lưu lượng máu não và mạch vành.
+2. **Mất điện giải:** Nôn ói làm thất thoát các ion `Na⁺`, `K⁺` và `Cl⁻` (trong đó **gặp nhiều nhất là mất `K⁺`**). Hạ Kali máu gây rối loạn nhịp tim, đau cơ, yếu cơ và liệt dạ dày - ruột.
+3. **Mất ion `H⁺` (Kiềm chuyển hóa):** Dịch vị dạ dày chứa nồng độ acid rất cao. Nôn ói kéo dài làm mất ion `H⁺`, gây nên tình trạng **kiềm chuyển hóa**. Kiềm chuyển hóa lại làm di chuyển `K⁺` từ máu vào trong tế bào (làm nặng thêm hạ Kali máu), làm giảm `Ca²⁺` máu, giảm thông khí phế nang bù trừ gây thiếu oxy máu, và co thắt tiểu động mạch làm giảm lưu lượng máu não và mạch vành.
 4. **Viêm phổi hít:** Thường xảy ra ở bệnh nhân lớn tuổi, tri giác kém hoặc nằm liệt giường khi chất nôn lọt vào đường hô hấp. Tiên lượng rất xấu với tỷ lệ tử vong cao.
 5. **Hội chứng Mallory-Weiss:** Nôn ói liên tục làm áp lực vùng thực quản - tâm vị tăng cao đột ngột, gây xước hoặc rách niêm mạc vùng này. Biểu hiện điển hình: Bệnh nhân sau nhiều lần nôn ra thức ăn/dịch vị thì bắt đầu **nôn ra máu tươi**.
 
 ---
 
-## 3. BIỂU HIỆN LÂM SÀNG
+## BIỂU HIỆN LÂM SÀNG
 
 Theo thời gian diễn tiến, nôn ói được chia làm hai nhóm:
-* **Nôn ói cấp tính:** Triệu chứng kéo dài **\\(\le 1\\) tuần**, thường do các nguyên nhân cấp tính như tắc ruột, ngộ độc, nhiễm trùng, tăng áp lực nội sọ...
+* **Nôn ói cấp tính:** Triệu chứng kéo dài **`≤ 1` tuần**, thường do các nguyên nhân cấp tính như tắc ruột, ngộ độc, nhiễm trùng, tăng áp lực nội sọ...
 * **Nôn ói mạn tính:** Triệu chứng kéo dài dai dẳng trên 1 tuần.
 
-### 3.1. Nôn ói
+### Nôn ói
 Khi tiếp cận bệnh nhân, cần khai thác kỹ 5 tính chất của nôn ói:
 * **Số lần và thể tích:** Giúp ước lượng độ nặng và lượng dịch mất.
 * **Triệu chứng trước nôn:** Có cảm giác ợ nóng, buồn nôn, đầy bụng khó chịu hay không.
@@ -65,9 +65,9 @@ Khi tiếp cận bệnh nhân, cần khai thác kỹ 5 tính chất của nôn �
 * **Thời điểm nôn:** Xuất hiện vào lúc nào trong ngày, đặc biệt là mối liên quan với bữa ăn (nôn ngay sau ăn hoặc sau ăn 1 – 2 giờ gợi ý tắc nghẽn đường thoát dạ dày).
 * **Chất nôn:** Nôn ra thức ăn cũ, dịch vị (chua), dịch mật (đắng), dịch giống dịch phân (màu nâu đục, mùi hôi), hay có lẫn máu.
 
-### 3.2. Rối loạn toàn thân của nôn ói
+### Rối loạn toàn thân của nôn ói
 
-#### 3.2.1. Mất nước
+#### Mất nước
 Đánh giá mức độ mất nước theo tiêu chuẩn của Tổ chức Y tế Thế giới (WHO):
 
 #### Bảng 1. Phân độ mất nước theo WHO
@@ -81,39 +81,39 @@ Khi tiếp cận bệnh nhân, cần khai thác kỹ 5 tính chất của nôn �
 | **Nếp véo da (*)** | Mất nhanh | Mất chậm (< 2 giây) | Rất chậm (> 2 giây) |
 | **Chẩn đoán** | Không có dấu hiệu mất nước | Có 2 dấu hiệu trở lên (ít nhất 1 dấu *): **Mất nước B** | Có 2 dấu hiệu trở lên (ít nhất 1 dấu *): **Mất nước C** |
 
-#### 3.2.2. Mất điện giải
-* **Hạ Natri máu:** Vừa là nguyên nhân vừa là hậu quả của nôn ói. Thường xuất hiện triệu chứng khi \\(\text{Na}^+ < 120\text{ mEq/L}\\) hoặc khi \\(\text{Na}^+\\) giảm quá nhanh: Đau đầu, buồn nôn, mệt mỏi, kích thích vật vã, rối loạn tri giác, co giật.
+#### Mất điện giải
+* **Hạ Natri máu:** Vừa là nguyên nhân vừa là hậu quả của nôn ói. Thường xuất hiện triệu chứng khi `Na⁺ < 120 mEq/L` hoặc khi `Na⁺` giảm quá nhanh: Đau đầu, buồn nôn, mệt mỏi, kích thích vật vã, rối loạn tri giác, co giật.
 * **Hạ Kali máu:** Gặp phổ biến hơn hạ Natri máu. Biểu hiện: Yếu cơ (tứ chi, cơ hô hấp), đau cơ, co rút cơ, mạch yếu, tiếng tim nhỏ, loạn nhịp tim, liệt ruột.
 * **Kiềm chuyển hóa:** Đi kèm và làm trầm trọng thêm tình trạng hạ Kali máu.
 
-### 3.3. Một số triệu chứng kèm theo thường gặp
+### Một số triệu chứng kèm theo thường gặp
 
-#### 3.3.1. Đau bụng
+#### Đau bụng
 Là triệu chứng kèm theo phổ biến nhất, gợi ý nguyên nhân xuất phát từ hệ tiêu hóa.
 * **Đau quặn cơn:** Do tạng rỗng bị căng giãn, co thắt (như giai đoạn đầu viêm ruột thừa, cơn đau quặn mật). Nôn ói lúc này là phản ứng do hệ thần kinh đối giao cảm bị kích thích quá mức. 
 * Nôn ói quá nhiều lần cũng có thể tự gây ra đau bụng do co bóp cơ thẳng bụng quá mức.
 
-#### 3.3.2. Hội chứng tắc nghẽn đường thoát dạ dày (Gastric Outlet Obstruction)
+#### Hội chứng tắc nghẽn đường thoát dạ dày (Gastric Outlet Obstruction)
 Bao gồm hẹp môn vị và tắc tá tràng.
 * *Giai đoạn đầu:* Ăn không tiêu, đầy bụng, ợ hơi, ợ chua sau ăn.
 * *Giai đoạn tắc rõ:* Buồn nôn thường xuyên sau ăn, **nôn ra thức ăn cũ không tiêu hóa được** (xảy ra muộn sau ăn 2 – 4 giờ). Bệnh nhân thường tự móc họng nôn cho dễ chịu.
 * *Đặc điểm chất nôn:* Tắc tại môn vị hoặc tá tràng trên bóng Vater thì **chất nôn KHÔNG có dịch mật (không đắng miệng)**, giúp phân biệt với tắc nghẽn ở vị trí thấp hơn.
 
-#### 3.3.3. Hội chứng tắc ruột
+#### Hội chứng tắc ruột
 Tắc ruột non hoặc ruột già có **tứ chứng kinh điển**: Đau bụng quặn cơn, nôn ói, bí trung đại tiện và trướng bụng. 
 * Tắc ruột càng cao thì nôn ói xuất hiện càng sớm và càng rõ rệt. 
 * Tắc ruột thấp hoặc tắc ruột đến muộn bệnh nhân có thể **nôn ra dịch giống dịch phân** (màu nâu đục, mùi hôi).
 
-#### 3.3.4. Rối loạn tri giác
+#### Rối loạn tri giác
 Nôn ói kèm rối loạn tri giác, dấu thần kinh định vị hoặc co giật phải nghĩ đến nguyên nhân thần kinh trung ương. Tăng áp lực nội sọ gây ra triệu chứng đặc trưng là **nôn vọt**.
 Các gợi ý triệu chứng kèm theo khác:
-* Mệt mỏi, hồi hộp đánh trống ngực \\(\rightarrow\\) Cường giáp.
-* Trễ kinh, nghén \\(\rightarrow\\) Thai kỳ.
-* Phù, tiểu ít \\(\rightarrow\\) Hội chứng urê huyết cao.
+* Mệt mỏi, hồi hộp đánh trống ngực `→` Cường giáp.
+* Trễ kinh, nghén `→` Thai kỳ.
+* Phù, tiểu ít `→` Hội chứng urê huyết cao.
 
 ---
 
-## 4. NGUYÊN NHÂN GÂY NÔN ÓI
+## NGUYÊN NHÂN GÂY NÔN ÓI
 
 Nguyên nhân gây nôn ói rất đa dạng, được tổng hợp trong Bảng 2:
 
@@ -121,17 +121,17 @@ Nguyên nhân gây nôn ói rất đa dạng, được tổng hợp trong Bảng
 | Nhóm nguyên nhân | Nguyên nhân cụ thể thường gặp | Đặc điểm lâm sàng gợi ý |
 | :--- | :--- | :--- |
 | **Hệ thần kinh trung ương** | • Tăng áp lực nội sọ (chấn thương sọ não, u não, viêm não, viêm màng não) <br>• Hệ tiền đình/tai giữa (rối loạn tiền đình, viêm tai giữa) <br>• Mắt (tăng nhãn áp, rối loạn vận nhãn) <br>• Mạch máu (đau đầu Migraine) <br>• Tâm lý (nôn do tâm lý, hội chứng cai, Hysteria) | • **Nôn vọt**, kèm rối loạn tri giác, dấu TK định vị. <br>• Tiền căn say tàu xe, triệu chứng ở tai. <br>• Bất thường ở mắt. <br>• Tiền căn đau đầu Migraine. <br>• Triệu chứng rối loạn tâm lý. |
-| **Hệ tiêu hóa** | • Tắc ruột cơ học (dây dính, lồng ruột, xoắn ruột, u) <br>• Liệt dạ dày - ruột (liệt dạ dày ở BN tiểu đường, liệt ruột do viêm phúc mạc, hạ \\(\text{K}^+\\)...) <br>• Bệnh lý viêm (viêm loét dạ dày tá tràng, GERD, thiếu máu mạc treo, bệnh Crohn) <br>• Bệnh lý u (ung thư dạ dày, u đầu tụy, ung thư di căn) <br>• Phản ứng đau bụng cấp (viêm ruột thừa sớm, đau quặn mật, viêm tụy cấp, viêm phúc mạc) | • Hội chứng tắc ruột (đau, nôn, bí, trướng). <br>• Triệu chứng của bệnh nền gây liệt ruột. <br>• Tiền căn viêm dạ dày, đau bụng, đi cầu phân bầm. <br>• Hội chứng tắc đường thoát dạ dày, sụt cân. <br>• Luôn kèm đau bụng, **nôn xong KHÔNG giảm đau**. |
+| **Hệ tiêu hóa** | • Tắc ruột cơ học (dây dính, lồng ruột, xoắn ruột, u) <br>• Liệt dạ dày - ruột (liệt dạ dày ở BN tiểu đường, liệt ruột do viêm phúc mạc, hạ `K⁺`...) <br>• Bệnh lý viêm (viêm loét dạ dày tá tràng, GERD, thiếu máu mạc treo, bệnh Crohn) <br>• Bệnh lý u (ung thư dạ dày, u đầu tụy, ung thư di căn) <br>• Phản ứng đau bụng cấp (viêm ruột thừa sớm, đau quặn mật, viêm tụy cấp, viêm phúc mạc) | • Hội chứng tắc ruột (đau, nôn, bí, trướng). <br>• Triệu chứng của bệnh nền gây liệt ruột. <br>• Tiền căn viêm dạ dày, đau bụng, đi cầu phân bầm. <br>• Hội chứng tắc đường thoát dạ dày, sụt cân. <br>• Luôn kèm đau bụng, **nôn xong KHÔNG giảm đau**. |
 | **Thai kỳ** | • Thai nghén, thai trứng | Tầm soát thai, tiền căn sản khoa. |
 | **Nhiễm trùng** | • Nhiễm trùng huyết, ngộ độc thức ăn, viêm gan cấp, viêm dạ dày ruột, nhiễm ký sinh trùng, AIDS | Hội chứng nhiễm trùng, yếu tố dịch tễ, thói quen ăn uống. |
-| **Nội tiết & Chuyển hóa** | • Đái tháo đường nhiễm Ceton, toan chuyển hóa, hội chứng urê huyết cao, tăng/hạ \\(\text{Na}^+\\), \\(\text{K}^+\\), cường/suy giáp, suy thượng thận | Triệu chứng toàn thân của bệnh lý nội tiết/chuyển hóa gốc. |
+| **Nội tiết & Chuyển hóa** | • Đái tháo đường nhiễm Ceton, toan chuyển hóa, hội chứng urê huyết cao, tăng/hạ `Na⁺`, `K⁺`, cường/suy giáp, suy thượng thận | Triệu chứng toàn thân của bệnh lý nội tiết/chuyển hóa gốc. |
 | **Hệ niệu dục** | • Viêm đài bể thận cấp, bệnh thận tắc nghẽn, viêm tai vòi, viêm nội mạc tử cung, lạc nội mạc tử cung | Triệu chứng bất thường ở hệ niệu hoặc sinh dục. |
 | **Thuốc & Độc chất** | • Thuốc (kháng sinh, nhóm opiate, thuốc tránh thai, hóa trị...) <br>• Độc chất (rượu, khí CO, kim loại nặng) | Tiền căn dùng thuốc, hóa trị, uống rượu, tiếp xúc độc chất. |
 | **Nhóm khác** | • Nhồi máu cơ tim cấp, suy tim sung huyết, xạ trị | Triệu chứng tim mạch hoặc đang xạ trị. |
 
 ---
 
-## 5. TIẾP CẬN CHẨN ĐOÁN LÂM SÀNG
+## TIẾP CẬN CHẨN ĐOÁN LÂM SÀNG
 
 Nôn ói là một triệu chứng không đặc hiệu. Do đó, trên lâm sàng người thầy thuốc thường chọn các triệu chứng đặc hiệu hơn đi kèm (như đau bụng, bí trung đại tiện, vàng da...) để biện luận.
 
@@ -162,28 +162,28 @@ Bí trung đại tiện        Hội chứng tắc đường
 
 ---
 
-## 6. MỘT SỐ CẬN LÂM SÀNG LIÊN QUAN
+## MỘT SỐ CẬN LÂM SÀNG LIÊN QUAN
 
-### 6.1. Xét nghiệm
+### Xét nghiệm
 * **Sinh hóa máu phát hiện rối loạn toàn thân:**
   * *Mất nước:* Tăng Hct, Hemoglobin (cô đặc máu); tăng Ure, Creatinine (suy thận cấp trước thận).
-  * *Mất điện giải:* Giảm \\(\text{Na}^+, \text{K}^+, \text{Cl}^-, \text{Ca}^{2+}\\).
+  * *Mất điện giải:* Giảm `Na⁺, K⁺, Cl⁻, Ca²⁺`.
   * *Khí máu động mạch:* Ghi nhận kiềm chuyển hóa, toan hô hấp bù trừ.
-* **Xét nghiệm tìm nguyên nhân:** Amylase/Lipase (viêm tụy cấp), \\(\text{NH}_3\\) (ngộ độc rượu), đường huyết, HbA1c, hormone tuyến giáp, \\(\text{Beta-HCG}\\) (xác định thai kỳ).
+* **Xét nghiệm tìm nguyên nhân:** Amylase/Lipase (viêm tụy cấp), `NH₃` (ngộ độc rượu), đường huyết, HbA1c, hormone tuyến giáp, `Beta-HCG` (xác định thai kỳ).
 
-### 6.2. Nội soi dạ dày và X-quang dạ dày cản quang
+### Nội soi dạ dày và X-quang dạ dày cản quang
 * **Nội soi dạ dày:** Là **tiêu chuẩn vàng** để chẩn đoán tắc đường thoát dạ dày (hẹp môn vị, tắc tá tràng), giúp xác định chỗ tắc, chẩn đoán nguyên nhân (lành tính hay ung thư) và can thiệp điều trị (nong, đặt stent).
   * ⚠️ **CHỐNG CHỈ ĐỊNH:** **Nội soi dạ dày bị chống chỉ định tuyệt đối khi có TẮC RUỘT**, vì việc bơm hơi khi nội soi sẽ làm tăng trướng căng các quai ruột bên dưới gây nguy cơ vỡ ruột.
 * **X-quang dạ dày uống cản quang (Barit / thuốc cản quang tan trong nước):** Cũng **chống chỉ định trong tắc ruột hoàn toàn**. Nhược điểm của X-quang cản quang là chỉ thấy vị trí hẹp nhưng khó xác định bản chất sang thương lành tính hay ác tính và không can thiệp điều trị được.
 
-### 6.3. Phương tiện hình ảnh học khác
+### Phương tiện hình ảnh học khác
 * **X-quang bụng đứng không sửa soạn:** Chỉ định khi nghi ngờ tắc ruột. Hình ảnh điển hình của tắc ruột cơ học là **các quai ruột giãn và xuất hiện các mực nước hơi chênh nhau**. Phim bình thường không loại trừ hoàn toàn tắc ruột. Trong hẹp môn vị cho thấy hình ảnh bóng dạ dày giãn to; trong viêm tụy cấp thấy quai ruột canh gác.
 * **Siêu âm bụng:** Đánh giá quai ruột giãn, tăng nhu động, dấu hiệu máy giặt trong tắc ruột cơ học; phát hiện lồng ruột, u đại tràng, viêm túi mật, viêm ruột thừa, viêm tụy cấp.
 * **Chụp cắt lớp vi tính (MSCT bụng - chậu):** Là phương tiện có giá trị rất cao giúp xác định chính xác vị trí, nguyên nhân, biến chứng của tắc nghẽn ống tiêu hóa cũng như hầu hết các bệnh lý bụng cấp ngoại khoa (thủng tạng rỗng, viêm tụy, viêm ruột thừa...). **MSCT và X-quang bụng chống chỉ định ở phụ nữ có thai** (cần loại trừ thai kỳ trước khi chụp).
 
 ---
 
-## 7. KẾT LUẬN
+## KẾT LUẬN
 
 Nôn ói là một triệu chứng lâm sàng rất thường gặp do nhiều nguyên nhân tại đường tiêu hóa hoặc toàn thân gây ra. Nôn ói có thể là triệu chứng chính của bệnh (như hẹp môn vị), nhưng cũng có thể chỉ là triệu chứng phụ của một tình trạng nguy hiểm đe dọa tính mạng (như thiếu máu mạc treo ruột, xuất huyết não). Hiểu rõ sinh lý bệnh và nắm vững các nhóm nguyên nhân giúp người thầy thuốc có hướng tiếp cận chẩn đoán chính xác và xử trí kịp thời các biến chứng.
 
@@ -240,7 +240,7 @@ A. Hạ Natri và hạ Kali máu
 B. Giảm thể tích tuần hoàn  
 C. Toan chuyển hóa  
 D. Kiềm chuyển hóa  
-* **👉 Đáp án:** **C. Toan chuyển hóa** *(Nôn ói mất acid dịch vị \\(\text{H}^+\\) nên gây Kiềm chuyển hóa, không phải toan chuyển hóa)*.
+* **👉 Đáp án:** **C. Toan chuyển hóa** *(Nôn ói mất acid dịch vị `H⁺` nên gây Kiềm chuyển hóa, không phải toan chuyển hóa)*.
 
 **Câu 7: Phát biểu nào sau đây là ĐÚNG về chỉ định cận lâm sàng trong chẩn đoán nguyên nhân nôn ói?**
 A. Nội soi dạ dày được chỉ định rộng rãi kể cả khi bệnh nhân đang có biểu hiện tắc ruột cơ học  
