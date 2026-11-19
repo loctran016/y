@@ -1,0 +1,162 @@
+---
+title: "NGOẠI KHOA: LỊCH SỬ VÀ TRIỂN VỌNG"
+tags: [giang-bai]
+created: 2026-11-19
+nguon: NotebookLM
+---
+
+# NGOẠI KHOA: LỊCH SỬ VÀ TRIỂN VỌNG
+*Tác giả: Nguyễn Văn Hải, Nguyễn Đình Hối*
+
+---
+
+### MỤC TIÊU BÀI HỌC
+1. Trình bày được khái niệm ngoại khoa, phẫu thuật viên, các tố chất cần có của một phẫu thuật viên, mối liên quan giữa ngoại khoa và nội khoa.
+2. Mô tả được những nét chính lược qua các giai đoạn phát triển của ngoại khoa.
+3. Hình dung được xu hướng phát triển của ngoại khoa.
+* **Từ khóa:** Ngoại khoa, nội khoa, ngoại tổng quát, phẫu thuật nội soi, vô khuẩn, hình ảnh học.
+
+---
+
+## 1. CÁC KHÁI NIỆM CHUNG VỀ NGOẠI KHOA
+
+### 1.1. Ngoại khoa
+* **Nguồn gốc thuật ngữ:** Tiếng Anh là *Surgery*, tiếng Pháp là *Chirurgie*, xuất phát từ tiếng Latinh (*Chirurgia*) và tiếng Hy Lạp (ghép từ *chier* - tay và *ergon* - làm việc), có nghĩa là việc làm bằng tay.
+* **Định nghĩa:** Ngoại khoa là một chuyên ngành chữa bệnh bằng cách dùng các thủ thuật hay phẫu thuật để sửa chữa thương tổn, khuyết tật... của các bộ phận, các tạng trong cơ thể.
+* **Sự thay đổi quan niệm tên gọi:** Trước đây, để thực hiện phẫu thuật, phẫu thuật viên bắt buộc phải mở đường tiếp cận, bóc tách để lộ tạng ra ngoài nên gọi là "ngoại khoa" (chữa bệnh bên ngoài). Ngày nay, với tiến bộ kỹ thuật theo hướng xâm hại tối thiểu (như phẫu thuật nội soi, robot), tạng bị bệnh không còn bị phơi bày ra ngoài; tuy nhiên, tên gọi chuyên ngành này vẫn được giữ nguyên.
+
+### 1.2. Liên quan giữa ngoại khoa và nội khoa
+* **Khái niệm Nội khoa:** Nội khoa là chuyên ngành chữa bệnh bằng thuốc mà không cần bộc lộ các tạng bị bệnh ra ngoài (uống, chích, phun khí dung...). Nhiều bệnh lý chỉ cần điều trị hoàn toàn bằng nội khoa như viêm phổi, viêm khớp, viêm dạ dày, cao huyết áp, tiểu đường....
+* **Sự giao thoa và chuyển biến qua lại giữa hai ngành:**
+  * **Nội khoa chuyển sang Ngoại khoa:** Một số bệnh lý khởi đầu điều trị nội khoa nhưng khi xuất hiện biến chứng hoặc không đáp ứng điều trị nội thì phải chuyển sang can thiệp ngoại khoa (ví dụ: loét dạ dày - tá tràng biến chứng thủng, hẹp môn vị, xuất huyết; lao ruột, Crohn, viêm loét đại - trực tràng biến chứng; áp xe gan biến chứng, viêm túi thừa đại tràng biến chứng...).
+  * **Ngoại khoa thuần túy hoặc phối hợp Nội khoa:** Có những bệnh bắt buộc phải chữa bằng ngoại khoa (sỏi mật, thoát vị, ung thư dạ dày, ung thư đại tràng...). Ngược lại, có tình huống phẫu thuật ban đầu chỉ giải quyết biến chứng, sau đó phải tiếp tục điều trị nội khoa bệnh nền (điều trị loét và diệt *H. pylori* sau khâu thủng dạ dày, điều trị lao ruột, hóa trị ung thư...).
+  * **Sự thay đổi chỉ định theo tiến bộ y học:** Cùng một bệnh lý, trước đây chỉ chữa nội khoa thì nay có thể can thiệp ngoại khoa (mổ bắc cầu mạch vành, ghép thận, ghép gan, ghép tụy...); ngược lại, bệnh trước đây bắt buộc phải mổ thì hiện nay có thể điều trị bảo tồn (vỡ gan, vỡ lách mức độ nhẹ) hoặc áp dụng thủ thuật xâm hại tối thiểu (tán sỏi niệu, lấy sỏi mật qua soi tá tràng ERCP...).
+* **Kết luận:** Giữa ngoại khoa và nội khoa có mối liên quan hỗ tương mật thiết, phẫu thuật viên rất cần thiết phải am hiểu sâu sắc về nội khoa.
+
+### 1.3. Phẫu thuật viên
+* Phẫu thuật viên là người thực hiện các phẫu thuật. Tuy nhiên, ngoại khoa không đơn thuần là mổ xẻ, nên phẫu thuật viên trước hết phải là một thầy thuốc.
+* **Đòi hỏi thời xưa:** Cần có "tinh mắt, gan dạ, thao tác khéo léo, nhẹ nhàng" (*eagle's eyes, lion's heart, lady's hands*).
+* **Đòi hỏi hiện đại (Mô hình "3 TỐT"):**
+  1. **Phẫu thuật viên tốt:** Có kỹ năng mổ xẻ tốt; biết khi nào mổ, khi nào không mổ; giao tiếp tốt, làm việc nhóm tốt; biết truyền thụ kiến thức và kinh nghiệm cho thế hệ trẻ; tự học hỏi không ngừng và biết hành xử chuyên nghiệp.
+  2. **Thầy thuốc tốt:** Ngoài năng lực chuyên môn còn có trách nhiệm và đạo đức nghề nghiệp; trung thực, tận hiến, biết cảm thông; không kỳ thị dân tộc, tôn giáo; không phân biệt giàu nghèo khi đối xử với người bệnh.
+  3. **Người tốt:** Giữ và thể hiện được tính nhân đạo trong khi tiếp tục theo đuổi ứng dụng những tiến bộ về kỹ thuật.
+
+### 1.4. Phân ngành trong ngoại khoa
+* **Sơ khởi:** Ngoại khoa tổng quát (Ngoại tổng quát) chữa các bệnh ngoại khoa thông thường.
+* **Các Ngoại chuyên khoa:** Do nhu cầu phát triển chuyên sâu, tách thành Ngoại thần kinh, Ngoại lồng ngực, Ngoại tiêu hóa, Chấn thương chỉnh hình, Niệu khoa, Ngoại nhi....
+* **Các chuyên khoa sâu:** 
+  * Chấn thương chỉnh hình phân chia thành: Phẫu thuật chi trên, chi dưới, cột sống.
+  * Ngoại tiêu hóa phân chia thành: Phẫu thuật tiêu hóa trên, Phẫu thuật gan mật tụy, Phẫu thuật đại - trực tràng và hậu môn - trực tràng....
+
+### 1.5. Phân loại xử trí ngoại khoa
+Xử trí ngoại khoa được chia làm 4 loại tùy theo mức độ khẩn cấp:
+1. **Mổ tối khẩn:** Phải mổ ngay lập tức, không được chờ đợi, nếu không bệnh nhân sẽ tử vong (ví dụ: vết thương tim, vết thương mạch máu lớn đang chảy máu dữ dội...).
+2. **Mổ cấp cứu:** Có thể cần một vài giờ để chuẩn bị hồi sức (ví dụ: tắc ruột, thủng dạ dày, viêm đường mật do sỏi, chấn thương hay vết thương bụng, máu tụ trong sọ...).
+3. **Mổ cấp cứu trì hoãn:** Cần một vài ngày chuẩn bị, nâng cao thể trạng, cải thiện tình trạng toàn thân và/hoặc tại chỗ để mổ trong điều kiện thuận lợi hơn (ví dụ: hẹp môn vị, trĩ sa nghẹt, sỏi ống mật, ung thư các loại...).
+4. **Mổ chương trình (mổ phiên):** Mổ theo lịch hẹn trước khi toàn trạng ổn định (ví dụ: bướu giáp, thoát vị bẹn, sỏi niệu, u xơ tiền liệt tuyến, trĩ không biến chứng...).
+
+---
+
+## 2. LỊCH SỬ NGOẠI KHOA
+
+### 2.1. Thời Cổ đại
+* **Sơ khởi:** Các nỗ lực xoa bóp, lấy dị vật vết thương, chích rạch bọng nước, trị bỏng, cắt bỏ phần cơ thể bị chấn thương... đã có từ thời xa xưa.
+* **Khoan sọ (*Trephination*):** Được thực hiện từ khoảng 10.000 đến 5.000 năm TCN bằng dụng cụ sơ đẳng để điều trị viêm xương, tổn thương trong sọ hoặc vì mục đích tâm linh trị động kinh, nhức đầu, bệnh tâm thần.
+* **Ai Cập cổ đại (2250 TCN):** Cắt da quy đầu, cắt tinh hoàn, rạch ung nhọt, nắn xương gãy, cưa chân tay, lấy sỏi bàng quang, biết dùng thuốc phiện.
+* **Ấn Độ cổ đại:** **Susruta** (khoảng 600 TCN) được coi là cha đẻ của ngoại khoa Ấn Độ, tác giả bộ sách *Susruta Samhita* (6 quyển), thiết kế 125 dụng cụ mổ, mô tả 300 loại phẫu thuật/thủ thuật, mổ lấy cườm mắt, mổ tạo hình, mổ răng, khâu ruột bằng kiến đầu to....
+* **Hy Lạp cổ đại:** **Hippocrates** (460–377 TCN) là cha đẻ của Y học phương Tây, tác giả bộ *Corpus Hippocraticum*, xem Y học là hệ thống thực nghiệm kết hợp nội - ngoại khoa, mô tả nắn trật khớp vai (phương pháp Hippocrates), mổ rò hậu môn, trĩ, dẫn lưu mủ màng phổi, đưa ra Lời thề Hippocrates.
+* **La Mã cổ đại:** **Galen** (130–200 SCN) nghiên cứu giải phẫu trên súc vật (do cấm mổ tử thi người), tác giả hơn 400 công trình, nhà sáng lập sinh lý học thực nghiệm. Tuy nhiên, ông có sai lầm khi gán giải phẫu động vật vào con người và bị ảnh hưởng bởi triết học duy tâm, làm ảnh hưởng Y học suốt 15 thế kỷ.
+
+### 2.2. Thời Trung cổ (476 – 1453 SCN)
+* Y học phương Tây thoái triển nghiêm trọng do nhà thờ thống trị, mổ tử thi bị cấm.
+* **Phân chia phẫu thuật viên ở Pháp (Hội đồng Tour 1163):** Bị cấm dạy ở ĐH Y Paris, chia làm *Phẫu thuật viên áo dài* (được đào tạo ở trường Saint-Côme) và *Phẫu thuật viên áo ngắn / thợ cạo*. Đẳng cấp xã hội: Thầy thuốc -> Phẫu thuật viên -> Thợ cạo.
+* **Trường Salerno (Ý, thế kỷ IX–XII):** Trường thế tục không bị nhà thờ kiểm soát, đào tạo Constantine (dịch sách Latinh), Roger (viết cuốn *Cyrurgia Rogeri* 1170 - sách ngoại khoa đầu tiên ở phương Tây), William (*Cyrurgia* 1210-1280).
+* **Thế giới Hồi giáo:** **Al-Zahwari** (936–1013 SCN) được coi là cha đẻ của ngoại khoa hiện đại, tác giả bách khoa toàn thư *Al-Tasreef* (30 quyển), đi tiên phong dùng chỉ cotton cột mạch máu, dùng chỉ ruột động vật, đốt nhiệt/sáp/cồn cầm máu, phẫu thuật lột tĩnh mạch giãn, mổ sỏi bàng quang.
+
+### 2.3. Thời Phục hưng
+* Cho phép mổ xác trở lại, giải phẫu học phát triển mạnh với sự tham gia của các họa sĩ như Leonardo da Vinci, Michelangelo....
+* **Andreas Vesalius** (1514–1564): Cha đẻ của giải phẫu học hiện đại, giáo sư ĐH Padua năm 23 tuổi, xuất bản bộ sách kiệt xuất *De Humani Corporis Fabrica* (1543, 7 quyển) đánh tan các sai lầm của Galen.
+* **Ambroise Paré** (1509–1590): Phẫu thuật viên vĩ đại nhất thế kỷ XVI, xuất thân thợ cạo thành ngự y cho 5 đời vua Pháp, đề xướng thắt mạch máu cầm máu thay cho đốt nóng, sáng chế dụng cụ mổ và chân tay giả.
+* **Richard Wiseman** (1621–1686): Cha đẻ của phẫu thuật Anh, đúc kết kinh nghiệm từ 600 ca mổ.
+* **Thế kỷ XVIII (Thời kỳ Khai sáng):** Các phẫu thuật viên - giải phẫu học (Cheselden, Pott, Hunter, Desault, Scarpa...) nâng tầm ngoại khoa ngang hàng với nội khoa. **John Hunter** (1728–1793) mở đường cho phẫu thuật thực nghiệm, đặt ngoại khoa trên nền tảng khoa học căn cơ.
+
+### 2.4. Thời Cận đại và Hiện đại (Thế kỷ XIX đến nay)
+
+#### NHỮNG PHÁT MINH, TIẾN BỘ LIÊN QUAN ĐẾN NGOẠI KHOA
+* **Vô cảm:** 
+  * Paracelsus (thế kỷ XVI) và Frobenius (1730) phát hiện Ether.
+  * Crawford W. Long (1842) nghiên cứu tính chất Ether.
+  * Ngày 16/10/1846, William T.G. Morton trình diễn gây mê bằng Ether lấy u xương hàm thành công.
+  * Chloroform và Nitrous oxide (khí gây cười) ra đời giúp tiến hành các phẫu thuật lớn, kéo dài.
+* **Hồi sức:** Haller (liên kết thần kinh - cơ), Magendie (dẫn truyền tủy sống, morphine), Claude Bernard (thăng bằng nước - điện giải, nội môi), Blalock (bệnh sinh sốc), Moore (chuyển hóa hậu phẫu), Road (nuôi dưỡng tĩnh mạch TPN).
+* **Truyền máu:** James Blundell (1818) truyền máu đầu tiên cho sản phụ. Karl Landsteiner (1900) phát hiện 4 nhóm máu hệ ABO (đạt giải Nobel 1930), mở đường cho truyền máu an toàn trong phẫu thuật.
+* **Vô trùng:** 
+  * Ignaz Semmelweis (1847): Rửa tay bằng dung dịch nước pha muối chlorinate lime giúp giảm nhiễm trùng hậu sản.
+  * Louis Pasteur (1860): Phát hiện vi trùng là nguyên nhân gây nhiễm trùng.
+  * Joseph Lister (1865): Dùng carbolic acid (phenol) phun vô trùng phòng mổ và sát trùng vết thương.
+* **Kháng sinh:** Alexander Fleming tìm ra Penicillin năm 1928 (Nobel 1945), kiểm soát nhiễm trùng hiệu quả.
+* **Laser:** Einstein (1917), Townes (1954), Maiman (1960 chế tạo Laser đầu tiên); ứng dụng Laser Ruby, He-Ne, Ar, Nd-YAG, CO2 trong phẫu thuật.
+
+#### NHỮNG PHÁT MINH, TIẾN BỘ VỀ PHƯƠNG TIỆN CHẨN ĐOÁN
+* **X-quang:** Roentgen phát hiện tia X năm 1895 (Nobel 1901), ứng dụng Y học từ những năm 1920.
+* **Siêu âm:** Đen trắng, màu, Doppler, siêu âm nội soi (EUS).
+* **Nội soi:** Ống soi mềm ra đời từ những năm 1960 giúp quan sát, sinh thiết và can thiệp trong lòng tạng rỗng.
+* **Chụp cắt lớp vi tính (CT scan):** Ra đời đầu những năm 1970, cho phép tái tạo hình ảnh đa mặt phẳng.
+* **Cộng hưởng từ (MRI):** Raymond Damedian chế tạo máy đầu tiên năm 1977, ưu thế trong mô mềm, thần kinh, sản chậu, an toàn cho phụ nữ mang thai và trẻ em.
+
+#### NHỮNG PHÁT MINH, TIẾN BỘ TRONG LĨNH VỰC NGOẠI KHOA VÀ CAN THIỆP
+* **Tuần hoàn ngoài cơ thể:** John H. Gibbon (đầu những năm 1950) phát minh máy tim phổi nhân tạo, mở đường cho mổ tim hở.
+* **Vi phẫu thuật:** Jules Jacobson (1960) khai sinh ngành vi phẫu, cho phép khâu nối mạch máu nhỏ đến 0,5 mm và nối thần kinh.
+* **Thay tạng & Ghép tạng:** Ghép thận (1954), ghép gan (1963), ghép tim (1967).
+* **Tán sỏi ngoài cơ thể (ESWL):** Áp dụng từ năm 1980.
+* **Can thiệp qua nội soi & Can thiệp nội mạch:** Thắt tĩnh mạch thực quản, cắt polyp, ERCP lấy sỏi mật, nong/đặt stent mạch vành, gây tắc mạch TACE....
+* **Phẫu thuật nội soi:** Jacobaeus dùng thuật ngữ *laparoscopy* (1910); Kurt Semm cắt ruột thừa nội soi (1981); Mouret cắt túi mật nội soi (1987). Tại Việt Nam, Nguyễn Tấn Cường cắt túi mật nội soi đầu tiên năm 1992. Các hình thức: nội soi kinh điển, có bàn tay hỗ trợ, một vết mổ (SILS), qua lỗ tự nhiên (NOTES), TEM....
+* **Phẫu thuật bằng Robot:** Hệ thống robot Da Vinci. Ca mổ từ xa xuyên lục địa đầu tiên ngày 7/9/2001 do Jacques Marescaux và Michel Gagner điều khiển từ New York cắt túi mật nội soi cho bệnh nhân ở Strasbourg (Pháp) cách 14.000 km, thời gian mổ 54 phút, độ trễ 155 ms.
+
+#### CÁC PHẪU THUẬT VIÊN TIÊU BIỂU
+* **John Hunter** (1728–1793): Mở đường cho phẫu thuật thực nghiệm.
+* **Joseph Roux** (1780–1854): Phẫu thuật viên tiêu hóa, tạo kiểu nối Roux-en-Y.
+* **Bernhard von Langenbeck** (1810–1887): Cha đẻ mô hình đào tạo bác sĩ nội trú bệnh viện.
+* **Theodor Billroth** (1829–1894): Phẫu thuật viên tiêu hóa kiệt xuất với các phương pháp cắt dạ dày.
+* **Theodor Kocher** (1841–1917): Mở đường cho phẫu thuật tuyến giáp (đạt giải Nobel 1909).
+* **William Halsted** (1852–1922): Đề ra nguyên tắc bóc tách mô, khâu từng lớp, dùng găng tay vô trùng.
+* **Rudolph Matas** (1860–1957): Mở đường cho phẫu thuật mạch máu.
+* **Alexis Carrel** (1873–1944): Phẫu thuật thực nghiệm, nối mạch máu, ghép tạng (Nobel 1912).
+* **Alfred Blalock** (1899–1964): Đóng góp về bệnh sinh của sốc và phẫu thuật tim.
+* **John Gibbon** (1903–1973): Phát minh máy tim phổi nhân tạo.
+* **Michael E. DeBakey** (1908–2008): Phẫu thuật tim mạch, phát minh máy bơm trợ giúp tâm thất.
+* **Christian Barnard** (1922–2001): Ca ghép tim người đầu tiên ngày 3/12/1967.
+* **Tôn Thất Tùng** (1912–1982): Người mở đường cho Ngoại khoa Việt Nam, nổi tiếng thế giới với phương pháp cắt gan qua chủ mô (phương pháp Tôn Thất Tùng).
+
+---
+
+## 3. TRIỂN VỌNG CỦA NGOẠI KHOA
+
+* **Tương lai gần:**
+  * Tiếp tục cải tiến chất lượng hình ảnh trong phẫu thuật nội soi.
+  * Cải tiến ứng dụng các nguồn năng lượng (siêu âm, điện đơn cực, điện lưỡng cực...) giúp phẫu tích và cầm máu tối ưu, ít tổn thương mô.
+  * Phát triển máy khâu nối tự động thế hệ mới và kết hợp nhiều ngả nội soi (lấy bệnh phẩm qua lỗ tự nhiên).
+  * Xây dựng phòng mổ thông minh, tích hợp công nghệ tin học ("phòng mổ không người" - phẫu thuật viên điều khiển từ bên ngoài).
+  * Phát triển phẫu thuật robot có cảm giác xúc giác, gọn nhẹ hơn, chi phí thấp hơn và ứng dụng phẫu thuật từ xa (*telesurgery*).
+* **Tương lai xa:**
+  * Phẫu thuật với robot nhỏ (*minirobot*) đi qua các lỗ tự nhiên để tìm thương tổn và thao tác phẫu thuật.
+  * Phẫu thuật với robot siêu nhỏ (*nanorobot*) tiêm truyền qua mạch máu để điều trị tại cơ quan đích.
+  * Phẫu thuật sửa chữa tế bào, sửa chữa gene (*Cellular surgery, Biosurgery*).
+
+---
+
+### TÓM TẮT NHANH
+* Ngoại khoa xuất phát từ nghĩa "làm bằng tay", ngày nay phát triển theo hướng xâm hại tối thiểu nhưng giữa Ngoại khoa và Nội khoa luôn có mối liên quan hỗ tương mật thiết.
+* Tố chất phẫu thuật viên hiện đại đòi hỏi mô hình "3 TỐT": Phẫu thuật viên tốt, Thầy thuốc tốt và Người tốt.
+* Xử trí ngoại khoa chia làm 4 loại: Mổ tối khẩn, Mổ cấp cứu, Mổ cấp cứu trì hoãn và Mổ chương trình.
+* Lịch sử Ngoại khoa trải qua các giai đoạn Cổ đại, Trung cổ, Phục hưng và bùng nổ ở thời Cận - Hiện đại nhờ 6 trụ cột tiến bộ: Vô cảm, Hồi sức, Truyền máu, Vô trùng, Kháng sinh và Laser.
+* Triển vọng tương lai hướng tới phẫu thuật xâm hại tối thiểu, phòng mổ thông minh, phẫu thuật Robot từ xa, Minirobot, Nanorobot và phẫu thuật tế bào/gene.
+
+---
+
+### CÂU HỎI TỰ KIỂM TRA
+1. Khái niệm ngoại khoa xuất phát từ gốc từ nào và tại sao ngày nay tạng không bị bộc lộ ra ngoài nhưng tên gọi "ngoại khoa" vẫn được giữ nguyên?
+2. Phân tích mối quan hệ chuyển biến qua lại giữa Nội khoa và Ngoại khoa qua các ví dụ lâm sàng cụ thể.
+3. Mô tả mô hình "3 TỐT" về tố chất của một phẫu thuật viên trong thời đại hiện nay.
+4. Phân biệt 4 loại xử trí phẫu thuật (mổ tối khẩn, mổ cấp cứu, mổ cấp cứu trì hoãn, mổ chương trình) và cho ví dụ cho từng loại.
+5. Kể tên 6 phát minh/tiến bộ quan trọng thúc đẩy ngành Ngoại khoa phát triển mạnh mẽ từ thế kỷ XIX đến nay và nêu vai trò của phẫu thuật viên Tôn Thất Tùng.

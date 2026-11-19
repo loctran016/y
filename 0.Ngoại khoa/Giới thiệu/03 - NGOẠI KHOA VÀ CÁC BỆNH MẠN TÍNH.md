@@ -1,0 +1,303 @@
+---
+title: "NGOẠI KHOA VÀ CÁC BỆNH MẠN TÍNH"
+tags: [giang-bai]
+created: 2026-11-19
+nguon: NotebookLM
+---
+
+# NGOẠI KHOA VÀ CÁC BỆNH MẠN TÍNH
+*Tác giả: Nguyễn Phúc Minh, Lê Văn Quang*
+
+---
+
+### MỤC TIÊU BÀI HỌC
+1. Trình bày các bệnh mạn tính có ảnh hưởng đến phẫu thuật.
+2. Trình bày những ảnh hưởng của bệnh mạn tính liên quan với công tác phẫu thuật.
+3. Xác định được các yếu tố nguy cơ khi phẫu thuật ở bệnh nhân có bệnh mạn tính.
+* **Từ khóa:** Ngoại khoa, bệnh mạn tính, rối loạn đông cầm máu, bệnh mạch vành, suy dinh dưỡng, thuyên tắc, huyết khối.
+
+---
+
+## 1. ĐẠI CƯƠNG
+
+Chào các bạn sinh viên, hôm nay chúng ta sẽ cùng tìm hiểu bài **Ngoại khoa và các bệnh mạn tính**. Trong thực hành y khoa hiện đại, người bệnh đến với chúng ta thường vì một lý do ngoại khoa cấp thiết hoặc nổi bật, nhưng họ cũng đồng thời mang sẵn trong người một hoặc nhiều bệnh mạn tính đã được điều trị kéo dài nhiều tháng, nhiều năm. 
+
+### 1.1. Khái niệm và phân loại bệnh mạn tính
+* **Định nghĩa:** Bệnh mạn tính là những bệnh lý tiến triển dần dần, kéo dài từ **3 tháng trở lên**, thông thường không thể phòng ngừa bằng tiêm ngừa cũng như không thể trị khỏi hoàn toàn chỉ bằng thuốc.
+* **Phân loại:**
+  * *Bệnh mạn tính không lây:* Tăng huyết áp, đái tháo đường...
+  * *Bệnh mạn tính có lây:* Nhiễm HIV, lao...
+
+### 1.2. Thách thức ngoại khoa và tầm quan trọng của điều trị nền tảng
+Phẫu thuật đôi khi là lựa chọn bắt buộc không thể tránh khỏi đối với bệnh nhân có bệnh mạn tính kèm theo. Sự thành công của điều trị ngoại khoa phụ thuộc vào nhiều yếu tố: chẩn đoán đúng bệnh, chỉ định mổ chính xác và kịp thời, sử dụng đúng phương tiện phẫu thuật, áp dụng phương pháp phẫu thuật và vô cảm hợp lý; nhưng **quan trọng nhất là đánh giá đúng và đầy đủ tình trạng tổng thể của người bệnh trong suốt quá trình điều trị**.
+
+Chính những bệnh mạn tính đi kèm không ít lần là nguyên nhân làm thất bại kết quả điều trị ngoại khoa. Do đó, việc phát hiện và điều trị ổn định các bệnh lý này trước mổ là điều kiện quyết định để đạt hiệu quả điều trị cao nhất. Điều trị nội khoa phải được xem là phần căn bản nhất và là nền tảng của phương pháp điều trị toàn diện.
+
+### 1.3. Đòi hỏi trong điều trị phẫu thuật
+Điều trị ngoại khoa đòi hỏi sự phối hợp thuần thục của nhiều chuyên ngành. Người bệnh không chỉ dùng thuốc đơn thuần mà còn phải chịu đựng cuộc mổ qua các phương pháp vô cảm, phải đủ thể lực vượt qua đau đớn sau mổ, và phải có đủ các yếu tố thuận lợi cho sự lành vết thương. Tất cả các bệnh lý gây cản trở những điều kiện này đều làm ảnh hưởng xấu đến quá trình điều trị.
+
+### 1.4. Phân loại ASA và nguy cơ phẫu thuật
+Tùy theo tình trạng sức khỏe toàn thân của người bệnh, tỷ lệ tử vong thay đổi rõ rệt từ **0,01% (Loại 1) đến 18% (Loại 4)** theo cách phân loại của Hiệp hội Gây mê Hoa Kỳ (ASA năm 1963):
+* **Loại 1:** Bệnh nhân khỏe mạnh bình thường (tỷ lệ tử vong 0,01%).
+* **Loại 2:** Bệnh nhân có bệnh toàn thân nhẹ.
+* **Loại 3:** Bệnh nhân có bệnh toàn thân nặng nhưng còn khả năng vận động.
+* **Loại 4:** Bệnh nhân có bệnh toàn thân nặng – không còn khả năng hoạt động (tỷ lệ tử vong 18%).
+* **Loại 5:** Bệnh nhân có nguy cơ tử vong trong vòng 24 giờ.
+
+Bên cạnh tình trạng sức khỏe toàn thân, **loại phẫu thuật** cũng ảnh hưởng lớn đến nguy cơ: các phẫu thuật sọ não, tim, lồng ngực, phẫu thuật bụng lớn, phẫu thuật trên bệnh nhân đa chấn thương... thường có nguy cơ tử vong cao hơn các phẫu thuật khác, và tỷ lệ này còn cao hơn nhiều nếu bệnh nhân có bệnh mạn tính kèm theo. 
+
+Nhà nghiên cứu Linn và cộng sự đã đúc kết: *“Sự hiện diện của bệnh lý tại chỗ và bệnh toàn thân sẽ xác định nguy cơ tử vong trong thời gian nằm viện, ảnh hưởng đến quyết định phẫu thuật”*. Thầy thuốc ngoại khoa luôn phải cân nhắc lợi - hại giữa điều trị bảo tồn và phẫu thuật, đồng thời chọn lựa thời điểm can thiệp thích hợp. Ngoài ra, một số bệnh mạn tính còn có nguy cơ lây nhiễm cho người xung quanh và nhân viên y tế.
+
+---
+
+## 2. BỆNH HỆ THẦN KINH
+
+Các bệnh mạn tính thuộc hệ thần kinh chia làm hai nhóm chính được tóm tắt trong Bảng 1:
+
+#### Bảng 1. Các bệnh mạn tính của hệ thần kinh
+| Bệnh hệ thần kinh trung ương, tủy sống | Bệnh hệ thần kinh cơ ngoại biên |
+| :--- | :--- |
+| U não <br> Dị dạng mạch máu não: túi phình, rò <br> Não úng thủy <br> Di chứng sau chấn thương sọ não <br> Động kinh <br> Sa sút trí tuệ người già: Alzheimer, Parkinson <br> Xơ cứng cột bên teo cơ <br> Di chứng chấn thương tủy sống | Hội chứng Guillain-Barré <br> Bệnh nhược cơ <br> Loạn dưỡng cơ (Duchenne, Becker...) <br> Teo cơ |
+
+### 2.1. Ảnh hưởng khi phẫu thuật
+* Bệnh nhân trước mổ thường đang sử dụng các thuốc: chống đông máu, corticoid, chống co giật, chống động kinh.
+* Đòi hỏi phải sử dụng liều thuốc giảm đau, an thần cao hơn so với liều thông thường.
+* Gây rối loạn các chức năng hệ thần kinh điều khiển hoạt động của các hệ cơ quan khác như hệ thần kinh tự động, hệ hô hấp, tiêu hóa, tim mạch...
+
+### 2.2. Các nguy cơ phẫu thuật ở nhóm bệnh hệ thần kinh
+* Tai biến mạch máu脑 (não): thuyên tắc, huyết khối, vỡ mạch máu.
+* Rối loạn chức năng co bóp cơ tim, rối loạn dẫn truyền.
+* Rối loạn chuyển hóa, rối loạn nước và điện giải.
+* Thuyên tắc tĩnh mạch sâu, suy hô hấp, tụt huyết áp.
+* Hít sặc, liệt dạ dày - ruột kéo dài sau mổ.
+* Rối loạn trí giác, tâm thần, kéo dài thời gian nằm viện, tăng nguy cơ nhiễm trùng bệnh viện và nhiễm trùng sau mổ.
+* Hội chứng tăng thân nhiệt ác tính, ly giải cơ vân sau mổ...
+
+### 2.3. Các lưu ý lâm sàng đặc thù
+* **Mảng xơ vữa động mạch cảnh:** Các bệnh do tắc nghẽn mạch máu não hay gặp ở người già. Ở nhóm bệnh nhân này, nếu huyết áp tụt thấp, thiếu oxy não hoặc tăng độ quánh của máu sẽ làm nặng thêm tình trạng thiếu máu não sẵn có và dẫn đến đột quỵ sau mổ.
+* **Cơn co thắt mạch não thoáng qua (TIA):** Tiền sử có TIA là một yếu tố nguy cơ rất cao, có tới **30% bệnh nhân trong số này sẽ bị đột quỵ sau mổ**.
+* **Tai biến mạch máu脑 mới xảy ra:** Cần khoảng **6 – 8 tuần** để hồi phục ổn định tuần hoàn não tại vùng tổn thương; do đó, phẫu thuật bị **chống chỉ định** trong thời gian này.
+* **Bệnh động kinh:** Nếu kiểm soát tốt thường không xảy ra tai biến, nhưng cần theo dõi nồng độ thuốc chống động kinh trong máu (nhất là giai đoạn chưa dùng lại thuốc uống). Cơn động kinh xuất hiện trong thời kỳ hậu phẫu có thể gây thiếu oxy brain (não), chảy máu, hoặc làm bung vết khâu thành bụng do co giật mạnh.
+
+---
+
+## 3. BỆNH HỆ TIM MẠCH
+
+Phân loại các bệnh mạn tính hệ tim mạch được thể hiện trong Bảng 2:
+
+#### Bảng 2. Các bệnh mạn tính hệ tim mạch
+| Nhóm bệnh tim | Nhóm có đặt thiết bị điện tử | Nhóm bệnh mạch máu ngoại biên |
+| :--- | :--- | :--- |
+| Bệnh mạch vành: thiếu máu cơ tim, cơn đau thắt ngực, sau nhồi máu cơ tim <br> Suy tim <br> Bệnh van tim <br> Rối loạn nhịp tim | Máy tạo nhịp <br> Máy khử rung | Tăng huyết áp <br> Phình mạch máu: Động mạch chủ... <br> Hẹp mạch máu: động mạch thận, động mạch cảnh <br> Suy tĩnh mạch |
+
+### 3.1. Ảnh hưởng khi phẫu thuật
+* **Stress và gánh nặng lên cơ tim:** Phẫu thuật gây đau đớn thể xác và stress tinh thần lo sợ, khiến cơ tim phải tăng cường độ hoạt động gấp nhiều lần bình thường. Bệnh nhân mới bị nhồi máu cơ tim (NMCT) ít ngày trước mổ hay có biến chứng tim mạch đều có nguy cơ tử vong rất cao khi mổ (ở người không có tiền sử bệnh tim mạch khi gây mê, tỷ lệ này chỉ là **0,2%**).
+* **Dùng thuốc ảnh hưởng phẫu thuật:** Bệnh nhân đang dùng thuốc chống đông máu, thuốc ức chế tiểu cầu.
+* **Ảnh hưởng thiết bị cấy ghép:** Việc chuẩn bị phẫu thuật với các cận lâm sàng như chụp cộng hưởng từ (MRI), dùng chất cản quang... có thể làm ảnh hưởng đến hoạt động của máy tạo nhịp hoặc máy khử rung cấy trong người.
+* **Bệnh phối hợp:** Bệnh mạch máu ngoại biên thường kèm theo đái tháo đường, suy thận mạn.
+
+### 3.2. Các nguy cơ phẫu thuật và chỉ số tiên lượng
+* Biến cố tim mạch: Nhồi máu cơ tim, loạn nhịp tim.
+* **Tiên lượng tái phát NMCT theo thời gian tiền sử:**
+  * **30% tái phát** nếu có tiền sử NMCT trong vòng **3 tháng trước**.
+  * **15% tái phát** nếu có tiền sử NMCT từ **3 – 6 tháng trước**.
+  * **5% tái phát** nếu có tiền sử NMCT **> 6 tháng trước**.
+* **Suy tim ứ huyết:** Tỷ lệ tử vong lên tới **20%** đối với bệnh nhân suy tim không được kiểm soát tốt, so với **5% tử vong** nếu tình trạng suy tim được điều trị ổn định trước mổ.
+* **Biến cố khác:** Chảy máu do dùng thuốc kháng đông, suy hô hấp, thuyên tắc phổi, thuyên tắc/huyết khối/vỡ mạch máu.
+* **Tăng huyết áp:**
+  * Có thể gây ra các biến chứng suy tim trái, suy tim toàn bộ, vỡ mạch máu não (nhũn brain, xuất huyết brain), suy thận.
+  * Trong ngoại khoa, tăng huyết áp gây chảy máu trong và sau mổ. Quá trình khởi mê, hồi tỉnh, và đau hậu phẫu có thể làm huyết áp tăng vọt đột ngột gây tai biến mạch máu não hay biến cố tim mạch.
+  * Cần kiểm soát huyết áp ổn định trong suốt quá trình điều trị, đặc biệt cẩn trọng trong các phẫu thuật về **mắt và sọ não**.
+
+---
+
+## 4. BỆNH GAN
+
+### 4.1. Vai trò của gan và ảnh hưởng phẫu thuật
+Gan là nhà máy sản xuất sinh hóa chính thực hiện hầu hết các quy trình biến dưỡng của cơ thể, đồng thời sản xuất prothrombin (yếu tố II), các yếu tố V, VII và X có vai trò quan trọng trong cơ chế đông máu. Đánh giá chức năng gan là bắt buộc trước mổ.
+
+* **Độc tính của thuốc mê và dược phẩm:** Tất cả các thuốc gây mê và dược phẩm điều trị đều chuyển hóa tại gan. Khi chức năng gan suy giảm, thuốc tồn tại kéo dài gây hại cho cơ thể và làm tế bào gan bị ngộ độc, hủy hoại thêm.
+* **Xơ gan và tăng áp tĩnh mạch cửa:** Các tác nhân như rượu, viêm gan siêu vi B, C, gan nhiễm mỡ hóa sợi, tắc mật lâu ngày, độc chất... gây phá hủy tế bào gan dẫn đến xơ gan và tăng áp lực tĩnh mạch cửa.
+* **Đặc điểm siêu vi viêm gan:** Các type virus viêm gan gồm A, B, C, D, F, G.... Virus A lây qua đường ăn uống và không gây viêm gan mạn. Các virus còn lại lây qua tiêm chích, máu, tinh dịch, nhau thai, có thể gây viêm gan mạn tính và xơ gan (chiếm khoảng 25%). Nhân viên y tế có nguy cơ bị lây nhiễm qua tổn thương do y dụng cụ sắc nhọn dính máu (khoảng **15% sẽ bị nhiễm** sau tổn thương), do đó cần chủ động tiêm vắc-xin phòng bệnh.
+
+### 4.2. Ảnh hưởng và nguy cơ khi phẫu thuật ở bệnh nhân có bệnh gan
+* **Ảnh hưởng:** Các yếu tố đông máu bị sụt giảm; tế bào gan bị ngộ độc/hủy hoại thêm do thuốc mê và thuốc chuyển hóa qua gan; dịch báng bụng/màng phổi cản trở hô hấp và chức năng tạng lân cận.
+* **Nguy cơ phẫu thuật:**
+  * Chảy máu vết mổ, rối loạn đông cầm máu.
+  * Chảy máu tiêu hóa do tăng áp lực tĩnh mạch cửa.
+  * Suy gan cấp, hôn mê gan.
+  * Nhiễm trùng sau mổ.
+
+---
+
+## 5. BỆNH HÔ HẤP
+
+Các bệnh hô hấp mạn tính gồm: bệnh phổi tắc nghẽn mạn tính (COPD), hen suyễn, bệnh phổi hạn chế, suy tim ứ huyết. 
+
+### 5.1. Thói quen hút thuốc lá và ảnh hưởng của phẫu thuật
+* **Hút thuốc lá:** Là nguyên nhân chính gây COPD và ảnh hưởng xấu đến trao đổi khí ở phổi. Để tránh biến chứng hô hấp sau phẫu thuật, khuyến cáo lý tưởng nhất là **ngưng hút thuốc lá ít nhất 8 tuần trước mổ**.
+* **Ảnh hưởng của gây mê - phẫu thuật:**
+  * Thông khí áp lực và thuốc vô cảm ảnh hưởng trực tiếp đến chức năng hô hấp. Có tới **90% bệnh nhân được gây mê có xẹp phổi ở các mức độ khác nhau**.
+  * Tư thế nằm mổ làm xẹp phổi do chèn ép, giảm thể tích khí cặn (FRC), gia tăng khoảng chết, giảm oxy máu, giảm hoạt động thực bào tại phế nang.
+  * Béo phì làm gia tăng nguy cơ ảnh hưởng chức năng hô hấp trong và sau mổ.
+
+### 5.2. Các nguy cơ phẫu thuật và tỷ lệ biến chứng
+* **Các nguy cơ:** Viêm phổi, co thắt phế quản, xẹp phổi, suy hô hấp, thở máy kéo dài.
+* **Tỷ lệ biến chứng phổi:** Trung bình xảy ra khoảng **5 – 7%**. Tỷ lệ này:
+  * Tăng **gấp đôi** đối với phẫu thuật ở bụng.
+  * Tăng **gấp 3 lần** đối với người hút thuốc lá.
+  * Tăng **gấp 4 lần** đối với người có sẵn bệnh phổi tắc nghẽn mạn tính (COPD).
+
+---
+
+## 6. BỆNH THẬN
+
+Bệnh thận mạn đặc trưng bởi sự giảm độ lọc cầu thận (**GFR < 60 mL/phút/1,73m²**) hoặc có bằng chứng tổn thương thận (tiểu đạm, tiểu máu, bất thường hình ảnh học, sinh thiết thận).
+
+### 6.1. Ảnh hưởng khi phẫu thuật
+* Ngay cả các phẫu thuật phổ biến như phẫu thuật nội soi cũng làm suy giảm chức năng thận thoáng qua.
+* Thuốc cản quang chứa iod dùng trong chẩn đoán và thủ thuật can thiệp có thể gây suy thận cấp do thuốc / bệnh thận do thuốc cản quang.
+* Các thuốc có nguy cơ độc cho thận cần được chú ý điều chỉnh hoặc giảm liều khi có suy thận.
+
+### 6.2. Các nguy cơ phẫu thuật và Bảng phân loại suy thận cấp
+* Nguy cơ chính: Suy thận cấp, tổn thương thận cấp, suy thận mạn nặng hơn.
+
+#### Bảng 3. Nguy cơ suy thận cấp ở bệnh nhân phẫu thuật tổng quát
+| Phân loại nguy cơ | Tỷ lệ % có tổn thương thận cấp |
+| :--- | :--- |
+| **Nhóm 1** (0 - 2 yếu tố nguy cơ) | 0,2% |
+| **Nhóm 2** (3 yếu tố nguy cơ) | 0,8% |
+| **Nhóm 3** (4 yếu tố nguy cơ) | 1,8% |
+| **Nhóm 4** (5 yếu tố nguy cơ) | 3,3% |
+| **Nhóm 5** (> 6 yếu tố nguy cơ) | 8,9% |
+
+*Các yếu tố nguy cơ trong Bảng 3 bao gồm:* Tuổi > 56, nam giới, phẫu thuật cấp cứu, phẫu thuật ở bụng, đái tháo đường, suy tim, báng bụng, tăng huyết áp, suy thận nhẹ hay trung bình trước mổ, creatinin/máu > 1,2 mg/dL.
+
+---
+
+## 7. BỆNH NỘI TIẾT
+
+Các bệnh mạn tính thuộc hệ nội tiết bao gồm: Đái tháo đường type 1 hoặc type 2, cường giáp, suy giáp, suy tuyến thượng thận (nguyên phát hay thứ phát), hoặc hiếm gặp hơn như chứng to đầu chi, pheochromocytoma.
+
+### 7.1. Ảnh hưởng của các bệnh lý nội tiết
+* **Đái tháo đường:** Kiểm soát ổn định trước mổ giúp phẫu thuật an toàn. Cần chú ý tổn thương cơ quan đích do tăng đường huyết kéo dài (mạch máu thận, suy giảm miễn dịch, hẹp mạch máu tưới máu mô kém làm chậm lành vết thương).
+* **Suy tuyến thượng thận:** Thường do lạm dụng glucocorticoid kéo dài trước mổ, gây ra các rối loạn biến dưỡng kèm theo như tiểu đường, teo cơ, teo da.
+* **Cường giáp:** Nếu không kiểm soát sẽ ảnh hưởng nặng lên hệ tim mạch (nhịp nhanh, suy tim, suy gan-tim, tay run, yếu cơ, nóng nảy...).
+
+### 7.2. Các nguy cơ khi phẫu thuật
+* Hôn mê do tăng đường huyết, toan chuyển hóa, tăng áp lực thẩm thấu, hoặc hạ đường huyết.
+* Biểu hiện tổn thương cơ quan đích nặng hơn do giảm tưới máu mô (hẹp mạch): suy thận, chậm lành vết thương, nhiễm trùng.
+* **Việc ngừng đột ngột glucocorticoid có thể gây ra tụt huyết áp nghiêm trọng**.
+* Rối loạn nước và điện giải.
+* **Cơn bão giáp trạng (Thyroid storm):** Xảy ra khi tiến hành phẫu thuật ở bệnh nhân cường giáp chưa đưa được chức năng tuyến giáp về bình thường; nguy cơ tử vong rất cao.
+
+---
+
+## 8. SUY GIẢM MIỄN DỊCH
+
+### 8.1. Nguyên nhân suy giảm miễn dịch mạn tính
+Do nhiễm HIV, lao, ung thư, đang hóa trị hay xạ trị ung thư, dùng thuốc ức chế miễn dịch điều trị bệnh tự miễn hoặc ghép cơ quan.
+
+* **Bệnh Lao:** Do trực khuẩn kháng cồn-acid *Mycobacterium tuberculosis* lây qua đường hô hấp. Ống thở và máy giúp thở gây mê sẽ là nơi chứa vi khuẩn nếu không được tiệt trùng đúng quy cách. Tổn thương lao phổi tiến triển tạo hang có thể nặng lên hậu phẫu do nằm lâu, ứ đọng đờm. Nếu không cần can thiệp khẩn cấp, **bắt buộc phải điều trị lao ổn định trước mổ** (hoặc tối thiểu cho đến khi không còn khả năng lây lan).
+* **Hội chứng AIDS:** Do virus HIV tấn công tế bào T4 (CD4) điều hòa miễn dịch. Giai đoạn phát bệnh biểu hiện suy giảm miễn dịch, nhiễm trùng cơ hội, ung thư, suy kiệt. Phẫu thuật trên bệnh nhân AIDS phát bệnh rất dễ bị biến chứng nhiễm trùng và chậm liền vết thương. Lây truyền qua máu, tinh dịch, nhau thai; nhân viên y tế cần cẩn trọng tránh rách xước da.
+
+### 8.2. Ảnh hưởng và nguy cơ phẫu thuật
+* **Ảnh hưởng:** Hệ miễn dịch bị ức chế giảm khả năng bảo vệ; hóa chất và thuốc ức chế miễn dịch gây độc cho cơ tim, gan, thận, thần kinh, hệ tạo máu.
+* **Nguy cơ phẫu thuật:** Nhiễm trùng sau mổ, nhiễm trùng cơ hội; chậm lành vết thương; suy chức năng các cơ quan; nguy cơ lây nhiễm bệnh truyền nhiễm (Lao, HIV, Viêm gan B/C) cho nhân viên y tế và người xung quanh.
+
+---
+
+## 9. RỐI LOẠN ĐÔNG CẦM MÁU
+
+Kiểm soát đông cầm máu là thử thách lớn trong phẫu thuật. Đánh giá chức năng đông cầm máu là bắt buộc.
+
+### 9.1. Các bệnh lý gây rối loạn đông cầm máu thường gặp
+* **Bệnh ưa chảy máu:** Hemophilia A, Hemophilia B, bệnh von Willebrand.
+* **Thiếu máu mạn tính:** Thiếu máu thiếu sắt, hồng cầu hình liềm, đa hồng cầu.
+* **Tăng đông máu:** Thiếu hụt yếu tố V Leiden, thiếu hụt protein C và S, hội chứng kháng thể kháng phospholipid, thiếu hụt antithrombin.
+* **Bất thường tiểu cầu:** Dùng thuốc chống ngưng kết tiểu cầu, bệnh giảm tiểu cầu.
+* **Bệnh gan:** Xơ gan, suy gan, kém hấp thu sinh tố K... làm giảm tổng hợp prothrombin (yếu tố II).
+
+### 9.2. Ảnh hưởng và nguy cơ khi phẫu thuật
+* **Ảnh hưởng:** Phải điều chỉnh các rối loạn đông cầm máu làm trì hoãn cuộc mổ.
+* **Nguy cơ:** Chảy máu sau mổ, chậm lành vết thương, hình thành huyết khối.
+
+---
+
+## 10. DINH DƯỠNG
+
+Rối loạn dinh dưỡng thường gặp ở hai dạng: **Suy dinh dưỡng** (mất cân bằng các thành phần dinh dưỡng) hoặc **Thừa cân, béo phì**.
+
+### 10.1. Ảnh hưởng khi phẫu thuật
+* Chuẩn bị dinh dưỡng làm trì hoãn thời gian phẫu thuật.
+* Phải lựa chọn biện pháp hỗ trợ dinh dưỡng phù hợp sau mổ, nhất là các phẫu thuật can thiệp vào đường tiêu hóa.
+* Người béo phì thường đi kèm các bệnh nội khoa mạn tính như tim mạch, hô hấp, đái tháo đường.
+
+### 10.2. Nguy cơ phẫu thuật
+* **Suy dinh dưỡng:** Làm chậm lành vết thương, tăng nguy cơ nhiễm trùng vết mổ.
+* **Béo phì:** Dễ bị thở máy kéo dài, gia tăng các biến chứng trên hệ tim mạch và hô hấp.
+
+---
+
+## 11. TUỔI TÁC
+
+Người lớn tuổi (**> 65 tuổi**) thường đi kèm sự suy kém chức năng của nhiều cơ quan:
+* **Tim mạch:** Thiếu năng mạch vành tim, xơ vữa động mạch, suy tim.
+* **Phổi:** Viêm phế quản tắc nghẽn mạn tính (COPD), xơ phổi.
+* **Thận:** Nhiễm trùng niệu, suy thận mạn...
+
+Một bệnh lý xảy ra có thể khơi dậy sự suy yếu của các cơ quan khác, làm nặng thêm tình trạng chung. Bệnh nhân lớn tuổi có thể chịu đựng cuộc mổ tương đối bình thường, tuy nhiên **họ không thể vượt qua các biến chứng một cách dễ dàng như người trẻ**. Thời gian phục hồi hậu phẫu dài hơn, đòi hỏi nằm viện và chăm sóc kéo dài hơn.
+
+---
+
+## 12. KẾT LUẬN
+
+Cùng với sự tiến bộ của y học giúp nâng cao tuổi thọ và chất lượng cuộc sống, ngành ngoại khoa sẽ ngày càng gặp nhiều tình huống phẫu thuật trên bệnh nhân có nhiều bệnh mạn tính kèm theo. Điều này đòi hỏi đội ngũ nhân viên y tế phải trang bị đầy đủ kiến thức, kỹ năng và thái độ phối hợp chăm sóc đa chuyên khoa nhằm đạt được hiệu quả điều trị tối ưu nhất cho người bệnh.
+
+---
+
+### TÓM TẮT NHANH
+1. Đánh giá đúng và đầy đủ tình trạng tổng thể của người bệnh là yếu tố quan trọng nhất; phát hiện và điều trị ổn định bệnh mạn tính là nền tảng căn bản cho thành công của phẫu thuật.
+2. Tiền sử nhồi máu cơ tim có ý nghĩa tiên lượng tái phát: 30% (nếu mổ trong 3 tháng đầu), 15% (3–6 tháng), và 5% (> 6 tháng); ngưng hút thuốc lá ít nhất 8 tuần trước mổ giúp giảm đáng kể biến chứng hô hấp.
+3. Tai biến mạch máu não mới xảy ra cần chống chỉ định phẫu thuật trong 6–8 tuần; bệnh nhân cường giáp bắt buộc phải đưa về bình giáp trước mổ để tránh nguy cơ tử vong do Cơn bão giáp.
+4. Bệnh nhân suy thận mạn chạy thận nhân tạo cần được chạy thận trong vòng 24 giờ trước mổ; ngưng đột ngột glucocorticoid lâu ngày sẽ gây tụt huyết áp nghiêm trọng trong và sau mổ.
+5. Người lớn tuổi có thể chịu đựng cuộc mổ tương đối tốt nhưng rất khó vượt qua biến chứng; suy dinh dưỡng làm chậm lành vết thương và tăng nhiễm trùng, trong khi béo phì làm tăng nguy cơ thở máy kéo dài và biến cố tim mạch - hô hấp.
+
+---
+
+### CÂU HỎI TỰ KIỂM TRA
+
+**Câu 1: Chọn phát biểu ĐÚNG về hội chứng Guillain-Barré:**
+A. Bệnh mạn tính của hệ tiêu hóa  
+B. Bệnh mạn tính của hệ hô hấp  
+C. Bệnh mạn tính của hệ thần kinh  
+D. Bệnh mạn tính của hệ nội tiết  
+* **👉 Đáp án:** **C. Bệnh mạn tính của hệ thần kinh**.
+
+**Câu 2: Bệnh nhân nam 56 tuổi, BMI = 34 kg/m² được lên lịch phẫu thuật nội soi cắt túi mật. Cận lâm sàng: Glucose = 6,0 mmol/L, Ure = 4,4 mmol/L, Creatinin = 68 µmol/L. Đánh giá nguy cơ phẫu thuật đúng nhất là:**
+A. Tình trạng béo phì, tiểu đường tăng nguy cơ thở máy kéo dài  
+B. Tình trạng suy dinh dưỡng, suy thận mạn tăng nguy cơ chậm lành vết thương  
+C. Tình trạng béo phì, tăng nguy cơ nhiễm trùng vết mổ  
+D. Tình trạng tiểu đường, suy thận mạn tăng nguy cơ nhiễm trùng vết mổ  
+* **👉 Đáp án:** **C. Tình trạng béo phì, tăng nguy cơ nhiễm trùng vết mổ** (hoặc béo phì gây biến chứng hô hấp, thở máy kéo dài; ở đây bệnh nhân có BMI = 34 kg/m² thuộc nhóm béo phì).
+
+**Câu 3: Để đánh giá nguy cơ tăng đông máu của người bệnh, xét nghiệm nào sau đây cần được chỉ định:**
+A. INR  
+B. Protein S và C  
+C. Prothrombin time (PT)  
+D. Đếm tiểu cầu  
+* **👉 Đáp án:** **B. Protein S và C**.
+
+**Câu 4: Để phòng tránh biến chứng hô hấp sau phẫu thuật, người bệnh cần ngưng hút thuốc lá trước mổ tối thiểu:**
+A. 2 tuần  
+B. 4 tuần  
+C. 6 tuần  
+D. 8 tuần  
+* **👉 Đáp án:** **D. 8 tuần**.
+
+**Câu 5: Ngưng đột ngột glucocorticoid ở bệnh nhân có tiền sử sử dụng liều cao kéo dài trước mổ sẽ dẫn đến nguy cơ nào sau đây:**
+A. Hôn mê toan chuyển hóa  
+B. Tăng huyết áp  
+C. Tụt huyết áp  
+D. Hôn mê tăng áp lực thẩm thấu  
+* **👉 Đáp án:** **C. Tụt huyết áp**.
