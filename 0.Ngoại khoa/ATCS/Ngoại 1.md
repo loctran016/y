@@ -1,7 +1,3 @@
-# TỔNG HỢP VÀ PHÂN NHÓM CÂU HỎI TỪ 3 BỘ ĐỀ THI
-
----
-
 ## Y21 K1+2
 
 ### Các vấn đề cơ bản của phẫu thuật
