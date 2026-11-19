@@ -454,103 +454,103 @@ Dụng cụ phẫu thuật được chia thành **6 nhóm chức năng chính** 
 
 ---
 
-### 3.1. Nhóm Dụng Cụ Cắt Và Phân Tách
+### Nhóm Dụng Cụ Cắt Và Phân Tách
 
-#### 3.1.1. Dao mổ (Scalpel)
+#### Dao mổ (Scalpel)
 * **Cấu tạo:** Gồm cán dao (Handles) và lưỡi dao rời (Blades).
   * *Cán dao số 3, số 7:* Thường lắp lưỡi dao nhỏ (số 10, 11, 15) dùng cho phẫu thuật nông, tinh vi.
   * *Cán dao số 4:* Lắp lưỡi dao lớn (số 20, 21, 22) dùng cho phẫu thuật diện rộng, rạch thành bụng.
 * **Vai trò & Trường hợp sử dụng:** Rạch da, rạch mô dưới da, mở các đường mổ ban đầu.
 * **Cách cầm dao:** Cầm kiểu vĩ đàn (Violin bow) khi rạch đường dài; cầm kiểu cầm bút (Pencil grip) khi rạch tỉ mỉ, chính xác.
 
-#### 3.1.2. Kéo Mayo
+#### Kéo Mayo
 * **Đặc điểm:** Cấu tạo thân kéo dày, lưỡi kéo khỏe, có hai dạng là kéo thẳng và kéo cong.
-* **Công dụng:** Dùng để cắt các mô dai, chắc như cân cơ, mạc nối, mô xơ vữa; hoặc dùng để **cắt chỉ, cắt gạc, cắt ống dẫn lưu** [1].
+* **Công dụng:** Dùng để cắt các mô dai, chắc như cân cơ, mạc nối, mô xơ vữa; hoặc dùng để **cắt chỉ, cắt gạc, cắt ống dẫn lưu**.
 
-#### 3.1.3. Kéo Metzenbaum
-* **Đặc điểm:** Thân kéo mảnh, dài, lưỡi mảnh, đầu tù (thường là kéo cong) [2].
-* **Công dụng:** Chuyên dùng để **cắt mô mềm và phẫu tích bóc tách các tổ chức phẫu thuật** [2].
-* ⚠️ **Lưu ý quan trọng:** Tuyệt đối **KHÔNG dùng kéo Metzenbaum để cắt chỉ hoặc cắt gạc** vì sẽ làm cùn và hư hỏng lưỡi kéo [2].
+#### Kéo Metzenbaum
+* **Đặc điểm:** Thân kéo mảnh, dài, lưỡi mảnh, đầu tù (thường là kéo cong).
+* **Công dụng:** Chuyên dùng để **cắt mô mềm và phẫu tích bóc tách các tổ chức phẫu thuật**.
+* ⚠️ **Lưu ý quan trọng:** Tuyệt đối **KHÔNG dùng kéo Metzenbaum để cắt chỉ hoặc cắt gạc** vì sẽ làm cùn và hư hỏng lưỡi kéo.
 
 ---
 
-### 3.2. Nhóm Dụng Cụ Kẹp Giữ Và Giữ Mô
+### Nhóm Dụng Cụ Kẹp Giữ Và Giữ Mô
 
-#### 3.2.1. Nhíp phẫu thuật (Thumb Forceps / Tissue Forceps)
+#### Nhíp phẫu thuật (Thumb Forceps / Tissue Forceps)
 * **Nhíp không mấu (Smooth Forceps):** Đầu nhíp trơn hoặc có khía ngang mịn. Dùng để kẹp giữ mô mềm mại, mỏng như niêm mạc ống tiêu hóa, mạch máu, thần kinh nhằm tránh gây rách mô.
 * **Nhíp có mấu (Toothed Forceps):** Có răng mấu nhọn ở đỉnh. Dùng kẹp giữ da, cân cơ và các mô dai chắc; mấu nhọn giúp giữ chắc mà không làm trượt mô.
 
-#### 3.2.2. Kềm Allis (Allis Tissue Forceps)
+#### Kềm Allis (Allis Tissue Forceps)
 * **Đặc điểm:** Đầu kềm có dãy răng cưa nhỏ đan xen nhau.
 * **Công dụng:** Dùng để kẹp căng cân mạc, kẹp các mô cứng dai hoặc kẹp giữ mô hoại tử/bỏ đi trong quá trình phẫu thuật.
 
-#### 3.2.3. Kềm Babcock (Babcock Tissue Forceps)
-* **Đặc điểm:** Đầu kềm hình tam giác rỗng, lòng nhẵn nhụi, không có răng cưa sắc nhọn [3].
-* **Công dụng:** Dùng để **kẹp giữ ruột, vòi trứng, ruột thừa mà không gây tổn thương hay dập nát mô** (kẹp tạng rỗng mềm mại) [3].
+#### Kềm Babcock (Babcock Tissue Forceps)
+* **Đặc điểm:** Đầu kềm hình tam giác rỗng, lòng nhẵn nhụi, không có răng cưa sắc nhọn.
+* **Công dụng:** Dùng để **kẹp giữ ruột, vòi trứng, ruột thừa mà không gây tổn thương hay dập nát mô** (kẹp tạng rỗng mềm mại).
 
-#### 3.2.4. Kẹp khăn Backhaus (Towel Clamp)
+#### Kẹp khăn Backhaus (Towel Clamp)
 * **Công dụng:** Dùng để kẹp cố định các săng mổ vô trùng vào da bệnh nhân để giới hạn phẫu trường.
 
 ---
 
-### 3.3. Nhóm Dụng Cụ Cầm Máu (Hemostatic Clamps)
+### Nhóm Dụng Cụ Cầm Máu (Hemostatic Clamps)
 
 Các kềm cầm máu thường được thiết kế có nấc sập khóa ở cán kềm để duy trì lực kẹp liên tục.
 
 | Tên kềm cầm máu | Đặc điểm lòng mỏ kềm | Công dụng & Trường hợp sử dụng |
 | :--- | :--- | :--- |
-| **Halsted Mosquito** *(Kềm muỗi)* [2, 4] | Rất nhỏ, khía ngang kéo dài **toàn bộ lòng mỏ** [4]. | Cầm máu các mạch máu nhỏ ở lớp da và dưới da, mô vi phẫu. |
-| **Kelly** [2, 4] | Kềm vừa, khía ngang chỉ ở **1/2 chiều dài mỏ** [4]. | Cầm máu các mạch máu kích thước nhỏ đến trung bình. |
-| **Crile** [1, 4] | Kềm vừa, khía ngang kéo dài **toàn bộ lòng mỏ**. | Cầm máu các mạch máu trung bình [1]. |
-| **Rochester-Pean** *(Kềm Pean)* [1, 4] | Kềm lớn, mỏ tù, khía ngang toàn bộ mỏ, **không mấu** [1, 4]. | Cầm máu các mạch máu lớn, kẹp giữ mô mềm hoặc cuống mô [1]. |
-| **Kocher (Rochester-Carmalt có mấu)** [1, 4] | Mỏ kềm có khía ngang và **có mấu nhọn ở đỉnh (Tooth)** [1, 4]. | Kẹp cầm máu mô chắc, kẹp giữ cân cơ, cuống mô dầy không lo trượt [1]. *Không dùng kẹp tạng rỗng hay mạch máu mảnh vì mấu sẽ xé rách mô*. |
+| **Halsted Mosquito** *(Kềm muỗi)* | Rất nhỏ, khía ngang kéo dài **toàn bộ lòng mỏ**. | Cầm máu các mạch máu nhỏ ở lớp da và dưới da, mô vi phẫu. |
+| **Kelly** | Kềm vừa, khía ngang chỉ ở **1/2 chiều dài mỏ**. | Cầm máu các mạch máu kích thước nhỏ đến trung bình. |
+| **Crile** | Kềm vừa, khía ngang kéo dài **toàn bộ lòng mỏ**. | Cầm máu các mạch máu trung bình. |
+| **Rochester-Pean** *(Kềm Pean)* | Kềm lớn, mỏ tù, khía ngang toàn bộ mỏ, **không mấu**. | Cầm máu các mạch máu lớn, kẹp giữ mô mềm hoặc cuống mô. |
+| **Kocher (Rochester-Carmalt có mấu)** | Mỏ kềm có khía ngang và **có mấu nhọn ở đỉnh (Tooth)**. | Kẹp cầm máu mô chắc, kẹp giữ cân cơ, cuống mô dầy không lo trượt. *Không dùng kẹp tạng rỗng hay mạch máu mảnh vì mấu sẽ xé rách mô*. |
 
 ---
 
-### 3.4. Nhóm Dụng Cụ Banh Phẫu Trường (Retractors)
+### Nhóm Dụng Cụ Banh Phẫu Trường (Retractors)
 
 Giúp kéo vén tổ chức mô, lộ rõ vùng phẫu thuật cho phẫu thuật viên thao tác.
 
-#### 3.4.1. Banh tay (Manual Retractors)
-* **Banh Farabeuf:** Banh dẹt hai đầu hình chữ L, dùng banh mép da, mô dưới da và cân cơ nông [5].
-* **Banh Richardson:** Tay cầm dài, lưỡi banh rộng cong móc, dùng banh sâu thành bụng [5].
-* **Banh uốn dẻo (Malleable / Ribbon Retractor):** Thước kim loại dẹt mềm, có đặc tính **thay đổi được hình dạng linh hoạt theo ý phẫu thuật viên** [5], dùng che chắn và banh giữ các tạng rỗng/ruột trong ổ bụng.
-* **Banh cắm / Banh Volkmann (Rake Retractor):** Đầu banh có các răng nhỏ (nhọn hoặc tù) [5], dùng banh mô dưới da và da.
+#### Banh tay (Manual Retractors)
+* **Banh Farabeuf:** Banh dẹt hai đầu hình chữ L, dùng banh mép da, mô dưới da và cân cơ nông.
+* **Banh Richardson:** Tay cầm dài, lưỡi banh rộng cong móc, dùng banh sâu thành bụng.
+* **Banh uốn dẻo (Malleable / Ribbon Retractor):** Thước kim loại dẹt mềm, có đặc tính **thay đổi được hình dạng linh hoạt theo ý phẫu thuật viên**, dùng che chắn và banh giữ các tạng rỗng/ruột trong ổ bụng.
+* **Banh cắm / Banh Volkmann (Rake Retractor):** Đầu banh có các răng nhỏ (nhọn hoặc tù), dùng banh mô dưới da và da.
 
-#### 3.4.2. Banh tự giữ (Self-retaining Retractors)
-* **Banh Balfour / Weitlaner:** Có khung khóa cố định, **giúp banh rộng ổ bụng mà không cần đến lực kéo của phẫu thuật viên** [6].
+#### Banh tự giữ (Self-retaining Retractors)
+* **Banh Balfour / Weitlaner:** Có khung khóa cố định, **giúp banh rộng ổ bụng mà không cần đến lực kéo của phẫu thuật viên**.
 
 ---
 
-### 3.5. Nhóm Dụng Cụ Khâu Nối Và Kim - Chỉ Phẫu Thuật
+### Nhóm Dụng Cụ Khâu Nối Và Kim - Chỉ Phẫu Thuật
 
-#### 3.5.1. Cán kẹp kim (Needle Holder / Needle Driver)
+#### Cán kẹp kim (Needle Holder / Needle Driver)
 * **Mayo-Hegar:** Có khóa nấc sập ở cán, lòng mỏ có rãnh chéo mạ vonfram giúp kẹp giữ chặt thân kim không bị xoay.
 * **Mathieu:** Khóa sập nằm ở cuối cán, bóp để mở/khóa, dùng cho phẫu thuật nông, nha khoa.
 
-#### 3.5.2. Kim phẫu thuật (Surgical Needles)
-* **Kim thân tròn (Taper point):** Thân tròn, đầu nhọn búp [7, 8]. Dùng khâu các **mô mềm, ống tiêu hóa, mạch máu, tạng đặc, mạc treo** vì kim lướt qua mô mà không làm xé rách tổ chức [8].
-* **Kim tam giác / Kim cắt (Cutting / Reverse cutting):** Thân có thiết diện 3 cạnh sắc [4, 7]. Dùng để khâu các **mô cứng, mô xơ vữa, khâu da** giúp xuyên qua lớp da sừng dai dễ dàng [4, 8].
+#### Kim phẫu thuật (Surgical Needles)
+* **Kim thân tròn (Taper point):** Thân tròn, đầu nhọn búp. Dùng khâu các **mô mềm, ống tiêu hóa, mạch máu, tạng đặc, mạc treo** vì kim lướt qua mô mà không làm xé rách tổ chức.
+* **Kim tam giác / Kim cắt (Cutting / Reverse cutting):** Thân có thiết diện 3 cạnh sắc. Dùng để khâu các **mô cứng, mô xơ vữa, khâu da** giúp xuyên qua lớp da sừng dai dễ dàng.
 
-#### 3.5.3. Chỉ phẫu thuật (Sutures)
+#### Chỉ phẫu thuật (Sutures)
 * **Theo khả năng tiêu hủy:**
-  * *Chỉ tan (Absorbable):* Chỉ tự nhiên (Chromic Catgut, Plain Catgut - tiêu qua enzym) và Chỉ tổng hợp (Vicryl, Safil, Monosyn - tiêu qua thủy phân, **ước lượng được thời gian bán hủy và ít gây kích thích mô**) [1, 8, 9].
-  * *Chỉ không tan (Non-absorbable):* Silk (lụa), Nylon (Carelon), Prolene (Polypropylene) [1, 7].
+  * *Chỉ tan (Absorbable):* Chỉ tự nhiên (Chromic Catgut, Plain Catgut - tiêu qua enzym) và Chỉ tổng hợp (Vicryl, Safil, Monosyn - tiêu qua thủy phân, **ước lượng được thời gian bán hủy và ít gây kích thích mô**).
+  * *Chỉ không tan (Non-absorbable):* Silk (lụa), Nylon (Carelon), Prolene (Polypropylene).
 * **Theo cấu trúc sợi chỉ:**
-  * *Chỉ đơn sợi (Monofilament):* Bề mặt trơn láng, ít ma sát, **ít gây nhiễm trùng**, nhưng nút buộc dễ tuột [1, 9].
-  * *Chỉ đa sợi (Braided):* Mềm mại, dẻo dai, nút buộc rất chắc, nhưng ma sát cao và **dễ chứa vi khuẩn trong các kẽ sợi (dễ nhiễm trùng hơn chỉ đơn sợi)** [1, 8, 9].
+  * *Chỉ đơn sợi (Monofilament):* Bề mặt trơn láng, ít ma sát, **ít gây nhiễm trùng**, nhưng nút buộc dễ tuột.
+  * *Chỉ đa sợi (Braided):* Mềm mại, dẻo dai, nút buộc rất chắc, nhưng ma sát cao và **dễ chứa vi khuẩn trong các kẽ sợi (dễ nhiễm trùng hơn chỉ đơn sợi)**.
 * **Kích thước chỉ (Suture size):** 
-  * **Càng nhiều số 0 thì đường kính sợi chỉ càng nhỏ** (ví dụ: chỉ 3-0 nhỏ/mỏng hơn chỉ 2-0; chỉ 5-0 nhỏ hơn 3-0) [8, 9].
-  * Chỉ số nguyên lớn (chỉ 1, 2) là chỉ to dùng để khâu đóng cân thành bụng [7].
+  * **Càng nhiều số 0 thì đường kính sợi chỉ càng nhỏ** (ví dụ: chỉ 3-0 nhỏ/mỏng hơn chỉ 2-0; chỉ 5-0 nhỏ hơn 3-0).
+  * Chỉ số nguyên lớn (chỉ 1, 2) là chỉ to dùng để khâu đóng cân thành bụng.
 
 ---
 
-### 3.6. Nhóm Ống Thông Và Dẫn Lưu (Drains & Catheters)
+### Nhóm Ống Thông Và Dẫn Lưu (Drains & Catheters)
 
-* **Ống Nelaton:** Ống cao su/plastic mềm trơn [5]. **Dùng để thông tiểu qua niệu đạo và rút ra ngay sau đó** [5].
-* **Ống Foley:** Ống thông có bóng hơi định vị ở đầu [5]. **Dùng để đặt thông tiểu và lưu lại lâu dài trong bàng quang** [6].
-* **Ống Pezzer / Malecot:** Đầu ống có đĩa nấm hoặc cánh xòe [5]. Dùng để dẫn lưu bàng quang mở ra da, mở dạ dày ra da hoặc dẫn lưu ổ mủ [5].
-* **Ống chữ T (T-tube / Ống Kehr):** Ống cao su hình chữ T chuyên biệt [5]. **Dùng để đặt vào ống mật chủ để dẫn lưu mật và giải áp đường mật** sau phẫu thuật mở ống mật chủ lấy sỏi [5].
+* **Ống Nelaton:** Ống cao su/plastic mềm trơn. **Dùng để thông tiểu qua niệu đạo và rút ra ngay sau đó**.
+* **Ống Foley:** Ống thông có bóng hơi định vị ở đầu. **Dùng để đặt thông tiểu và lưu lại lâu dài trong bàng quang**.
+* **Ống Pezzer / Malecot:** Đầu ống có đĩa nấm hoặc cánh xòe. Dùng để dẫn lưu bàng quang mở ra da, mở dạ dày ra da hoặc dẫn lưu ổ mủ.
+* **Ống chữ T (T-tube / Ống Kehr):** Ống cao su hình chữ T chuyên biệt. **Dùng để đặt vào ống mật chủ để dẫn lưu mật và giải áp đường mật** sau phẫu thuật mở ống mật chủ lấy sỏi.
 
 ---
 
@@ -561,35 +561,35 @@ A. Kéo Mayo thẳng
 B. Kéo Mayo cong  
 C. Kéo Metzenbaum  
 D. Kéo cắt chỉ  
-* **👉 Đáp án:** **C. Kéo Metzenbaum** *(Kéo Metzenbaum có thân mảnh, lưỡi mảnh dùng chuyên biệt để phẫu tích và cắt mô mềm [2])*.
+* **👉 Đáp án:** **C. Kéo Metzenbaum** *(Kéo Metzenbaum có thân mảnh, lưỡi mảnh dùng chuyên biệt để phẫu tích và cắt mô mềm)*.
 
 **Câu 2: Loại kềm nào sau đây được thiết kế đặc biệt với lòng mỏ tam giác rỗng để kẹp giữ các tạng rỗng (như ruột, vòi trứng) mà KHÔNG gây dập nát mô?**
 A. Kềm Allis  
 B. Kềm Babcock  
 C. Kềm Kocher  
 D. Kềm Rochester-Pean  
-* **👉 Đáp án:** **B. Kềm Babcock** *(Kềm Babcock kẹp ruột không gây tổn thương mô [3])*.
+* **👉 Đáp án:** **B. Kềm Babcock** *(Kềm Babcock kẹp ruột không gây tổn thương mô)*.
 
 **Câu 3: Để khâu đóng lớp da thành bụng, loại kim phẫu thuật và kích thước chỉ nào sau đây là phù hợp nhất?**
 A. Kim thân tròn + Chỉ Chromic Catgut 2-0  
 B. Kim thiết diện tam giác (Cutting) + Chỉ Nylon 3-0 hoặc 4-0  
 C. Kim thân tròn + Chỉ Vicryl 1-0  
 D. Kim tam giác + Chỉ Silk 1  
-* **👉 Đáp án:** **B. Kim thiết diện tam giác (Cutting) + Chỉ Nylon 3-0 hoặc 4-0** *(Da là mô cứng cần kim tam giác sắc cạnh [4, 8]; chỉ Nylon là chỉ đơn sợi không tan ít gây nhiễm trùng vết mổ và kích thước 3-0/4-0 thích hợp khâu da)*.
+* **👉 Đáp án:** **B. Kim thiết diện tam giác (Cutting) + Chỉ Nylon 3-0 hoặc 4-0** *(Da là mô cứng cần kim tam giác sắc cạnh; chỉ Nylon là chỉ đơn sợi không tan ít gây nhiễm trùng vết mổ và kích thước 3-0/4-0 thích hợp khâu da)*.
 
 **Câu 4: Khi theo dõi một bệnh nhân sau mổ mở ống mật chủ lấy sỏi, loại ống dẫn lưu chuyên biệt nào được đặt trong ống mật chủ để dẫn lưu mật ra ngoài?**
 A. Ống Nelaton  
 B. Ống Pezzer  
 C. Ống chữ T (Kehr)  
 D. Ống Foley  
-* **👉 Đáp án:** **C. Ống chữ T (Kehr)** *(Ống chữ T / Kehr chuyên dùng đặt vào ống mật chủ [5])*.
+* **👉 Đáp án:** **C. Ống chữ T (Kehr)** *(Ống chữ T / Kehr chuyên dùng đặt vào ống mật chủ)*.
 
 **Câu 5: Khi so sánh đặc tính giữa chỉ đơn sợi (Monofilament) và chỉ đa sợi (Braided), phát biểu nào sau đây là ĐÚNG?**
 A. Chỉ đa sợi ít gây nhiễm trùng hơn chỉ đơn sợi  
 B. Chỉ đơn sợi dễ bị sần sùi và ma sát cao hơn chỉ đa sợi  
 C. Chỉ đa sợi mềm mại, dễ uốn nắn hơn nhưng kẽ sợi dễ chứa vi khuẩn gây nhiễm trùng hơn  
 D. Chỉ càng nhiều số 0 thì đường kính càng to  
-* **👉 Đáp án:** **C. Chỉ đa sợi mềm mại, dễ uốn nắn hơn nhưng kẽ sợi dễ chứa vi khuẩn gây nhiễm trùng hơn** *(Chỉ đa sợi có cấu trúc bện dễ đọng vi khuẩn trong kẽ sợi nên nguy cơ nhiễm trùng cao hơn chỉ đơn sợi trơn láng [1, 8, 9])*.
+* **👉 Đáp án:** **C. Chỉ đa sợi mềm mại, dễ uốn nắn hơn nhưng kẽ sợi dễ chứa vi khuẩn gây nhiễm trùng hơn** *(Chỉ đa sợi có cấu trúc bện dễ đọng vi khuẩn trong kẽ sợi nên nguy cơ nhiễm trùng cao hơn chỉ đơn sợi trơn láng)*.
 
 ### Kim và Chỉ khâu phẫu thuật
 
