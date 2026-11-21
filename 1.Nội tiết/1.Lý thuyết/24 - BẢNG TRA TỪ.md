@@ -20,7 +20,7 @@ Dưới đây là toàn bộ hệ thống từ khóa được sắp xếp theo t
 Nhóm từ bắt đầu bằng chữ **A** tập trung vào các hormone quan trọng của tuyến yên và vỏ thượng thận, cùng các thuốc điều trị rối loạn tuyến giáp và đái tháo đường:
 
 * **ACTH** *(Adrenocorticotropic hormone)*: Xuất hiện tại các trang 7, 13, 14, 18, 19, 21, 22, 23, 36, 37, 40, 41, 62, 104, 107-117, 119, 120, 219. *(Đây là hormone của thùy trước tuyến yên kích thích lớp bó và lớp lưới vỏ thượng thận tiết Cortisol và Androgen)*.
-* **Aldosterone**: Xuất hiện tại các trang 3, 5, 6, 12, 34-37, 44, 80, 104, 107, 109, 219. *(Hormone mineralocorticoid do vùng cầu vỏ thượng thận tiết ra, điều hòa tái hấp thu \\(\text{Na}^+\\) và đào thải \\(\text{K}^+\\))*.
+* **Aldosterone**: Xuất hiện tại các trang 3, 5, 6, 12, 34-37, 44, 80, 104, 107, 109, 219. *(Hormone mineralocorticoid do vùng cầu vỏ thượng thận tiết ra, điều hòa tái hấp thu `Na⁺` và đào thải `K⁺`)*.
 * **Amiodarone**: Trang 95. *(Thuốc chống rối loạn nhịp tim có chứa nồng độ iod cao, gây biến chứng nhiễm độc giáp hoặc suy giáp do thuốc)*.
 * **Amylin**: Trang 125, 139. *(Peptide được tiết cùng insulin từ tế bào beta tụy, làm chậm làm trống dạ dày và giảm tiết glucagon)*.
 * **Amylin analog**: Trang 125, 139. *(Nhóm thuốc tương tự amylin như Pramlintide dùng hỗ trợ kiểm soát đường huyết sau ăn)*.
@@ -50,7 +50,7 @@ Nhóm từ bắt đầu bằng chữ **B** bao gồm các bệnh lý tự miễn
 Nhóm từ bắt đầu bằng chữ **C** tập trung vào các chức năng sinh lý của hormone, các cơ chế điều hòa ngược và tình trạng rối loạn chức năng tuyến giáp:
 
 * **Các u tiết hCG**: Trang 93, 95.
-* **Calci huyết tương**: Trang 71, 72, 75. *(Dạng ion hóa \\(\text{Ca}^{2+}\\) tự do điều hòa bài tiết PTH và Calcitonin)*.
+* **Calci huyết tương**: Trang 71, 72, 75. *(Dạng ion hóa `Ca²⁺` tự do điều hòa bài tiết PTH và Calcitonin)*.
 * **Chức năng của hormone**: Trang 4, 39, 42, 51.
 * **Chức năng duy trì sự hằng định nội môi**: Trang 4.
 * **Chức năng sinh sản**: Trang 5.
@@ -137,7 +137,7 @@ Nhóm từ bắt đầu bằng chữ **H** quy tụ hệ thống hội chứng l
 * **Hôn mê suy giáp**: Trang 162. *(Cấp cứu suy giáp nặng đòi hỏi điều trị T4 tiêm tĩnh mạch)*.
 * **Hormone aldosterone**: Trang 35, 36, 37.
 * **Hormone calcitonin**: Trang 3, 45, 46, 72. *(Do tế bào C tuyến giáp tiết giúp hạ calci máu)*.
-* **Hormone calcitriol**: Trang 67, 71. *(Dạng hoạt động \\(1,25\text{-(OH)}_2\text{D}_3\\) tăng hấp thu calci tại ruột)*.
+* **Hormone calcitriol**: Trang 67, 71. *(Dạng hoạt động `1,25-(OH)₂D₃` tăng hấp thu calci tại ruột)*.
 * **Hormone catecholamine**: Trang 41, 42, 43, 50. *(Epinephrine và Norepinephrine từ tủy thượng thận)*.
 * **Hormone có bản chất là steroid**: Trang 6.
 * **Hormone cortisol**: Trang 13, 15, 31, 34, 38, 39, 41, 104.
@@ -220,7 +220,7 @@ Nhóm từ bắt đầu bằng chữ **H** quy tụ hệ thống hội chứng l
 ## P
 
 * **Phân tử DAG**: Trang 9. *(Diacylglycerol hoạt hóa PKC)*.
-* **Phân tử IP3**: Trang 8. *(Inositol 1,4,5-trisphosphate giải phóng \\(\text{Ca}^{2+}\\))*.
+* **Phân tử IP3**: Trang 8. *(Inositol 1,4,5-trisphosphate giải phóng `Ca²⁺`)*.
 * **Phình giáp**: Trang 210, 211.
 * **Phình giáp độc hay bệnh Graves (Basedow)**: Trang 211.
 * **Prolactin**: Trang 13, 14, 24. *(Hormone thùy trước tuyến yên kích thích tạo sữa)*.
@@ -248,7 +248,7 @@ Nhóm từ bắt đầu bằng chữ **H** quy tụ hệ thống hội chứng l
 * **Sinh tổng hợp và chuyển hóa cortisol**: Trang 37.
 * **Sinh tổng hợp và sự tiết các hormone tan trong lipid**: Trang 6.
 * **Somatostatin**: Trang 19, 31, 125. *(Hormone ức chế giải phóng GH và Insulin/Glucagon)*.
-* **Sulfonylureas**: Trang 131. *(Nhóm thuốc kích thích tiết insulin qua đóng kênh \\(\text{K}^+\text{-ATP}\\))*.
+* **Sulfonylureas**: Trang 131. *(Nhóm thuốc kích thích tiết insulin qua đóng kênh `K⁺-ATP`)*.
 * **Suy giáp**: Trang 97, 98, 102, 161-163, 206.
 * **Suy giáp bẩm sinh**: Trang 97, 98, 102.
 * **Suy giáp do thuốc**: Trang 163.
@@ -282,7 +282,7 @@ Nhóm từ bắt đầu bằng chữ **T** chứa lượng từ khóa lớn nh�
 * **Tế bào beta tụy**: Trang 55, 60, 62, 63, 65, 78, 81, 83, 85, 90, 127, 131, 198.
 * **Thần kinh**: Trang 97, 100, 107, 172-175, 179, 187.
 * **Theo dõi glucose liên tục** *(CGM)*: Trang 89.
-* **Thiazolidinedione (TZD)**: Trang 134. *(Nhóm thuốc gắn thụ thể PPAR-\\(\gamma\\) làm giảm kháng insulin như Pioglitazone)*.
+* **Thiazolidinedione (TZD)**: Trang 134. *(Nhóm thuốc gắn thụ thể PPAR-`γ` làm giảm kháng insulin như Pioglitazone)*.
 * **Thiếu hụt TSH đơn độc**: Trang 97.
 * **Thioamides**: Trang 157, 159. *(Nhóm thuốc kháng giáp Methimazole và PTU)*.
 * **Thoái biến glycogen dự trữ**: Trang 63.
