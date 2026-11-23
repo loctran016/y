@@ -2,8 +2,44 @@
   "subjects": [
     {
       "subject": "noi-tiet",
-      "subject_label": "Nội tiết",
+      "subject_label": "Nội Tiết",
       "exams": [
+        {
+          "exam_id": "20 Y20 ko ans",
+          "cohort": "Y20",
+          "title": "20 Y20 ko ans",
+          "default_time_sec": 3600,
+          "question_count": 61,
+          "group_counts": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 41,
+            "5": 2,
+            "6": 1,
+            "7": 14,
+            "8": 3
+          },
+          "conflict_count": 0
+        },
+        {
+          "exam_id": "20 Y21 ko ans",
+          "cohort": "Y21",
+          "title": "20 Y21 ko ans",
+          "default_time_sec": 3600,
+          "question_count": 60,
+          "group_counts": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 35,
+            "5": 0,
+            "6": 0,
+            "7": 22,
+            "8": 3
+          },
+          "conflict_count": 0
+        },
         {
           "exam_id": "20 Y22 có ans",
           "cohort": "Y22",
@@ -14,10 +50,10 @@
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 32,
+            "4": 33,
             "5": 0,
             "6": 0,
-            "7": 23,
+            "7": 22,
             "8": 5
           },
           "conflict_count": 0

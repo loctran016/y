@@ -1,0 +1,2251 @@
+{
+  "exam_id": "20 Y20 ko ans",
+  "cohort": "Y20",
+  "subject": "noi-tiet",
+  "subject_label": "Nội Tiết",
+  "title": "20 Y20 ko ans",
+  "default_time_sec": 3600,
+  "question_count": 61,
+  "questions": [
+    {
+      "id": "20 Y20 ko ans_Q1",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 1,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Câu nào sau đây đúng khi nói vềtuyến yên sau? Có bản chất là các tếbào tuyến thật sự",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dựtrữhormon do vùng hạđồi tiết"
+        },
+        {
+          "key": "B",
+          "text": "Tiết hormone prolactin"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Chịu sựđiều hòa ngược từtuyến giáp"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Thùy sau tuyến yên thực chất là mô thần kinh, không có tế bào tuyến tự tổng hợp hormone.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Đặc điểm cấu tạo giải phẫu và chức năng sinh lý của thùy sau tuyến yên.\n- Đối chiếu y lý: Thùy sau tuyến yên (tuyến yên thần kinh) không phải là tuyến thật sự và không tự tổng hợp hormone. Nó chỉ làm nhiệm vụ dự trữ và phóng thích 2 hormone là vasopressin (ADH) và oxytocin được tổng hợp từ các neuron thuộc vùng hạ đồi.\n- Loại trừ phương án:\n + Option B: Prolactin do các tế bào thùy trước tuyến yên tổng hợp và bài tiết.\n + Option C: Phương án không chứa nội dung hợp lệ.\n + Option D: Tuyến yên sau không chịu sự điều hòa ngược từ tuyến giáp (tuyến giáp tác động điều hòa lên thùy trước tuyến yên và vùng hạ đồi).\n- Kết luận: Đáp án đúng là A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1 & Bài 2): Tuyến yên sau (tuyến yên thần kinh / neurohypophysis) được cấu tạo bởi mô thần kinh và là một thành phần chức năng thuộc vùng hạ đồi, không có chức năng chế tiết, chỉ có vai trò dự trữ và phóng thích các hormone (AVP/vasopressin và oxytocin) do các neuron thuộc vùng hạ đồi (nhân trên thị và nhân cạnh não thất) tổng hợp. Ngược lại, tuyến yên trước (tuyến yên tuyến / adenohypophysis) mới là phần biểu mô tuyến thật sự, có chức năng chế tiết ra các hormone (bao gồm Prolactin, ACTH, TSH, GH, FSH, LH).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q2",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 2,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Câu nào sau đây là phù hợp nhất khi nói vềhormon oxytocin? Được tổng hợp tại tuyến yên sau",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được phóng thích từtuyến yên trước"
+        },
+        {
+          "key": "B",
+          "text": "Có tác dụng kích thích mô vú tạo sữa"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Là hormone thuộc nhóm tan trong nước"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Oxytocin là một peptide nhỏ gồm 9 acid amin, chịu trách nhiệm cho phản xạ tống xuất sữa và co bóp tử cung.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bản chất hóa học và vai trò sinh lý của hormone oxytocin.\n- Đối chiếu y lý: Oxytocin là một peptide cấu tạo từ 9 acid amin, do đó thuộc nhóm hormone tan trong nước. Hormon này được bài tiết vào máu từ thùy sau tuyến yên và kích thích sự co bóp tế bào biểu mô cơ quanh các nang sữa để tống sữa ra ngoài.\n- Loại trừ phương án:\n + Option A: Oxytocin được phóng thích từ thùy sau tuyến yên (tuyến yên thần kinh), không phải thùy trước.\n + Option B: Oxytocin kích thích co bóp bài xuất/tống xuất sữa, trong khi hormone kích thích mô vú sản xuất/tạo sữa là prolactin.\n + Option C: Phương án không chứa nội dung hợp lệ.\n- Kết luận: Đáp án đúng là D.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1 & Bài 2): Hormone oxytocin được tổng hợp chủ yếu từ các neuron thuộc nhân cạnh phát/cạnh brain thất của vùng hạ đồi dưới dạng prohormone, vận chuyển theo sợi trục tích lũy ở đầu tận thần kinh thùy sau tuyến yên và phóng thích vào máu. Về bản chất hóa học, oxytocin là một peptide nhỏ gồm 9 acid amin, thuộc nhóm hormone tan trong nước (cấu trúc peptide/protein). Về chức năng, oxytocin kích thích cơ trơn biểu mô quanh các nang sữa trong tuyến vú co lại gây hiện tượng phóng sữa (không phải kích thích tạo/tổng hợp sữa, vốn là chức năng của Prolactin) và gây co cơ trơn tử cung.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q3",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 3,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hormon nào sau đây do tuyến yên tổng hợp nên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thyroxine"
+        },
+        {
+          "key": "B",
+          "text": "Prolactin"
+        },
+        {
+          "key": "C",
+          "text": "Melatonin"
+        },
+        {
+          "key": "D",
+          "text": "Oxytocin"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Xem xét các hormone được trực tiếp tổng hợp bởi các tế bào biểu mô thùy trước tuyến yên.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Xác định hormone do bản thân tuyến yên tổng hợp.\n- Đối chiếu y lý: Thùy trước tuyến yên có các tế bào chuyên biệt tổng hợp và tiết ra 6 hormone chính: Prolactin (PRL), GH, TSH, ACTH, FSH và LH.\n- Loại trừ phương án:\n + Option A: Thyroxine (T4) do tế bào nang tuyến giáp tổng hợp và bài tiết.\n + Option C: Melatonin do tuyến tùng tổng hợp và bài tiết.\n + Option D: Oxytocin do các tế bào thần kinh ở vùng hạ đồi tổng hợp, tuyến yên sau chỉ lưu trữ và giải phóng.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1 & Bài 2): Thùy trước tuyến yên (tuyến yên tuyến) có khả năng tự tổng hợp và tiết 6 loại hormone chính bao gồm: ACTH (do tế bào corticotroph tiết), TSH (do tế bào thyrotroph tiết), GH (do tế bào somatotroph tiết), Prolactin / PRL (do tế bào lactotroph tiết), FSH và LH (do tế bào gonadotroph tiết). Ngược lại, tuyến yên sau không tự tổng hợp hormone mà chỉ dự trữ và phóng thích Oxytocin và AVP/vasopressin do các neuron vùng hạ đồi (nhân trên thị và nhân cạnh brain thất) tổng hợp. Thyroxine (T4) do tuyến giáp bài tiết, còn Melatonin do tuyến tùng tiết ra.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q4",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 4,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Câu nào sau đây đúng khi nói vềPTH? Do 2 thùy của tuyến giáp bài tiết",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kích thích xương bài tiết calcitonin"
+        },
+        {
+          "key": "B",
+          "text": "Chịu tác động điều hòa của tuyến yên"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tăng tiết quá mức gây hủy xương"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "PTH tác động làm gia tăng nồng độ calci máu thông qua việc kích thích hoạt động của các tế bào tiêu xương.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Cơ chế tác động và sự điều hòa của parathyroid hormone (PTH).\n- Đối chiếu y lý: Khi nồng độ PTH trong máu tăng tiết kéo dài (cường tuyến cận giáp), nó kích thích sự biệt hóa và hoạt động của các hủy cốt bào, gia tăng quá trình hủy xương để giải phóng Ca2+ và phosphate vào máu.\n- Loại trừ phương án:\n + Option A: Calcitonin do các tế bào C (cận nang) của tuyến giáp bài tiết chứ không phải do xương tiết.\n + Option B: Sự tiết PTH được điều hòa trực tiếp bởi nồng độ Ca2+ ion hóa trong máu qua thụ thể CaSR, không phụ thuộc tuyến yên.\n + Option C: Phương án không chứa nội dung hợp lệ.\n- Kết luận: Đáp án đúng là D.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1 & Bài 7. Điều hòa cân bằng calci và phosphate): Hormone PTH (parathyroid hormone / parathormone) do 4 tuyến cận giáp (nằm ngay sau tuyến giáp) bài tiết đáp ứng với tình trạng giảm nồng độ ion Ca2+ huyết tương thông qua thụ thể cảm nhận calci CaSR trên các tế bào tuyến cận giáp (sự bài tiết PTH không chịu sự điều hòa của tuyến yên). Khi được phóng thích theo kiểu liên tục / tăng tiết kéo dài, PTH gây tác dụng dị hóa trên khối lượng xương, làm tăng sự biệt hóa và trưởng thành của các hủy cốt bào, thúc đẩy quá trình hủy xương.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q5",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 5,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hormon giáp được dựtrữtrong nang tuyến ởdạng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diiodothyronine"
+        },
+        {
+          "key": "B",
+          "text": "Thyroglobulin"
+        },
+        {
+          "key": "C",
+          "text": "Thyroxine"
+        },
+        {
+          "key": "D",
+          "text": "Tyrosine"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Hormone tuyến giáp được gắn vào một đại phân tử glycoprotein chứa trong chất keo của lòng nang giáp.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Dạng dự trữ của hormone tuyến giáp trong các nang tuyến giáp.\n- Đối chiếu y lý: Các hormone tuyến giáp (T3, T4) được tổng hợp và dự trữ trong lòng nang giáp dưới dạng liên kết với các gốc tyrosine trên phân tử glycoprotein lớn gọi là thyroglobulin.\n- Loại trừ phương án:\n + Option A: Diiodothyronine (DIT) chỉ là tiền chất gắn trên thyroglobulin trong quá trình tổng hợp.\n + Option C: Thyroxine (T4) tự do chỉ xuất hiện khi thyroglobulin bị phân giải thủy phân trong tế bào nang giáp trước khi vào máu.\n + Option D: Tyrosine là acid amin nguyên liệu cấu tạo nên thyroglobulin.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 5. Sinh lý hormone giáp): Thành nang giáp giới hạn một lòng rỗng chứa chất keo trong suốt có tên là thyroglobulin (dịch keo thyroglobulin). Thyroglobulin là một glycoprotein được dùng cho dự trữ các hormone tại tuyến giáp. Sau khi iod hóa và ghép cặp các gốc tyrosine trên phân tử thyroglobulin, hormone giáp (T3, T4) được hình thành ở dạng dự trữ gắn trên các phân tử thyroglobulin trong dịch keo lòng nang. TSH kích thích tế bào giáp tiết hormone (T3, T4) bằng cách thúc đẩy sự phân giải thyroglobulin để tách hormone giáp ra thành dạng tự do và phóng thích vào máu.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q6",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 6,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "Calcitriolđóngvaitròquantrọng trong việc duy trì hằng định nồng độCa++ huyết tương, điều nào sau đây hợp lý khi nói vềsựđiều hòa bài tiết hormon này trong cơ thể? Giảm phosphate máu ức chếbài tiết calcitriol",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng calci máu kích thích bài tiết calcitriol"
+        },
+        {
+          "key": "B",
+          "text": "PTH trực tiếp kích thích tổng hợp calcitriol"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Estrogen đóng vai trò chính trong điều hòa calcitriol"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Hormone do tuyến cận giáp tiết ra trực tiếp kích hoạt enzyme 1-alpha-hydroxylase tại thận.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Điều hòa sự tổng hợp và bài tiết calcitriol (1,25-dihydroxyvitamin D3) trong cơ thể.\n- Đối chiếu y lý: Hormone PTH (parathyroid hormone) do tuyến cận giáp tiết ra có tác dụng trực tiếp kích hoạt enzyme 1-alpha-hydroxylase (CYP27B1) ở tế bào ống thận, thúc đẩy phản ứng gắn nhóm hydroxyl vào vị trí C1 để chuyển 25-hydroxyvitamin D3 thành 1,25-dihydroxyvitamin D3 (calcitriol).\n- Loại trừ phương án: A sai vì tăng calci máu làm giảm tiết PTH và trực tiếp ức chế bài tiết calcitriol; C sai vì giảm phosphate máu kích thích (không phải ức chế) tổng hợp calcitriol để tăng hấp thu phosphate ở ruột; D sai vì PTH và nồng độ Ca2+/phosphate là các yếu tố điều hòa chính, không phải estrogen.\n- Kết luận: Đáp án B đúng nhất.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 7. Điều hòa cân bằng calci và phosphate): Calcitriol (1,25-dihydroxyvitamin D3) trong huyết tương được điều hòa bởi PTH, FGF-23, nồng độ calci và phosphate. Trong đó, hormone PTH do tuyến cận giáp tiết ra kích hoạt enzyme 1-alpha-hydroxylase (CYP27B1) tại thận, thúc đẩy phản ứng chuyển đổi calcidiol thành calcitriol dạng hoạt động. Ngược lại, khi calcitriol được bài tiết nhiều sẽ có tác dụng điều hòa âm tính lên các tuyến cận giáp, ức chế quá trình sản xuất và phóng thích hormone PTH.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q7",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 7,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Điều nào sau đây đúng nhất đối với hoạt động của kênh GLUT-4 trong cơ thể? Biểu hiện chủyếu tại các tếbào mỡ",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không phụthuộc hormon insulin"
+        },
+        {
+          "key": "B",
+          "text": "Có ái lực cao với các phân tửfructose"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Là kiểu vận chuyển vật chất chủđộng"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Kênh GLUT-4 chủ yếu hiện diện ở các mô đích của insulin như cơ xương và mô mỡ.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Vị trí biểu hiện và đặc điểm hoạt động của kênh vận chuyển glucose GLUT-4.\n- Đối chiếu y lý: GLUT-4 là loại kênh vận chuyển glucose phụ thuộc insulin, biểu hiện chủ yếu trên bề mặt các tế bào mô mỡ và cơ xương, giúp đưa glucose từ máu vào nội bào qua cơ chế khuếch tán được tạo thuận lợi (vận chuyển thụ động).\n- Loại trừ phương án:\n + Option A: GLUT-4 phụ thuộc chặt chẽ vào sự kích thích của insulin để hòa màng.\n + Option B: Kênh có ái lực cao với glucose, trong khi kênh vận chuyển chuyên biệt cho fructose là GLUT-5.\n + Option D: GLUT-4 hoạt động theo cơ chế khuếch tán tạo thuận lợi (vận chuyển thụ động không tiêu tốn ATP), không phải vận chuyển chủ động.\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 6. Sinh lý hormone tụy nội tiết & Bài 12): Kênh GLUT4 (glucose transporter 4) là kênh vận chuyển glucose nhạy cảm với sự kích thích từ insulin, hiện diện và biểu hiện chủ yếu tại hai mô đích của insulin là mô mỡ và mô cơ xương. GLUT4 thực hiện sự vận chuyển glucose vào nội bào theo cơ chế khuếch tán được tạo thuận lợi (vận chuyển thụ động, xảy ra theo chiều gradient nồng độ và không tiêu tốn năng lượng ATP). Ngoài ra, các túi chứa GLUT4 trong bào tương cũng có thể di chuyển và hòa màng lên bề mặt tế bào đáp ứng với lao động hoặc tập luyện thể thao theo cơ chế độc lập với insulin (thông qua enzyme 5'-AMP-activated kinase).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q8",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 8,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Cơquannàođược xem là bộphận đệm đường huyết quan trọng nhất trong cơ thể, giúp duy trì nồng độglucose trong máu luôn ởmức hằng định? Thận",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "Gan Cơ bắp"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Mô mỡ"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Cơ quan có khả năng vừa lưu trữ glucose dạng glycogen, vừa có enzyme phân giải phóng glucose tự do vào máu.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Cơ quan giữ vai trò đệm duy trì nồng độ glucose máu hằng định.\n- Đối chiếu y lý: Gan là cơ quan đệm đường huyết quan trọng nhất. Khi đường huyết tăng (sau ăn), gan thu nhận glucose và tổng hợp thành glycogen dự trữ. Khi đường huyết giảm (xa bữa ăn), gan ly giải glycogen và tân sinh glucose để phóng thích glucose tự do vào máu nhờ sở hữu enzyme glucose-6-phosphatase.\n- Loại trừ phương án:\n + Option A & C: Các phương án khuyết nội dung.\n + Option D: Mô mỡ lưu trữ năng lượng dưới dạng triglyceride, không có khả năng phân giải phóng thích trực tiếp glucose vào máu để điều hòa đường huyết.\n + Mô cơ: Thiếu enzyme glucose-6-phosphatase nên glycogen trong cơ chỉ sử dụng nội bào, không đệm được đường huyết.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 6. Sinh lý hormone tụy nội tiết): Gan được xem là cơ quan đệm glucose huyết quan trọng nhất trong cơ thể. Sau bữa ăn, nồng độ glucose huyết tăng kích thích các tế bào beta tụy chế tiết insulin, insulin theo vòng tuần hoàn đến kích thích các tế bào gan thu nhận glucose và tổng hợp thành glycogen dự trữ. Xa bữa ăn, nồng độ glucose huyết giảm kích thích các tế bào alpha tụy chế tiết glucagon, glucagon đến kích thích tế bào gan tân sinh glucose hoặc ly giải glycogen thành glucose tự do phóng thích vào máu nhờ có enzyme G-6-Pase (glucose-6-phosphatase). Khác với gan, mô cơ xương không phải là cơ quan đệm glucose huyết quan trọng do thiếu enzyme G-6-Pase.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q9",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 9,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Bệnh nào dưới đây gây nên do tuyến yên tăng tiết GH trước tuổi dậy thì? Bệnh khổng lồ",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cường vỏthượng thận"
+        },
+        {
+          "key": "B",
+          "text": "ĐTĐ"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Bệnh to đầu chi"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Tăng tiết GH khi sụn tiếp hợp ở đầu xương dài chưa khép kín sẽ làm xương tăng trưởng mạnh theo chiều dài.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Hậu quả của tình trạng tăng tiết hormone phát triển (GH) trước tuổi dậy thì.\n- Đối chiếu y lý: Trước tuổi dậy thì, đĩa sụn tiếp hợp (sụn tăng trưởng) ở các xương dài chưa đóng hoàn toàn. Sự dư thừa hormone GH ở giai đoạn này kích thích xương phát triển vượt trội theo chiều dài, dẫn đến bệnh khổng lồ (gigantism).\n- Loại trừ phương án:\n + Option A: Cường vỏ thượng thận do tăng tiết cortisol/aldosterone.\n + Option B: Đái tháo đường do thiếu hụt hoặc kháng insulin.\n + Option D: Bệnh to đầu chi (acromegaly) xảy ra khi tăng tiết GH ở người trưởng thành (khi các đĩa sụn tiếp hợp đã đóng).\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1, Bài 3 & Bài 10): Hormone GH (growth hormone) do thùy trước tuyến yên tổng hợp và bài tiết. Tăng tiết hormone GH ở thời điểm trước tuổi dậy thì (khi đĩa sụn nối/sụn tiếp hợp ở đầu các xương dài chưa đóng hoàn toàn) kích thích sự phát triển của xương theo chiều dài, gây ra bệnh khổng lồ (gigantism). Ngược lại, sự tăng tiết dư thừa GH ở người trưởng thành / sau tuổi dậy thì (khi đĩa sụn tiếp hợp đã đóng) làm xương phát triển theo chiều ngang/chiều dày, gây ra bệnh to đầu chi (acromegaly).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q10",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 10,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "Một BN nam 34 tuổi, đến khám vì gần đây thấy tăng cân, phải thay kích cỡgiày dép liên tục trong vài tháng nay. Ngoài ra BN cũng cảm thấy khuôn mặt bịthay đổi hình dạng, giảm thịlực hơn so với trước đây. Khám không ghi nhận bất thường ởcác cơ quan khác. Nồng độhuyết thanh của chất nào sau đây cần được định lượng đểgiúp đưa ra chẩn đoán?",
+      "options": [
+        {
+          "key": "A",
+          "text": "GHIH"
+        },
+        {
+          "key": "B",
+          "text": "GHRH"
+        },
+        {
+          "key": "C",
+          "text": "GnRH"
+        },
+        {
+          "key": "D",
+          "text": "IGF-1"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Xét nghiệm yếu tố tăng trưởng trung gian do gan sản xuất có nồng độ ổn định và thời gian bán hủy dài hơn nhiều so với GH.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân nam 34 tuổi tăng kích thước bàn chân (thay cỡ giày dép), thay đổi hình dạng khuôn mặt và giảm thị lực (do u tuyến yên tiết GH chèn ép giao thoa thị) -> Hướng tới bệnh to đầu chi (Acromegaly).\n- Đối chiếu y lý: Hormone GH kích thích gan tổng hợp và bài tiết IGF-1 (Insulin-like Growth Factor 1). Vì GH được bài tiết theo nhịp và có thời gian bán hủy ngắn (< 20 phút), nồng độ IGF-1 trong máu lại rất ổn định (thời gian bán hủy khoảng 20 giờ) và phản ánh chính xác lượng GH bài tiết trung bình, nên định lượng IGF-1 huyết thanh là xét nghiệm tầm soát ưu tiên hàng đầu để chẩn đoán to đầu chi.\n- Loại trừ phương án: A (GHIH), B (GHRH) và C (GnRH) là các hormone vùng hạ đồi, không được định lượng trực tiếp để chẩn đoán bệnh lý này trên lâm sàng.\n- Kết luận: Đáp án D đúng nhất.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 3. Sinh lý hormone tăng trưởng & Bài 10. Sinh lý bệnh suy thượng thận mạn): Các biểu hiện lâm sàng như thay đổi kích cỡ giày dép, thay đổi hình dạng khuôn mặt (do xương hàm, xương sọ phát triển dày thêm dưới tác động của GH) và giảm thị lực (do u tuyến yên tiết GH chèn ép giao thoa thị) là các dấu hiệu đặc trưng của bệnh to đầu chi (acromegaly) do dư thừa hormone GH. Để đưa ra chẩn đoán, cần định lượng nồng độ huyết thanh của IGF-1 (insulin-like growth factor 1 / somatomedin) vì hormone GH kích thích gan bài tiết IGF-1, nồng độ IGF-1 trong máu tương quan mật thiết với mức bài tiết GH và có thời gian bán hủy dài (khoảng 20 giờ so với dưới 20 phút của GH), giúp phản ánh chính xác tình trạng tăng tiết GH.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q11",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 11,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Bệnh lý nào dưới đây có thểgây suy giáp? Bệnh Graves",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhân giáp độc"
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": "Phình giáp"
+        },
+        {
+          "key": "D",
+          "text": "Viêm giáp Hashimoto"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Hãy nghĩ đến một bệnh lý viêm giáp tự miễn dẫn đến sự phá hủy từ mô tuyến giáp làm giảm khả năng tổng hợp hormone giáp.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Xác định bệnh lý có thể gây nên hội chứng suy giáp.\n- Đối chiếu y lý: Viêm giáp Hashimoto (viêm giáp tự miễn / viêm giáp lympho bào) là nguyên nhân hàng đầu gây ra suy giáp nguyên phát do sự thâm nhiễm tế bào lympho, tế bào T tự phản ứng và các kháng thể tự miễn (anti-TPO, anti-TG) phá hủy dần mô tuyến giáp.\n- Loại trừ phương án:\n + A: Nhân giáp độc gây tăng tiết hormone giáp, dẫn tới hội chứng cường giáp / nhiễm độc giáp.\n + B: Bệnh Graves (Basedow) là nguyên nhân hàng đầu gây cường giáp tự miễn.\n + C: Phình giáp độc (bướu giáp đa nhân độc) gây nhiễm độc giáp, không gây suy giáp.\n- Kết luận: Đáp án đúng là D.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 9. Sinh lý bệnh hội chứng nhiễm độc giáp và hội chứng suy giáp): Viêm giáp Hashimoto (suy giáp tự miễn / viêm giáp lympho bào) là nguyên nhân hàng đầu gây ra hội chứng suy giáp / suy giáp nguyên phát (do hiện tượng tự miễn dẫn đến phá hủy từ mô tuyến giáp, thâm nhiễm tế bào lympho, tế bào T tự phản ứng và sự xuất hiện của các kháng thể kháng giáp anti-TPO và anti-thyroglobulin). Trái lại, bệnh Graves (Basedow), phình giáp độc (bướu giáp đa nhân độc) và nhân giáp độc là các nguyên nhân hàng đầu gây ra hội chứng cường giáp / nhiễm độc giáp.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q12",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 12,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hormonnàosauđâycóvaitròđiều hòa ngược lên trục hạđồi – tuyến yên – tuyến sinh dục?",
+      "options": [
+        {
+          "key": "A",
+          "text": "FSH"
+        },
+        {
+          "key": "B",
+          "text": "Estradiol"
+        },
+        {
+          "key": "C",
+          "text": "Prolactin"
+        },
+        {
+          "key": "D",
+          "text": "GnRH"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Chọn hormone sinh dục do buồng trứng tiết ra có khả năng phản hồi âm/dương tính lên tuyến trên.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Hormone thực hiện vai trò điều hòa ngược (feedback) lên trục hạ đồi – tuyến yên – tuyến sinh dục.\n- Đối chiếu y lý: Trục hạ đồi – tuyến yên – tuyến sinh dục hoạt động theo cơ chế điều hòa ngược: Vùng hạ đồi tiết GnRH kích thích thùy trước tuyến yên tiết FSH và LH, các hormone này tác động lên buồng trứng/tinh hoàn kích thích bài tiết hormone sinh dục (như estradiol). Nồng độ estradiol huyết tương sẽ phản hồi ngược (âm tính hoặc dương tính) lên hạ đồi và tuyến yên để điều hòa sự bài tiết GnRH và gonadotropin.\n- Loại trừ phương án:\n + A (FSH): Hormone hướng sinh dục của thùy trước tuyến yên, đóng vai trò kích thích tuyến đích, không phải hormone điều hòa ngược từ tuyến đích.\n + C (Prolactin): Hormone kích thích sản xuất sữa, không phải hormone chính thực hiện phản hồi ngược trong trục sinh dục.\n + D (GnRH): Hormone của vùng hạ đồi chi phối cấp trên, không đóng vai trò là tín hiệu phản hồi ngược tuyến đích.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu hệ nội tiết & Bài 2. Sinh lý thùy trước tuyến yên): Trục hạ đồi – tuyến yên – tuyến sinh dục hoạt động theo 3 cấp độ: vùng hạ đồi tiết GnRH kích thích tuyến yên trước tiết các hormone hướng sinh dục là FSH và LH; FSH và LH tác động lên tuyến nội tiết đích cấp dưới là tuyến sinh dục (buồng trứng ở nữ, tinh hoàn ở nam) kích thích bài tiết các hormone sinh dục (như estrogen/estradiol, progesterone, testosterone). Các hormone sinh dục do tuyến sinh dục bài tiết (như estradiol/estrogen) sẽ theo vòng tuần hoàn tạo thành vòng điều hòa ngược (gồm cả điều hòa ngược âm tính và điều hòa ngược dương tính, ví dụ: nồng độ estradiol/estrogen đạt ngưỡng cực đại gây điều hòa ngược dương tính lên tuyến yên tạo ra đỉnh tiết LH) chi phối và điều hòa ngược lên vùng hạ đồi và tuyến yên trước.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q13",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 13,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hormon LH tiết ra từtuyến yên có bản chất là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Protein"
+        },
+        {
+          "key": "B",
+          "text": "Steroid"
+        },
+        {
+          "key": "C",
+          "text": "Acid amin"
+        },
+        {
+          "key": "D",
+          "text": "Glycoprotein"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Các hormone hướng sinh dục (FSH, LH) và TSH của tuyến yên đều có cấu trúc protein liên kết với nhóm carbohydrate.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bản chất hóa học của hormone LH do thùy trước tuyến yên tiết ra.\n- Đối chiếu y lý: Hormone LH (Luteinizing Hormone) được tổng hợp và bài tiết bởi các tế bào gonadotroph ở thùy trước tuyến yên có bản chất hóa học là glycoprotein (gồm 2 chuỗi subunit alpha và beta gắn chuỗi carbohydrate).\n- Loại trừ phương án:\n + A: LH chứa chuỗi oligosaccharide nên gọi chính xác là glycoprotein chứ không phải protein đơn thuần.\n + B: Hormone steroid là bản chất của các hormone vỏ thượng thận và hormone tuyến sinh dục (estrogen, progesterone, testosterone).\n + C: Hormone dẫn xuất acid amin bao gồm hormone tuyến giáp (T3, T4) và catecholamine (adrenaline, noradrenaline).\n- Kết luận: Đáp án đúng là D.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 2. Sinh lý thùy trước tuyến yên): Hormone LH (luteinizing hormone) do các tế bào gonadotroph của thùy trước tuyến yên tổng hợp và tiết ra có bản chất hóa học là glycoprotein. Hormone LH tác động trên các tuyến sinh dục (buồng trứng ở nữ và tinh hoàn ở nam) thông qua nhóm thụ thể liên kết protein G, hoạt hóa enzyme adenyl cyclase tạo ra chất truyền tin thứ hai là cAMP, kích thích quá trình sản sinh giao tử và làm tăng bài tiết các hormone sinh dục.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q14",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 14,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hormon tiết ra từlớp cầu của vùng vỏthượng thận tác động lên nhóm thụthểnào sau đây tại tếbào đích? Thụthểnhân",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thụthểliên kết ion"
+        },
+        {
+          "key": "B",
+          "text": "Thụthểliên kết protein G"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Thụthểserine kinase"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Hormone steroid có đặc tính tan trong lipid nên dễ dàng đi qua màng tế bào để gắn vào receptor bên trong nội bào.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Loại thụ thể tại tế bào đích của hormone do lớp cầu vỏ thượng thận bài tiết (aldosterone).\n- Đối chiếu y lý: Lớp cầu của vỏ thượng thận bài tiết mineralocorticoid (chủ yếu là aldosterone). Aldosterone có bản chất là steroid (tan trong lipid), qua màng tế bào vào nội bào và gắn với thụ thể nhân (thụ thể mineralocorticoid) để điều hòa sự phiên mã gen và tổng hợp protein.\n- Loại trừ phương án:\n + A, B, D: Thụ thể liên kết ion, thụ thể liên kết protein G và thụ thể serine kinase là các thụ thể màng tế bào dành cho các hormone tan trong nước (peptide, protein, catecholamine).\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu hệ nội tiết & Bài 4. Sinh lý hormone vỏ thượng thận): Lớp cầu của vỏ thượng thận tổng hợp và bài tiết hormone mineralocorticoid (chủ yếu là aldosterone). Aldosterone và các hormone vỏ thượng thận có bản chất là steroid (tan trong lipid), tác động lên tế bào đích bằng cách khuếch tán qua màng tế bào và gắn với nhóm thụ thể nhân (thụ thể mineralocorticoid MR / thụ thể nhân) trong bào tương hoặc nhân tế bào, đóng vai trò là yếu tố điều hòa hoạt động phiên mã làm thay đổi sự biểu hiện gen và tổng hợp các protein mới.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q15",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 15,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hoạt động của TSH gây nên sựthay đổi như thếnào tại các tếbào đích? Gắn lên thụthểhormon trong khu vực nội bào",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm mởcác kênh ion nằm trên màng tếbào"
+        },
+        {
+          "key": "B",
+          "text": "Kích thích tếbào đích tạo ra chất truyền tin thứ2"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Kích hoạt yếu tốdịch mã trong tếbào chất"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "TSH là một glycoprotein tan trong nước, tác động thông qua thụ thể màng tế bào liên kết protein G để tạo chất trung gian nội bào.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Cơ chế tác động của TSH tại tế bào đích (tế bào tuyến giáp).\n- Đối chiếu y lý: TSH là một hormone glycoprotein (tan trong nước), gắn vào thụ thể đặc hiệu TSHR (thuộc nhóm thụ thể màng liên kết protein G) trên màng tế bào biểu mô giáp, từ đó hoạt hóa enzyme adenylyl cyclase để kích thích tế bào đích tạo ra chất truyền tin thứ hai là cAMP.\n- Loại trừ phương án:\n + A: TSH không hoạt động bằng cơ chế trực tiếp làm mở kênh ion màng.\n + C: TSH tan trong nước nên không thể đi qua màng để gắn vào thụ thể nội bào (thụ thể của TSH nằm ở màng tế bào).\n + D: TSH không trực tiếp kích hoạt yếu tố dịch mã trong tế bào chất mà thông qua chuỗi truyền tín hiệu PKA qua chất truyền tin thứ hai.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu hệ nội tiết, Bài 2. Sinh lý thùy trước tuyến yên & Bài 5. Sinh lý hormone giáp): Hormone TSH (thyroid-stimulating hormone / thyrotropin) là một glycoprotein tan trong nước, tác dụng trên tế bào đích (tế bào biểu mô giáp) bằng cách gắn vào thụ thể TSHR thuộc nhóm thụ thể liên kết protein G trên màng tế bào, từ đó hoạt hóa enzyme adenylyl cyclase tạo ra chất truyền tin thứ hai là cAMP. Chất truyền tin thứ hai cAMP tiếp tục hoạt hóa enzyme protein kinase A (PKA) gây phosphoryl hóa các enzyme nội bào, kích thích tế bào giáp tổng hợp và bài tiết hormone giáp (T3, T4), thúc đẩy phân giải thyroglobulin, cũng như kích thích tăng kích thước và phát triển tổ chức tuyến giáp.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q16",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 16,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "BN có ung thư buồng trứng phải phẫu thuật cắt bỏcả2 buồng trứng sẽgây nên hậu quả nào sau đây? Nồng độFSH huyết tương tăng cao",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nồng độTSH huyết tương tăng cao"
+        },
+        {
+          "key": "B",
+          "text": "Tăng nồng độEpiandrosterone trong máu"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tuyến yên giảm tiết LH"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Mất hoàn toàn hormone sinh dục từ buồng trứng làm giải phóng tuyến yên khỏi cơ chế điều hòa ngược âm tính.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Phẫu thuật cắt bỏ cả 2 buồng trứng làm triệt tiêu nguồn sản xuất chính estrogen, progesterone và inhibin.\n- Đối chiếu y lý: Bình thường, estrogen và inhibin do buồng trứng tiết ra gây điều hòa ngược âm tính (negative feedback) lên thùy trước tuyến yên. Khi cắt 2 buồng trứng, nồng độ các hormone này sụt giảm làm mất hiệu ứng ức chế, dẫn đến thùy trước tuyến yên tăng tiết mạnh mẽ các hormone hướng sinh dục, khiến nồng độ FSH (và LH) huyết tương tăng rất cao.\n- Loại trừ phương án: A sai vì TSH thuộc trục tuyến giáp, không bị ảnh hưởng trực tiếp; B sai vì epiandrosterone là androgen yếu không tăng phản ứng trực tiếp do cắt buồng trứng; D sai vì tuyến yên tăng tiết LH chứ không phải giảm tiết.\n- Kết luận: Đáp án C đúng nhất.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu hệ nội tiết, Bài 2. Sinh lý thùy trước tuyến yên & Bài 10): Trục hạ đồi – tuyến yên – tuyến sinh dục hoạt động theo cơ chế điều hòa ngược. Thùy trước tuyến yên bài tiết hai hormone hướng sinh dục (gonadotropin) là FSH và LH, kích thích buồng trứng chọn lọc, phát triển nang noãn và bài tiết các hormone sinh dục nữ (estrogen và progesterone). Các hormone sinh dục do buồng trứng tiết ra tạo nên cơ chế điều hòa ngược âm tính lên vùng hạ đồi và tuyến yên để kiểm soát sự bài tiết FSH và LH. Khi phẫu thuật cắt bỏ cả hai buồng trứng, nguồn sản xuất estrogen và progesterone bị mất đi hoàn toàn, dẫn đến giải phóng tuyến yên khỏi sự ức chế điều hòa ngược âm tính, làm cho tuyến yên tăng cường bài tiết FSH và LH, dẫn đến nồng độ FSH (và LH) trong huyết tương tăng cao.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q17",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 17,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Tếbào beta tụy điều hòa theo cơ chếnào sau đây? Cơ chếphản hồi trực tiếp qua nồng độglucose",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ chếphản hồi trực tiếp qua nồng độinsulin"
+        },
+        {
+          "key": "B",
+          "text": "Cơ chếphản hồi ngược âm tính"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Cơ chếphản hồi ngược dương tính"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Sự bài tiết insulin của tế bào beta đảo tụy phụ thuộc trực tiếp vào nồng độ chất dinh dưỡng chính trong máu sau bữa ăn.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Cơ chế điều hòa hoạt động bài tiết của tế bào beta đảo tụy.\n- Đối chiếu y lý: Tế bào beta tụy bài tiết insulin được điều hòa theo cơ chế phản hồi trực tiếp đáp ứng với nồng độ glucose trong máu. Khi nồng độ glucose máu tăng (sau khi ăn), glucose vào tế bào beta qua GLUT2 làm tăng sản xuất ATP, đóng kênh K+ nhạy ATP, gây khử cực màng, mở kênh Ca2+ và kích thích bài tiết insulin để đưa glucose máu về mức bình thường.\n- Loại trừ phương án:\n + A: Nồng độ insulin không phải là yếu tố chính trực tiếp phản hồi điều hòa bài tiết chính nó tại tế bào beta.\n + B: Dù bản chất chung là phản hồi âm tính, nhưng mô tả chính xác và đầy đủ nhất về cơ chế điều hòa tế bào beta tụy là đáp ứng trực tiếp với nồng độ glucose máu.\n + D: Phản hồi ngược dương tính không phải cơ chế điều hòa bài tiết insulin sinh lý.\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 6. Sinh lý hormone tụy nội tiết): Hoạt động kiểm soát và điều hòa bài tiết insulin tại tế bào beta tụy diễn ra theo cơ chế phản hồi ngược (cơ chế phản hồi ngược rất nhanh chóng và quan trọng) đáp ứng trực tiếp với sự thay đổi nồng độ glucose huyết. Sau bữa ăn, khi nồng độ glucose trong máu tăng cao, glucose vào tế bào beta qua kênh GLUT2, tăng chuyển hóa tạo ATP làm tăng tỉ lệ ATP/ADP nội bào, đóng kênh K+ nhạy ATP (Kir6.2), gây khử cực màng, mở kênh Ca2+ nhạy cảm điện thế, cho ion Ca2+ tràn vào nội bào kích thích phóng thích các túi chứa insulin vào máu để hạ glucose huyết; khi glucose huyết giảm về mức bình thường, sự kích thích bài tiết insulin từ tế bào beta tụy cũng sẽ giảm xuống.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q18",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 18,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Thyroxine (T4) là hormone có đặc điểm sau: Là hormone tan trong nước",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tác dụng bằng cách đi vào trong nhân tếbào và kết nối với thụthểnhân"
+        },
+        {
+          "key": "B",
+          "text": "Trong huyết tương, đa sốởdạng gắn TBG đểđến tếbào đích"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Thời gian tác dụng ngắn hơn T3"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Hormone Thyroxine (T4) tan trong lipid nên hầu như toàn bộ lượng hormone trong máu phải liên kết với các dạng protein vận chuyển.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Đặc điểm sinh hóa và sự vận chuyển của Thyroxine (T4) trong máu.\n- Đối chiếu y lý: Thyroxine (T4) là hormone tan trong lipid. Khi đi vào máu, trên 99% T4 gắn với các protein huyết tương, trong đó đa số (khoảng 2/3 hay 60-70%) kết hợp với TBG (Thyroxine-Binding Globulin) để vận chuyển đến các mô đích.\n- Loại trừ phương án:\n + A: Khi vào tế bào đích, T4 phải được khử iod nhờ enzyme 5'-deiodinase tạo thành T3, sau đó T3 mới là dạng gắn chủ yếu với thụ thể nhân để gây tác dụng sinh học.\n + C: T4 là hormone tan trong lipid, không tan trong nước.\n + D: T4 có ái lực rất cao với protein huyết tương nên phóng thích chậm, có thời gian bán hủy dài (6-7 ngày) và thời gian tác dụng kéo dài hơn so với T3.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 5. Sinh lý hormone giáp): Thyroxine (T4) là hormone do tuyến giáp bài tiết (chiếm khoảng 90% lượng hormone giáp). T4 có tính chất không tan trong nước (tan trong lipid). Khi vào máu, gần như toàn bộ T4 kết hợp ngay lập tức với các protein huyết tương (khoảng 2/3 lượng hormone kết hợp với glycoprotein TBG - thyroxine-binding globulin, phần còn lại kết hợp với prealbumin và albumin). Do có ái lực cao với protein huyết tương nên T4 được phóng thích rất chậm vào mô đích (một nửa T4 giải phóng trong khoảng 6 ngày) và có thời gian bán hủy dài (khoảng 6 - 7 ngày), thời gian tác dụng kéo dài hơn so với T3 (T3 có ái lực thấp hơn, phóng thích nhanh hơn trong 1 ngày và thời gian bán hủy ngắn hơn khoảng 24 giờ). Khi vào trong tế bào đích, T4 được enzyme 5'deiodinase chuyển thành T3; chỉ có dạng T3 mới gắn vào thụ thể nhân đặc hiệu (thyroxine receptor) để tác động lên sự biểu hiện gen.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q19",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 19,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "BNnghingờcóHC Cushing nội sinh cường chức năng thượng thận, cần làm xét nghiệm nào đểchẩn đoán vềtình trạng rối loạn hormone? Nghiệm pháp kích thích bằng Dexamethasone",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nghiệm pháp ức chếbằng Dexamethasone"
+        },
+        {
+          "key": "B",
+          "text": "Nghiệm pháp kích thích bằng ACTH"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Nghiệm pháp ức chếbằng ACTH"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Chẩn đoán tình trạng thừa cortisol bệnh lý cần dùng nghiệm pháp động đánh giá sự mất khả năng ức chế của trục hạ đồi - tuyến yên - thượng thận.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Nghi ngờ hội chứng Cushing nội sinh (cường chức năng tuyến thượng thận).\n- Đối chiếu y lý: Để chẩn đoán tình trạng tăng tiết cortisol bệnh lý (hội chứng Cushing nội sinh), cần thực hiện nghiệm pháp ức chế bằng Dexamethasone (như nghiệm pháp ức chế Dexamethasone 1 mg qua đêm) dựa trên cơ chế điều hòa ngược âm tính.\n- Loại trừ phương án:\n + B: Nghiệm pháp kích thích bằng ACTH (Synacthen test) dùng trong chẩn đoán suy thượng thận mạn.\n + C: Phương án không đầy đủ nội dung.\n + D: Không có nghiệm pháp ức chế bằng ACTH để chẩn đoán hội chứng Cushing.\n- Kết luận: Chọn A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 11. Sinh lý bệnh hội chứng Cushing & Bài 13. Dược lý của nhóm thuốc glucocorticoid): Để chẩn đoán xác định tình trạng tăng tiết cortisol bệnh lý hay hội chứng Cushing nội sinh, các xét nghiệm hormone và nghiệm pháp động được thực hiện bao gồm: đo cortisol nước bọt lúc nửa đêm, cortisol tự do nước tiểu 24 giờ, và nghiệm pháp ức chế bằng Dexamethasone (như nghiệm pháp ức chế bằng Dexamethasone 1 mg qua đêm để chẩn đoán xác định, hoặc nghiệm pháp ức chế bằng Dexamethasone liều cao để phân biệt nguyên nhân u tuyến yên tiết ACTH và u tiết ACTH lạc chỗ). Nghiệm pháp dựa trên nguyên lý cơ chế điều hòa ngược, Dexamethasone là một glucocorticoid có khả năng ức chế hạ đồi - tuyến yên làm giảm ACTH kích thích lên thượng thận từ đó làm giảm nồng độ cortisol máu.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q20",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 20,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hội chứng 4 nhiều ởBN đái tháo đường được hình thành theo thứtựsau Uống nhiều-tiểu nhiều-sụt cân nhiều-ăn nhiều",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tiểu nhiều-uống nhiều-sụt cân nhiều-ăn nhiều"
+        },
+        {
+          "key": "B",
+          "text": "Ăn nhiều-Sụt cân nhiều-Tiểu nhiều-Uống nhiều"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Sụt cân nhiều-Ăn nhiều-Uống nhiều-Tiểu nhiều"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Cơ chế bắt đầu từ tình trạng đường huyết tăng vượt ngưỡng tái hấp thu của thận gây niệu thẩm thấu.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Hội chứng 4 nhiều ở bệnh nhân đái tháo đường diễn tiến theo thứ tự bệnh sinh nào.\n- Đối chiếu y lý: Nồng độ glucose máu tăng vượt ngưỡng tái hấp thu của thận (> 180 mg/dL) gây ra tiểu nhiều thẩm thấu (tiểu nhiều) -> mất nước và giảm thể tích kích thích trung tâm khát ở vùng hạ đồi (uống nhiều) -> tế bào thiếu glucose sử dụng kết hợp với dị hóa mô mỡ/protein để bù đắp năng lượng gây sụt cân (sụt cân nhiều) -> thiếu hụt năng lượng nội bào mạn tính kích thích trung tâm thèm ăn (ăn nhiều).\n- Loại trừ phương án:\n + B, C, D: Đều sai thứ tự logic bệnh sinh (tiểu nhiều phải xảy ra đầu tiên, dẫn đến uống nhiều, sụt cân và cuối cùng là ăn nhiều).\n- Kết luận: Đáp án đúng là A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 8. Sinh lý bệnh đái tháo đường): Nồng độ glucose huyết tăng cao vượt quá ngưỡng tái hấp thu của thận gây xuất hiện glucose trong nước tiểu và kéo theo nước gây ra tình trạng tiểu nhiều thẩm thấu (tiểu nhiều). Sự mất nước, điện giải và giảm thể tích dịch do tiểu nhiều gây tăng áp lực thẩm thấu máu, kích thích trung tâm khát ở vùng hạ đồi gây ra cảm giác khát và uống nhiều. Tình trạng tế bào không thu nhận/sử dụng được glucose cùng với sự đào thải glucose ra nước tiểu gây mất năng lượng, kết hợp với ly giải mô mỡ, glycogen và protein cơ để bù đắp năng lượng dẫn đến sụt cân nhiều. Sự thiếu hụt năng lượng nội bào mạn tính kích thích trung tâm thèm ăn gây ra ăn nhiều. Do đó, chuỗi cơ chế bệnh sinh diễn ra theo thứ tự: Tiểu nhiều -> Uống nhiều -> Sụt cân nhiều -> Ăn nhiều.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q21",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 21,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Đỉnh tiết cortisol thường cao nhất vào thời điểm nào trong ngày Buổi sáng",
+      "options": [
+        {
+          "key": "A",
+          "text": "Buổi trưa"
+        },
+        {
+          "key": "B",
+          "text": "Buổi chiều"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Buổi tối"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Cortisol được tiết theo nhịp sinh học ngày đêm, đạt đỉnh vào đầu buổi sáng khi thức dậy.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Đỉnh tiết cortisol cao nhất vào thời điểm nào trong ngày.\n- Đối chiếu y lý: Cortisol vỏ thượng thận được bài tiết theo nhịp ngày đêm dưới sự điều hòa của trục Hạ đồi - Tuyến yên - Thượng thận (HPA). Nồng độ cortisol đạt đỉnh cao nhất vào khoảng 7 - 9 giờ sáng và giảm dần về chiều tối, đạt mức thấp nhất vào nửa đêm.\n- Loại trừ phương án:\n + A: Buổi trưa nồng độ cortisol đang trong xu hướng giảm dần.\n + B: Buổi chiều nồng độ cortisol giảm thấp hơn buổi sáng.\n + D: Buổi tối nồng độ cortisol ở mức rất thấp.\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 4. Sinh lý hormone vỏ thượng thận): Về mặt sinh lý, cortisol được tiết ra theo chu kỳ sinh học của cơ thể (nhịp ngày đêm), nồng độ bài tiết cortisol cao nhất trong thời điểm từ 7 – 9 giờ sáng. Càng về chiều, sự bài tiết cortisol càng giảm và đạt mức thấp nhất là vào giữa đêm.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q22",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 22,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Insulin ức chếquá trình nào sau đây? Tân tạo glucose",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ly giải mô mỡ"
+        },
+        {
+          "key": "B",
+          "text": "Dựtrữđường dưới dạng glycogen"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tổng hợp protein"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Insulin là hormone đồng hóa, giúp hạ đường huyết bằng cách kích thích tích trữ và ức chế tạo mới glucose.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Quá trình bị ức chế bởi insulin.\n- Đối chiếu y lý: Insulin là hormone làm giảm glucose máu. Tại gan, insulin kích thích tổng hợp glycogen, đồng thời ức chế các enzyme tham gia vào quá trình tân tạo glucose từ các tiền chất không phải carbohydrate.\n- Loại trừ phương án:\n + A: Insulin ức chế ly giải mô mỡ, tuy nhiên trong chuyển hóa carbohydrate tại gan, tác dụng chính yếu được đề cập là ức chế tân tạo glucose.\n + B: Insulin kích thích dự trữ đường dưới dạng glycogen (không phải ức chế).\n + D: Insulin kích thích tổng hợp protein tại cơ quan và tế bào (không phải ức chế).\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 6. Sinh lý hormone tụy nội tiết): Tại gan, insulin kích thích enzyme GS (glycogen synthase) tổng hợp glucose thành glycogen dự trữ hoặc kích thích chuyển glucose thành acid béo, đồng thời ức chế quá trình tân tạo glucose. Ngoài ra, tại mô mỡ insulin ngăn chặn sự ly giải triglyceride và giải phóng acid béo vào máu bằng cách ức chế enzyme lipase nhạy cảm hormone HSL (ức chế ly giải mô mỡ); tại tế bào insulin kích thích quá trình tổng hợp các protein mới tại ribosome và ức chế sự thoái biến các protein trong lysosome.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q23",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 23,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Biểu hiện của thiếu aldosterone? Tăng natri niệu",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng natri máu"
+        },
+        {
+          "key": "B",
+          "text": "Giảm kali máu"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Hạđường huyết"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Aldosterone có chức năng tái hấp thu Na+ và bài tiết K+ tại ống thận xa.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Biểu hiện khi thiếu hụt aldosterone.\n- Đối chiếu y lý: Aldosterone kích thích tái hấp thu Na+ và nước, đồng thời tăng đào thải K+ tại ống lượn xa và ống góp. Khi thiếu aldosterone, thận giảm tái hấp thu Na+, dẫn đến mất Na+ qua nước tiểu (tăng natri niệu), kéo theo giảm natri máu, giảm thể tích tuần hoàn và tăng kali máu.\n- Loại trừ phương án:\n + A: Thiếu aldosterone gây giảm natri máu, không phải tăng natri máu.\n + B: Thiếu aldosterone gây tăng kali máu, không phải giảm kali máu.\n + D: Thiếu aldosterone ảnh hưởng chính lên điện giải và thể tích, hạ đường huyết là do thiếu cortisol.\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 4. Sinh lý hormone vỏ thượng thận & Bài 10. Sinh lý bệnh suy thượng thận mạn): Aldosterone có vai trò kích thích tái hấp thu chủ động Na+ (kéo theo nước) và bài tiết K+, H+ tại ống lượn xa và ống góp của thận. Thiếu aldosterone (như trong suy thượng thận nguyên phát / bệnh Addison) làm giảm khả năng giữ natri và giảm bài tiết kali, dẫn đến không thể giảm lượng natri trong nước tiểu xuống dưới 50 mEq/ngày (tăng lượng natri thải trong nước tiểu / tăng natri niệu), từ đó gây giảm dịch ngoại bào, giảm natri máu, giảm thể tích huyết tương, giảm huyết áp, tụt huyết áp tư thế đứng, giảm cung lượng tim, giảm lượng máu đến thận, tăng urea máu, đồng thời có thể gây tăng kali máu và toan máu nhẹ.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q24",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 24,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hội chứng Cushing có nguồn gốc từsựtăng sản xuất cortisol ởvùng nào? Tủy thượng thận",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lớp cầu của vỏthượng thận"
+        },
+        {
+          "key": "B",
+          "text": "Lớp bó của vỏthượng thận"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Lớp lưới của vỏthượng thận"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Glucocorticoid (cortisol) được tổng hợp chính tại lớp giữa của vỏ thượng thận.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Vùng thượng thận sản xuất cortisol liên quan đến hội chứng Cushing.\n- Đối chiếu y lý: Vỏ thượng thận gồm 3 lớp: lớp cầu (tiết mineralocorticoid/aldosterone), lớp bó (tiết glucocorticoid/cortisol), lớp lưới (tiết androgen). Hội chứng Cushing xuất phát từ tình trạng tăng sản xuất hoặc thừa dư cortisol, có nguồn gốc từ lớp bó vỏ thượng thận.\n- Loại trừ phương án:\n + A: Lớp cầu tiết aldosterone.\n + C: Tủy thượng thận tiết catecholamine (adrenaline và noradrenaline).\n + D: Lớp lưới tiết androgen.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 4. Sinh lý hormone vỏ thượng thận & Bài 11. Sinh lý bệnh hội chứng Cushing): Hội chứng Cushing là hội chứng lâm sàng gây ra do tình trạng phơi nhiễm mạn tính với nồng độ cao glucocorticoid (cortisol) lưu hành trong máu. Trong đó, hormone cortisol (glucocorticoid) do các tế bào lớp bó (zona fasciculata - lớp nằm ở giữa của vỏ thượng thận) tổng hợp và bài tiết dưới sự kích thích của hormone ACTH từ thùy trước tuyến yên.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q25",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 25,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Điều nào là đúng trong suy thượng thận thứphát? Không thiếu cortisol",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không thiếu aldosterone"
+        },
+        {
+          "key": "B",
+          "text": "Không thiếu androgen"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Không thiếu ATCH"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Aldosterone chủ yếu chịu sự điều hòa của hệ RAAS và nồng độ K+ máu, ít phụ thuộc vào ACTH tuyến yên.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Đặc điểm đúng của suy thượng thận thứ phát (do thiếu ACTH từ tuyến yên).\n- Đối chiếu y lý: Trong suy thượng thận thứ phát, sự thiếu hụt ACTH gây giảm sản xuất cortisol và androgen. Tuy nhiên, sự tiết aldosterone ở lớp cầu chủ yếu do hệ thống Renin-Angiotensin (RAAS) và nồng độ kali máu điều hòa nên bệnh nhân không bị thiếu aldosterone.\n- Loại trừ phương án:\n + B: Suy thượng thận thứ phát có thiếu androgen do thiếu ACTH.\n + C: Suy thượng thận thứ phát có thiếu cortisol do thiếu ACTH.\n + D: Suy thượng thận thứ phát xảy ra do thiếu ACTH từ tuyến yên.\n- Kết luận: Đáp án đúng là A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 10. Sinh lý bệnh suy thượng thận mạn): Trong suy thượng thận thứ phát, sự thiếu hụt ACTH làm giảm tiết cortisol và androgen của vỏ thượng thận. Ngược lại, bệnh nhân không thiếu aldosterone (sự tiết aldosterone vẫn còn được duy trì) vì aldosterone ít chịu ảnh hưởng của ACTH mà chủ yếu được điều hòa bởi hệ thống Renin - Angiotensin và nồng độ K+ máu; do đó bệnh nhân không có các triệu chứng giảm natri máu hoặc tăng kali máu do thiếu mineralocorticoid. Ngoài ra, suy thượng thận thứ phát không có triệu chứng sạm da vì không có sự tăng tiết ACTH.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q26",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 26,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Bệnh lý suy thượng thận thứphát do suy tuyến yên có biểu hiện gì? Da nhợt nhạt",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm aldosterone máu nặng"
+        },
+        {
+          "key": "B",
+          "text": "Không bịhạđường huyết"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Không thiếu các hormone khác của tuyến yên"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Thiếu ACTH kéo theo giảm MSH, khiến da không bị sạm mà có màu nhợt nhạt đặc trưng.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Triệu chứng đặc trưng của suy thượng thận thứ phát do suy tuyến yên.\n- Đối chiếu y lý: Suy tuyến yên làm giảm bài tiết ACTH và các peptide liên quan (MSH), dẫn đến tế bào sắc tố không được kích thích. Do đó, khác với suy thượng thận nguyên phát (da sạm), bệnh nhân suy tuyến yên có biểu hiện da nhợt nhạt.\n- Loại trừ phương án:\n + A: Aldosterone vẫn được duy trì qua hệ RAAS nên không bị giảm nặng.\n + B: Bệnh nhân suy tuyến yên dễ bị hạ đường huyết do thiếu cả cortisol và GH.\n + D: Suy tuyến yên thường đi kèm thiếu các hormone tuyến yên khác (TSH, FSH, LH, GH).\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 10. Sinh lý bệnh suy thượng thận mạn): Trong suy thượng thận thứ phát do suy tuyến yên, bệnh cảnh lâm sàng tương tự suy thượng thận nguyên phát nhưng có một số điểm khác biệt đặc trưng: (1) Không sạm da: do không có sự tăng tiết ACTH và các peptide liên hệ nên không có triệu chứng sạm da, bệnh nhân suy tuyến yên thường có màu da nhợt nhạt; (2) Không thiếu aldosterone: sự tiết aldosterone vẫn được duy trì nên bệnh nhân không bị giảm aldosterone máu nặng và không có triệu chứng giảm natri máu hay tăng kali máu; (3) Hạ glucose huyết thường gặp hơn vì thiếu đồng thời ACTH và hormone tăng trưởng (GH); (4) Các triệu chứng khác của suy tuyến yên (thiếu các hormone khác của tuyến yên) có thể cùng hiện diện.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q27",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 27,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hậu quảcủa tình trạng thiếu hụt cortisol là gì? Chán ăn",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng huyết áp"
+        },
+        {
+          "key": "B",
+          "text": "Tăng kali máu"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tăng cân"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Cortisol kích thích thèm ăn và duy trì chức năng tiêu hóa bình thường.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Hậu quả của tình trạng thiếu hụt cortisol đối với cơ thể.\n- Đối chiếu y lý: Thiếu cortisol làm giảm tân tạo đường, giảm chức năng tiêu hóa và giảm tiết acid dạ dày, dẫn đến triệu chứng chán ăn, buồn nôn, mệt mỏi và sụt cân.\n- Loại trừ phương án:\n + A: Thiếu cortisol gây hạ huyết áp do giảm đáp ứng với catecholamine.\n + B: Tăng kali máu là hậu quả của thiếu aldosterone, không phải do thiếu cortisol.\n + D: Thiếu cortisol gây sụt cân, không phải tăng cân (tăng cân gặp trong thừa cortisol/Cushing).\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 10. Sinh lý bệnh suy thượng thận mạn): Hậu quả của thiếu hụt cortisol bao gồm: (1) Rối loạn chuyển hóa: giảm tân sinh đường, giảm huy động và sử dụng mỡ, giảm dự trữ glycogen trong gan, hạ glucose huyết khi đói, gầy sút / sụt cân; (2) Tiêu hóa: ăn mất ngon / chán ăn, buồn nôn, nôn mửa, đau bụng, giảm acid dịch vị; (3) Thần kinh: mệt mỏi, giảm sinh lực, vô cảm, lú lẫn, rối loạn tâm thần; (4) Tim mạch: giảm đáp ứng với catecholamine, giảm thể tích huyết tương, giảm huyết áp (hạ huyết áp); (5) Thận: giảm khả năng bài tiết nước tự do, tăng lượng natri mất qua nước tiểu. Trong khi đó, tăng kali máu là biểu hiện đặc trưng của thiếu aldosterone (mineralocorticoid), còn tăng huyết áp và tăng cân là biểu hiện của thừa cortisol (hội chứng Cushing).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q28",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 28,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Trong cơ chếđiều hòa ngược âm, khi nồng độfT4 trong máu tăng: fT4 ức chếngược lên vùng hạđồi",
+      "options": [
+        {
+          "key": "A",
+          "text": "fT4 ức chếngược lên vùng tuyến yên"
+        },
+        {
+          "key": "B",
+          "text": "fT4 ức chếngược lên cảvùng tuyến yên và hạđồi"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "fT4 ức chếngược lên cảvùng tuyến yên, hạđồi và tuyến giáp"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Hormone giáp tự do (fT4) tác động điều hòa ngược âm tính lên các tầng điều khiển cao hơn thuộc trục Hạ đồi - Tuyến yên.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Nồng độ fT4 tăng cao trong máu và cơ chế điều hòa ngược âm tính (negative feedback).\n- Đối chiếu y lý: Trục Hạ đồi - Tuyến yên - Tuyến giáp hoạt động theo cơ chế điều hòa ngược âm tính. Khi nồng độ fT4 trong máu tăng cao, fT4 sẽ quay lại ức chế ngược lên cả vùng hạ đồi (giảm tiết TRH) và tuyến yên (giảm tiết TSH).\n- Loại trừ phương án: Phương án A thiếu vùng hạ đồi; phương án D sai vì fT4 không ức chế ngược lên chính tuyến giáp theo sơ đồ trục điều hòa sinh lý.\n- Kết luận: Chọn đáp án B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu hệ nội tiết & Bài 5. Sinh lý hormone giáp): Trục hạ đồi – tuyến yên – tuyến giáp hoạt động theo 3 cấp độ: vùng hạ đồi bài tiết hormone TRH kích thích tuyến yên trước phóng thích TSH, TSH theo máu đến kích thích tuyến giáp tổng hợp và bài tiết hormone giáp (T3, T4 / fT4). Theo cơ chế điều hòa ngược âm tính (negative feedback), khi nồng độ hormone giáp (T3, T4 / fT4) tăng lên trong máu, chính hormone này sẽ quay lại ức chế ngược lên cả vùng hạ đồi (làm giảm phóng thích TRH) và tuyến yên (làm giảm phóng thích TSH), kéo theo giảm bài tiết T3, T4 tại tuyến giáp, đưa nồng độ hormone giáp trở về mức hằng định bình thường.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q29",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 29,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Bệnhnhânđái tháo đường type 2 được khuyên tăng cường vận động hợp lý nhằm mục đích gì? Tăng tân sinh đường",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cải thiện tác dụng của insulin"
+        },
+        {
+          "key": "B",
+          "text": "Tăng glucose huyết lúc đói"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tăng HbA1C"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Vận động thể lực kích thích sự di chuyển của kênh GLUT4 lên màng tế bào, gia tăng sự nhạy cảm đối với insulin.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Tập luyện vận động thể lực hợp lý ở bệnh nhân đái tháo đường type 2.\n- Đối chiếu y lý: Vận động thể lực giúp làm tăng sự chiêu mộ kênh GLUT4 lên bề mặt tế bào cơ xương và mô mỡ, làm tăng thu nhận glucose và cải thiện tác dụng (độ nhạy cảm) của insulin ở mô ngoại biên.\n- Loại trừ phương án: Phương án B và D sai vì vận động giúp giảm nồng độ glucose huyết và giảm HbA1c, không làm tăng.\n- Kết luận: Chọn đáp án A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 6. Sinh lý hormone tụy nội tiết & Bài 8. Sinh lý bệnh đái tháo đường): Lối sống ít vận động thể lực là một yếu tố nguy cơ của đái tháo đường típ 2 dẫn đến tình trạng đề kháng insulin. Bệnh nhân đái tháo đường típ 2 được khuyên tăng cường vận động / tập luyện thể thao hợp lý nhằm mục đích giảm glucose huyết và cải thiện tác dụng (cải thiện độ nhạy cảm) của insulin ở các mô ngoại biên (mô cơ xương và mô mỡ). Về cơ chế phân tử, lao động hoặc tập luyện thể thao kích thích các túi chứa kênh GLUT4 di chuyển hòa màng lên bề mặt màng tế bào (thông qua enzyme 5'-AMP-activated kinase), giúp tăng cường thu nhận glucose vào tế bào độc lập với insulin và giúp làm hạ nồng độ glucose huyết.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q30",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 30,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Tình trạng đềkháng insulin trong đái tháo đường type 2 dẫn đến hệquảgì? Giảm vận chuyển glucose vào tếbào",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm phân giải lipid"
+        },
+        {
+          "key": "B",
+          "text": "Giảm sản xuất glucose ởgan"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tăng sửdụng glucose ởmô cơ và mô mỡ"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Đề kháng insulin làm suy giảm sự thu nhận glucose tại các mô ngoại biên phụ thuộc insulin.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Tình trạng đề kháng insulin trong bệnh đái tháo đường type 2.\n- Đối chiếu y lý: Đề kháng insulin làm giảm khả năng gắn và tác động của insulin tại mô cơ và mô mỡ, dẫn đến hệ quả chính là giảm vận chuyển/thu nhận glucose vào trong tế bào.\n- Loại trừ phương án: Phương án A sai vì đề kháng insulin làm tăng phân giải lipid; phương án B sai vì làm tăng sản xuất glucose ở gan; phương án D sai vì làm giảm sử dụng glucose ở mô cơ và mô mỡ.\n- Kết luận: Chọn đáp án C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 8. Sinh lý bệnh đái tháo đường): Đề kháng insulin là sự giảm khả năng tác dụng của insulin ở các mô ngoại biên (mô cơ, gan, mô mỡ) dẫn đến hệ quả làm giảm thu nhận / vận chuyển glucose vào tế bào ở mô cơ xương và mô mỡ (giảm sử dụng glucose ở mô ngoại biên), không ức chế được tình trạng sản xuất glucose từ gan (tăng sản xuất glucose ở gan) và làm tăng phóng thích acid béo tự do từ mô mỡ, từ đó gây tăng nồng độ glucose huyết.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q31",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 31,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "BNcótăng6kgtrong1nămnay,tụmỡởmávàcằm,nghicóHCCushing. Kết quảxét nghiệm Cortisol 16 μg/dL (bình thường 5-23 μg/dL). Kết luận gì trong trường hợp này? Cortisol máu bình thường chứng tỏkhông có tăng tiết cortisol nội sinh",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cần đo ACTH đểchẩn đoán xác định HC Cushing"
+        },
+        {
+          "key": "B",
+          "text": "Cần làm thêm nghiệm pháp ức chếDexamethasone liều thấp"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Cortisol không tăng chứng tỏkhông có hội chứng Cushing"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Cortisol máu bài tiết theo nhịp ngày đêm nên một trị số cortisol nền bình thường không giúp loại trừ hội chứng Cushing.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân có lâm sàng gợi ý hội chứng Cushing (tăng cân, tụ mỡ mặt và cằm), nồng độ cortisol máu nền 16 μg/dL (nằm trong giới hạn tham chiếu 5-23 μg/dL).\n- Đối chiếu y lý: Cortisol có nhịp tiết sinh học theo ngày đêm nên một giá trị cortisol máu nền ngẫu nhiên nằm trong khoảng bình thường không thể loại trừ hội chứng Cushing. Bước tiếp theo để chẩn đoán xác định tình trạng tăng tiết cortisol tự chủ là làm nghiệm pháp ức chế bằng Dexamethasone liều thấp (1 mg qua đêm hoặc 2 mg/ngày trong 48 giờ).\n- Loại trừ phương án:\n + A: Nồng độ ACTH máu chỉ được đo sau khi đã chẩn đoán xác định hội chứng Cushing nhằm phân biệt nguyên nhân phụ thuộc ACTH hay không phụ thuộc ACTH.\n + C: Phương án không đầy đủ nội dung.\n + D: Cortisol máu nền bình thường không loại trừ được bệnh lý do mất nhịp ngày đêm hoặc tăng tiết ngắt quãng.\n- Kết luận: Chọn B.",
+      "textbook_excerpt": "Theo tài liệu Nguyên lý thăm dò chức năng nội tiết và Sách Nội tiết học cơ bản (Bài 11. Sinh lý bệnh hội chứng Cushing): Cortisol là hormone bài tiết theo nhịp ngày đêm (nồng độ cao nhất vào sáng sớm 7–9 giờ), do đó việc sử dụng duy nhất một giá trị cortisol nền tại một thời điểm (như nồng độ cortisol máu nằm trong khoảng tham chiếu) không thể kết luận là không có hội chứng Cushing hay không có tăng tiết cortisol. Để chẩn đoán xác định tình trạng tăng tiết cortisol bệnh lý / hội chứng Cushing nội sinh, cần thực hiện nghiệm pháp động ức chế đối với tình trạng cường chức năng, cụ thể là nghiệm pháp ức chế bằng Dexamethasone liều thấp (nghiệm pháp ức chế bằng Dexamethasone 1 mg qua đêm), đo cortisol tự do nước tiểu 24 giờ, hoặc đo cortisol nước bọt lúc nửa đêm. Sau khi đã chẩn đoán xác định hội chứng Cushing nội sinh bằng các xét nghiệm trên, bước kế tiếp mới là đo nồng độ ACTH máu để chẩn đoán phân biệt nguyên nhân.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q32",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 32,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "BN Suy thượng thận mạn, sạm da và có ACTH máu tăng cao. CT scan bụng có hình ảnh vôi hóa ở2 thượng thận. Nguyên nhân nào được nghĩ đến nhiều nhất: Suy thượng thận thứphát",
+      "options": [
+        {
+          "key": "A",
+          "text": "U ác tính di căn"
+        },
+        {
+          "key": "B",
+          "text": "Lao thượng thận"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Viêm thượng thận tựmiễn"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Vôi hóa hai tuyến thượng thận kèm suy thượng thận nguyên phát là dấu hiệu đặc trưng của một bệnh nhiễm trùng mạn tính.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân suy thượng thận mạn nguyên phát (sạm da, ACTH máu tăng cao), hình ảnh CT scan cho thấy vôi hóa ở 2 tuyến thượng thận.\n- Đối chiếu y lý: Tổn thương vôi hóa hai bên tuyến thượng thận kèm theo suy thượng thận nguyên phát là hình ảnh đặc trưng nhất của Lao thượng thận (nguyên nhân hàng đầu gây suy thượng thận mạn ở các nước đang phát triển).\n- Loại trừ phương án:\n + A: U ác tính di căn thượng thận thường gây phì đại, phá hủy thượng thận hai bên và ít khi thể hiện hình ảnh vôi hóa đặc trưng.\n + C: Phương án không đầy đủ nội dung.\n + D: Viêm thượng thận tự miễn (bệnh Addison tự miễn) thường gây teo nhỏ hai tuyến thượng thận trên hình ảnh học và không có vôi hóa.\n- Kết luận: Chọn B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 10. Sinh lý bệnh suy thượng thận mạn): Nồng độ ACTH máu tăng cao và sạm da là biểu hiện đặc trưng của suy thượng thận nguyên phát (do cortisol máu giảm khiến tuyến yên tăng tiết ACTH rất cao). Hình ảnh vôi hóa ở hai tuyến thượng thận trên X-quang bụng (gặp trong khoảng 50% trường hợp) và trên CT-scan bụng (cho tỉ lệ phát hiện cao hơn, ngoài ra CT còn phát hiện phì đại hai tuyến thượng thận) là tổn thương đặc trưng của nguyên nhân Lao thượng thận (một nguyên nhân thường gặp gây suy thượng thận nguyên phát ở các nước đang phát triển).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q33",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 33,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "Thực hiện nghiệm pháp kích thích bằng cosyntropin 250 μg. Kết quả, nồng độcortisol máu vào các thời điểm trước nghiệm pháp, sau nghiệm pháp, sau 30 phút và sau 60 phút lần lượt là 5 μg/dl, 22 μg/dl, 19 μg/dl. Kết luận này là gì? Suy thượng thận mạn",
+      "options": [
+        {
+          "key": "A",
+          "text": "Suy thượng thận thứphát"
+        },
+        {
+          "key": "B",
+          "text": "Bệnh Addison"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Bình thường"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Đáp ứng nồng độ cortisol máu tăng đạt mốc trên 18 µg/dL sau khi tiêm cosyntropin phản ánh vỏ thượng thận còn chức năng đáp ứng tốt.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Nồng độ cortisol máu trước nghiệm pháp là 5 µg/dL, sau khi tiêm cosyntropin 250 µg lần lượt là 22 µg/dL (sau 30 phút) và 19 µg/dL (sau 60 phút).\n- Đối chiếu y lý: Người có chức năng vỏ thượng thận bình thường khi làm nghiệm pháp kích thích bằng 250 µg cosyntropin sẽ có nồng độ cortisol máu đỉnh tăng > 18 µg/dL.\n- Loại trừ phương án:\n + A. Suy thượng thận thứ phát: Dù đôi khi nghiệm pháp này cho đáp ứng cortisol > 18 µg/dL ở giai đoạn sớm, về mặt tiêu chuẩn kết quả nghiệm pháp cortisol tăng > 18 µg/dL được kết luận là đáp ứng bình thường.\n + B. Bệnh Addison: Suy thượng thận nguyên phát vỏ thượng thận bị tổn thương nghiêm trọng nên cortisol không tăng sau tiêm cosyntropin (vẫn ở mức thấp < 18 µg/dL).\n- Kết luận: Kết quả nghiệm pháp kích thích cosyntropin cho nồng độ cortisol > 18 µg/dL kết luận là Bình thường. Đáp án đúng là D.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 10. Sinh lý bệnh suy thượng thận mạn): Nghiệm pháp kích thích bằng ACTH tổng hợp (cosyntropin 250 µg) được thực hiện bằng cách đo nồng độ cortisol huyết tương lúc 08 giờ sáng, tiêm bắp hoặc tĩnh mạch 250 µg cosyntropin và đo lại nồng độ cortisol máu sau 30 phút và 60 phút. Ở người bình thường, nồng độ cortisol huyết tương sau khi tiêm cosyntropin đáp ứng tăng cao hơn 18 µg/dL (trong suy thượng thận thứ phát, nghiệm pháp kích thích bằng 250 µg cosyntropin cũng thường cho kết quả đáp ứng cortisol máu tăng > 18 µg/dL như người bình thường, không giúp nhận ra suy tuyến yên - thượng thận). Ngược lại, bệnh nhân bệnh Addison (suy thượng thận nguyên phát) có nồng độ cortisol máu không tăng sau khi tiêm cosyntropin (duy trì ở ngưỡng thấp). Do đó, kết quả nồng độ cortisol máu sau khi tiêm cosyntropin đạt 22 µg/dL và 19 µg/dL (đều > 18 µg/dL) thể hiện đáp ứng tăng nồng độ cortisol máu như ở người bình thường.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q34",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 34,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Thuốc nào sau đây thuộc nhóm sulfonylureas?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gliclazide"
+        },
+        {
+          "key": "B",
+          "text": "Liraglutide"
+        },
+        {
+          "key": "C",
+          "text": "Pioglitazone"
+        },
+        {
+          "key": "D",
+          "text": "Sitagliptin"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Nhóm sulfonylurea thế hệ 2 gồm các thuốc có tiền tố 'Gli-' giúp kích thích tế bào beta tụy tiết insulin.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Thuốc thuộc nhóm sulfonylureas.\n- Đối chiếu y lý: Gliclazide là thuốc hạ đường huyết đường uống thuộc nhóm Sulfonylureas thế hệ 2, kích thích tế bào beta tụy tiết insulin.\n- Loại trừ phương án: Liraglutide (B) thuộc nhóm đồng vận thụ thể GLP-1; Pioglitazone (C) thuộc nhóm Thiazolidinediones (TZD); Sitagliptin (D) thuộc nhóm ức chế DPP-4.\n- Kết luận: Chọn đáp án A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 9. Dược lý thuốc điều trị đái tháo đường): Thuốc nhóm Sulfonylureas (SU) được phân loại gồm SU thế hệ thứ 1 (Tolbutamide, chlorpropamide) và SU thế hệ thứ 2 gồm glyburide (glibenclamide), glimepiride, glipizide, gliclazide (gliclazide là thuốc thuộc nhóm sulfonylureas thế hệ 2). Trong khi đó, các thuốc khác được phân loại như sau: Liraglutide thuộc nhóm thuốc đồng vận thụ thể GLP-1 (GLP-1 receptor agonist / GLP-1 analog); Pioglitazone thuộc nhóm Thiazolidinediones (TZD); Sitagliptin thuộc nhóm thuốc ức chế enzyme DPP-4 (dipeptidyl peptidase-4 inhibitor).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q35",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 35,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "Một phụnữ57 tuổi đã dùng betamethasone liều cao trong 6 tháng đểđiều trịviêm đa sụn tái diễn nặng. Do điều trịliên tục, khảnăng cao BN bịtăng nguy cơ mắc rối loạn nào sau đây? Loãng xương",
+      "options": [
+        {
+          "key": "A",
+          "text": "Viêm loét đại tràng"
+        },
+        {
+          "key": "B",
+          "text": "Viêm khớp dạng thấp"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Đau thắt ngực khi gắng sức"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Glucocorticoid mạnh dùng liều cao kéo dài làm ức chế quá trình tạo xương và tăng tiêu xương, gây biến chứng hệ xương khớp phổ biến nhất.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân nữ 57 tuổi sử dụng betamethasone (glucocorticoid tổng hợp mạnh) liều cao liên tục trong 6 tháng.\n- Đối chiếu y lý: Glucocorticoid liều cao kéo dài gây ra biến chứng loãng xương do giảm hoạt tính nguyên bào xương, tăng tiêu xương của hủy cốt bào và giảm hấp thu calcium ở ruột. Mất xương xảy ra mạnh nhất trong 6 tháng đầu điều trị.\n- Loại trừ phương án:\n + A. Viêm loét đại tràng: Glucocorticoid là thuốc điều trị chống viêm, không phải nguyên nhân trực tiếp gây bệnh lý này.\n + B. Viêm khớp dạng thấp: Là bệnh lý khớp tự miễn, không phải tác dụng phụ do corticosteroid gây ra.\n + D. Đau thắt ngực khi gắng sức: Không phải là biến chứng đặc hiệu và điển hình nhất của việc dùng betamethasone 6 tháng so với loãng xương.\n- Kết luận: Rối loạn nguy cơ cao nhất BN gặp phải là Loãng xương (Phương án C). Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 13. Dược lý của nhóm thuốc glucocorticoid): Betamethasone là một glucocorticoid tổng hợp có hoạt tính mạnh. Sử dụng glucocorticoid (như betamethasone) liều cao kéo dài (điều trị liên tục) có biến chứng thường gặp là loãng xương và tăng nguy cơ gãy xương, liên quan trực tiếp đến liều và thời gian sử dụng. Quá trình mất xương thường xảy ra trong vòng 6 tháng đầu điều trị (ước tính từ 30 – 50% bệnh nhân điều trị glucocorticoid lâu dài sẽ có gãy xương do loãng xương). Glucocorticoid làm giảm mật độ xương theo nhiều cơ chế: ức chế hormone tăng trưởng, giảm hấp thu Ca2+ tại dạ dày – ruột (làm tăng hormone cận giáp PTH, gây tăng tiêu xương), ức chế nguyên bào xương làm giảm tạo xương và kích thích quá trình tiêu xương của hủy cốt bào do làm thay đổi quá trình tạo osteoprotegerin và RANKL.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q36",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 36,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": ". Một BN nam 78 tuổi bịĐTĐ type 2, đang điều trịvới thuốc viên hạđường huyết, BN nhập việnvì lơ mơ, thửđường huyết 50mg/dL (bình thường 70-110 mg/dL) Thuốc nào sau đây có khả năng gây ra tình trạng này cho BN?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Metformin"
+        },
+        {
+          "key": "B",
+          "text": "Pioglitazone"
+        },
+        {
+          "key": "C",
+          "text": "Glimepiride"
+        },
+        {
+          "key": "D",
+          "text": "Acarbose"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Nhóm thuốc hạ đường huyết có cơ chế kích thích tế bào beta tụy tăng tiết insulin độc lập với nồng độ glucose máu rất dễ gây hạ đường huyết ở người cao tuổi.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Nam 78 tuổi bị ĐTĐ type 2 nhập viện vì lơ mơ, đường huyết giảm còn 50 mg/dL (hạ đường huyết).\n- Đối chiếu y lý: Glimepiride thuộc nhóm Sulfonylurea (SU), có tác dụng kích thích tế bào beta tuyến tụy tiết insulin, gây hạ đường huyết kéo dài, nguy cơ này đặc biệt cao và nguy hiểm ở bệnh nhân lớn tuổi.\n- Loại trừ phương án:\n + A. Metformin: Thuốc nhóm Biguanide làm tăng nhạy cảm insulin ở ngoại vi, không kích thích tiết insulin nên hầu như không gây hạ đường huyết khi dùng đơn trị liệu.\n + B. Pioglitazone: Thuốc nhóm Thiazolidinedione (TZD) giảm đề kháng insulin, không gây tác dụng phụ hạ đường huyết đơn trị.\n + D. Acarbose: Thuốc ức chế enzyme alpha-glucosidase làm chậm hấp thu glucose ở ruột, không gây hạ đường huyết khi sử dụng một mình.\n- Kết luận: Glimepiride là thuốc gây hạ đường huyết cho bệnh nhân. Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 9. Dược lý thuốc điều trị đái tháo đường): Nhóm thuốc làm hạ glucose huyết (hypoglycemic agents) có tác dụng kích thích tế bào beta tụy tiết insulin, khi sử dụng có thể làm nồng độ glucose huyết hạ dưới mức bình thường (gây ra tác dụng ngoại ý hạ glucose huyết, có thể dẫn đến lơ mơ, co giật, hôn mê). Nhóm này bao gồm Sulfonylureas (SU, ví dụ như Glimepiride, Glibenclamide, Gliclazide, Glipizide) và Meglitinides. Cần đặc biệt thận trọng khi sử dụng các thuốc SU ở bệnh nhân lớn tuổi vì nếu xảy ra biến chứng hạ glucose huyết có thể mang lại hậu quả nghiêm trọng. Ngược lại, Metformin (nhóm Biguanides) hiếm khi xảy ra tình trạng hạ glucose huyết, Acarbose (nhóm ức chế alpha-glucosidase) đơn trị liệu hoặc phối hợp với Metformin không gây hạ glucose huyết, và Pioglitazone (nhóm Thiazolidinediones/TZD) làm giảm đề kháng insulin cũng không gây hạ đường huyết đơn trị.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q37",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 37,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "BNnữ55tuổi,bịĐTĐtype2,THA,suythậnđangđiềutrịvớimetformin,glimepiride, losartanvàfurosemide.BNnhậpviệnvìnhiễmtoanacidlactic.Thuốcnàosau đây có thểgây ra nhiễm toan do acid lactic ởBN này?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Metformin"
+        },
+        {
+          "key": "B",
+          "text": "Glimepiride"
+        },
+        {
+          "key": "C",
+          "text": "Losartan"
+        },
+        {
+          "key": "D",
+          "text": "Furosemide"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Thuốc hạ đường huyết nhóm Biguanide bị đào thải qua thận và có tác dụng phụ nghiêm trọng là nhiễm toan acid lactic.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân ĐTĐ type 2 có suy thận, đang dùng nhiều thuốc và nhập viện vì nhiễm toan acid lactic.\n- Đối chiếu y lý: Metformin (nhóm Biguanide) được thải trừ qua thận dưới dạng không đổi. Khi bệnh nhân có suy thận, Metformin tích lũy trong cơ thể làm giảm chuyển hóa acid lactic ở gan, gây ra biến chứng nhiễm toan acid lactic.\n- Loại trừ phương án: Glimepiride (B), Losartan (C), Furosemide (D) không trực tiếp gây ra tác dụng phụ nhiễm toan acid lactic như Metformin.\n- Kết luận: Chọn đáp án A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 9. Dược lý thuốc điều trị đái tháo đường): Metformin (nhóm Biguanides) được đào thải qua thận dưới dạng không chuyển hóa và ảnh hưởng đến chuyển hóa acid lactic tại gan. Ở bệnh nhân suy thận, Metformin không được thải trừ, tích lũy trong cơ thể làm gia tăng nguy cơ nhiễm toan acid lactic (toan chuyển hóa tăng acid lactic). Nguy cơ này tương quan với liều và tăng lên ở những đối tượng có suy thận hoặc tình trạng giảm oxy mô.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q38",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 38,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "Bệnh nhân nữ40 tuổi, gần đây gầy sút, sụt 6kg, có sạm da. Thực hiện liệu pháp kích thích bằngACTHchothấynồngđộcortisolthấpkhôngthayđổi sau nghiệm pháp. Hỏi chẩn đoán phù hợp nhất trên bệnh nhân này là? Suy thượng thận thứphát",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bệnh Addison"
+        },
+        {
+          "key": "B",
+          "text": "Suy thượng thận tiên phát do tựmiễn"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Không bịsuy thượng thận"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Chú ý đến triệu chứng sạm da và phản ứng của vỏ thượng thận khi tiêm ACTH ngoại sinh.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Nữ 40 tuổi, gầy sút (sụt 6 kg), sạm da. Nồng độ cortisol máu thấp và không thay đổi sau nghiệm pháp kích thích bằng ACTH.\n- Đối chiếu y lý: Nồng độ cortisol không tăng sau khi tiêm ACTH chứng tỏ vỏ thượng thận đã bị tổn thương mất khả năng sản xuất cortisol (suy thượng thận nguyên phát). Sự sụt giảm cortisol kích thích tuyến yên tăng tiết ACTH và MSH gây ra triệu chứng sạm da đặc trưng của bệnh Addison.\n- Loại trừ phương án: B chưa đủ dữ kiện để khẳng định nguyên nhân tự miễn (cần thêm xét nghiệm kháng thể). C không phù hợp vì suy thượng thận thứ phát (tại tuyến yên/hạ đồi) không gây sạm da và thường có đáp ứng cortisol với ACTH ngoại sinh. D sai vì bệnh nhân có hạ cortisol rõ rệt.\n- Kết luận: Đáp án đúng nhất là A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 10. Sinh lý bệnh suy thượng thận mạn): Bệnh nhân có biểu hiện gầy sút, sụt cân, sạm da, kết hợp với nồng độ cortisol máu ở ngưỡng thấp và không tăng/không thay đổi sau nghiệm pháp kích thích bằng ACTH tổng hợp (cosyntropin 250 µg) là bệnh cảnh đặc trưng của suy thượng thận nguyên phát (bệnh Addison). Trong suy thượng thận nguyên phát, vỏ thượng thận bị tổn thương nên cortisol máu giảm làm tuyến yên tăng tiết ACTH rất cao gây sạm da, đồng thời tuyến thượng thận mất khả năng đáp ứng nên nồng độ cortisol không tăng sau khi tiêm ACTH. Ngược lại, suy thượng thận thứ phát (do suy tuyến yên/thiếu ACTH) không có triệu chứng sạm da (bệnh nhân có màu da nhợt nhạt) và nghiệm pháp kích thích bằng cosyntropin 250 µg thường cho kết quả cortisol máu tăng > 18 µg/dL như người bình thường.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q39",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 39,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Khi nói vềchuyển hóa glucid, phát biểu nào sau đây đúng? Trong máu, glucid được dựtrữdưới dạng glycogen",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saukhiglucoseđượchấpthuvàotếbàothìđivào ty thểvà qua chu trình Krebs đểtạo"
+        },
+        {
+          "key": "B",
+          "text": "năng lượng Chuyển hóa glucid có liên hệmật thiết với chuyển hóa lipid và protid"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Chuyển hóa glucid trong cơ thểkhông chịu ảnh hưởng của hormone"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Chuyển hóa glucid liên quan chặt chẽ với các chất dinh dưỡng khác qua các sản phẩm chuyển hóa trung gian.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Phát biểu đúng về chuyển hóa glucid trong cơ thể.\n- Đối chiếu y lý: Chuyển hóa glucid có mối liên hệ mật thiết với chuyển hóa lipid và protid thông qua các sản phẩm trung gian (như pyruvate, acetyl-CoA, glycerol, acid amin) và các con đường tân tạo đường.\n- Loại trừ phương án: Phương án A sai vì quá trình đường phân xảy ra ở bào tương trước khi pyruvate vào ty thể; phương án D sai vì chuyển hóa glucid chịu sự điều hòa chặt chẽ bởi nhiều hormone (insulin, glucagon, cortisol, GH, adrenaline...).\n- Kết luận: Chọn đáp án B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1, Bài 4, Bài 5, Bài 6, Bài 8 & Bài 9): (1) Chuyển hóa glucid có liên hệ mật thiết với chuyển hóa lipid và protid, thể hiện qua các con đường chuyển hóa trung gian như quá trình tân tạo glucose tại gan từ các sản phẩm của dị hóa protid (các acid amin như alanine, arginine...) và dị hóa lipid (glycerol), cũng như sự điều hòa phối hợp đồng thời chuyển hóa glucid, lipid và protid của các hormone (insulin, glucagon, cortisol, GH, hormone giáp, epinephrine); (2) Trong máu, glucid lưu hành dưới dạng glucose tự do (nồng độ glucose huyết), còn glycogen là dạng dự trữ của glucid nằm trong tế bào (chủ yếu ở tế bào gan và tế bào cơ xương); (3) Sau khi glucose vào tế bào, quá trình đường phân (glycolysis) diễn ra tại bào tương tạo pyruvate, sau đó mới vào ty thể đi vào chu trình Krebs và chuỗi truyền điện tử để tạo năng lượng; (4) Chuyển hóa glucid trong cơ thể chịu sự điều hòa và ảnh hưởng trực tiếp của nhiều hormone (insulin giúp hạ glucose huyết; glucagon, cortisol, GH, epinephrine, T3, T4 giúp tăng glucose huyết).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q40",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 40,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Đặc điểm nào đúng khi nói vềđường huyết mao mạch? Đo đường huyết mao mạch là đo lượng glucose trong tếbào hồng cầu",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đo đường huyết mao mạch là đo lượng glucose trong huyết tương"
+        },
+        {
+          "key": "B",
+          "text": "Có giá trịchính xác hơn đường huyết tĩnh mạch"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Phụthuộc vào hematocrit"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Kết quả đo đường huyết mao mạch bằng máy đo cá nhân bị ảnh hưởng đáng kể bởi tỷ lệ thể tích hồng cầu trong máu toàn phần.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Đặc điểm đúng của đường huyết mao mạch.\n- Đối chiếu y lý: Đo đường huyết mao mạch sử dụng mẫu máu toàn phần, do đó nồng độ glucose đo được phụ thuộc vào tỷ lệ hồng cầu (Hematocrit - Hct) của bệnh nhân. Hct cao làm giả giảm nồng độ đường huyết và ngược lại.\n- Loại trừ phương án: Phương án A sai vì đo máu toàn phần chứ không phải riêng huyết tương; phương án B sai vì xét nghiệm đường huyết tĩnh mạch tại phòng xét nghiệm có độ chính xác cao hơn.\n- Kết luận: Chọn đáp án D.",
+      "textbook_excerpt": "Không tìm thấy trong nguồn",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q41",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 41,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Insulin do tếbào nào ởđảo tụy tiết ra? Tếbào alpha",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tếbào beta"
+        },
+        {
+          "key": "B",
+          "text": "Tếbào delta"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tếbào PP"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Hãy nhớ lại các loại tế bào nội tiết khác nhau trong tiểu đảo Langerhans và hormone tương ứng do từng loại tế bào tổng hợp.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Tế bào chế tiết hormone insulin tại đảo tụy.\n- Đối chiếu y lý: Insulin là hormone tan trong nước có tác dụng hạ đường huyết, được tổng hợp và chế tiết bởi các tế bào beta (β) của tiểu đảo Langerhans ở tụy.\n- Loại trừ phương án:\n + B. Tế bào delta: Chế tiết somatostatin.\n + C. Tế bào alpha: Chế tiết glucagon.\n + D. Tế bào PP (tế bào F): Chế tiết polypeptide tụy.\n- Kết luận: Đáp án đúng là A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 6. Sinh lý hormone tụy nội tiết, Bài 8 & Bài 9): Insulin là hormone do các tế bào beta (tế bào β) của đảo tụy (tiểu đảo Langerhans) tổng hợp và chế tiết. Trong khi đó, các tế bào alpha (tế bào α) của đảo tụy có chức năng chế tiết glucagon.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q42",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 42,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Tác dụng của glucocorticoid lên chuyển hóa canxi của cơ thể? Tăng hấp thu canxi tại ruột non",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng thải canxi qua nước tiểu"
+        },
+        {
+          "key": "B",
+          "text": "Giảm huy động canxi từxương"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tăng hydroxy hóa vitamin D tại gan"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Xem xét tác động của glucocorticoid đối với sự hấp thu calci tại ruột, sự đào thải calci ở thận và quá trình hủy xương.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Tác dụng của nhóm thuốc/hormone glucocorticoid lên chuyển hóa canxi (calci) trong cơ thể.\n- Đối chiếu y lý: Glucocorticoid làm giảm hấp thu calci ở ruột (do ức chế tác dụng của vitamin D) và tăng đào thải calci qua đường niệu (nước tiểu), dẫn tới tình trạng cân bằng calci âm và nguy cơ loãng xương.\n- Loại trừ phương án:\n + B. Giảm huy động canxi từ xương: Sai, glucocorticoid thúc đẩy quá trình tiêu xương (tăng huy động calci từ xương).\n + C. Tăng hấp thu canxi tại ruột non: Sai, glucocorticoid làm giảm hấp thu calci ở ruột.\n + D. Tăng hydroxy hóa vitamin D tại gan: Sai, glucocorticoid làm giảm sự hydroxyl hóa vitamin D.\n- Kết luận: Đáp án đúng là A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 11. Sinh lý bệnh hội chứng Cushing & Bài 13. Dược lý của nhóm thuốc glucocorticoid): Tác dụng của glucocorticoid lên chuyển hóa calci và xương bao gồm: (1) Làm giảm sự hấp thu calci ở ruột (ức chế tác dụng của vitamin D dẫn đến giảm hấp thu calci tại ruột và ống thận); (2) Tăng thải calci qua đường niệu (qua nước tiểu), dẫn đến cân bằng calci âm; (3) Làm giảm sự hydroxyl hóa vitamin D tại gan; (4) Glucocorticoid ức chế sự tạo xương và thúc đẩy sự hủy xương (thúc đẩy tiêu xương / huy động calci từ xương), ức chế sự biệt hóa tạo cốt bào, thúc đẩy tế bào chết theo chương trình ở tạo cốt bào và kéo dài đời sống của hủy cốt bào; khi nồng độ calci máu thấp, tuyến cận giáp tăng tiết PTH thúc đẩy thêm sự hủy xương.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q43",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 43,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hormon nao cò́ thụ thể nằm trên mang t̀ếbào đích?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Estradiol"
+        },
+        {
+          "key": "B",
+          "text": "Cortisol"
+        },
+        {
+          "key": "C",
+          "text": "Vasopressin"
+        },
+        {
+          "key": "D",
+          "text": "Calcitriol"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Phân biệt hormone tan trong nước (cấu trúc peptide/protein) có thụ thể màng với hormone tan trong lipid (steroid) có thụ thể trong tế bào.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Hormone có vị trí thụ thể (receptor) nằm trên màng tế bào đích.\n- Đối chiếu y lý: Vasopressin (AVP/ADH) là hormone bản chất peptide (tan trong nước), gắn vào thụ thể liên kết protein G trên màng tế bào ống thận để kích thích tái hấp thu nước. Các hormone tan trong lipid (steroid, calcitriol) tác động qua thụ thể nội bào/nhân.\n- Loại trừ phương án:\n + A. Estradiol: Hormone steroid có thụ thể nằm trong nhân/tế bào chất.\n + B. Cortisol: Hormone steroid vỏ thượng thận có thụ thể nội bào.\n + D. Calcitriol: Hormone bản chất steroid (dạng hoạt tính của Vitamin D), thụ thể nằm trong nhân.\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu hệ nội tiết, Bài 2. Vùng hạ đồi và tuyến yên, Bài 4. Sinh lý hormone vỏ thượng thận & Bài 7. Điều hòa cân bằng calci và phosphate):\n1. Về phân loại hormone và vị trí thụ thể:\n- Các hormone tan trong nước (gồm các hormone cấu trúc peptide hoặc protein như các hormone vùng hạ đồi, hormone tuyến yên, AVP/Vasopressin, oxytocin... và các hormone amine như epinephrine, norepinephrine) tác động lên tế bào đích bằng cách gắn vào thụ thể trên màng tế bào đích (thụ thể màng, như thụ thể liên kết protein G, thụ thể liên kết kênh ion, thụ thể tyrosine kinase).\n- Các hormone tan trong lipid (gồm các hormone bản chất steroid như cortisol, aldosterone, estrogen/estradiol, progesterone, testosterone, calcitriol và hormone giáp T3, T4) tác động lên tế bào đích bằng cách gắn vào thụ thể nhân bên trong tế bào đích.\n2. Về Vasopressin (AVP/ADH):\n- Vasopressin (AVP) là hormone cấu trúc peptide nhỏ (gồm 9 acid amin) được tổng hợp tại vùng hạ đồi và bài tiết từ thùy sau tuyến yên.\n- Khi đến các tế bào biểu mô của ống lượn xa và ống góp tại thận, hormone AVP kết hợp với thụ thể màng (thuộc nhóm thụ thể liên kết protein G), kích thích tạo chất truyền tin thứ hai là cAMP nhằm đưa các túi chứa kênh aquaporin hòa màng để tái hấp thu nước.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q44",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 44,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hormon nao cù̉a vùng hạđồi có vai trò kích thích tuyên yên bái tiềt ACTH?́",
+      "options": [
+        {
+          "key": "A",
+          "text": "GnRH"
+        },
+        {
+          "key": "B",
+          "text": "CRH"
+        },
+        {
+          "key": "C",
+          "text": "TRH"
+        },
+        {
+          "key": "D",
+          "text": "GHRH"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Xác định hormone vùng hạ đồi kiểm soát trục hạ đồi - tuyến yên - vỏ thượng thận.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Hormone của vùng hạ đồi có chức năng kích thích tuyến yên bài tiết ACTH.\n- Đối chiếu y lý: CRH (Corticotropin-releasing hormone) do vùng hạ đồi tiết ra, di chuyển qua hệ mạch cửa hạ đồi - tuyến yên đến kích thích các tế bào tuyến yên trước tổng hợp và phóng thích ACTH.\n- Loại trừ phương án:\n + A. GnRH: Kích thích tuyến yên bài tiết LH và FSH.\n + C. TRH: Kích thích tuyến yên bài tiết TSH và prolactin.\n + D. GHRH: Kích thích tuyến yên bài tiết GH.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 2. Vùng hạ đồi và tuyến yên & Bài 4. Sinh lý hormone vỏ thượng thận): Hormone CRH (Corticotropin-releasing hormone), có bản chất là một chuỗi peptide gồm 41 acid amin do vùng hạ đồi bài tiết, có vai trò kích thích tuyến yên trước tổng hợp và phóng thích / bài tiết hormone ACTH (adrenocorticotropic hormone). Sau đó, ACTH theo máu đến kích thích vỏ thượng thận tổng hợp và bài tiết cortisol.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q45",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 45,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Thuốc hạđường huyết nào có dạng sửdụng đường tiêm? Thuốc ức chếDPP-4",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuốc đồng vận GLP-1"
+        },
+        {
+          "key": "B",
+          "text": "Thuốc ức chếalpha-glucosidase"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Thuốc ức chếSGLT-2"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Chú ý nhóm thuốc hạ đường huyết có bản chất chuỗi peptide bị phân hủy bởi enzym tiêu hóa nên phải dùng đường tiêm dưới da.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Thuốc hạ đường huyết có dạng dùng bằng đường tiêm.\n- Đối chiếu y lý: Thuốc đồng vận thụ thể GLP-1 (GLP-1 receptor agonists) có bản chất peptide, bị phân hủy nếu qua đường tiêu hóa nên được bào chế dưới dạng tiêm dưới da.\n- Loại trừ phương án:\n + B. Thuốc ức chế alpha-glucosidase: Thuốc uống làm giảm hấp thu glucose tại ruột.\n + C. Thuốc ức chế DPP-4: Thuốc viên uống làm tăng nồng độ GLP-1 nội sinh.\n + D. Thuốc ức chế SGLT-2: Thuốc viên uống làm tăng thải glucose qua nước tiểu.\n- Kết luận: Đáp án đúng là A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 9. Dược lý thuốc điều trị đái tháo đường): Thuốc đồng vận thụ thể GLP-1 (GLP-1 receptor agonist / GLP-1 analog bao gồm exenatide, liraglutide, albiglutide, dulaglutide) được sử dụng bằng đường tiêm (tiêm dưới da). Ngược lại, các nhóm thuốc hạ đường huyết khác bao gồm Thuốc ức chế men DPP-4 (sitagliptin, saxagliptin, vildagliptin, linagliptin), Thuốc ức chế alpha-glucosidase (acarbose, miglitol), và Thuốc ức chế kênh SGLT-2 (canagliflozin, dapagliflozin, empagliflozin) đều được dùng qua đường uống (dạng viên uống).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q46",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 46,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "Một bệnh nhân được chẩn đoán viêm đại tràng và được chỉđịnh dùng glucocorticoid. Cơ sởcủa việc dùng glucocorticoid ởbệnh nhân này là? Kích hoạt quá trình kháng viêm và ức chếmiễn dịch",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kích thích giảm đau cho bệnh nhân"
+        },
+        {
+          "key": "B",
+          "text": "Giúp tiêu diệt vi sinh vật đường ruột, phòng tránh loạn khuẩn"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Nhớ lại tác dụng dược lý kinh điển của nhóm hormone glucocorticoid lên hệ miễn dịch và phản ứng viêm.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân viêm đại tràng được chỉ định sử dụng glucocorticoid.\n- Đối chiếu y lý: Trong các bệnh lý viêm ruột mạn tính, glucocorticoid được chỉ định nhờ khả năng kháng viêm mạnh mẽ và ức chế miễn dịch (thông qua ức chế NF-κB, giảm tổng hợp các cytokine tiền viêm như IL-1, TNF-α và kích thích tổng hợp các protein chống viêm như Annexin-1).\n- Loại trừ phương án: A sai vì glucocorticoid không phải thuốc giảm đau trực tiếp; B sai vì thuốc ức chế miễn dịch làm tăng nguy cơ nhiễm khuẩn chứ không tiêu diệt vi sinh vật; D sai vì thuốc không trực tiếp kích thích tái tạo niêm mạc đại tràng.\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 4. Sinh lý hormone vỏ thượng thận & Bài 13. Dược lý của nhóm thuốc glucocorticoid): Thuốc glucocorticoid có tác dụng sinh học chính là điều hòa quá trình kháng viêm (tác dụng kháng viêm) và ức chế miễn dịch. Về cơ chế phân tử tại gen, glucocorticoid gắn vào thụ thể GR trong bào tương rồi di chuyển vào nhân để: (1) Kích hoạt phiên mã các gen mã hóa các protein trung gian chống viêm / kháng viêm (như Annexin-1/lipocortin-1, SLPI, IL-10, IκB...); (2) Bất hoạt các yếu tố phiên mã tiền viêm (như NF-κB, AP1) nhằm ức chế biểu hiện gen mã hóa các yếu tố gây viêm; (3) Ức chế các cytokine tiền viêm (IL-1, IL-2, IFN-γ, TNF-α) làm áp chế hệ miễn dịch. Nhờ các tác dụng kháng viêm và ức chế miễn dịch này, glucocorticoid được ứng dụng chỉ định trong điều trị các bệnh lý viêm và tự miễn.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q47",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 47,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "Một bệnh nhân được chẩn đoán suy sinh dục thứphát. Hỏi kết quảnào sau đây là hợp lý ở bệnh nhân này? Testosterone giảm, FSH tăng",
+      "options": [
+        {
+          "key": "A",
+          "text": "Testosterone giảm, FSH giảm"
+        },
+        {
+          "key": "B",
+          "text": "Testosterone không thay đổi, FSH giảm"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Testosterone tăng, LH giảm"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Dựa vào cơ chế điều hòa ngược (feedback) trên trục Hạ đồi - Tuyến yên - Tuyến sinh dục khi tổn thương ở mức trung ương.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân được chẩn đoán suy sinh dục thứ phát.\n- Đối chiếu y lý: Suy sinh dục thứ phát có nguyên nhân từ tổn thương tuyến yên hoặc vùng hạ đồi, làm giảm bài tiết các hormone hướng sinh dục (FSH, LH). Việc thiếu hụt FSH/LH dẫn đến giảm kích thích tuyến sinh dục, làm sụt giảm nồng độ testosterone máu. Do đó, cả Testosterone và FSH đều giảm.\n- Loại trừ phương án: B sai vì Testosterone phải giảm; C mô tả bệnh cảnh suy sinh dục nguyên phát (tại tinh hoàn/buồng trứng); D sai vì Testosterone không tăng trong suy sinh dục.\n- Kết luận: Đáp án đúng là A.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu chung về hệ nội tiết, Bài 2. Trục hạ đồi – tuyến yên – tuyến nội tiết đích & Bài 10. Sinh lý bệnh suy thượng thận mạn) và Nguyên lý thăm dò chức năng nội tiết: (1) Trục hạ đồi – tuyến yên – tuyến sinh dục hoạt động theo cơ chế điều hòa ngược: Vùng hạ đồi tiết GnRH kích thích thùy trước tuyến yên tổng hợp và tiết các hormone hướng sinh dục (gonadotropin) bao gồm FSH và LH. LH kích thích tinh hoàn tổng hợp và bài tiết testosterone ở nam (FSH kích thích sinh tinh); ở nữ FSH và LH kích thích buồng trứng sản sinh estrogen và progesterone; (2) Đánh giá cùng lúc hormone đích (testosterone) và hormone kích thích (FSH, LH) là cần thiết để biện luận vị trí tổn thương (suy nguyên phát hay thứ phát); (3) Suy sinh dục thứ phát (suy sinh dục trung ương) xảy ra do tổn thương hoặc suy chức năng tại vùng hạ đồi hay tuyến yên, dẫn đến thiếu hụt/giảm bài tiết các hormone hướng sinh dục (FSH và LH giảm), từ đó làm giảm bài tiết hormone sinh dục ở tuyến đích (testosterone giảm ở nam, gây giảm libido, bất lực, tinh hoàn nhỏ; estrogen/progesterone giảm ở nữ); (4) Ngược lại, ở suy sinh dục nguyên phát (tổn thương tại tuyến sinh dục), nồng độ testosterone giảm làm mất cơ chế điều hòa ngược âm tính, dẫn đến nồng độ FSH và LH tăng cao.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q48",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 48,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Mộtbệnhnhânnữ30tuổi,thai33tuần,đếnkhámvìgần đây hay hồi hộp, đánh trống ngực.KếtquảxétnghiệmTSH0,01μIU/L(bìnhthường 0.5-5 μIU/L), fT4 5,7 ng/dL (bình thường",
+      "options": [],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Lựa chọn thuốc kháng giáp tổng hợp an toàn cho thai phụ ở 3 tháng giữa và 3 tháng cuối thai kỳ (thai 33 tuần).",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Thai phụ 33 tuần có biểu hiện lâm sàng hồi hộp, đánh trống ngực; xét nghiệm TSH giảm sâu (0,01 μIU/L) và fT4 tăng cao (5,7 ng/dL), chẩn đoán cường giáp thai kỳ.\n- Đối chiếu y lý: Ở 3 tháng giữa và 3 tháng cuối thai kỳ (thai 33 tuần), Methimazole được ưu tiên lựa chọn điều trị cường giáp hơn PTU do PTU có nguy cơ cao gây độc tính nặng trên gan, trong khi nguy cơ dị tật của Methimazole chủ yếu xảy ra trong 3 tháng đầu.\n- Loại trừ phương án:\n + PTU (Propylthiouracil): Thường chỉ ưu tiên trong 3 tháng đầu thai kỳ hoặc điều trị cơn bão giáp.\n + Iod 131 (131I): Chống chỉ định tuyệt đối cho phụ nữ mang thai do gây phá hủy tuyến giáp của thai nhi.\n- Kết luận: Đáp án đúng là B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 14. Dược lý thuốc điều trị rối loạn chức năng tuyến giáp & Bài 5. Sinh lý hormone giáp): (1) Chẩn đoán & Xét nghiệm: Nồng độ TSH giảm bị ức chế (0,01 µIU/L) kết hợp với fT4 tăng cao (5,7 ng/dL) thể hiện tình trạng cường giáp / nhiễm độc giáp ở thai phụ (gây các triệu chứng giao cảm tim mạch như hồi hộp, đánh trống ngực); (2) Lựa chọn thuốc kháng giáp Thioamides trong thai kỳ: Propylthiouracil (PTU) chỉ được khuyến cáo ưu tiên trong 3 tháng đầu thai kỳ (do PTU liên kết mạnh với protein khó qua nhau thai và Methimazole trong 3 tháng đầu có nguy cơ gây dị tật bất sản da đầu). Ở 3 tháng giữa và 3 tháng cuối thai kỳ (như thai 33 tuần), Methimazole được ưu tiên lựa chọn hơn PTU do PTU có cảnh báo nguy cơ gây tổn thương gan nặng (PTU chỉ khuyến cáo trong 3 tháng đầu hoặc điều trị cơn bão giáp); (3) Điều trị triệu chứng: Các thuốc chẹn thụ thể beta giao cảm (như Propranolol, Atenolol, Metoprolol) giúp kiểm soát và làm giảm các triệu chứng kích thích hệ tim mạch, hồi hộp, đánh trống ngực ở bệnh nhân cường giáp; (4) Chống chỉ định: Iod đồng vị phóng xạ (131I) chống chỉ định cho phụ nữ mang thai vì qua nhau thai gây phá hủy tuyến giáp thai nhi.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q0",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 0,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "7-1,9 ng/dL). Hỏi chẩn đoán phù hợp nhất ởbệnh nhân này là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bình giáp Cường giáp"
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": "Suy giáp"
+        },
+        {
+          "key": "D",
+          "text": "Thay đổi hormone giáp trong thai kỳ"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Đánh giá tình trạng chức năng tuyến giáp dựa vào sự phối hợp giữa nồng độ TSH giảm và fT4 tăng vượt mức bình thường.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân có chỉ số fT4 tăng rất cao (5,7 ng/dL so với khoảng bình thường 0,7 – 1,9 ng/dL) phối hợp với TSH giảm sâu (0,01 µIU/L) và các triệu chứng tim mạch giao cảm.\n- Đối chiếu y lý: Sự tăng nồng độ hormone giáp tự do (fT4) kết hợp với ức chế phản hồi TSH là tiêu chuẩn chẩn đoán tình trạng nhiễm độc giáp/cường giáp.\n- Loại trừ phương án:\n + Bình giáp: Nồng độ fT4 và TSH nằm trong giới hạn tham chiếu bình thường.\n + Suy giáp: Nồng độ fT4 giảm.\n + Thay đổi hormone giáp trong thai kỳ: Estrogen tăng làm tăng TBG làm tăng T4 toàn phần, nhưng fT4 và TSH sinh lý vẫn ở mức bình thường.\n- Kết luận: Chẩn đoán phù hợp nhất ở bệnh nhân này là Cường giáp (Đáp án B).",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 5. Sinh lý hormone giáp, Bài 12 & Bài 14. Dược lý thuốc điều trị rối loạn chức năng tuyến giáp): (1) Kết quả xét nghiệm nồng độ TSH giảm rất thấp (0,01 µIU/L, dưới mức bình thường 0,5 – 5 µIU/L) kết hợp với fT4 (FT4) tăng cao vượt giới hạn bình thường (5,7 ng/dL so với 0,7 – 1,9 ng/dL hoặc 0,9 – 2,0 ng/dL) kèm theo các triệu chứng tim mạch giao cảm (hồi hộp, đánh trống ngực) là tiêu chuẩn chẩn đoán tình trạng Cường giáp (nhiễm độc giáp); (2) Thay đổi hormone giáp sinh lý trong thai kỳ do estrogen làm tăng nồng độ thyroxine-binding globulin (TBG) dẫn tới tăng nồng độ hormone giáp toàn phần, nhưng nồng độ hormone giáp dạng tự do (fT4) và TSH vẫn nằm trong giới hạn bình thường (bình giáp); (3) Suy giáp có đặc điểm nồng độ fT4 giảm (kèm TSH tăng trong suy giáp nguyên phát hoặc TSH giảm trong suy giáp thứ phát).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q49",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 49,
+      "group_id": 7,
+      "group_name": "Lâm sàng (Câu dài)",
+      "stem": "Mộtbệnh nhân nữ33 tuổi hiện đang mang thai 2 tháng đến khám vì chán ăn vàng da và đauhạsườnphải 2 ngày qua. Bệnh nhân được chẩn đoán cường giáp 1 tháng trước và bắt đầu mộtliệuphápkháng giáp thích hợp. Kết quảxét nghiệm khi nhập viện cho thấy men gan alanine aminotransferase (ALT) 410 U/L (bình thường 20-40 U/L). Thuốc kháng giáp nào sau đây nhiều khả năng nhất gây ra bệnh rối loạn này trên bệnh nhân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Methimazole Iod phóng xạ"
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": "Propranolol"
+        },
+        {
+          "key": "D",
+          "text": "Propylthiouracil"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Thuốc kháng giáp tổng hợp được ưu tiên dùng trong 3 tháng đầu thai kỳ nhưng có cảnh báo hộp đen về nguy cơ gây tổn thương tế bào gan nặng.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bệnh nhân nữ mang thai 2 tháng (tam cá nguyệt thứ nhất) được điều trị cường giáp 1 tháng trước, xuất hiện hội chứng tổn thương tế bào gan cấp (chán ăn, vàng da, đau hạ sườn phải, ALT tăng cao 410 U/L).\n- Đối chiếu y lý: Propylthiouracil (PTU) là lựa chọn kháng giáp ưu tiên trong 3 tháng đầu thai kỳ do ít qua nhau thai hơn Methimazole, nhưng PTU có tác dụng phụ nghiêm trọng là gây nhiễm độc gan nặng và viêm gan hoại tử.\n- Loại trừ phương án:\n + Methimazole: Thường gây độc gan theo kiểu tắc mật nhẹ hơn và ít được dùng trong quý 1 thai kỳ do nguy cơ dị tật bẩm sinh.\n + Iod phóng xạ: Thuốc chống chỉ định tuyệt đối cho thai phụ.\n + Propranolol: Thuốc chẹn beta chỉ hỗ trợ triệu chứng giao cảm, không phải thuốc kháng giáp tổng hợp và không gây hoại tử tế bào gan đặc trưng này.\n- Kết luận: Thuốc kháng giáp gây ra tác dụng phụ tổn thương gan nặng trên bệnh nhân này là Propylthiouracil (Đáp án D).",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 14. Dược lý thuốc điều trị rối loạn chức năng tuyến giáp): Propylthiouracil (PTU) là thuốc kháng giáp thuộc nhóm thioamides có cảnh báo quan trọng về nguy cơ gây tổn thương gan nặng (viêm gan nặng, đôi khi dẫn đến tử vong). Mặc dù Propylthiouracil được khuyến cáo sử dụng ưu tiên trong ba tháng đầu thai kỳ (bệnh nhân mang thai 2 tháng / 8 tuần) do liên kết protein mạnh hơn nên ít qua nhau thai hơn so với Methimazole, thuốc có thể gây ra tác dụng phụ nghiêm trọng trên gan biểu hiện qua tăng men gan ALT rất cao (alanine aminotransferase ALT 410 U/L so với mức bình thường 20 – 40 U/L), chán ăn, vàng da và đau hạ sườn phải. Khi gặp các tác dụng ngoại ý nghiêm trọng như tổn thương gan nặng, nguyên tắc điều trị là cần ngưng thuốc kháng giáp ngay và không được dùng lại hay đổi sang nhóm thioamides khác.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q50",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 50,
+      "group_id": 6,
+      "group_name": "Dược lý",
+      "stem": "Trongđiềutrịđáitháođường,việcphốihợpnhiềuthuốclàcầnthiếtđểkiểm soát tốt đườnghuyết.Khisửdụnggliclazidekéodàithìbệnhnhâncónguycơbịtácdụngkhôngmong muốn nào? Tiêu chảy",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "Táo bón Viêm tụy cấp"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Hạđường huyết"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Hãy nhớ tác dụng phụ nguy hiểm và đặc trưng nhất của nhóm thuốc kích thích tiết insulin (Sulfonylureas) như gliclazide.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Tác dụng không mong muốn khi sử dụng kéo dài gliclazide trong điều trị đái tháo đường.\n- Đối chiếu y lý: Gliclazide là thuốc hạ đường huyết thuộc nhóm Sulfonylureas thế hệ 2, cơ chế kích thích tế bào beta tụy tiết insulin. Tác dụng phụ thường gặp và nguy hiểm nhất của nhóm này là hạ đường huyết (hạ glucose máu).\n- Loại trừ phương án:\n + A. Tiêu chảy / B. Táo bón: Không phải tác dụng phụ đặc trưng chính của Sulfonylureas.\n + B. Viêm tụy cấp: Thường liên quan đến nhóm thuốc đồng vận GLP-1 hoặc ức chế DPP-4.\n- Kết luận: Đáp án đúng là D.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 9. Dược lý thuốc điều trị đái tháo đường): Gliclazide là thuốc thuộc nhóm Sulfonylureas (SU) thế hệ thứ 2. Tác dụng ngoại ý thường gặp nhất của các thuốc nhóm Sulfonylureas (trong đó có gliclazide) là hạ glucose huyết (hạ đường huyết), xảy ra khi bệnh nhân bỏ ăn hoặc ăn trễ, lượng carbohydrate nhập không đủ, quá liều hoặc có bệnh lý về gan, thận. Các thuốc SU có tác dụng hạ glucose huyết mạnh, kéo dài sẽ có nguy cơ cao hạ glucose huyết (trong cùng mức kiểm soát glucose huyết tương tự, gliclazide MR có nguy cơ hạ glucose huyết thấp hơn so với glimepiride).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q51",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 51,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Câu nào sau đây đúng khi nói vềtuyến yên trước? Có bản chất là các tếbào tuyến thật sự",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dựtrữhormon do vùng hạđồi tiết"
+        },
+        {
+          "key": "B",
+          "text": "Tiết hormone vasopressin"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Không chịu sựđiều hòa ngược từtuyến thượng thận"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Phân biệt đặc điểm cấu tạo giải phẫu và chức năng giữa tuyến yên trước (tuyến yên tuyến) và tuyến yên sau (tuyến yên thần kinh).",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Phát biểu đúng về đặc điểm sinh lý, giải phẫu của tuyến yên trước.\n- Đối chiếu y lý: Tuyến yên trước (adenohypophysis) có bản chất là các tế bào tuyến thật sự, có khả năng tự tổng hợp và chế tiết các hormone (ACTH, TSH, GH, FSH, LH, Prolactin).\n- Loại trừ phương án:\n + A. Dự trữ hormone do vùng hạ đồi tiết: Đặc điểm của tuyến yên sau.\n + B. Tiết hormone vasopressin: Vasopressin do vùng hạ đồi tổng hợp và giải phóng từ tuyến yên sau.\n + D. Không chịu sự điều hòa ngược từ tuyến thượng thận: Sai, tuyến yên trước chịu sự điều hòa ngược âm tính mạnh mẽ từ cortisol của vỏ thượng thận.\n- Kết luận: Đáp án đúng là C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu chung về hệ nội tiết & Bài 2. Vùng hạ đồi và tuyến yên): (1) Tuyến yên trước (tuyến yên tuyến / adenohypophysis) có bản chất là phần tuyến với các tế bào tuyến thật sự có khả năng tự tổng hợp và chế tiết hormone thật sự; (2) Tuyến yên sau (tuyến yên thần kinh / neurohypophysis) không có chức năng chế tiết, chỉ dự trữ và phóng thích các hormone do các neuron vùng hạ đồi tiết ra (bao gồm Vasopressin/AVP và Oxytocin); (3) Tuyến yên trước chịu sự chi phối và điều hòa ngược âm tính trực tiếp từ tuyến thượng thận (khi nồng độ cortisol từ vỏ thượng thận tăng cao trong máu sẽ gây ức chế tuyến yên trước làm giảm/tạm dừng phóng thích ACTH).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q52",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 52,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Hormon nao do vù̀ng hạ đồi tông h̉ợp nên",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melatonin"
+        },
+        {
+          "key": "B",
+          "text": "Oxytocin"
+        },
+        {
+          "key": "C",
+          "text": "Prolactin"
+        },
+        {
+          "key": "D",
+          "text": "Thyroxine"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Đây là hormone thần kinh được sản xuất tại nhân cạnh não thất và nhân trên thị của vùng hạ đồi.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Tế bào thần kinh vùng hạ đồi tổng hợp hormone nào trong số các phương án.\n- Đối chiếu y lý: Các neuron thuộc vùng hạ đồi (chủ yếu là nhân cạnh não thất và nhân trên thị) tổng hợp hai hormone chính là Oxytocin và ADH (Arginine Vasopressin), sau đó vận chuyển theo sợi trục đến tích trữ và giải phóng tại thùy sau tuyến yên.\n- Loại trừ phương án:\n + A. Melatonin: Do tuyến tùng tổng hợp và chế tiết.\n + C. Prolactin: Do tế bào lactotroph thuộc thùy trước tuyến yên tổng hợp.\n + D. Thyroxine: Do các tế bào nang tuyến giáp tổng hợp.\n- Kết luận: Chọn đáp án B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu chung về hệ nội tiết & Bài 2. Vùng hạ đồi và tuyến yên): (1) Các neuron thuộc hai nhân trong vùng hạ đồi là nhân trên thị (supraoptic nuclei) và nhân cạnh não thất (paraventricular nuclei) tổng hợp hai hormone chính thức là AVP (arginine vasopressin / ADH) và Oxytocin (Oxytocin được tổng hợp chủ yếu từ các neuron thuộc nhân cạnh não thất của vùng hạ đồi; AVP được tổng hợp chủ yếu từ nhân trên thị). Các prohormone sau khi tổng hợp được vận chuyển theo dòng bào tương sợi trục xuống dự trữ tại thùy sau tuyến yên (tuyến yên thần kinh / neurohypophysis); (2) Ngược lại, Prolactin (PRL) do các tế bào lactotroph ở thùy trước tuyến yên tổng hợp và chế tiết; Thyroxine (T4) do các tế bào nang giáp của tuyến giáp tổng hợp và chế tiết.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q53",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 53,
+      "group_id": 5,
+      "group_name": "Sinh lý bệnh",
+      "stem": "Nguyên nhân thường gặp nhất của hội chứng Cushing là? U tuyến yên tiết ACTH",
+      "options": [
+        {
+          "key": "A",
+          "text": "U lạc chỗtiết ACTH"
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": "Dùng glucocorticoid"
+        },
+        {
+          "key": "D",
+          "text": "U tiết CRH"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Lạm dụng hoặc điều trị kéo dài bằng các thuốc chứa steroid là nguyên nhân phổ biến nhất trong lâm sàng.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Tìm nguyên nhân phổ biến nhất gây ra hội chứng Cushing nói chung.\n- Đối chiếu y lý: Hội chứng Cushing ngoại sinh do việc sử dụng thuốc glucocorticoid tổng hợp kéo dài là nguyên nhân phổ biến nhất gây ra hội chứng Cushing trên lâm sàng nói chung. Trong khi u tuyến yên tiết ACTH (bệnh Cushing) chỉ là nguyên nhân phổ biến nhất trong nhóm nội sinh.\n- Loại trừ phương án:\n + A. U lạc chỗ tiết ACTH: Thuộc nhóm hội chứng Cushing nội sinh, ít gặp.\n + B. U tuyến yên tiết ACTH: Là nguyên nhân nội sinh thường gặp nhất nhưng tỷ lệ chung vẫn thấp hơn do ngoại sinh.\n + D. U tiết CRH: Nguyên nhân nội sinh rất hiếm gặp.\n- Kết luận: Chọn đáp án C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 11. Sinh lý bệnh hội chứng Cushing): Hội chứng Cushing được phân thành hai nhóm chính bao gồm hội chứng Cushing ngoại sinh và hội chứng Cushing nội sinh. Trong đó, hội chứng Cushing ngoại sinh (do sử dụng kéo dài glucocorticoid tổng hợp như prednisone, dexamethasone...) là nguyên nhân thường gặp nhất của hội chứng Cushing nói chung. Đối với nhóm hội chứng Cushing nội sinh, Bệnh Cushing (u tuyến yên tiết ACTH) là nguyên nhân thường gặp nhất của hội chứng Cushing nội sinh (chiếm 68% các nguyên nhân nội sinh). Các nguyên nhân khác của hội chứng Cushing phụ thuộc ACTH bao gồm u tiết ACTH lạc chỗ và u tiết CRH lạc chỗ.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q54",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 54,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Thụthểcủa hormone lớp cầu vỏthượng thận thuộc nhóm thụthểgì? Thụthểliên kết enzyme tyrosine kinase",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thụthểliên kết protein G"
+        },
+        {
+          "key": "B",
+          "text": "Thụthểliên kết kênh ion"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Thụthểnhân"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Aldosterone có bản chất là steroid tan trong lipid nên thụ thể nằm trong nội bào.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Bản chất thụ thể của hormone lớp cầu vỏ thượng thận (Aldosterone).\n- Đối chiếu y lý: Hormone lớp cầu vỏ thượng thận là Aldosterone có bản chất hóa học là steroid (tan trong lipid). Nhóm hormone steroid dễ dàng đi qua màng tế bào và gắn với thụ thể nhân (thụ thể nội bào MR), gắn vào DNA để điều hòa tổng hợp protein.\n- Loại trừ phương án:\n + A. Thụ thể liên kết protein G: Thường là thụ thể của các hormone peptide, protein hoặc amine tan trong nước.\n + B. Thụ thể liên kết kênh ion: Thường gặp ở các chất dẫn truyền thần kinh nhanh.\n + C. Thụ thể liên kết enzyme tyrosine kinase: Dành cho Insulin và các yếu tố tăng trưởng.\n- Kết luận: Chọn đáp án D.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 1. Giới thiệu chung về hệ nội tiết & Bài 4. Sinh lý hormone vỏ thượng thận): (1) Lớp cầu (zona glomerulosa) của vỏ thượng thận tổng hợp và chế tiết hormone thuộc nhóm mineralocorticoid, chủ yếu là aldosterone (do tế bào lớp cầu có chứa enzyme đặc hiệu aldosterone synthase); (2) Aldosterone cùng với các hormone vỏ thượng thận có bản chất là steroid, thuộc nhóm hormone tan trong lipid; (3) Thụ thể của các hormone vỏ thượng thận (bao gồm aldosterone từ lớp cầu) chủ yếu là nhóm thụ thể nhân (như thụ thể nhân MR - mineralocorticoid receptor). Phức hợp hormone – thụ thể đi vào nhân tế bào đích, cảm ứng tác động lên sự biểu hiện gen trên DNA để kích thích tổng hợp các đại phân tử protein mới.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q55",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 55,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Tếbào nào thuộc nhóm tếbào đích tác động của insulin? Tếbào não",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tếbào hồng cầu"
+        },
+        {
+          "key": "B",
+          "text": "Tếbào mỡ"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tếbào cơ trơn"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Một trong ba mô đích chính của insulin giúp tích trữ mỡ dưới dạng triglyceride.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Xác định tế bào đích tác động trực tiếp phụ thuộc insulin.\n- Đối chiếu y lý: Ba mô/tế bào đích chính của insulin là mô gan, mô cơ xương và mô mỡ. Insulin kích thích sự chuyển vận GLUT4 lên màng tế bào mỡ để tăng cường thu nhận glucose và tổng hợp chất béo tích trữ.\n- Loại trừ phương án:\n + A. Tế bào hồng cầu: Thu nhận glucose không phụ thuộc vào insulin (qua GLUT1).\n + C. Tế bào nổi/não: Tế bào thần kinh thu nhận glucose độc lập với insulin (qua GLUT3).\n + D. Tế bào cơ trơn: Không phải cơ quan đích chính điều hòa đường huyết của insulin.\n- Kết luận: Chọn đáp án B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 6. Sinh lý hormone tụy nội tiết & Bài 8. Bệnh sinh đái tháo đường): (1) Insulin có ba mô đích / tế bào đích chính trong cơ thể là mô gan (tế bào gan), mô cơ xương (tế bào cơ) và mô mỡ (tế bào mỡ). Tại mô mỡ và mô cơ xương, insulin kích thích đưa kênh vận chuyển glucose GLUT4 lên màng tế bào, giúp các tế bào mỡ và cơ xương tăng cường thu nhận glucose vào nội bào để dự trữ; (2) Ngược lại, một số cơ quan khác như tế bào não có thể sử dụng glucose trực tiếp mà không phụ thuộc vào insulin.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q56",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 56,
+      "group_id": 5,
+      "group_name": "Sinh lý bệnh",
+      "stem": "Sựgia tăng chất nào sau đây trong cơ thểsẽgây ra hội chứng Cushing?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Aldosterone"
+        },
+        {
+          "key": "B",
+          "text": "Cortisol"
+        },
+        {
+          "key": "C",
+          "text": "Progesterone"
+        },
+        {
+          "key": "D",
+          "text": "Androgen"
+        }
+      ],
+      "answer": "B",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Đây là glucocorticoid tự nhiên chính do vỏ thượng thận tiết ra.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Sự gia tăng hormone nào sẽ gây ra hội chứng Cushing.\n- Đối chiếu y lý: Hội chứng Cushing là tập hợp các biểu hiện lâm sàng do tình trạng dư thừa quá mức mạn tính nồng độ glucocorticoid trong máu, trong đó Cortisol là glucocorticoid sinh lý chính của cơ thể do vỏ thượng thận tiết ra.\n- Loại trừ phương án:\n + A. Aldosterone: Tăng quá mức gây ra hội chứng Conn (tăng huyết áp, hạ kali máu).\n + C. Progesterone: Hormone sinh dục do hoàng thể và nhau thai tiết ra.\n + D. Androgen: Tăng nồng độ gây hiện tượng rậm lông, nam hóa.\n- Kết luận: Chọn đáp án B.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 4. Sinh lý hormone vỏ thượng thận & Bài 11. Sinh lý bệnh hội chứng Cushing): (1) Hội chứng Cushing là một hội chứng lâm sàng gây ra do tình trạng phơi nhiễm mạn tính với nồng độ cao glucocorticoid lưu hành trong máu (sự gia tăng nồng độ glucocorticoid / cortisol trong máu có thể do cơ thể tăng tiết nội sinh hoặc do sử dụng thuốc, chế phẩm chứa glucocorticoid ngoại sinh); (2) Cortisol (hydrocortisone) là loại glucocorticoid quan trọng nhất ở người do vỏ thượng thận (lớp bó và lớp lưới) sản xuất; (3) Sự gia tăng các chất cortisol, ACTH hoặc CRH trong cơ thể đều dẫn đến hội chứng Cushing; (4) Trong khi đó, Aldosterone do lớp cầu vỏ thượng thận tiết ra (thuộc nhóm mineralocorticoid), Androgen do lớp lưới vỏ thượng thận/tuyến sinh dục tiết ra và Progesterone do buồng trứng tiết ra không phải là nguyên nhân gây ra hội chứng Cushing.",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q57",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 57,
+      "group_id": 8,
+      "group_name": "Hình ảnh",
+      "stem": "Mũi tên trong hình chỉcấu trúc gì? Cuông tuyến yêń",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thùy trước tuyên yêń"
+        },
+        {
+          "key": "B",
+          "text": "Giao thoa thị giać"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Thùy sau tuyên yêń"
+        }
+      ],
+      "answer": "A",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Xác định cấu trúc giải phẫu nằm ở phần trước của tuyến yên trong hố yên trên phim MRI lát cắt dọc (sagittal).",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Phim cộng hưởng từ (MRI) sọ não lát cắt dọc giữa (sagittal), mũi tên màu xanh chỉ vào cấu trúc mô tuyến nằm ở phần trước của hố yên.\n- Đối chiếu y lý: Tuyến yên nằm trong hố yên xương bướm, gồm hai thùy chính là thùy trước (thùy tuyến) và thùy sau (thùy thần kinh). Trên hình ảnh MRI T1W, thùy trước tuyến yên nằm ở nửa trước hố yên có tín hiệu đồng tín hiệu/giảm nhẹ tín hiệu. Mũi tên chỉ chính xác vào vị trí của thùy trước tuyến yên.\n- Loại trừ phương án:\n + Cuống tuyến yên: Cấu trúc hình dải mảnh nối từ củ xám vùng dưới đồi xuống tuyến yên, nằm ở phía trên hố yên.\n + Giao thoa thị giác: Nằm phía trên cuống tuyến yên và bể trên yên.\n + Thùy sau tuyến yên: Nằm ở nửa sau hố yên, thường có điểm tăng tín hiệu tự nhiên trên T1W (pituitary bright spot).\n- Kết luận: Cấu trúc được chỉ bởi mũi tên là Thùy trước tuyến yên.",
+      "textbook_excerpt": null,
+      "note_ref": null,
+      "image": "assets/Q57_58_p8.png"
+    },
+    {
+      "id": "20 Y20 ko ans_Q58",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 58,
+      "group_id": 8,
+      "group_name": "Hình ảnh",
+      "stem": "Trong hình siêu âm vùng cổdưới đây, vịtrí chữA chỉcấu trúc gì? Động mạch cảnh chung",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cổdài"
+        },
+        {
+          "key": "B",
+          "text": "Khí quản"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Thực quản"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Nhận diện cấu trúc nằm chính giữa đường giữa vùng cổ trước trên siêu âm, có đường tăng âm bờ trước và vệt bóng lưng phía sau đặc trưng do chứa khí.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Hình ảnh siêu âm cắt ngang vùng cổ trước, cấu trúc nằm ở trung tâm đường giữa đánh dấu chữ A có bề mặt trước tăng âm kèm bóng lưng cản âm phía sau.\n- Đối chiếu y lý: Trên lát cắt ngang siêu âm vùng cổ, khí quản nằm chính giữa đường giữa, bờ trước tăng âm mạnh do giao diện mô-khí và sụn khí quản, phía sau tạo hình ảnh bóng lưng sạch/bóng lưng dơ do chứa không khí bên trong. Hai bên khí quản là hai thùy tuyến giáp.\n- Loại trừ phương án:\n + Động mạch cảnh chung: Cấu trúc hình tròn, trống âm, nằm ở vùng cổ bên (ngoài thùy tuyến giáp).\n + Cơ cổ dài: Nằm ở lớp cơ sâu, phía sau thùy tuyến giáp và sát trước thân đốt sống cổ.\n + Thực quản: Nằm ở phía sau và thường lệch nhẹ sang bên trái so với khí quản.\n- Kết luận: Cấu trúc chỉ bởi chữ A là Khí quản (Đáp án C).",
+      "textbook_excerpt": null,
+      "note_ref": null,
+      "image": "assets/Q58_59_p8.png"
+    },
+    {
+      "id": "20 Y20 ko ans_Q59",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 59,
+      "group_id": 4,
+      "group_name": "Sinh lý",
+      "stem": "Cấu trúc mô học dưới đây là của tuyến gì? Tuyến giáp",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyến thượng thận"
+        },
+        {
+          "key": "B",
+          "text": "Tuyến yên"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tuyến tụy"
+        }
+      ],
+      "answer": "C",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Tuyến nội tiết có cấu trúc mô học đặc trưng gồm các nang chứa chất keo bài tiết.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Đơn vị cấu trúc mô học là các túi/nang chứa chất keo ở giữa.\n- Đối chiếu y lý: Tuyến giáp có cấu trúc mô học đặc trưng cấu tạo bởi các nang giáp (túi tuyến giáp) hình cầu, ở giữa chứa đầy chất keo giáp (thyroglobulin) và được lót bởi các tế bào biểu mô nang giáp đơn.\n- Loại trừ phương án:\n + A. Tuyến thượng thận: Cấu trúc mô học gồm các lớp cầu, bó, lưới và vùng tủy.\n + B. Tuyến yên: Cấu trúc gồm thùy tuyến (chứa các tế bào tiết ưa acid, ưa base, kị màu) và thùy thần kinh.\n + D. Tuyến tụy: Cấu trúc gồm các nang tuyến ngoại tiết (acini) và các đảo tụy nội tiết (đảo Langerhans).\n- Kết luận: Chọn đáp án C.",
+      "textbook_excerpt": "Theo sách Nội tiết học cơ bản (Bài 5. Sinh lý hormone giáp, Bài 7. Điều hòa cân bằng calci và phosphate, Bài 19 & Bài 20): Cấu trúc mô học đặc trưng của tuyến giáp được cấu tạo bởi nhiều cấu trúc hình cầu gọi là túi tuyến giáp (nang giáp / thyroid follicle) có đường kính trung bình 100 – 300 µm; thành nang được tạo bởi các tế bào biểu mô túi tuyến (tế bào nang giáp) thuộc nhóm biểu mô đơn có dạng khối vuông, trụ thấp, trụ cao hoặc dẹt, giới hạn một lòng rỗng ở giữa chứa chất keo giáp trong suốt (thyroglobulin). Xen giữa các túi tuyến giáp trong mô liên kết là hệ thống mao mạch và các tế bào cận nang (tế bào C) tiết calcitonin. Phân biệt với đặc điểm mô học của các tuyến khác: (1) Tuyến thượng thận gồm vỏ thượng thận (vùng cầu chứa các tế bào tập trung thành cuộn/tiểu cầu, vùng bó chứa các dây tế bào thẳng với nhiều giọt mỡ, vùng lưới chứa các tế bào xếp thành lưới) và tủy thượng thận (chứa các tế bào ưa crom); (2) Tuyến yên gồm thùy trước (các dòng tế bào tuyến chế tiết) và thùy sau (mô thần kinh chứa các sợi trục không myelin); (3) Tuyến tụy gồm mô tụy ngoại tiết (thể acini) và mô tụy nội tiết (đảo Langerhans).",
+      "note_ref": null,
+      "image": null
+    },
+    {
+      "id": "20 Y20 ko ans_Q60",
+      "exam_id": "20 Y20 ko ans",
+      "cohort": "Y20",
+      "num": 60,
+      "group_id": 8,
+      "group_name": "Hình ảnh",
+      "stem": "Mũi tên chỉtếbào gì? Tếbào nang giáp",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tếbào tuyến"
+        },
+        {
+          "key": "B",
+          "text": "Tếbào beta"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Tếbào cận nang giáp HẾT"
+        }
+      ],
+      "answer": "D",
+      "status": "ai_only",
+      "legacy_key": null,
+      "student_note": null,
+      "hint": "Quan sát vị trí của đám tế bào được chỉ định nằm ở khoảng kẽ gian nang giáp.",
+      "formula_work": null,
+      "explanation": "- Dữ kiện cốt lõi: Hình ảnh mô học tuyến giáp gồm các nang giáp chứa chất keo giáp. Mũi tên màu vàng chỉ vào đám tế bào nằm ở mô liên kết giữa các nang giáp (khoảng gian nang).\n- Đối chiếu y lý: Trong cấu trúc mô học tuyến giáp, nằm ở mô liên kết gian nang (hoặc nằm trong thành nang nhưng không tiếp xúc với lòng nang) là các tế bào cận nang (tế bào C / parafollicular cells). Tế bào cận nang có vai trò tiết ra calcitonin giúp hạ calci máu.\n- Loại trừ phương án:\n + A. Tế bào nang giáp: Là các tế bào biểu mô hình vuông đơn lót quanh thành nang, tiếp xúc trực tiếp với lòng nang giáp chứa chất keo.\n + B. Tế bào tuyến: Thuật ngữ chung, không phản ánh tên mô học chuyên biệt của loại tế bào này.\n + C. Tế bào beta: Tế bào tiết insulin thuộc đảo Langerhans của tuyến tụy.\n- Kết luận: Mũi tên chỉ vào tế bào cận nang giáp.",
+      "textbook_excerpt": null,
+      "note_ref": null,
+      "image": "assets/Q60_61_p9.png"
+    }
+  ]
+}
