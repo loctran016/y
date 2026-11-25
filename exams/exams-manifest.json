@@ -59,20 +59,20 @@
           "conflict_count": 0
         },
         {
-          "exam_id": "20 Y23",
+          "exam_id": "20 Y23 khong ans",
           "cohort": "Y23",
-          "title": "20 Y23",
+          "title": "20 Y23 khong ans",
           "default_time_sec": 3600,
           "question_count": 60,
           "group_counts": {
             "1": 0,
             "2": 0,
             "3": 0,
-            "4": 23,
+            "4": 31,
             "5": 0,
             "6": 0,
             "7": 24,
-            "8": 13
+            "8": 5
           },
           "conflict_count": 0
         }
