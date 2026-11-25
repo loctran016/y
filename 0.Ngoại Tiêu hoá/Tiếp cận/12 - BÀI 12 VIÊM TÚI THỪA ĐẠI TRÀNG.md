@@ -1,0 +1,293 @@
+---
+title: "BÀI 12: VIÊM TÚI THỪA ĐẠI TRÀNG"
+tags: [giang-bai]
+created: 2026-11-25
+nguon: NotebookLM
+---
+
+# BÀI 12: VIÊM TÚI THỪA ĐẠI TRÀNG
+
+**Tác giả:** Lê Huy Lưu, Nguyễn Tuấn Anh
+
+**MỤC TIÊU BÀI HỌC:**
+1. Trình bày sự khác biệt về đặc điểm túi thừa, số lượng, phân bố và lứa tuổi mắc phải tại các nước Phương Tây, Phương Đông với nước ta.
+2. Giải thích được sinh bệnh học 2 loại túi thừa và cơ chế xảy ra 2 loại biến chứng.
+3. Khai thác được triệu chứng lâm sàng của người bệnh viêm túi thừa đại tràng.
+4. Phân biệt được ưu điểm, nhược điểm, giá trị chẩn đoán của 4 phương tiện hình ảnh và chỉ định phù hợp để chẩn đoán xác định bệnh túi thừa đại tràng và biến chứng.
+5. Chỉ định phương pháp điều trị của viêm túi thừa đại tràng theo giai đoạn, vị trí.
+
+**Từ khóa:** Túi thừa thật, viêm túi thừa, phân độ viêm túi thừa, colonic diverticulitis.
+
+---
+
+## 1. DỊCH TỄ
+
+Bệnh túi thừa đại tràng có sự khác biệt rất rõ rệt về tần suất, đặc điểm phân bố giải phẫu và độ tuổi giữa các khu vực địa lý trên thế giới:
+
+* **Tại các nước Phương Tây:** Bệnh túi thừa đại tràng rất phổ biến ở Bắc Mỹ và Châu Âu. Ước tính có **hơn 50% dân số trên 50 tuổi** có túi thừa đại tràng. Vị trí thường gặp nhất là **đại tràng chậu hông (sigma)**, chiếm đại đa số. Mặc dù chỉ có khoảng 10 – 20% bệnh nhân mang túi thừa xuất hiện triệu chứng, nhưng mỗi năm tại Mỹ có tới 300.000 ca nhập viện và 1,5 triệu lượt khám ngoại trú vì các biến chứng của bệnh túi thừa, tiêu tốn chi phí y tế vượt quá **2 tỷ USD**.
+* **Tại các nước Phương Đông (Châu Á):** Bệnh ngày càng được báo cáo nhiều hơn tại Hàn Quốc, Nhật Bản, Đài Loan... Khác với Phương Tây, bệnh chủ yếu khu trú ở **đại tràng phải**. Tỷ lệ viêm túi thừa đại tràng phải so với viêm ruột thừa thay đổi trong khoảng từ **1 / 2,7 đến 1 / 17** (nghĩa là cứ 2,7 đến 17 ca viêm ruột thừa cấp thì gặp 1 ca viêm túi thừa đại tràng phải).
+* **Tại Việt Nam:** Bệnh túi thừa đại tràng trước đây ít được đề cập. Tuy nhiên, các nghiên cứu gần đây tại các trung tâm ngoại khoa lớn (Việt Đức, Bệnh viện Đại học Y Hà Nội, Bệnh viện Nhân Dân Gia Định) cho thấy bệnh không phải là hiếm.
+  * Nghiên cứu của Lê Huy Lưu trên 45 trường hợp mổ cắt túi thừa nội soi điều trị viêm túi thừa đại tràng phải tại Bệnh viện Nhân Dân Gia Định ghi nhận: **Chỉ có 16 trường hợp (35,6%) được chẩn đoán chính xác trước mổ**, trong khi có tới **29 trường hợp (64,4%) bị chẩn đoán nhầm trước mổ với các thể của viêm ruột thừa cấp**. Việc thường xuyên cập nhật kiến thức và quan sát túi thừa qua nội soi đã giúp gia tăng tỷ lệ phát hiện viêm túi thừa trong mổ một cách đáng kể.
+
+---
+
+## 2. CƠ CHẾ BỆNH SINH
+
+Dựa vào cấu trúc giải phẫu học, túi thừa đại tràng được chia thành 2 loại: **Túi thừa giả** và **Túi thừa thật**. Cơ chế hình thành của hai loại này hoàn toàn khác biệt.
+
+```
+                           [BỆNH TÚI THỪA ĐẠI TRÀNG]
+                                       │
+            ┌──────────────────────────┴──────────────────────────┐
+            ▼                                                     ▼
+     [TÚI THỪA GIẢ]                                        [TÚI THỪA THẬT]
+ (Không có lớp cơ thành ruột)                          (Có đầy đủ các lớp thành ruột)
+            │                                                     │
+ ├─► Điểm yếu mạch máu xuyên                           ├─► Bẩm sinh (di tích phôi thai)
+ ├─► Tăng collagen & elastin                           └─► Mắc phải (khâu vùi, dây dính)
+ └─► Tăng áp lực lòng ruột (phân đoạn)
+```
+
+### 2.1. Túi thừa giả
+Túi thừa giả không có lớp cơ, cấu trúc chỉ bao gồm lớp niêm mạc và dưới niêm mạc thoát vị xuyên qua lớp cơ ra ngoài, được bao phủ bởi lớp thanh mạc. Việc hình thành túi thừa giả là sự kết hợp của 3 yếu tố bệnh sinh:
+
+#### 2.1.1. Tồn tại các điểm yếu tự nhiên của thành đại tràng
+Không giống như các đoạn khác của ống tiêu hóa, lớp cơ dọc ngoài của đại tràng không bao phủ toàn bộ chu vi mà tập trung lại thành **3 dải cơ dọc** (1 dải ở bờ mạc treo và 2 dải ở bờ tự do). Vùng thành ruột nằm giữa các dải cơ dọc mỏng và yếu hơn.
+
+Đồng thời, các động mạch mạc treo khi đến đại tràng sẽ đi xuyên qua lớp cơ để vào nuôi lớp dưới niêm. **Vị trí mạch máu xuyên qua lớp cơ chính là các điểm yếu tự nhiên của thành ruột**. Niêm mạc đại tràng sẽ bị đẩy thoát vị ra ngoài qua các lỗ mạch máu xuyên này. Do mạch máu xuyên ở vùng gần bờ mạc treo có kích thước lớn hơn nên hai vùng khuyết cơ dọc gần mạc treo là nơi thuận lợi nhất hình thành túi thừa giả.
+
+#### 2.1.2. Sự thay đổi cấu trúc của thành ruột
+* **Gia tăng liên kết chéo (*cross-linkage*) của sợi collagen:** Xáo trộn cấu trúc căn bản của collagen, làm giảm khả năng chịu lực căng kéo của thành ruột trước áp lực lòng ruột.
+* **Tăng lắng đọng Elastin:** Làm dày lớp cơ vòng, co ngắn dải cơ dọc và hẹp lòng đại tràng, gây ra các rối loạn vận động làm tăng áp lực lòng ruột.
+* Sự biến đổi này tăng dần theo quá trình lão hóa (giải thích tại sao bệnh tăng theo tuổi) hoặc gặp ở người trẻ mắc các bệnh lý mô liên kết bẩm sinh như hội chứng Ehlers-Danlos, Marfan, bệnh thận đa nang di truyền trội.
+
+#### 2.1.3. Tăng áp lực trong lòng ruột
+Theo định luật Laplace: \\(P = (2 \times T \times \text{Thickness}) / R\\) (áp suất \\(P\\) tỷ lệ thuận với sức căng \\(T\\) và tỷ lệ nghịch với bán kính \\(R\\)).
+
+Bình thường, đại tràng là ống thông suốt nên sức căng thành ruột lớn nhất ở manh tràng (bán kính lớn). Tuy nhiên, thực tế túi thừa giả lại hay gặp nhất ở đại tràng chậu hông (bán kính nhỏ). Lý do là sự xuất hiện của **Hiện tượng phân đoạn (*Segmentation*)**: Các cơn co cơ vòng mạnh xảy ra gần kề nhau tạo thành một **buồng kín**, áp lực trong buồng này có thể tăng vọt **\\(> 90\text{ mmHg}\\)**, đẩy niêm mạc chui qua các điểm yếu mạch máu xuyên ra ngoài.
+
+### 2.2. Túi thừa thật
+Túi thừa thật ít gặp hơn, có cấu trúc **đầy đủ tất cả các lớp của thành đại tràng** (niêm mạc, dưới niêm, lớp cơ và thanh mạc). Thường xuất hiện đơn độc ở đại tràng phải (chủ yếu là manh tràng) và hay gặp ở người trẻ.
+
+* **Giả thuyết bẩm sinh (phổ biến hơn):** Bắt nguồn từ phôi thai học (Kelly và Hurdon), ở tuần thứ 6 của thai kỳ có sự tồn tại một cấu trúc túi ở đỉnh manh tràng trước khi ruột thừa hình thành. Sự tồn tại dai dẳng của di tích phôi thai này tạo nên túi thừa thật manh tràng.
+* **Giả thuyết mắc phải:** Do kỹ thuật khâu lộn vùi gốc ruột thừa khi cắt ruột thừa (Bunts 1914, Horsely 1922) hoặc do các dây dính sau phẫu thuật cũ kéo thành manh tràng nhô ra ngoài tạo thành túi thừa (Schlesinger 1917, Greensfelder 1929).
+
+---
+
+## 3. DIỄN TIẾN CỦA BỆNH TÚI THỪA ĐẠI TRÀNG
+
+Đối với bệnh túi thừa đại tràng trái (theo các nghiên cứu phương Tây):
+* **70%** bệnh nhân mang túi thừa hoàn toàn **không có triệu chứng**.
+* **15 – 25%** bệnh nhân sẽ tiến triển thành **viêm túi thừa**.
+* **5 – 15%** bệnh nhân có biến chứng **chảy máu túi thừa**.
+
+### 3.1. Viêm túi thừa
+
+#### 3.1.1. Cơ chế viêm
+Viêm túi thừa là hậu quả của **thủng vi thể hoặc thủng đại thể** tại thành túi thừa. Bệnh sinh chính không phải do sỏi phân tắc nghẽn đơn thuần, mà là do sự tăng áp lực lòng ruột hoặc sự tì nén của phân cứng làm **xói mòn, thiếu máu cục bộ và hoại tử thành túi thừa**.
+
+Khi túi thừa bị thủng vi thể, mô mỡ quanh đại tràng, mạc treo hoặc các tạng lân cận sẽ nhanh chóng đến bao bọc lại. 
+* Nếu quá trình viêm được khống chế: Tổn thương tự lành hoặc tạo thành mảng viêm/khối áp xe khu trú.
+* Nếu nhiễm khuẩn tiến triển: Tạo áp xe lớn, rò vào tạng lân cận hoặc gây hẹp lòng ruột (tắc ruột).
+* Nếu thủng đại thể lớn hoặc bao bọc thất bại: Dịch mủ và phân trào tràn ngập ổ bụng gây **viêm phúc mạc mủ hoặc viêm phúc mạc phân**.
+
+#### 3.1.2. Phân độ viêm túi thừa
+
+**Bảng 1. Tương quan phân độ tổn thương đại thể (Wasvary) và hình ảnh CT Scan (Kaiser)**
+
+| Mức độ | Phân loại Wasvary | Dấu hiệu trên chụp cắt lớp vi tính (Kaiser) |
+| :---: | :--- | :--- |
+| **0** | Viêm túi thừa biểu hiện lâm sàng nhẹ | Túi thừa viêm, \\(\pm\\) dày thành đại tràng |
+| **Ia** | Viêm khu trú quanh thành đại tràng | Dày thành kèm thay đổi mô mỡ xung quanh |
+| **Ib** | Áp xe quanh đại tràng hoặc mạc treo | Dày thành kèm hình ảnh khối áp xe kế cận |
+| **II** | Áp xe xa (vùng chậu, giữa các quai ruột) | Dày thành kèm áp xe ở xa vị trí nguyên phát |
+| **III** | Viêm phúc mạc mủ toàn thể | Khí và dịch tự do khắp ổ bụng kèm dày phúc mạc |
+| **IV** | Viêm phúc mạc phân toàn thể | Khí và dịch phân tự do lan tỏa khắp ổ bụng |
+
+**Phân độ theo Hội Ngoại khoa Cấp cứu Thế giới (WSES 2020):**
+* *Viêm túi thừa không biến chứng:* **Giai đoạn 0** (dày thành đại tràng, tăng đậm độ mỡ quanh đại tràng).
+* *Viêm túi thừa có biến chứng:*
+  * **Giai đoạn 1a:** Có bóng khí hoặc tụ dịch nhỏ quanh đại tràng \\(\le 5\text{ cm}\\) (chưa có áp xe).
+  * **Giai đoạn 1b:** Khối áp xe \\(\le 4 - 5\text{ cm}\\).
+  * **Giai đoạn 2a:** Khối áp xe \\(> 4 - 5\text{ cm}\\).
+  * **Giai đoạn 2b:** Khí tự do nằm xa \\(> 5\text{ cm}\\) tính từ vị trí viêm.
+  * **Giai đoạn 3:** Dịch mủ lan tỏa khắp ổ bụng, không có khí tự do do thủng lớn.
+  * **Giai đoạn 4:** Dịch phân lan tỏa khắp ổ bụng kèm khí tự do lớn.
+
+**Phân loại viêm túi thừa manh tràng / đại tràng phải (Greaney & Snyder 1957; Thorson & Ternent 1998):**
+* *Mức độ I:* Viêm cấp / Túi thừa viêm dễ nhận biết.
+* *Mức độ II:* Khối viêm / Khối manh tràng viêm.
+* *Mức độ III:* Thủng khu trú / Rò hoặc áp xe khu trú.
+* *Mức độ IV:* Mủ khắp ổ bụng / Viêm phúc mạc lan tỏa.
+
+### 3.2. Chảy máu túi thừa
+Mạch máu xuyên đi qua cổ túi thừa giả sẽ bị đẩy lên nằm ngay trên vòm của túi thừa, chỉ ngăn cách với lòng ruột bởi một lớp niêm mạc mỏng. Dưới tác động cơ học liên tục từ bã phân, lớp nội mạc mạch máu bị dày không đồng đều và lớp trung mạc bị mỏng đi, dẫn tới vỡ mạch máu gây xuất huyết.
+
+* Chảy máu túi thừa **thường xảy ra độc lập và KHÔNG kèm theo viêm túi thừa**.
+* Mặc dù túi thừa giả chủ yếu nằm ở đại tràng trái, nhưng **chảy máu lại hay gặp hơn ở túi thừa đại tràng phải** (do túi thừa đại tràng phải có cổ và vòm rộng hơn, thành đại tràng phải mỏng hơn khiến mạch máu dễ bị chấn thương hơn).
+
+---
+
+## 4. THỂ LÂM SÀNG (CÁC BIẾN CHỨNG)
+
+### 4.1. Thủng túi thừa
+Là biến chứng rất nặng. Dẫn đến viêm phúc mạc khu trú hoặc toàn thể (mủ/phân). Yêu cầu phẫu thuật cắt bỏ đoạn đại tràng thủng và thường phải làm hậu môn nhân tạo. Tỷ lệ tử vong cao từ **12 – 36%**.
+
+### 4.2. Rò túi thừa
+Hay gặp ở túi thừa đại tràng chậu hông do hiện tượng viêm mạn tính gây dính vào tạng kế cận. Khoảng 8% có nhiều đường rò.
+* **Rò đại tràng - bàng quang:** Dạng rò thường gặp nhất trên lâm sàng (nam gặp nhiều hơn nữ do nữ có tử cung ngăn cách). Biểu hiện: **Nhiễm khuẩn tiểu tái phát nhiều lần, tiểu ra khí/bọt (*pneumaturia*), tiểu ra phân (*fecaluria*)**.
+* **Rò đại tràng - da:** Rò ra thành bụng bên trái (sau áp xe vỡ hoặc sau dẫn lưu).
+* **Rò đại tràng - âm đạo:** Chảy phân/mủ qua âm đạo (gặp ở phụ nữ đã cắt tử cung).
+* **Rò đại tràng - ruột non:** Thường không có triệu chứng rõ, phát hiện tình cờ khi mổ.
+
+### 4.3. Chảy máu túi thừa
+Chiếm khoảng 5% các trường hợp, nhưng là nguyên nhân của **90% các ca xuất huyết tiêu hóa dưới nặng ở người lớn tuổi**.
+* Chụp CT Angiography giúp phát hiện điểm thoát mạch (khi tốc độ chảy máu \\(\ge 0,5\text{ ml/phút}\\)) và can thiệp tắc mạch.
+* Nội soi đại tràng can thiệp cầm máu bằng kẹp Clip hoặc vòng thắt.
+
+### 4.4. Tắc ruột
+Chiếm 10 – 20% các ca tắc đại tràng ở Phương Tây. Do đợt viêm tái đi tái lại gây xơ hóa, dày thành và hẹp lòng ruột. Trong mổ rất khó phân biệt giữa hẹp do viêm túi thừa mạn tính hay do ung thư đại tràng tiến triển (phải chờ kết quả giải phẫu bệnh).
+
+### 4.5. Áp xe túi thừa
+Hình thành do hoại tử trung tâm túi thừa lan ra xung quanh. Biểu hiện: Đau bụng, sốt, sờ thấy khối ấn đau. Áp xe túi thừa đại tràng phải rất dễ chẩn đoán nhầm với áp xe ruột thừa.
+
+### 4.6. Ung thư
+Nghiên cứu tại Thụy Điển (2004) ghi nhận mối liên quan giữa viêm túi thừa đại tràng chậu hông và tăng nguy cơ ung thư đại tràng bên trái trong thời gian dài (OR = 4,2).
+
+---
+
+## 5. CHẨN ĐOÁN VIÊM TÚI THỪA ĐẠI TRÀNG
+
+### 5.1. Lâm sàng
+
+#### 5.1.1. Viêm túi thừa đại tràng ở mọi vị trí
+* **Đau bụng ¼ dưới trái (hố chậu trái):** Là triệu chứng phổ biến nhất (**70%** các trường hợp), đau kiểu quặn, kèm thay đổi thói quen đi cầu.
+* **Chướng bụng, đầy hơi, buồn nôn, nôn ói, sốt.**
+* Bệnh nhân suy giảm miễn dịch, lớn tuổi, dùng Corticoid kéo dài có thể có triệu chứng mờ nhạt, không điển hình.
+* *Chẩn đoán nhầm:* Túi thừa ĐT chậu hông dài hoặc ĐT phải nhầm với **Viêm ruột thừa**; Túi thừa ĐT ngang nhầm với viêm dạ dày, viêm tụy, viêm túi mật; Túi thừa sau phúc mạc nhầm với bệnh lý hệ niệu.
+
+#### 5.1.2. Viêm túi thừa đại tràng phải
+Ở Việt Nam, túi thừa đại tràng phải viêm rất hay bị chẩn đoán nhầm với viêm ruột thừa cấp. Một số chi tiết lâm sàng giúp phân biệt:
+
+| Đặc điểm | Viêm ruột thừa cấp | Viêm túi thừa đại tràng phải |
+| :--- | :--- | :--- |
+| **Độ tuổi** | Thường trẻ tuổi hơn. | Độ tuổi trung bình ~35,6 tuổi (2:1 nam/nữ). |
+| **Tính chất đau** | Đau khởi phát thượng vị/quanh rốn rồi **di chuyển** xuống hố chậu phải. | Đau **khu trú ngay tại hông/hố chậu phải** từ đầu, ít khi di chuyển. |
+| **Thời gian đau** | Ngắn (vài giờ đến 1 – 2 ngày), diễn tiến rầm rộ. | Kéo dài hơn (1,7 – 1,8 ngày), đau âm ỉ, mức độ ít đến vừa. |
+| **Buồn nôn/Nôn** | Gặp trong **70%** trường hợp. | **Rất hiếm khi** có buồn nôn hoặc nôn. |
+| **Điểm đau** | Điểm McBurney điển hình. | Điểm đau nằm **cao hơn hoặc ở phía ngoài** điểm McBurney. |
+
+### 5.2. Siêu âm bụng
+Phương tiện hình ảnh đầu tay, an toàn, chi phí thấp:
+* **Viêm túi thừa ĐT trái:** Dày thành đại tràng \\(> 4\text{ mm}\\) trên đoạn \\(\ge 5\text{ cm}\\) (dấu hiệu hình bia), mô mỡ quanh ĐT tăng âm. Độ nhạy 85 – 98%, độ đặc hiệu 80 – 98%.
+* **Viêm túi thừa ĐT phải:** Cấu trúc giảm âm hình tròn/bầu dục nhô ra khỏi thành đại tràng phải (có thể chứa sỏi phân/khí phản âm mạnh), mô mỡ xung quanh tăng âm. Quan trọng nhất là **quan sát thấy hình ảnh ruột thừa bình thường** kế bên.
+* Nghiên cứu của Chou và cộng sự (934 bệnh nhân): Siêu âm giúp phân biệt viêm ruột thừa và viêm túi thừa đại tràng phải với độ chính xác **99,5%** (độ nhạy 91,3%, độ đặc hiệu 99,8%).
+
+### 5.3. Chụp cắt lớp vi tính (CT Scan)
+Là **TIÊU CHUẨN VÀNG / PHƯƠNG TIỆN HÌNH ẢNH TỐT NHẤT** để chẩn đoán xác định và đánh giá biến chứng của viêm túi thừa đại tràng (độ nhạy và độ đặc hiệu **\\(> 98\%\\)**).
+* *Hình ảnh điển hình:* Dày thành đại tràng, thâm nhiễm mỡ quanh đại tràng, hình ảnh túi thừa bắt thuốc cản quang rõ ở niêm mạc, sỏi phân trong túi thừa, ổ áp xe hoặc khí tự do ổ bụng.
+
+```
+                  [CÁC PHƯƠNG TIỆN CHẨN ĐOÁN HÌNH ẢNH]
+                                     │
+         ┌───────────────────────────┼───────────────────────────┐
+         ▼                           ▼                           ▼
+    [SIÊU ÂM BỤNG]              [CT SCAN BỤNG]            [NỘI SOI / X-QUANG]
+  (Phương tiện đầu tay)     (TIÊU CHUẨN VÀNG >98%)       (CHỐNG CHỈ ĐỊNH CẤP)
+ ├─► Dày thành ĐT > 4mm     ├─► Thâm nhiễm mỡ quanh ĐT   ├─► Nguy cơ vỡ/xì mủ
+ ├─► Phản ứng mỡ quanh u    ├─► Phát hiện áp xe / khí    └─► Bắt buộc thực hiện
+ └─► Tầm soát ruột thừa     └─► Phân độ WSES chính xác        sau 4-6 tuần để
+     bình thường                                              loại trừ Ung thư
+```
+
+### 5.4. Chụp X-quang đại tràng cản quang
+Thấy hình ảnh ổ đọng thuốc cản quang. **Chống chỉ định tuyệt đối trong giai đoạn viêm cấp** do nguy cơ làm xì mủ/phân vào ổ bụng.
+
+### 5.5. Nội soi đại tràng
+Thấy các lỗ hốc túi thừa. **Chống chỉ định trong giai đoạn viêm cấp tính có biến chứng**. Tuy nhiên, nội soi đại tràng là **bắt buộc thực hiện sau giai đoạn cấp từ 4 – 6 tuần** để chẩn đoán xác định và quan trọng nhất là **loại trừ ung thư đại tràng**.
+
+---
+
+## 6. ĐIỀU TRỊ
+
+### 6.1. Nguyên tắc điều trị
+Ưu tiên điều trị nội khoa bảo tồn bằng kháng sinh hoặc chọc hút dẫn lưu áp xe qua da. Chỉ định phẫu thuật đặt ra khi điều trị bảo tồn thất bại hoặc có biến chứng viêm phúc mạc.
+
+### 6.2. Điều trị viêm túi thừa đại tràng trái (Khuyến cáo WSES 2020)
+
+* **Giai đoạn 0 (Không biến chứng - chỉ dày thành / tăng đậm độ mỡ):**
+  * Bệnh nhân miễn dịch bình thường, không sốt, không nhiễm trùng toàn thân: **Không cần dùng kháng sinh**, điều trị ngoại trú, đánh giá lại sau 7 ngày.
+  * Bệnh nhân có nguy cơ (lớn tuổi, bệnh nền, suy giảm miễn dịch): Cho kháng sinh đường uống.
+* **Giai đoạn 1a (Tụ dịch / khí nhỏ quanh đại tràng \\(\le 5\text{ cm}\\)):** Điều trị kháng sinh.
+* **Giai đoạn 1b (Khối áp xe \\(\le 4 - 5\text{ cm}\\)):** Điều trị kháng sinh đơn thuần.
+* **Giai đoạn 2a (Khối áp xe \\(> 4 - 5\text{ cm}\\)):** **Dẫn lưu mủ qua da** kết hợp dùng kháng sinh.
+* **Giai đoạn 2b (Khí tự do ở xa \\(> 5\text{ cm}\\) chưa lan tỏa):** Kháng sinh nội khoa chọn lọc; nếu thất bại mổ cấp cứu cắt đại tràng (phẫu thuật Hartmann hoặc cắt nối 1 thì).
+* **Giai đoạn 3, 4 (Viêm phúc mạc mủ / phân toàn thể):** **Mổ cấp cứu cắt đại tràng** (Phẫu thuật Hartmann hoặc cắt nối kèm/không kèm mở thông ruột bảo vệ). *Nội soi rửa bụng đơn thuần bị chống chỉ định*.
+* Bệnh nhân sau điều trị bảo tồn áp xe cần hẹn nội soi đại tràng kiểm tra sau **4 – 6 tuần**.
+
+### 6.3. Điều trị viêm túi thừa đại tràng phải
+* Viêm túi thừa đại tràng phải chưa biến chứng: Ưu tiên khởi đầu điều trị bảo tồn nội khoa.
+* Viêm túi thừa có biến chứng (Giai đoạn III, IV): Bắt buộc mổ cấp cứu cắt đoạn đại tràng (không nên chỉ cắt túi thừa khi thành đại tràng đã viêm dày phù nề nặng).
+* **Xử trí khi chẩn đoán nhầm trong mổ nội soi (do nghĩ viêm ruột thừa):**
+  * Nếu túi thừa viêm cấp chưa biến chứng: Tiến hành **Cắt túi thừa nội soi** (phẫu tích bộc lộ cổ túi thừa, cắt ngang cổ túi bằng khâu tay hoặc máy khâu tự động Stapler và khâu phục hồi thành đại tràng) + Cắt ruột thừa kèm theo.
+  * Nếu phẫu thuật viên không thuần thục kỹ thuật cắt túi thừa nội soi: Chỉ cắt ruột thừa dự phòng và tiếp tục điều trị kháng sinh bảo tồn túi thừa sau mổ.
+
+---
+
+## TÓM TẮT NHANH
+
+1. Bệnh túi thừa đại tràng ở Phương Tây chủ yếu là **túi thừa giả ở đại tràng trái (sigma)** ở người lớn tuổi; tại Việt Nam và Châu Á chủ yếu là **túi thừa thật ở đại tràng phải** ở người trẻ tuổi.
+2. Hai biến chứng nguy hiểm và phổ biến nhất của bệnh túi thừa là **viêm túi thừa** (do thủng vi thể/xói mòn thành túi thừa) và **chảy máu túi thừa** (do vỡ mạch máu xuyên vòm túi thừa, chảy máu độc lập không kèm viêm).
+3. Viêm túi thừa đại tràng phải rất dễ bị chẩn đoán nhầm trước mổ với **viêm ruột thừa cấp (trên 64%)**; điểm đau cao/ngoài McBurney và hiếm khi nôn ói là các dấu hiệu gợi ý phân biệt.
+4. **Chụp CT Scan bụng chậu** có tiêm thuốc cản quang là tiêu chuẩn vàng chẩn đoán xác định và phân độ WSES (độ nhạy/đặc hiệu \\(> 98\%\\)); nội soi đại tràng và chụp cản quang **chống chỉ định trong giai đoạn cấp**, nhưng nội soi bắt buộc làm sau **4 – 6 tuần** để loại trừ ung thư đại tràng.
+5. Theo WSES 2020: Viêm chưa biến chứng (Độ 0) điều trị ngoại trú; Áp xe \\(> 4 - 5\text{ cm}\\) (Độ 2a) chỉ định dẫn lưu qua da + kháng sinh; Viêm phúc mạc (Độ 3, 4) phẫu thuật mổ cấp cứu cắt đại tràng (phẫu thuật Hartmann hoặc cắt nối).
+
+---
+
+## CÂU HỎI TỰ KIỂM TRA
+
+**(Trích từ bộ câu hỏi lượng giá của Bài 12 trong giáo trình):**
+
+**Câu 1:** Đặc điểm của túi thừa đại tràng?
+* A. Đa số là túi thừa thật
+* B. Thường chỉ có 1 túi thừa
+* C. Thoát vị niêm mạc qua chỗ yếu của thành ruột
+* D. Túi thừa đại tràng phải thường gặp ở người phương Tây
+
+**Câu 2:** Viêm phúc mạc mủ do thủng túi thừa đại tràng theo phân độ Hinchey kinh điển là?
+* A. Hinchey 2b
+* B. Hinchey 3
+* C. Hinchey 4
+* D. Hinchey 2a
+
+**Câu 3:** Trên chụp cắt lớp vi tính bụng, hình ảnh dịch khắp ổ bụng kèm khí tự do ổ bụng nhiều do thủng túi thừa đại tràng Sigma, theo phân loại của WSES (2016) là?
+* A. Độ 2a
+* B. Độ 2b
+* C. Độ 3
+* D. Độ 4
+
+**Câu 4:** Bệnh nhân nữ, 35 tuổi vào viện vì đau hố chậu (P) 3 ngày, đau âm ỉ liên tục, không sốt, không nôn ói. Bệnh nhân đã có nhiều lần đau tương tự như vậy nhưng tự mua thuốc uống, cơn đau tự khỏi. Lần này đau nhiều hơn nên bệnh nhân khám cấp cứu tại bệnh viện. Khám lâm sàng ghi nhận da niêm hồng, bụng không trướng, ấn đau nhẹ vùng hông (P), không đề kháng, không sờ thấy u cục vùng bụng. Chẩn đoán bạn nghĩ đến nhiều nhất là?
+* A. Viêm túi thừa đại tràng phải
+* B. Viêm ruột thừa cấp
+* C. K manh tràng xâm lấn
+* D. Cơn đau quặn thận (P)
+
+**Câu 5:** Bệnh nhân nam 85 tuổi có tiền căn rung nhĩ, tăng huyết áp và rối loạn đông máu, vào viện vì viêm túi thừa đại tràng chậu hông biến chứng thủng, kích thước ổ áp xe là 2 cm, có 2 bóng khí nhỏ cạnh túi thừa viêm. Khám lâm sàng ấn đau hố chậu (T), không đề kháng. Lựa chọn điều trị thích hợp là?
+* A. Kháng sinh cephalosporin thế hệ 3 + metronidazol, theo dõi tại khoa Ngoại
+* B. Chọc dẫn lưu ổ áp xe dưới siêu âm
+* C. Mổ cắt túi thừa đại tràng
+* D. Chuyển khoa hồi sức điều trị tích cực
+
+---
+
+### ĐÁP ÁN CÂU HỎI TỰ KIỂM TRA
+*(Đối chiếu theo bảng đáp án chính thức ở cuối sách)*:
+1. **C** (Túi thừa đại tràng đa số là túi thừa giả, hình thành do sự thoát vị của lớp niêm mạc qua các điểm yếu tự nhiên - nơi mạch máu xuyên qua thành ruột).
+2. **B** (Theo phân độ Hinchey kinh điển: Hinchey 1 - Áp xe quanh đại tràng; Hinchey 2 - Áp xe xa/vùng chậu; **Hinchey 3 - Viêm phúc mạc mủ toàn thể**; Hinchey 4 - Viêm phúc mạc phân toàn thể).
+3. **D** (Theo phân loại WSES: Dịch lan tỏa khắp ổ bụng kèm khí tự do nhiều thuộc **Độ 4** - viêm phúc mạc phân/thủng tự do).
+4. **A** (Bệnh nhân nữ trẻ tuổi, đau hông/hố chậu phải âm ỉ kéo dài 3 ngày, có nhiều đợt đau tương tự tự khỏi, hoàn toàn không nôn ói -> Bệnh cảnh điển hình của viêm túi thừa đại tràng phải).
+5. **A** (Khối áp xe nhỏ 2 cm kèm bóng khí nhỏ cạnh đại tràng thuộc Giai đoạn 1b theo WSES -> Điều trị nội khoa kháng sinh đơn thuần (Cephalosporin thế hệ 3 + Metronidazol) và theo dõi sát lâm sàng).
+
+---
+
+🩺 *Nếu bạn muốn tiếp tục bài giảng tiếp theo (Bài 13: Sỏi đường mật chính, Bài 14: Sỏi túi mật...) hoặc cần tạo thêm tài liệu ôn tập, hãy cho tôi biết nhé!*

@@ -1,0 +1,329 @@
+---
+title: "BÀI 3: HỘI CHỨNG Ứ ĐỌNG DẠ DÀY - HẸP MÔN VỊ"
+tags: [giang-bai]
+created: 2026-11-25
+nguon: NotebookLM
+---
+
+# BÀI 3: HỘI CHỨNG Ứ ĐỌNG DẠ DÀY - HẸP MÔN VỊ
+
+**Tác giả:** Hoàng Danh Tấn, Nguyễn Phúc Minh
+
+**MỤC TIÊU BÀI HỌC:**
+1. Chẩn đoán phân biệt hẹp môn vị với tắc ruột cao và 4 nhóm nguyên nhân gây ứ đọng dạ dày dựa vào lâm sàng (hỏi, khám bệnh) và cận lâm sàng.
+2. Tiếp cận người bệnh (qua lâm sàng và cận lâm sàng) để chẩn đoán xác định, giai đoạn, biến chứng, nguyên nhân hẹp môn vị.
+3. Vận dụng nguyên tắc điều trị trong chỉ định điều trị nội khoa, chuẩn bị trước mổ và điều trị ngoại khoa.
+
+**Từ khóa:** Hội chứng ứ đọng dạ dày, hẹp môn vị, thang điểm GCSI, điều trị nội khoa, điều trị ngoại khoa, ói muộn sau ăn.
+
+---
+
+## 1. ĐẠI CƯƠNG
+
+Về mặt cơ học, dạ dày đảm nhận 3 chức năng chính: chứa đựng thức ăn, nhào trộn - nghiền nhỏ thức ăn và tống xuất dưỡng trấp xuống ruột non. 
+
+* **Hội chứng ứ đọng dạ dày** (*Gastric Retention / Gastroparesis / Delayed Gastric Emptying Syndrome*): Là tình trạng thức ăn bị chậm hoặc không tống xuất được xuống tá tràng do **rối loạn chức năng vận động**, hoàn toàn không có nguyên nhân tắc nghẽn cơ học.
+* **Hẹp môn vị - tá tràng** (gọi tắt là **Hẹp môn vị** - *Gastric Outlet Obstruction Syndrome - GOO*): Là một hội chứng do **nghẽn tắc cơ học** lối ra của dạ dày. Tổn thương gây hẹp không chỉ khu trú tại môn vị mà còn nằm ở hang vị, tá tràng hoặc do các cấu trúc giải phẫu kế cận chèn ép.
+
+Để dễ hình dung, hội chứng ứ đọng dạ dày tương tự như **tắc ruột cơ năng**, còn hẹp môn vị tương tự như **tắc ruột cơ học**. Vì vậy, chẩn đoán ứ đọng dạ dày bắt buộc phải loại trừ tắc nghẽn cơ học và điều trị chủ yếu là nội khoa (gần như không có vai trò ngoại khoa). Ngược lại, chẩn đoán hẹp môn vị cần tìm nguyên nhân gây tắc và điều trị bắt buộc phải phối hợp nội - ngoại khoa.
+
+### 1.1. Giải phẫu
+Dạ dày cấu tạo gồm 3 lớp cơ: cơ vòng, cơ dọc và cơ chéo (trong đó lớp cơ chéo giúp nghiền nát thức ăn, là đặc điểm riêng biệt chỉ có ở dạ dày). Lớp cơ vòng dày lên ở vùng ranh giới tạo thành cơ thắt môn vị.
+
+Về thần kinh, hoạt động của dạ dày chịu chi phối bởi:
+* **Hệ thần kinh nội tại:** Nằm ở hai lớp là đám rối dưới niêm Meissner (giữa niêm mạc và cơ vòng) và đám rối gian cơ Auerbach (giữa cơ vòng và cơ dọc).
+* **Hệ thần kinh thực vật:** Giao cảm đi từ tủy ngực \\(T_7 - T_8\\) qua thần kinh tạng lớn và tạng bé; đối giao cảm đi theo dây thần kinh X bắt nguồn từ nhân vận động sừng sau tủy sống.
+* **Tế bào kẽ Cajal (ICC):** Nằm ở lớp cơ vòng đoạn giữa bờ cong lớn, đóng vai trò là tế bào phát nhịp. Hoạt động điện của tế bào Cajal lan truyền làm phát sinh các sóng nhu động.
+
+### 1.2. Sinh lý vận động dạ dày
+Vận động dạ dày là chức năng chủ yếu, chịu sự điều hòa ngoài dạ dày (chủ yếu qua thần kinh X giải phóng Nitric Oxide - NO, Vasoactive Intestinal Peptide - VIP) và tại dạ dày (đám rối nội tại và tế bào Cajal). Dạ dày chia làm hai vùng chức năng:
+* **Phần trên (proximal):** Gồm tâm vị, đáy vị, thân vị; thành cơ mỏng, đảm nhận chức năng **chứa đựng**.
+* **Phần dưới (distal):** Gồm hang vị, môn vị; thành cơ dày và mạnh, đảm nhận chức năng **nhào trộn, nghiền nhỏ và tống xuất**. Thức ăn được nghiền thành các hạt có kích thước \\(< 2\text{ mm}\\) gọi là dưỡng trấp (*chyme*).
+
+Quá trình vận động tống xuất dạ dày gồm 3 giai đoạn liên tiếp:
+1. **Chứa đựng thức ăn:** Khi thức ăn vào dạ dày, phản xạ thần kinh X (qua NO, VIP) làm giảm trương lực phần trên dạ dày, cho phép dạ dày giãn ra chứa tới \\(1.500\text{ ml}\\) thức ăn (so với \\(50\text{ ml}\\) khi rỗng) mà áp lực nội dạ dày tăng rất ít (\\(< 5\text{ mmHg}\\)).
+2. **Nhào trộn và nghiền nhỏ:** Tế bào Cajal phát nhịp tạo ra các sóng chậm với tần số khoảng 3 sóng/phút. Sóng nhu động lan từ thân vị xuống hang vị. Khi sóng đến hang môn vị, cơ thắt môn vị co lại (systole hang vị), ép ngược thức ăn trở lại thân vị để tiếp tục nghiền nhỏ.
+3. **Tống xuất dạ dày:** 
+   * Thức ăn lỏng được tống xuất nhanh dựa vào chênh lệch áp lực giữa dạ dày và tá tràng.
+   * Thức ăn đặc đòi hỏi phải nghiền thành dưỡng trấp \\(< 2\text{ mm}\\) mới qua được môn vị (môn vị mở ra \\(1 - 2\text{ mm}\\) mỗi đợt sóng).
+   * Trong giai đoạn nhịn ăn (giữa các bữa ăn), Phức hợp vận động di chuyển (MMC - *Migrating Motor Complex*) xuất hiện mỗi \\(90 - 120\\) phút với giai đoạn 3 co bóp rất mạnh để "dọn dẹp" các mảnh thức ăn không tiêu hóa được (u bã thức ăn) xuống ruột.
+
+### 1.3. Sinh lý bệnh
+
+#### 1.3.1. Sinh lý bệnh hội chứng ứ đọng dạ dày
+Bất kỳ nguyên nhân nào làm rối loạn hoạt động phát nhịp của tế bào Cajal hoặc tổn thương đường thần kinh/cơ trơn dạ dày đều dẫn đến rối loạn tống xuất. 
+Hậu quả của ứ đọng dạ dày bao gồm:
+* **Tại dạ dày:** Thức ăn và dịch tiêu hóa ứ đọng gây cảm giác đầy bụng, trướng bụng, buồn nôn, nôn ra thức ăn cũ, no sớm, đau tức thượng vị. Thức ăn ứ đọng lâu ngày lên men gây hôi miệng, hình thành khối u bã thức ăn (*bezoar*), gây viêm nôn ói nhiều dẫn đến rách niêm mạc tâm vị chảy máu (hội chứng Mallory-Weiss) hoặc viêm phổi hít.
+* **Tại toàn thân và ruột:** Thức ăn không xuống được ruột non kèm nôn ói kéo dài dẫn đến mất nước, rối loạn điện giải, sụt cân, suy dinh dưỡng và gây biến động đường huyết rất khó kiểm soát ở bệnh nhân đái tháo đường.
+
+#### 1.3.2. Sinh lý bệnh hẹp môn vị
+Hẹp môn vị diễn tiến tự nhiên qua 2 giai đoạn:
+1. **Giai đoạn tăng trương lực (còn bù):** Dạ dày tăng cường co bóp để thắng cản trở cơ học ở môn vị. Bệnh nhân đau bụng quặn từng cơn sau ăn và nôn muộn sau ăn.
+2. **Giai đoạn mất trương lực (mất bù):** Dạ dày co bóp thất bại, giãn to và liệt. Bệnh nhân ít đau quặn hơn nhưng cảm giác trướng nặng bụng liên tục, nôn rất muộn (có khi vài ngày mới nôn một lần) nhưng mỗi lần nôn ra lượng chất nôn rất lớn, chứa thức ăn phân hủy rữa thối.
+
+**Hậu quả rối loạn nước và điện giải trong hẹp môn vị:**
+* Nôn dịch vị làm mất lượng lớn \\(\text{H}^+\\) và \\(\text{Cl}^-\\).
+* Ban đầu, thận bù trừ bằng cách tăng thải \\(\text{NaHCO}_3\\) trong nước tiểu (nước tiểu kiềm).
+* Khi nôn kéo dài gây mất nước và mất \\(\text{Na}^+\\), thể tích tuần hoạt giảm, thận bắt buộc phải tái hấp thu \\(\text{Na}^+\\) và giữ lại \\(\text{HCO}_3^-\\), đồng thời thải \\(\text{K}^+\\) và \\(\text{H}^+\\) ra nước tiểu. Hậu quả dẫn đến **Kiềm chuyển hóa kèm nước tiểu toan nghịch lý** (*paradoxical aciduria*).
+* Giảm \\(\text{K}^+\\) máu làm \\(\text{H}^+\\) đi vào trong tế bào. Giảm \\(\text{Ca}^{2+}\\) ion hóa gây ra cơn co quắp cơ (*tetany*).
+* Mất nước nặng gây giảm thể tích tuần hoàn và **suy thận cấp trước thận**.
+
+---
+
+## 2. HỘI CHỨNG Ứ ĐỌNG DẠ DÀY
+
+### 2.1. Dịch tễ
+Ước tính khoảng 2 – 4% dân số mắc hội chứng ứ đọng dạ dày. Tỷ lệ này vọt lên 30 – 50% ở bệnh nhân đái tháo đường và 24 – 40% ở người mắc chứng khó tiêu chức năng. Nữ giới chiếm đa số (82%) và phần lớn dưới 45 tuổi.
+
+### 2.2. Nguyên nhân
+Ba nhóm nguyên nhân chính gồm: Vô căn (36%), Đái tháo đường (29%) và Sau phẫu thuật (13%).
+
+#### 2.2.1. Vô căn
+Chiếm 36%. Trong đó, 30 – 50% bệnh nhân có tiền sử nhiễm siêu vi trước đó (Thủy đậu, Zona, EBV, CMV, Rotavirus, Virus Norwalk, HIV...). Virus được cho là gây tổn thương đám rối thần kinh nội tại hoặc tế bào Cajal.
+
+#### 2.2.2. Đái tháo đường
+Bệnh nhân đái tháo đường sau 10 – 20 năm có tỷ lệ biến chứng thần kinh tự chủ tạng 30 – 60%. Tình trạng **tăng đường huyết** làm chậm quá trình tống xuất dạ dày (cả thức ăn lỏng và đặc). Khi đường huyết được kiểm soát về bình thường, vận động dạ dày sẽ cải thiện.
+
+#### 2.2.3. Sau phẫu thuật
+Hay gặp sau phẫu thuật cắt thần kinh X (chiếm 5%), cắt bán phần dạ dày, nối vị tràng kiểu Roux-en-Y, phẫu thuật cuộn đáy vị (Fundoplication), phẫu thuật Whipple, ghép tim - phổi... do tổn thương vô ý nhánh thần kinh X hoặc dính rối thần kinh.
+
+#### 2.2.4. Nguyên nhân khác
+Do trào ngược dạ dày thực quản (10%), viêm teo dạ dày, táo bón nguyên phát, hội chứng cận ung, bệnh hệ thống (Xơ cứng toàn thể, Lupus, Amyloidosis), bệnh thần kinh (Parkinson, xơ cứng rải rác), hoặc do thuốc (Opioid, Anticholinergic, GLP-1 receptor agonists...).
+
+### 2.3. Lâm sàng
+
+#### 2.3.1. Triệu chứng cơ năng
+* **Buồn nôn (98%):** Là triệu chứng thường gặp nhất, tăng lên sau khi ăn.
+* **Nôn (68%):** Nôn ra thức ăn cũ chưa tiêu hóa.
+* **No sớm (60 – 86%):** Ăn vài miếng đã cảm giác đầy no, phải dừng bữa giữa chừng.
+* **Đau trướng bụng (50 – 90%):** Cảm giác đầy tức, nặng bụng khó chịu vùng thượng vị sau ăn.
+
+#### 2.3.2. Triệu chứng thực thể
+Thường khám lâm sàng không phát hiện bất thường. Khi thăm khám lúc sáng sớm (khi nhịn ăn qua đêm) có thể thấy:
+* Dấu hiệu óc ách lúc đói (nghe tiếng lắc dịch hơi vùng thượng vị).
+* Gõ đục vùng thượng vị.
+* Sờ thấy khối u bã thức ăn vùng thượng vị. Bụng lõm lòng thuyền rất hiếm gặp trong ứ đọng dạ dày.
+
+#### 2.3.3. Triệu chứng toàn thân
+Bệnh nhân có dấu hiệu mất nước (da niêm khô, mắt trũng, nhịp tim nhanh, hạ huyết áp tư thế) và sụt cân, suy dinh dưỡng ở giai đoạn muộn.
+
+### 2.4. Cận lâm sàng
+
+#### 2.4.1. Xét nghiệm máu
+Đánh giá tình trạng cô đặc máu, rối loạn điện giải (giảm \\(\text{Na}^+, \text{Cl}^-, \text{K}^+, \text{Ca}^{2+}\\), tăng \\(\text{HCO}_3^-\\)), suy thận trước thận (tăng Ure, Creatinin), giảm Albumin/Protid máu. Cần xét nghiệm đường huyết lúc đói, HbA1c, ANA, Vitamin B12 để tìm bệnh lý nền.
+
+#### 2.4.2. Nội soi dạ dày tá tràng
+Bắt buộc thực hiện ở 100% bệnh nhân để **loại trừ nguyên nhân tắc nghẽn cơ học**. Thấy thức ăn ứ đọng ở đáy/thân vị dù đã nhịn ăn qua đêm, không thấy tổn thương gây hẹp môn vị.
+
+#### 2.4.3. Chụp X-quang dạ dày
+Hình ảnh đọng Barium lẫn thức ăn hoặc hình ảnh 3 lớp (hơi - dịch - Barium). Barium còn đọng lại sau 12 – 24 giờ.
+
+#### 2.4.4. Xạ hình tống xuất dạ dày (Gastric Emptying Scintigraphy)
+Là **tiêu chuẩn vàng** xác định chẩn đoán. Bệnh nhân ăn bữa ăn chuẩn có gắn chất phóng xạ Technetium (\\(^{99m}\text{Tc}\\)). Thực hiện ghi hình (scan) ở thời điểm 0, 2 và 4 giờ sau ăn.
+* **Thời điểm 4 giờ:** Nếu tỷ lệ thức ăn còn đọng lại trong dạ dày **\\(> 10\%\\)** là chẩn đoán xác định ứ đọng dạ dày (độ nhạy 100%, độ đặc hiệu 70%).
+
+#### 2.4.5. Đo áp lực dạ dày tá tràng
+Giúp phân biệt nguyên nhân do cơ trơn hay do thần kinh.
+
+#### 2.4.6. Các phương pháp khác
+Nội soi viên nang (SmartPill), test thở carbon phóng xạ (\\(^{13}\text{C}\\)-octanoic acid breath test).
+
+### 2.5. Chẩn đoán
+
+#### 2.5.1. Chẩn đoán xác định
+Dựa vào: (1) Triệu chứng lâm sàng (buồn nôn, nôn, no sớm, trướng bụng); (2) Xạ hình tống xuất dạ dày sau 4 giờ còn đọng \\(> 10\%\\) thức ăn; (3) Nội soi hoặc CT scan xác nhận KHÔNG có tắc nghẽn cơ học.
+
+#### 2.5.2. Chẩn đoán nguyên nhân
+Dựa vào tiền sử đái tháo đường, phẫu thuật dạ dày - thần kinh X, nhiễm virus hoặc xét nghiệm loại trừ để kết luận vô căn.
+
+#### 2.5.3. Chẩn đoán mức độ
+Sử dụng **thang điểm GCSI (Gastroparesis Cardinal Symptom Index)** gồm 3 nhóm triệu chứng (đánh giá từ 0 đến 5 điểm):
+
+| Nhóm triệu chứng | Triệu chứng cụ thể |
+| :--- | :--- |
+| **1. Buồn nôn / Nôn** | Buồn nôn, Nôn khan, Nôn |
+| **2. Đầy bụng / No sớm** | Cảm giác no, Không thể ăn hết bữa, Đầy bụng sau ăn, Chán ăn |
+| **3. Căng tức / Trướng bụng** | Căng tức bụng, Bụng to ra rõ rệt |
+
+#### 2.5.4. Chẩn đoán phân biệt
+* **Chứng khó tiêu chức năng (Functional Dyspepsia):** Ranh giới chồng lấp; cần xạ hình và đo áp lực để phân biệt.
+* **Hẹp môn vị:** Bệnh tiến triển có giai đoạn tăng/mất trương lực rõ, nội soi thấy tắc nghẽn cơ học.
+
+### 2.6. Điều trị
+* **Nguyên tắc:** Điều trị nội khoa và tiết chế chế độ ăn là chính, **ngoại khoa gần như không có vai trò**.
+* **Chế độ ăn:** Chia nhỏ làm nhiều bữa (5 – 6 bữa/ngày), giảm chất xơ, giảm chất béo (chất béo làm chậm tống xuất dạ dày), ưu tiên thức ăn lỏng/mềm, kiểm soát tốt đường huyết.
+* **Thuốc Thuộc nhóm Prokinetic (Tăng vận động dạ dày):** Metoclopramide, Erythromycin (kích thích thụ thể motilin), Domperidone, Cisapride.
+* **Thuốc chống nôn:** Ondansetron, Promethazine, Prochlorperazine...
+* **Can thiệp/Phẫu thuật:** Chỉ áp dụng khi thất bại hoàn toàn với nội khoa (Đặt ống thông mở dạ dày giải áp hoặc mở thông hỗng tràng nuôi ăn). Hướng nghiên cứu mới: Tiêm Botulinum vào cơ thắt môn vị, đặt máy tạo nhịp dạ dày (*Gastric Electrical Stimulation*).
+
+---
+
+## 3. HẸP MÔN VỊ
+
+### 3.1. Dịch tễ
+Tần suất hẹp môn vị đã giảm đáng kể trong vài thập niên gần đây nhờ việc điều trị hiệu quả bệnh lý loét dạ dày tá tràng bằng thuốc PPI và diệt *H. pylori*.
+
+### 3.2. Nguyên nhân
+Trước năm 1970, nguyên nhân lành tính chiếm chủ yếu (80 – 90%). Ngày nay, **nguyên nhân ác tính vọt lên chiếm 50 – 80%** các trường hợp hẹp môn vị.
+
+#### 3.2.1. Nguyên nhân ác tính
+* **Ung thư hang vị dạ dày:** Là nguyên nhân thường gặp nhất (chiếm 11 – 35%).
+* **Ung thư đầu tụy:** Chiếm 15 – 25% (xâm lấn tá tràng D2/môn vị, thường kèm theo vàng da tắc mật).
+* **Khác:** Ung thư nhú Vater, ung thư túi mật/đường mật xâm lấn, Lymphoma dạ dày, u carcinoid, ung thư di căn.
+
+#### 3.2.2. Nguyên nhân lành tính
+* **Loét dạ dày tá tràng:** Hiện chỉ còn chiếm 2 – 5% các trường hợp loét (chủ yếu do sẹo xơ chai ổ loét hành tá tràng hoặc môn vị).
+* **Biến chứng viêm tụy:** Viêm tụy mạn, nang giả tụy chèn ép (1 – 5%).
+* **Bỏng hóa chất:** Do uống nhầm hoặc tự tử bằng acid/kiềm gây xơ hẹp môn vị.
+* **Nguyên nhân hiếm gặp:** Polyp hang vị có cuống, Sỏi mật rò vào tá tràng (**Hội chứng Bouveret**), Tụy hình nhẫn (0,005 – 0,015%), Xoắn dạ dày.
+* **Hội chứng động mạch mạc treo tràng trên (Hội chứng Wilkie):** Đoạn tá tràng D3 bị kẹp giữa ĐM chủ bụng (phía sau) và ĐM mạc treo tràng trên (phía trước). Khi bệnh nhân sụt cân nhanh làm mất lớp mỡ đệm, góc giữa 2 động mạch hẹp lại **\\(< 6 - 16^\circ\\)** (bình thường \\(20 - 70^\circ\\)) và khoảng cách giảm còn **\\(2 - 8\text{ mm}\\)** (bình thường \\(10 - 28\text{ mm}\\)) gây chèn ép tá tràng D3.
+
+### 3.3. Lâm sàng
+
+#### 3.3.1. Triệu chứng cơ năng
+* **Nôn ói:** Triệu chứng nổi bật. Nôn ra thức ăn cũ chưa tiêu hóa của bữa ăn trước (hoặc ngày hôm trước), dịch nôn có mùi chua thối, **không có dịch mật** (nếu hẹp trên nhú Vater). Ở giai đoạn mất bù, nôn thưa hơn nhưng mỗi lần nôn ra số lượng rất lớn.
+* **Đau bụng:** Đau quặn từng cơn vùng thượng vị sau khi ăn, đau giảm rõ sau khi nôn được.
+* **Cảm giác đầy trướng bụng:** Xuất hiện sớm, ăn mau no, trướng vùng thượng vị.
+
+#### 3.3.2. Triệu chứng thực thể
+* **Bụng lõm lòng thuyền:** Trướng căng ở vùng thượng vị nhưng lại xẹp lép ở vùng hạ vị và hai hố chậu.
+* **Dấu Bouveret (+):** Thấy các dải sóng nhu động dạ dày nổi cuộn hằn lên thành bụng di chuyển từ hạ sườn trái sang hố chậu phải (giai đoạn tăng trương lực).
+* **Dấu óc ách lúc đói (+):** Lắc bụng bệnh nhân vào buổi sáng sớm thấy tiếng dịch hơi óc ách rõ rệt.
+
+#### 3.3.3. Triệu chứng toàn thân
+Bệnh nhân sụt cân nhanh, gầy đét, mắt trũng, da khô mất đàn hồi (mất nước), giảm nước tiểu, rối loạn tri giác (do hạ \\(\text{Na}^+\\), kiềm chuyển hóa) và co quắp cơ ngón tay/chân (*tetany* do hạ \\(\text{Ca}^{2+}\\)).
+
+### 3.4. Cận lâm sàng
+
+#### 3.4.1. Xét nghiệm máu
+* **Rối loạn điện giải điển hình:** Giảm \\(\text{Na}^+, \text{Cl}^-, \text{K}^+, \text{Ca}^{2+}\\).
+* **Khí máu:** Kiềm chuyển hóa.
+* **Thận & Dinh dưỡng:** Tăng Ure, Creatinin (suy thận trước thận); giảm Hemoglobin, giảm Albumin/Protid máu nặng.
+
+#### 3.4.2. Hình ảnh
+* **X-quang dạ dày cản quang:**
+  * *Giai đoạn tăng trương lực:* Dạ dày tăng co bóp (\\(\ge 3\\) sóng nhu động sâu).
+  * *Giai đoạn mất trương lực:* Dạ dày giãn to sa xuống tận vùng chậu, **hình ảnh 3 lớp (Hơi - Dịch - Barium)**, hình ảnh "ruột bánh mì" (lốm đốm cản quang do Barium lẫn thức ăn cũ), đọng Barium kéo dài quá 6 giờ (có khi vài ngày).
+  * *Ung thư:* Hình ảnh khuyết thuốc nham nhở, bờ không đều vùng hang vị.
+* **Chụp CT-Scan bụng cản quang:** Rất có giá trị xác định vị trí, bản chất khối u (ác tính), độ xâm lấn và phân độ giai đoạn ung thư.
+
+#### 3.4.3. Nội soi dạ dày tá tràng
+Là phương pháp **quan trọng nhất**. Bắt buộc phải đặt ống thông rửa sạch dạ dày trước khi soi.
+* **Tiêu chuẩn chẩn đoán:** **Ống soi không thể đi qua được vị trí hẹp môn vị/tá tràng**.
+* Bấm sinh thiết mép tổn thương để chẩn đoán xác định bản chất giải phẫu bệnh (lành tính hay ung thư).
+
+### 3.5. Chẩn đoán
+
+#### 3.5.1. Chẩn đoán xác định
+* **Giai đoạn sớm:** Đầy trướng bụng sau ăn, X-quang đọng Barium \\(> 4 - 6\text{ giờ}\\), Nội soi ống soi không qua được môn vị.
+* **Giai đoạn muộn:** Đầy đủ lâm sàng (nôn thức ăn cũ, dấu Bouveret, dấu óc ách lúc đói, bụng lõm lòng thuyền), X-quang thấy dạ dày giãn sa vùng chậu hình 3 lớp.
+
+#### 3.5.2. Chẩn đoán nguyên nhân
+Dựa vào tiền căn, bệnh sử (diễn tiến nhanh nghi ác tính, kéo dài nghi lành tính), kết quả nội soi sinh thiết và chụp CT-Scan bụng.
+
+#### 3.5.3. Chẩn đoán biến chứng
+* Suy kiệt, giảm thể tích tuần hoạt, suy thận cấp.
+* **Rối loạn điện giải nặng cần cấp cứu:** khi \\(\text{Na}^+ < 110\text{ mEq/L}\\) (hoặc có co giật/lơ mơ); \\(\text{K}^+ < 2,5\text{ mEq/L}\\) (hoặc có hạ sóng T, sóng U trên ECG, liệt cơ).
+* **Suy dinh dưỡng nặng cần hỗ trợ dinh dưỡng tĩnh mạch \\(\ge 1\text{ tuần}\\) trước mổ:** khi BMI \\(< 18,5\text{ kg/m}^2\\), sụt \\(> 10\%\\) trọng lượng/6 tháng, hoặc Albumin \\(< 3\text{ g/dL}\\).
+
+#### 3.5.4. Chẩn đoán phân biệt
+* **Tắc ruột cao (tắc hỗng/hồi tràng):** Nôn ra dịch mật/dịch ruột, quai ruột nổi rõ, CT-Scan thấy vị trí chuyển tiếp ở ruột non.
+* **Hội chứng ứ đọng dạ dày:** Nội soi và CT-Scan hoàn toàn không có tắc nghẽn cơ học.
+
+### 3.6. Điều trị
+
+#### 3.6.1. Nguyên tắc điều trị
+Phối hợp **Hồi sức nội khoa tích cực** và **Can thiệp ngoại khoa** (hoặc nội soi can thiệp) nhằm tái lập lưu thông tiêu hóa và giải quyết nguyên nhân.
+
+#### 3.6.2. Điều trị nội khoa (Chuẩn bị trước mổ)
+1. **Rửa dạ dày:** Đặt ống thông Faucher lớn (\\(8 - 10\text{ mm}\\)), dùng **nước muối sinh lý ấm** bơm rửa hàng ngày cho sạch hết thức ăn cũ giúp dạ dày bớt giãn, niêm mạc bớt phù nề.
+2. **Bù nước và điện giải:** Bù dịch dựa vào Quy tắc 2 - 4 - 6 (Mất nước nhẹ 2%, Trung bình 4%, Nặng 6% trọng lượng cơ thể). Bù lượng dịch đang tiếp tục mất qua ống thông dạ dày. Bù kali, natri bằng dịch truyền đẳng trương.
+3. **Nâng đỡ thể trạng:** Dinh dưỡng hoàn toàn đường tĩnh mạch (TPA) trước mổ.
+
+#### 3.6.3. Điều trị ngoại khoa và nội soi can thiệp
+
+* **Nguyên nhân ác tính:**
+  * *Ung thư hang vị:* Cắt bán phần dưới dạ dày nạo hạch. Nếu không cắt được thì phẫu thuật Nối vị tràng (giải phẫu lưu thông) hoặc Mở hỗng tràng nuôi ăn.
+  * *Ung thư đầu tụy:* Phẫu thuật cắt khối tá tụy (Whipple). Nếu không cắt được thì phẫu thuật Nối vị tràng + Nối mật ruột.
+
+**Bảng 1. Phương pháp phẫu thuật ở một số nguyên nhân ác tính**
+
+| Nguyên nhân | Tái lập lưu thông dạ dày – ruột | Loại bỏ cả nguyên nhân |
+| :--- | :--- | :--- |
+| **Ung thư hang vị** | Nối vị - tràng (hoặc Mở hỗng tràng nuôi ăn) | Cắt bán phần dưới dạ dày \\(\pm\\) nạo hạch |
+| **Ung thư khối tá tụy** | Nối vị - tràng + Nối mật - ruột | Cắt khối tá tụy (Whipple) \\(\pm\\) nạo hạch |
+
+* **Nguyên nhân lành tính:**
+
+**Bảng 2. Phương pháp phẫu thuật ở một số nguyên nhân lành tính**
+
+| Nguyên nhân | Tái lập lưu thông dạ dày – ruột | Loại bỏ cả nguyên nhân |
+| :--- | :--- | :--- |
+| **Loét hang môn vị / Tá tràng** | Nối vị - tràng | Cắt bán phần dưới dạ dày (lấy cả ổ loét) |
+| **Nang giả tụy chèn ép** | Nối nang - hỗng tràng (hoặc dạ dày) | Nối nang - hỗng tràng |
+| **Xơ hẹp do hóa chất** | Mở hỗng tràng nuôi ăn / Nối vị - tràng | Cắt thực quản, tạo hình thực quản bằng đại tràng |
+| **Hội chứng ĐM mạc treo tràng trên** | Nối tá – hỗng tràng (hoặc Nối vị - tràng) | Nối tá – hỗng tràng |
+| **Tụy hình nhẫn** | Nối tá – hỗng tràng (hoặc Nối vị - tràng) | Nối tá – hỗng tràng |
+| **Sỏi mật (Hội chứng Bouveret)** | Xẻ tá tràng lấy sỏi \\(\pm\\) khâu kín môn vị, nối vị tràng | Giải quyết sỏi mật + Xẻ tá tràng lấy sỏi |
+
+* **Nội soi can thiệp:** Nong chỗ hẹp bằng bóng hoặc **đặt Stent kim loại nở tự động (SEMS)** qua chỗ hẹp. Chỉ định cho bệnh nhân ung thư giai đoạn muộn không còn khả năng phẫu thuật hoặc tổng trạng quá kém không chịu nổi cuộc mổ. (Tỷ lệ đặt stent thành công ở tá tràng đạt 70%, môn vị đạt 29%).
+
+---
+
+## TÓM TẮT NHANH
+
+1. **Phân biệt bản chất:** Hội chứng ứ đọng dạ dày là sự chậm tống xuất do **rối loạn chức năng** (cơ năng), trong khi Hẹp môn vị là do **tắc nghẽn cơ học** lối ra dạ dày.
+2. **Nguyên nhân thay đổi:** Hẹp môn vị hiện nay chủ yếu do **nguyên nhân ác tính (50 – 80%)** mà đứng đầu là ung thư hang vị và ung thư đầu tụy. Nguyên nhân do loét đã giảm mạnh nhờ thuốc PPI và diệt *H. pylori*.
+3. **Tam chứng lâm sàng hẹp môn vị điển hình:** Nôn ra thức ăn cũ chưa tiêu từ bữa trước (không có mật), Dấu óc ách lúc đói (+), và Bụng lõm lòng thuyền (hoặc Dấu Bouveret +).
+4. **Tiêu chuẩn vàng cận lâm sàng:** Xạ hình tống xuất dạ dày (4h đọng \\(> 10\%\\)) đối với ứ đọng dạ dày; Nội soi dạ dày (ống soi không qua được vị trí hẹp + sinh thiết) đối với hẹp môn vị.
+5. **Chiến lược điều trị:** Ứ đọng dạ dày điều trị **100% nội khoa** (Prokinetic, tiết chế ăn uống); Hẹp môn vị bắt buộc **Hồi sức nội khoa** (rửa dạ dày nước muối ấm, bù điện giải, dinh dưỡng TPA) phối hợp **Phẫu thuật** giải quyết tắc nghẽn/nguyên nhân (hoặc đặt Stent qua nội soi).
+
+---
+
+## CÂU HỎI TỰ KIỂM TRA
+
+**(Trích từ bộ câu hỏi lượng giá của Bài 3 trong giáo trình):**
+
+**Câu 1:** Bình thường, hoạt động của môn vị trong quá trình nhào trộn, nghiền nhỏ và tống xuất sau ăn ở dạ dày có đặc điểm. Chọn câu đúng?
+* A. Môn vị luôn mở 2 – 3 mm để dạ dày nhào trộn, nghiền nhỏ và tống xuất dần thức ăn rắn - đặc xuống tá tràng.
+* B. Môn vị phối hợp đóng - mở để dạ dày nhào trộn, nghiền nhỏ và tống xuất dần thức ăn rắn - đặc xuống tá tràng.
+* C. Môn vị luôn mở 2 – 3 mm để dạ dày nhào trộn, nghiền nhỏ và tống xuất dần thức ăn lỏng - dưỡng trấp xuống tá tràng.
+* D. Môn vị phối hợp đóng - mở để dạ dày nhào trộn, nghiền nhỏ và tống xuất thức ăn lỏng - dưỡng trấp xuống tá tràng.
+
+**Câu 2:** Bệnh nhân nam 65 tuổi, đã mổ cắt bán phần dưới dạ dày nối vị - tràng Roux-en-Y, nạo hạch do ung thư hang vị, sau ra viện 1 tuần phải nhập viện lại vì đầy bụng, nôn sau ăn. Tiêu tiểu bình thường. Khám: toàn trạng trung bình, không sốt, mạch 94 lần/phút, huyết áp 135/75 mmHg. Bụng mềm, không trướng, vết mổ lành sẹo, quai ruột nổi (-), dấu rắn bò (-). Thăm hậu môn: phân vàng, không u, găng không dính máu. X-quang bụng đứng sau 12 tiếng uống cản quang: cản quang xuống đến đại tràng, không thấy mức nước hơi. Người bệnh nhịn ăn uống qua đêm và được nội soi sáng hôm sau: còn thức ăn trong phần dạ dày còn lại, miệng nối vị tràng thông tốt. CLVT bụng: các quai ruột không giãn, không thấy vị trí chuyển tiếp. Chẩn đoán phù hợp nhất là?
+* A. Liệt ruột sau mổ.
+* B. Hội chứng ứ đọng dạ dày sau phẫu thuật.
+* C. Hội chứng quai đi.
+* D. Tắc ruột cao do dính sau mổ.
+
+**Câu 3:** Nữ, 76 tuổi, gần đây cảm giác đầy bụng, buồn nôn nhất là sau ăn, ăn mau no có khi phải ngừng bữa giữa chừng, tiêu tiểu bình thường. Thăm khám chưa phát hiện bất thường. Tiền căn đái tháo đường trên 10 năm. Người bệnh nhịn ăn uống qua đêm và được nội soi sáng hôm sau: thức ăn vẫn còn ứ đọng ở thân vị, đáy vị, không thấy sang thương ở dạ dày - tá tràng. Chẩn đoán phù hợp nhất là?
+* A. Hẹp môn vị chưa rõ nguyên nhân.
+* B. Hội chứng ứ đọng dạ dày ở người già.
+* C. Hội chứng ứ đọng dạ dày do đái tháo đường.
+* D. Hội chứng ứ đọng dạ dày vô căn.
+
+**Câu 4:** Bệnh nhân nam, 38 tuổi, tiền căn đau dạ dày 3 năm, 2 tháng gần đây ăn kém, đầy bụng, thỉnh thoảng nôn ra thức ăn của ngày hôm trước, sụt 7 kg. Khám: niêm nhạt, bụng mềm, không sờ thấy u. Thái độ phù hợp nhất giúp chẩn đoán là?
+* A. X-quang bụng.
+* B. X-quang dạ dày cản quang.
+* C. Nội soi dạ dày.
+* D. CLVT bụng có tiêm thuốc cản quang.
+
+**Câu 5:** Bệnh nhân nam, 45 tuổi, được chẩn đoán hẹp môn vị do loét tá tràng, cần hồi sức nội khoa trước phẫu thuật. Chọn câu KHÔNG PHÙ HỢP?
+* A. Đặt thông mũi dạ dày.
+* B. Hỗ trợ dinh dưỡng.
+* C. Điều chỉnh rối loạn nước, điện giải.
+* D. Dùng kháng sinh ngả tĩnh mạch.
+
+---
+
+### ĐÁP ÁN CÂU HỎI TỰ KIỂM TRA
+*(Đối chiếu theo đáp án chính thức ở cuối sách):*
+1. **D** (Môn vị phối hợp đóng - mở đồng vận với sóng nhu động hang vị để nhào trộn và tống xuất dưỡng trấp/thức ăn lỏng xuống tá tràng).
+2. **B** (Bệnh nhân sau mổ dạ dày Roux-en-Y có nôn, nội soi miệng nối thông tốt, CT không tắc nghẽn cơ học -> Hội chứng ứ đọng dạ dày sau phẫu thuật).
+3. **C** (Bệnh nhân nữ lớn tuổi, tiền sử đái tháo đường >10 năm, nội soi có ứ đọng thức ăn nhưng không có tổn thương cơ học -> Hội chứng ứ đọng dạ dày do đái tháo đường).
+4. **C** (Bệnh nhân nghi ngờ hẹp môn vị, phương tiện ưu tiên hàng đầu vừa giúp xác định tắc nghẽn cơ học vừa lấy sinh thiết chẩn đoán nguyên nhân là Nội soi dạ dày).
+5. **D** (Hồi sức trước mổ hẹp môn vị lành tính gồm: Đặt thông rửa dạ dày, Bù nước - điện giải, Dinh dưỡng tĩnh mạch. Việc dùng kháng sinh đường tĩnh mạch không nằm trong phác đồ hồi sức chuẩn trước mổ cho hẹp môn vị lành tính chưa có nhiễm trùng).
+
+---
+
+👉 *Nếu bạn muốn tiếp tục bài giảng tiếp theo (Bài 4: Tắc ruột cơ học) hoặc muốn tạo flashcards/quiz trắc nghiệm ôn tập cho các bài học này, hãy bảo tôi nhé!*

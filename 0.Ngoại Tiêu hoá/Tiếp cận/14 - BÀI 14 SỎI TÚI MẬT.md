@@ -1,0 +1,256 @@
+---
+title: "BÀI 14: SỎI TÚI MẬT"
+tags: [giang-bai]
+created: 2026-11-25
+nguon: NotebookLM
+---
+
+# BÀI 14: SỎI TÚI MẬT
+
+**Tác giả:** Nguyễn Hồng Sơn, Đặng Quốc Việt, Phan Minh Trí
+
+**MỤC TIÊU BÀI HỌC:**
+1. Sử dụng kiến thức giải phẫu và sinh lý của túi mật giúp nhận diện các triệu chứng lâm sàng và giúp chẩn đoán phân biệt với bệnh lý của tạng lân cận.
+2. Vận dụng cơ chế sinh bệnh sỏi túi mật trong điều trị và phòng bệnh.
+3. Tiếp cận người bệnh bằng lâm sàng và cận lâm sàng để chẩn đoán sỏi túi mật, chẩn đoán biến chứng của sỏi túi mật.
+4. Chỉ định điều trị phù hợp cho người bệnh sỏi túi mật không triệu chứng, có triệu chứng hay khi có biến chứng.
+
+**Từ khóa:** Sỏi cholesterol, viêm túi mật cấp do sỏi, điểm Murphy, hội chứng Mirizzi, chẩn đoán và phân độ theo Tokyo Guideline, viêm tụy cấp do sỏi túi mật di trú.
+
+---
+
+## 1. MỞ ĐẦU
+
+Sỏi túi mật rất hay gặp ở các nước Âu Mỹ. Ở Hoa Kỳ, có khoảng **25 – 30 triệu người (chiếm 10 – 12% dân số)** bị sỏi túi mật. Hàng năm có thêm khoảng 800.000 trường hợp mới mắc, tương đương với số trường hợp phải cắt túi mật. Chi phí y tế điều trị cho những bệnh nhân này lên tới **8 – 10 tỷ USD mỗi năm**, chỉ đứng sau bệnh trào ngược dạ dày - thực quản.
+
+Các điều tra ở Châu Âu cho tỷ lệ mắc sỏi túi mật chung vào khoảng **10%**. Ở Pháp, hàng năm có 80.000 người mổ cắt túi mật. Mỗi năm Đức có 150.000 trường hợp mổ cắt túi mật.
+
+Tỷ lệ mắc sỏi mật ở Việt Nam qua một số điều tra trong cộng đồng là từ **3,32% đến 6,11%**, trong đó sỏi túi mật chiếm đa số. Sỏi túi mật đỉnh cao ở lứa tuổi **50 – 60** (trong khi sỏi trong gan gặp nhiều nhất ở lứa tuổi 30 – 40). Yếu tố thuận lợi cho sự hình thành sỏi túi mật gồm: giới nữ, sinh đẻ nhiều lần, tình trạng béo phì, và tuổi từ 40 trở lên.
+
+Về phương diện dịch tễ học tại Việt Nam, sỏi túi mật có 2 chuyển dịch rất cơ bản:
+* **Tỷ lệ sỏi túi mật ngày một tăng**, trong khi đó sỏi trong và ngoài gan giảm. Mô hình tần suất sỏi mật kiểu nông thôn (sỏi túi mật có tần suất thấp, sỏi ống mật chủ và sỏi trong gan có tần suất cao) đã thay đổi và trở nên giống với sỏi túi mật kiểu thành thị, đồng thời có nhiều điểm tương đồng với các nước phương Tây.
+* **Thay đổi về thành phần hóa học:** Các yếu tố dinh dưỡng (chế độ ăn theo phương Tây) và vệ sinh môi trường (giảm nhiễm trùng, ký sinh trùng đường ruột) đưa đến giảm tỷ lệ mắc sỏi calci bilirubinat, tăng tỷ lệ mắc sỏi cholesterol của túi mật.
+
+---
+
+## 2. NHẮC LẠI GIẢI PHẪU VÀ SINH LÝ
+
+### 2.1. Giải phẫu
+Túi mật là một túi chứa hình quả lê liên tục với ống gan chung và ống mật chủ qua ống túi mật. Kích thước túi mật trung bình từ **7 đến 10 cm chiều dài**, **3 đến 5 cm đường kính** và thể tích khoảng **30 đến 60 ml**. 
+
+Túi mật nằm ở mặt dưới gan và được phủ một phần bởi một lớp phúc mạc. Tùy theo mức độ bao phủ một phần hay toàn bộ của phúc mạc đối với túi mật mà chúng ta có dạng túi mật chìm trong gan hay túi mật nằm tự do ngoài gan và chỉ liên kết với gan bởi 2 lá phúc mạc chập lại tạo nên cấu trúc giống mạc treo túi mật. 
+
+Túi mật được chia thành **đáy túi mật, thân túi mật, phần phễu, cổ túi mật và ống túi mật**. 
+* Phần cổ túi mật và ống túi mật có các nếp gấp của niêm mạc thành hình xoắn ốc được gọi là các **van Heister**. Các van này ngăn sự di chuyển tự do của các viên sỏi và sự căng hay thõng xuống quá mức của ống túi mật khi có sự thay đổi áp lực trong lòng ống túi mật.
+* Chiều dài ống túi mật thay đổi từ **1 đến 5 cm** và đường kính ống túi mật khoảng **3 đến 7 mm**, ống túi mật thường hợp với ống gan chung tạo thành một góc nhọn.
+* Những ống bạch huyết và tĩnh mạch nhỏ thường nằm giữa hố túi mật và thành túi mật, liên kết với các ống bạch huyết và tĩnh mạch của gan và túi mật. Sự liên kết này là nguyên nhân của sự lan tỏa của tình trạng viêm và sự xâm lấn của các tế bào ung thư của túi mật vào gan.
+
+Túi mật được cung cấp máu bởi một động mạch túi mật duy nhất, nhưng trong khoảng **12% trường hợp**, xuất hiện đến hai động mạch túi mật (nhánh trước và nhánh sau). Nguồn ủy và đường đi của động mạch túi mật rất hay thay đổi và những biến thể thường gặp nhất là ở vùng thân túi mật.
+
+### 2.2. Sinh lý
+Túi mật là nơi cô đặc và dự trữ mật trong khi đói và bài tiết mật vào tá tràng khi ăn. Trong khi thể tích chứa của túi mật chỉ vào khoảng 30 đến 60 ml, nhờ sự hấp thu đáng kể của niêm mạc túi mật mà túi mật có thể chứa và bài tiết **hơn 600 ml dịch mật** mỗi ngày. Niêm mạc túi mật là nơi có khả năng hấp thu dịch tính trên một đơn vị diện tích lớn nhất trong cơ thể.
+
+Khi thức ăn (đặc biệt là chất béo) vào tá tràng, niêm mạc tá tràng bài tiết hormone Cholecystokinin (CCK) vào máu. CCK kích thích túi mật co bóp đồng thời làm dãn cơ vòng Oddi, tống xuất dịch mật vào tá tràng để tham gia quá trình nhũ tương hóa và tiêu hóa chất béo.
+
+---
+
+## 3. BỆNH SINH SỎI TÚI MẬT
+
+Sỏi túi mật được chia thành hai nhóm chính tùy thuộc vào thành phần chất kết tủa trong dịch mật: **Sỏi Cholesterol** (chiếm **> 80%**) và **Sỏi Sắc tố** (sỏi sắc tố đen và sỏi sắc tố nâu).
+
+### (A) Sỏi Cholesterol:
+Hình thành qua một quá trình lý - hóa phức tạp gồm 3 yếu tố chính:
+1. **Sự bão hòa quá mức cholesterol trong dịch mật (*Cholesterol supersaturation*):** Do gan tăng tiết quá mức cholesterol hoặc giảm bài tiết muối mật và phospholipid (hai chất diện hoạt giúp hòa tan cholesterol dưới dạng cấu trúc *micelle* và *vesicle*). Khi tỉ lệ cholesterol/muối mật tăng cao, dịch mật trở nên quá bão hòa và cholesterol dễ bị kết tinh.
+2. **Sự kết tụ hạt nhân (*Nucleation*):** Các nang *vesicle* cholesterol không ổn định kết tụ lại thành các tinh thể cholesterol monohydrat. Quá trình này được thúc đẩy bởi các yếu tố tạo nhân trong dịch mật (như *mucus glycoprotein* do niêm mạc túi mật tiết ra).
+3. **Ứ đọng dịch mật và giảm vận động túi mật:** Túi mật co bóp kém khiến dịch mật bị ứ đọng lâu trong lòng túi mật, tạo điều kiện cho các tinh thể cholesterol lắng đọng, phát triển thành bùn mật (*biliary sludge*) và hình thành nên các viên sỏi.
+
+### (B) Sỏi Sắc tố (*Pigment stones*):
+1. **Sỏi sắc tố đen:** Thành phần chủ yếu là calci bilirubinat dạng trùng hợp. Thường gặp ở những bệnh nhân có tình trạng tán huyết mạn tính (Thalassemia, hồng cầu liềm), xơ gan hoặc người lớn tuổi. Sỏi hình thành do sự lắng đọng bilirubin không liên hợp vượt quá khả năng hòa tan mà không liên quan đến nhiễm khuẩn.
+2. **Sỏi sắc tố nâu:** Thành phần gồm calci bilirubinat, calci palmitat, mucus glycoprotein và một lượng nhỏ cholesterol. Sỏi sắc tố nâu hình thành liên quan trực tiếp đến **nhiễm khuẩn đường mật mạn tính và nhiễm ký sinh trùng** (giun đũa, sán lá gan). Vi khuẩn (như *E. coli*) tiết enzyme **\\(\beta\\)-glucuronidase** thủy phân bilirubin liên hợp thành bilirubin tự do; bilirubin tự do kết hợp với calci\\(^{2+}\\) tạo thành kết tủa calci bilirubinat đóng thành sỏi.
+
+---
+
+## 4. TRIỆU CHỨNG CỦA SỎI TÚI MẬT
+
+### 4.1. Lâm sàng
+* **Sỏi túi mật không triệu chứng:** Chiếm **70 – 80%** tổng số trường hợp. Sỏi nằm im trong lòng túi mật và không gây tắc nghẽn lưu thông mật. Thường được phát hiện tình cờ khi siêu âm bụng kiểm tra sức khỏe hoặc do các nguyên nhân khác. Chỉ 20 – 30% bệnh nhân sỏi túi mật không triệu chứng sẽ phát triển thành có triệu chứng trong suốt cuộc đời.
+* **Cơn đau quặn mật (*Biliary colic*):** Xảy ra khi viên sỏi di chuyển kẹt tạm thời vào vùng phễu hoặc cổ túi mật trong lúc túi mật co bóp sau bữa ăn.
+  * *Vị trí đau:* Đau dữ dội vùng hạ sườn phải hoặc vùng thượng vị.
+  * *Hướng lan:* Lan ra sau lưng hoặc lên vai phải/dưới xương báng vai phải.
+  * *Khởi phát:* Thường xảy ra sau bữa ăn nhiều chất béo hoặc xuất hiện vào ban đêm làm bệnh nhân thức giấc.
+  * *Thời gian:* Kéo dài từ 15 – 30 phút đến dưới 6 giờ (thường từ 1 – 5 giờ), đau liên tục tăng dần rồi giảm dần khi viên sỏi xoay trở hoặc rơi trở lại lòng túi mật. **Nếu cơn đau kéo dài trên 6 giờ kèm sốt \\(\rightarrow\\) Gợi ý đã chuyển sang Viêm túi mật cấp**.
+  * *Triệu chứng đi kèm:* Buồn nôn, nôn ói, đầy bụng, khó tiêu.
+
+### 4.2. Cận lâm sàng
+
+#### 4.2.1. Xét nghiệm
+Ở bệnh nhân sỏi túi mật chưa có biến chứng, các xét nghiệm công thức máu, men gan (AST, ALT), Phosphatase kiềm (ALP), Bilirubin hầu như hoàn toàn bình thường. Tăng Bilirubin liên hợp và ALP gợi ý có tắc nghẽn đường mật ngoài gan (sỏi rớt xuống OMC) hoặc biến chứng.
+
+#### 4.2.2. Chẩn đoán hình ảnh
+##### (1) X quang bụng không sửa soạn:
+Rất hạn chế, chỉ phát hiện được 10 – 15% sỏi mật có cản quang (sỏi giàu calci). Vai trò chính là loại trừ các cấp cứu bụng khác như thủng ổ loét dạ dày - tá tràng, tắc ruột...
+
+##### (2) Siêu âm:
+Là phương tiện **LỰA CHỌN ĐẦU TAY**, nhạy, chi phí thấp, tin cậy cao và không xâm lấn. Siêu âm có độ nhạy và độ đặc hiệu **> 95%** trong chẩn đoán sỏi túi mật.
+* *Hình ảnh điển hình:* Cấu trúc tăng âm (hồi âm dày) nằm trong lòng túi mật, kèm **bóng lưng rõ (*acoustic shadow*)** phía sau và **di động theo thay đổi tư thế** của bệnh nhân.
+* Phân biệt với polyp túi mật (polyp cố định, không bóng lưng) và bùn túi mật (di động chậm, không bóng lưng).
+* Dấu hiệu WES (*Wall-Echo-Shadow*): Thành túi mật bị vôi hóa hoặc chứa đầy sỏi lớn tạo đường cong tăng âm kèm bóng lưng rộng.
+
+##### (3) Chụp cắt lớp vi tính:
+Cung cấp thông tin giải phẫu chi tiết hơn nhưng ít nhạy hơn siêu âm đối với sỏi cholesterol hoặc sỏi không cản quang. CT Scan rất hữu ích trong phát hiện biến chứng (viêm hoại tử, áp xe, thủng túi mật) hoặc phân biệt với tổn thương tạng lân cận.
+
+##### (4) Cộng hưởng từ và cộng hưởng từ mật tụy (MRI và MRCP):
+Phương pháp không xâm lấn, mô tả chính xác giải phẫu cây đường mật trong và ngoài gan, giúp phát hiện sỏi nhỏ kẹt ở ống túi mật hoặc ống mật chủ.
+
+---
+
+## 5. ĐIỀU TRỊ SỎI TÚI MẬT
+
+### 5.1. Điều trị không phẫu thuật
+* **Làm tan sỏi bằng thuốc đường uống (Ursodeoxycholic acid - UDCA):** Hiệu quả thấp, chỉ áp dụng cho sỏi cholesterol thuần túy, kích thước **< 5 mm**, 1 viên duy nhất, không ngấm calci và túi mật còn chức năng. Tỷ lệ thất bại và tái phát sau ngừng thuốc lên tới 50%.
+* **Tán sỏi ngoài cơ thể (ESWL):** Tỷ lệ tái phát ~20%, chỉ áp dụng cho 1 viên sỏi kích thước 0,5 – 2 cm.
+* **Cắt túi mật dự phòng cho sỏi túi mật KHÔNG triệu chứng:** Được khuyến cáo ở các nhóm nguy cơ cao:
+  1. Bệnh nhân bị thiếu máu tán huyết mạn tính (Thalassemia, hồng cầu liềm) vì nguy cơ tạo sỏi sắc tố cao và biến chứng viêm túi mật cấp rất nguy hiểm.
+  2. Bệnh nhân có **Túi mật sứ** (*Porcelain gallbladder* - vách túi mật bị vôi hóa) do nguy cơ tiến triển thành ung thư túi mật rất cao.
+  3. Bệnh nhân có kích thước sỏi túi mật lớn **> 2,5 cm**.
+  4. Bệnh nhân có kênh chung mật tụy dài.
+  5. Bệnh nhân chuẩn bị ghép tạng hoặc dùng thuốc ức chế miễn dịch kéo dài.
+
+### 5.2. Điều trị phẫu thuật
+
+#### 5.2.1. Phẫu thuật nội soi cắt túi mật
+Là **TIÊU CHUẨN VÀNG** để điều trị sỏi túi mật có triệu chứng và các biến chứng của sỏi túi mật.
+* *Ưu điểm:* Vết mổ nhỏ, ít đau, thời gian nằm viện ngắn (1 – 2 ngày), phục hồi nhanh.
+* *Chống chỉ định:* Bệnh nhân không có khả năng dung nạp với gây mê toàn thân (bệnh tim phổi nặng); xơ gan giai đoạn cuối có tăng áp lực tĩnh mạch cửa nặng; rối loạn đông máu không kiểm soát được.
+
+#### 5.2.2. Cắt túi mật mổ mở
+Chỉ áp dụng khi thất bại với phẫu thuật nội soi (dính nặng, không bộc lộ được tam giác Calot, chảy máu không cầm được) phải chuyển mổ mở, hoặc trường hợp nghi ngờ ung thư túi mật xâm lấn, hoặc cơ sở y tế không có trang thiết bị phẫu thuật nội soi.
+
+---
+
+## 6. CÁC BIẾN CHỨNG CỦA SỎI TÚI MẬT
+
+### 6.1. Viêm túi mật cấp sỏi túi mật
+
+#### 6.1.1. Bệnh sinh
+Sỏi kẹt cố định ở cổ/ống túi mật làm tăng áp lực lòng túi mật \\(\rightarrow\\) Phù nề, căng trướng, thiếu máu cục bộ thành túi mật \\(\rightarrow\\) Thủy phân lipid giải phóng Prostaglandin/Lysolecithin gây viêm \\(\rightarrow\\) Bội nhiễm vi khuẩn.
+* **Tỷ lệ vi khuẩn cấy từ dịch mật (TG18):** Vi khuẩn Gram (-) chiếm đa số: ***Escherichia coli* (31 – 44%)**, ***Klebsiella spp.* (9 – 20%)**, *Pseudomonas spp.* (0,5 – 19%), *Enterobacter spp.* (5 – 9%), phối hợp vi khuẩn kỵ khí.
+
+#### 6.1.2. Triệu chứng lâm sàng
+* Đau dữ dội hạ sườn phải kéo dài **> 6 giờ**, lan ra sau lưng/vai phải.
+* Sốt (38 – 39°C), lạnh run, buồn nôn, nôn ói.
+* **Dấu hiệu Murphy dương tính:** Ấn sâu hạ sườn phải khi hít vào làm bệnh nhân đau nhói ngưng thở.
+* Đáy túi mật căng to ấn đau. Vàng da hiếm gặp (nếu có cần tìm sỏi OMC hoặc hội chứng Mirizzi).
+
+#### 6.1.3. Cận lâm sàng
+* Bạch cầu máu tăng cao, CRP tăng.
+* **Siêu âm (độ nhạy 85%, độ đặc hiệu 95%):** Thấy sỏi kẹt cổ túi mật, thành túi mật dày **> 4 mm**, dịch quanh túi mật, túi mật căng to, dấu Murphy trên siêu âm (*Sonographic Murphy sign*) dương tính.
+* CT Scan: Thấy thành túi mật dày phù nề, tụ dịch quanh túi mật, hoại tử thành túi mật.
+
+#### 6.1.4. Tiêu chuẩn chẩn đoán và phân độ (Tokyo Guidelines 2018 - TG18)
+
+**Bảng 1. Tiêu chuẩn chẩn đoán viêm túi mật cấp theo TG18**
+
+| Nhóm | Dấu hiệu |
+| :--- | :--- |
+| **A. Dấu hiệu viêm tại chỗ** | 1. Dấu Murphy <br> 2. Đau / ấn đau / khối u 1/4 trên phải ổ bụng |
+| **B. Dấu hiệu viêm toàn thân** | 1. Sốt <br> 2. Tăng CRP <br> 3. Tăng số lượng bạch cầu |
+| **C. Chẩn đoán hình ảnh** | Đặc điểm của viêm túi mật cấp trên hình ảnh học (Siêu âm, CT, MRI) |
+
+* **Nghi ngờ Viêm túi mật cấp:** 1 dấu hiệu A + 1 dấu hiệu B.
+* **Xác định Viêm túi mật cấp:** 1 dấu hiệu A + 1 dấu hiệu B + C.
+
+**Bảng 2. Phân độ viêm túi mật cấp theo TG18**
+
+| Phân độ | Tiêu chuẩn |
+| :--- | :--- |
+| **Độ III: Viêm túi mật cấp nặng** | Có **rối loạn chức năng 1 trong các cơ quan**: Tim mạch (huyết áp tụt cần Dopamine \\(\ge 5\ \mu\text{g/kg/phút}\\) hoặc Dobutamine), Thần kinh, Hô hấp (\\(\text{PaO}_2/\text{FiO}_2 < 300\\)), Thận (Creatinine \\(> 2\text{ mg}\%\\)), Gan (INR \\(> 1,5\\)), Huyết học (Tiểu cầu \\(< 100.000/\text{mm}^3\\)). |
+| **Độ II: Viêm túi mật cấp trung bình** | Có **1 trong các tiêu chuẩn**: Bạch cầu \\(> 18.000/\mu\text{L}\\); Ấn đề kháng hạ sườn phải; Triệu chứng kéo dài \\(> 72\text{ giờ}\\); Biến chứng tại chỗ (viêm hoại tử, áp xe quanh túi mật, áp xe gan, viêm phúc mạc mật). |
+| **Độ I: Viêm túi mật cấp nhẹ** | Không đủ tiêu chuẩn của độ 2 và độ 3. |
+
+#### 6.1.5. Điều trị
+(1) **Kháng sinh:** Phổ rộng bao phủ vi khuẩn Gram (-) và kỵ khí (Ampicillin/sulbactam, Cephalosporin thế hệ 3/4 + Metronidazole, Carbapenem).
+(2) **Phẫu thuật & Chiến lược can thiệp (TG18):**
+* **Độ I (Nhẹ):** **Phẫu thuật nội soi cắt túi mật sớm (trong vòng 72 giờ từ khi khởi phát)** là lựa chọn hàng đầu.
+* **Độ II (Trung bình):** Cắt túi mật nội soi sớm ở cơ sở có kinh nghiệm. Nếu bệnh nhân có nguy cơ phẫu thuật cao (CCI \\(\ge 6\\), ASA \\(\ge \text{III}\\)) \\(\rightarrow\\) Tiến hành **Dẫn lưu túi mật xuyên gan qua da (PTGBD)**, sau đó cắt túi mật hoãn lại sau **6 – 12 tuần**.
+* **Độ III (Nặng):** Hồi sức tích cực + **Dẫn lưu túi mật xuyên gan qua da (PTGBD) KHẨN CẤP** \\(\rightarrow\\) Cắt túi mật chương trình sau khi thể trạng ổn định.
+
+### 6.2. Viêm tụy cấp do sỏi túi mật di trú
+Sỏi nhỏ từ túi mật rơi xuống kẹt tạm thời ở bóng Vater làm tắc ống tụy chính \\(\rightarrow\\) Viêm tụy cấp. Sau khi điều trị viêm tụy cấp ổn định, **bắt buộc cắt túi mật nội soi ngay trong cùng đợt nằm viện** để phòng đợt tái phát.
+
+### 6.3. Viêm túi mật mạn tính
+
+#### 6.3.1. Chẩn đoán
+Hậu quả của các đợt viêm túi mật cấp nhẹ tái đi tái lại nhiều lần. Tiền sử đau quặn mật lặp lại; Siêu âm thấy túi mật teo nhỏ, thành dày xơ hóa.
+
+#### 6.3.2. Điều trị
+Phẫu thuật cắt túi mật chương trình.
+
+### 6.4. Các biến chứng ít gặp khác
+* **Ung thư túi mật:** 70 – 90% bệnh nhân ung thư túi mật có sỏi túi mật. Sỏi lớn **> 2,5 cm** làm tăng nguy cơ ung thư gấp 34 lần.
+* **Sỏi ống mật chủ thứ phát:** Sỏi nhỏ từ túi mật trôi xuống OMC.
+* **Hội chứng Mirizzi:** Sỏi to kẹt ở phễu/cổ túi mật chèn ép cơ học vào ống gan chung gây tắc mật (MRCP chẩn đoán xác định).
+* **Tắc ruột do sỏi mật:** Sỏi toàn ăn mòn rò túi mật - tá tràng rơi xuống ruột non gây tắc nghẽn ở đoạn cuối hồi tràng.
+
+---
+
+## TÓM TẮT NHANH
+
+1. Sỏi túi mật chiếm đa số trong các bệnh lý sỏi mật; ở Việt Nam đang chuyển dịch sang kiểu thành thị với tỷ lệ **sỏi Cholesterol** ngày càng tăng.
+2. **70 – 80% trường hợp sỏi túi mật hoàn toàn không có triệu chứng**; Cơn đau quặn mật (đau hạ sườn phải kéo dài < 6 giờ sau ăn béo) xảy ra khi sỏi kẹt tạm thời ở cổ túi mật.
+3. **Siêu âm bụng** là phương tiện chẩn đoán đầu tay (hình hồi âm dày, bóng lưng rõ, di động theo tư thế); **Phẫu thuật nội soi cắt túi mật** là "tiêu chuẩn vàng" điều trị sỏi túi mật có triệu chứng.
+4. Sỏi không triệu chứng chỉ mổ dự phòng khi có nguy cơ cao: Thalassemia, túi mật sứ, sỏi lớn > 2,5 cm, kênh chung mật tụy dài.
+5. Biến chứng **Viêm túi mật cấp** (chẩn đoán và phân độ theo TG18): Độ I chỉ định mổ nội soi sớm < 72 giờ; Độ II/III có nguy cơ phẫu thuật cao chỉ định **Dẫn lưu túi mật qua da (PTGBD)** giải áp trước, mổ cắt túi mật hoãn lại sau 6 – 12 tuần.
+
+---
+
+## CÂU HỎI TỰ KIỂM TRA
+
+**(Trích từ bộ câu hỏi lượng giá của Bài 14 trong giáo trình):**
+
+**Câu 1:** Triệu chứng chủ yếu nhất của sỏi túi mật?
+* A. Đau hạ sườn P
+* B. Sốt
+* C. Vàng da
+* D. Sỏi túi mật thường là không có triệu chứng
+
+**Câu 2:** Chọn câu đúng nhất trong bệnh lý sỏi túi mật?
+* A. X quang bụng đứng không sửa soạn đôi khi có thể thấy sỏi túi mật
+* B. Chụp cắt lớp vi tính bụng đôi khi có thể thấy sỏi túi mật
+* C. Siêu âm bụng đôi khi có thể thấy sỏi túi mật
+* D. Cộng hưởng từ bụng đôi khi có thể thấy sỏi túi mật
+
+**Câu 3:** Gợi ý chẩn đoán viêm túi mật khi có: 
+  * a) Dấu hiệu tại chỗ 
+  * b) Dấu hiệu toàn thân 
+  * c) Hình ảnh học viêm túi mật (Siêu âm, CT, MRI).
+* A. a
+* B. a + b
+* C. a + b + c
+* D. b + c
+
+**Câu 4:** Viêm túi mật mức độ trung bình theo Tokyo Guideline (chọn câu sai)?
+* A. BC > 18.000 / mm³
+* B. Đề kháng, co cứng 1/4 bụng trên P
+* C. Có dấu hiệu: viêm túi mật hoại tử, áp xe quanh túi mật, áp xe gan, viêm phúc mạc mật, thủng túi mật
+* D. INR > 1,5
+
+**Câu 5:** Theo Tokyo Guideline, thời điểm cắt túi mật trì hoãn đối với viêm túi mật mức độ trung bình?
+* A. Sau dẫn lưu túi mật 24 giờ
+* B. Sau dẫn lưu túi mật 48 giờ
+* C. 6 – 12 tuần
+* D. Càng sớm càng tốt khi tình trạng bệnh nhân cải thiện
+
+---
+
+### ĐÁP ÁN CÂU HỎI TỰ KIỂM TRA
+*(Đối chiếu theo bảng đáp án chính thức ở cuối sách)*:
+1. **D** (70 – 80% trường hợp sỏi túi mật hoàn toàn không có biểu hiện lâm sàng).
+2. **A** (X-quang bụng không sửa soạn đôi khi có thể thấy 10 – 15% sỏi túi mật cản quang chứa calci).
+3. **B** (Theo TG18: Nghi ngờ viêm túi mật cấp khi có 1 Dấu hiệu tại chỗ (a) + 1 Dấu hiệu toàn thân (b); Xác định chẩn đoán khi có thêm c).
+4. **D** (INR > 1,5 phản ánh rối loạn chức năng gan, thuộc tiêu chuẩn của **Độ III - Viêm túi mật cấp nặng**, không phải Độ II).
+5. **C** (Đối với viêm túi mật độ trung bình/nặng có dẫn lưu túi mật PTGBD, thời điểm phẫu thuật cắt túi mật hoãn lại/chương trình là sau **6 – 12 tuần**).
+
+---
+
+🔍 *Bài giảng Bài 14: Sỏi túi mật đã hoàn thành. Nếu bạn muốn tiếp tục bài giảng tiếp theo như **Bài 15: Ung thư quanh bóng Vater**, hoặc cần tạo bộ Flashcards/Quiz để luyện tập, hãy cho tôi biết nhé!*

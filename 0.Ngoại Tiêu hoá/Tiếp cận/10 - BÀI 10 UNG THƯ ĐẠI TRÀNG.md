@@ -1,0 +1,492 @@
+---
+title: "BÀI 10: UNG THƯ ĐẠI TRÀNG"
+tags: [giang-bai]
+created: 2026-11-25
+nguon: NotebookLM
+---
+
+# BÀI 10: UNG THƯ ĐẠI TRÀNG
+
+**Tác giả:** Nguyễn Hữu Thịnh, La Minh Đức
+
+**MỤC TIÊU BÀI HỌC:**
+1. Khai thác 2 nhóm yếu tố nguy cơ của bệnh nhân ung thư đại tràng.
+2. Nhận diện được rối loạn gen thuộc hai nhóm: gen sinh ung và gen ức chế khối u.
+3. Vận dụng triệu chứng lâm sàng và cận lâm sàng để chẩn đoán xác định ung thư đại tràng, chẩn đoán giai đoạn và chẩn đoán khi có biến chứng.
+4. Chỉ định phương pháp điều trị phù hợp với nguyên tắc điều trị (nói chung), chọn lựa được phương pháp phẫu thuật phù hợp giai đoạn bệnh, kích thước, vị trí ung thư và khi ung thư có biến chứng.
+5. Lập kế hoạch theo dõi sau điều trị ung thư đại tràng theo giai đoạn từ 0 đến IV.
+
+**Từ khóa:** Đa polyp tuyến có tính gia đình, di truyền không liên quan đến đa polyp, cắt polyp, cắt niêm mạc qua nội soi đại tràng, cắt đại tràng, theo dõi sau điều trị.
+
+---
+
+## 1. MỞ ĐẦU
+
+Ung thư đại tràng (UTĐT) là một bệnh lý ác tính thường gặp và nằm trong số các nguyên nhân tử vong do ung thư hàng đầu trên thế giới. Các yếu tố nguy cơ của UTĐT liên quan mật thiết đến cơ địa, môi trường sống, chế độ ăn uống và yếu tố di truyền gia đình. 
+
+Quá trình tiến triển từ niêm mạc đại tràng bình thường thành polyp tuyến và cuối cùng là ung thư kéo dài qua nhiều năm. Đây là một chuỗi biến đổi từng bước mà ở nhiều giai đoạn chúng ta hoàn toàn có thể chủ động ngăn chặn được thông qua các chương trình tầm soát. 
+
+Cho đến nay, **phẫu thuật cắt đoạn đại tràng kèm nạo vét hạch** vẫn là phương pháp điều trị triệt căn chủ yếu cho UTĐT; hóa trị đóng vai trò điều trị hỗ trợ hoặc giảm nhẹ. Tiên lượng của bệnh phụ thuộc vào giai đoạn chẩn đoán — chẩn đoán bệnh ở giai đoạn càng sớm thì hiệu quả điều trị và tỷ lệ sống còn càng cao.
+
+---
+
+## 2. DỊCH TỄ
+
+UTĐT là bệnh ác tính đường tiêu hóa phổ biến ở hầu hết các quốc gia:
+* **Tại Mỹ:** UTĐT đứng hàng thứ 3 ở nam giới và thứ 4 ở nữ giới trong số các ung thư thường gặp (chiếm khoảng 11% số ung thư được chẩn đoán hàng năm). Năm 2014, UTĐT là nguyên nhân tử vong do ung thư đứng hàng thứ ba tại Mỹ.
+* **Tại Châu Âu:** Tử vong do UTĐT đứng hàng thứ hai trong các nguyên nhân tử vong do ung thư (số liệu năm 2010 tại 40 quốc gia Châu Âu).
+* **Tại Việt Nam:** Theo ghi nhận ung thư quần thể năm 1997 tại TP. Hồ Chí Minh, UTĐT đứng hàng thứ 5 trong các loại ung thư (sau ung thư dạ dày trong ung thư tiêu hóa). Theo số liệu quốc gia giai đoạn 2010 – 2018, UTĐT đã vươn lên đứng **hàng thứ 4 ở nam giới và thứ 2 ở nữ giới**.
+* **Nguy cơ chung:** Nguy cơ một người mắc UTĐT trong suốt cuộc đời ước tính khoảng **1/20**.
+
+Tần suất mắc UTĐT có xu hướng gia tăng trên toàn cầu. Ở các nước phát triển, từ đầu thế kỷ XXI, tần suất UTĐT bắt đầu giảm trung bình 2,1 – 2,8% mỗi năm nhờ hiệu quả của các chương trình tầm soát diện rộng. Tại Việt Nam, so sánh giữa hai mốc năm 2000 và 2010 cho thấy sự gia tăng tần suất rõ rệt, và hiện nay chúng ta vẫn chưa có chương trình tầm soát ung thư đại trực tràng cấp quốc gia.
+
+---
+
+## 3. CÁC YẾU TỐ NGUY CƠ
+
+Yếu tố nguy cơ được chia thành hai nhóm chính: **Yếu tố nguy cơ từ bên ngoài** (chế độ ăn, lối sống, thuốc) và **Yếu tố nguy cơ nội tại** (tuổi, bệnh lý nền, di truyền).
+
+### 3.1. Các yếu tố nguy cơ từ bên ngoài
+
+#### 3.1.1. Chế độ ăn nhiều mỡ
+Chế độ ăn giàu chất béo (đặc biệt là mỡ động vật/mỡ bão hòa) làm tăng tổng hợp và bài tiết acid mật vào lòng ruột. Vi khuẩn ruột biến đổi các acid mật này thành các chất chuyển hóa thứ cấp có khả năng gây đột biến và sinh ung thư.
+
+#### 3.1.2. Chế độ ăn nhiều thịt
+Thịt đỏ (bò, heo, cừu) và các loại thịt chế biến ở nhiệt độ cao (nướng, rán) tạo ra các amin dị vòng (*heterocyclic amines*) và hydrocarbon thơm đa vòng (*polycyclic aromatic hydrocarbons*) có đặc tính gây tổn thương DNA.
+
+#### 3.1.3. Trái cây và rau xanh
+Rau xanh và trái cây tươi chứa nhiều chất chống oxy hóa, vitamin C, E, carotenoid giúp bảo vệ niêm mạc đại tràng, làm giảm nguy cơ mắc UTĐT.
+
+#### 3.1.4. Chế độ ăn nhiều chất xơ
+Chất xơ làm tăng thể tích phân, làm loãng các chất gây sinh ung trong lòng ruột, đồng thời rút ngắn thời gian lưu phân trong đại tràng, giúp giảm nguy cơ mắc bệnh.
+
+#### 3.1.5. Canxi và Vitamin D
+Canxi kết hợp với acid mật và acid béo tự do trong lòng ruột tạo thành hợp chất xà phòng không hòa tan, giúp trung hòa độc tính của acid mật. Vitamin D giúp điều hòa tăng sinh và kích thích tế bào chết theo chương trình.
+
+#### 3.1.6. Folate
+Khẩu phần ăn thiếu hụt Folate (Vitamin B9) làm rối loạn quá trình tổng hợp, sửa chữa và ngắt đoạn DNA, từ đó làm tăng nguy cơ UTĐT.
+
+#### 3.1.7. Hút thuốc lá
+Hút thuốc lá kéo dài (trên 35 – 40 năm) làm tăng rõ rệt tỷ lệ hình thành các polyp tuyến kích thước lớn và ung thư đại tràng.
+
+#### 3.1.8. Rượu
+Uống rượu nặng hoặc thường xuyên làm tăng nguy cơ sinh ung thư đại trực tràng.
+
+#### 3.1.9. Aspirin và NSAID
+Sử dụng Aspirin hoặc các thuốc chống viêm không Steroid (NSAID) kéo dài có tác dụng bảo vệ, giảm nguy cơ hình thành polyp và UTĐT nhờ cơ chế ức chế enzyme Cyclooxygenase-2 (COX-2).
+
+#### 3.1.10. Điều trị hormone thay thế
+Liệu pháp hormone thay thế (HRT - Estrogen kết hợp Progesterone) ở phụ nữ sau mãn kinh giúp làm giảm nguy cơ mắc UTĐT.
+
+### 3.2. Các yếu tố nguy cơ nội tại
+
+#### 3.2.1. Tuổi \\(\ge 40 - 50\\)
+Tần suất mắc UTĐT bắt đầu tăng lên rõ rệt từ sau 40 – 50 tuổi và đạt đỉnh cao nhất ở lứa tuổi từ **60 – 75 tuổi**.
+
+#### 3.2.2. Polyp
+Polyp tuyến (*adenomatous polyp*) là tổn thương tiền ung thư quan trọng nhất. Nguy cơ hóa ung thư của polyp phụ thuộc vào kích thước (polyp \\(> 2\text{ cm}\\) có nguy cơ rất cao), đặc điểm mô học (dạng nhú - *villous* nguy cơ cao hơn dạng ống - *tubular*) và mức độ nghịch sản.
+
+#### 3.2.3. Béo phì
+Chỉ số khối cơ thể (BMI) cao và béo bụng làm tăng nguy cơ UTĐT, đặc biệt ghi nhận rõ ở nam giới.
+
+#### 3.2.4. Hoạt động thể chất
+Lối sống ít vận động làm tăng nguy cơ; ngược lại, tập thể dục đều đặn giúp tăng nhu động ruột và giảm nguy cơ mắc bệnh.
+
+#### 3.2.5. Cắt túi mật
+Sau cắt túi mật, dịch mật chảy liên tục xuống ruột non và đại tràng, làm tăng lượng acid mật thứ cấp ở đại tràng phải, làm tăng nguy cơ ung thư đại tràng bên phải.
+
+#### 3.2.6. Bệnh ruột do viêm (IBD)
+Viêm loét đại tràng mạn tính (*Ulcerative colitis*) và bệnh Crohn làm tăng nguy cơ UTĐT theo thời gian mắc bệnh (nguy cơ tăng lên rõ rệt sau 8 – 10 năm diễn tiến bệnh).
+
+#### 3.2.7. Tiền sử gia đình
+Có người thân trực hệ mắc UTĐT làm tăng nguy cơ gấp 2 – 3 lần. Các hội chứng di truyền điển hình gồm:
+* **Hội chứng FAP** (*Familial Adenomatous Polyposis*): Do đột biến gen ức chế khối u *APC*, xuất hiện hàng trăm đến hàng ngàn polyp ở đại tràng, 100% sẽ hóa ung thư nếu không phẫu thuật cắt đại tràng dự phòng.
+* **Hội chứng HNPCC / Lynch** (*Hereditary Non-Polyposis Colorectal Cancer*): Do đột biến các gen sửa chữa DNA ghép sai (*MLH1*, *MSH2*).
+
+#### 3.2.8. Những yếu tố nguy cơ khác
+Tiền căn chiếu xạ vùng chậu/bụng, bệnh to đầu chi (*Acromegaly*).
+
+---
+
+## 4. SINH HỌC PHÂN TỬ CỦA UTĐT
+
+Sinh ung là một quá trình tích tụ nhiều giai đoạn biến đổi gen di truyền và mắc phải. **6 rối loạn trong cơ chế điều tiết sinh sản tế bào** dẫn đến hình thành khối u gồm:
+1. Không cần tín hiệu tăng trưởng.
+2. Không nhạy với tín hiệu ức chế tăng trưởng.
+3. Tránh hiện tượng tế bào chết theo chương trình (*apoptosis*).
+4. Không bị giới hạn số lần phân bào.
+5. Tân sinh mạch máu liên tục (*angiogenesis*).
+6. Phát triển đặc tính xâm lấn và di căn.
+
+### Các gen liên quan chính:
+* **Gen sinh ung (*Oncogene*):** Gen ***K-ras*** nằm trên nhánh ngắn của nhiễm sắc thể số 12 bị đột biến trong khoảng **50%** các trường hợp ung thư đại trực tràng. Khi *K-ras* bị đột biến, khối u sẽ **không còn nhạy** với các thuốc điều trị nhắm trúng đích chống EGFR (như Cetuximab, Panitumumab). Ngoài ra còn có gen *c-myc*, *c-erbB2*.
+* **Gen ức chế khối u (*Tumor suppressor gene*):** Các gen ***APC***, ***DCC***, ***p53***, ***MCC***. Đột biến mất chức năng các gen này làm tế bào tăng sinh mất kiểm soát.
+* **Mô hình chuỗi đột biến Fearon - Vogelstein:** 
+  \\[\text{Biểu mô bình thường} \xrightarrow{\text{APC}} \text{Adenoma sớm} \xrightarrow{\text{K-RAS}} \text{Adenoma trung gian} \xrightarrow{\text{DCC}} \text{Adenoma muộn} \xrightarrow{\text{P53}} \text{Carcinôm} \xrightarrow{\quad} \text{Di căn}\\]
+* **Giả thuyết tế bào gốc (*Stem cell*):** Khối u phát triển từ các tế bào gốc đại tràng bị đột biến gen (như *APC*). Muốn điều trị tiệt căn cần phải tiêu diệt được quần thể tế bào gốc này.
+
+---
+
+## 5. GIẢI PHẪU BỆNH
+
+### 5.1. Đại thể
+* **Giai đoạn tại chỗ:** Dạng polyp hoặc dạng phẳng.
+* **Giai đoạn sớm (xâm lấn lớp dưới niêm - T1):** Dạng polyp có cuống, cuống ngắn, hoặc không cuống.
+* **Giai đoạn tiến triển:** Phân thành 4 dạng chính:
+  1. *Dạng polyp (chồi sùi).*
+  2. *Dạng loét bờ rõ.*
+  3. *Dạng loét thâm nhiễm (loét bờ không xác định).*
+  4. *Dạng thâm nhiễm lan tỏa.*
+
+### 5.2. Vi thể
+
+#### 5.2.1. Loại mô học
+Theo phân loại của Tổ chức Y tế Thế giới (WHO):
+
+**Bảng 1. Phân loại mô học UTĐT theo WHO**
+
+| Loại mô học | Tỷ lệ xuất hiện |
+| :--- | :---: |
+| **Carcinôm tuyến (*Adenocarcinoma*)** | **90 – 95%** |
+| **Carcinôm tuyến nhầy (*Mucinous*)** | **10%** |
+| **Carcinôm tế bào nhẫn (*Signet-ring cell*)** | **\\(< 1\%\)** |
+| Carcinôm tế bào vẩy, vẩy tuyến, tủy, không biệt hóa | Hiếm gặp |
+
+*(Các loại cực kỳ hiếm khác không có trong bảng: Carcinôm tế bào nhỏ, tế bào khổng lồ, Lymphoma ác, Carcinosarcoma...)*.
+
+#### 5.2.2. Độ biệt hóa mô
+* **Phân loại UICC (4 độ):** G1 (biệt hóa tốt), G2 (biệt hóa trung bình), G3 (biệt hóa kém), G4 (không biệt hóa).
+* **Phân loại WHO (2 mức độ):** 
+  * *Loại độ thấp (Low-grade):* Bao gồm G1 và G2.
+  * *Loại độ cao (High-grade):* Bao gồm G3 và G4.
+
+---
+
+## 6. MỘT SỐ DẠNG LÂM SÀNG ĐẶC BIỆT CỦA UTĐT
+
+1. **Đa polyp tuyến có tính gia đình (*FAP*):** Hàng ngàn polyp xuất hiện ở đại tràng từ tuổi thanh thiếu niên do đột biến gen *APC*.
+2. **Ung thư đại tràng di truyền không liên quan đa polyp (*HNPCC / Hội chứng Lynch*):** Ung thư xuất hiện ở người trẻ, thường nằm ở đại tràng phải, liên quan đột biến gen *MLH1*, *MSH2*.
+3. **Hội chứng đa polyp Hamartoma:** Hội chứng Peutz-Jeghers, hội chứng polyp thiếu niên.
+
+---
+
+## 7. NHỮNG KHỐI U ĐẠI TRÀNG KHÔNG XUẤT PHÁT TỪ BIỂU MÔ
+
+**Bảng 2. Các khối u khác ở đại tràng**
+
+| Nhóm u | Loại u | Đặc điểm lâm sàng / giải phẫu bệnh |
+| :--- | :--- | :--- |
+| **U không biểu mô lành tính** | U mỡ & đa polyp mỡ | Dạng mỡ đơn độc hoặc lan tỏa ở cả ruột non và đại tràng. |
+| **U không biểu mô khả năng ác tính** | U thần kinh nội tiết (*Carcinoid*) | U kích thước \\(> 2\text{ cm}\\) là ác tính, có thể xâm lấn và di căn gan/hạch. |
+| | U mô đệm tiêu hóa (*GIST*) | Xuất phát từ tế bào kẽ Cajal, xảy ra ở mọi vị trí ống tiêu hóa. |
+| | Tăng sinh lympho dạng nốt | Nhiều nốt lympho nhô vào lòng ruột, phát hiện tình cờ. |
+| **U không biểu mô ác tính** | Lymphoma | Ít gặp ở đại tràng (chủ yếu ở manh tràng), hình thái rất giống carcinôm tuyến. |
+| | U cơ trơn (*Sarcom cơ trơn*) | Rất hiếm gặp, độ ác tính cao, phát triển rất nhanh. |
+| **U thứ phát** | Lạc nội mạc tử cung | Phát hiện nhô vào lòng ruột, biến đổi triệu chứng theo chu kỳ kinh nguyệt. |
+| | Ung thư di căn đại tràng | Di căn từ ung thư vú, dạ dày, buồng trứng, Melanôm ác... |
+
+---
+
+## 8. SỰ XÂM LẤN VÀ LAN RỘNG CỦA UTĐT
+
+### 8.1. Xâm lấn tại chỗ trong thành ruột
+Khối u lan rộng trong lớp cơ theo **chiều ngang (chu vi) nhanh hơn chiều dọc** (đạt 1/4 chu vi ruột trong 6 tháng). Trên vi thể, tế bào ung thư luôn lan rộng xa hơn mắt thường nhìn thấy ít nhất **1 cm**. Khi xuyên qua thành ruột, u xâm lấn trực tiếp vào các tạng lân cận.
+
+### 8.2. Sự lan rộng xuyên qua phúc mạc
+Khoảng **10%** bệnh nhân UTĐT có gieo rắc tế bào ung thư vào khoang phúc mạc.
+* U ở đoạn đại tràng di động (manh tràng, đại tràng ngang, đại tràng chậu hông) dễ gieo rắc vỡ vào phúc mạc và mạc nối.
+* U ở đoạn cố định có mạc Toldt (đại tràng lên, đại tràng xuống) dễ xâm lấn sau phúc mạc (thận, niệu quản, tụy).
+* Di căn phúc mạc là **nguyên nhân tử vong đứng thứ hai** (sau di căn gan) trong UTĐT và có tiên lượng rất xấu.
+
+### 8.3. Sự lan rộng bằng đường bạch huyết
+Xâm nhập mạch bạch huyết gặp trong **8 – 73%** các trường hợp. Tỷ lệ di căn hạch tăng theo độ biệt hóa vi thể: Biệt hóa tốt (**25%**), Trung bình (**50%**), Kém (**80%**).
+* Đại tràng góc gan và 1/3 phải đại tràng ngang dẫn lưu hạch theo **2 hướng**: Bó mạch hồi - đại tràng và Bó mạch đại tràng giữa.
+* Đại tràng góc lách và 1/3 trái đại tràng ngang dẫn lưu hạch theo **2 hướng**: Bó mạch đại tràng giữa và Bó mạch đại tràng trái.
+
+### 8.4. Sự lan rộng bằng đường máu
+Tế bào ung thư đi theo hệ thống tĩnh mạch cửa về **gan (tạng bị di căn thường gặp nhất, chiếm 77%)**. Gồm 4 thể xâm nhập mạch máu: *Thể tự do*, *thể bám dính*, *thể lấp*, *thể xâm nhiễm*.
+
+### 8.5. Sự gieo rắc tế bào ung thư
+Tế bào ung thư tróc ra gieo rắc vào diện cắt u, vết mổ lấy bệnh phẩm gây tái phát tại chỗ.
+
+```
+                  [Các hướng lan rộng của Ung thư đại tràng]
+                                     │
+     ┌───────────────────────────────┼───────────────────────────────┐
+     ▼                               ▼                               ▼
+ [Tại chỗ]                      [Bạch huyết]                    [Tĩnh mạch]
+     │                               │                               │
+ ├─► Xuyên thanh mạc ─► Phúc mạc    ├─► Hạch vùng                   └─► Tĩnh mạch cửa
+ ├─► Vệ tinh                        ├─► Hạch xa                          │
+ └─► Tái phát vết mổ                └─► Ống ngực ─► Phổi                 ▼
+                                                                     Di căn GAN
+```
+
+---
+
+## 9. ĐÁNH GIÁ GIAI ĐOẠN UNG THƯ ĐẠI TRÀNG
+
+### 9.1. Chẩn đoán ung thư đại tràng
+
+#### 9.1.1. Vị trí u nguyên phát
+Khung đại tràng từ van hồi - manh tràng đến trực tràng, chiều dài các đoạn:
+* Manh tràng (6 – 9 cm).
+* Đại tràng lên (15 – 20 cm).
+* Đại tràng góc gan.
+* Đại tràng ngang (18 – 22 cm).
+* Đại tràng góc lách.
+* Đại tràng xuống (10 – 15 cm).
+* Đại tràng chậu hông / Sigma (ở người Châu Á dài hơn người phương Tây).
+
+#### 9.1.2. Hạch vùng
+Theo AJCC 8th, hạch vùng gồm 3 nhóm: Hạch ở mạch máu chính cấp máu, Hạch ở mạch viền, Hạch cạnh đại tràng.
+
+#### 9.1.3. Di căn xa
+Thường gặp nhất tại **gan và phổi**.
+
+### 9.2. Phân giai đoạn ung thư đại tràng theo TNM (AJCC 8th - 2018)
+
+* **U nguyên phát (T):**
+  * *Tis:* Ung thư tại chỗ (*In situ* - trong biểu mô/lớp mô đệm).
+  * *T1:* Ung thư xâm lấn đến lớp dưới niêm.
+  * *T2:* Ung thư xâm lấn đến lớp cơ.
+  * *T3:* Ung thư xâm lấn qua lớp cơ đến lớp dưới thanh mạc / mô quanh đại tràng.
+  * *T4a:* Ung thư xâm lấn tới bề mặt thanh mạc tạng (thủng vào phúc mạc).
+  * *T4b:* Ung thư xâm lấn trực tiếp hoặc dính chặt vào cơ quan/cấu trúc lân cận.
+* **Hạch vùng (N):**
+  * *N0:* Không di căn hạch vùng.
+  * *N1:* Di căn **1 – 3 hạch** vùng (N1a: 1 hạch; N1b: 2 – 3 hạch; N1c: Nốt u gieo rắc dưới thanh mạc/mạc treo không có hạch).
+  * *N2:* Di căn **\\(\ge 4\\) hạch** vùng (N2a: 4 – 6 hạch; N2b: \\(\ge 7\\) hạch).
+* **Di căn xa (M):**
+  * *M0:* Không di căn xa.
+  * *M1a:* Di căn xa giới hạn ở **1 tạng/vị trí** (không có di căn phúc mạc).
+  * *M1b:* Di căn xa đến **\\(> 1\\) tạng/vị trí**.
+  * *M1c:* Di căn phúc mạc (đơn thuần hoặc kèm di căn tạng khác).
+
+**Bảng 3. Bảng phân giai đoạn TNM ung thư đại tràng**
+
+| Giai đoạn | T | N | M |
+| :---: | :---: | :---: | :---: |
+| **0** | Tis | N0 | M0 |
+| **I** | T1, T2 | N0 | M0 |
+| **IIA** | T3 | N0 | M0 |
+| **IIB** | T4a | N0 | M0 |
+| **IIC** | T4b | N0 | M0 |
+| **IIIA** | T1 – T2 | N1 / N1c | M0 |
+| | T1 | N2a | M0 |
+| **IIIB** | T3 – T4a | N1 / N1c | M0 |
+| | T2 – T3 | N2a | M0 |
+| | T1 – T2 | N2b | M0 |
+| **IIIC** | T4a | N2a | M0 |
+| | T3 – T4a | N2b | M0 |
+| | T4b | N1 – N2 | M0 |
+| **IVA** | Bất kỳ T | Bất kỳ N | M1a |
+| **IVB** | Bất kỳ T | Bất kỳ N | M1b |
+| **IVC** | Bất kỳ T | Bất kỳ N | M1c |
+
+---
+
+## 10. TRIỆU CHỨNG LÂM SÀNG
+
+Giai đoạn sớm bệnh nhân thường không có triệu chứng (phát hiện qua tầm soát).
+
+### 10.1. Đau bụng
+Là **triệu chứng thường gặp nhất** của UTĐT. Cơn đau mơ hồ, âm ỉ, khó xác định vị trí, thường ở vùng hạ vị, quanh rốn hoặc dọc theo khung đại tràng.
+
+### 10.2. Thay đổi thói quen đi cầu
+Là **triệu chứng thường gặp thứ hai**. Sự thay đổi về số lần đi cầu, hình dạng phân, táo bón xen lẫn tiêu chảy.
+* *U đại tràng phải:* Lòng ruột rộng, u dạng chồi sùi \\(\rightarrow\\) Phân thường lỏng, triệu chứng xuất hiện **muộn**.
+* *U đại tràng trái:* Lòng ruột hẹp, u dạng vòng nhẫn \\(\rightarrow\\) Phân cứng, dễ gây bít hẹp, triệu chứng xuất hiện **sớm**.
+
+### 10.3. Đi cầu ra máu
+Gặp ở khoảng **25%** bệnh nhân. U ở đại tràng chậu hông/xuống thường ra máu đỏ tươi, rất **dễ nhầm lẫn với bệnh trĩ** khiến chẩn đoán bị trễ (đặc biệt ở người trẻ).
+
+### 10.4. Bệnh sử và thăm khám lâm sàng
+Khai thác kỹ triệu chứng sụt cân, mệt mỏi, thiếu máu, tiền sử gia đình. Khám bụng có thể sờ thấy khối u, gan to, trướng bụng nhu động tăng (bán tắc ruột), phản ứng phúc mạc (thủng u), hạch thượng đòn trái. Thăm trực tràng là bước bắt buộc.
+
+---
+
+## 11. CẬN LÂM SÀNG
+
+### 11.1. Nội soi đại tràng
+Nội soi đại tràng toàn bộ kèm sinh thiết là **"Tiêu chuẩn vàng"** để chẩn đoán xác định UTĐT. Ngoài ra còn giúp can thiệp cắt polyp / cắt u giai đoạn sớm (EMR, ESD).
+
+### 11.2. X-quang đại tràng cản quang
+Định vị vị trí u. Hình ảnh: Khuyết thuốc hoặc hình **"lõi táo"** (*apple core*). Độ nhạy đạt 90% với u \\(> 1\text{ cm}\\), nhưng chỉ 50% với u \\(< 1\text{ cm}\\).
+
+### 11.3. Chụp cắt lớp vi tính (CT Scan)
+Phương tiện thường quy chẩn đoán và đánh giá giai đoạn. Đánh giá di căn gan rất tốt (độ nhạy 85%, khối di căn có đậm độ thấp trên thì tĩnh mạch cửa).
+
+### 11.4. Chụp hình cắt lớp phát xạ Positron (PET/CT)
+Không dùng thường quy. Chỉ định đánh giá tái phát (khi CEA tăng mà CT/nội soi không thấy) hoặc phát hiện di căn ngoài gan.
+
+### 11.5. Kháng nguyên ung thư phôi (CEA)
+**Không có giá trị chẩn đoán xác định** UTĐT. CEA dùng để **tiên lượng và theo dõi tái phát sau điều trị**. CEA cao trước mổ sẽ hạ về bình thường sau mổ triệt căn; nếu không hạ chứng tỏ còn di căn ẩn.
+
+### 11.6. Máu ẩn trong phân
+Xét nghiệm tầm soát miễn dịch (iFOBT). Phản ánh chảy máu rỉ rả ống tiêu hóa, bắt buộc phải nội soi đại tràng kiểm tra sau đó.
+
+---
+
+## 12. ĐIỀU TRỊ
+
+### 12.1. Nguyên tắc điều trị
+Phẫu thuật cắt đoạn đại tràng mang u cùng mạc treo là **phương pháp điều trị chủ yếu**. Hóa trị đóng vai trò hỗ trợ sau mổ hoặc giảm nhẹ.
+* Nguyên tắc phẫu thuật: Cắt khối u cùng mạc treo, mạch máu nuôi (thắt sát gốc) và hệ thống hạch bạch huyết *en-bloc*.
+* Bờ cắt an toàn: Bờ cắt thành ruột cách khối u **ít nhất 5 cm**.
+
+**Phác đồ NCCN 2020:**
+* *Giai đoạn sớm (cTis, cT1a):* Cắt u/polyp qua nội soi đại tràng (EMR/ESD).
+* *Giai đoạn cT1b – T4a, M0:* Phẫu thuật cắt đại tràng triệt căn + Nạo hạch *en-bloc*. Hóa trị hỗ trợ sau mổ (FOLFOX, CAPEOX) cho giai đoạn II nguy cơ cao và giai đoạn III.
+* *Hạch bulky hoặc cT4b:* Hóa trị tân hỗ trợ trước mổ.
+
+### 12.2. Phẫu thuật
+
+**Bảng chỉ định phẫu thuật và thắt mạch máu theo vị trí u**
+
+| Phẫu thuật | Chỉ định vị trí khối u | Mạch máu cần thắt tận gốc |
+| :--- | :--- | :--- |
+| **Cắt đại tràng phải** | U manh tràng, đại tràng lên. | ĐM Hồi - đại tràng, ĐM Đại tràng phải. |
+| **Cắt đại tràng phải mở rộng** | U đại tràng góc gan, 1/3 phải đại tràng ngang. | ĐM Hồi - đại tràng, ĐM Đại tràng phải, ĐM Đại tràng giữa. |
+| **Cắt đại tràng ngang** | 1/3 giữa đại tràng ngang (hiếm dùng). | ĐM Đại tràng giữa. |
+| **Cắt đại tràng trái** | U đại tràng góc lách, đại tràng xuống. | ĐM Đại tràng trái (\\(\pm\\) nhánh ĐM đại tràng giữa/chậu hông). |
+| **Cắt đại tràng chậu hông** | 1/3 giữa đại tràng chậu hông (Sigma). | Các nhánh ĐM chậu hông hoặc gốc ĐM mạc treo tràng dưới. |
+| **Phẫu thuật Cắt trước** | 1/3 cuối đại tràng chậu hông. | Thắt tận gốc ĐM mạc treo tràng dưới (*IMA*). |
+
+* **Phẫu thuật nội soi đại tràng:** Gồm *Phẫu thuật nội soi hỗ trợ* (dùng bàn tay hỗ trợ / mổ nhỏ lấy bệnh phẩm) và *Phẫu thuật nội soi hoàn toàn* (phẫu tích và khâu nối hoàn toàn trong bụng).
+
+---
+
+## 13. CÁC TÌNH HUỐNG LÂM SÀNG
+
+### 13.1. Tắc ruột
+UTĐT là nguyên nhân của **60% các trường hợp tắc ruột ở người lớn tuổi (>50 tuổi)**, thường do u đại tràng trái.
+* *Bán tắc ruột:* Đặt ống thông dạ dày giải áp, hồi sức nội khoa, chụp CT chẩn đoán và chuẩn bị mổ chương trình 1 thì.
+* *Tắc ruột hoàn toàn:* Cắt u cắt nối 1 thì, hoặc cắt u làm hậu môn nhân tạo (HMNT) Hartmann, hoặc đặt **Stent kim loại tự bung qua nội soi** để giải áp rồi mổ chương trình sau.
+
+### 13.2. Thủng đại tràng
+Biến chứng rất nặng do hoại tử u hoặc vỡ manh tràng (tắc quai kín do van hồi manh tràng đóng). Gây viêm phúc mạc toàn thể nguy kịch.
+* *Xử trí:* Mổ cấp cứu cắt đại tràng mang u, rửa sạch ổ bụng, dẫn lưu, làm HMNT, kháng sinh phổ rộng và hồi sức chống sốc.
+
+### 13.3. Chảy máu
+Gặp trong 6 – 17% các trường hợp. Thường chảy máu rỉ rả phân đen. Nếu chảy máu ồ ạt nguy hẹp huyết động \\(\rightarrow\\) Hồi sức truyền máu và phẫu thuật cấp cứu khẩn.
+
+---
+
+## 14. THEO DÕI SAU ĐIỀU TRỊ
+
+### 14.1. Giai đoạn 0 và giai đoạn I
+* Nội soi đại tràng sau mổ **1 năm**.
+* Nếu phát hiện polyp tuyến \\(\rightarrow\\) Nội soi lại sau **1 năm**.
+* Nhóm nội soi bình thường \\(\rightarrow\\) Nội soi lại sau **3 năm**, sau đó mỗi **5 năm/lần**.
+
+### 14.2. Giai đoạn II và giai đoạn III
+* **Tái khám lâm sàng:** Mỗi **3 – 6 tháng** trong 2 năm đầu; Mỗi **6 tháng** trong 3 năm tiếp theo (tổng 5 năm).
+* **Xét nghiệm mỗi lần tái khám:** Siêu âm bụng + Xét nghiệm chỉ số **CEA**.
+* **Chụp CT Scan bụng chậu:** Thực hiện mỗi năm 1 lần trong 5 năm đầu cho nhóm nguy cơ tái phát cao.
+* **Nội soi đại tràng:** Thực hiện sau mổ **1 năm** (nếu trước mổ chưa soi hết do tắc thì soi sau mổ 3 – 6 tháng). Nếu bình thường \\(\rightarrow\\) Soi lại sau 3 năm, rồi mỗi 5 năm.
+
+---
+
+## 15. TIÊN LƯỢNG
+
+Tỷ lệ sống còn 5 năm theo giai đoạn AJCC:
+* **Giai đoạn I:** **\\(> 90\%\)**.
+* **Giai đoạn II:** **65 – 90%**.
+* **Giai đoạn III:** **45 – 75%**.
+* **Giai đoạn IV:** **9 – 14%**.
+
+---
+
+## TÓM TẮT NHANH
+
+1. Ung thư đại tràng (UTĐT) là bệnh ác tính tiêu hóa thường gặp; các yếu tố nguy cơ chính gồm chế độ ăn nhiều mỡ/thịt đỏ, ít xơ, polyp đại tràng, IBD, yếu tố di truyền (FAP, Lynch).
+2. Chuỗi sinh ung liên quan đột biến gen sinh ung (*K-ras*) và gen ức chế khối u (*APC, p53, DCC*); giải phẫu bệnh chủ yếu là **Carcinôm tuyến (90–95%)**.
+3. Triệu chứng lâm sàng giai đoạn tiến triển gồm **đau bụng** (thường gặp nhất), **thay đổi thói quen đi cầu** (u phải phân lỏng đến trễ; u trái phân cứng đến sớm), và **đi cầu ra máu**.
+4. **Nội soi đại tràng kèm sinh thiết** là "tiêu chuẩn vàng" chẩn đoán; **Chụp CT Scan bụng chậu** là phương tiện quan trọng nhất đánh giá giai đoạn TNM và di căn gan/phúc mạc; CEA dùng để theo dõi tái phát.
+5. Điều trị cốt lõi là **phẫu thuật cắt đoạn đại tràng kèm nạo hạch en-bloc** (bờ cắt cách u \\(\ge 5\text{ cm}\\)); Hóa trị hỗ trợ (FOLFOX/CAPEOX) áp dụng cho giai đoạn II nguy cơ cao và giai đoạn III.
+
+---
+
+## CÂU HỎI TỰ KIỂM TRA
+
+**(Trích từ bộ câu hỏi lượng giá của Bài 10 trong giáo trình):**
+
+**Câu 1:** Yếu tố nào là yếu tố nguy cơ bên ngoài của bệnh ung thư đại tràng?
+* A. Tuổi
+* B. Polyp
+* C. Bệnh ruột do viêm
+* D. Chế độ ăn nhiều chất xơ
+
+**Câu 2:** Yếu tố nào là yếu tố nguy cơ bên trong của bệnh ung thư đại tràng?
+* A. Canxi
+* B. Hút thuốc lá
+* C. Bệnh ruột do viêm
+* D. Rượu
+
+**Câu 3:** Rối loạn trong cơ chế điều tiết sinh sản tế bào, CHỌN CÂU SAI:
+* A. Không cần tín hiệu tăng trưởng
+* B. Không nhạy với tín hiệu ức chế tăng trưởng
+* C. Tránh chết theo chương trình
+* D. Bị giới hạn số lần phân bào
+
+**Câu 4:** Đột biến gen nào KHÔNG liên quan đến ung thư đại tràng?
+* A. APC
+* B. K-ras
+* C. DCC
+* D. HER2
+
+**Câu 5:** Triệu chứng thường gặp nhất của ung thư đại tràng là gì?
+* A. Đau bụng
+* B. Thay đổi thói quen đi cầu
+* C. Đi cầu ra máu
+* D. Mót rặn
+
+**Câu 6:** Cận lâm sàng nào giúp chẩn đoán khối ung thư đại tràng chính xác nhất?
+* A. Siêu âm bụng
+* B. X quang bụng đứng không sửa soạn
+* C. Nội soi đại tràng và sinh thiết
+* D. Chụp CLVT bụng chậu có cản quang
+
+**Câu 7:** Phẫu thuật cắt đại tràng phải được chỉ định đối với khối u ở vị trí nào?
+* A. Ung thư đại tràng lên
+* B. Ung thư đại tràng ngang 1/3 phải
+* C. Ung thư đại tràng ngang 1/3 trái
+* D. Ung thư đại tràng góc lách
+
+**Câu 8:** Phẫu thuật cắt đại tràng phải mở rộng được chỉ định đối với khối u ở vị trí nào?
+* A. Ung thư đại tràng lên
+* B. Ung thư đại tràng ngang 1/3 phải
+* C. Ung thư đại tràng ngang 1/3 trái
+* D. Ung thư đại tràng góc lách
+
+**Câu 9:** Phẫu thuật cắt đại tràng trái được chỉ định đối với khối u ở vị trí nào?
+* A. Ung thư đại tràng lên
+* B. Ung thư đại tràng ngang 1/3 phải
+* C. Ung thư manh tràng
+* D. Ung thư đại tràng góc lách
+
+**Câu 10:** Phẫu thuật cắt trước được chỉ định đối với khối u ở vị trí nào?
+* A. Ung thư đại tràng xuống
+* B. Ung thư đại tràng ngang 1/3 phải
+* C. Ung thư manh tràng
+* D. Ung thư đại tràng chậu hông 1/3 cuối
+
+---
+
+### ĐÁP ÁN CÂU HỎI TỰ KIỂM TRA
+*(Đối chiếu theo bảng đáp án chính thức ở cuối sách)*:
+1. **D** (Chế độ ăn nhiều chất xơ là yếu tố tác động từ môi trường bên ngoài - yếu tố bảo vệ).
+2. **C** (Bệnh ruột do viêm - IBD là yếu tố nguy cơ nội tại từ bệnh lý bản thân người bệnh).
+3. **D** (Rối loạn của tế bào ung thư là **Không bị giới hạn số lần phân bào**, phương án D "Bị giới hạn" là sai).
+4. **D** (HER2 liên quan đến ung thư dạ dày/vú, không nằm trong các gen sinh ung thư đại tràng điển hình như APC, K-ras, DCC, p53).
+5. **A** (Đau bụng là triệu chứng lâm sàng thường gặp nhất của UTĐT).
+6. **C** (Nội soi đại tràng và sinh thiết là tiêu chuẩn vàng giúp chẩn đoán xác định chính xác nhất khối u đại tràng).
+7. **A** (Cắt đại tràng phải chỉ định cho u manh tràng và ung thư đại tràng lên).
+8. **B** (Cắt đại tràng phải mở rộng chỉ định cho u ở đại tràng góc gan và 1/3 phải đại tràng ngang).
+9. **D** (Cắt đại tràng trái chỉ định cho u ở đại tràng góc lách và đại tràng xuống).
+10. **D** (Phẫu thuật cắt trước chỉ định cho khối u ở 1/3 cuối đại tràng chậu hông / sigma).
+
+---
+
+📚 *Nếu bạn cần bài giảng tiếp theo cho Bài 11: Ung thư trực tràng hoặc Bài 12: Viêm túi thừa đại tràng, hãy bảo tôi nhé!*

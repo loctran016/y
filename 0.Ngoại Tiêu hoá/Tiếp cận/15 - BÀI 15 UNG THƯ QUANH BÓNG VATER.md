@@ -1,0 +1,358 @@
+---
+title: "BÀI 15: UNG THƯ QUANH BÓNG VATER"
+tags: [giang-bai]
+created: 2026-11-25
+nguon: NotebookLM
+---
+
+# BÀI 15: UNG THƯ QUANH BÓNG VATER
+
+**Tác giả:** Phan Minh Trí, Võ Trường Quốc
+
+**MỤC TIÊU BÀI HỌC:**
+1. Khai thác được các yếu tố nguy cơ của ung thư quanh bóng Vater.
+2. Vận dụng các triệu chứng lâm sàng và cận lâm sàng để chẩn đoán xác định, chẩn đoán giai đoạn ung thư quanh bóng Vater.
+3. Chỉ định phương pháp điều trị phù hợp với các giai đoạn bệnh theo Ủy ban Liên hiệp Ung thư Hoa Kỳ (AJCC).
+4. Lập kế hoạch điều trị trước phẫu thuật và theo dõi sau phẫu thuật cắt khối tá tụy.
+5. Trình bày được các biến chứng sớm và tiên lượng sau phẫu thuật cắt khối tá tụy.
+
+**Từ khóa:** Ung thư quanh bóng Vater, đánh giá giai đoạn ung thư TNM, phẫu thuật cắt khối tá tụy, đánh giá dinh dưỡng theo SGA, u tụy giáp biên, đái tháo đường sau phẫu thuật tụy.
+
+---
+
+## 1. GIỚI THIỆU
+
+Ung thư quanh bóng Vater là tập hợp những tân sinh ác tính của vùng quanh bóng Vater. Xét về mặt vi thể, ung thư vùng này có thể bao gồm nhiều loại mô học như ung thư biểu mô tuyến, u thần kinh nội tiết, u mô đệm tiêu hóa (GIST)... Trong phạm vi bài giảng này, nội dung đề cập chủ yếu đến **ung thư biểu mô tuyến (*adenocarcinoma*)**, là loại ung thư thường gặp nhất. Các ung thư quanh bóng Vater được mô tả chung do có nhiều điểm tương đồng về biểu hiện lâm sàng, cận lâm sàng chẩn đoán và nguyên tắc điều trị.
+
+* **Định nghĩa giải phẫu:** Halsted (năm 1898) định nghĩa vùng quanh bóng Vater được giới hạn trong vòng bán kính **2 cm** quanh nhú tá lớn. Ông cũng là người đầu tiên thực hiện phẫu thuật cắt u vùng quanh bóng Vater.
+* **4 vị trí nguyên phát:** Ung thư quanh bóng Vater bao gồm ung thư biểu mô tuyến của:
+  1. *Đầu tụy*
+  2. *Bóng Vater*
+  3. *Đoạn cuối ống mật chủ*
+  4. *Tá tràng D2*
+
+Tỷ lệ sống còn sau 5 năm của các ung thư quanh bóng Vater nhìn chung khá thấp: ít hơn **15%** đối với ung thư đầu tụy, **27%** đối với ung thư đoạn cuối ống mật chủ, **39%** đối với ung thư bóng Vater và **59%** đối với ung thư tá tràng. Chỉ có khoảng **10 – 20%** bệnh nhân tại thời điểm chẩn đoán còn khả năng phẫu thuật triệt để. Tại Bệnh viện Chợ Rẫy (thống kê 5 năm 2012 – 2016), có 226 bệnh nhân được phẫu thuật cắt khối tá tụy do ung thư quanh bóng Vater, trong đó ung thư bóng Vater chiếm đa số.
+
+Điều trị ung thư quanh bóng Vater đòi hỏi sự phối hợp đa chuyên khoa giữa Chẩn đoán hình ảnh, Ngoại khoa và Ung thư học. Những tiến bộ về chẩn đoán và điều trị gần đây đã góp phần nâng cao tỷ lệ điều trị triệt căn và kéo dài thời gian sống thêm cho người bệnh.
+
+---
+
+## 2. DỊCH TỄ
+
+* **Tần suất chung:** Tỷ lệ lưu hành bệnh khoảng **10/100.000 dân số**. Tại Hoa Kỳ, ước tính có trên 30.000 bệnh nhân mới mắc ung thư quanh bóng Vater mỗi năm, trong đó ung thư đầu tụy chiếm hơn 95% và là nguyên nhân tử vong do ung thư đứng hàng thứ tư.
+* **Đặc điểm lứa tuổi & giới tính:** Tần suất mắc bệnh gia tăng theo tuổi, đa số bệnh nhân ở độ tuổi **60 trở lên**, nam giới mắc bệnh nhiều hơn nữ giới.
+* **Tần suất theo từng vị trí giải phẫu:**
+  * **Ung thư đầu tụy:** Chiếm **40 – 60%** (thường gặp nhất).
+  * **Ung thư bóng Vater:** Chiếm **10 – 20%**.
+  * **Ung thư đoạn cuối ống mật chủ:** Chiếm **10%**.
+  * **Ung thư tá tràng (D2):** Chiếm **5 – 10%** (ít gặp nhất).
+
+---
+
+## 3. YẾU TỐ NGUY CƠ
+
+### 3.1. Ung thư đầu tụy
+* **Yếu tố di truyền:** Các hội chứng di truyền làm tăng nguy cơ ung thư tụy gồm hội chứng ung thư đại trực tràng di truyền không đa polyp (HNPCC / Lynch), ung thư vú mang đột biến gen **BRCA2**. Đột biến gen liên quan đến khoảng **20%** các trường hợp ung thư tụy có tính chất gia đình.
+* **Yếu tố môi trường & lối sống:**
+  * **Hút thuốc lá:** Là yếu tố nguy cơ quan trọng nhất. Số lượng và thời gian hút thuốc lá tỷ lệ thuận với nguy cơ mắc bệnh. Hút thuốc lá và di truyền đóng góp 5 – 10% nguyên nhân ung thư tụy.
+  * **Béo phì:** Làm tăng nguy cơ mắc ung thư tụy **gấp 3 lần** so với người bình thường.
+  * **Đái tháo đường:** Tỷ lệ mắc ung thư tụy tăng cao ở bệnh nhân mới khởi phát đái tháo đường (đặc biệt là người lớn tuổi có sụt cân kèm theo), hoặc người mắc đái tháo đường tiến triển kéo dài.
+  * **Viêm tụy mạn:** Là yếu tố nguy cơ nền tảng liên quan đến tiến triển ung thư tụy.
+
+### 3.2. Ung thư bóng Vater và ung thư tá tràng
+Ung thư bóng Vater và ung thư tá tràng thường gặp hơn ở bệnh nhân mắc các hội chứng đa polyp di truyền như: Ung thư đại trực tràng di truyền không đa polyp, hội chứng Peutz – Jeghers, đa polyp tuyến gia đình (FAP) và hội chứng Gardner.
+
+### 3.3. Ung thư đoạn cuối ống mật chủ
+Liên quan đến một số yếu tố nguy cơ bệnh lý như: Hội chứng ruột kích thích, viêm xơ hóa đường mật mạn tính, nang ống mật chủ và bệnh lý sỏi mật.
+
+---
+
+## 4. CHẨN ĐOÁN VÀ ĐÁNH GIÁ TRƯỚC PHẪU THUẬT
+
+### 4.1. Đặc điểm lâm sàng
+
+Khoảng **75%** bệnh nhân ung thư quanh bóng Vater có biểu hiện **vàng da tắc mật**, đi kèm các triệu chứng của hội chứng tắc mật như ngứa ngoài da, nước tiểu sậm màu và phân bạc màu như thạch cao.
+
+* **Đau bụng:** Đau mơ hồ vùng thượng vị/hạ sườn phải, thường lan ra sau lưng ngang vị trí của tụy. Ở giai đoạn muộn, đau trở nên liên tục và không đáp ứng với các thuốc giảm đau thông thường (Paracetamol, NSAID).
+* **Sụt cân & Suy dinh dưỡng:** Sụt cân nhanh chóng, chán ăn, buồn nôn, nôn ói.
+* **Triệu chứng thực thể:** Kết mạc mắt vàng, sang thương da do cào gãi ngứa, **túi mật căng to sờ thấy được (Dấu hiệu Courvoisier)**. Các dấu hiệu di căn muộn gồm: sờ thấy nốt cứng ở gan, hạch thượng đòn trái (*hạch Virchow*), nốt di căn quanh rốn (*Sister Mary Joseph*), hoặc nốt di căn ở túi cùng bàng quang - trực tràng / tử cung - trực tràng khi thăm khám trực tràng (*gờ Blumer*).
+
+**Bảng 1. Tần suất triệu chứng cơ năng trong u quanh bóng Vater**
+
+| Triệu chứng cơ năng | Tần suất (%) |
+| :--- | :---: |
+| **Vàng da** | **75%** |
+| **Sụt cân** | **51%** |
+| **Đau bụng** | **39%** |
+| **Nôn / Buồn nôn** | **13%** |
+| **Ngứa** | **11%** |
+| **Sốt** | **3%** |
+| **Xuất huyết tiêu hóa** | **1%** |
+
+* **Đánh giá tổng trạng và dinh dưỡng:** Đánh giá qua bảng câu hỏi **PG-SGA** (*Patient-Generated Subjective Global Assessment*). Tình trạng dinh dưỡng có mối tương quan chặt chẽ với giai đoạn bệnh và là yếu tố tiên lượng quan trọng cho quyết định phẫu thuật cắt khối tá tụy.
+
+### 4.2. Đặc điểm cận lâm sàng
+
+#### 4.2.1. Xét nghiệm sinh hóa
+* **Kháng nguyên CA 19-9:** Tăng trong **75%** trường hợp ung thư quanh bóng Vater. 
+  * CA 19-9 có độ nhạy (81%) và độ đặc hiệu (90%) cao hơn CEA. Tại ngưỡng 37 IU/mL, giá trị tiên đoán dương là 72%. 
+  * Khi nồng độ **CA 19-9 > 100 U/mL**, độ nhạy là 68%, độ đặc hiệu lên tới **98%**, giá trị tiên đoán dương **97%**.
+  * Vai trò chính của CA 19-9 là **theo dõi tái phát và tiên lượng** (CA 19-9 hạ về gần bình thường sau mổ 2 tuần, nếu tăng trở lại là dấu hiệu u tái phát).
+  * *Ung thư đầu tụy:* Chỉ số phối hợp **\\((\text{CEA} \times 85 + \text{CA 19-9}) > 845\\)** trước mổ có ý nghĩa tiên lượng làm giảm thời gian sống còn sau phẫu thuật.
+  * *Ung thư đoạn cuối OMC:* Nồng độ CA 19-9 \\(\ge 100\text{ U/mL}\\) tương quan rõ rệt với khả năng không cắt được u và tình trạng di căn hạch.
+* **Các xét nghiệm khác:** Bilirubin toàn phần và Phosphatase kiềm tăng cao; men gan tăng nhẹ đến trung bình; thời gian đông máu (PT/INR) kéo dài do giảm hấp thu Vitamin K khi tắc mật mạn tính. Albumin, Pre-albumin máu giảm phản ánh tình trạng suy dinh dưỡng.
+
+#### 4.2.2. Hình ảnh học trong ung thư quanh bóng Vater
+* **Siêu âm bụng:** Độ nhạy thấp (chỉ khoảng **25%**) trong phát hiện khối u quanh bóng Vater. Giá trị chủ yếu là ghi nhận dãn đường mật trong/ngoài gan, dãn ống tụy, phát hiện nốt di căn gan, hạch vùng và dịch báng.
+* **Chụp cắt lớp vi tính (CT Scan) có cản quang:** Là phương tiện hình ảnh cốt lõi. Chụp theo phác đồ *Pancreatic phase* (thì động mạch 15–30s, thì tụy 30–40s, thì tĩnh mạch cửa 45s, thì muộn 120s) với lát cắt mỏng 0,1 mm.
+  * *Ung thư đầu tụy:* Khối không đồng nhất, **giảm đậm độ** so với mô tụy xung quanh trên thì tụy. Dấu hiệu thứ phát là dãn ống tụy và ống mật chủ. Giúp phân biệt với SCNs (nang tổ ong), MCNs (nang lớn > 20 mm), IPMNs (nang nhiều thành vách) và Insulinoma (ngấm thuốc mạnh).
+  * *Ung thư bóng Vater:* Khối giảm đậm độ chia thùy/thâm nhiễm, gây dấu hiệu **"Ống đôi" (*Double-duct sign*)** (dãn đồng thời cả ống mật chủ và ống tụy chính).
+  * *Ung thư đoạn cuối OMC:* Dày thành không đều đoạn cuối OMC, ngấm thuốc mạnh, chít hẹp hoặc mất lòng ống mật kèm dãn đường mật phía trên.
+  * *Ung thư tá tràng:* Hẹp đoạn ngắn tá tràng D2 dạng vòng, bờ không đều, gây dãn tá tràng và dạ dày phía trên.
+  * *Đánh giá hạch di căn trên CT:* Hạch được xem là di căn khi đường kính cắt ngang \\(\ge 10\text{ mm}\\), hoặc có hoại tử trung tâm, hoặc ngấm thuốc đậm độ cao hơn gan ở thì tĩnh mạch cửa.
+  * *Đánh giá khả năng cắt u:* CT Scan giúp xác định u cắt được hay không dựa trên sự xâm lấn mạch máu (ĐM thân tạng, ĐM mạc treo tràng trên, ĐM gan chung, TMMTTT, TM cửa) và di căn xa.
+* **Chụp cộng hưởng từ mật tụy (MRCP):** Độ nhạy phát hiện u đạt **86%** (nhỉnh hơn CT Scan 84%). Rất mạnh trong đánh giá cấu trúc cây đường mật, ống tụy, phân biệt ung thư tụy với viêm tụy mạn nhờ dấu hiệu "ống tụy thông suốt" (*Duct-penetrating sign*).
+* **Siêu âm qua ngả nội soi (EUS / EUS-FNA):** Độ nhạy chẩn đoán rất cao (**80 – 95%**), vượt trội hơn CT Scan trong phát hiện các khối u nhỏ \\(< 2\text{ cm}\\), đánh giá xâm lấn mạch máu và sinh thiết bằng kim nhỏ (FNA) làm mô bệnh học trước hóa trị tân bổ trợ.
+* **PET/CT:** Đánh giá di căn xa và tái phát sau phẫu thuật với độ nhạy 87%, độ đặc hiệu 89%.
+
+### 4.3. Phân giai đoạn ung thư (AJCC 8th)
+
+#### 4.3.1. Ung thư đầu tụy
+* **T1:** U khu trú trong tụy \\(\le 2\text{ cm}\\) (T1a \\(\le 0,5\text{ cm}\\); T1b \\(> 0,5 - 1\text{ cm}\\); T1c \\(1 - 2\text{ cm}\\)).
+* **T2:** U khu trú trong tụy \\(> 2\text{ cm}\\) và \\(\le 4\text{ cm}\\).
+* **T3:** U khu trú trong tụy \\(> 4\text{ cm}\\).
+* **T4:** U xâm lấn ĐM thân tạng, ĐM mạc treo tràng trên (ĐMMTTT) và/hoặc ĐM gan chung.
+* **N0:** Không di căn hạch; **N1:** Di căn 1 – 3 hạch vùng; **N2:** Di căn \\(\ge 4\\) hạch vùng.
+
+**Bảng 2. Bảng phân giai đoạn Ung thư đầu tụy**
+
+| Giai đoạn | T | N | M |
+| :---: | :---: | :---: | :---: |
+| **0** | Tis | N0 | M0 |
+| **IA** | T1 | N0 | M0 |
+| **IB** | T2 | N0 | M0 |
+| **IIA** | T3 | N0 | M0 |
+| **IIB** | T1, T2, T3 | N1 | M0 |
+| **III** | T1, T2 | N2 | M0 |
+| | T4 | Bất kỳ N | M0 |
+| **IV** | Bất kỳ T | Bất kỳ N | M1 |
+
+#### 4.3.2. Ung thư bóng Vater
+* **Tis:** Ung thư tại chỗ.
+* **T1a:** U khu trú tại bóng Vater hoặc cơ vòng Oddi.
+* **T1b:** U xâm lấn vượt cơ vòng Oddi đến lớp dưới niêm mạc tá tràng.
+* **T2:** U xâm lấn lớp cơ tá tràng.
+* **T3a:** U xâm lấn nhu mô tụy \\(\le 0,5\text{ cm}\\).
+* **T3b:** U xâm lấn nhu mô tụy \\(> 0,5\text{ cm}\\) hoặc xâm lấn mô quanh tụy/thanh mạc tá tràng.
+* **T4:** U xâm lấn ĐM thân tạng, ĐMMTTT hoặc ĐM gan chung.
+
+**Bảng 3. Bảng phân giai đoạn Ung thư bóng Vater**
+
+| Giai đoạn | T | N | M |
+| :---: | :---: | :---: | :---: |
+| **0** | Tis | N0 | M0 |
+| **IA** | T1a | N0 | M0 |
+| **IB** | T1b, T2 | N0 | M0 |
+| **IIA** | T3a | N0 | M0 |
+| **IIB** | T3b | N0 | M0 |
+| **IIIA** | T1a – T3b | N1 | M0 |
+| **IIIB** | T4 | N2 | M0 |
+| **IV** | Bất kỳ T | Bất kỳ N | M1 |
+
+#### 4.3.3. Ung thư đoạn cuối OMC
+* **T1:** U xâm lấn chiều dày thành ống mật chủ **\\(< 5\text{ mm}\\)**.
+* **T2:** U xâm lấn chiều dày thành ống mật chủ **5 – 12 mm**.
+* **T3:** U xâm lấn chiều dày thành ống mật chủ **\\(> 12\text{ mm}\\)**.
+* **T4:** U xâm lấn ĐM thân tạng, ĐMMTTT hoặc ĐM gan chung.
+
+**Bảng 4. Bảng phân giai đoạn Ung thư đoạn cuối OMC**
+
+| Giai đoạn | T | N | M |
+| :---: | :---: | :---: | :---: |
+| **0** | Tis | N0 | M0 |
+| **I** | T1 | N0 | M0 |
+| **IIA** | T1 | N1 | M0 |
+| **IIB** | T2 | N0, N1 | M0 |
+| **IIIA** | T2, T3 | N2 | M0 |
+| **IIIB** | T1, T2, T3 | N0, N1, N2 | M0 |
+| **IV** | T4 | Bất kỳ N | M1 |
+
+#### 4.3.4. Ung thư tá tràng
+* **T1a:** U xâm lấn màng đáy; **T1b:** U xâm lấn lớp dưới niêm mạc.
+* **T2:** U xâm lấn lớp cơ niêm/lớp cơ.
+* **T3:** U xâm lấn qua lớp cơ đến dưới thanh mạc/mạc treo/sau phúc mạc.
+* **T4:** U xâm lấn qua phúc mạc thành hoặc cơ quan lân cận (ống mật, tụy).
+
+**Bảng 5. Bảng phân giai đoạn Ung thư tá tràng**
+
+| Giai đoạn | T | N | M |
+| :---: | :---: | :---: | :---: |
+| **0** | Tis | N0 | M0 |
+| **I** | T1, T2 | N0 | M0 |
+| **IIA** | T3 | N0 | M0 |
+| **IIB** | T4 | N0 | M0 |
+| **IIIA** | Bất kỳ T | N1 | M0 |
+| **IIIB** | Bất kỳ T | N2 | M0 |
+| **IV** | Bất kỳ T | Bất kỳ N | M1 |
+
+### 4.4. U tân sinh giáp biên (*Borderline tumor*)
+Được xác định trên CT/MRI khi tổn thương có đặc điểm:
+1. Tĩnh mạch cửa/TMMTTT bị giảm \\(> 50\%\\) bán kính hoặc thuyên tắc đoạn ngắn nhưng **vẫn còn khả năng phẫu thuật cắt nối tái tạo mạch máu**.
+2. U tiếp xúc/xâm lấn **dưới \\(180^\circ\\) chu vi** ĐMMTTT.
+3. Xâm lấn ĐM thân tạng hoặc ĐM gan chung nhưng không làm biến dạng mạch máu và không liên quan đến chỗ chia nhánh.
+
+---
+
+## 5. ĐIỀU TRỊ
+
+### 5.1. Nguyên tắc điều trị
+* **Phẫu thuật cắt khối tá tụy (Phẫu thuật Whipple) kèm nạo vét hạch** là phương pháp duy nhất điều trị triệt căn cho các khối u còn khả năng phẫu thuật.
+* **Điều trị đa mô thức:** Phối hợp hóa xạ trị tân bổ trợ (trước mổ) \\(\rightarrow\\) Phẫu thuật \\(\rightarrow\\) Hóa xạ trị hỗ trợ (sau mổ) cho u giáp biên.
+* **Điều trị giảm nhẹ:** Áp dụng cho các trường hợp quá chỉ định phẫu thuật cắt u hoặc có di căn xa.
+
+### 5.2. Chỉ định phẫu thuật
+
+#### 5.2.1. Trường hợp giải phẫu bệnh trước mổ là ung thư và còn khả năng cắt được
+Tiến hành phẫu thuật triệt căn cắt khối tá tụy khi u khu trú, chưa di căn xa và tổng trạng bệnh nhân cho phép.
+
+#### 5.2.2. Trường hợp chưa có giải phẫu bệnh trước mổ, hình ảnh học nghi ngờ ung thư
+Phẫu thuật thám sát + **sinh thiết tức thì trong mổ**:
+* Nếu kết quả là ung thư và còn khả năng cắt u \\(\rightarrow\\) Cắt khối tá tụy.
+* Nếu kết quả là viêm mạn tính: Phẫu thuật viên dựa trên kinh nghiệm lâm sàng (khối sờ rất cứng, tắc mật rõ) để quyết định vẫn cắt khối tá tụy hoặc chỉ làm phẫu thuật nối tắt (mật - ruột, vị - tràng).
+
+#### 5.2.3. Hình ảnh học ghi nhận u tân sinh giáp biên
+Theo NCCN 2019: Hóa trị tân bổ trợ (FOLFIRINOX hoặc Gemcitabine) kết hợp xạ trị (30 Gy trong 2 tuần) \\(\rightarrow\\) Đánh giá lại sau 4 – 6 tuần \\(\rightarrow\\) Phẫu thuật cắt khối tá tụy (kèm cắt nối tái tạo mạch máu nếu cần) \\(\rightarrow\\) Hóa trị bổ trợ sau mổ 4 chu kỳ.
+
+#### 5.2.4. Trường hợp ung thư giai đoạn tiến xa: điều trị giảm nhẹ
+Thực hiện các can thiệp hỗ trợ giúp cải thiện chất lượng sống:
+* **Phong bế đám rối thần kinh tạng (*Celiac plexus block*):** Bơm 20 ml Ethanol 50–97% vào đám rối tạng để giảm đau mạn tính vùng bụng/lưng.
+* **Giải áp đường mật:** Đặt stent qua ERCP, dẫn lưu PTBD qua da, hoặc phẫu thuật nối tắt túi mật/ống mật chủ với hổng tràng.
+* **Giải quyết hẹp đường thoát dạ dày:** Phẫu thuật nối vị - tràng (Phẫu thuật Warren).
+
+#### 5.2.5. Hóa trị điều trị
+Hóa trị hỗ trợ sau mổ với **FOLFIRINOX hoặc Gemcitabine** trong 6 tháng giúp cải thiện thời gian sống còn rõ rệt (Gemcitabine kéo dài thời gian sống từ 6,9 tháng lên 13,4 tháng).
+
+### 5.3. Phẫu thuật cắt khối tá tụy
+
+#### 5.3.1. Chuẩn bị bệnh nhân trước phẫu thuật
+Không khuyến cáo dẫn lưu đường mật thường quy trước mổ (do tăng biến chứng nhiễm trùng). Chỉ dẫn lưu (qua PTBD hoặc ERCP) khi Bilirubin máu quá cao, có rối loạn đông máu nặng hoặc viêm đường mật cấp kèm theo.
+
+**Đánh giá nguy cơ Rò tụy sau mổ:**
+* *Yếu tố trước mổ:* Tuổi \\(> 70\\), suy dinh dưỡng, BMI \\(> 25\text{ kg/m}^2\\), Albumin máu \\(< 4\text{ g/dL}\\).
+* *Thang điểm nguy cơ rò tụy (FRS - Fistula Risk Score theo Callery 2013):*
+  * Mật độ tụy: Mềm (2 điểm), Không mềm (0 điểm).
+  * Giải phẫu bệnh: Không phải ung thư tụy (1 điểm), Ung thư tuyến tụy (0 điểm).
+  * Đường kính ống tụy: \\(\le 1\text{ mm}\\) (4 điểm), 2 mm (3 điểm), 3 mm (2 điểm), 4 mm (1 điểm), \\(\ge 5\text{ mm}\\) (0 điểm).
+  * Lượng máu mất: \\(\le 400\text{ ml}\\) (0 điểm), 401–700 ml (1 điểm), 701–1000 ml (2 điểm), \\(> 1000\text{ ml}\\) (3 điểm).
+  * *Tổng điểm FRS:* 0 điểm (không nguy cơ); 1–2 điểm (nguy cơ thấp 6,6%); 3–6 điểm (nguy cơ trung bình 12,9%); 7–10 điểm (nguy cơ cao 28,1%).
+
+#### 5.3.2. Phẫu thuật cắt khối tá tụy
+* **Phạm vi cắt bỏ:** Cắt bỏ nửa dưới dạ dày (hang - môn vị), toàn bộ tá tràng và đầu hổng tràng, túi mật và ống mật chủ, đầu tụy ngang bờ trái tĩnh mạch mạc treo tràng trên.
+* **Tái lập lưu thông tiêu hóa:** Thực hiện 3 miệng nối: **Miệng nối tụy - hổng tràng**, **Miệng nối mật - hổng tràng**, **Miệng nối vị - tràng** (kiểu chữ C hoặc Roux-en-Y).
+* Có thể thực hiện bằng Mổ mở, Mổ nội soi hoặc Mổ Robot.
+
+#### 5.3.3. Hóa mô miễn dịch sau phẫu thuật
+Sử dụng các dấu ấn sinh học (*marker*) giúp xác định chính xác nguồn gốc u kích thước lớn:
+* **CK17:** Dương tính \\(> 50\%\\) trong ung thư tụy và OMC; dương tính \\(< 5\%\\) trong ung thư tá tràng và bóng Vater.
+* **MUC2 & CDX2:** Dương tính cao trong ung thư tá tràng (82% và 100%).
+* **MUC1 & CK17 cùng dương tính:** Gợi ý ung thư đầu tụy hoặc bóng Vater.
+
+### 5.4. Các biến chứng sớm của phẫu thuật cắt khối tá tụy
+Tỷ lệ tử vong sau mổ tại các trung tâm lớn đã giảm **\\(< 1\%\\)**, nhưng tỷ lệ biến chứng chung còn cao (**30 – 50%**):
+
+1. **Rò tụy (12%):** Định nghĩa khi nồng độ Amylase dịch dẫn lưu từ ngày hậu phẫu thứ 3 gấp **\\(\ge 3\text{ lần}\\)** giá trị Amylase máu bình thường.
+   * *Độ A:* Rò không triệu chứng, chỉ tăng Amylase dịch dẫn lưu.
+   * *Độ B:* Rò có triệu chứng, cần dùng kháng sinh, dinh dưỡng, Somatostatin.
+   * *Độ C:* Rò nặng gây nhiễm khuẩn huyết, suy đa tạng, thường phải mổ lại.
+2. **Chậm tống xuất dạ dày (18%):** Cần lưu thông dạ dày \\(> 10\text{ ngày}\\) hoặc nôn ói kéo dài.
+3. **Chảy máu sau mổ (5%):** Chảy máu sớm (trong 24h đầu do chảy miệng nối) hoặc Chảy máu muộn (tuần 1–2 do rò tụy ăn mòn mạch máu).
+4. **Áp xe trong ổ bụng (6%):** Hay gặp ở vùng dưới gan hoặc dưới hoành.
+5. **Nhiễm khuẩn vết mổ (5 – 20%):** Sưng nóng đỏ đau, chảy mủ vết mổ.
+6. **Rò mật (3%):** Bilirubin dịch dẫn lưu gấp \\(\ge 3\text{ lần}\\) Bilirubin máu từ ngày hậu phẫu thứ 3.
+7. **Rò dưỡng trấp (3%):** Dịch dẫn lưu đục như sữa từ ngày HP 3, Nồng độ Triglycerid dịch \\(\ge 110\text{ mg/dL}\\).
+
+### 5.5. Đái tháo đường sau phẫu thuật
+Cắt bỏ nhu mô đầu tụy làm mất các tiểu đảo Langerhans, gây rối loạn dung nạp Glucose. Tỷ lệ đái tháo đường sau cắt khối tá tụy dao động từ **20 – 50%**, được gọi là **Đái tháo đường típ 3c**. Sự sụt giảm incretin và hấp thu kém càng làm nặng thêm tình trạng đường huyết tiến triển trong vòng 2 năm sau mổ.
+
+---
+
+## 6. TIÊN LƯỢNG
+
+Tỷ lệ sống còn sau mổ đối với các trường hợp ung thư quanh bóng Vater được phẫu thuật triệt để:
+
+* **Tỷ lệ sống còn 5 năm:**
+  * Ung thư đầu tụy: **\\(< 15\%\\)** (thấp nhất).
+  * Ung thư đoạn cuối OMC: **27%**.
+  * Ung thư bóng Vater: **39%**.
+  * Ung thư tá tràng: **59%** (cao nhất).
+* **Tỷ lệ sống còn 10 năm:**
+  * Ung thư đầu tụy: **5%** (lên tới 14% nếu u biệt hóa tốt, diện cắt R0).
+  * Ung thư đoạn cuối OMC: **21%**.
+  * Ung thư bóng Vater: **25%**.
+  * Ung thư tá tràng: **59%**.
+
+---
+
+## 7. KẾT LUẬN
+
+Triệu chứng lâm sàng của ung thư quanh bóng Vater thường mơ hồ, không đặc hiệu; vàng da và sụt cân là những dấu hiệu hay gặp nhưng thường ở giai đoạn muộn. Chẩn đoán chính xác dựa vào sự kết hợp giữa lâm sàng, chẩn đoán hình ảnh hiện đại (CT phase tụy, MRCP, EUS) và giải phẫu bệnh. Phẫu thuật cắt khối tá tụy là phương pháp điều trị triệt căn duy nhất. Mặc dù tử vong phẫu thuật đã giảm dưới 1%, biến chứng sau mổ còn cao (30–50%). Đánh giá đúng khả năng cắt được u và lựa chọn bệnh nhân phù hợp trước mổ đóng vai trò tiên quyết để nâng cao tiên lượng và chất lượng sống cho người bệnh.
+
+---
+
+## TÓM TẮT NHANH
+
+1. Ung thư quanh bóng Vater bao gồm ung thư biểu mô tuyến xuất phát từ 4 vị trí trong bán kính 2 cm quanh nhú tá lớn: **Đầu tụy (40–60%)**, **Bóng Vater (10–20%)**, **Đoạn cuối OMC (10%)** và **Tá tràng D2 (5–10%)**.
+2. Triệu chứng lâm sàng điển hình nhất là **Vàng da tắc mật (75%)** và **Sụt cân (51%)**; Kháng nguyên **CA 19-9** có giá trị cao trong chẩn đoán, theo dõi tái phát và tiên lượng.
+3. **Chụp CT Scan (Pancreatic phase)** và **Siêu âm nội soi (EUS/EUS-FNA)** là hai phương tiện hàng đầu để chẩn đoán xác định, đánh giá di căn hạch, xâm lấn mạch máu và khả năng phẫu thuật triệt căn.
+4. **Phẫu thuật cắt khối tá tụy (Whipple)** kèm nạo hạch là phương pháp duy nhất điều trị triệt căn; u giáp biên cần phối hợp điều trị đa mô thức (hóa xạ trị tân bổ trợ trước mổ).
+5. Biến chứng sớm nguy hiểm nhất sau mổ cắt khối tá tụy là **Rò tụy (12%)**, được đánh giá nguy cơ qua thang điểm FRS; tiên lượng sống còn 5 năm cao nhất ở ung thư tá tràng (59%) và thấp nhất ở ung thư đầu tụy (< 15%).
+
+---
+
+## CÂU HỎI TỰ KIỂM TRA
+
+**(Trích từ bộ câu hỏi lượng giá của Bài 15 trong giáo trình):**
+
+**Câu 1:** Chọn đáp án SAI trong ung thư quanh bóng Vater?
+* A. Đột biến gen BRCA2 làm tăng nguy cơ ung thư tụy.
+* B. Tình trạng dinh dưỡng bệnh nhân lúc nhập viện có liên quan đến giai đoạn ung thư.
+* C. Đối với ung thư đầu tụy, CA 19-9 trước mổ (trị số (CEA x 85 + CA 19-9) > 845) có ý nghĩa tiên lượng thời gian sống còn sau mổ.
+* D. Ung thư tụy chiếm tỷ lệ khoảng 5-10% tổng số ung thư quanh bóng Vater.
+
+**Câu 2:** Theo AJCC Đánh giá giai đoạn T (tumor) của ung thư đoạn cuối ống mật chủ, chọn đáp án đúng?
+* A. T1 - Ung thư khu trú trong lòng ống mật chủ.
+* B. T2 - Ung thư xâm lấn thành lớp cơ ống mật chủ.
+* C. T3 - Ung thư xâm lấn thành ống mật chủ dày dưới 5 mm.
+* D. T4 - U xâm lấn ĐM thân tạng, ĐM mạc treo tràng trên hay ĐM gan chung.
+
+**Câu 3:** Chọn đáp án SAI trong ung thư quanh bóng Vater?
+* A. Siêu âm có độ nhạy cao (> 50%) trong phát hiện u quanh bóng Vater.
+* B. Hình ảnh ung thư tá tràng trên chụp CLVT là hẹp đoạn ngắn ở tá tràng, dạng vòng với bờ nhô ra, gây dãn tá tràng và dạ dày.
+* C. EUS có vai trò nổi trội hơn chụp CLVT trong đánh giá xâm lấn mạch máu và di căn hạch.
+* D. MRCP có thể giúp phân biệt viêm tụy mạn với ung thư tụy.
+
+**Câu 4:** Điều trị ung thư quanh bóng Vater, chọn đáp án ĐÚNG?
+* A. Đánh giá khả năng cắt được u chỉ dựa vào chụp CLVT trước mổ là đủ.
+* B. Nếu chưa có giải phẫu bệnh trước mổ, mà hình ảnh học nghĩ ung thư, thì nên sinh thiết tức thì trong mổ.
+* C. U giáp biên chỉ cần điều trị hóa trị, không đáp ứng với xạ trị.
+* D. Đối với trường hợp quá chỉ định phẫu thuật, Gemcitabine không giúp cải thiện thời gian sống còn.
+
+**Câu 5:** Điều trị chu phẫu đối với bệnh nhân ung thư quanh bóng Vater, chọn đáp án ĐÚNG?
+* A. Dẫn lưu đường mật trước mổ bằng ERCP không làm tăng biến chứng nhiễm khuẩn sau mổ cắt khối tá tụy.
+* B. Thang điểm FRS bao gồm đánh giá nồng độ Albumin và Bilirubin trước phẫu thuật.
+* C. Có thể hóa xạ trị tân bổ trợ trước phẫu thuật làm giảm giai đoạn bệnh.
+* D. Biến chứng rò tụy có thể được chẩn đoán sớm vào ngày hậu phẫu đầu tiên sau cắt khối tá tụy.
+
+---
+
+### ĐÁP ÁN CÂU HỎI TỰ KIỂM TRA
+*(Đối chiếu theo bảng đáp án chính thức ở cuối sách)*:
+1. **D** (Ung thư tụy chiếm tỷ lệ lớn nhất từ 40–60%, ung thư tá tràng mới chiếm 5–10%).
+2. **D** (Theo AJCC 8th: Ung thư đoạn cuối OMC giai đoạn T4 định nghĩa là U xâm lấn ĐM thân tạng, ĐM mạc treo tràng trên hay ĐM gan chung).
+3. **A** (Siêu âm bụng chỉ có độ nhạy khoảng 25% trong phát hiện u quanh bóng Vater, không phải độ nhạy cao > 50%).
+4. **B** (Trường hợp chưa có giải phẫu bệnh trước mổ nhưng hình ảnh học nghi ngờ ung thư thì tiến hành phẫu thuật thám sát và sinh thiết tức thì trong mổ).
+5. **C** (Đối với u giáp biên, hóa xạ trị tân bổ trợ trước phẫu thuật có vai trò làm giảm giai đoạn bệnh, tăng khả năng cắt u triệt để).
+
+---
+
+🩺 *Bài giảng Bài 15: Ung thư quanh bóng Vater đã hoàn thành. Nếu bạn cần bài giảng tiếp theo cho Bài 16: Ung thư tế bào gan hay các chủ đề ngoại khoa khác, hãy báo cho tôi biết nhé!*
