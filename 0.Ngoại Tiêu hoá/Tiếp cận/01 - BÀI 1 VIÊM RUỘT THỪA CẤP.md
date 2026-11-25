@@ -5,11 +5,7 @@ created: 2026-11-25
 nguon: NotebookLM
 ---
 
-# BÀI 1: VIÊM RUỘT THỪA CẤP
-
-**Tác giả:** Nguyễn Văn Hải, Dương Bá Lập
-
-**MỤC TIÊU BÀI HỌC:**
+## **MỤC TIÊU BÀI HỌC:**
 1. Giải thích được cơ chế bệnh sinh của viêm ruột thừa cấp.
 2. Nhận ra được các biểu hiện lâm sàng và cận lâm sàng của viêm ruột thừa chưa biến chứng và có biến chứng, các biến thể theo vị trí giải phẫu.
 3. Thực hiện được cách tiếp cận hệ thống để chẩn đoán viêm ruột thừa cấp.
@@ -29,7 +25,7 @@ Về tiên lượng, khi được chẩn đoán sớm và phẫu thuật kịp t
 
 ---
 
-## NHẮC LẠI PHÔI THAI, GIẢI PHẪU, SINH LÝ RUỘT THỪA
+### PHÔI THAI, GIẢI PHẪU, SINH LÝ RUỘT THỪA
 
 Về phôi thai học, từ tuần lễ thứ 6 của thai kỳ, ruột thừa bắt đầu hình thành như một phần trồi ra từ nụ manh tràng. Trong quá trình phát triển thai nhi và những năm đầu sau sinh, manh tràng phát triển nhanh hơn làm ruột thừa dần nằm lệch vào giữa so với đáy manh tràng, hướng về phía van hồi manh tràng.
 
@@ -45,7 +41,7 @@ Về chức năng sinh lý, ruột thừa không phải là cơ quan tàn tích 
 
 ---
 
-## BỆNH SINH
+### BỆNH SINH
 
 Bệnh sinh của viêm ruột thừa cấp được giải thích qua hai cơ chế chính:
 
