@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. MỞ ĐẦU
+## MỞ ĐẦU
 
 Gan là tạng đặc có kích thước và thể tích lớn nhất trong ổ bụng, do đó rất dễ bị tổn thương trong các bệnh cảnh chấn thương bụng kín cũng như vết thương thấu bụng. Về mặt dịch tễ, chấn thương gan chiếm khoảng **15 – 20%** tổng số các trường hợp chấn thương bụng. 
 
@@ -29,20 +29,20 @@ Trong những thập niên gần đây, chiến lược xử trí chấn thươn
 
 ---
 
-## 2. GIẢI PHẪU GAN
+## GIẢI PHẪU GAN
 
 Để hiểu rõ cơ chế chấn thương và các kỹ thuật cầm máu, chúng ta cần nắm vững các đặc điểm giải phẫu quan trọng của gan:
 
 * **Vị trí và liên quan:** Gan nằm ở khoang dưới hoành phải, lấn một phần sang khoang dưới hoành trái, thuộc phần thấp của lồng ngực và được bảo vệ bởi khung xương sườn. Do nằm sát cơ hoành và các dây chằng cố định, khi có lực xé hoặc giảm tốc đột ngột, gan dễ bị rách tại các vị trí bám này.
 * **Đặc điểm cấp máu kép (kép độc đáo):** Gan nhận máu từ 2 nguồn chính:
-  1. *Động mạch gan:* Xuất phát từ động mạch thân tạng \\(\rightarrow\\) ĐM gan chung \\(\rightarrow\\) ĐM gan riêng \\(\rightarrow\\) ĐM gan phải và trái. ĐM gan cung cấp **25 – 30%** lưu lượng máu nhưng mang đến **50%** lượng oxy cho gan.
+  1. *Động mạch gan:* Xuất phát từ động mạch thân tạng `→` ĐM gan chung `→` ĐM gan riêng `→` ĐM gan phải và trái. ĐM gan cung cấp **25 – 30%** lưu lượng máu nhưng mang đến **50%** lượng oxy cho gan.
   2. *Tĩnh mạch cửa:* Tạo bởi sự hợp lưu của TM mạc treo tràng trên và TM lách. TM cửa cung cấp **70 – 75%** lưu lượng máu và mang **50%** lượng oxy còn lại.
 * **Hệ thống dẫn lưu tĩnh mạch (Tĩnh mạch gan và TM chủ dưới):** Máu từ ĐM gan và TM cửa sau khi qua xoang tĩnh mạch tiểu thùy sẽ đổ về **3 tĩnh mạch gan chính** (TM gan phải, giữa và trái). Ba TM gan này dẫn lưu thẳng vào **tĩnh mạch chủ dưới (IVC)** đoạn sau gan, ngay trước khi IVC chui qua cơ hoành vào tâm nhĩ phải. Tổn thương các tĩnh mạch gan lớn hoặc IVC sau gan gây chảy máu cực kỳ dữ dội và rất nguy hiểm.
 * **Phân thùy gan theo Couinaud:** Dựa vào cấu trúc cây mạch máu – đường mật, gan được chia thành **8 hạ phân thùy** (từ I đến VIII). Việc nắm vững phân thùy giúp bác sĩ đánh giá chính xác mức độ tổn thương nhu mô trên phim chụp cắt lớp vi tính.
 
 ---
 
-## 3. CƠ CHẾ CHẤN THƯƠNG
+## CƠ CHẾ CHẤN THƯƠNG
 
 Chấn thương gan trong chấn thương bụng kín xảy ra do 3 cơ chế chính:
 
@@ -52,7 +52,7 @@ Chấn thương gan trong chấn thương bụng kín xảy ra do 3 cơ chế ch
 
 ---
 
-## 4. HÌNH THÁI TỔN THƯƠNG GAN
+## HÌNH THÁI TỔN THƯƠNG GAN
 
 Tổn thương gan do chấn thương được chia thành 4 hình thái giải phẫu bệnh chính:
 
@@ -63,7 +63,7 @@ Tổn thương gan do chấn thương được chia thành 4 hình thái giải 
 
 ---
 
-## 5. SINH LÝ BỆNH
+## SINH LÝ BỆNH
 
 Chấn thương gan thường nằm trong bệnh cảnh đa chấn thương. Rối loạn sinh lý bệnh phụ thuộc vào mức độ mất máu, tình trạng sốc và các tổn thương tạng phối hợp.
 
@@ -75,7 +75,7 @@ Suy gan cấp có thể bùng phát ở bệnh nhân chấn thương gan nặng,
 
 ---
 
-## 6. PHÂN LOẠI CHẤN THƯƠNG GAN
+## PHÂN LOẠI CHẤN THƯƠNG GAN
 
 Hiện nay, hệ thống phân loại chuẩn được áp dụng rộng rãi nhất trên toàn thế giới là **Bảng phân loại tổn thương gan theo Hội Ngoại khoa Chấn thương Hoa Kỳ (AAST - American Association for the Surgery of Trauma)** (mô tả năm 1989, cải biên năm 1994). Bảng phân loại này có mối tương quan chặt chẽ với tỷ lệ tử vong và nhu cầu phẫu thuật:
 
@@ -83,15 +83,15 @@ Hiện nay, hệ thống phân loại chuẩn được áp dụng rộng rãi nh
 
 | Độ | Loại tổn thương | Mô tả chi tiết tổn thương |
 | :---: | :---: | :--- |
-| **I** | Tụ máu | Dưới bao \\(< 10\%\\) diện tích bề mặt. |
-| | Rách nhu mô | Đường rách sâu \\(< 1\text{ cm}\\). |
-| **II** | Tụ máu | Dưới bao \\(10 - 50\%\\) diện tích bề mặt; hoặc tụ máu trong nhu mô đường kính \\(< 10\text{ cm}\\). |
-| | Rách nhu mô | Đường rách sâu \\(1 - 3\text{ cm}\\), chiều dài \\(< 10\text{ cm}\\). |
-| **III** | Tụ máu | Dưới bao \\(> 50\%\\) diện tích bề mặt hoặc đang lan rộng; vỡ khối tụ máu dưới bao/trong nhu mô; tụ máu trong nhu mô đường kính \\(> 10\text{ cm}\\). |
-| | Rách nhu mô | Đường rách nhu mô sâu \\(> 3\text{ cm}\\). |
+| **I** | Tụ máu | Dưới bao `< 10%` diện tích bề mặt. |
+| | Rách nhu mô | Đường rách sâu `< 1 cm`. |
+| **II** | Tụ máu | Dưới bao `10 - 50%` diện tích bề mặt; hoặc tụ máu trong nhu mô đường kính `< 10 cm`. |
+| | Rách nhu mô | Đường rách sâu `1 - 3 cm`, chiều dài `< 10 cm`. |
+| **III** | Tụ máu | Dưới bao `> 50%` diện tích bề mặt hoặc đang lan rộng; vỡ khối tụ máu dưới bao/trong nhu mô; tụ máu trong nhu mô đường kính `> 10 cm`. |
+| | Rách nhu mô | Đường rách nhu mô sâu `> 3 cm`. |
 | **IV** | Tụ máu | Vỡ khối máu tụ trong nhu mô và **đang chảy máu**. |
-| | Rách nhu mô | Vỡ \\(25 - 75\%\\) một thùy gan hoặc vỡ \\(1 - 3\\) phân thùy Couinaud trên cùng 1 thùy gan. |
-| **V** | Rách nhu mô | Vỡ \\(> 75\%\\) một thùy gan hoặc vỡ \\(> 3\\) phân thùy Couinaud trên cùng 1 thùy gan. |
+| | Rách nhu mô | Vỡ `25 - 75%` một thùy gan hoặc vỡ `1 - 3` phân thùy Couinaud trên cùng 1 thùy gan. |
+| **V** | Rách nhu mô | Vỡ `> 75%` một thùy gan hoặc vỡ `> 3` phân thùy Couinaud trên cùng 1 thùy gan. |
 | | Mạch máu | Tổn thương tĩnh mạch gan hoặc tĩnh mạch chủ dưới sau gan. |
 | **VI** | Mạch máu | **Gan bị đứt lìa** (*Hepatic avulsion*). |
 
@@ -99,7 +99,7 @@ Hiện nay, hệ thống phân loại chuẩn được áp dụng rộng rãi nh
 
 ---
 
-## 7. TRIỆU CHỨNG LÂM SÀNG
+## TRIỆU CHỨNG LÂM SÀNG
 
 Bệnh nhân chấn thương gan thường nhập viện trong bệnh cảnh đa thương. Có **4 Dấu hiệu lâm sàng gợi ý chấn thương gan** mà bác sĩ cần thăm khám kỹ:
 
@@ -112,13 +112,13 @@ Bệnh nhân chấn thương gan thường nhập viện trong bệnh cảnh đa
 
 ---
 
-## 8. CẬN LÂM SÀNG VÀ THỦ THUẬT CHẨN ĐOÁN
+## CẬN LÂM SÀNG VÀ THỦ THUẬT CHẨN ĐOÁN
 
-### 8.1. Xét nghiệm máu
+### Xét nghiệm máu
 * **Công thức máu:** Hồng cầu, Hemoglobin (Hb) và Hematocrit (Hct) giảm thể hiện tình trạng mất máu. *Lưu ý:* Chỉ số Hct ban đầu có thể chưa giảm ngay trong giờ đầu do cơ thể chưa kịp tái hấp thu dịch bù thể tích.
 * **Men gan:** AST và ALT tăng cao do sự giải phóng từ các tế bào gan bị dập vỡ.
 
-### 8.2. Siêu âm bụng
+### Siêu âm bụng
 Siêu âm có ưu điểm lớn: thực hiện nhanh tại giường, không xâm lấn, chi phí thấp, có thể lặp lại nhiều lần.
 
 **Siêu âm đánh giá trọng điểm trong chấn thương (FAST - Focused Assessment with Sonography for Trauma):**
@@ -130,7 +130,7 @@ Thực hiện khẩn cấp tại phòng cấp cứu nhằm phát hiện dịch (
 
 Hiện nay, siêu âm FAST đã gần như thay thế hoàn toàn thủ thuật chọc rửa ổ bụng.
 
-### 8.3. Chụp cắt lớp vi tính (CLVT / CT Scan)
+### Chụp cắt lớp vi tính (CLVT / CT Scan)
 Chụp CLVT bụng có tiêm thuốc cản quang là **phương tiện lựa chọn hàng đầu** để đánh giá chấn thương gan ở bệnh nhân có **huyết động ổn định**.
 
 **Các hình ảnh tổn thương trên CLVT:**
@@ -138,29 +138,29 @@ Chụp CLVT bụng có tiêm thuốc cản quang là **phương tiện lựa ch�
 * *Rách nhu mô:* Các đường giảm đậm độ không bắt thuốc cản quang, bờ gan không đều.
 * **Dấu thoát mạch (Extravasation / Blush sign):** Xuất hiện vùng tăng đậm độ (đồng đậm độ với mạch máu) nằm trong nhu mô hoặc trong khoang phúc mạc ở thì động mạch. Đây là bằng chứng cho thấy **mạch máu đang chảy máu cấp tính tiếp diễn**, là chỉ định vàng cho can thiệp tắc mạch (TAE).
 
-### 8.4. Chọc dò và chọc rửa ổ bụng
+### Chọc dò và chọc rửa ổ bụng
 Kỹ thuật chọc dò/chọc rửa ổ bụng ngày nay ít còn được sử dụng. Chỉ xem xét chỉ định ở cơ sở không có siêu âm/CT Scan hoặc khi siêu âm FAST không rõ ràng trên bệnh nhân có huyết động không ổn định.
 
 ---
 
-## 9. TIẾP CẬN ĐIỀU TRỊ CHẤN THƯƠNG GAN
+## TIẾP CẬN ĐIỀU TRỊ CHẤN THƯƠNG GAN
 
-### 9.1. Nguyên tắc điều trị
+### Nguyên tắc điều trị
 * **Điều trị bảo tồn không mổ (NOM):** Là nguyên tắc ưu tiên hàng đầu cho tất cả các trường hợp chấn thương gan có **huyết động ổn định**, bất kể phân độ tổn thương AAST trên phim CT Scan.
 * **Phẫu thuật:** Chỉ chỉ định cho bệnh nhân có **huyết động không ổn định** hoặc điều trị bảo tồn thất bại.
 
-### 9.2. Tiếp cận ban đầu
+### Tiếp cận ban đầu
 Thực hiện theo quy trình Cấp cứu chấn thương nâng cao (ATLS):
 * Đảm bảo đường thở (A), hô hấp (B), tuần hoàn (C).
 * Bù dịch tích cực bằng nhiều đường truyền tĩnh mạch ngoại biên kim lớn.
 * **Tuyệt đối tránh hạ thân nhiệt** trong quá trình hồi sức (vì hạ thân nhiệt làm trầm trọng thêm rối loạn đông máu).
 * Chủ động phát hiện và điều chỉnh rối loạn đông máu, toan hóa máu và điện giải (Tam chứng tử vong trong chấn thương: Hạ thân nhiệt - Toan chuyển hóa - Rối loạn đông máu).
 
-### 9.3. Bệnh nhân có huyết động KHÔNG ổn định
-Định nghĩa: Huyết áp tâm thu \\(< 90\text{ mmHg}\\), mạch nhanh và **không đáp ứng** sau khi đã hồi sức truyền tĩnh mạch nhanh 2 lít dịch tinh thể.
+### Bệnh nhân có huyết động KHÔNG ổn định
+Định nghĩa: Huyết áp tâm thu `< 90 mmHg`, mạch nhanh và **không đáp ứng** sau khi đã hồi sức truyền tĩnh mạch nhanh 2 lít dịch tinh thể.
 * **Thái độ xử trí:** Chuyển ngay vào phòng mổ để **PHẪU THUẬT CẤP CỨU KHẨN CẤP**.
 
-### 9.4. Bệnh nhân có huyết động ỔN ĐỊNH
+### Bệnh nhân có huyết động ỔN ĐỊNH
 Chiếm khoảng **85%** các trường hợp chấn thương gan.
 * Bệnh nhân được chụp CLVT bụng có cản quang để phân độ AAST:
   * *Độ I, II, III:* Chuyển về khoa phòng theo dõi sát lâm sàng, Hct và siêu âm.
@@ -191,32 +191,32 @@ Chiếm khoảng **85%** các trường hợp chấn thương gan.
 
 ---
 
-## 10. ĐIỀU TRỊ PHẪU THUẬT CHẤN THƯƠNG GAN
+## ĐIỀU TRỊ PHẪU THUẬT CHẤN THƯƠNG GAN
 
-### 10.1. Chuẩn bị phẫu thuật và đường mổ
+### Chuẩn bị phẫu thuật và đường mổ
 * **Đường mổ:** Mở bụng đường giữa trên và dưới rốn. Khi cần thiết có thể mở rộng sang phải thành đường chữ L hoặc chữ T để bộc lộ toàn bộ gan và khoang dưới hoành. Dùng khung kéo sườn Rochard bộc lộ phẫu trường.
 
-### 10.2. Điều trị phẫu thuật chấn thương gan nhỏ (Độ I, II)
+### Điều trị phẫu thuật chấn thương gan nhỏ (Độ I, II)
 * Thường phát hiện tình cờ khi mổ do tổn thương tạng khác đi kèm.
 * Nếu vết vỡ đã tự cầm máu: Không cần can thiệp thêm.
 * Nếu chảy máu rỉ rả: Cầm máu bằng đốt điện, tia argon, dùng vật liệu tự tan (Surgicel, màng collagen, keo sinh học), hoặc khâu phục hồi nhu mô bằng mũi khâu hình **số 8** (chỉ số 0 kim tù).
 
-### 10.3. Điều trị phẫu thuật chấn thương gan lớn (Độ III, IV, V)
+### Điều trị phẫu thuật chấn thương gan lớn (Độ III, IV, V)
 
-#### 10.3.1. Tiếp cận tổn thương và xử trí bước đầu
+#### Tiếp cận tổn thương và xử trí bước đầu
 * Khi mở bụng, áp lực trong ổ bụng giảm đột ngột làm máu bùng chảy ra ngoài.
 * **Xử trí khẩn cấp:** Phẫu thuật viên dùng hai bàn tay **chẹn gạc ép chặt quanh gan tạm thời** để cầm máu cấp tốc, đồng thời yêu cầu gây mê hồi sức tích cực truyền máu/dịch.
 * **Thủ thuật Pringle (Kẹp cuống gan):** Nếu máu vẫn tiếp tục chảy dữ dội, dùng kẹp Vascular Clamp kẹp toàn bộ cuống gan (chứa ĐM gan riêng và TM cửa). *Quy tắc kẹp:* **Kẹp 20 phút, mở 20 phút** để tái tưới máu gan. (Lưu ý: Thủ thuật Pringle không cầm được máu nếu nguồn chảy ra từ TM gan hoặc TM chủ dưới sau gan).
 
-#### 10.3.2. Các kỹ thuật cầm máu tổn thương nhu mô gan lớn
+#### Các kỹ thuật cầm máu tổn thương nhu mô gan lớn
 1. **Kỹ thuật chẹn gạc quanh gan (*Packing*):**
    * Là kỹ thuật cốt lõi trong **Phẫu thuật kiểm soát tổn thương (*Damage control surgery*)**.
    * Cắt các dây chằng treo gan, chèn các gạc lớn quanh gan tạo lực ép ngưng chảy máu. Mục đích: Cầm máu nhanh để kết thúc cuộc mổ sớm, đưa bệnh nhân về ICU hồi sức chống rối loạn đông máu, hạ thân nhiệt, toan hóa.
    * *Thời điểm rút gạc:* Rút gạc mổ lại vào **ngày thứ 2 – 3 (sau 24 – 48 giờ)**. Rút sớm quá dễ chảy máu lại; giữ muộn quá tăng nguy cơ áp xe tồn lưu.
-2. **Khâu gan:** Phù hợp tổn thương sâu \\(< 3\text{ cm}\\) dùng chỉ 0 kim tù. Tuyệt đối không khâu mù quá sâu vì dễ gây ứ máu tụ, tụ mật hoặc rách sâu mạch máu lớn trong gan.
+2. **Khâu gan:** Phù hợp tổn thương sâu `< 3 cm` dùng chỉ 0 kim tù. Tuyệt đối không khâu mù quá sâu vì dễ gây ứ máu tụ, tụ mật hoặc rách sâu mạch máu lớn trong gan.
 3. **Tìm và thắt mạch máu trong nhu mô:** Dùng 2 ngón tay tách nhẹ nhu mô gan (*Finger-fracture*) bộc lộ trực tiếp mạch máu đang chảy để kẹp/khâu thắt.
 4. **Chẹn mạc nối lớn:** Đặt cuộn mạc nối lớn có cuống mạch máu nuôi lấp đầy khoảng khuyết vỡ nhu mô rồi khâu cố định.
-5. **Cắt gan:** Chỉ chỉ định trong **10%** trường hợp chấn thương cực kỳ nặng (vỡ vụn \\(> 75\%\\) thùy gan, hoại tử nhu mô diện rộng, hoặc rách đứt nhánh chính mạch máu/đường mật).
+5. **Cắt gan:** Chỉ chỉ định trong **10%** trường hợp chấn thương cực kỳ nặng (vỡ vụn `> 75%` thùy gan, hoại tử nhu mô diện rộng, hoặc rách đứt nhánh chính mạch máu/đường mật).
 6. **Thắt động mạch gan:** Áp dụng khi chảy máu sâu khó tiếp cận mà khi kẹp Pringle thấy máu ngừng chảy rõ rệt.
 7. **Ghép gan:** Chỉ định rất hạn hẹp khi gan vỡ dập hoàn toàn không thể cứu chữa.
 
@@ -224,9 +224,9 @@ Chiếm khoảng **85%** các trường hợp chấn thương gan.
 
 ---
 
-## 11. BIẾN CHỨNG SAU CHẤN THƯƠNG GAN
+## BIẾN CHỨNG SAU CHẤN THƯƠNG GAN
 
-### 11.1. Biến chứng của chấn thương gan điều trị bảo tồn (NOM)
+### Biến chứng của chấn thương gan điều trị bảo tồn (NOM)
 Gặp ở khoảng **12,6%** các trường hợp (chủ yếu ở vỡ gan nặng độ V):
 * **Rò mật** (hay gặp nhất).
 * **Áp xe quanh gan.**
@@ -235,7 +235,7 @@ Gặp ở khoảng **12,6%** các trường hợp (chủ yếu ở vỡ gan nặ
 * **Chảy máu đường mật (*Hemobilia*):** Tam chứng Sandblom (Đau hạ sườn phải - Vàng da - Chảy máu tiêu hóa).
 * **Hội chứng đáp ứng viêm toàn thân (SIRS).**
 
-### 11.2. Biến chứng liên quan phẫu thuật chấn thương gan
+### Biến chứng liên quan phẫu thuật chấn thương gan
 * Chảy máu tái phát trong ổ bụng (2 – 7%).
 * **Hội chứng khoang bụng (*Abdominal Compartment Syndrome - ACS*)** (đặc biệt sau chẹn gạc quá chặt).
 * Chảy máu đường mật (0,3 – 1,2%).

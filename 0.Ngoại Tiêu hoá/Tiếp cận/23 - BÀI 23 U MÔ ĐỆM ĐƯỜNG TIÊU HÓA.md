@@ -20,7 +20,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 * **Định nghĩa:** U mô đệm đường tiêu hóa (*Gastrointestinal Stromal Tumor - GIST / UMĐĐTH*) là loại u dưới niêm mạc thường gặp nhất của ống tiêu hóa. 
 * **Vị trí xuất hiện:** U có thể phát sinh tại bất kỳ đoạn nào của ống tiêu hóa, trong đó **dạ dày là vị trí thường gặp nhất** (chiếm khoảng 60%), tiếp theo là ruột non (20 – 30%), thực quản, đại trực tràng, mạc treo, mạc nối và phúc mạc.
@@ -28,9 +28,9 @@ nguon: NotebookLM
 
 ---
 
-## 2. TẦN SUẤT VÀ DỊCH TỄ
+## TẦN SUẤT VÀ DỊCH TỄ
 
-* **Xuất độ:** GIST thuộc nhóm khối u hiếm gặp với tỷ lệ mắc mới ước tính khoảng **1/100.000 dân/năm** đối với các trường hợp có biểu hiện lâm sàng. Tuy nhiên, nếu tính cả các tổn thương nhỏ (đường kính \\(\ge 1\text{ cm}\\)) phát hiện tình cờ qua nội soi hoặc tử thi ở người trung niên và lớn tuổi thì tỷ lệ này lớn hơn rất nhiều.
+* **Xuất độ:** GIST thuộc nhóm khối u hiếm gặp với tỷ lệ mắc mới ước tính khoảng **1/100.000 dân/năm** đối với các trường hợp có biểu hiện lâm sàng. Tuy nhiên, nếu tính cả các tổn thương nhỏ (đường kính `≥ 1 cm`) phát hiện tình cờ qua nội soi hoặc tử thi ở người trung niên và lớn tuổi thì tỷ lệ này lớn hơn rất nhiều.
 * **Đặc điểm tuổi và giới:** Tỷ lệ mắc ở nam cao hơn nữ một chút, độ tuổi trung bình khi chẩn đoán là **60 – 65 tuổi**.
 * **GIST ở trẻ em (Thể đặc biệt):** Rất hiếm gặp và mang đặc điểm sinh học phân tử hoàn toàn khác biệt với người lớn:
   * Thường gặp ở **bé gái**.
@@ -56,23 +56,23 @@ nguon: NotebookLM
 
 ---
 
-## 3. CHẨN ĐOÁN, BỆNH HỌC VÀ SINH HỌC PHÂN TỬ
+## CHẨN ĐOÁN, BỆNH HỌC VÀ SINH HỌC PHÂN TỬ
 
 Chẩn đoán GIST hoàn chỉnh là sự tổng hợp giữa lâm sàng, hình ảnh học, giải phẫu bệnh và phân tích sinh học phân tử:
 * **Hóa mô miễn dịch:** Tiêu chuẩn vàng để chẩn đoán GIST là bộc lộ dương tính với thụ thể **CD117 (c-kit)** hoặc **DOG1**. Khoảng **5%** trường hợp GIST có CD117 âm tính (thường gặp ở nhóm đột biến PDGFRA).
-* **Chỉ số phân bào (*Mitotic Index*):** Đóng vai trò tiên lượng mức độ ác tính. Được đánh giá bằng cách đếm số lượng phân bào trên **50 quang trường độ phóng đại cao (50 HPF - *High Power Field*)**, tương đương tổng diện tích \\(5\text{ mm}^2\\) khối u.
+* **Chỉ số phân bào (*Mitotic Index*):** Đóng vai trò tiên lượng mức độ ác tính. Được đánh giá bằng cách đếm số lượng phân bào trên **50 quang trường độ phóng đại cao (50 HPF - *High Power Field*)**, tương đương tổng diện tích `5 mm²` khối u.
 * **Phân tích đột biến gen:**
   * *Đột biến KIT (chiếm ~80%):* Thường gặp ở Exon 11 (tiên lượng tốt nhất với Imatinib), Exon 9 (cần dùng liều Imatinib gấp đôi - 800 mg/ngày), Exon 13 và Exon 17.
   * *Đột biến PDGFRA (chiếm ~10%):* Thường gặp ở Exon 18, Exon 12 và Exon 14. Đặc biệt, đột biến **PDGFRA D842V ở Exon 18** gây kháng hoàn toàn với Imatinib.
 
 ### Khuyến cáo về việc chẩn đoán của Hội Điều trị GIST Anh quốc
-1. Tất cả khối u dưới niêm mạc đường tiêu hóa có đường kính **\\(> 2\text{ cm}\\)** bắt buộc phải được thăm khám chẩn đoán (bằng siêu âm qua ngả nội soi EUS và sinh thiết kim nhỏ EUS-FNAB / sinh thiết lõi).
+1. Tất cả khối u dưới niêm mạc đường tiêu hóa có đường kính **`> 2 cm`** bắt buộc phải được thăm khám chẩn đoán (bằng siêu âm qua ngả nội soi EUS và sinh thiết kim nhỏ EUS-FNAB / sinh thiết lõi).
 2. Chẩn đoán giải phẫu bệnh phải do chuyên gia có kinh nghiệm thực hiện, bao gồm nhuộm hóa mô miễn dịch và phân tích đột biến gen.
 3. Trước khi bắt đầu điều trị bằng thuốc nhắm trúng đích Imatinib, **bắt buộc phải phân tích đột biến gen** để loại trừ các trường hợp mang đột biến kháng thuốc (như *PDGFRA D842V*).
 
 ---
 
-## 4. ĐÁNH GIÁ GIAI ĐOẠN
+## ĐÁNH GIÁ GIAI ĐOẠN
 
 Mạng lưới Ung thư Quốc gia Hoa Kỳ (NCCN 2019) phân loại giai đoạn GIST dựa trên hệ thống **TNM kết hợp với Chỉ số phân bào**:
 
@@ -81,12 +81,12 @@ Mạng lưới Ung thư Quốc gia Hoa Kỳ (NCCN 2019) phân loại giai đoạ
 
 | Giai đoạn | Kích thước U (T) | Di căn Hạch (N) | Di căn Xa (M) | Chỉ số phân bào |
 | :---: | :--- | :---: | :---: | :---: |
-| **IA** | T1 (\\(\le 2\text{ cm}\\)) hoặc T2 (\\(> 2 - 5\text{ cm}\\)) | N0 | M0 | Thấp (\\(\le 5/50\text{ HPF}\\)) |
-| **IB** | T3 (\\(> 5 - 10\text{ cm}\\)) | N0 | M0 | Thấp (\\(\le 5/50\text{ HPF}\\)) |
-| **II** | T1 hoặc T2 | N0 | M0 | Cao (\\(> 5/50\text{ HPF}\\)) |
-| | T4 (\\(> 10\text{ cm}\\)) | N0 | M0 | Thấp (\\(\le 5/50\text{ HPF}\\)) |
-| **IIIA** | T3 | N0 | M0 | Cao (\\(> 5/50\text{ HPF}\\)) |
-| **IIIB** | T4 | N0 | M0 | Cao (\\(> 5/50\text{ HPF}\\)) |
+| **IA** | T1 (`≤ 2 cm`) hoặc T2 (`> 2 - 5 cm`) | N0 | M0 | Thấp (`≤ 5/50 HPF`) |
+| **IB** | T3 (`> 5 - 10 cm`) | N0 | M0 | Thấp (`≤ 5/50 HPF`) |
+| **II** | T1 hoặc T2 | N0 | M0 | Cao (`> 5/50 HPF`) |
+| | T4 (`> 10 cm`) | N0 | M0 | Thấp (`≤ 5/50 HPF`) |
+| **IIIA** | T3 | N0 | M0 | Cao (`> 5/50 HPF`) |
+| **IIIB** | T4 | N0 | M0 | Cao (`> 5/50 HPF`) |
 | **IV** | Bất kỳ T | N1 | M0 | Bất kỳ |
 | | Bất kỳ T | Bất kỳ N | M1 | Bất kỳ |
 
@@ -95,11 +95,11 @@ Mạng lưới Ung thư Quốc gia Hoa Kỳ (NCCN 2019) phân loại giai đoạ
 
 | Giai đoạn | Kích thước U (T) | Di căn Hạch (N) | Di căn Xa (M) | Chỉ số phân bào |
 | :---: | :--- | :---: | :---: | :---: |
-| **I** | T1 hoặc T2 | N0 | M0 | Thấp (\\(\le 5/50\text{ HPF}\\)) |
-| **II** | T3 | N0 | M0 | Thấp (\\(\le 5/50\text{ HPF}\\)) |
-| **IIIA** | T1 | N0 | M0 | Cao (\\(> 5/50\text{ HPF}\\)) |
-| | T4 | N0 | M0 | Thấp (\\(\le 5/50\text{ HPF}\\)) |
-| **IIIB** | T2, T3 hoặc T4 | N0 | M0 | Cao (\\(> 5/50\text{ HPF}\\)) |
+| **I** | T1 hoặc T2 | N0 | M0 | Thấp (`≤ 5/50 HPF`) |
+| **II** | T3 | N0 | M0 | Thấp (`≤ 5/50 HPF`) |
+| **IIIA** | T1 | N0 | M0 | Cao (`> 5/50 HPF`) |
+| | T4 | N0 | M0 | Thấp (`≤ 5/50 HPF`) |
+| **IIIB** | T2, T3 hoặc T4 | N0 | M0 | Cao (`> 5/50 HPF`) |
 | **IV** | Bất kỳ T | N1 | M0 | Bất kỳ |
 | | Bất kỳ T | Bất kỳ N | M1 | Bất kỳ |
 
@@ -108,7 +108,7 @@ Bảng phân loại của Viện Bệnh học Quân đội Hoa Kỳ (*Armed Forc
 
 ---
 
-## 5. TRIỆU CHỨNG LÂM SÀNG
+## TRIỆU CHỨNG LÂM SÀNG
 
 Biểu hiện lâm sàng của GIST rất đa dạng và phụ thuộc vào vị trí giải phẫu, kích thước khối u và hướng phát triển.
 
@@ -124,18 +124,18 @@ Biểu hiện lâm sàng của GIST rất đa dạng và phụ thuộc vào vị
 
 ---
 
-## 6. TRIỆU CHỨNG CẬN LÂM SÀNG
+## TRIỆU CHỨNG CẬN LÂM SÀNG
 
-### 6.1. Siêu âm
+### Siêu âm
 Siêu âm bụng thông thường có giá trị thấp do hơi trong ống tiêu hóa che lấp. Phương pháp **Siêu âm bụng phối hợp chất tương phản (DCUS)** uống làm căng thành dạ dày giúp cải thiện khả năng quan sát khối u.
 
-### 6.2. Nội soi và Siêu âm qua ngả nội soi (EUS)
+### Nội soi và Siêu âm qua ngả nội soi (EUS)
 
-#### 6.2.1. Nội soi dạ dày
+#### Nội soi dạ dày
 Phát hiện khối u dưới niêm mạc nhô vào lòng dạ dày, dạng hình cầu hoặc bán cầu, bề mặt niêm mạc phủ trơn láng (đôi khi có vết loét ở đỉnh rỉ máu). Tuy nhiên, nội soi ống mềm thông thường không đánh giá được u xuất phát từ lớp nào và không quan sát được phần u phát triển ra ngoài thành dạ dày.
 
-#### 6.2.2. Siêu âm qua ngả nội soi (EUS)
-Là **phương tiện hình ảnh quan trọng nhất** để chẩn đoán u dưới niêm mạc với độ chính xác **\\(> 90\%\)**. EUS phân chia thành dạ dày thành **5 lớp giải phẫu**:
+#### Siêu âm qua ngả nội soi (EUS)
+Là **phương tiện hình ảnh quan trọng nhất** để chẩn đoán u dưới niêm mạc với độ chính xác **`> 90%`**. EUS phân chia thành dạ dày thành **5 lớp giải phẫu**:
 
 ```
                        [5 LỚP THÀNH DẠ DÀY TRÊN EUS]
@@ -150,49 +150,49 @@ Biểu mô niêm mạc Cơ niêm            Dưới niêm mạc      Lớp cơ t
 
 * **Hình ảnh GIST trên EUS:** Khối u giảm phản âm (*hypoechoic*), bờ rõ, xuất phát từ **Lớp thứ 4 (Lớp cơ trơn)** của thành dạ dày.
 
-### 6.3. Sinh thiết bằng kim nhỏ qua siêu âm nội soi (EUS-FNAB)
+### Sinh thiết bằng kim nhỏ qua siêu âm nội soi (EUS-FNAB)
 * Cần thiết để lấy mẫu mô nhuộm hóa mô miễn dịch (CD117, DOG1) và phân tích đột biến gen trước mổ.
-* **Độ chính xác theo kích thước u:** Khối u **\\(> 4\text{ cm}\\)** đạt độ chính xác **100%**; khối u 2 – 4 cm đạt 86%; khối u \\(< 2\text{ cm}\\) đạt 71%.
+* **Độ chính xác theo kích thước u:** Khối u **`> 4 cm`** đạt độ chính xác **100%**; khối u 2 – 4 cm đạt 86%; khối u `< 2 cm` đạt 71%.
 
-### 6.4. Chụp cắt lớp vi tính và Cộng hưởng từ
+### Chụp cắt lớp vi tính và Cộng hưởng từ
 
-#### 6.4.1. Chụp cắt lớp vi tính (CT Scan)
+#### Chụp cắt lớp vi tính (CT Scan)
 * Đánh giá chính xác hướng phát triển của u: vào lòng dạ dày, ra ngoài phúc mạc hay dạng quả chùy (hỗn hợp).
 * *Đặc điểm GIST trên CT:* Khối u giàu mạch máu, ngấm thuốc cản quang không đồng nhất (do hoại tử, xuất huyết, thoái hóa dạng nang bên trong u), phát hiện di căn gan và phúc mạc.
 
-#### 6.4.2. Chụp cộng hưởng từ (MRI)
+#### Chụp cộng hưởng từ (MRI)
 * Cho độ phân giải mô mềm xuất sắc. Sử dụng **Chỉ số hệ số khuếch tán ADC (*Apparent Diffusion Coefficient*)** trên chuỗi xung khuếch tán (DWI) để tiên lượng mức độ ác tính trước mổ:
 
 **Bảng 3. Liên quan giữa hệ số khuếch tán ADC và mức độ ác tính trên MRI**
 
-| Nhóm tiên lượng độ ác tính | Hệ số khuếch tán ADC (\\(\times 10^{-3}\text{ mm}^2/\text{s}\\)) |
+| Nhóm tiên lượng độ ác tính | Hệ số khuếch tán ADC (`× 10⁻³ mm²/s`) |
 | :--- | :---: |
-| **Ác tính rất thấp** | \\(1,38 \pm 0,17\\) |
-| **Ác tính thấp** | \\(1,19 \pm 0,27\\) |
-| **Ác tính trung bình** | \\(1,14 \pm 0,11\\) |
-| **Ác tính cao** | **\\(0,93 \pm 0,18\\)** *(Chỉ số ADC càng thấp, độ ác tính càng cao)* |
+| **Ác tính rất thấp** | `1,38 ± 0,17` |
+| **Ác tính thấp** | `1,19 ± 0,27` |
+| **Ác tính trung bình** | `1,14 ± 0,11` |
+| **Ác tính cao** | **`0,93 ± 0,18`** *(Chỉ số ADC càng thấp, độ ác tính càng cao)* |
 
-#### 6.4.3. Chụp hình cắt lớp phát xạ Positron / Chụp cắt lớp vi tính (PET/CT)
-Sử dụng chất cản quang **\\(^{18}\text{F-FDG}\\)** đánh giá chuyển hóa Glucose trong khối u. PET/CT rất nhạy để đánh giá độ ác tính trước mổ và là **phương tiện tốt nhất để đánh giá sớm mức độ đáp ứng điều trị thuốc Imatinib** (sau vài ngày đến vài tuần điều trị).
+#### Chụp hình cắt lớp phát xạ Positron / Chụp cắt lớp vi tính (PET/CT)
+Sử dụng chất cản quang **`¹⁸F-FDG`** đánh giá chuyển hóa Glucose trong khối u. PET/CT rất nhạy để đánh giá độ ác tính trước mổ và là **phương tiện tốt nhất để đánh giá sớm mức độ đáp ứng điều trị thuốc Imatinib** (sau vài ngày đến vài tuần điều trị).
 
 ---
 
-## 7. ĐIỀU TRỊ
+## ĐIỀU TRỊ
 
-### 7.1. Xử trí khối u tại chỗ và nguyên tắc xử lý
+### Xử trí khối u tại chỗ và nguyên tắc xử lý
 
 #### Nguyên tắc phẫu thuật ung thư học đối với GIST khu trú:
 1. Mục tiêu phẫu thuật là cắt bỏ toàn bộ khối u đạt **bờ cắt an toàn vi thể R0**.
-2. **Không cần nạo vét hạch vùng** một cách hệ thống (do tỷ lệ di căn hạch của GIST rất thấp \\(< 1\%\)), trừ khi sờ thấy hạch phì đại bất thường.
+2. **Không cần nạo vét hạch vùng** một cách hệ thống (do tỷ lệ di căn hạch của GIST rất thấp `< 1%`), trừ khi sờ thấy hạch phì đại bất thường.
 3. Chỉ cần **cắt một phần tạng mang u kiểu hình chêm (Wedge resection)** với diện cắt sạch, rất hiếm khi có chỉ định cắt rộng rãi hoặc cắt toàn bộ dạ dày.
 4. **Thao tác cực kỳ nhẹ nhàng, tuyệt đối không làm vỡ bao khối u** trong mổ (vỡ bao u làm rơi rãi tế bào ung thư vào ổ bụng, khiến tỷ lệ tái phát gần như 100%).
 5. Nếu kết quả vi thể sau mổ ghi nhận diện cắt còn tế bào u (R1), **không có chỉ định phẫu thuật lại ngay** mà theo dõi hoặc điều trị bổ trợ bằng Imatinib.
 
-#### 7.1.1. Cắt phần dạ dày mang u qua nội soi tiêu hóa
+#### Cắt phần dạ dày mang u qua nội soi tiêu hóa
 Các kỹ thuật cắt u qua nội soi ống mềm: EBL (thắt vòng cao su), ESD (cắt lớp dưới niêm mạc), ESE (đào sâu lấy u), STER (đường hầm dưới niêm mạc), EFTR (cắt trọn thành dạ dày).
-* *Chỉ định:* Áp dụng cho các u nhỏ \\(< 3,5\text{ cm}\\) nằm nông ở niêm mạc/dưới niêm mạc.
+* *Chỉ định:* Áp dụng cho các u nhỏ `< 3,5 cm` nằm nông ở niêm mạc/dưới niêm mạc.
 
-#### 7.1.2. Phẫu thuật nội soi
+#### Phẫu thuật nội soi
 * **Phẫu thuật nội soi cắt dạ dày hình chêm (*Laparoscopic Wedge Resection - LWR*):** Được Kitano mô tả năm 2005, là phẫu thuật tiêu chuẩn lựa chọn hàng đầu cho các u GIST dạ dày khu trú.
 * **Kỹ thuật "Nâng và cắt" (*Lift-and-cut method*):** Được Okumura mô tả năm 2016, chỉ cắt mở lớp thanh mạc - cơ, nâng khối u lên để cắt kín. Ưu điểm: Không làm rò rỉ dịch dạ dày vào ổ bụng, tránh nhiễm trùng và bảo tồn tối đa nhu mô dạ dày còn lại.
 * **Phẫu thuật phối hợp phẫu thuật nội soi và nội soi tiêu hóa (LECS):** Cắt niêm mạc xung quanh u qua nội soi ống mềm, phẫu thuật nội soi rạch thanh cơ và khâu đóng lỗ thủng thành dạ dày.
@@ -212,7 +212,7 @@ Các kỹ thuật cắt u qua nội soi ống mềm: EBL (thắt vòng cao su), 
 
 ---
 
-### 7.2. Xử trí các khối u mô đệm đường tiêu hóa tiến triển hay di căn
+### Xử trí các khối u mô đệm đường tiêu hóa tiến triển hay di căn
 
 * **Liệu pháp nhắm trúng đích bước 1 với Imatinib:**
   * **Imatinib** (thuốc ức chế đa Kinase - TKI) là lựa chọn tiêu chuẩn hàng đầu cho các trường hợp GIST không thể phẫu thuật, tiến triển tại chỗ hoặc đã di căn.
@@ -227,7 +227,7 @@ Các kỹ thuật cắt u qua nội soi ống mềm: EBL (thắt vòng cao su), 
 
 ---
 
-## 8. TIÊN LƯỢNG
+## TIÊN LƯỢNG
 
 Theo Bảng phân loại của Hiệp hội Quốc tế Phòng Chống Ung thư (UICC):
 * **Các yếu tố tiên lượng chính yếu:** Vị trí giải phẫu khối u (dạ dày có tiên lượng tốt nhất, ruột non trung bình, trực tràng xấu nhất), Kích thước khối u, Chỉ số phân bào, Độ sâu xâm lấn, Di căn xa (M).
@@ -235,7 +235,7 @@ Theo Bảng phân loại của Hiệp hội Quốc tế Phòng Chống Ung thư 
 
 ---
 
-## 9. KẾT LUẬN
+## KẾT LUẬN
 
 Trong thập kỷ qua, việc ứng dụng các liệu pháp nhắm trúng đích (Imatinib, Sunitinib, Regorafenib) kết hợp với xét nghiệm sinh học phân tử, hóa mô miễn dịch (CD117, DOG1) và các kỹ thuật phẫu thuật nội soi bảo tồn (LWR, LECS) đã tạo nên bước tiến ngoạn mục trong điều trị GIST, giúp kéo dài thời gian sống không bệnh và nâng cao chất lượng cuộc sống cho người bệnh.
 
@@ -245,9 +245,9 @@ Trong thập kỷ qua, việc ứng dụng các liệu pháp nhắm trúng đíc
 
 | Phân loại nội dung | Tóm tắt khuyến cáo lâm sàng | Cấp độ khuyến cáo |
 | :--- | :--- | :---: |
-| **Chẩn đoán & Giải phẫu bệnh** | • Siêu âm qua nội soi (EUS) là tiêu chuẩn đánh giá u dưới niêm mạc \\(< 2\text{ cm}\\).<br>• Tiến hành sinh thiết EUS-FNAB hoặc phẫu thuật với u \\(\ge 2\text{ cm}\\).<br>• Bắt buộc nhuộm hóa mô miễn dịch (CD117, DOG1) và phân tích đột biến gen. | [IV, C]<br>[IV, C]<br>[II, A] |
+| **Chẩn đoán & Giải phẫu bệnh** | • Siêu âm qua nội soi (EUS) là tiêu chuẩn đánh giá u dưới niêm mạc `< 2 cm`.<br>• Tiến hành sinh thiết EUS-FNAB hoặc phẫu thuật với u `≥ 2 cm`.<br>• Bắt buộc nhuộm hóa mô miễn dịch (CD117, DOG1) và phân tích đột biến gen. | [IV, C]<br>[IV, C]<br>[II, A] |
 | **GIST tại chỗ, khu trú** | • Phẫu thuật cắt trọn phần tạng mang u (R0), không cần nạo hạch hệ thống.<br>• Nếu nguy cơ tái phát cao, điều trị bổ trợ bằng Imatinib trong 36 tháng (3 năm).<br>• Không dùng Imatinib cho nhóm có đột biến *PDGFRA D842V* hoặc NF1/SDH.<br>• Nếu u lớn khó đạt R0, dùng Imatinib trước mổ 6 – 12 tháng để thu nhỏ u rồi phẫu thuật. | [III, A]<br>[I, A]<br>[IV, D]<br>[III, A] |
-| **GIST tiến triển, di căn** | • Imatinib 400 mg/ngày là điều trị tiêu chuẩn đầu tay bước 1.<br>• Đột biến *KIT Exon 9* dùng Imatinib liều cao 800 mg/ngày.<br>• Thất bại bước 1 \\(\rightarrow\\) Dùng **Sunitinib** (Bước 2); Thất bại bước 2 \\(\rightarrow\\) Dùng **Regorafenib** (Bước 3). | [I, A]<br>[III, B]<br>[I, A] |
+| **GIST tiến triển, di căn** | • Imatinib 400 mg/ngày là điều trị tiêu chuẩn đầu tay bước 1.<br>• Đột biến *KIT Exon 9* dùng Imatinib liều cao 800 mg/ngày.<br>• Thất bại bước 1 `→` Dùng **Sunitinib** (Bước 2); Thất bại bước 2 `→` Dùng **Regorafenib** (Bước 3). | [I, A]<br>[III, B]<br>[I, A] |
 
 ---
 

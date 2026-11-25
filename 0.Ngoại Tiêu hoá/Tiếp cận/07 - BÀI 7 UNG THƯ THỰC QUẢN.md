@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. MỞ ĐẦU
+## MỞ ĐẦU
 
 Ung thư thực quản (UTTQ) là một bệnh lý ác tính không hiếm gặp. Trên thế giới, mỗi năm có khoảng 572.000 bệnh nhân được chẩn đoán mới và đây cũng là ung thư gây tử vong nhiều thứ 6 trên toàn cầu. Tại Việt Nam, ung thư thực quản nằm trong tốp 10 loại ung thư thường gặp nhất ở nam giới và đứng hàng thứ 4 trong số các ung thư đường tiêu hóa.
 
@@ -33,17 +33,17 @@ Tại Việt Nam, ung thư biểu mô tuyến thực quản khá hiếm (chủ y
 
 ---
 
-## 2. NGUYÊN NHÂN VÀ YẾU TỐ NGUY CƠ
+## NGUYÊN NHÂN VÀ YẾU TỐ NGUY CƠ
 
 Mặc dù nguyên nhân chính xác của ung thư tế bào gai thực quản chưa được xác định hoàn toàn, các yếu tố nguy cơ sau đây đã được chứng minh làm tăng rõ rệt khả năng mắc bệnh:
 
-### 2.1. Hút thuốc lá
+### Hút thuốc lá
 Hút thuốc lá làm tăng nguy cơ mắc ung thư thực quản và vùng nối thực quản - dạ dày. Chỉ số gói-năm tỷ lệ thuận trực tiếp với nguy cơ phát bệnh.
 
-### 2.2. Uống rượu
+### Uống rượu
 Nghiện rượu hoặc uống rượu kéo dài với lượng lớn làm tăng nguy cơ bị ung thư tế bào gai thực quản.
 
-### 2.3. Một số yếu tố nguy cơ khác
+### Một số yếu tố nguy cơ khác
 * Nhiễm virus HPV (*Human Papillomavirus*).
 * Tiền căn xạ trị vùng ngực/cổ hoặc chụp cắt lớp vi tính ở tuổi trẻ.
 * Uống phải dung dịch kiềm gây sẹo hẹp thực quản.
@@ -53,9 +53,9 @@ Nghiện rượu hoặc uống rượu kéo dài với lượng lớn làm tăng
 
 ---
 
-## 3. GIẢI PHẪU BỆNH
+## GIẢI PHẪU BỆNH
 
-### 3.1. Giải phẫu vị trí của thực quản
+### Giải phẫu vị trí của thực quản
 Thực quản là ống cơ dẫn thức ăn từ hầu xuống chỗ nối thực quản - dạ dày. Theo **Ủy ban Liên hiệp Ung thư Hoa Kỳ phiên bản 8 (AJCC 8th)**, thực quản được chia thành 4 đoạn:
 
 1. **Thực quản cổ:** Bắt đầu từ bờ dưới sụn nhẫn đến lỗ trên lồng ngực (ngang hõm ức). Trên nội soi tiêu hóa, đoạn này tương ứng từ **15 cm đến < 20 cm** tính từ cung răng trên.
@@ -63,7 +63,7 @@ Thực quản là ống cơ dẫn thức ăn từ hầu xuống chỗ nối th�
 3. **Thực quản ngực giữa:** Bắt đầu từ bờ dưới tĩnh mạch đơn đến bờ dưới tĩnh mạch phổi dưới. Trên nội soi, tương ứng từ **25 cm đến < 30 cm** tính từ cung răng trên.
 4. **Thực quản ngực dưới và thực quản bụng:** Bắt đầu từ bờ dưới tĩnh mạch phổi dưới đến tâm vị (bao gồm cả chỗ nối thực quản - dạ dày). Trên nội soi, tương ứng từ **30 cm đến 40 cm** tính từ cung răng trên.
 
-### 3.2. Đại thể
+### Đại thể
 Theo **Hội Thực quản Nhật Bản (JES)**, tổn thương đại thể của ung thư thực quản được chia thành 5 típ chính:
 * **Típ 0:** Dạng nông (*superficial*).
 * **Típ 1:** Dạng lồi (*protruded*).
@@ -80,26 +80,26 @@ Riêng **ung thư thực quản dạng nông (Típ 0)** được phân loại ch
 * **Típ 0-III:** Dạng nông, lõm.
 *(Nếu phối hợp nhiều dạng, típ có diện tích lớn hơn được ưu tiên viết trước, ví dụ: 0-IIc + 0-Is).*
 
-### 3.3. Vi thể
+### Vi thể
 * **Ung thư biểu mô (*Carcinoma*):** Chiếm **95%** các trường hợp, bao gồm *ung thư tế bào gai* (chiếm >90% tại Việt Nam) và *ung thư biểu mô tuyến*.
 * **Các thể hiếm gặp khác (chiếm <5%):** Ung thư tế bào nhỏ, Lymphoma, Sarcoma, và u di căn từ nơi khác tới.
 
 ---
 
-## 4. TRIỆU CHỨNG LÂM SÀNG
+## TRIỆU CHỨNG LÂM SÀNG
 
 Ở giai đoạn sớm, ung thư thực quản hầu như **không có triệu chứng lâm sàng**. Bệnh nhân thường chỉ đến khám khi bệnh đã tiến triển sang giai đoạn muộn.
 
-### 4.1. Triệu chứng cơ năng
+### Triệu chứng cơ năng
 * **Nuốt khó tăng dần:** Là triệu chứng điển hình nhất (khởi phát từ nuốt khó thức ăn đặc, bánh mì, sau đó tiến triển đến nuốt khó cả thức ăn mềm và chất lỏng).
 * **Nuốt đau, đau sau xương ức hoặc đau lưng:** Cơn đau xuất hiện khi nuốt chứng tỏ khối u đã ăn sâu hoặc xâm lấn.
-* **Sụt cân:** Sụt \\(> 10\%\\) trọng lượng cơ thể trong vòng 6 tháng.
+* **Sụt cân:** Sụt `> 10%` trọng lượng cơ thể trong vòng 6 tháng.
 * **Các triệu chứng khác:** Chán ăn, khó tiêu ở người trên 55 tuổi, nấc cụt (do u xâm lấn xuyên thành kích thích cơ hoành và trung thất).
 
-### 4.2. Tiền sử
+### Tiền sử
 Khai thác thói quen hút thuốc lá, uống rượu bia kéo dài hoặc tiền căn ung thư vùng Đầu Mặt Cổ.
 
-### 4.3. Triệu chứng thực thể
+### Triệu chứng thực thể
 * Bệnh nhân có thể hiện diện trong tình trạng suy kiệt, suy dinh dưỡng nặng.
 * **Các dấu hiệu báo hiệu giai đoạn tiến triển/di căn:**
   * *Hội chứng Horner một bên:* Co đồng tử, sụp mi, giảm/không tiết mồ hôi một bên mặt và cổ (do u xâm lấn chuỗi hạch giao cảm cổ).
@@ -110,59 +110,59 @@ Khai thác thói quen hút thuốc lá, uống rượu bia kéo dài hoặc ti�
 
 ---
 
-## 5. CẬN LÂM SÀNG
+## CẬN LÂM SÀNG
 
-### 5.1. Nội soi thực quản dạ dày kết hợp với sinh thiết
+### Nội soi thực quản dạ dày kết hợp với sinh thiết
 Là phương tiện **tiêu chuẩn vàng** để chẩn đoán xác định bệnh.
 * Giúp quan sát vị trí u, khoảng cách tới cung răng, hình thái đại thể và lấy bệnh phẩm sinh thiết làm giải phẫu bệnh.
 * **Nội soi dải tần hẹp (NBI - *Narrow Band Imaging*):** Sử dụng bước sóng ánh sáng đặc biệt giúp phát hiện sớm các tổn thương tăng sinh vi mạch bề mặt, phân biệt tổn thương tân sinh và không tân sinh chính xác hơn nhiều so với ánh sáng trắng thông thường.
 
-### 5.2. Các phương tiện chẩn đoán hình ảnh
+### Các phương tiện chẩn đoán hình ảnh
 
-#### 5.2.1. X-quang thực quản cản quang
+#### X-quang thực quản cản quang
 Hiện nay chỉ còn vai trò hỗ trợ xác định vị trí, chiều dài đoạn u để lập kế hoạch xạ trị.
 * Hình ảnh: Hẹp lòng thực quản không đều, niêm mạc bị phá hủy, dãn đoạn thực quản phía trên u.
 * **Dấu hiệu Akiyama (xâm lấn mô lân cận):** Trục thực quản bị xoắn vặn, gập góc, lệch trục khối u hoặc lệch hẳn khỏi đường giữa.
 
-#### 5.2.2. Chụp cắt lớp vi tính (CLVT / CT Scan) có cản quang
+#### Chụp cắt lớp vi tính (CLVT / CT Scan) có cản quang
 Khuyến cáo chụp 3 vùng (Cổ - Ngực - Bụng) để đánh giá giai đoạn TNM và khả năng phẫu thuật.
-* **Tổn thương tại chỗ (T):** Thành thực quản bình thường khi căng \\(< 3\text{ mm}\\); nếu thành dày **\\(> 5\text{ mm}\\)** là bất thường.
-  * *Chẩn đoán xâm lấn Động mạch chủ:* Dấu hiệu vùng tiếp xúc giữa khối u và động mạch chủ **\\(> 90^\circ\\)** (quá 1/4 chu vi lòng mạch).
+* **Tổn thương tại chỗ (T):** Thành thực quản bình thường khi căng `< 3 mm`; nếu thành dày **`> 5 mm`** là bất thường.
+  * *Chẩn đoán xâm lấn Động mạch chủ:* Dấu hiệu vùng tiếp xúc giữa khối u và động mạch chủ **`> 90°`** (quá 1/4 chu vi lòng mạch).
   * *Chẩn đoán xâm lấn Khí - phế quản:* Mất lớp mỡ ngăn cách, u ấn lõm thành sau khí quản hoặc thấy đường rò.
-* **Đánh giá di căn hạch (N):** Hạch vùng ngực/bụng coi là bất thường khi đường kính **\\(> 1\text{ cm}\\)**; Hạch thượng đòn bất thường khi đường kính trục ngắn **\\(> 5\text{ mm}\\)**.
+* **Đánh giá di căn hạch (N):** Hạch vùng ngực/bụng coi là bất thường khi đường kính **`> 1 cm`**; Hạch thượng đòn bất thường khi đường kính trục ngắn **`> 5 mm`**.
 * **Đánh giá di căn xa (M):** Phát hiện nốt di căn gan, nốt di căn phổi (tròn, bờ trơn, không vôi hóa).
 
-#### 5.2.3. Siêu âm qua nội soi (EUS)
+#### Siêu âm qua nội soi (EUS)
 Là phương pháp **chính xác nhất để đánh giá độ xâm lấn sâu của u (giai đoạn T)** với độ tin cậy khoảng **85%**. EUS giúp phân biệt 5 lớp cản âm của thành thực quản và đánh giá hạch quanh thực quản trong bán kính 3 cm.
 
-#### 5.2.4. Siêu âm cổ
+#### Siêu âm cổ
 Giúp đánh giá di căn hạch vùng cổ và hạch thượng đòn với độ chính xác đạt **87,6%**.
 
-#### 5.2.5. Chụp cộng hưởng từ (MRI)
+#### Chụp cộng hưởng từ (MRI)
 Độ nhạy và độ đặc hiệu không vượt trội hơn CT Scan nên ít khi sử dụng thường quy.
 
-#### 5.2.6. Chụp hình cắt lớp phát xạ Positron / Chụp cắt lớp vi tính (PET/CT)
+#### Chụp hình cắt lớp phát xạ Positron / Chụp cắt lớp vi tính (PET/CT)
 Không chỉ định thường quy. Được dùng như công cụ hỗ trợ khi nghi ngờ có di căn xa hoặc di căn hạch toàn thân mà các phương tiện khác chưa làm rõ, giúp quyết định thay đổi phác đồ điều trị (độ đặc hiệu chẩn đoán di căn xa đạt 97%).
 
-#### 5.2.7. Nội soi ổ bụng, nội soi phế quản và nội soi lồng ngực
+#### Nội soi ổ bụng, nội soi phế quản và nội soi lồng ngực
 Giúp quan sát trực tiếp di căn phúc mạc, màng phổi, xâm lấn phế quản và đánh giá khả năng dung nạp phẫu thuật.
 
-#### 5.2.8. Xạ hình xương
+#### Xạ hình xương
 Chỉ định khi bệnh nhân có đau xương hoặc nghi ngờ tổn thương hủy xương trên CT/PET-CT.
 
-### 5.3. Cận lâm sàng khác
+### Cận lâm sàng khác
 
-#### 5.3.1. Đo chức năng hô hấp
+#### Đo chức năng hô hấp
 Bắt buộc thực hiện ở bệnh nhân dự kiến mổ cắt thực quản (do mổ kéo dài, xâm lấn lồng ngực cần xẹp phổi chủ động, trên cơ địa bệnh nhân hay hút thuốc lá).
 
-#### 5.3.2. Xét nghiệm máu
+#### Xét nghiệm máu
 Đánh giá chức năng gan (tầm soát di căn gan), nồng độ Phosphatase kiềm (*Alkaline phosphatase* - tăng khi di căn xương).
 
 ---
 
-## 6. ĐÁNH GIÁ GIAI ĐOẠN UNG THƯ TẾ BÀO GAI THỰC QUẢN THEO AJCC 8th (2017)
+## ĐÁNH GIÁ GIAI ĐOẠN UNG THƯ TẾ BÀO GAI THỰC QUẢN THEO AJCC 8th (2017)
 
-### 6.1. Định nghĩa TNM
+### Định nghĩa TNM
 
 **Bảng 1. Định nghĩa TNM ung thư tế bào gai thực quản (AJCC 8th)**
 
@@ -183,11 +183,11 @@ Bắt buộc thực hiện ở bệnh nhân dự kiến mổ cắt thực quản
 | | **N0** | Không có di căn hạch vùng. |
 | | **N1** | Di căn **1 – 2** hạch vùng. |
 | | **N2** | Di căn **3 – 6** hạch vùng. |
-| | **N3** | Di căn **\\(\ge 7\\)** hạch vùng. |
+| | **N3** | Di căn **`≥ 7`** hạch vùng. |
 | **M (Metastasis)** | **M0** | Không có di căn xa. |
 | | **M1** | Có di căn xa (gan, phổi, xương, hạch xa...). |
 
-### 6.2. Phân giai đoạn
+### Phân giai đoạn
 
 **Bảng 2. Phân giai đoạn lâm sàng (cTNM) ung thư tế bào gai thực quản**
 
@@ -204,17 +204,17 @@ Bắt buộc thực hiện ở bệnh nhân dự kiến mổ cắt thực quản
 
 ---
 
-## 7. ĐIỀU TRỊ UNG THƯ THỰC QUẢN
+## ĐIỀU TRỊ UNG THƯ THỰC QUẢN
 
-### 7.1. Tổng quan các phương pháp điều trị ung thư thực quản
+### Tổng quan các phương pháp điều trị ung thư thực quản
 
-#### 7.1.1. Cắt u qua nội soi thực quản
+#### Cắt u qua nội soi thực quản
 Áp dụng cho khối u giai đoạn rất sớm (T1a, N0, M0 - khu trú niêm mạc).
 * **Cắt niêm mạc qua nội soi (EMR - *Endoscopic Mucosal Resection*):** Cắt bỏ lớp niêm mạc mang u.
 * **Bóc tách dưới niêm mạc qua nội soi (ESD - *Endoscopic Submucosal Dissection*):** Bóc tách cắt u rộng hơn tới lớp dưới niêm.
 * *Thực tế tại Việt Nam:* Phương pháp này chưa được áp dụng phổ biến do nguy cơ di căn hạch ẩn vẫn tồn tại (u T1a di căn hạch 12,2%, T1b di căn hạch đến 45,9%) và đòi hỏi kỹ thuật giải phẫu bệnh cực kỳ khắt khe.
 
-#### 7.1.2. Phẫu thuật cắt thực quản
+#### Phẫu thuật cắt thực quản
 Là phương pháp điều trị triệt căn duy nhất loại bỏ toàn bộ khối u và hệ thống hạch vùng. Phẫu thuật cắt thực quản là một đại phẫu phức tạp, tỷ lệ biến chứng có thể tới 40%, tử vong chu phẫu từ 1 – 7%. Biến chứng hay gặp: viêm phổi, tổn thương thần kinh quặt ngược thanh quản gây khàn tiếng, rò miệng nối.
 
 **Phương pháp chuẩn hiện nay: Phẫu thuật nội soi/Robot cắt thực quản nạo hạch 3 vùng theo McKeown:**
@@ -222,16 +222,16 @@ Là phương pháp điều trị triệt căn duy nhất loại bỏ toàn bộ 
 * *Phạm vi nạo hạch:* Nạo hạch cổ 2 bên + Nạo hạch trung thất toàn bộ + Nạo hạch khoang bụng.
 * *Tạo hình:* Sử dụng **ống dạ dày** (hoặc quai đại tràng) kéo lên cổ để nối với đoạn thực quản cổ còn lại.
 
-#### 7.1.3. Phẫu thuật khác
+#### Phẫu thuật khác
 Đối với bệnh nhân u tiến triển gây nuốt nghẹn hoàn toàn, cần **mở hỗng tràng nuôi ăn**. (Nên tránh mở dạ dày nuôi ăn để giữ nguyên vẹn dạ dày làm ống nối tạo hình thực quản về sau).
 
-#### 7.1.4. Hóa xạ trị
+#### Hóa xạ trị
 * **Hóa/Hóa xạ trị tân hỗ trợ:** Thực hiện trước mổ nhằm thu nhỏ khối u, giảm giai đoạn (downstaging) và tiêu diệt các di căn vi thể.
 * **Hóa trị hỗ trợ:** Thực hiện sau phẫu thuật.
 * **Hóa xạ trị triệt trị (*Definitive chemoradiotherapy*):** Áp dụng cho bệnh nhân không thể phẫu thuật hoặc từ chối phẫu thuật.
 * **Hóa trị giảm nhẹ:** Cho bệnh nhân giai đoạn trễ (M1, T4b) hoặc tái phát.
 
-### 7.2. Điều trị ung thư tế bào gai thực quản theo giai đoạn
+### Điều trị ung thư tế bào gai thực quản theo giai đoạn
 
 ```
                        [Ung thư tế bào gai thực quản]
@@ -248,18 +248,18 @@ Là phương pháp điều trị triệt căn duy nhất loại bỏ toàn bộ 
                             Phẫu thuật Cắt thực quản
 ```
 
-#### 7.2.1. Điều trị ung thư tế bào gai thực quản giai đoạn sớm (T1a, N0, M0)
+#### Điều trị ung thư tế bào gai thực quản giai đoạn sớm (T1a, N0, M0)
 Lựa chọn ưu tiên là **Phẫu thuật cắt thực quản triệt căn** (tỷ lệ tử vong chu phẫu tại các trung tâm lớn chỉ khoảng 1%). Các lựa chọn thay thế bao gồm cắt u qua nội soi (EMR/ESD) hoặc hóa xạ trị triệt trị (dành cho bệnh nhân chống chỉ định mổ).
 
-#### 7.2.2. Điều trị ung thư tế bào gai thực quản giai đoạn tiến triển tại chỗ (T1b – T3, N0 – N3, M0)
-Phác đồ chuẩn được đồng thuận cao nhất là: **Điều trị tân hỗ trợ (Hóa trị hoặc Hóa xạ trị trước mổ) \\(\rightarrow\\) Phẫu thuật cắt thực quản triệt căn**. Nếu bệnh nhân không đủ sức khỏe phẫu thuật, chỉ định Hóa xạ trị triệt trị liều cao.
+#### Điều trị ung thư tế bào gai thực quản giai đoạn tiến triển tại chỗ (T1b – T3, N0 – N3, M0)
+Phác đồ chuẩn được đồng thuận cao nhất là: **Điều trị tân hỗ trợ (Hóa trị hoặc Hóa xạ trị trước mổ) `→` Phẫu thuật cắt thực quản triệt căn**. Nếu bệnh nhân không đủ sức khỏe phẫu thuật, chỉ định Hóa xạ trị triệt trị liều cao.
 
-#### 7.2.3. Điều trị ung thư tế bào gai thực quản giai đoạn trễ (T4b và/hoặc M1)
+#### Điều trị ung thư tế bào gai thực quản giai đoạn trễ (T4b và/hoặc M1)
 Khối u không còn khả năng cắt bỏ triệt căn. Lựa chọn điều trị bao gồm **Hóa trị, Hóa xạ trị hoặc Điều trị nâng đỡ giảm nhẹ** (mở hỗng tràng nuôi ăn, đặt Stent thực quản chống nuốt nghẹn). Nếu bệnh nhân đáp ứng hóa trị rất tốt khiến u thu nhỏ lại, có thể xem xét phẫu thuật cắt thực quản làm sạch (*conversion / salvage esophagectomy*).
 
 ---
 
-## 8. TIÊN LƯỢNG
+## TIÊN LƯỢNG
 
 Ung thư thực quản có tiên lượng chung rất kém. Bảng dưới đây thể hiện tỷ lệ sống sau 5 năm theo thống kê quốc gia Nhật Bản (2010 – 2012) điều trị bằng phẫu thuật hoặc hóa xạ trị triệt trị:
 
@@ -280,11 +280,11 @@ Ung thư thực quản có tiên lượng chung rất kém. Bảng dưới đây
 
 ## TÓM TẮT NHANH
 
-1. Ung thư tế bào gai (*Squamous cell carcinoma*) chiếm \\(> 90\%\\) các trường hợp ung thư thực quản tại Việt Nam; hai yếu tố nguy cơ hàng đầu là hút thuốc lá và uống nhiều rượu.
+1. Ung thư tế bào gai (*Squamous cell carcinoma*) chiếm `> 90%` các trường hợp ung thư thực quản tại Việt Nam; hai yếu tố nguy cơ hàng đầu là hút thuốc lá và uống nhiều rượu.
 2. Triệu chứng lâm sàng sớm mờ nhạt; triệu chứng điển hình giai đoạn tiến triển là **nuốt khó tăng dần** kèm sụt cân.
 3. **Nội soi thực quản dạ dày sinh thiết** (kết hợp ánh sáng NBI) là tiêu chuẩn vàng chẩn đoán xác định; **Siêu âm qua nội soi (EUS)** chính xác nhất để đánh giá độ xâm lấn sâu (T); **CT Scan 3 vùng (Cổ - Ngực - Bụng)** giúp đánh giá di căn hạch và di căn xa (TNM).
 4. Phân loại đại thể JES gồm 5 típ (Típ 0 đến Típ 4); Phân loại TNM theo AJCC 8th là căn cứ bắt buộc để phân giai đoạn và lựa chọn phác đồ.
-5. Chiến lược điều trị đa mô thức: Giai đoạn sớm (T1a) ưu tiên phẫu thuật cắt thực quản; Giai đoạn tiến triển tại chỗ (T1b-T3, N0-3) ưu tiên **Điều trị tân hỗ trợ \\(\rightarrow\\) Phẫu thuật cắt thực quản nạo hạch 3 vùng (McKeown)**; Giai đoạn trễ (T4b/M1) điều trị hóa xạ trị giảm nhẹ.
+5. Chiến lược điều trị đa mô thức: Giai đoạn sớm (T1a) ưu tiên phẫu thuật cắt thực quản; Giai đoạn tiến triển tại chỗ (T1b-T3, N0-3) ưu tiên **Điều trị tân hỗ trợ `→` Phẫu thuật cắt thực quản nạo hạch 3 vùng (McKeown)**; Giai đoạn trễ (T4b/M1) điều trị hóa xạ trị giảm nhẹ.
 
 ---
 

@@ -20,7 +20,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 Trĩ là sự phình dãn bất thường của đám rối mạch máu ở phần thấp trực tràng và ống hậu môn. Trĩ rất phổ biến và là bệnh lý thường gặp nhất trong các bệnh lý vùng hậu môn – trực tràng.
 
@@ -31,40 +31,40 @@ Trĩ là sự phình dãn bất thường của đám rối mạch máu ở ph�
 
 ---
 
-## 2. GIẢI PHẪU
+## GIẢI PHẪU
 
 Nắm vững giải phẫu vùng hậu môn – trực tràng là điều bắt buộc đối với các phẫu thuật viên để lý giải cơ chế sinh bệnh và thực hành phẫu thuật an toàn.
 
-### 2.1. Phôi thai học
+### Phôi thai học
 Ống hậu môn là phần nối tiếp với trực tràng ở đoạn dưới của ống tiêu hóa, xuất phát từ các u hậu môn (*anal tubercles*) thuộc ngoại phôi bì. 
 
 Theo mô tả phôi thai học của Yang HK (2014), ống hậu môn giống như **hai lòng ống bao trùm lên nhau**:
 * **Ống bên ngoài:** Có dạng hình phễu che phủ lỗ thoát của khung chậu, được tạo thành bởi cơ thắt ngoài hậu môn và cơ nâng hậu môn. Bản chất cơ thắt ngoài là cơ vân, được chi phối bởi hệ thần kinh bản thể (*somatic nerve*) nên hoạt động theo ý muốn.
 * **Ống bên trong:** Nằm bên trong ống ngoài, có nguồn gốc tạng không tự ý và được chi phối bởi hệ thần kinh tự động (*autonomic nerve*). Ống trong bao gồm niêm mạc, lớp dưới niêm mạc, cơ thắt trong hậu môn (cơ trơn) và cơ dọc kết hợp.
 
-### 2.2. Giới hạn của ống hậu môn
+### Giới hạn của ống hậu môn
 Có sự khác biệt về cách xác định ranh giới ống hậu môn giữa các nhà giải phẫu và các nhà phẫu thuật:
 * **Quan điểm Nhà giải phẫu:** Giới hạn ống hậu môn tính từ bờ hậu môn (rìa hậu môn) đến **đường lược** (*pectinate line*), với chiều dài khoảng **2,5 – 3 cm**.
 * **Quan điểm Nhà phẫu thuật:** Giới hạn ống hậu môn tính từ bờ hậu môn lên đến **vòng cơ hậu môn - trực tràng** (được tạo nên chủ yếu bởi cơ mu trực tràng), với chiều dài khoảng **4 – 5 cm**.
 
-### 2.3. Niêm mạc ống hậu môn và da hậu môn (anoderm)
+### Niêm mạc ống hậu môn và da hậu môn (anoderm)
 * **Niêm mạc trực tràng (phía trên vòng hậu môn - trực tràng):** Cấu tạo bởi biểu mô trụ đơn tiết chất nhầy. Khi niêm mạc bị sa trượt xuống dưới (sa trực tràng, sa trĩ độ 4, hoặc sau phẫu thuật Whitehead), người bệnh sẽ gặp biến chứng **"ướt đít"** do niêm mạc lộ ra ngoài liên tục tiết chất nhầy.
 * **Vùng biểu mô chuyển tiếp:** Nằm giữa vòng hậu môn - trực tràng và đường lược, có từ 8 – 10 chỗ nhô lên gọi là các **cột hậu môn Morgagni** (dài ~1 cm), là di tích màng ổ nhớp trong thời kỳ phôi thai. Biểu mô vùng này là biểu mô lát tầng không sừng hóa.
 * **Da hậu môn (*Anoderm / Pectin*):** Nằm từ đường lược ra đến rãnh gian cơ thắt, bao phủ bởi biểu mô tế bào vảy không sừng hóa. Vùng da này không có các cấu trúc phụ của da (lông, tuyến bã, tuyến mồ hôi). Da hậu môn được chi phối bởi hệ thần kinh bản thể nên **rất nhạy cảm với cảm giác đau** và giữ vai trò quan trọng trong phản xạ kích thích co thắt hậu môn.
 
-### 2.4. Cơ Treitz
+### Cơ Treitz
 * **Định nghĩa & Đường đi:** Treitz đặt tên cho lớp cơ trơn nằm giữa niêm mạc/da hậu môn và cơ thắt trong là cơ Treitz. Cơ đi xuyên qua cơ thắt trong để cố định mô dưới da (đệm hậu môn) vào cơ dọc kết hợp.
 * **Cấu tạo:** Bao gồm 2 thành phần: *cơ dưới niêm hậu môn* và *dây chằng treo niêm mạc*.
 * **Vai trò bệnh sinh:** Khi bệnh trĩ tiến triển sa xuống ống hậu môn, cơ Treitz bị kéo dãn dai dẳng và đứt rách thành từng mảnh không thể hồi phục. Do đó, cơ Treitz được coi là **cấu trúc quan trọng nhất trong cơ chế hình thành bệnh trĩ**.
 
-### 2.5. Cơ dọc kết hợp
+### Cơ dọc kết hợp
 Ở đoạn dưới trực tràng, các sợi cơ dọc (cơ trơn) hòa lẫn với các sợi cơ vân của cơ mu trực tràng và các mô sợi đàn hồi tạo nên **cơ dọc kết hợp**. 
 
 Cơ này đi xuống cho ra các bó sợi xơ đâm xuyên qua cơ thắt trong để bám vào niêm mạc vùng lược, gọi là **dây chằng Parks**. Dây chằng Parks chia lớp dưới niêm mạc ống hậu môn làm 2 khoang:
 1. *Khoang dưới niêm mạc (phía trên dây chằng Parks):* Nơi chứa đám rối tĩnh mạch trĩ nội.
 2. *Khoang dưới da (phía dưới dây chằng Parks):* Nơi chứa đám rối tĩnh mạch trĩ ngoại.
 
-### 2.6. Lớp đệm mạch máu trĩ
+### Lớp đệm mạch máu trĩ
 Thomson (1975) giới thiệu lý thuyết đệm mạch máu (*vascular cushion*): Lớp dưới niêm mạc không tạo thành một vòng liên tục mà dày lên tạo thành **3 đệm mạch máu chính** nằm ở các vị trí cố định:
 * **Bên trái (vị trí 3 – 4 giờ)**
 * **Trước phải (vị trí 7 giờ)**
@@ -72,23 +72,23 @@ Thomson (1975) giới thiệu lý thuyết đệm mạch máu (*vascular cushion
 
 *Chức năng:* Khi tăng áp lực ổ bụng (không phải lúc đại tiện), các đệm mạch máu phồng to giúp khép kín ống hậu môn để giữ tự chủ phân và khí. Các sợi mô liên kết và cơ dưới niêm giúp kéo đệm trĩ trở về vị trí ban đầu sau đại tiện. Từ sau 30 tuổi, sự thoái hóa mô liên kết nâng đỡ (Haas) làm lớp đệm sa trượt và hình thành búi trĩ.
 
-### 2.7. Mạch máu
+### Mạch máu
 
-#### 2.7.1. Động mạch
+#### Động mạch
 * **Động mạch trực tràng (trĩ) trên:** Là 2 nhánh tận của ĐM mạc treo tràng dưới, đi xuống xuyên qua lớp cơ trực tràng vào lớp dưới niêm mạc, là **nguồn cung cấp máu chính** cho các đệm trĩ.
 * **Động mạch trực tràng (trĩ) giữa:** Xuất phát từ ĐM chậu trong, ít phát triển và vai trò hạn chế.
 * **Động mạch trực tràng (trĩ) dưới:** Xuất phát từ ĐM thẹn trong, cấp máu cho cơ thắt và lớp dưới da quanh hậu môn.
 
-#### 2.7.2. Tĩnh mạch
+#### Tĩnh mạch
 Dẫn lưu tĩnh mạch gồm 2 đám rối:
 * **Đám rối tĩnh mạch dưới niêm mạc (bên trong):** Được phân chia bởi dây chằng Parks. 
   * Nhóm trên dẫn lưu về TM trực tràng trên (hệ tĩnh mạch cửa), khi phình giãn tạo nên **Trĩ nội**.
-  * Nhóm dưới dẫn lưu về TM trực tràng dưới \\(\rightarrow\\) TM thẹn trong (hệ tĩnh mạch chủ), khi phình giãn tạo nên **Trĩ ngoại**.
+  * Nhóm dưới dẫn lưu về TM trực tràng dưới `→` TM thẹn trong (hệ tĩnh mạch chủ), khi phình giãn tạo nên **Trĩ ngoại**.
 * **Đám rối tĩnh mạch quanh lớp cơ (bên ngoài):** Dẫn lưu máu vách trực tràng về TM trực tràng trên.
 
 ---
 
-## 3. SINH BỆNH HỌC
+## SINH BỆNH HỌC
 
 Có **4 lý thuyết chính** về nguyên nhân hình thành bệnh trĩ:
 1. Sự phình giãn bất thường của các tĩnh mạch thuộc đám rối tĩnh mạch trĩ nội.
@@ -110,42 +110,42 @@ nhỏ giọt / phun thành tia     khi rặn đại tiện                      
                                                                                 Phình dãn búi trĩ
 ```
 
-* **Giải thích triệu chứng Chảy máu đỏ tươi:** Bình thường các shunt động - tĩnh mạch đóng lại. Khi có kích thích (tăng áp lực ổ bụng, ăn đồ cay nóng, uống rượu bia), cơ trước mao mạch co thắt và các shunt động - tĩnh mạch mở ra \\(\rightarrow\\) Áp lực tăng đột ngột làm dãn tĩnh mạch trĩ và "động mạch hóa" máu tĩnh mạch. Khi vỡ ra, máu chảy có **màu đỏ tươi** như máu động mạch.
+* **Giải thích triệu chứng Chảy máu đỏ tươi:** Bình thường các shunt động - tĩnh mạch đóng lại. Khi có kích thích (tăng áp lực ổ bụng, ăn đồ cay nóng, uống rượu bia), cơ trước mao mạch co thắt và các shunt động - tĩnh mạch mở ra `→` Áp lực tăng đột ngột làm dãn tĩnh mạch trĩ và "động mạch hóa" máu tĩnh mạch. Khi vỡ ra, máu chảy có **màu đỏ tươi** như máu động mạch.
 * **Giải thích triệu chứng Sa trĩ:** Sự thoái hóa mô sợi đàn hồi theo tuổi tác, kết hợp với hiện tượng cơ Treitz và dây chằng Parks bị kéo dãn đứt rách làm đệm trĩ lỏng lẻo trượt xuống qua lỗ hậu môn khi rặn đại tiện. Khi búi trĩ đã sa ra ngoài, sự co thắt của cơ thắt trong hậu môn lại cản trở dòng máu tĩnh mạch trở về, làm búi trĩ ngày càng phồng to hơn.
 
 ---
 
-## 4. THƯƠNG TỔN VÀ PHÂN LOẠI
+## THƯƠNG TỔN VÀ PHÂN LOẠI
 
-### 4.1. Trĩ nội
+### Trĩ nội
 Hình thành do giãn quá mức đám rối tĩnh mạch trĩ nội, nằm **trên đường lược**, được bao phủ bởi niêm mạc. Tùy theo kích thước và mức độ sa, trĩ nội phân thành **4 độ (theo Goligher)**:
 * **Trĩ độ 1:** Búi trĩ hoàn toàn nằm trong ống hậu môn.
 * **Trĩ độ 2:** Lúc bình thường búi trĩ nằm gọn trong ống hậu môn. Khi rặn đại tiện búi trĩ sa ra ngoài, khi đại tiện xong đứng dậy **búi trĩ tự tụt vào**.
 * **Trĩ độ 3:** Búi trĩ sa ra ngoài khi đại tiện, đi lại nhiều, ngồi xổm hoặc vác nặng. Búi trĩ **không tự tụt vào được, phải dùng tay đẩy nhẹ mới vào**.
 * **Trĩ độ 4:** Búi trĩ gần như **thường xuyên nằm ngoài ống hậu môn**, dùng tay đẩy cũng không vào được, thường liên kết thành trĩ vòng.
 
-### 4.2. Trĩ ngoại
+### Trĩ ngoại
 Hình thành do giãn quá mức đám rối tĩnh mạch trĩ ngoại, nằm **dưới đường lược**, được bao phủ bởi da quanh hậu môn (*anoderm*).
 
-### 4.3. Trĩ hỗn hợp
+### Trĩ hỗn hợp
 Khi dây chằng Parks bị chùng dãn kéo dài, búi trĩ nội (trên đường lược) và búi trĩ ngoại (dưới đường lược) tiến lại gần nhau và liên kết tạo thành **trĩ hỗn hợp**.
 
-### 4.4. Trĩ vòng
+### Trĩ vòng
 Các búi trĩ phụ xuất hiện giữa 3 búi trĩ chính (ở vị trí 3–4g, 7g, 11g). Khi tất cả các búi trĩ chính và phụ sa ra ngoài liên kết nối liền nhau tạo thành **trĩ vòng** quanh chu vi hậu môn. 
 * *Dấu hiệu phân biệt với sa trực tràng:* Trĩ vòng có hình thái **chỗ to chỗ nhỏ không đều**, trong khi sa trực tràng tạo thành các nếp niêm mạc hình vòng tròn đồng tâm.
 
-### 4.5. Phân loại Masuda (2005)
+### Phân loại Masuda (2005)
 Được đề xuất tại Hội nghị Hậu môn Trực tràng Nhật Bản:
 * **Mức độ sa trĩ nội (P):** **P0** (không sa); **P1** (sa nhưng tự tụt vào); **P2** (sa nhưng không tự tụt vào).
-* **Mức độ trĩ ngoại (E):** **E0** (không có trĩ ngoại); **E1** (chiếm \\(< 50\%\\) chu vi); **E2** (chiếm \\(> 50\%\\) chu vi).
+* **Mức độ trĩ ngoại (E):** **E0** (không có trĩ ngoại); **E1** (chiếm `< 50%` chu vi); **E2** (chiếm `> 50%` chu vi).
 * **Mức độ liên kết chu vi (C):** **C0** (búi riêng lẻ); **C1** (liên kết một phần); **C2** (liên kết trọn vòng chu vi).
-* *Ví dụ:* Ký hiệu **P1E1C2** nghĩa là Trĩ nội sa tự tụt vào được, trĩ ngoại chiếm \\(< 50\%\\) chu vi và các búi trĩ liên kết trọn vòng chu vi hậu môn.
+* *Ví dụ:* Ký hiệu **P1E1C2** nghĩa là Trĩ nội sa tự tụt vào được, trĩ ngoại chiếm `< 50%` chu vi và các búi trĩ liên kết trọn vòng chu vi hậu môn.
 
 ---
 
-## 5. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
-### 5.1. Chẩn đoán xác định
+### Chẩn đoán xác định
 
 #### Triệu chứng cơ năng:
 * **Tiêu ra máu đỏ tươi:** Triệu chứng phổ biến nhất (**chiếm 94%** theo GS. Nguyễn Đình Hối). Máu đỏ tươi không lẫn với phân, nhỏ giọt xuống bồn cầu hoặc phun thành tia sau khi phân ra.
@@ -175,12 +175,12 @@ Các búi trĩ phụ xuất hiện giữa 3 búi trĩ chính (ở vị trí 3–
 
 | Chỉ định nội soi đại tràng toàn bộ |
 | :--- |
-| Người \\(\ge 50\text{ tuổi}\\) chưa được nội soi đại tràng lần nào trong 10 năm qua. |
-| Người \\(\ge 40\text{ tuổi}\\) (hoặc sớm hơn 10 năm) có tiền sử 1 người thân thế hệ 1 mắc ung thư đại trực tràng / u tuyến tiến triển trước 60 tuổi. |
-| Người \\(\ge 40\text{ tuổi}\\) có từ 2 người thân thế hệ 1 mắc ung thư đại trực tràng / u tuyến tiến triển. |
+| Người `≥ 50 tuổi` chưa được nội soi đại tràng lần nào trong 10 năm qua. |
+| Người `≥ 40 tuổi` (hoặc sớm hơn 10 năm) có tiền sử 1 người thân thế hệ 1 mắc ung thư đại trực tràng / u tuyến tiến triển trước 60 tuổi. |
+| Người `≥ 40 tuổi` có từ 2 người thân thế hệ 1 mắc ung thư đại trực tràng / u tuyến tiến triển. |
 | Xét nghiệm máu ẩn trong phân (FIT hoặc DNA-FIT) dương tính. |
 
-### 5.2. Chẩn đoán phân biệt
+### Chẩn đoán phân biệt
 Cần phân biệt bệnh trĩ với các bệnh lý khác có cùng triệu chứng chảy máu/sa/đau:
 * **Nứt hậu môn:** Đau rát nhói dữ dội xuất hiện *trong và sau khi đi tiêu*, vết rách ở da hậu môn (thường ở đường giữa sau).
 * **Sa trực tràng:** Khối sa có các nếp niêm mạc hình vòng tròn đồng tâm.
@@ -189,51 +189,51 @@ Cần phân biệt bệnh trĩ với các bệnh lý khác có cùng triệu ch�
 
 ---
 
-## 6. ĐIỀU TRỊ
+## ĐIỀU TRỊ
 
-### 6.1. Nguyên tắc
+### Nguyên tắc
 1. Không điều trị trĩ triệu chứng, trừ khi có biến chứng.
 2. Chỉ điều trị trĩ khi bệnh nhân có rối loạn ảnh hưởng đến chất lượng cuộc sống, thể chất và tinh thần.
 3. Trước khi điều trị trĩ, phải điều trị các yếu tố thuận lợi phát sinh bệnh (táo bón, tiêu chảy, thói quen rặn).
 4. Phải chọn phương pháp điều trị thích hợp cho từng loại thương tổn và mức độ bệnh.
 5. **Không gây nên các hậu quả xấu hơn bản thân bệnh trĩ.**
 
-### 6.2. Điều trị nội khoa
+### Điều trị nội khoa
 * **Vệ sinh tại chỗ:** Ngâm hậu môn nước ấm 2–3 lần/ngày, 15 phút/lần.
 * **Chế độ ăn & Lối sống:** Tránh cà phê, rượu, trà, ớt, tiêu; uống đủ nước, ăn nhiều chất xơ; không ngồi rặn lâu trên bồn cầu; tập thể thao nhẹ (bơi lội, đi bộ).
 * **Thuốc uống:** Thuốc trợ tĩnh mạch (dẫn xuất **Flavonoid**) làm tăng trương lực tĩnh mạch, bảo vệ vi tuần hoạt, giảm phù nề và kháng viêm.
 * **Thuốc tại chỗ:** Thuốc mỡ (*pommade*) hoặc thuốc đạn (*suppositoire*) chứa chất giảm đau, trợ mạch, kháng viêm (chú ý nguy cơ dị ứng với thuốc vô cảm tại chỗ).
 
-### 6.3. Điều trị bằng thủ thuật
+### Điều trị bằng thủ thuật
 
-#### 6.3.1. Chích xơ hóa búi trĩ
+#### Chích xơ hóa búi trĩ
 * Tiêm dung dịch xơ hóa vào lớp dưới niêm mạc ở đỉnh búi trĩ (trĩ nội độ 1, độ 2) để tạo phản ứng xơ teo búi trĩ.
 * *Lưu ý kỹ thuật:* Không tiêm nông (hoại tử niêm mạc), không tiêm sâu vào lớp cơ (hẹp hậu môn, viêm tuyến tiền liệt ở vị trí 12g, rò âm đạo - trực tràng).
 * Thuốc tiêm xơ mới **ALTA** (*Aluminum potassium sulfate and tannic acid*) có hiệu quả cho cả trĩ độ 3, độ 4 và ưu tiên dùng cho bệnh nhân đang dùng thuốc kháng đông.
 
-#### 6.3.2. Liệu pháp làm đông nhiệt bằng tia hồng ngoại
+#### Liệu pháp làm đông nhiệt bằng tia hồng ngoại
 Dùng tia hồng ngoại hội tụ chiếu vào gốc búi trĩ biến thành nhiệt năng gây hiện tượng viêm, phá hủy mô và tạo sẹo teo búi trĩ (áp dụng cho trĩ nội độ 1, độ 2).
 
-#### 6.3.3. Thắt trĩ bằng vòng cao su (Phương pháp Barron 1963)
+#### Thắt trĩ bằng vòng cao su (Phương pháp Barron 1963)
 Dùng dụng cụ bắn vòng cao su thắt chặt gốc búi trĩ **ở phía trên đường lược**. Búi trĩ bị thiếu máu hoại tử và rụng đi sau vài ngày. *Lưu ý:* Bắt buộc thắt trên đường lược, nếu thắt thấp vào vùng da hậu môn sẽ gây đau dữ dội cho bệnh nhân.
 
-#### 6.3.4. Đốt trĩ bằng Laser
+#### Đốt trĩ bằng Laser
 Dùng Laser Diode bước sóng kép (980 nm & 1.470 nm) áp vào động mạch trĩ. Kỹ thuật ít xâm hại, mô teo nhanh, ít chảy máu, nhưng chi phí cao.
 
-### 6.4. Điều trị phẫu thuật
+### Điều trị phẫu thuật
 
-#### 6.4.1. Phẫu thuật cắt trĩ
+#### Phẫu thuật cắt trĩ
 * **Phương pháp Whitehead:** Cắt bỏ khoanh vòng niêm mạc ống hậu môn chứa búi trĩ. Hiện nay **gần như bỏ không dùng** do biến chứng biến dạng hậu môn và lộn niêm mạc gây lỏng lẻo tiết dịch "ướt đít".
 * **Phẫu thuật Cắt trĩ từng búi (Milligan-Morgan, Saint Mark):** Là **TIÊU CHUẨN VÀNG** trong điều trị phẫu thuật mà các phương pháp khác đều phải so sánh. Cắt riêng từng búi trĩ, để lại các cầu da - niêm mạc giữa các búi trĩ. *Nhược điểm:* Đau nhiều sau mổ (có thể giảm đau bằng cách cắt cơ thắt trong bổ sung hoặc bôi mỡ Nitroglycerin).
 
-#### 6.4.2. Phẫu thuật Longo (PPH)
+#### Phẫu thuật Longo (PPH)
 * Dùng máy khâu bấm vòng (*Stapler*) cắt và khâu treo một đoạn niêm mạc sa ở phía **trên đường lược**.
 * *Ưu điểm:* **Không đau sau mổ**, hồi phục rất nhanh, bệnh nhân ra viện sớm.
 * *Nhược điểm:* Khó xử lý trường hợp trĩ hỗn hợp có thừa nhiều da quanh hậu môn.
 
 ---
 
-## 7. CHỌN LỰA ĐIỀU TRỊ
+## CHỌN LỰA ĐIỀU TRỊ
 
 Căn cứ lựa chọn phương pháp:
 * **Trĩ sa nhiều:** Chọn các phương pháp phẫu thuật cắt búi trĩ (Milligan-Morgan, Saint Mark, Longo).

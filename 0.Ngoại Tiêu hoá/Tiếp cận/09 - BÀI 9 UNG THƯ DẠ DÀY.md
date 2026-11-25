@@ -20,7 +20,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. DỊCH TỄ UNG THƯ DẠ DÀY
+## DỊCH TỄ UNG THƯ DẠ DÀY
 
 Theo số liệu Globocan 2018, trên thế giới ước tính có khoảng **1 triệu người bệnh mới mắc ung thư dạ dày** mỗi năm. Đây là căn bệnh đứng hàng thứ 5 trong số các bệnh lý ác tính phổ biến (sau ung thư phổi, vú, đại - trực tràng và tiền liệt tuyến). Có đến **70%** các ca bệnh ghi nhận ở các nước đang phát triển, trong đó phân nửa tập trung tại khu vực Đông Á (đặc biệt là Trung Quốc). Tỷ lệ mắc bệnh ở nam giới cao hơn nữ giới từ **2 – 3 : 1**. Ung thư dạ dày cũng là nguyên nhân tử vong do ung thư đứng hàng thứ 3 trên thế giới.
 
@@ -42,7 +42,7 @@ Tại Việt Nam, ung thư dạ dày là một bệnh lý rất thường gặp.
    * Liên quan đến các hội chứng di truyền hiếm gặp: Ung thư dạ dày thể thâm nhiễm lan tỏa di truyền (*HDGC*), Đa polyp tuyến gia đình (*FAP*), Hội chứng Li-Fraumeni, Ung thư đại trực tràng không polyp di truyền (*HNPCC/Hội chứng Lynch*), Hội chứng ung thư vú và buồng trứng di truyền (*HBOC*)...
 6. **Tiền căn bệnh lý:**
    * Nhiễm *Helicobacter pylori*: Tăng nguy cơ mắc ung thư dạ dày từ **3,6 – 17 lần** (đặc biệt là chủng *H. pylori* mang yếu tố *cagA*).
-   * Tiền sử phẫu thuật cắt dạ dày \\(> 10\text{ năm}\\).
+   * Tiền sử phẫu thuật cắt dạ dày `> 10 năm`.
    * Viêm teo niêm mạc dạ dày và viêm chuyển sản niêm mạc ruột tại dạ dày.
    * Polyp dạ dày (ngoại trừ polyp tuyến đáy vị là lành tính).
 7. **Yếu tố khác:** Nam giới, thiếu máu ác tính, bệnh nhân mang **nhóm máu A**.
@@ -55,9 +55,9 @@ Tại Việt Nam, ung thư dạ dày là một bệnh lý rất thường gặp.
 
 ---
 
-## 2. GIẢI PHẪU BỆNH HỌC
+## GIẢI PHẪU BỆNH HỌC
 
-### 2.1. Đại thể
+### Đại thể
 
 #### Bảng phân loại Borrmann (1926):
 Phân chia ung thư dạ dày thành 5 loại dựa trên hình thái tổn thương quan sát được:
@@ -82,7 +82,7 @@ Phân chia thành 6 loại đại thể (bao quát cả giai đoạn sớm và t
   * *Loại 4:* Thâm nhiễm lan tỏa.
   * *Loại 5:* Không thuộc 4 loại trên.
 
-### 2.2. Vi thể
+### Vi thể
 
 #### Phân loại theo Lauren (1965):
 Là bảng phân loại vi thể hữu ích và áp dụng rộng rãi nhất, chia ung thư dạ dày thành 2 thể mô bệnh học giúp cá thể hóa phác đồ hóa trị:
@@ -108,7 +108,7 @@ Là bảng phân loại vi thể hữu ích và áp dụng rộng rãi nhất, c
 
 ---
 
-## 3. TRIỆU CHỨNG LÂM SÀNG
+## TRIỆU CHỨNG LÂM SÀNG
 
 Ung thư dạ dày ở giai đoạn sớm hầu như **không có triệu chứng đặc hiệu**.
 
@@ -134,15 +134,15 @@ Ung thư dạ dày ở giai đoạn sớm hầu như **không có triệu chứn
 
 ---
 
-## 4. TRIỆU CHỨNG CẬN LÂM SÀNG
+## TRIỆU CHỨNG CẬN LÂM SÀNG
 
-### 4.1. Nội soi và siêu âm qua nội soi
+### Nội soi và siêu âm qua nội soi
 * **Nội soi thực quản - dạ dày - tá tràng ống mềm:** Là phương tiện bắt buộc và quan trọng nhất để chẩn đoán xác định. Cho phép quan sát trực tiếp tổn thương, đánh giá đại thể và sinh thiết làm giải phẫu bệnh.
   * *Số lượng mẫu sinh thiết:* Bắt buộc sinh thiết từ **6 – 8 mẫu**. Nếu chỉ sinh thiết 1 mẫu độ nhạy chỉ đạt 70%, nhưng sinh thiết đủ **7 mẫu độ nhạy đạt tới 98%**.
   * *Nội soi NBI:* Dùng ánh sáng dải tần hẹp giúp nhận diện sớm tổn thương tăng sinh vi mạch.
 * **Siêu âm qua nội soi (EUS):** Dùng đầu dò 7.5 – 12 MHz khảo sát toàn bộ 5 lớp thành dạ dày. Giúp đánh giá chính xác độ xâm lấn sâu của u (**giai đoạn T**) và hạch vùng lân cận. *Hạn chế:* Không đánh giá được di căn phúc mạc và di căn xa.
 
-### 4.2. Chụp cắt lớp vi tính (CLVT / CT Scan)
+### Chụp cắt lớp vi tính (CLVT / CT Scan)
 Chụp CT Scan ngực - bụng - chậu có tiêm thuốc cản quang tĩnh mạch kèm làm căng dạ dày là **phương tiện quan trọng nhất để đánh giá giai đoạn TNM trước mổ**. Tỷ lệ phát hiện di căn trong ổ bụng đạt đến **85%** (độ nhạy 51%, độ đặc hiệu 96% đối với di căn phúc mạc).
 
 **Quy trình chụp CT dạ dày chuẩn:**
@@ -151,12 +151,12 @@ Chụp CT Scan ngực - bụng - chậu có tiêm thuốc cản quang tĩnh mạ
 * Chụp ở 4 thì: Trước tiêm, **thì động mạch (sau 30s)**, thì tĩnh mạch (75s), thì xả (180s). *Thì động mạch khi dạ dày căng cho phép đánh giá thành dạ dày tốt nhất.*
 * CT đa lát cắt có độ đặc hiệu chẩn đoán giai đoạn đạt **93 – 97%**, độ chính xác **90 – 92,5%**.
 
-#### 4.2.1. Chụp hình cắt lớp phát xạ Positron / Chụp cắt lớp vi tính (PET/CT)
+#### Chụp hình cắt lớp phát xạ Positron / Chụp cắt lớp vi tính (PET/CT)
 Chỉ định hữu ích để đánh giá ung thư dạ dày tái phát, giai đoạn tiến triển, hoặc nghi ngờ di căn xa trước khi bắt đầu phác đồ hóa trị tân hỗ trợ.
 
 ---
 
-## 5. ĐÁNH GIÁ GIAI ĐOẠN
+## ĐÁNH GIÁ GIAI ĐOẠN
 
 Phân loại giai đoạn theo hệ thống **TNM của Hội Ung thư Dạ dày Nhật Bản (JGCA)**:
 
@@ -179,9 +179,9 @@ Phân loại giai đoạn theo hệ thống **TNM của Hội Ung thư Dạ dày
 | | **N0** | Không có di căn hạch vùng. |
 | | **N1** | Di căn **1 – 2** hạch vùng. |
 | | **N2** | Di căn **3 – 6** hạch vùng. |
-| | **N3** | Di căn **\\(\ge 7\\)** hạch vùng. |
+| | **N3** | Di căn **`≥ 7`** hạch vùng. |
 | | *N3a* | Di căn **7 – 15** hạch vùng. |
-| | *N3b* | Di căn **\\(> 15\\)** hạch vùng. |
+| | *N3b* | Di căn **`> 15`** hạch vùng. |
 | **M (Di căn xa)** | **M0** | Không có di căn xa. |
 | | **M1** | Có di căn xa (gan, phổi, xương, hạch xa...). |
 
@@ -205,11 +205,11 @@ Phân loại giai đoạn theo hệ thống **TNM của Hội Ung thư Dạ dày
 
 ---
 
-## 6. ĐIỀU TRỊ
+## ĐIỀU TRỊ
 
 Phương pháp điều trị tối ưu và duy nhất có tính triệt căn đối với ung thư dạ dày là **phẫu thuật cắt dạ dày kèm nạo vét hạch hệ thống**. Phác đồ của Hội (Nghiên cứu) Ung thư Dạ dày Nhật Bản (2014) được áp dụng phổ biến nhất.
 
-### 6.1. Nguyên tắc điều trị ung thư dạ dày
+### Nguyên tắc điều trị ung thư dạ dày
 * **Phẫu thuật cắt dạ dày mang thương tổn** là ưu tiên hàng đầu khi còn chỉ định triệt căn.
 * **Phẫu thuật không triệt căn** (tạm bợ) chỉ áp dụng khi có biến chứng (chảy máu, hẹp môn vị, thủng) và bệnh không còn khả năng cắt triệt căn.
 * **Nạo hạch triệt để** bắt buộc trong mổ triệt căn vì tỷ lệ di căn hạch rất cao.
@@ -217,10 +217,10 @@ Phương pháp điều trị tối ưu và duy nhất có tính triệt căn đ�
 * Xạ trị chưa chứng minh được hiệu quả rõ rệt trong ung thư dạ dày.
 * **Liệu pháp miễn dịch nhắm trúng đích (Trastuzumab)** chỉ định cho các ca có bộc lộ thụ thể **HER-2 (+)**.
 
-### 6.2. Nguyên tắc phẫu thuật điều trị ung thư dạ dày
+### Nguyên tắc phẫu thuật điều trị ung thư dạ dày
 * Cắt bỏ toàn bộ mạc nối lớn và mạc nối nhỏ.
 * Nạo vét hạch hệ thống thành một khối nguyên vẹn (*en-bloc*).
-* **Bờ cắt dưới:** Dưới môn vị **\\(\ge 2\text{ cm}\\)** (ung thư rất hiếm khi lan xuống tá tràng quá khoảng cách này).
+* **Bờ cắt dưới:** Dưới môn vị **`≥ 2 cm`** (ung thư rất hiếm khi lan xuống tá tràng quá khoảng cách này).
 * **Bờ cắt trên:** Cách bờ trên thương tổn **ít nhất 5 cm**.
 * Thương tổn T4b: Bắt buộc cắt thành khối dạ dày kèm cơ quan bị xâm lấn.
 * **Cắt lách thường quy/dự phòng:** **KHÔNG có chỉ định** (chỉ cắt lách khi khối u xâm lấn trực tiếp vào lách hoặc rốn lách).
@@ -244,33 +244,33 @@ Phương pháp điều trị tối ưu và duy nhất có tính triệt căn đ�
  └─► cT1b hoặc cN+ ─► Cắt DĐ, D1+ / D2
 ```
 
-### 6.3. Các định nghĩa phẫu thuật điều trị ung thư dạ dày
+### Các định nghĩa phẫu thuật điều trị ung thư dạ dày
 
-#### 6.3.1. Phẫu thuật triệt căn
+#### Phẫu thuật triệt căn
 * **Cắt dạ dày tiêu chuẩn:** Cắt ít nhất 2/3 dạ dày triệt căn + Nạo hạch **D2**.
 * **Cắt dạ dày không theo tiêu chuẩn:**
   * *Phẫu thuật cải tiến:* Mức độ cắt dạ dày và/hoặc nạo hạch ít hơn phẫu thuật tiêu chuẩn (D1, D1+).
-  * *Phẫu thuật mở rộng:* Cắt dạ dày kèm cắt cơ quan kế cận bị xâm lấn hoặc nạo hạch \\(> \text{D2}\\).
+  * *Phẫu thuật mở rộng:* Cắt dạ dày kèm cắt cơ quan kế cận bị xâm lấn hoặc nạo hạch `> D2`.
 
-#### 6.3.2. Phẫu thuật không triệt căn
+#### Phẫu thuật không triệt căn
 * *Phẫu thuật tạm bợ:* Nối vị tràng, mở dạ dày hoặc mở hổng tràng nuôi ăn (giải quyết biến chứng hẹp môn vị/nuốt nghẹn).
 * *Phẫu thuật cắt giảm khối (*Cytoreductive surgery*):* Cắt dạ dày không tiêu chuẩn kèm thương tổn.
 
-### 6.4. Các phương pháp cắt dạ dày điều trị ung thư dạ dày
+### Các phương pháp cắt dạ dày điều trị ung thư dạ dày
 
-#### 6.4.1. Cắt bán phần dưới dạ dày
-Cắt bỏ phần lớn đoạn dưới dạ dày, môn vị, mạc nối lớn. Áp dụng cho thương tổn ở **1/3 dưới** hoặc **1/3 giữa** dạ dày mà khoảng cách từ bờ trên u đến tâm vị **\\(> 5\text{ cm}\\)**. Phục hồi lưu thông tiêu hóa theo kiểu Billroth I, Billroth II hoặc Roux-en-Y.
+#### Cắt bán phần dưới dạ dày
+Cắt bỏ phần lớn đoạn dưới dạ dày, môn vị, mạc nối lớn. Áp dụng cho thương tổn ở **1/3 dưới** hoặc **1/3 giữa** dạ dày mà khoảng cách từ bờ trên u đến tâm vị **`> 5 cm`**. Phục hồi lưu thông tiêu hóa theo kiểu Billroth I, Billroth II hoặc Roux-en-Y.
 
-#### 6.4.2. Cắt bán phần trên dạ dày
+#### Cắt bán phần trên dạ dày
 Cắt phần trên dạ dày chứa u, tâm vị, mạc nối lớn. Áp dụng cho ung thư **giai đoạn sớm ở 1/3 trên** dạ dày mà phần dạ dày còn lại ít nhất 1/2. Nối thực quản bụng với phần dạ dày còn lại.
 
-#### 6.4.3. Cắt toàn bộ dạ dày
-Cắt bỏ toàn bộ dạ dày, tâm vị, môn vị, mạc nối lớn. Áp dụng cho thương tổn ở **1/3 giữa** mà khoảng cách đến tâm vị **\\(< 5\text{ cm}\\)**, hoặc thương tổn ở **1/3 trên**, hoặc **toàn bộ dạ dày**. Nối thực quản - hổng tràng kiểu Roux-en-Y hoặc kiểu Omega.
+#### Cắt toàn bộ dạ dày
+Cắt bỏ toàn bộ dạ dày, tâm vị, môn vị, mạc nối lớn. Áp dụng cho thương tổn ở **1/3 giữa** mà khoảng cách đến tâm vị **`< 5 cm`**, hoặc thương tổn ở **1/3 trên**, hoặc **toàn bộ dạ dày**. Nối thực quản - hổng tràng kiểu Roux-en-Y hoặc kiểu Omega.
 
-#### 6.4.4. Cắt dạ dày kèm theo cơ quan khác (Cắt dạ dày mở rộng)
+#### Cắt dạ dày kèm theo cơ quan khác (Cắt dạ dày mở rộng)
 Cắt dạ dày + Cắt lách; Cắt dạ dày + Cắt đuôi tụy & lách; Cắt dạ dày + Cắt đoạn đại tràng ngang; Cắt dạ dày + Cắt thùy gan trái; Cắt dạ dày + Cắt khối tá tụy.
 
-### 6.5. Các mức độ nạo hạch trong điều trị ung thư dạ dày
+### Các mức độ nạo hạch trong điều trị ung thư dạ dày
 
 Theo hướng dẫn mới nhất của Hội Ung thư Dạ dày Nhật Bản, mức độ nạo hạch D1, D1+, D2 **phụ thuộc vào phương pháp cắt dạ dày** (bán phần dưới, bán phần trên hay toàn bộ) bất kể vị trí tổn thương nguyên phát:
 
@@ -282,20 +282,20 @@ Theo hướng dẫn mới nhất của Hội Ung thư Dạ dày Nhật Bản, m�
 | **Cắt bán phần dưới** | Nhóm **1, 3, 4sb, 4d, 5, 6, 7** | D1 + Nhóm **8a, 9** | D1 + Nhóm **8a, 9, 11p, 12a** |
 | **Cắt bán phần trên** | Nhóm **1, 2, 3a, 4sa, 4sb, 7** | D1 + Nhóm **8a, 9, 11p** | *Không có chỉ định* |
 
-*Cắt niêm mạc (EMR) / Bóc tách dưới niêm mạc (ESD) qua nội soi:* Áp dụng cho tổn thương ung thư sớm **\\(\le 2\text{ cm}\\)**, có biệt hóa, không loét, chỉ khu trú lớp niêm mạc (T1a).
+*Cắt niêm mạc (EMR) / Bóc tách dưới niêm mạc (ESD) qua nội soi:* Áp dụng cho tổn thương ung thư sớm **`≤ 2 cm`**, có biệt hóa, không loét, chỉ khu trú lớp niêm mạc (T1a).
 
-### 6.6. Hóa trị trong ung thư dạ dày
+### Hóa trị trong ung thư dạ dày
 Hóa trị giảm nhẹ áp dụng cho các trường hợp ung thư tái phát, không cắt được, hoặc diện cắt còn tế bào ung thư (R1, R2). Xét nghiệm sinh học phân tử HER-2 được thực hiện thường quy để phối hợp thuốc nhắm trúng đích Trastuzumab.
 
-### 6.7. Hóa trị tân hỗ trợ khi hạch bulky, hạch nhóm 16 (D3 > 1 cm)
-Chỉ định cho bệnh nhân ung thư dạ dày còn khả năng phẫu thuật triệt căn nhưng có hạch to (*bulky*, đường kính **\\(> 3\text{ cm}\\)**) hoặc nghi di căn hạch nhóm 16a2/16b1 (đường kính **\\(> 1\text{ cm}\\)**). Hóa trị trước mổ từ 3 – 6 đợt giúp làm tăng rõ rệt tỷ lệ sống còn sau mổ.
+### Hóa trị tân hỗ trợ khi hạch bulky, hạch nhóm 16 (D3 > 1 cm)
+Chỉ định cho bệnh nhân ung thư dạ dày còn khả năng phẫu thuật triệt căn nhưng có hạch to (*bulky*, đường kính **`> 3 cm`**) hoặc nghi di căn hạch nhóm 16a2/16b1 (đường kính **`> 1 cm`**). Hóa trị trước mổ từ 3 – 6 đợt giúp làm tăng rõ rệt tỷ lệ sống còn sau mổ.
 
-### 6.8. Hóa trị hỗ trợ sau mổ
+### Hóa trị hỗ trợ sau mổ
 Bắt buộc chỉ định cho ung thư dạ dày **giai đoạn II và III** sau phẫu thuật triệt căn để tiêu diệt mầm bệnh vi thể sót lại.
 * **HER-2 (-):** S-1 + Cisplatin, Capecitabine + Cisplatin, S-1 + Docetaxel, 5-FU + Cisplatin + Docetaxel.
 * **HER-2 (+):** Trastuzumab + Cisplatin + Capecitabine / 5-FU, hoặc Trastuzumab + S-1 + Cisplatin.
 
-### 6.9. Các yếu tố ảnh hưởng đến tỷ lệ sống còn của bệnh nhân sau mổ cắt dạ dày
+### Các yếu tố ảnh hưởng đến tỷ lệ sống còn của bệnh nhân sau mổ cắt dạ dày
 1. **Độ xâm lấn của thương tổn (Giai đoạn T).**
 2. **Đặc điểm mô bệnh học** (loại tế bào, độ biệt hóa).
 3. **Vị trí thương tổn** trên dạ dày.
@@ -310,7 +310,7 @@ Bắt buộc chỉ định cho ung thư dạ dày **giai đoạn II và III** sa
 2. Lâm sàng giai đoạn sớm rất mơ hồ (nặng bụng, chán ăn thịt, sụt cân); các dấu hiệu di căn muộn gồm hạch Virchow, u Krukenberg, nốt Sister Mary Joseph, mảng Blumer.
 3. **Nội soi tiêu hóa sinh thiết (6 – 8 mẫu)** là tiêu chuẩn vàng chẩn đoán xác định; **Chụp CT Scan ngực-bụng-chậu có cản quang** (uống 1.000ml nước làm căng dạ dày) là phương tiện quan trọng nhất đánh giá giai đoạn TNM trước mổ.
 4. Phân loại đại thể Borrmann (loại 1 đến 5) và JGCA (loại 0 đến 5); Phân loại vùng tâm vị theo Siewert (I, II, III).
-5. Phẫu thuật cắt dạ dày triệt căn + **nạo hạch D2** (mức độ nạo hạch phụ thuộc phương pháp cắt dạ dày) là điều trị cốt lõi; Hóa trị hỗ trợ bắt buộc cho giai đoạn II, III; Hóa trị tân hỗ trợ chỉ định khi có hạch bulky hoặc hạch nhóm 16 \\(> 1\text{ cm}\\).
+5. Phẫu thuật cắt dạ dày triệt căn + **nạo hạch D2** (mức độ nạo hạch phụ thuộc phương pháp cắt dạ dày) là điều trị cốt lõi; Hóa trị hỗ trợ bắt buộc cho giai đoạn II, III; Hóa trị tân hỗ trợ chỉ định khi có hạch bulky hoặc hạch nhóm 16 `> 1 cm`.
 
 ---
 

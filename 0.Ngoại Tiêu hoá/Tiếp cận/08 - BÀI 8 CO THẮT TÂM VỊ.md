@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 Co thắt tâm vị (*achalasia* – bệnh lý thực quản không dãn nở) là một bệnh lý về rối loạn vận động của thực quản dưới hay cơ thắt thực quản dưới (LES). Lớp cơ vòng LES không thể co dãn bình thường kèm theo tình trạng mất nhu động thành thực quản. Co thắt tâm vị là thể loại bệnh lý hay gặp nhất trong nhóm rối loạn vận động của thực quản (*esophageal motility disorders*).
 
@@ -33,9 +33,9 @@ Về mặt dịch tễ và số liệu:
 
 ---
 
-## 2. ĐẶC ĐIỂM GIẢI PHẪU - SINH LÝ THỰC QUẢN
+## ĐẶC ĐIỂM GIẢI PHẪU - SINH LÝ THỰC QUẢN
 
-### 2.1. Giải phẫu
+### Giải phẫu
 Về mặt giải phẫu, thực quản được chia làm 3 đoạn:
 * Đoạn cổ: Dài khoảng **3 cm**.
 * Đoạn ngực: Dài khoảng **20 cm**.
@@ -56,7 +56,7 @@ Hành trình thức ăn được kiểm soát bởi 2 vùng áp lực cao:
 * **Cơ thắt thực quản trên (UES):** Phức hợp nhiều cơ (thắt hầu trên, giữa, cơ nhẫn phễu...), vai trò chính là cơ nhẫn - hầu.
 * **Cơ thắt thực quản dưới (LES):** Xác định bởi 4 mốc (mốc bên ngoài: cột cơ Helvetius/vòng Willis, dải mỡ thực quản - dạ dày; mốc bên trong: đường Z, vùng chuyển tiếp cơ trơn - nếp cuộn cơ dạ dày).
 
-### 2.2. Sinh lý tiêu hóa tại thực quản
+### Sinh lý tiêu hóa tại thực quản
 Động tác nuốt gồm 3 giai đoạn:
 1. *Giai đoạn nuốt có ý thức:* Viên thức ăn được lưỡi đẩy ra sau vào họng.
 2. *Giai đoạn họng không có ý thức (1 – 2 giây):* Kích thích vùng nhận cảm nuốt truyền xung động về trung tâm nuốt ở hành não (qua dây V, IX), truyền phản xạ (qua dây V, IX, X, XII) gây kéo khẩu cái mềm đóng mũi sau, đậy nắp thanh quản che thanh môn, mở UES và co cơ họng đẩy thức ăn xuống.
@@ -86,70 +86,70 @@ Hành trình thức ăn được kiểm soát bởi 2 vùng áp lực cao:
 | | Thời gian kéo dài | 2,3 – 3,6 giây |
 
 **Các thông số trên Đo áp lực thực quản độ phân giải cao (HRM):**
-* **IRP** (*Integrated Relaxation Pressure*): Áp lực tồn lưu trung bình thấp nhất khi LES dãn ra trong 10 giây đầu sau khi nuốt (bình thường \\(\le 15\text{ mmHg}\\)).
-* **DCI** (*Distal Contractile Integral*): Độ mạnh nhu động co thắt đoạn thực quản xa (đơn vị: \\(\text{mmHg}\cdot\text{s}\cdot\text{cm}\\)).
+* **IRP** (*Integrated Relaxation Pressure*): Áp lực tồn lưu trung bình thấp nhất khi LES dãn ra trong 10 giây đầu sau khi nuốt (bình thường `≤ 15 mmHg`).
+* **DCI** (*Distal Contractile Integral*): Độ mạnh nhu động co thắt đoạn thực quản xa (đơn vị: `mmHg·s·cm`).
 * **DL** (*Distal Latency*): Khoảng thời gian từ lúc nuốt đến điểm giảm tốc co thắt CDP (giây).
 * **CDP** (*Contractile Deceleration Point*): Điểm chuyển tiếp gần LES bắt đầu giảm tốc độ co thắt.
 
 ---
 
-## 3. SINH LÝ BỆNH
+## SINH LÝ BỆNH
 
 Trong co thắt tâm vị:
 * Cơ vân 1/3 trên thực quản và chức năng nuốt ở hầu họng hoàn toàn bình thường.
 * Bất thường xảy ra ở 2/3 dưới thực quản (cơ trơn): Mất nhu động thân thực quản + LES không dãn nở khi nuốt.
-* **Hậu quả:** Thức ăn không thể chui qua tâm vị xuống dạ dày. Ban đầu chỉ có lực thủy tĩnh đẩy được một ít chất lỏng qua; khi bệnh tiến triển, áp lực co thắt LES lớn hơn lực thủy tĩnh \\(\rightarrow\\) Thức ăn ứ đọng hoàn toàn \\(\rightarrow\\) Thực quản dãn to, vách cơ dày và phù nề do viêm mạn tính.
+* **Hậu quả:** Thức ăn không thể chui qua tâm vị xuống dạ dày. Ban đầu chỉ có lực thủy tĩnh đẩy được một ít chất lỏng qua; khi bệnh tiến triển, áp lực co thắt LES lớn hơn lực thủy tĩnh `→` Thức ăn ứ đọng hoàn toàn `→` Thực quản dãn to, vách cơ dày và phù nề do viêm mạn tính.
 
-### 3.1. Thương tổn giải phẫu bệnh
+### Thương tổn giải phẫu bệnh
 * Cơ chế bệnh sinh cốt lõi là sự **thoái hóa tế bào thần kinh vận động** trong đám rối Auerbach tại thành thực quản (mô học thấy giảm số lượng tế bào thần kinh, thâm nhiễm lympho bào và bạch cầu ái toan).
-* Tổn thương đặc hiệu ở các hạch thần kinh ức chế sản xuất Nitric Oxide (NO) \\(\rightarrow\\) Mất khả năng dãn cơ thắt LES.
+* Tổn thương đặc hiệu ở các hạch thần kinh ức chế sản xuất Nitric Oxide (NO) `→` Mất khả năng dãn cơ thắt LES.
 * Có hiện tượng thoái hóa hạch thần kinh ở nhân vận động dây X tại hành não và thoái hóa Wallerian ở các nhánh dây X đi vào thực quản.
 * Niêm mạc thực quản bị kích thích viêm mạn tính kéo dài do ứ đọng dễ bị nhiễm nấm và tăng nguy cơ ung thư hóa (carcinom tế bào gai chiếm 8% sau 20 năm).
 * Giả co thắt tâm vị (*pseudoachalasia*) xảy ra trong bệnh Chagas (nhiễm *Trypanosoma cruzi*) hoặc do khối u ung thư thâm nhiễm/chèn ép từ bên ngoài.
 
 ---
 
-## 4. PHÂN LOẠI
+## PHÂN LOẠI
 
-### 4.1. Phân loại cũ
+### Phân loại cũ
 * **Co thắt tâm vị kinh điển (*Classic achalasia*):** LES không dãn, co cơ thành thực quản biên độ thấp không tạo thành nhu động.
 * **Co thắt tâm vị thể co thắt mạnh (*Vigorous achalasia*):** Co cơ thành thực quản tái diễn với biên độ cao không thành nhu động (dạng co thắt lan tỏa).
 
-### 4.2. Phân loại dựa trên áp lực đồ thực quản (Phân loại Chicago)
+### Phân loại dựa trên áp lực đồ thực quản (Phân loại Chicago)
 Được ứng dụng trong thực hành lâm sàng dựa trên kết quả HRM, chia co thắt tâm vị thành 3 típ:
 
 **Bảng 2. Phân loại Chicago về rối loạn vận động thực quản (Phần Co thắt tâm vị)**
 
 | Dạng Co thắt tâm vị | Đặc điểm áp lực đồ HRM |
 | :--- | :--- |
-| **Típ I (Cổ điển)** | IRP tăng cao (\\(> 15\text{ mmHg}\\)), **100% lần nuốt không có nhu động** (DCI \\(< 100\text{ mmHg}\cdot\text{s}\cdot\text{cm}\\)), không có nén áp lực bất thường. |
-| **Típ II (Có tăng áp lực toàn thực quản)** | IRP tăng cao, mất nhu động, **\\(> 20\%\)** lần nuốt xuất hiện nén áp lực toàn thân thực quản (*pan-esophageal pressurization*). *(Típ này có tỷ lệ đáp ứng điều trị tốt nhất)*. |
-| **Típ III (Thể co thắt)** | IRP tăng cao, **\\(> 20\%\)** lần nuốt có sóng nhu động co thắt sớm/kéo dài (co thắt cơ vòng dữ dội, \\(\text{DCI} > 450\text{ mmHg}\cdot\text{s}\cdot\text{cm}\\)). |
+| **Típ I (Cổ điển)** | IRP tăng cao (`> 15 mmHg`), **100% lần nuốt không có nhu động** (DCI `< 100 mmHg·s·cm`), không có nén áp lực bất thường. |
+| **Típ II (Có tăng áp lực toàn thực quản)** | IRP tăng cao, mất nhu động, **`> 20%`** lần nuốt xuất hiện nén áp lực toàn thân thực quản (*pan-esophageal pressurization*). *(Típ này có tỷ lệ đáp ứng điều trị tốt nhất)*. |
+| **Típ III (Thể co thắt)** | IRP tăng cao, **`> 20%`** lần nuốt có sóng nhu động co thắt sớm/kéo dài (co thắt cơ vòng dữ dội, `DCI > 450 mmHg·s·cm`). |
 
-*(Các dạng rối loạn vận động khác: Co thắt thực quản lan tỏa, Co thắt Jackhammer với DCI \\(> 8.000\\), Vận động không hiệu quả...).*
+*(Các dạng rối loạn vận động khác: Co thắt thực quản lan tỏa, Co thắt Jackhammer với DCI `> 8.000`, Vận động không hiệu quả...).*
 
-### 4.3. Phân loại theo nguyên nhân nguyên phát và thứ phát
+### Phân loại theo nguyên nhân nguyên phát và thứ phát
 * **Co thắt tâm vị nguyên phát:** Do thoái hóa nguyên phát đám rối Auerbach (thường gặp nhất).
 * **Co thắt tâm vị thứ phát (Giả co thắt tâm vị):** Do bệnh Chagas, ung thư dạ dày tâm vị xâm lấn, u trung thất chèn ép, Amyloidosis...
 
-### 4.4. Phân loại theo vị trí giải phẫu
+### Phân loại theo vị trí giải phẫu
 * Tổn thương tại cơ thắt thực quản dưới (LES).
 * Tổn thương tại thân thực quản (2/3 dưới cơ trơn).
 
 ---
 
-## 5. LÂM SÀNG
+## LÂM SÀNG
 
-### 5.1. Triệu chứng cơ năng
+### Triệu chứng cơ năng
 1. **Nuốt khó, nuốt nghẹn (95%):** Là triệu chứng phổ biến nhất, nuốt khó xảy ra với **cả thức ăn lỏng và đặc** ngay từ đầu. Thường xuất hiện đột ngột (có thể sau một xúc động mạnh). Bữa ăn kéo dài hàng giờ.
-2. **Trào ngược (75%):** Trào ngược thức ăn cũ chưa tiêu hóa, không có vị chua (do thức ăn chưa xuống dạ dày). Thường trào ngược khi nằm ngủ \\(\rightarrow\\) Gây ho, sặc, viêm phổi hít.
+2. **Trào ngược (75%):** Trào ngược thức ăn cũ chưa tiêu hóa, không có vị chua (do thức ăn chưa xuống dạ dày). Thường trào ngược khi nằm ngủ `→` Gây ho, sặc, viêm phổi hít.
 3. **Ợ nóng (40%):** Do thức ăn ứ đọng lên men sinh acid hữu cơ tại chỗ chứ không phải trào ngược acid dạ dày (dễ chẩn đoán nhầm với GERD).
 4. **Đau ngực:** Đau sau xương ức sau khi ăn, tăng lên khi thực quản bị căng trướng.
 
-### 5.2. Triệu chứng thực thể
+### Triệu chứng thực thể
 Thường nghèo nàn. Có thể thấy nấc cục, dấu hiệu viêm họng mạn, viêm phổi do trào ngược sặc, hoặc các triệu chứng của bệnh nguyên nền. Khám tại giường: Cho bệnh nhân uống nước quan sát động tác nuốt.
 
-### 5.3. Triệu chứng toàn thân
+### Triệu chứng toàn thân
 Diễn tiến mạn tính qua nhiều tháng/năm làm bệnh nhân sụt cân, gầy ốm, suy dinh dưỡng.
 
 **Bảng 3. Thang điểm Eckardt (Phân giai đoạn lâm sàng)**
@@ -159,7 +159,7 @@ Diễn tiến mạn tính qua nhiều tháng/năm làm bệnh nhân sụt cân, 
 | **Nuốt khó** | Không có | Thỉnh thoảng | Mỗi ngày | Mỗi bữa ăn |
 | **Trào ngược** | Không có | Thỉnh thoảng | Mỗi ngày | Mỗi bữa ăn |
 | **Đau ngực** | Không có | Thỉnh thoảng | Mỗi ngày | Mỗi bữa ăn |
-| **Sụt cân** | Không có | \\(< 5\text{ kg}\\) | \\(5 - 10\text{ kg}\\) | \\(> 10\text{ kg}\\) |
+| **Sụt cân** | Không có | `< 5 kg` | `5 - 10 kg` | `> 10 kg` |
 
 * **Phân giai đoạn theo tổng điểm Eckardt:**
   * *0 – 1 điểm:* Giai đoạn 0 (Sớm).
@@ -169,58 +169,58 @@ Diễn tiến mạn tính qua nhiều tháng/năm làm bệnh nhân sụt cân, 
 
 ---
 
-## 6. CẬN LÂM SÀNG
+## CẬN LÂM SÀNG
 
-### 6.1. X-quang ngực
+### X-quang ngực
 Dấu hiệu gợi ý gián tiếp: Trung thất dãn rộng, mực nước - hơi trong trung thất (thực quản dãn ứ đọng), **mất bóng hơi phình vị dạ dày**.
 
-### 6.2. Chụp X-quang thực quản cản quang với Baryt
+### Chụp X-quang thực quản cản quang với Baryt
 * Thực quản dãn to, gập góc ngoằn ngoèo (thực quản hình *sigmoid*, *megaesophagus*).
 * Đoạn dưới thực quản chít hẹp vuốt nhọn hình **"mỏ chim"** (*bird's beak*) hoặc hình "củ cải".
 * Mất hoàn toàn sóng nhu động, thuốc cản quang bị ứ đọng kéo dài.
 
-### 6.3. Đo áp lực thực quản quy ước (*Conventional Manometry*)
+### Đo áp lực thực quản quy ước (*Conventional Manometry*)
 * 2/3 dưới thực quản mất sóng nhu động.
-* LES không dãn nở khi nuốt (áp lực tồn lưu \\(> 8\text{ mmHg}\\) so với dạ dày; áp lực nghỉ \\(> 45\text{ mmHg}\\)).
+* LES không dãn nở khi nuốt (áp lực tồn lưu `> 8 mmHg` so với dạ dày; áp lực nghỉ `> 45 mmHg`).
 
-### 6.4. Đo áp lực thực quản có độ phân giải cao (HRM)
+### Đo áp lực thực quản có độ phân giải cao (HRM)
 * Là **"Tiêu chuẩn vàng"** trong chẩn đoán xác định và phân loại Típ I, II, III theo Chicago.
-* Bắt buộc có: **\\(\text{IRP} > 15\text{ mmHg}\\)** và **mất nhu động bình thường** đoạn thực quản xa.
+* Bắt buộc có: **`IRP > 15 mmHg`** và **mất nhu động bình thường** đoạn thực quản xa.
 
-### 6.5. Nội soi tiêu hóa trên
+### Nội soi tiêu hóa trên
 Bắt buộc thực hiện để **loại trừ ung thư thực quản - tâm vị** (*pseudoachalasia*).
 * Quan sát thực quản dãn, ứ đọng dịch và bã thức ăn, niêm mạc viêm loét.
 * Đưa ống soi qua tâm vị: LES đóng kín nhưng **đẩy nhẹ ống soi vẫn qua được dễ dàng** vào dạ dày (khác với ung thư hoặc hẹp xơ chai làm ống soi bị kẹt cứng).
 
-### 6.6. Siêu âm qua nội soi (EUS)
+### Siêu âm qua nội soi (EUS)
 Cho thấy lớp cơ LES dày nhẹ đồng tâm; giúp loại trừ u dưới niêm mạc hoặc u ngoài chèn ép.
 
-### 6.7. Chụp cắt lớp vi tính (CT Scan) ngực
+### Chụp cắt lớp vi tính (CT Scan) ngực
 Chỉ định khi nghi ngờ ung thư dạ dày tâm vị xâm lấn hoặc u trung thất chèn ép gây giả co thắt tâm vị.
 
 ---
 
-## 7. DIỄN TIẾN VÀ BIẾN CHỨNG
+## DIỄN TIẾN VÀ BIẾN CHỨNG
 
-### 7.1. Diễn tiến
+### Diễn tiến
 Bệnh tiến triển mạn tính, thất thường. Triệu chứng cơ năng không tương quan thuận với độ dãn thực quản. Bệnh nhân có thể chết đột ngột do phản xạ tim mạch/dây phế vị, ngạt thở do thức ăn trào vào khí quản, hoặc suy dinh dưỡng nặng.
 
-### 7.2. Biến chứng
+### Biến chứng
 * **Tại chỗ:** Viêm loét thực quản, sẹo xơ chít hẹp, chèn ép khí quản/tim/tĩnh mạch, viêm phổi/áp xe phổi do trào ngược sặc, rò thực quản - khí quản, **ung thư hóa** (carcinom tế bào gai).
 * **Toàn thân:** Suy dinh dưỡng nặng, kiệt sức, trầm cảm/căng thẳng tâm lý.
 
 ---
 
-## 8. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
-### 8.1. Chẩn đoán xác định
+### Chẩn đoán xác định
 Dựa vào:
 1. *Lâm sàng:* Tam chứng nuốt nghẹn (lỏng & đặc), trào ngược, sụt cân.
 2. *X-quang Baryt:* Hình ảnh "mỏ chim", thực quản dãn.
-3. *Đo áp lực thực quản HRM (Tiêu chuẩn vàng):* \\(\text{IRP} > 15\text{ mmHg}\\) + Mất nhu động thực quản xa.
+3. *Đo áp lực thực quản HRM (Tiêu chuẩn vàng):* `IRP > 15 mmHg` + Mất nhu động thực quản xa.
 4. *Nội soi tiêu hóa:* Loại trừ ung thư.
 
-### 8.2. Chẩn đoán phân biệt
+### Chẩn đoán phân biệt
 * Bệnh trào ngược dạ dày thực quản (GERD).
 * Ung thư thực quản - tâm vị / U chèn ép (*Pseudoachalasia*).
 * Viêm hẹp thực quản do hóa chất, hóc xương.
@@ -229,25 +229,25 @@ Dựa vào:
 
 ---
 
-## 9. ĐIỀU TRỊ
+## ĐIỀU TRỊ
 
-### 9.1. Nguyên tắc điều trị
+### Nguyên tắc điều trị
 Mục tiêu chính là **làm giảm trương lực/áp lực của cơ thắt thực quản dưới (LES)** (bằng thuốc, thủ thuật hoặc phẫu thuật) để thức ăn đi qua tâm vị vào dạ dày dễ dàng nhờ trọng lực.
 
-### 9.2. Các phương pháp điều trị
+### Các phương pháp điều trị
 
-#### 9.2.1. Điều trị không phẫu thuật (Nội khoa)
+#### Điều trị không phẫu thuật (Nội khoa)
 * Dùng thuốc Nifedipine (chẹn kênh canxi) hoặc Isosorbide dinitrate (nhóm Nitrat).
 * *Chỉ định:* Bệnh nhân giai đoạn rất sớm, không thể phẫu thuật/nong bóng, từ chối can thiệp xâm lấn, hoặc thất bại với Botulinum. Hiệu quả rất thấp (~10%).
 
-#### 9.2.2. Điều trị bằng thủ thuật
+#### Điều trị bằng thủ thuật
 1. **Tiêm Botulinum Toxin A:** Tiêm qua nội soi vào cơ LES để ức chế giải phóng Acetylcholine.
    * *Nhược điểm:* Hiệu quả giảm dần sau 6 – 8 tháng, tỷ lệ thất bại dài hạn gần 100%. Dành cho bệnh nhân rất già yếu không chịu nổi phẫu thuật.
 2. **Nong thực quản bằng bóng hơi (PBD - *Pneumatic Balloon Dilatation*):** Dùng bóng Rigiflex (đường kính 3 cm, 3,5 cm, 4 cm) làm đứt các sợi cơ vòng LES.
    * *Hiệu quả:* 67 – 93% cải thiện tốt trong 3 – 4 năm, nhưng giảm dần sau 5 năm (tái phát ~50%).
 3. **Rạch mở cơ qua nội soi đường miệng (POEM - *Peroral Endoscopic Myotomy*):** Khởi xướng bởi H. Inoue (2008). Rạch niêm mạc, tạo đường hầm dưới niêm mạc để cắt mở lớp cơ LES qua nội soi ống mềm. Hiệu quả rất cao.
 
-#### 9.2.3. Điều trị phẫu thuật
+#### Điều trị phẫu thuật
 * **Phẫu thuật Heller qua nội soi ổ bụng (Laparoscopic Heller Myotomy - LHM):** Lựa chọn hàng đầu. Cắt mở lớp cơ thực quản - tâm vị ngoài niêm mạc.
   * *Kỹ thuật:* Phẫu tích bộc lộ LES, cắt mở lớp cơ dài khoảng **6 cm** (4 cm trên thực quản, 2 cm dưới tâm vị), giải phóng niêm mạc 40 – 50% chu vi.
   * *Phối hợp tạo van chống trào ngược:* Bắt buộc phối hợp làm van chống trào ngược (kiểu **Dor** - gấp phình vị trước, hoặc kiểu **Nissen** - ôm quanh thực quản).
@@ -255,13 +255,13 @@ Mục tiêu chính là **làm giảm trương lực/áp lực của cơ thắt t
 
 **Lưu đồ điều trị theo Đồng thuận Seoul 2019:**
 * *Nguy cơ phẫu thuật thấp:*
-  - Típ I, II \\(\rightarrow\\) Lựa chọn **Phẫu thuật Heller (LHM)** hoặc **Nong bóng (PBD)**.
-  - Típ III \\(\rightarrow\\) Lựa chọn **POEM** hoặc **PBD**.
+  - Típ I, II `→` Lựa chọn **Phẫu thuật Heller (LHM)** hoặc **Nong bóng (PBD)**.
+  - Típ III `→` Lựa chọn **POEM** hoặc **PBD**.
 * *Nguy cơ phẫu thuật cao / Bệnh nhân già yếu:* Tiêm **Botulinum toxin** hoặc dùng thuốc đường uống.
 
 ---
 
-## 10. TIÊN LƯỢNG VÀ DỰ PHÒNG
+## TIÊN LƯỢNG VÀ DỰ PHÒNG
 
 * **Tiên lượng:** Tỷ lệ điều trị thành công cao khi phát hiện sớm. 10 – 15% tiến triển dãn thực quản nặng; khoảng 5% có chỉ định cắt thực quản. Nguy cơ tiến triển thành ung thư thực quản thấp nhưng cần theo dõi mạn tính.
 * **Dự phòng:** Chẩn đoán sớm ngay khi có triệu chứng nuốt nghẹn gợi ý để điều trị kịp thời, tránh biến chứng dãn thực quản khổng lồ.
@@ -272,7 +272,7 @@ Mục tiêu chính là **làm giảm trương lực/áp lực của cơ thắt t
 
 1. Co thắt tâm vị (*Achalasia*) là rối loạn vận động cơ trơn thực quản phổ biến nhất, do thoái hóa các neuron thần kinh ở đám rối Auerbach dẫn đến **cơ thắt thực quản dưới (LES) không dãn mở** và **mất nhu động 2/3 dưới thực quản**.
 2. Triệu chứng lâm sàng kinh điển là **nuốt nghẹn cả thức ăn lỏng lẫn đặc**, trào ngược thức ăn cũ chưa tiêu hóa, đau ngực và sụt cân (Thang điểm Eckardt dùng để đánh giá mức độ nặng).
-3. **Đo áp lực thực quản độ phân giải cao (HRM)** là "tiêu chuẩn vàng" để chẩn đoán xác định (\\(\text{IRP} > 15\text{ mmHg}\\)) và phân loại thành 3 Típ theo Chicago (Típ I, II, III).
+3. **Đo áp lực thực quản độ phân giải cao (HRM)** là "tiêu chuẩn vàng" để chẩn đoán xác định (`IRP > 15 mmHg`) và phân loại thành 3 Típ theo Chicago (Típ I, II, III).
 4. Chụp X-quang cản quang Baryt thấy hình ảnh **"mỏ chim"**; Nội soi tiêu hóa bắt buộc thực hiện để **loại trừ ung thư thực quản - tâm vị**.
 5. Nguyên tắc điều trị là làm giảm áp lực LES. Các phương pháp hàng đầu bao gồm: **Phẫu thuật Heller nội soi kết hợp tạo van chống trào ngược (LHM)**, **Cắt cơ qua nội soi đường miệng (POEM)**, và **Nong tâm vị bằng bóng hơi (PBD)**.
 

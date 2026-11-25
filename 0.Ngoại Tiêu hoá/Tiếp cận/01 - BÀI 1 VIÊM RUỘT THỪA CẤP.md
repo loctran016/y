@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 Viêm ruột thừa cấp (VRT) là cấp cứu bụng ngoại khoa thường gặp nhất trong thực hành lâm sàng. Nguy cơ bị VRT trong suốt cuộc đời ở nam giới là 8,6% và ở nữ giới là 6,7%. Tại các nước phát triển, xuất độ VRT ghi nhận khoảng 5,7 – 50/100.000 dân/năm, trong đó độ tuổi thường gặp nhất là từ 10 đến 30 tuổi. Tại các bệnh viện từ tuyến huyện đến tuyến trung ương ở nước ta, số ca được chẩn đoán và điều trị VRT luôn chiếm tỷ lệ cao trong cấp cứu ngoại tổng quát.
 
@@ -29,15 +29,15 @@ Về tiên lượng, khi được chẩn đoán sớm và phẫu thuật kịp t
 
 ---
 
-## 2. NHẮC LẠI PHÔI THAI, GIẢI PHẪU, SINH LÝ RUỘT THỪA
+## NHẮC LẠI PHÔI THAI, GIẢI PHẪU, SINH LÝ RUỘT THỪA
 
 Về phôi thai học, từ tuần lễ thứ 6 của thai kỳ, ruột thừa bắt đầu hình thành như một phần trồi ra từ nụ manh tràng. Trong quá trình phát triển thai nhi và những năm đầu sau sinh, manh tràng phát triển nhanh hơn làm ruột thừa dần nằm lệch vào giữa so với đáy manh tràng, hướng về phía van hồi manh tràng.
 
-Về giải phẫu học, ba dải cơ dọc của đại tràng hội tụ tại đáy manh tràng tạo nên lớp cơ dọc duy nhất của ruột thừa; đây chính là mốc giải phẫu chắc chắn nhất để phẫu thuật viên tìm gốc ruột thừa. Nhìn từ bên trong lòng manh tràng, lỗ ruột thừa đôi khi có một nếp niêm mạc hình bán nguyệt bảo vệ gọi là van Gerlach. Trong khi gốc ruột thừa luôn cố định tại đáy manh tràng, đầu tự do của ruột thừa có thể xoay \\(360^\circ\\) quanh gốc, tạo ra nhiều vị trí giải phẫu khác nhau: trước manh tràng, sau manh tràng, cạnh manh tràng, chậu hông (tiểu khung), dưới gan, hay giữa các quai ruột. Chính sự đa dạng về vị trí giải phẫu này là nguyên nhân làm cho biểu hiện lâm sàng của VRT rất phức tạp.
+Về giải phẫu học, ba dải cơ dọc của đại tràng hội tụ tại đáy manh tràng tạo nên lớp cơ dọc duy nhất của ruột thừa; đây chính là mốc giải phẫu chắc chắn nhất để phẫu thuật viên tìm gốc ruột thừa. Nhìn từ bên trong lòng manh tràng, lỗ ruột thừa đôi khi có một nếp niêm mạc hình bán nguyệt bảo vệ gọi là van Gerlach. Trong khi gốc ruột thừa luôn cố định tại đáy manh tràng, đầu tự do của ruột thừa có thể xoay `360°` quanh gốc, tạo ra nhiều vị trí giải phẫu khác nhau: trước manh tràng, sau manh tràng, cạnh manh tràng, chậu hông (tiểu khung), dưới gan, hay giữa các quai ruột. Chính sự đa dạng về vị trí giải phẫu này là nguyên nhân làm cho biểu hiện lâm sàng của VRT rất phức tạp.
 
 Cung cấp máu chính cho ruột thừa là động mạch ruột thừa (nhánh của động mạch hồi đại tràng) chạy ở bờ tự do của mạc treo ruột thừa, đôi khi có thêm nhánh phụ từ động mạch manh tràng sau. Tĩnh mạch ruột thừa dẫn máu về tĩnh mạch hồi - đại tràng, qua tĩnh mạch mạc treo tràng trên rồi về hệ tĩnh mạch cửa. Hệ bạch huyết gồm 8 – 15 mạch dẫn về các hạch nằm dọc động mạch hồi đại tràng.
 
-Về thần kinh, ruột thừa được cung cấp bởi hệ giao cảm và đối giao cảm qua đám rối mạc treo tràng trên. Các sợi thần kinh hướng tâm dẫn truyền cảm giác đau tạng từ ruột thừa đi theo dây giao cảm vào tủy sống ở ngang mức khoanh tủy ngực 10 (\\(T_{10}\\)). Trong khi đó, phúc mạc thành bụng vùng hố chậu phải lại bị chi phối bởi thần kinh gian sườn 10.
+Về thần kinh, ruột thừa được cung cấp bởi hệ giao cảm và đối giao cảm qua đám rối mạc treo tràng trên. Các sợi thần kinh hướng tâm dẫn truyền cảm giác đau tạng từ ruột thừa đi theo dây giao cảm vào tủy sống ở ngang mức khoanh tủy ngực 10 (`T₁₀`). Trong khi đó, phúc mạc thành bụng vùng hố chậu phải lại bị chi phối bởi thần kinh gian sườn 10.
 
 Về chức năng sinh lý, ruột thừa không phải là cơ quan tàn tích vô dụng mà chứa rất nhiều mô bạch huyết có chức năng miễn dịch:
 * Các tế bào đài tiết chất nhầy giàu Immunoglobulin A (IgA) tạo lớp màng kháng khuẩn bảo vệ niêm mạc ruột.
@@ -45,25 +45,25 @@ Về chức năng sinh lý, ruột thừa không phải là cơ quan tàn tích 
 
 ---
 
-## 3. BỆNH SINH
+## BỆNH SINH
 
 Bệnh sinh của viêm ruột thừa cấp được giải thích qua hai cơ chế chính:
 
-1. **Viêm ruột thừa do tắc nghẽn (VRT tắc nghẽn):** Tắc nghẽn lòng ruột thừa được xem là sự kiện khởi phát chính ở đa số bệnh nhân. Lòng ruột thừa bị tắc do sỏi phân, tăng sản mô bạch huyết, dị vật (hạt trái cây, sợi rau, barium), ký sinh trùng hoặc khối u. Khi lòng ruột thừa bị tắc, dịch tiết tiếp tục tích tụ làm áp lực nội lòng tăng cao (có thể đạt \\(50 - 65\text{ mmHg}\\)). Sự ứ đọng tạo điều kiện cho vi khuẩn tăng sinh và sản sinh độc tố. Khi áp lực vượt quá áp lực tĩnh mạch, xẹp và huyết khối tiểu tĩnh mạch sẽ xảy ra gây sung huyết và ứ máu. Niêm mạc bị thiếu máu nuôi, hoại tử loét, mất hàng rào bảo vệ, cho phép vi khuẩn xâm nhập sâu vào thành ruột thừa, dẫn đến hoại tử xuyên thành và thủng ruột thừa. Dạng này tiến triển rất nhanh đến vỡ ruột thừa gây viêm phúc mạc.
+1. **Viêm ruột thừa do tắc nghẽn (VRT tắc nghẽn):** Tắc nghẽn lòng ruột thừa được xem là sự kiện khởi phát chính ở đa số bệnh nhân. Lòng ruột thừa bị tắc do sỏi phân, tăng sản mô bạch huyết, dị vật (hạt trái cây, sợi rau, barium), ký sinh trùng hoặc khối u. Khi lòng ruột thừa bị tắc, dịch tiết tiếp tục tích tụ làm áp lực nội lòng tăng cao (có thể đạt `50 - 65 mmHg`). Sự ứ đọng tạo điều kiện cho vi khuẩn tăng sinh và sản sinh độc tố. Khi áp lực vượt quá áp lực tĩnh mạch, xẹp và huyết khối tiểu tĩnh mạch sẽ xảy ra gây sung huyết và ứ máu. Niêm mạc bị thiếu máu nuôi, hoại tử loét, mất hàng rào bảo vệ, cho phép vi khuẩn xâm nhập sâu vào thành ruột thừa, dẫn đến hoại tử xuyên thành và thủng ruột thừa. Dạng này tiến triển rất nhanh đến vỡ ruột thừa gây viêm phúc mạc.
 
 2. **Viêm ruột thừa xuất tiết (VRT không tắc nghẽn):** Các nghiên cứu gần đây cho thấy hiện tượng tăng áp lực và tắc lòng ruột thừa không gặp ở 90% bệnh nhân viêm ruột thừa mủ mà chỉ gặp ở bệnh nhân VRT hoại tử. Trong thể xuất tiết, quá trình viêm khởi phát từ một vết loét niêm mạc ruột thừa, sau đó kích thích tăng tiết và lan dần xuyên thành ra lớp cơ và thanh mạc. Sự phù nề nặng nề của thành ruột thừa làm chèn ép các nhánh tận của động mạch ruột thừa, gây thiếu máu cục bộ và hoại tử. Trong cơ chế này, tắc lòng ruột thừa chỉ là hậu quả thứ phát chứ không phải nguyên nhân khởi phát. Thể này có diễn tiến đa dạng hơn: có thể hoại tử gây viêm phúc mạc, hoặc được cơ thể khu trú thành đám quánh ruột thừa, áp xe ruột thừa, hoặc tự thoái triển để lại sẹo xơ gập góc.
 
 ---
 
-## 4. CHẨN ĐOÁN VIÊM RUỘT THỪA CẤP
+## CHẨN ĐOÁN VIÊM RUỘT THỪA CẤP
 
-### 4.1. Triệu chứng cơ năng
+### Triệu chứng cơ năng
 
-* **Đau bụng:** Là triệu chứng xuất hiện đầu tiên và có mặt trong trên 95% trường hợp. Đau khởi phát âm ỉ, không thành cơn ở vùng quanh rốn hoặc trên rốn (đau tạng do kích thích khoanh tủy \\(T_{10}\\)). Sau 6 – 12 giờ, khi quá trình viêm lan ra thanh mạc kích thích phúc mạc thành, cơn đau di chuyển và khu trú rõ ở hố chậu phải (đau thực thể) với tính chất đau tăng dần. Kiểu đau di chuyển này là dấu hiệu lâm sàng rất đáng tin cậy. Tuy nhiên, khoảng 25% trường hợp bệnh nhân không có kiểu đau di chuyển điển hình.
+* **Đau bụng:** Là triệu chứng xuất hiện đầu tiên và có mặt trong trên 95% trường hợp. Đau khởi phát âm ỉ, không thành cơn ở vùng quanh rốn hoặc trên rốn (đau tạng do kích thích khoanh tủy `T₁₀`). Sau 6 – 12 giờ, khi quá trình viêm lan ra thanh mạc kích thích phúc mạc thành, cơn đau di chuyển và khu trú rõ ở hố chậu phải (đau thực thể) với tính chất đau tăng dần. Kiểu đau di chuyển này là dấu hiệu lâm sàng rất đáng tin cậy. Tuy nhiên, khoảng 25% trường hợp bệnh nhân không có kiểu đau di chuyển điển hình.
 * **Rối loạn tiêu hóa:** Chán ăn/ăn không ngon là triệu chứng rất thường gặp (>90%), đến mức nếu bệnh nhân hoàn toàn không chán ăn thì cần xem xét lại chẩn đoán VRT. Buồn nôn và nôn thoáng qua (thường nôn khan) có thể xuất hiện sau đau bụng. Bệnh nhân cũng có thể bị táo bón hoặc tiêu chảy.
-* **Tam chứng Murphy:** Mô tả trình tự xuất hiện triệu chứng điển hình: *Đau bụng dưới phải \\(\rightarrow\\) Nôn ói \\(\rightarrow\\) Sốt*. Nếu trình tự này bị đảo lộn, cần nghi ngờ chẩn đoán VRT.
+* **Tam chứng Murphy:** Mô tả trình tự xuất hiện triệu chứng điển hình: *Đau bụng dưới phải `→` Nôn ói `→` Sốt*. Nếu trình tự này bị đảo lộn, cần nghi ngờ chẩn đoán VRT.
 
-### 4.2. Triệu chứng thực thể
+### Triệu chứng thực thể
 
 * **Ấn đau vùng 1/4 dưới phải (hố chậu phải):** Là dấu hiệu thực thể quan trọng nhất. Người khám có thể tìm các điểm đau cố định như điểm McBurney (nối 1/3 ngoài và 2/3 trong đường nối rốn đến gai chậu trước trên phải), điểm Lanz, điểm Clado, hoặc "dấu hiệu ngón tay chỉ" (bệnh nhân dùng một ngón tay chỉ đúng vị trí đau nhất). Một số trường hợp phát hiện **tam giác tăng cảm da Sherren** (tạo bởi đường nối rốn, gai chậu trước trên phải và khớp mu).
 * **Dấu hiệu kích thích phúc mạc:**
@@ -72,158 +72,158 @@ Bệnh sinh của viêm ruột thừa cấp được giải thích qua hai cơ c
   * *Đề kháng thành bụng (Guarding):* Khám thấy cơ thành bụng co thắt chủ động hoặc phản xạ chống lại tay người khám, chứng tỏ đã có tình trạng viêm lan đến phúc mạc thành.
 * **Các nghiệm pháp thăm khám bổ sung (khi ruột thừa ở vị trí bất thường):**
   * *Nghiệm pháp cơ thắt lưng chậu:* Dương tính trong VRT sau manh tràng (bệnh nhân co đùi phải để giảm đau; khi cho nằm nghiêng trái duỗi đùi phải ra sau sẽ gây đau chói do cơ thắt lưng chậu bị cọ xát).
-  * *Nghiệm pháp cơ bịt:* Dương tính trong VRT thể tiểu khung (bệnh nhân nằm ngửa, gấp đùi \\(90^\circ\\) và xoay trong đùi phải gây đau hạ vị/mặt trong đùi).
+  * *Nghiệm pháp cơ bịt:* Dương tính trong VRT thể tiểu khung (bệnh nhân nằm ngửa, gấp đùi `90°` và xoay trong đùi phải gây đau hạ vị/mặt trong đùi).
   * *Thăm trực tràng/âm đạo:* Giúp phát hiện điểm đau chói ở túi cùng phải trong VRT thể tiểu khung.
 
-### 4.3. Triệu chứng toàn thân
+### Triệu chứng toàn thân
 
-Sốt trong VRT cấp thường là sốt nhẹ (\\(37,5^\circ\text{C} - 38^\circ\text{C}\\)). Khoảng 25 – 50% bệnh nhân lúc vào viện có thân nhiệt bình thường. Sốt cao \\(\ge 39^\circ\text{C}\\) gợi ý ruột thừa đã bị vỡ hoặc có biến chứng nhiễm khuẩn lan rộng. Khi bệnh nhân đến trễ trong tình trạng viêm phúc mạc toàn thể hoặc thể nhiễm độc, sẽ xuất hiện hội chứng nhiễm khuẩn nhiễm độc nặng: vẻ mặt nhiễm độc, môi khô, lưỡi dơ, mạch nhanh, thở nhanh, tụt huyết áp.
+Sốt trong VRT cấp thường là sốt nhẹ (`37,5°C - 38°C`). Khoảng 25 – 50% bệnh nhân lúc vào viện có thân nhiệt bình thường. Sốt cao `≥ 39°C` gợi ý ruột thừa đã bị vỡ hoặc có biến chứng nhiễm khuẩn lan rộng. Khi bệnh nhân đến trễ trong tình trạng viêm phúc mạc toàn thể hoặc thể nhiễm độc, sẽ xuất hiện hội chứng nhiễm khuẩn nhiễm độc nặng: vẻ mặt nhiễm độc, môi khô, lưỡi dơ, mạch nhanh, thở nhanh, tụt huyết áp.
 
-### 4.4. Cận lâm sàng
+### Cận lâm sàng
 
-#### 4.4.1. Công thức máu
-Số lượng bạch cầu trong máu thường tăng ở mức độ vừa phải, trong đó bạch cầu đa nhân trung tính chiếm đa số (>75% trong 78% các trường hợp). Số lượng bạch cầu tăng cao \\(> 18.000/\text{mm}^3\\) gợi ý VRT đã hoại tử hoặc vỡ biến chứng. Tăng bạch cầu có độ nhạy 76% và độ đặc hiệu 52%. Xét nghiệm này rẻ tiền, nhanh chóng nhưng không đặc hiệu và không có ngưỡng tuyệt đối để chẩn đoán hay loại trừ VRT.
+#### Công thức máu
+Số lượng bạch cầu trong máu thường tăng ở mức độ vừa phải, trong đó bạch cầu đa nhân trung tính chiếm đa số (>75% trong 78% các trường hợp). Số lượng bạch cầu tăng cao `> 18.000/mm³` gợi ý VRT đã hoại tử hoặc vỡ biến chứng. Tăng bạch cầu có độ nhạy 76% và độ đặc hiệu 52%. Xét nghiệm này rẻ tiền, nhanh chóng nhưng không đặc hiệu và không có ngưỡng tuyệt đối để chẩn đoán hay loại trừ VRT.
 
-#### 4.4.2. C-reactive protein (CRP)
+#### C-reactive protein (CRP)
 CRP tăng trong máu trong vòng 6 – 12 giờ sau khi khởi phát viêm mô cấp tính. Ở bệnh nhân trưởng thành có triệu chứng kéo dài quá 24 giờ, nếu chỉ số CRP bình thường thì có giá trị tiên đoán âm tính lên đến 100% để loại trừ VRT cấp.
 
-#### 4.4.3. Chẩn đoán hình ảnh
+#### Chẩn đoán hình ảnh
 * **Siêu âm bụng:** Là phương tiện ưu tiên hàng đầu, rẻ tiền, sẵn có, không độc hại tia xạ.
-  * *Dấu hiệu VRT trên siêu âm:* Cấu trúc hình ống, đầu tày, đường kính ngoài \\(> 6\text{ mm}\\), không xẹp khi ấn đầu dò, dắt kèm sỏi phân, thâm nhiễm mỡ echo dày xung quanh (50% trường hợp).
+  * *Dấu hiệu VRT trên siêu âm:* Cấu trúc hình ống, đầu tày, đường kính ngoài `> 6 mm`, không xẹp khi ấn đầu dò, dắt kèm sỏi phân, thâm nhiễm mỡ echo dày xung quanh (50% trường hợp).
   * *Giá trị:* Độ nhạy 83%, độ đặc hiệu 93%. Rất giá trị ở trẻ em và phụ nữ mang thai. Nhược điểm là phụ thuộc vào kinh nghiệm người đọc và khó khăn ở bệnh nhân béo phì hoặc bụng trướng hơi.
 * **Chụp cắt lớp vi tính (CLVT) bụng:** Là tiêu chuẩn chẩn đoán hình ảnh chính xác nhất.
-  * *Dấu hiệu VRT trên CLVT:* Ruột thừa căng to đường kính \\(> 6\text{ mm}\\), thành dày \\(> 2\text{ mm}\\), tăng đậm độ mỡ quanh ruột thừa; khi vỡ thấy mất liên tục thành, tụ dịch hoặc sỏi phân rơi ra ngoài.
+  * *Dấu hiệu VRT trên CLVT:* Ruột thừa căng to đường kính `> 6 mm`, thành dày `> 2 mm`, tăng đậm độ mỡ quanh ruột thừa; khi vỡ thấy mất liên tục thành, tụ dịch hoặc sỏi phân rơi ra ngoài.
   * *Giá trị:* Độ nhạy 91 – 94%, độ đặc hiệu 94 – 95%. Giúp giảm tỷ lệ cắt ruột thừa âm tính từ 20% xuống 7% và giảm tỷ lệ vỡ do trễ từ 22% xuống 14%. Tuy nhiên, cần tránh lạm dụng do nguy cơ nhiễm tia xạ (đặc biệt ở trẻ em và phụ nữ mang thai) và chống chỉ định khi suy thận hoặc dị ứng thuốc cản quang. Hội Phẫu thuật Cấp cứu Thế giới khuyến cáo nên chụp CLVT liều tia thấp (1/4 liều chuẩn) và không cần uống chất cản quang khi lâm sàng/siêu âm không rõ ràng.
 * **Chụp cộng hưởng từ (MRI):** Độ nhạy 97 – 100%, độ đặc hiệu 95 – 99%. Không nhiễm tia xạ nên là lựa chọn thay thế tốt nhất cho phụ nữ mang thai và trẻ em khi siêu âm không kết luận được.
 
-### 4.5. Các bảng hay hệ thống tính điểm trong chẩn đoán viêm ruột thừa
+### Các bảng hay hệ thống tính điểm trong chẩn đoán viêm ruột thừa
 
-#### 4.5.1. Bảng điểm Alvarado (MANTRELS)
+#### Bảng điểm Alvarado (MANTRELS)
 Do Alvarado đề xuất năm 1986, gồm 8 thành tố với tổng điểm tối đa là 10:
 * Đau di chuyển hố chậu phải (1 điểm)
 * Chán ăn (1 điểm)
 * Buồn nôn/Nôn (1 điểm)
 * Ấn đau hố chậu phải (2 điểm)
 * Phản ứng dội (1 điểm)
-* Sốt \\(\ge 37,3^\circ\text{C}\\) (1 điểm)
+* Sốt `≥ 37,3°C` (1 điểm)
 * Bạch cầu tăng (2 điểm)
 * Công thức bạch cầu chuyển trái (1 điểm)
 
-*Đánh giá:* \\(9-10\\) điểm: Rất nhiều khả năng VRT; \\(7-8\\) điểm: Có lẽ VRT; \\(5-6\\) điểm: Nghi ngờ/không chắc; \\(<5\\) điểm: Khả năng VRT rất thấp.
+*Đánh giá:* `9-10` điểm: Rất nhiều khả năng VRT; `7-8` điểm: Có lẽ VRT; `5-6` điểm: Nghi ngờ/không chắc; `<5` điểm: Khả năng VRT rất thấp.
 
-#### 4.5.2. Bảng điểm AIR (Appendicitis Inflammatory Response score)
+#### Bảng điểm AIR (Appendicitis Inflammatory Response score)
 Do Andersson đề xuất năm 2008, đưa thêm chỉ số CRP và chi tiết hóa mức độ đau/bạch cầu, tổng điểm tối đa là 12:
 * 0 – 4 điểm: Khả năng VRT thấp.
 * 5 – 8 điểm: Khả năng VRT trung bình.
 * 9 – 12 điểm: Khả năng VRT rất cao.
 
-*Phân tầng nguy cơ theo WSES (2016):* Nguy cơ thấp (\\(<5\\) điểm) cho theo dõi ngoại trú; Nguy cơ trung bình (\\(5-8\\) điểm) giữ lại theo dõi lâm sàng và làm thêm chẩn đoán hình ảnh; Nguy cơ cao (\\(>8\\) điểm) nhập viện can thiệp.
+*Phân tầng nguy cơ theo WSES (2016):* Nguy cơ thấp (`<5` điểm) cho theo dõi ngoại trú; Nguy cơ trung bình (`5-8` điểm) giữ lại theo dõi lâm sàng và làm thêm chẩn đoán hình ảnh; Nguy cơ cao (`>8` điểm) nhập viện can thiệp.
 
-### 4.6. Chẩn đoán phân biệt
+### Chẩn đoán phân biệt
 
 VRT cấp cần phân biệt với rất nhiều bệnh lý nội ngoại khoa:
 * **Ở người lớn nói chung:** Thủng ổ loét dạ dày - tá tràng, ung thư manh tràng, lao hồi manh tràng, viêm dạ dày - ruột, viêm túi thừa đại tràng, Herpes.
 * **Ở phụ nữ tuổi sinh đẻ:** Xuất huyết giữa kỳ kinh (hội chứng Mittelschmerz), nang trứng vỡ, u nang buồng trứng xoắn, thai ngoài tử cung vỡ, viêm phần phụ, lạc nội mạc tử cung.
 * **Ở trẻ em:** Lồng ruột, viêm túi thừa Meckel, xoắn tinh hoàn, viêm hạch mạc treo cấp, viêm phổi thùy bên phải.
 
-### 4.7. Nội soi ổ bụng chẩn đoán
+### Nội soi ổ bụng chẩn đoán
 
 Được xem là giải pháp sau cùng khi đã áp dụng các phương pháp chẩn đoán hình ảnh mà vẫn không loại trừ được tình trạng bụng ngoại khoa. Năm 2015, Gomes đưa ra hệ thống phân độ VRT qua mổ nội soi:
 * **Độ 0:** Ruột thừa trông bình thường.
 * **Độ 1:** VRT cấp chưa biến chứng (sung huyết, phù nề).
 * **Độ 2:** Hoại tử (2A: hoại tử đoạn thân; 2B: hoại tử ở gốc).
-* **Độ 3:** Khối u viêm (3A: Đám quánh; 3B: Áp xe \\(\le 5\text{ cm}\\); 3C: Áp xe \\(> 5\text{ cm}\\)).
+* **Độ 3:** Khối u viêm (3A: Đám quánh; 3B: Áp xe `≤ 5 cm`; 3C: Áp xe `> 5 cm`).
 * **Độ 4:** Thủng gây viêm phúc mạc toàn thể.
 
 ---
 
-## 5. CÁC THỂ LÂM SÀNG
+## CÁC THỂ LÂM SÀNG
 
 Nhà phẫu thuật Henri Mondor đã nhận định: *"Không phải một bệnh viêm ruột thừa mà là những bệnh viêm ruột thừa"* do sự đa dạng lâm sàng của nó.
 
-### 5.1. Theo cơ chế bệnh sinh
+### Theo cơ chế bệnh sinh
 
-#### 5.1.1. Viêm ruột thừa xuất tiết
-Đau ban đầu là đau tạng âm ỉ quanh rốn/trên rốn. Sau \\(6-12\\) giờ lan ra phúc mạc thành gây đau thực thể khu trú rõ ở hố chậu phải.
+#### Viêm ruột thừa xuất tiết
+Đau ban đầu là đau tạng âm ỉ quanh rốn/trên rốn. Sau `6-12` giờ lan ra phúc mạc thành gây đau thực thể khu trú rõ ở hố chậu phải.
 
-#### 5.1.2. Viêm ruột thừa tắc nghẽn
+#### Viêm ruột thừa tắc nghẽn
 Đau khởi phát có thể kiểu quặn cơn quanh rốn do co bóp chống tắc nghẽn. Diễn tiến rất nhanh đến hoại tử vỡ gây viêm phúc mạc toàn thể.
 
-### 5.2. Theo diễn biến
+### Theo diễn biến
 
 * **Diễn biến nhanh:** Triệu chứng viêm phúc mạc xuất hiện ngay trong 24 giờ đầu sau cơn đau đầu tiên, dễ nhầm với thủng loét dạ dày - tá tràng.
 * **Thể nhiễm độc:** Thường gặp ở trẻ nhỏ. Bệnh nhân đau bụng dữ dội, tiêu chảy phân thối khắm, nhiễm khuẩn nhiễm độc toàn thân rất nặng (mạch nhanh, sốt cao, tụt HA) nhưng triệu chứng tại chỗ lại mơ hồ, bụng mềm, không co cứng.
 
-### 5.3. Theo vị trí giải phẫu
+### Theo vị trí giải phẫu
 
-#### 5.3.1. Viêm ruột thừa sau manh tràng
+#### Viêm ruột thừa sau manh tràng
 Bệnh nhân đau cao hơn ở hông phải hoặc hố thắt lưng phải. Khám bụng trước ấn ít đau nhưng ấn hố thắt lưng đau chói. Dấu hiệu cơ thắt lưng chậu dương tính.
 
-#### 5.3.2. Viêm ruột thừa tiểu khung
+#### Viêm ruột thừa tiểu khung
 Kích thích bàng quang gây tiểu dắt, tiểu gắt; kích thích trực tràng gây mót rặn, tiêu chảy. Ấn đau thấp vùng hạ vị/sát khớp mu. Thăm trực tràng/âm đạo đau chói bên phải. Nghiệm pháp cơ bịt dương tính.
 
-#### 5.3.3. Viêm ruột thừa sau hồi tràng
+#### Viêm ruột thừa sau hồi tràng
 Gây kích thích hồi tràng gây tiêu chảy hoặc làm liệt các quai hồi tràng kế cận gây ra bệnh cảnh tắc ruột cơ năng.
 
-#### 5.3.4. Viêm ruột thừa dưới gan
+#### Viêm ruột thừa dưới gan
 Vị trí đau và ấn đau ở cao vùng hạ sườn phải, dễ nhầm lẫn với viêm túi mật cấp hoặc viêm đường mật.
 *(Lưu ý: Bệnh nhân đảo ngược phủ tạng sẽ có đau và ấn đau ở hố chậu trái).*
 
-### 5.4. Theo lứa tuổi
+### Theo lứa tuổi
 
-#### 5.4.1. Ở trẻ em
-Là cấp cứu ngoại khoa ổ bụng thường gặp nhất ở trẻ em. Trẻ càng nhỏ càng khó khai thác bệnh sử và khám bụng. Để hỗ trợ chẩn đoán, người ta dùng **bảng điểm PAS (Pediatric Appendicitis Score)** của Samuel (2002) gồm 8 thành tố (tối đa 10 điểm, trong đó thay phản ứng dội trực tiếp bằng phản ứng dội gián tiếp được 2 điểm). Điểm \\(\text{PAS} \ge 6\\) gợi ý VRT; \\(\text{PAS} > 7\\) khả năng VRT \\(>70\%\\); \\(\text{PAS} < 2\\) loại trừ VRT đúng 99%.
+#### Ở trẻ em
+Là cấp cứu ngoại khoa ổ bụng thường gặp nhất ở trẻ em. Trẻ càng nhỏ càng khó khai thác bệnh sử và khám bụng. Để hỗ trợ chẩn đoán, người ta dùng **bảng điểm PAS (Pediatric Appendicitis Score)** của Samuel (2002) gồm 8 thành tố (tối đa 10 điểm, trong đó thay phản ứng dội trực tiếp bằng phản ứng dội gián tiếp được 2 điểm). Điểm `PAS ≥ 6` gợi ý VRT; `PAS > 7` khả năng VRT `>70%`; `PAS < 2` loại trừ VRT đúng 99%.
 
-#### 5.4.2. Ở người già
-Chẩn đoán thường chậm trễ do triệu chứng lâm sàng mơ hồ, bạch cầu tăng ít. Do xơ vữa mạch máu làm nuôi dưỡng ruột thừa kém kết hợp sức đề kháng giảm nên tỷ lệ viêm phúc mạc ruột thừa ở người già rất cao (lên đến 50% ở bệnh nhân \\(> 65\\) tuổi). Hai thể hay gặp là bán tắc ruột và giả u. Chụp CLVT bụng có vai trò rất quan trọng.
+#### Ở người già
+Chẩn đoán thường chậm trễ do triệu chứng lâm sàng mơ hồ, bạch cầu tăng ít. Do xơ vữa mạch máu làm nuôi dưỡng ruột thừa kém kết hợp sức đề kháng giảm nên tỷ lệ viêm phúc mạc ruột thừa ở người già rất cao (lên đến 50% ở bệnh nhân `> 65` tuổi). Hai thể hay gặp là bán tắc ruột và giả u. Chụp CLVT bụng có vai trò rất quan trọng.
 
-### 5.5. Theo cơ địa
+### Theo cơ địa
 
-#### 5.5.1. Ở phụ nữ mang thai
+#### Ở phụ nữ mang thai
 Chiếm tỷ lệ 1/1.400 thai kỳ. Chẩn đoán khó vì buồn nôn, chán ăn dễ nhầm với nghén. Tử cung to đẩy ruột thừa lên cao và ra ngoài. Trong 3 tháng cuối, tử cung che lấp ruột thừa nên ấn hố chậu phải không đau; cần cho bệnh nhân nằm nghiêng trái để khám hoặc tìm dấu Rovsing.
 
-#### 5.5.2. Người béo phì
+#### Người béo phì
 Thành bụng dày làm mất dấu hiệu đề kháng/co cứng. Nên thăm trực tràng, tìm dấu Rovsing và chỉ định chụp CLVT bụng sớm.
 
-#### 5.5.3. Người báng bụng
+#### Người báng bụng
 Dễ nhầm với nhiễm khuẩn dịch báng. Cần chọc dò dịch báng xét nghiệm hoặc nội soi ổ bụng chẩn đoán.
 
-#### 5.5.4. Suy giảm miễn dịch
+#### Suy giảm miễn dịch
 Gặp ở bệnh nhân ghép tạng, hóa trị, HIV/AIDS. Sốt và bạch cầu tăng không rõ rệt. Cần dựa vào chụp CLVT bụng.
 
-### 5.6. Theo giai đoạn bệnh
+### Theo giai đoạn bệnh
 
-#### 5.6.1. Viêm phúc mạc
+#### Viêm phúc mạc
 * *Viêm phúc mạc tức thì (trong 24h đầu):* Tiến triển cực nhanh, thường gặp ở VRT tắc nghẽn hoặc trẻ nhỏ.
 * *Viêm phúc mạc sau 24h:* Đau rầm rộ lan rộng, hội đủ hội chứng nhiễm khuẩn và đề kháng/co cứng bụng.
 * *Viêm phúc mạc hai thì:* Sau đợt đau VRT ban đầu, triệu chứng tự nhiên giảm ("thời gian giảm đau dối trá"), sau 4 – 5 ngày đột ngột đau dữ dội lại do ổ vỡ bùng phát viêm phúc mạc.
-* *Viêm phúc mạc ba thì:* VRT \\(\rightarrow\\) Áp xe ruột thừa \\(\rightarrow\\) Áp xe vỡ gây viêm phúc mạc toàn thể.
+* *Viêm phúc mạc ba thì:* VRT `→` Áp xe ruột thừa `→` Áp xe vỡ gây viêm phúc mạc toàn thể.
 
-#### 5.6.2. Đám quánh ruột thừa
+#### Đám quánh ruột thừa
 Xảy ra ở người có sức đề kháng tốt. Ruột thừa viêm được mạc nối lớn và các quai ruột bao bọc lại vào ngày thứ 4 – 5. Khám sờ thấy mảng chắc ở hố chậu phải, ranh giới không rõ, ít đau, không di động. Đám quánh đạt kích thước tối đa vào ngày 10 rồi biến mất trước tuần thứ 4.
 
-#### 5.6.3. Áp xe ruột thừa
-Là ổ mủ được thành hóa khu trú sau \\(3-5\\) ngày ruột thừa vỡ. Bệnh nhân sốt cao, hội chứng nhiễm khuẩn rõ, khám hố chậu phải sờ thấy khối mật độ mềm, ranh giới khá rõ, ấn đau chói.
+#### Áp xe ruột thừa
+Là ổ mủ được thành hóa khu trú sau `3-5` ngày ruột thừa vỡ. Bệnh nhân sốt cao, hội chứng nhiễm khuẩn rõ, khám hố chậu phải sờ thấy khối mật độ mềm, ranh giới khá rõ, ấn đau chói.
 
 ---
 
-## 6. ĐIỀU TRỊ
+## ĐIỀU TRỊ
 
-### 6.1. Viêm ruột thừa cấp
+### Viêm ruột thừa cấp
 
 * **Tóm tắt tiêu chuẩn:** Phẫu thuật cắt ruột thừa vẫn là tiêu chuẩn vàng. Phẫu thuật nội soi được ưu tiên lựa chọn hàng đầu hiện nay.
 * **Kháng sinh:** VRT sung huyết chỉ cần 1 liều kháng sinh dự phòng trước mổ. VRT vỡ gây viêm phúc mạc cần dùng kháng sinh điều trị bao phủ vi khuẩn Gram âm và kỵ khí từ 4 – 7 ngày sau mổ.
-* **Về điều trị không mổ bằng kháng sinh:** Mặc dù tỷ lệ thành công ban đầu đạt 77 – 95%, tỷ lệ tái phát sau 1 năm lên đến 30 – 40% (chỉ còn thành công 62 – 71%) và có nguy cơ bỏ sót u ruột thừa (\\(0,6 - 0,9\%\\)). Vì vậy, kháng sinh chỉ áp dụng cho VRT chưa biến chứng ở vùng sâu vùng xa, bệnh nhân có nhiều nguy cơ phẫu thuật hoặc từ chối mổ.
+* **Về điều trị không mổ bằng kháng sinh:** Mặc dù tỷ lệ thành công ban đầu đạt 77 – 95%, tỷ lệ tái phát sau 1 năm lên đến 30 – 40% (chỉ còn thành công 62 – 71%) và có nguy cơ bỏ sót u ruột thừa (`0,6 - 0,9%`). Vì vậy, kháng sinh chỉ áp dụng cho VRT chưa biến chứng ở vùng sâu vùng xa, bệnh nhân có nhiều nguy cơ phẫu thuật hoặc từ chối mổ.
 
-### 6.2. Áp xe ruột thừa
+### Áp xe ruột thừa
 
 Xu hướng hiện nay là điều trị bảo tồn bằng kháng sinh phối hợp chọc hút/dẫn lưu qua da:
-* Áp xe nhỏ \\(\le 4\text{ cm}\\): Điều trị kháng sinh đường tĩnh mạch.
-* Áp xe \\(4-6\text{ cm}\\): Kháng sinh kết hợp chọc hút/dẫn lưu qua da.
-* Áp xe \\(\ge 7\text{ cm}\\) hoặc giữa các quai ruột: Ưu tiên mổ dẫn lưu.
+* Áp xe nhỏ `≤ 4 cm`: Điều trị kháng sinh đường tĩnh mạch.
+* Áp xe `4-6 cm`: Kháng sinh kết hợp chọc hút/dẫn lưu qua da.
+* Áp xe `≥ 7 cm` hoặc giữa các quai ruột: Ưu tiên mổ dẫn lưu.
 *(Theo Richmond, nếu hình ảnh CLVT cho phép dẫn lưu qua da an toàn thì phối hợp dẫn lưu qua da + kháng sinh; nếu không thể dẫn lưu qua da được thì phẫu thuật dẫn lưu).*
 
-### 6.3. Đám quánh ruột thừa
+### Đám quánh ruột thừa
 
 Không có chỉ định mổ cấp cứu vì nguy cơ làm tổn thương các quai ruột viêm dính bết và làm nhiễm khuẩn lan rộng.
 * **Xử trí:** Điều trị nội khoa kháng sinh theo dõi. Nếu diễn tiến thành áp xe thì dẫn lưu. Nếu lâm sàng đáp ứng tốt (88 – 95%), bệnh nhân xuất viện và cân nhắc mổ "nguội" cắt ruột thừa sau 6 – 12 tuần.
@@ -231,24 +231,24 @@ Không có chỉ định mổ cấp cứu vì nguy cơ làm tổn thương các 
 
 ---
 
-## 7. BIẾN CHỨNG SAU MỔ
+## BIẾN CHỨNG SAU MỔ
 
-### 7.1. Nhiễm khuẩn vết mổ
+### Nhiễm khuẩn vết mổ
 Là biến chứng thường gặp nhất của mổ mở. Tỷ lệ nhiễm khuẩn vết mổ trong mổ nội soi thấp hơn đáng kể so với mổ mở (0,34% so với 0,59%) nhờ thành bụng được bảo vệ qua các trocar.
 
-### 7.2. Các biến chứng khác liên quan lỗ trocar
+### Các biến chứng khác liên quan lỗ trocar
 Bao gồm chảy máu lỗ trocar, tụ máu thành bụng do tổn thương bó mạch thượng vị dưới, hoặc thoát vị lỗ trocar về sau.
 
-### 7.3. Chảy máu trong ổ bụng
+### Chảy máu trong ổ bụng
 Do tuột nơ chỉ hoặc bung clip kẹp động mạch ruột thừa. Đa số trường hợp đòi hỏi phải phẫu thuật mổ lại để cầm máu.
 
-### 7.4. Xì mỏm ruột thừa
+### Xì mỏm ruột thừa
 Do tuột nơ chỉ/clip mỏm ruột thừa gây viêm phúc mạc hậu phẫu sớm (cần mổ lại ngay) hoặc gây áp xe tồn lưu, rò manh tràng muộn.
 
-### 7.5. Áp xe tồn lưu
+### Áp xe tồn lưu
 Tỷ lệ sau mổ nội soi cao hơn mổ mở (4,6% so với 1%) do làm sạch xoang phúc mạc chưa triệt để hoặc do mỏm ruột thừa còn lại quá dài bị viêm tiếp diễn.
 
-### 7.6. Tắc ruột sau mổ
+### Tắc ruột sau mổ
 * *Tắc ruột sớm:* Do các quai ruột dính viêm hoặc do áp xe tồn lưu.
 * *Tắc ruột muộn:* Do dây dính diễn tiến sau nhiều tháng hay nhiều năm.
 

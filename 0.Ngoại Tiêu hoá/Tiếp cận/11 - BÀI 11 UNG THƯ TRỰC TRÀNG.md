@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. DỊCH TỄ
+## DỊCH TỄ
 
 Ung thư đại - trực tràng là một trong những bệnh lý ác tính thường gặp nhất và có tỷ lệ tử vong hàng đầu trên thế giới. Theo số liệu thống kê của Tổ chức Y tế Thế giới (GLOBOCAN 2018/2019) tại Việt Nam:
 * Ung thư đại - trực tràng vươn lên đứng **hàng thứ 3** về tỷ lệ mắc mới (vượt qua ung thư dạ dày và ung thư vú, chỉ đứng sau ung thư gan và ung thư phổi).
@@ -32,13 +32,13 @@ Ung thư đại - trực tràng là một trong những bệnh lý ác tính th�
 
 ---
 
-## 2. YẾU TỐ THUẬN LỢI
+## YẾU TỐ THUẬN LỢI
 
-### 2.1. Chế độ ăn và sinh hoạt
+### Chế độ ăn và sinh hoạt
 * **Yếu tố làm tăng nguy cơ:** Chế độ ăn giàu mỡ động vật, tiêu thụ nhiều thịt đỏ, uống nhiều thức uống có cồn, béo phì, hút thuốc lá, và tiền sử mắc bệnh viêm ruột mạn tính (*IBD*).
 * **Yếu tố giúp giảm nguy cơ:** Chế độ ăn nhiều rau xanh, trái cây tươi, thức ăn giàu chất xơ, bổ sung Canxi, Folate, sử dụng Aspirin và các thuốc chống viêm không Steroid (NSAID), tích cực vận động thể lực.
 
-### 2.2. Yếu tố di truyền
+### Yếu tố di truyền
 Khoảng **15 – 35%** bệnh nhân ung thư trực tràng có liên quan đến yếu tố di truyền:
 * **65%** trường hợp ung thư đại - trực tràng phát sinh do tác động của **môi trường**.
 * **35%** trường hợp có **yếu tố di truyền**:
@@ -61,14 +61,14 @@ Khoảng **15 – 35%** bệnh nhân ung thư trực tràng có liên quan đế
                                      [2% Bệnh Đa polyp (FAP)]                   [3% Không polyp (Lynch)]
 ```
 
-### 2.3. Những thương tổn tiền ung thư
-1. **Polyp trực tràng:** Polyp có kích thước càng lớn thì nguy cơ ung thư hóa càng cao. Các **u tuyến nhánh** (*villous adenoma*) thường có kích thước \\(> 1\text{ cm}\\) và nguy cơ hóa ác cao hơn nhiều so với **u tuyến ống** (*tubular adenoma*, thường \\(< 1\text{ cm}\\)). Số lượng polyp càng nhiều và độ dị sản mô học càng cao thì nguy cơ ung thư hóa càng lớn.
+### Những thương tổn tiền ung thư
+1. **Polyp trực tràng:** Polyp có kích thước càng lớn thì nguy cơ ung thư hóa càng cao. Các **u tuyến nhánh** (*villous adenoma*) thường có kích thước `> 1 cm` và nguy cơ hóa ác cao hơn nhiều so với **u tuyến ống** (*tubular adenoma*, thường `< 1 cm`). Số lượng polyp càng nhiều và độ dị sản mô học càng cao thì nguy cơ ung thư hóa càng lớn.
 2. **Viêm loét đại trực tràng xuất huyết:** Nguy cơ tiến triển thành ung thư gia tăng theo thời gian diễn tiến của bệnh. Bệnh nhân phát bệnh lúc trẻ tuổi có nguy cơ xuất hiện ung thư sớm hơn.
 3. **Bệnh Crohn:** Nguy cơ hóa ung thư dao động từ **1/500 đến 1/200**. Bệnh nhân mắc Crohn trước 40 tuổi có nguy cơ tiến triển thành ung thư cao hơn so với người mắc bệnh sau 40 tuổi.
 
 ---
 
-## 3. GIẢI PHẪU TRỰC TRÀNG THEO QUAN ĐIỂM PHẪU THUẬT
+## GIẢI PHẪU TRỰC TRÀNG THEO QUAN ĐIỂM PHẪU THUẬT
 
 Trực tràng là đoạn cuối của ống tiêu hóa, nối tiếp đại tràng chậu hông (sigma) ở phía trên và kết thúc tại ống hậu môn ở phía dưới. Trực tràng nằm rất sâu trong khoang chậu hông, áp sát phía trước xương cùng và xương cụt.
 
@@ -83,81 +83,81 @@ Trực tràng là đoạn cuối của ống tiêu hóa, nối tiếp đại tr�
     * *1/3 giữa:* Từ **6 – 10 cm** tính từ bờ hậu môn.
     * *1/3 trên:* Từ **11 – 15 cm** tính từ bờ hậu môn.
 
-### 3.1. Các mạc trong chậu hông
+### Các mạc trong chậu hông
 
-#### 3.1.1. Mạc treo trực tràng (*Mesorectum*)
+#### Mạc treo trực tràng (*Mesorectum*)
 Mạc treo trực tràng là cấu trúc bao chứa tổ chức mỡ và hệ thống hạch bạch huyết xung quanh bóng trực tràng.
 * Được bọc xung quanh bởi một màng mỏng gọi là **Mạc riêng trực tràng** (*Fascia propria*).
 * Phía sau, mạc riêng trực tràng ngăn cách với mạc trước xương cùng bởi một khoang vô mạch (khoang ảo).
 * Phân tích và phẫu tích bóc tách tích cực nguyên khối mạc treo trực tràng trong khoang vô mạch này chính là cơ sở của kỹ thuật **Phẫu thuật cắt toàn bộ mạc treo trực tràng (TME - *Total Mesorectal Excision*)**, giúp làm giảm đáng kể tỷ lệ tái phát tại chỗ.
 
-### 3.2. Mạch máu và thần kinh trực tràng
+### Mạch máu và thần kinh trực tràng
 
-#### 3.2.1. Động mạch
+#### Động mạch
 * **Động mạch trực tràng trên:** Là nhánh tận của động mạch mạc treo tràng dưới, cấp máu chính cho **2/3 trên** trực tràng.
 * **Động mạch trực tràng giữa (2 ĐM):** Xuất phát từ động mạch chậu trong (động mạch hạ vị), cấp máu cho **1/3 dưới** bóng trực tràng.
 * **Động mạch trực tràng dưới (2 ĐM):** Xuất phát từ động mạch thẹn trong, cấp máu cho ống hậu môn.
 * **Động mạch cùng giữa:** Tách ra từ chỗ chia đôi ĐM chủ bụng, đi xuống cấp máu cho thành sau trực tràng.
 
-#### 3.2.2. Tĩnh mạch
+#### Tĩnh mạch
 * **Tĩnh mạch trực tràng trên:** Dẫn lưu máu từ 1/3 trên trực tràng, đi theo tĩnh mạch mạc treo tràng dưới đổ về **Tĩnh mạch cửa** (về gan).
 * **Tĩnh mạch trực tràng giữa và dưới:** Dẫn lưu máu từ 2/3 dưới trực tràng, đi theo tĩnh mạch chậu trong đổ về **Tĩnh mạch chủ dưới**.
 
-#### 3.2.3. Bạch huyết
+#### Bạch huyết
 * **2/3 trên trực tràng:** Bạch huyết dẫn lưu về các hạch mạc treo tràng dưới và hạch cạnh động mạch chủ.
 * **1/3 dưới trực tràng & ống hậu môn trên đường lược:** Dẫn lưu theo 2 hướng (về hạch mạc treo tràng dưới và hạch chậu trong/hạ vị).
 * **Ống hậu môn dưới đường lược:** Bạch huyết dẫn lưu chủ yếu về **hạch bẹn nông**.
 
-#### 3.2.4. Thần kinh
+#### Thần kinh
 * **Bóng trực tràng:** Chi phối bởi hệ thần kinh tự trị (thực vật):
-  * *Giao cảm:* Tách từ hạch thắt lưng \\(\rightarrow\\) Đám rối mạc treo tràng dưới \\(\rightarrow\\) Đám rối hạ vị trên và dưới.
+  * *Giao cảm:* Tách từ hạch thắt lưng `→` Đám rối mạc treo tràng dưới `→` Đám rối hạ vị trên và dưới.
   * *Phó giao cảm:* Dây thần kinh X và các nhánh từ rễ thần kinh sống cùng **S2, S3, S4** (dây thần kinh tạng chậu) đi đến đám rối hạ vị dưới.
 * **Ống hậu môn:** Chi phối bởi thần kinh gai sống (dây thần kinh hậu môn từ S3, S4) vận động cơ thắt hậu môn và cảm giác quanh lỗ hậu môn.
 * *Lưu ý phẫu thuật:* Các thao tác phẫu tích vùng chậu hông dễ làm tổn thương đám rối thần kinh tự trị, gây ra các biến chứng nghiêm trọng về rối loạn đại tiện, tiểu tiện và **rối loạn chức năng sinh dục** (cương dương, phóng tinh).
 
 ---
 
-## 4. GIẢI PHẪU BỆNH UNG THƯ TRỰC TRÀNG
+## GIẢI PHẪU BỆNH UNG THƯ TRỰC TRÀNG
 
-### 4.1. Đại thể
+### Đại thể
 Ung thư trực tràng gồm các thể: **Thể chồi sùi, thể loét, thể thâm nhiễm, và thể vòng nhẫn** (hoặc phối hợp nhiều dạng). Trong đó, **thể loét là dạng thường gặp nhất**.
 
-### 4.2. Vi thể
+### Vi thể
 Hầu hết các trường hợp ung thư đại - trực tràng có bản chất mô học là **Ung thư biểu mô tuyến (*Adenocarcinoma*)**, chiếm gần **85%**.
 
 **Bảng 1. Phân độ biệt hóa mô học ung thư biểu mô tuyến đại trực tràng (WHO)**
 
 | Độ biệt hóa | Phân loại | % Mức độ các cấu trúc tuyến hình thành rõ |
 | :---: | :--- | :---: |
-| **Độ 1** | Biệt hóa rõ (*Well differentiated*) | **\\(> 95\%\\)** |
+| **Độ 1** | Biệt hóa rõ (*Well differentiated*) | **`> 95%`** |
 | **Độ 2** | Biệt hóa vừa (*Moderately differentiated*) | **50 – 95%** |
-| **Độ 3** | Biệt hóa kém (*Poorly differentiated*) | **\\(< 50\%\)** |
-| **Độ 4** | Không biệt hóa (*Undifferentiated*) | **\\(< 5\%\)** |
+| **Độ 3** | Biệt hóa kém (*Poorly differentiated*) | **`< 50%`** |
+| **Độ 4** | Không biệt hóa (*Undifferentiated*) | **`< 5%`** |
 
 ---
 
-## 5. HƯỚNG LAN CỦA UNG THƯ TRỰC TRÀNG
+## HƯỚNG LAN CỦA UNG THƯ TRỰC TRÀNG
 
-### 5.1. Xâm lấn tại chỗ
+### Xâm lấn tại chỗ
 * Tế bào ung thư ăn lan từ lớp niêm mạc xuống các lớp sâu. Lớp vỏ ngoài bao quanh giúp làm chậm phát triển theo chiều dọc (lan theo chiều cao rất chậm, chỉ **3 – 4 cm/năm**), nhưng **lan theo chu vi rất nhanh** (trong 6 tháng có thể ăn lan được 1/4 chu vi lòng ruột).
 * **Xâm lấn tạng lân cận khi vượt qua thành ruột:**
   * *Phía trước:* Nữ xâm lấn thành sau âm đạo, tử cung; Nam xâm lấn tuyến tiền liệt, túi tinh, bàng quang.
   * *Phía sau:* Xâm lấn mạc trước xương cùng và xương cùng.
   * *Hai bên:* Phía trên xâm lấn mỡ khoang chậu hông - trực tràng; phía dưới xâm lấn mỡ hố ngồi - trực tràng và cơ nâng hậu môn.
 
-### 5.2. Di căn hạch
-Đám rối bạch huyết trên đường lược dẫn lưu qua các hạch sau trực tràng \\(\rightarrow\\) hạch dọc ĐM trực tràng trên \\(\rightarrow\\) hạch mạc treo tràng dưới, hoặc theo ĐM trực tràng giữa/dưới \\(\rightarrow\\) hạch hạ vị. Đám rối dưới đường lược dẫn lưu về hạch bẹn.
+### Di căn hạch
+Đám rối bạch huyết trên đường lược dẫn lưu qua các hạch sau trực tràng `→` hạch dọc ĐM trực tràng trên `→` hạch mạc treo tràng dưới, hoặc theo ĐM trực tràng giữa/dưới `→` hạch hạ vị. Đám rối dưới đường lược dẫn lưu về hạch bẹn.
 
-### 5.3. Di căn xa
+### Di căn xa
 * Theo tĩnh mạch mạc treo tràng dưới và tĩnh mạch cửa di căn đến **Gan** và **Phổi**.
 * Theo hệ tĩnh mạch chậu di căn đến **xương cùng và cột sống**.
 * Theo đường máu di căn **não, buồng trứng**.
 
 ---
 
-## 6. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
-### 6.1. Triệu chứng lâm sàng
+### Triệu chứng lâm sàng
 Triệu chứng ban đầu của ung thư trực tràng thường không đặc hiệu, rất dễ nhầm lẫn với trĩ, kiết lỵ, táo bón, viêm đại tràng.
 
 * **Triệu chứng cơ năng sớm:**
@@ -170,27 +170,27 @@ Triệu chứng ban đầu của ung thư trực tràng thường không đặc 
 * **Thăm trực tràng (PR):** Là thao tác thăm khám lâm sàng bắt buộc đối với tất cả các trường hợp nghi ngờ. Giúp đánh giá: bờ dưới u cách rìa hậu môn bao nhiêu cm, vị trí chu vi (trước, sau, trái, phải), kích thước, độ chít hẹp và **mức độ di động** của khối u.
 * **Biểu hiện di căn xa & biến chứng:** Hạch thượng đòn trái (*hạch Troisier*), hạch bẹn; bụng báng, gan to lổn nhổn, vàng da (di căn gan/phúc mạc); ho, khó thở (di căn phổi); **Tắc ruột** (biến chứng cấp cứu hay gặp nhất), **Viêm phúc mạc** (do thủng u), **Rò trực tràng - bàng quang** (ở nam) hoặc **Rò trực tràng - âm đạo** (ở nữ).
 
-### 6.2. Chẩn đoán phân biệt
+### Chẩn đoán phân biệt
 Cần phân biệt với bệnh trĩ, viêm loét đại trực tràng xuất huyết, hội chứng ruột kích thích (IBS), polyp trực tràng, lỵ amip.
 
-### 6.3. Chẩn đoán cận lâm sàng
+### Chẩn đoán cận lâm sàng
 
-#### 6.3.1. Nội soi đại trực tràng
+#### Nội soi đại trực tràng
 Là **tiêu chuẩn vàng** để chẩn đoán xác định bệnh. Giúp quan sát vị trí, khoảng cách từ u đến rìa hậu môn, hình thái u và **sinh thiết làm giải phẫu bệnh**.
 
-#### 6.3.2. Chụp cắt lớp vi tính (CT Scan)
+#### Chụp cắt lớp vi tính (CT Scan)
 Chụp CT Scan ngực - bụng - chậu giúp tầm soát chính xác tình trạng **di căn xa** (di căn gan, phổi, màng bụng, hạch ổ bụng).
 
-#### 6.3.3. Cộng hưởng từ (MRI) chậu hông
+#### Cộng hưởng từ (MRI) chậu hông
 Là **tiêu chuẩn vàng để đánh giá giai đoạn T, N tại chỗ** và đặc biệt là đánh giá **Bờ diện cắt mạc treo trực tràng (MRF - *Mesorectal Fascia*)**. MRI giúp phẫu thuật viên tiên lượng nguy cơ sót tế bào ung thư ở diện cắt mổ.
 
-#### 6.3.4. Siêu âm qua lòng trực tràng (TRUS)
+#### Siêu âm qua lòng trực tràng (TRUS)
 Giúp đánh giá chính xác tổn thương nông **T1, T2** và hạch quanh trực tràng đối với các khối u trực tràng đoạn thấp.
 
-#### 6.3.5. Xét nghiệm CEA
-Không có giá trị chẩn đoán xác định bệnh ban đầu (do độ nhạy và độ đặc hiệu thấp). Xét nghiệm CEA có vai trò **tiên lượng** (CEA pre-op \\(> 5\text{ ng/ml}\\) có tiên lượng xấu) và **theo dõi tái phát sau phẫu thuật**.
+#### Xét nghiệm CEA
+Không có giá trị chẩn đoán xác định bệnh ban đầu (do độ nhạy và độ đặc hiệu thấp). Xét nghiệm CEA có vai trò **tiên lượng** (CEA pre-op `> 5 ng/ml` có tiên lượng xấu) và **theo dõi tái phát sau phẫu thuật**.
 
-### 6.4. Phân chia giai đoạn
+### Phân chia giai đoạn
 
 **Bảng 2. Định nghĩa phân loại TNM ung thư trực tràng (AJCC 8th)**
 
@@ -204,9 +204,9 @@ Không có giá trị chẩn đoán xác định bệnh ban đầu (do độ nh�
 | **T4b** | Khối u xâm lấn trực tiếp vào các cơ quan/cấu trúc lân cận. |
 | **N0** | Không có di căn hạch vùng. |
 | **N1** | Di căn **1 – 3 hạch** vùng (N1a: 1 hạch; N1b: 2 – 3 hạch; N1c: Nốt u gieo rắc mỡ quanh trực tràng không hạch). |
-| **N2** | Di căn **\\(\ge 4\\) hạch** vùng (N2a: 4 – 6 hạch; N2b: \\(\ge 7\\) hạch). |
+| **N2** | Di căn **`≥ 4` hạch** vùng (N2a: 4 – 6 hạch; N2b: `≥ 7` hạch). |
 | **M0** | Không di căn xa. |
-| **M1** | Có di căn xa (M1a: 1 tạng; M1b: \\(> 1\\) tạng; M1c: di căn phúc mạc). |
+| **M1** | Có di căn xa (M1a: 1 tạng; M1b: `> 1` tạng; M1c: di căn phúc mạc). |
 
 **Bảng 3. Phân giai đoạn ung thư trực tràng (AJCC 8th)**
 
@@ -231,15 +231,15 @@ Không có giá trị chẩn đoán xác định bệnh ban đầu (do độ nh�
 
 ---
 
-## 7. ĐIỀU TRỊ UNG THƯ TRỰC TRÀNG
+## ĐIỀU TRỊ UNG THƯ TRỰC TRÀNG
 
-### 7.1. Nguyên tắc điều trị phối hợp
+### Nguyên tắc điều trị phối hợp
 Ung thư trực tràng được điều trị theo **chiến lược đa mô thức** (Phẫu thuật, Xạ trị, Hóa trị) cá thể hóa cho từng bệnh nhân.
 
 **Khuyến cáo ESMO 2016 cho ung thư trực tràng:**
 * **Nhóm nguy cơ thấp (Giai đoạn I: cT1 - T2, N0; cT3a N0 u cao, MRF-):** **Phẫu thuật đơn thuần**.
-* **Nhóm nguy cơ trung bình (cT2 rất thấp, cT3 MRF-, N1-2, EMVI+):** **Xạ trị trước mổ \\(\rightarrow\\) Phẫu thuật \\(\rightarrow\\) Hóa trị sau mổ**.
-* **Nhóm nguy cơ cao (cT4, cT3 MRF+, hạch chậu bên+):** **Hóa xạ trị kết hợp trước mổ \\(\rightarrow\\) Phẫu thuật \\(\rightarrow\\) Hóa trị hỗ trợ sau mổ**.
+* **Nhóm nguy cơ trung bình (cT2 rất thấp, cT3 MRF-, N1-2, EMVI+):** **Xạ trị trước mổ `→` Phẫu thuật `→` Hóa trị sau mổ**.
+* **Nhóm nguy cơ cao (cT4, cT3 MRF+, hạch chậu bên+):** **Hóa xạ trị kết hợp trước mổ `→` Phẫu thuật `→` Hóa trị hỗ trợ sau mổ**.
 
 ```
                         [Ung thư Trực tràng]
@@ -258,32 +258,32 @@ Ung thư trực tràng được điều trị theo **chiến lược đa mô th�
                            Hóa trị sau mổ           Hóa trị sau mổ
 ```
 
-### 7.2. Phẫu thuật trong ung thư trực tràng
+### Phẫu thuật trong ung thư trực tràng
 
-#### 7.2.1. Các thuật ngữ
+#### Các thuật ngữ
 * **TME (*Total Mesorectal Excision*):** Phẫu thuật cắt toàn bộ mạc treo trực tràng nguyên khối.
 * **EMR / ESD:** Cắt niêm mạc / Bóc tách dưới niêm mạc qua nội soi ống mềm.
 * **TAE / TEM / TAMIS:** Các phương pháp cắt u tại chỗ qua ngả hậu môn (mở hoặc nội soi).
 * **AR / LAR / ISR:** Cắt trước, Cắt trước thấp, Cắt gian cơ thắt bảo tồn cơ thắt.
 
-#### 7.2.2. Cắt bỏ u tại chỗ
-* **Chỉ định:** U giai đoạn rất sớm **T1, N0**, độ biệt hóa 1 hoặc 2, không xâm lấn mạch máu/bạch huyết, u kích thước **\\(< 3\text{ cm}\\)**, chiếm **\\(< 30\%\\) chu vi**, diện cắt an toàn \\(> 2\text{ mm}\\).
+#### Cắt bỏ u tại chỗ
+* **Chỉ định:** U giai đoạn rất sớm **T1, N0**, độ biệt hóa 1 hoặc 2, không xâm lấn mạch máu/bạch huyết, u kích thước **`< 3 cm`**, chiếm **`< 30%` chu vi**, diện cắt an toàn `> 2 mm`.
 * **Phương pháp:** Cắt u qua nội soi (EMR, ESD) hoặc cắt u qua ngả hậu môn (TAE, TEM, TAMIS).
 
-#### 7.2.3. Phẫu thuật ngả bụng (cắt trước) có bảo tồn cơ thắt
+#### Phẫu thuật ngả bụng (cắt trước) có bảo tồn cơ thắt
 Áp dụng cho ung thư **1/3 trên và 1/3 giữa** trực tràng (và một số ca 1/3 dưới chưa xâm lấn cơ thắt).
 * **Nguyên tắc:** Cắt đoạn đại tràng sigma và trực tràng chứa u, nạo hạch + **cắt toàn bộ mạc treo trực tràng (TME)**, cách bờ dưới u ít nhất **2 cm**, phục hồi lưu thông ruột bằng máy khâu nối (*stapler*).
 * **Cắt trước thấp (LAR) / Cắt gian cơ thắt (ISR):** Áp dụng cho u trực tràng đoạn thấp dưới nếp phúc mạc.
-* **Hậu môn nhân tạo bảo vệ:** Mở ruột ra da trên dòng làm HMNT tạm thời bảo vệ miệng nối khi miệng nối thấp \\(< 4\text{ cm}\\), béo phì, ruột căng, hoặc bệnh nhân đã qua hóa xạ trị trước mổ.
+* **Hậu môn nhân tạo bảo vệ:** Mở ruột ra da trên dòng làm HMNT tạm thời bảo vệ miệng nối khi miệng nối thấp `< 4 cm`, béo phì, ruột căng, hoặc bệnh nhân đã qua hóa xạ trị trước mổ.
 
-#### 7.2.4. Phẫu thuật cắt trực tràng ngả bụng - tầng sinh môn (Phẫu thuật Miles)
+#### Phẫu thuật cắt trực tràng ngả bụng - tầng sinh môn (Phẫu thuật Miles)
 Ra đời năm 1908.
-* **Kỹ thuật:** Cắt toàn bộ trực tràng, mạc treo, cơ nâng hậu môn và toàn bộ phức hợp cơ thắt hậu môn \\(\rightarrow\\) Đưa đại tràng sigma ra làm **hậu môn nhân tạo vĩnh viễn** ở hố chậu trái.
+* **Kỹ thuật:** Cắt toàn bộ trực tràng, mạc treo, cơ nâng hậu môn và toàn bộ phức hợp cơ thắt hậu môn `→` Đưa đại tràng sigma ra làm **hậu môn nhân tạo vĩnh viễn** ở hố chậu trái.
 * **Chỉ định hiện nay:** Thu hẹp cho ung thư trực tràng đoạn thấp đã **xâm lấn trực tiếp vào cơ nâng hậu môn hoặc cơ thắt hậu môn**, hoặc khối u quá sát rìa hậu môn không thể đảm bảo diện cắt dưới.
 
 ---
 
-## 8. TIÊN LƯỢNG UNG THƯ TRỰC TRÀNG
+## TIÊN LƯỢNG UNG THƯ TRỰC TRÀNG
 
 Tỷ lệ sống còn toàn bộ sau 5 năm chung cho tất cả các giai đoạn là **67%**.
 
@@ -300,34 +300,34 @@ Tỷ lệ sống còn toàn bộ sau 5 năm chung cho tất cả các giai đo�
 
 ---
 
-## 9. TẦM SOÁT
+## TẦM SOÁT
 
-### 9.1. Các phương tiện tầm soát
+### Các phương tiện tầm soát
 
-#### 9.1.1. Tìm máu ẩn trong phân (FOBT / iFOBT)
+#### Tìm máu ẩn trong phân (FOBT / iFOBT)
 Xét nghiệm tìm hồng cầu trong phân. Phương pháp miễn dịch (iFOBT) dùng kháng thể đơn dòng có độ chính xác cao hơn. Nếu dương tính bắt buộc phải nội soi đại tràng toàn bộ.
 
-#### 9.1.2. DNA trong phân (sDNA)
+#### DNA trong phân (sDNA)
 Kỹ thuật PCR truy tìm đột biến gen của tế bào niêm mạc bong tróc. Độ nhạy cao nhưng chi phí đắt.
 
-#### 9.1.3. Soi đại trực tràng bằng ống cứng (Flexible sigmoidoscopy - FS)
+#### Soi đại trực tràng bằng ống cứng (Flexible sigmoidoscopy - FS)
 Quan sát trực tiếp trực tràng và đại tràng chậu hông.
 
-#### 9.1.4. Nội soi toàn bộ đại tràng bằng ống soi mềm
+#### Nội soi toàn bộ đại tràng bằng ống soi mềm
 Là **phương tiện tầm soát trực tiếp tốt nhất**, phát hiện được các sang thương tân sinh chỉ vài milimet, kết hợp sinh thiết hoặc cắt bỏ polyp.
 
-#### 9.1.5. Chụp CLVT đại tràng có nội soi ảo (CTC)
+#### Chụp CLVT đại tràng có nội soi ảo (CTC)
 Tái tạo 3D hình ảnh lòng đại tràng. Khảo sát không xâm lấn nhưng có thể có âm tính giả với sang thương nhỏ.
 
-### 9.2. Chỉ định tầm soát ung thư đại trực tràng
+### Chỉ định tầm soát ung thư đại trực tràng
 
-#### 9.2.1. Nhóm nguy cơ trung bình
+#### Nhóm nguy cơ trung bình
 Tất cả người từ **50 – 75 tuổi** không có triệu chứng; hoặc người có thay đổi thói quen đi cầu, đi tiêu ra máu, đau bụng không rõ nguyên nhân, thiếu máu thiếu sắt.
 
-#### 9.2.2. Nhóm nguy cơ cao
+#### Nhóm nguy cơ cao
 Người có tiền sử gia đình mắc ung thư đại - trực tràng, đa polyp gia đình (*FAP*), hoặc bản thân mắc bệnh viêm ruột mạn (*IBD*), u tuyến.
 
-#### 9.2.3. Chỉ định cụ thể
+#### Chỉ định cụ thể
 * Nhóm nguy cơ cao: Tầm soát từ **40 tuổi** (hoặc trước 10 năm so với tuổi người trẻ nhất trong gia đình mắc bệnh). Bắt buộc chỉ định nội soi toàn bộ đại tràng.
 * **Khoảng cách theo dõi định kỳ:**
   * Nội soi toàn bộ đại tràng: **10 năm / lần**.
@@ -343,7 +343,7 @@ Người có tiền sử gia đình mắc ung thư đại - trực tràng, đa p
 2. Giải phẫu phẫu thuật chia trực tràng thành 3 phần (1/3 dưới: 0-5cm, 1/3 giữa: 6-10cm, 1/3 trên: 11-15cm); phẫu thuật triệt căn dựa trên nguyên tắc **Cắt toàn bộ mạc treo trực tràng (TME)** bóc tách trong khoang vô mạch mạc riêng trực tràng.
 3. Triệu chứng lâm sàng sớm hay gặp nhất là **chảy máu tiêu hóa dưới rỉ rả phân đờm nhớt (60%)** và **thay đổi thói quen đi cầu (43%)**; Thăm trực tràng (PR) là thao tác bắt buộc.
 4. **Nội soi đại trực tràng sinh thiết** giúp xác định chẩn đoán; **Cộng hưởng từ (MRI) chậu hông** là tiêu chuẩn vàng đánh giá giai đoạn T, N và bờ diện cắt mạc treo (MRF); **CT Scan** giúp đánh giá di căn xa.
-5. Điều trị đa mô thức: Ung thư nguy cơ trung bình/cao bắt buộc **Hóa/Xạ trị trước mổ \\(\rightarrow\\) Phẫu thuật TME** (Cắt trước bảo tồn cơ thắt hoặc Cắt Miles nếu u xâm lấn cơ thắt) **\\(\rightarrow\\) Hóa trị sau mổ**.
+5. Điều trị đa mô thức: Ung thư nguy cơ trung bình/cao bắt buộc **Hóa/Xạ trị trước mổ `→` Phẫu thuật TME** (Cắt trước bảo tồn cơ thắt hoặc Cắt Miles nếu u xâm lấn cơ thắt) **`→` Hóa trị sau mổ**.
 
 ---
 

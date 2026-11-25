@@ -20,7 +20,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 * **Định nghĩa:** Polyp ống tiêu hóa là thuật ngữ lâm sàng dùng để mô tả các khối u nhô lên từ bề mặt niêm mạc, có thể có cuống hoặc không có cuống.
 * **Đặc điểm phân bố:** Sự xuất hiện của một vài polyp đại tràng riêng lẻ là hiện tượng sinh lý thường gặp và liên quan đến tuổi tác. Số lượng polyp cần thiết để chẩn đoán thành "hội chứng đa polyp" chưa có số lượng cố định duy nhất mà phụ thuộc vào: mức độ phổ biến của loại polyp trong dân số, vị trí giải phẫu của polyp và tuổi của người bệnh.
@@ -38,11 +38,11 @@ nguon: NotebookLM
 
 ---
 
-## 2. HỘI CHỨNG ĐA POLYP GIA ĐÌNH
+## HỘI CHỨNG ĐA POLYP GIA ĐÌNH
 
 Hội chứng đa polyp dạng u tuyến gia đình (*Familial Adenomatous Polyposis - FAP*) là rối loạn di truyền trội trên nhiễm sắc thể thường, gây ra do đột biến dòng mầm của gen u tuyến (*APC*). 
 
-* **Đặc trưng:** Xuất hiện rất nhiều u tuyến (**\\(> 100\text{ polyp}\\)**) rải rác khắp đại trực tràng.
+* **Đặc trưng:** Xuất hiện rất nhiều u tuyến (**`> 100 polyp`**) rải rác khắp đại trực tràng.
 * **Tần suất & Diễn tiến:** Tỷ lệ mắc ngang nhau ở cả hai giới, xuất độ từ **1/8.300 – 1/14.025** trẻ sinh ra.
   * **50%** trường hợp FAP xuất hiện tổn thương u tuyến lúc 15 tuổi.
   * **95%** trường hợp xuất hiện tổn thương u tuyến lúc 35 tuổi.
@@ -58,19 +58,19 @@ Hội chứng đa polyp dạng u tuyến gia đình (*Familial Adenomatous Polyp
  Di truyền trội              95% lúc 35 tuổi                cắt đại tràng phòng ngừa
 ```
 
-### 2.1. Nguyên nhân
+### Nguyên nhân
 Khoảng **80%** trường hợp FAP có đột biến dòng mầm của gen ức chế sinh ung (*gen APC*) nằm trên nhánh dài của **nhiễm sắc thể số 5**. Đột biến này di truyền cho thế hệ sau. Khoảng 20% trường hợp còn lại là do các đột biến mới xuất hiện đơn lẻ (không có tiền sử gia đình).
 
-### 2.2. Đại thể và mô bệnh
+### Đại thể và mô bệnh
 * **Đại thể:** Polyp có hình dạng tương tự polyp đơn độc, kích thước đa dạng, phân bố chủ yếu ở đại trực tràng. Các tổn thương kích thước lớn có thể tiến triển ác tính thành thể chồi sùi.
 * **Mô bệnh học:** Là u tuyến ống (*tubular adenoma*), u tuyến nhánh (*villous adenoma*) với độ loạn sản từ thấp đến cao, hoặc hình ảnh mô bệnh học của ung thư biểu mô tuyến (*adenocarcinoma*).
 
-### 2.3. Chẩn đoán
+### Chẩn đoán
 * **Triệu chứng lâm sàng:** Do polyp tập trung chủ yếu ở đại trực tràng nên bệnh nhân thường có biểu hiện: đau bụng, tiêu phân máu. Nếu phát hiện trễ, bệnh nhân biểu hiện triệu chứng của ung thư đại tràng hoặc hội chứng tắc ruột.
 * **Cận lâm sàng:** **Nội soi đại tràng là "tiêu chuẩn vàng"** giúp đánh giá hình dạng đại thể, kích thước, số lượng polyp và các tổn thương hóa ác.
 * **Tiêu chuẩn chẩn đoán lâm sàng FAP:**
   * Có từ **100 polyp u tuyến trở lên** ở đại trực tràng; HOẶC
-  * Có **\\(< 100\text{ polyp}\\) nhưng kèm theo tiền sử gia đình** mắc FAP.
+  * Có **`< 100 polyp` nhưng kèm theo tiền sử gia đình** mắc FAP.
 * **Tổn thương phối hợp tại dạ dày - tá tràng:**
   * *Polyp tuyến đáy vị dạ dày:* Phát hiện ở 50% (đến 84%) bệnh nhân FAP, số lượng hàng trăm polyp. Tỷ lệ hóa ác hiếm (chỉ **0,6%**).
   * *U tuyến hang vị dạ dày:* Nguy cơ hóa ác cao ở người Châu Á (Nhật Bản, Hàn Quốc nguy cơ cao gấp 10 lần dân số chung).
@@ -78,7 +78,7 @@ Khoảng **80%** trường hợp FAP có đột biến dòng mầm của gen ứ
 * **Bệnh lý ngoài ống tiêu hóa (10 – 20%):** U xương, nang thượng bì, tổn thương u sợi (*desmoid tumor*).
   * *U sợi (Desmoid tumor):* Phát triển từ nguyên bào sợi cơ ở mạc treo ruột non và thành bụng, gây chèn ép tạng xung quanh. Cùng với ung thư tá tràng, u sợi là nguyên nhân tử vong chính sau phẫu thuật cắt đại tràng.
 
-### 2.4. Tầm soát đa polyp u tuyến gia đình
+### Tầm soát đa polyp u tuyến gia đình
 Tầm soát thực hiện qua nội soi ống mềm độ phân giải cao (nội soi đại tràng, nội soi tiêu hóa trên, nội soi ruột non bóng kép, nội soi viên nang).
 
 **Hướng dẫn tầm soát cho họ hàng thế hệ thứ nhất:**
@@ -89,28 +89,28 @@ Tầm soát thực hiện qua nội soi ống mềm độ phân giải cao (nộ
 5. Khám tuyến giáp hằng năm.
 6. Trẻ em có nguy cơ: Xét nghiệm **AFP** định kỳ (tầm soát u tế bào gan phôi thai - *hepatoblastoma*).
 
-### 2.5. Theo dõi bệnh nhân đa polyp u tuyến gia đình
+### Theo dõi bệnh nhân đa polyp u tuyến gia đình
 
-#### 2.5.1. U tuyến và ung thư đại trực tràng
+#### U tuyến và ung thư đại trực tràng
 Xét nghiệm di truyền phát hiện đột biến gen APC thực hiện ở tuổi **10 – 12**:
 * Bệnh nhân có tiền sử FAP kinh điển: Phẫu thuật cắt đại tràng ở thời điểm thích hợp.
 * Bệnh nhân không tiền sử gia đình nhưng *mang đột biến gen APC*: Nội soi đại tràng chậu hông mỗi **12 tháng**, bắt đầu từ **10 – 15 tuổi**.
 * Bệnh nhân không tiền sử gia đình và *xét nghiệm di truyền âm tính*: Giám sát như người có nguy cơ trung bình.
 * Bệnh nhân không tiền sử gia đình và *chưa làm xét nghiệm di truyền*: Nội soi đại tràng khảo sát từ **15 tuổi**.
-* *Chỉ định phẫu thuật cắt đại tràng:* Khi có **\\(> 100\text{ u tuyến}\\)** kích thước \\(\ge 2\text{ mm}\\), hoặc có tổn thương u tuyến loạn sản cao.
+* *Chỉ định phẫu thuật cắt đại tràng:* Khi có **`> 100 u tuyến`** kích thước `≥ 2 mm`, hoặc có tổn thương u tuyến loạn sản cao.
 
-#### 2.5.2. U tân sinh dạ dày
+#### U tân sinh dạ dày
 Nội soi tiêu hóa trên tầm soát bắt đầu từ **25 tuổi**, lặp lại mỗi **1 – 3 năm**.
 
-#### 2.5.3. U tân sinh tá tràng
+#### U tân sinh tá tràng
 Đánh giá mức độ tổn thương tá tràng theo **Chỉ số Spigelman** để quyết định khoảng cách thời gian nội soi theo dõi:
 
 **Bảng 1. Phân loại theo chỉ số Spigelman**
 
 | Tiêu chuẩn đánh giá | 1 điểm | 2 điểm | 3 điểm |
 | :--- | :---: | :---: | :---: |
-| **Số lượng polyp** | 1 – 4 | 5 – 20 | \\(> 20\\) |
-| **Kích thước polyp (mm)** | 1 – 4 | 5 – 10 | \\(> 10\\) |
+| **Số lượng polyp** | 1 – 4 | 5 – 20 | `> 20` |
+| **Kích thước polyp (mm)** | 1 – 4 | 5 – 10 | `> 10` |
 | **Mô bệnh học** | Tuyến ống | Tuyến ống nhánh | Tuyến nhánh |
 | **Độ loạn sản** | Thấp | — | Cao |
 
@@ -126,10 +126,10 @@ Nội soi tiêu hóa trên tầm soát bắt đầu từ **25 tuổi**, lặp l�
 | **III** | 1 năm |
 | **IV** | 6 tháng |
 
-#### 2.5.4. U tân sinh ruột non
+#### U tân sinh ruột non
 Ung thư ruột non trong FAP rất ít gặp, tầm soát bằng nội soi ruột non khi cần thiết.
 
-### 2.6. Điều trị
+### Điều trị
 * **Phẫu thuật là lựa chọn bắt buộc** để phòng ngừa ung thư. Thời điểm phẫu thuật thường thực hiện **sau 18 tuổi**.
 * **Các phương pháp phẫu thuật:**
   1. *Cắt toàn bộ đại tràng + Nối hồi tràng - trực tràng (IRA):* Chỉ định cho FAP thể nhẹ (AFAP).
@@ -138,16 +138,16 @@ Ung thư ruột non trong FAP rất ít gặp, tầm soát bằng nội soi ru�
 
 ---
 
-## 3. HỘI CHỨNG PEUTZ-JEGHERS
+## HỘI CHỨNG PEUTZ-JEGHERS
 
-### 3.1. Nguyên nhân
+### Nguyên nhân
 Hội chứng Peutz-Jeghers (*PJS*) là hội chứng di truyền **trội trên nhiễm sắc thể thường**, đặc trưng bởi sự xuất hiện các polyp tân sinh (hamartoma) chủ yếu ở ruột non, chấm sắc tố da niêm và tăng nguy cơ ung thư trong và ngoài đường tiêu hóa.
 
 * **Tần suất:** 1/200.000 – 1/8.000 trẻ sinh ra (Nam = Nữ).
 * **Gen đột biến:** Gen **STK11** (hoặc *LKB1*) trên nhánh ngắn nhiễm sắc thể 19 (gặp trong **50 – 80%** trường hợp gia đình; 10 – 20% do đột biến mới).
 * **Nguy cơ ung thư:** Nguy cơ tích lũy tiến triển thành ung thư đạt **57% ở tuổi 70**.
 
-### 3.2. Đại thể và mô bệnh học
+### Đại thể và mô bệnh học
 * **Đại thể:** Polyp tồn dư (*hamartomatous polyps*) có cuống dài, nhiều thùy, có thể có hình ảnh "giả xâm lấn".
 * **Mô bệnh học:** Tăng sinh các tế bào tuyến trưởng thành, đặc trưng bởi **mô cơ trơn đan xen trong các nhánh phân nhánh của polyp**.
 
@@ -161,7 +161,7 @@ Hội chứng Peutz-Jeghers (*PJS*) là hội chứng di truyền **trội trên
  Di truyền trội              quanh hậu môn, ngón tay...    (Nguy cơ LỒNG RUỘT 70% < 18t)
 ```
 
-### 3.3. Triệu chứng lâm sàng
+### Triệu chứng lâm sàng
 1. **Chấm sắc tố (95%):** Các nốt tăng sắc tố màu sẫm ở da và niêm mạc, xuất hiện từ thời nhi đồng.
    * *Vị trí đặc trưng:* **Niêm mạc môi và má**. Ngoài ra còn ở quanh hậu môn, bàn tay, bàn chân.
    * *Đặc điểm:* mờ dần sau tuổi dậy thì ở da, nhưng **tồn tại vĩnh viễn ở niêm mạc môi và má**.
@@ -169,26 +169,26 @@ Hội chứng Peutz-Jeghers (*PJS*) là hội chứng di truyền **trội trên
 3. **Biến chứng Lồng ruột:** **70% bệnh nhân bị lồng ruột trước 18 tuổi**.
 4. **Vị trí polyp:** Ruột non (**60 – 90%**), đại tràng (50 – 64%), dạ dày, túi mật, khí quản, niệu quản, bàng quang.
 
-### 3.4. Triệu chứng cận lâm sàng
+### Triệu chứng cận lâm sàng
 Nội soi dạ dày - tá tràng, nội soi đại tràng, nội soi ruột non bằng bóng kép, nội soi viên nang. Chụp CT Scan hoặc X-quang bụng phát hiện hình ảnh lồng ruột / tắc ruột.
 
-### 3.5. Chẩn đoán
+### Chẩn đoán
 * **Tiêu chuẩn chẩn đoán (thỏa mãn 2 trong 3 yếu tố):**
   1. Tiền sử gia đình mắc hội chứng Peutz-Jeghers.
   2. Sự hiện diện của polyp ruột non.
   3. Chấm sắc tố da niêm đặc trưng.
 * **Tiêu chuẩn chẩn đoán cho cám thể riêng lẻ:**
-  * Có \\(\ge 2\\) polyp mô bệnh học Peutz-Jeghers; HOẶC
+  * Có `≥ 2` polyp mô bệnh học Peutz-Jeghers; HOẶC
   * Polyp Peutz-Jeghers + Tiền sử gia đình; HOẶC
   * Chấm sắc tố da niêm + Tiền sử gia đình; HOẶC
   * Polyp Peutz-Jeghers + Chấm sắc tố da niêm điển hình.
 * **Ung thư ngoài ống tiêu hóa:** Nguy cơ cao mắc ung thư **tuyến tụy**, **tuyến vú**, tuyến giáp, tử cung, buồng trứng, tinh hoàn.
 
-### 3.6. Điều trị
-* **Cắt polyp chủ động:** Polyp ruột non kích thước **\\(\ge 2\text{ cm}\\)** (hoặc nhỏ hơn nếu gây triệu chứng) nên được cắt bỏ qua nội soi hoặc phẫu thuật nội soi kết hợp nội soi ruột non.
+### Điều trị
+* **Cắt polyp chủ động:** Polyp ruột non kích thước **`≥ 2 cm`** (hoặc nhỏ hơn nếu gây triệu chứng) nên được cắt bỏ qua nội soi hoặc phẫu thuật nội soi kết hợp nội soi ruột non.
 * **Phẫu thuật cấp cứu:** Khi có lồng ruột hoặc tắc ruột. Trong mổ phải thực hiện **nội soi kiểm tra toàn bộ ruột non** để lấy hết các polyp đi kèm, tránh cho bệnh nhân phải mổ lại nhiều lần.
 
-### 3.7. Theo dõi và tầm soát
+### Theo dõi và tầm soát
 * Nội soi tầm soát polyp ruột non bắt đầu từ **8 tuổi** (mỗi 3 năm lặp lại).
 
 **Bảng 3. Lịch tầm soát ung thư ở bệnh nhân mắc hội chứng Peutz-Jeghers**
@@ -206,48 +206,48 @@ Nội soi dạ dày - tá tràng, nội soi đại tràng, nội soi ruột non 
 
 ---
 
-## 4. HỘI CHỨNG ĐA POLYP THIẾU NIÊN
+## HỘI CHỨNG ĐA POLYP THIẾU NIÊN
 
-### 4.1. Nguyên nhân
+### Nguyên nhân
 Hội chứng đa polyp thiếu niên (*Juvenile Polyposis Syndrome - JPS*) là hội chứng phổ biến nhất của nhóm polyp tồn dư di truyền (di truyền **trội**, xuất độ **1/100.000**). Tên gọi "thiếu niên" mô tả đặc điểm mô bệnh học chứ không phải tuổi phát bệnh.
 
 * **Gen đột biến:** Đột biến gen **SMAD4** và **BMPR1A**.
 * **Phân bố:** Chủ yếu ở đại tràng (nổi bật ở đại tràng phải).
 * **Nguy cơ ung thư:** Nguy cơ tích lũy ung thư đại tràng trong suốt cuộc đời là **30%** (tăng dần từ 20 – 70 tuổi).
 
-### 4.2. Đại thể và mô bệnh
+### Đại thể và mô bệnh
 * **Đại thể:** Polyp hình cầu, có cuống, bề mặt bóng láng trơn nhẵn, kích thước vài cm.
 * **Mô bệnh học:** Tăng sinh cấu trúc tuyến phình to tạo các nang chứa chất nhầy, mô đệm niêm mạc phù nề và thâm nhập nhiều tế bào viêm.
 
-### 4.3. Biểu hiện lâm sàng
+### Biểu hiện lâm sàng
 * Tuổi trung bình xuất hiện triệu chứng là **27 tuổi**. Bệnh nhân biểu hiện: tiêu máu, sa polyp, thiếu máu, đau bụng, tiêu lỏng.
 * Trẻ nhi 1 tuổi có thể gặp thể nặng: suy kiệt, thiếu máu nặng, đa polyp toàn bộ ống tiêu hóa và giảm Albumin máu.
 
-### 4.4. Chẩn đoán
+### Chẩn đoán
 Chẩn đoán JPS dựa vào 1 trong các tiêu chuẩn:
-1. Có **\\(> 5\text{ polyp thiếu niên}\\)** ở đại trực tràng; HOẶC
+1. Có **`> 5 polyp thiếu niên`** ở đại trực tràng; HOẶC
 2. Sự xuất hiện của polyp thiếu niên rải rác khắp ống tiêu hóa; HOẶC
 3. Bất kỳ polyp thiếu niên nào kèm theo tiền sử gia đình.
 * *Dị dạng phối hợp:* Bệnh lý tim mạch (sa van 2 lá, dị dạng động - tĩnh mạch, túi phình mạch), dị dạng thần kinh (chứng đầu to, não úng thủy, hở hàm ếch).
 
-### 4.5. Điều trị
+### Điều trị
 * Nội soi đại tràng cắt polyp định kỳ **mỗi 1 – 3 năm**.
 * Phẫu thuật cắt đại tràng khi: số lượng polyp quá nhiều, polyp loạn sản cao, chảy máu không kiểm soát, hoặc khi bệnh nhân đạt **20 tuổi**.
 
-### 4.6. Tầm soát
+### Tầm soát
 * Tầm soát gen cho gia đình từ **12 – 14 tuổi**.
 * Nội soi đại tràng bắt đầu từ **13 tuổi** (mỗi 1 – 3 năm).
 * Nội soi dạ dày - tá tràng từ **18 tuổi**.
 
 ---
 
-## 5. HỘI CHỨNG ĐA POLYP TĂNG SẢN
+## HỘI CHỨNG ĐA POLYP TĂNG SẢN
 
 * **Đặc trưng:** Có nhiều polyp tăng sản kích thước lớn, tập trung chủ yếu ở **đại tràng chậu hông và trực tràng**. Có thể đi kèm u tuyến răng cưa (*serrated adenoma*) có nguy cơ tiến triển thành ung thư.
 * **Gen đột biến:** Đột biến gen **MBD4** và **MYH**.
 * **Chẩn đoán & Điều trị:**
   * Chẩn đoán dựa trên nội soi đại tràng phát hiện nhiều polyp tăng sản.
-  * *Điều trị:* Cắt polyp qua nội soi. Đặc biệt lưu ý các tổn thương kích thước **\\(> 10\text{ mm}\\)** hoặc số lượng **\\(> 20\text{ polyp}\\)** vì có nguy cơ hóa ác cao.
+  * *Điều trị:* Cắt polyp qua nội soi. Đặc biệt lưu ý các tổn thương kích thước **`> 10 mm`** hoặc số lượng **`> 20 polyp`** vì có nguy cơ hóa ác cao.
   * Phẫu thuật cắt đại tràng áp dụng khi có nhiều polyp tăng sản đi kèm u tuyến răng cưa hoặc u tuyến loạn sản cao.
 * **Theo dõi & Tầm soát:** Theo dõi nội soi đại tràng mỗi **1 – 3 năm**. Tầm soát người thân từ **40 tuổi** (hoặc sớm hơn 10 tuổi so với ca bệnh nhỏ tuổi nhất trong gia đình).
 
@@ -257,18 +257,18 @@ Chẩn đoán JPS dựa vào 1 trong các tiêu chuẩn:
 
 | Hội chứng đa polyp | Tiêu chuẩn chẩn đoán xác định |
 | :--- | :--- |
-| **Đa polyp u tuyến** | Có từ **\\(> 10\\) đến 20 u tuyến** đại trực tràng xuất hiện đồng thời. |
-| **Đa polyp tuyến gia đình thể kinh điển (FAP)** | • **\\(> 100\text{ u tuyến}\\)** đại trực tràng, khởi phát lâm sàng sớm.<br>• Có biểu hiện ngoài ruột (u xương, u sợi, phì đại bẩm sinh sắc tố võng mạc).<br>• Di truyền trội trên nhiễm sắc thể thường. |
-| **Đa polyp tuyến gia đình thể nhẹ (AFAP)** | • Có từ **\\(> 10\\) đến 100 u tuyến** đại trực tràng; HOẶC<br>• \\(> 100\text{ u tuyến}\\) nhưng khởi phát lâm sàng muộn (\\(> 45\text{ tuổi}\\)). |
-| **Hội chứng Peutz-Jeghers (PJS)** | • \\(\ge 2\\) polyp có mô bệnh học khẳng định là polyp Peutz-Jeghers; HOẶC<br>• 1 polyp Peutz-Jeghers + Chấm sắc tố điển hình ở niêm mạc miệng/môi; HOẶC<br>• 1 polyp Peutz-Jeghers + Tiền sử gia đình mắc hội chứng Peutz-Jeghers. |
-| **Hội chứng đa polyp thiếu niên (JPS)** | • **\\(> 5\text{ polyp thiếu niên}\\)** ở đại trực tràng; HOẶC<br>• Nhiều polyp thiếu niên xuất hiện khắp ống tiêu hóa; HOẶC<br>• \\(\ge 1\text{ polyp thiếu niên}\\) + Tiền sử gia đình mắc đa polyp thiếu niên. |
-| **Hội chứng đa polyp tăng sản** | • Ít nhất 5 polyp tăng sản ở đại tràng chậu hông/trực tràng (trong đó có ít nhất 2 polyp \\(> 1\text{ cm}\\)); HOẶC<br>• Bất kỳ số lượng polyp tăng sản nào + Họ hàng thế hệ 1 mắc đa polyp tăng sản; HOẶC<br>• Có nhiều hơn **20 đến 30 polyp tăng sản** phân bố khắp đại tràng. |
+| **Đa polyp u tuyến** | Có từ **`> 10` đến 20 u tuyến** đại trực tràng xuất hiện đồng thời. |
+| **Đa polyp tuyến gia đình thể kinh điển (FAP)** | • **`> 100 u tuyến`** đại trực tràng, khởi phát lâm sàng sớm.<br>• Có biểu hiện ngoài ruột (u xương, u sợi, phì đại bẩm sinh sắc tố võng mạc).<br>• Di truyền trội trên nhiễm sắc thể thường. |
+| **Đa polyp tuyến gia đình thể nhẹ (AFAP)** | • Có từ **`> 10` đến 100 u tuyến** đại trực tràng; HOẶC<br>• `> 100 u tuyến` nhưng khởi phát lâm sàng muộn (`> 45 tuổi`). |
+| **Hội chứng Peutz-Jeghers (PJS)** | • `≥ 2` polyp có mô bệnh học khẳng định là polyp Peutz-Jeghers; HOẶC<br>• 1 polyp Peutz-Jeghers + Chấm sắc tố điển hình ở niêm mạc miệng/môi; HOẶC<br>• 1 polyp Peutz-Jeghers + Tiền sử gia đình mắc hội chứng Peutz-Jeghers. |
+| **Hội chứng đa polyp thiếu niên (JPS)** | • **`> 5 polyp thiếu niên`** ở đại trực tràng; HOẶC<br>• Nhiều polyp thiếu niên xuất hiện khắp ống tiêu hóa; HOẶC<br>• `≥ 1 polyp thiếu niên` + Tiền sử gia đình mắc đa polyp thiếu niên. |
+| **Hội chứng đa polyp tăng sản** | • Ít nhất 5 polyp tăng sản ở đại tràng chậu hông/trực tràng (trong đó có ít nhất 2 polyp `> 1 cm`); HOẶC<br>• Bất kỳ số lượng polyp tăng sản nào + Họ hàng thế hệ 1 mắc đa polyp tăng sản; HOẶC<br>• Có nhiều hơn **20 đến 30 polyp tăng sản** phân bố khắp đại tràng. |
 
 ---
 
 ## TÓM TẮT NHANH
 
-1. **Hội chứng FAP:** Di truyền trội (đột biến gen *APC* trên NST 5), đặc trưng bởi **\\(> 100\text{ u tuyến}\\)** ở đại trực tràng; **100% hóa ác ung thư** nếu không phẫu thuật cắt đại tràng; nguy cơ tử vong sau mổ do u sợi (*desmoid*) và ung thư tá tràng.
+1. **Hội chứng FAP:** Di truyền trội (đột biến gen *APC* trên NST 5), đặc trưng bởi **`> 100 u tuyến`** ở đại trực tràng; **100% hóa ác ung thư** nếu không phẫu thuật cắt đại tràng; nguy cơ tử vong sau mổ do u sợi (*desmoid*) và ung thư tá tràng.
 2. **Hội chứng Peutz-Jeghers:** Di truyền trội (đột biến gen *STK11* trên NST 19), đặc trưng bởi **Chấm sắc tố niêm mạc môi má (95%)** và **Polyp cơ trơn phân nhánh chủ yếu ở ruột non**; biến chứng thường gặp là **Lồng ruột (70% < 18t)**.
 3. **Hội chứng đa polyp thiếu niên (JPS):** Di truyền trội (đột biến *SMAD4* và *BMPR1A*), polyp hình cầu bề mặt bóng láng tập trung chủ yếu ở **đại tràng phải**, mô học có các tuyến phình to dạng nang; nguy cơ ung thư đại tràng tích lũy 30%.
 4. **Hội chứng đa polyp tăng sản:** Tập trung ở đại tràng chậu hông và trực tràng, đột biến gen *MBD4*, nguy cơ hóa ác liên quan đến thành phần **u tuyến răng cưa** (*serrated adenoma*).

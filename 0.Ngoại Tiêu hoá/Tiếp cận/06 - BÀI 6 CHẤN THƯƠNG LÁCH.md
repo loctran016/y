@@ -18,7 +18,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. DỊCH TỄ
+## DỊCH TỄ
 
 Trong tình huống chấn thương bụng nói chung, **lách là một trong những tạng đặc dễ bị tổn thương nhất**. Chẩn đoán và xử trí kịp thời các trường hợp chấn thương lách gây chảy máu nghiêm trọng đe dọa tính mạng là mục tiêu cấp thiết hàng đầu.
 
@@ -26,7 +26,7 @@ Trong tình huống chấn thương bụng nói chung, **lách là một trong n
 
 ---
 
-## 2. GIẢI PHẪU LÁCH
+## GIẢI PHẪU LÁCH
 
 Để thực hiện tốt các thao tác phẫu thuật cũng như can thiệp tắc mạch, việc nắm vững giải phẫu lách là bắt buộc:
 
@@ -42,7 +42,7 @@ Trong tình huống chấn thương bụng nói chung, **lách là một trong n
 
 ---
 
-## 3. SINH LÝ LÁCH
+## SINH LÝ LÁCH
 
 Lách không chỉ là một tạng chứa máu mà còn đảm nhận những chức năng sinh lý đặc biệt:
 * **Chức năng tạo máu & Lọc cơ học:** Trong thời kỳ bào thai (đến tháng thứ 5), lách tham gia tạo hồng cầu và bạch cầu. Ở người trưởng thành, hệ thống mạch máu xốp dạng xoang của lách đóng vai trò như một bộ lọc cơ học giúp loại bỏ các tế bào máu già cỗi, hồng cầu dị dạng hoặc vi sinh vật ký sinh trong tế bào (như ký sinh trùng sốt rét) và trong huyết tương.
@@ -53,7 +53,7 @@ Lách không chỉ là một tạng chứa máu mà còn đảm nhận những c
 
 ---
 
-## 4. NGUYÊN NHÂN VÀ CƠ CHẾ BỆNH SINH
+## NGUYÊN NHÂN VÀ CƠ CHẾ BỆNH SINH
 
 Vỡ lách là sự gián đoạn liên tục của bao lách hoặc nhu mô lách.
 * **Nguyên nhân:** Có thể do chấn thương cơ học (chấn thương bụng kín hoặc vết thương xuyên thấu), do thủ thuật y khoa (iatrogenic), hoặc hiếm gặp hơn là vỡ lách tự phát trên lách bệnh lý.
@@ -65,7 +65,7 @@ Sau chấn thương ban đầu, máu chảy tạo thành khối máu tụ trong 
 
 ---
 
-## 5. BỆNH SỬ VÀ KHÁM LÂM SÀNG
+## BỆNH SỬ VÀ KHÁM LÂM SÀNG
 
 * **Bệnh sử:** Khai thác lực tác động vào vùng bụng trên trái/ngực trái. Cần hỏi kỹ tiền sử dùng thuốc kháng đông, thuốc chống kết tập tiểu cầu, hoặc các thảo dược có tính chất chống đông (bạch quả, cây cọ, dầu cá...).
 * **Triệu chứng cơ năng:** Đau vùng bụng 1/4 trên trái hoặc đau lan khắp bụng.
@@ -78,44 +78,44 @@ Sau chấn thương ban đầu, máu chảy tạo thành khối máu tụ trong 
 
 ---
 
-## 6. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
-### 6.1. Siêu âm có trọng điểm (FAST)
+### Siêu âm có trọng điểm (FAST)
 Là phương tiện đầu tay tại phòng cấp cứu, thực hiện tại giường cho bệnh nhân kể cả khi sinh hiệu không ổn định.
 * *Dấu hiệu gợi ý trên FAST:* Vệt giảm âm quanh lách, tụ dịch dưới bao lách, dịch tự do khoang Morrison (giữa gan và thận phải) hoặc dịch túi cùng Douglas.
 * *Hạn chế:* FAST không phát hiện được các tổn thương khu trú hoàn toàn trong nhu mô lách. Siêu âm FAST hiện nay đã thay thế hoàn toàn thủ thuật chọc rửa ổ bụng (DPL).
 
-### 6.2. Chụp cắt lớp vi tính (CLVT / CT Scan)
+### Chụp cắt lớp vi tính (CLVT / CT Scan)
 Chụp CLVT bụng có tiêm thuốc cản quang là **tiêu chuẩn vàng** để chẩn đoán, phân độ và định hướng điều trị cho bệnh nhân chấn thương lách có **huyết động ổn định**. (Nên chụp ở thì tĩnh mạch cửa để quan sát rõ nhất nhu mô và mạch máu).
 * *Tràn máu phúc mạc:* Máu tụ có tỷ trọng Hounsfield ~130 xung quanh lách hoặc lan rộng khắp ổ bụng.
 * *Tụ máu / Rách nhu mô:* Dấu hiệu các vùng giảm đậm độ bất thường.
-* **Dấu thoát mạch (Active contrast extravasation / Contrast blush):** Xuất hiện vùng tăng đậm độ (thoát thuốc cản quang) nằm trong nhu mô hoặc khoang bụng, chứng tỏ **động mạch lách đang chảy máu cấp tính tiếp diễn** hoặc có giả phình mạch lách \\(\rightarrow\\) Cần can thiệp tắc mạch khẩn cấp.
+* **Dấu thoát mạch (Active contrast extravasation / Contrast blush):** Xuất hiện vùng tăng đậm độ (thoát thuốc cản quang) nằm trong nhu mô hoặc khoang bụng, chứng tỏ **động mạch lách đang chảy máu cấp tính tiếp diễn** hoặc có giả phình mạch lách `→` Cần can thiệp tắc mạch khẩn cấp.
 
-### 6.3. Công thức máu
+### Công thức máu
 Giảm Hemoglobin (Hb) và Hematocrit (Hct), bạch cầu tăng. Khí máu động mạch có thể có toan chuyển hóa.
 
-### 6.4. X-quang bụng không sửa soạn
+### X-quang bụng không sửa soạn
 Ít giá trị đặc hiệu. Có thể thấy bóng dạ dày bị đẩy lệch sang phải, vòm hoành trái nâng cao, bóng lách to hoặc gãy các xương sườn dưới bên trái.
 
-### 6.5. Chụp cộng hưởng từ (MRI) và siêu âm theo tạng
+### Chụp cộng hưởng từ (MRI) và siêu âm theo tạng
 Chỉ định hạn chế cho bệnh nhân huyết động ổn định nhưng tổn thương trên CLVT không rõ ràng, hoặc bệnh nhân chống chỉ định với thuốc cản quang (dị ứng, suy thận).
 
 ---
 
-## 7. PHÂN ĐỘ CHẤN THƯƠNG LÁCH
+## PHÂN ĐỘ CHẤN THƯƠNG LÁCH
 
 Hội Ngoại khoa Chấn thương Hoa Kỳ (AAST) phân độ chấn thương lách dựa trên hình ảnh CLVT hoặc ghi nhận trong lúc mổ (phiên bản cải biên 2018):
 
 | Độ | Loại tổn thương | Mô tả chi tiết tổn thương AAST |
 | :---: | :---: | :--- |
-| **I** | Tụ máu | Tụ máu dưới bao lách **\\(< 10\%\)** diện tích bề mặt. |
-| | Rách nhu mô | Đường rách sâu **\\(< 1\text{ cm}\\)**; hoặc xé bao lách. |
-| **II** | Tụ máu | Tụ máu dưới bao lách **\\(10 - 50\%\)** diện tích bề mặt; hoặc tụ máu trong nhu mô đường kính **\\(< 5\text{ cm}\\)**. |
-| | Rách nhu mô | Đường rách nhu mô sâu **\\(1 - 3\text{ cm}\\)**. |
-| **III** | Tụ máu | Tụ máu dưới bao **\\(> 50\%\)** diện tích bề mặt; vỡ khối tụ máu dưới bao; hoặc tụ máu trong nhu mô **\\(\ge 5\text{ cm}\\)**. |
-| | Rách nhu mô | Đường rách nhu mô sâu **\\(> 3\text{ cm}\\)**. |
+| **I** | Tụ máu | Tụ máu dưới bao lách **`< 10%`** diện tích bề mặt. |
+| | Rách nhu mô | Đường rách sâu **`< 1 cm`**; hoặc xé bao lách. |
+| **II** | Tụ máu | Tụ máu dưới bao lách **`10 - 50%`** diện tích bề mặt; hoặc tụ máu trong nhu mô đường kính **`< 5 cm`**. |
+| | Rách nhu mô | Đường rách nhu mô sâu **`1 - 3 cm`**. |
+| **III** | Tụ máu | Tụ máu dưới bao **`> 50%`** diện tích bề mặt; vỡ khối tụ máu dưới bao; hoặc tụ máu trong nhu mô **`≥ 5 cm`**. |
+| | Rách nhu mô | Đường rách nhu mô sâu **`> 3 cm`**. |
 | **IV** | Mạch máu | Có tổn thương mạch máu lách hoặc **chảy máu hoạt động khu trú trong bao lách**. |
-| | Rách nhu mô | Rách nhu mô liên quan mạch máu thùy/rốn lách, gây **mất tưới máu \\(> 25\%\)** lách. |
+| | Rách nhu mô | Rách nhu mô liên quan mạch máu thùy/rốn lách, gây **mất tưới máu `> 25%`** lách. |
 | **V** | Nhu mô | **Lách bị vỡ nát** (*Shattered spleen*). |
 | | Mạch máu | Tổn thương mạch máu rốn lách gây **chảy máu hoạt động lan rộng ra ngoài phúc mạc**. |
 
@@ -123,49 +123,49 @@ Hội Ngoại khoa Chấn thương Hoa Kỳ (AAST) phân độ chấn thương l
 
 ---
 
-## 8. ĐIỀU TRỊ
+## ĐIỀU TRỊ
 
 **Nguyên tắc chung:** Đánh giá toàn diện, ưu tiên **Điều trị không phẫu thuật (NOM)** để bảo tồn lách và chức năng miễn dịch cho các trường hợp **huyết động ổn định**. Ngược lại, bệnh nhân có **huyết động không ổn định** hoặc có viêm phúc mạc kèm theo bắt buộc phải **phẫu thuật mở bụng cấp cứu**.
 
-### 8.1. Điều trị không mổ (NOM)
+### Điều trị không mổ (NOM)
 Bao gồm theo dõi lâm sàng và kỹ thuật **Tắc mạch lách qua chụp mạch máu (SAE/TAE)**. Tỷ lệ thành công chung đạt 50 – 70% (rất cao ở độ I–III).
 
 * **Chống chỉ định tuyệt đối:**
   1. Huyết động không ổn định.
   2. Có biểu hiện viêm phúc mạc toàn thể.
   3. Có tổn thương tạng rỗng hoặc tạng khác trong ổ bụng cần phẫu thuật mở bụng.
-* **Chống chỉ định tương đối:** Tăng áp lực tĩnh mạch cửa/xơ cirrhosis (tỷ lệ thất bại cao do rối loạn đông máu), chấn thương lách độ cao (IV–V) có thoát mạch hoạt động, chấn thương sọ não kèm theo, tri giác không ổn định, bệnh nhân \\(> 55\\) tuổi.
+* **Chống chỉ định tương đối:** Tăng áp lực tĩnh mạch cửa/xơ cirrhosis (tỷ lệ thất bại cao do rối loạn đông máu), chấn thương lách độ cao (IV–V) có thoát mạch hoạt động, chấn thương sọ não kèm theo, tri giác không ổn định, bệnh nhân `> 55` tuổi.
 
 **Tỷ lệ điều trị không mổ (NOM) thành công theo phân độ AAST:**
 
 | Phân độ AAST | Tỷ lệ NOM thành công |
 | :---: | :---: |
 | **Độ I** | 100% |
-| **Độ II** | \\(> 95\%\\) |
+| **Độ II** | `> 95%` |
 | **Độ III** | 80% |
 | **Độ IV** | 65 – 70% |
-| **Độ V** | \\(< 10\%\) |
+| **Độ V** | `< 10%` |
 
-#### 8.1.1. Hồi sức và theo dõi
+#### Hồi sức và theo dõi
 * Nằm nghỉ tuyệt đối tại giường, nhịn ăn uống ban đầu.
 * Theo dõi sinh hiệu và kiểm tra công thức máu (định lượng Hemoglobin) **mỗi 6 giờ** trong 24 giờ đầu.
 * *Chụp lại CLVT:* Chỉ định khi lâm sàng xấu đi (Hb giảm, đau bụng tăng, sốt). Đối với chấn thương độ III–V không can thiệp tắc mạch, nên chụp lại CLVT kiểm tra sau **24 – 48 giờ**.
 * *Thời gian nằm viện theo dõi:* Bằng **Phân độ tổn thương + 1 ngày** (Ví dụ: Độ III theo dõi 4 ngày).
 
-#### 8.1.2. Tắc mạch lách qua chụp mạch máu (TMLQCMM / SAE)
+#### Tắc mạch lách qua chụp mạch máu (TMLQCMM / SAE)
 * **Chỉ định:** Bệnh nhân huyết động ổn định có hình ảnh thoát mạch hoạt động (*active contrast blush*), giả phình động mạch lách, hoặc tụ máu lớn trên CT.
-* Kỹ thuật luồn ống thông qua ĐM đùi/cánh tay vào ĐM thân tạng \\(\rightarrow\\) ĐM lách và thả vật liệu gây tắc (Coil, keo sinh học, Spongel/GelFoam).
+* Kỹ thuật luồn ống thông qua ĐM đùi/cánh tay vào ĐM thân tạng `→` ĐM lách và thả vật liệu gây tắc (Coil, keo sinh học, Spongel/GelFoam).
 * **Biến chứng:** Tụ máu chỗ chọc dò, nhồi máu lách, áp xe lách/dưới hoành, bệnh thận do thuốc cản quang.
 
-#### 8.1.3. Chăm sóc lâu dài
+#### Chăm sóc lâu dài
 * **Hạn chế vận động:** Bệnh nhân xuất viện phải hạn chế tuyệt đối các hoạt động thể thao đối kháng, vận động mạnh, đi xe đạp, trượt tuyết, leo núi, quan hệ tình dục mạnh bạo trong thời gian **ít nhất 3 tháng** để tránh nguy cơ vỡ lại. (80% tổn thương lành trên hình ảnh sau 2 tháng).
 * Chụp lại CLVT hoặc siêu âm kiểm tra sau 3 tháng cho các đối tượng nguy cơ cao (vận động viên, quân nhân, người sắp du lịch xa).
 
-#### 8.1.4. Điều trị không mổ thất bại
+#### Điều trị không mổ thất bại
 * **Định nghĩa:** Cần phải phẫu thuật do chảy máu tiếp diễn, cần truyền máu/dịch lượng lớn liên tục, hoặc huyết động chuyển sang không ổn định.
 * Tỷ lệ thất bại chung của NOM từ **6 – 20%** (trong đó 40% thất bại do chọn bệnh ban đầu không phù hợp). Hơn 90% trường hợp vỡ lách thì 2 xảy ra trong vòng 10 ngày đầu.
 
-### 8.2. Điều trị phẫu thuật
+### Điều trị phẫu thuật
 Mổ khám xét đường giữa được chỉ định khi: Huyết động không ổn định, NOM thất bại, hoặc có tổn thương tạng phối hợp.
 
 ```
@@ -206,7 +206,7 @@ Mổ khám xét đường giữa được chỉ định khi: Huyết động kh�
 
 **(Trích từ bộ câu hỏi lượng giá của Bài 6 trong giáo trình):**
 
-**Câu 1:** Bệnh nhân nam, 25 tuổi, đi xe máy tự té, ngã xuống đường, nhập viện sau 2 giờ bị tai nạn. Bệnh nhân không nhớ rõ cơ chế chấn thương, chỉ nhớ té đập người bên trái xuống đường, sau đó xỉu và được đưa vào cấp cứu. Bệnh nhân than đau âm ỉ vùng bụng trái, vai trái. Khám: mạch 98 lần/phút, huyết áp 120/70 mmHg, nhiệt độ: \\(37^\circ\text{C}\\), nhịp thở 20 lần/phút; ấn đau bụng trái, nhiều vùng 1/4 trên trái. Cần làm gì tiếp theo?
+**Câu 1:** Bệnh nhân nam, 25 tuổi, đi xe máy tự té, ngã xuống đường, nhập viện sau 2 giờ bị tai nạn. Bệnh nhân không nhớ rõ cơ chế chấn thương, chỉ nhớ té đập người bên trái xuống đường, sau đó xỉu và được đưa vào cấp cứu. Bệnh nhân than đau âm ỉ vùng bụng trái, vai trái. Khám: mạch 98 lần/phút, huyết áp 120/70 mmHg, nhiệt độ: `37°C`, nhịp thở 20 lần/phút; ấn đau bụng trái, nhiều vùng 1/4 trên trái. Cần làm gì tiếp theo?
 * A. Theo dõi sát sinh hiệu và truyền dịch
 * B. Xét nghiệm công thức máu, siêu âm có trọng điểm (FAST)
 * C. Chọc dò dịch ổ bụng

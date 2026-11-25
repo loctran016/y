@@ -19,12 +19,12 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐỊNH NGHĨA
+## ĐỊNH NGHĨA
 
 Viêm tụy mạn là tình trạng viêm tụy diễn tiến dẫn đến **tổn thương cấu trúc nhu mô tụy không hồi phục**, làm mất cân bằng và suy giảm chức năng bài tiết enzym tụy cả nội tiết và ngoại tiết. 
 
 * **Triệu chứng lâm sàng nổi bật:** Đau bụng mạn tính (liên tục hoặc từng đợt), kèm theo các rối loạn chuyển hóa do thiếu hụt enzym tụy gây ảnh hưởng nghiêm trọng đến chất lượng sống của người bệnh.
-* **Sỏi tụy:** Khoảng **50%** trường hợp viêm tụy mạn sẽ hình thành sỏi tụy. Cấu trúc sỏi tụy gồm 1 nhân chính ở giữa được bao quanh bởi nhiều lớp **Calci Carbonate** (\\(\text{CaCO}_3\\)). Sỏi tụy hình thành nhanh và nhiều hơn ở bệnh nhân viêm tụy mạn do rượu và có thể phân bố ở bất kỳ vị trí nào trong ống tụy hoặc nhu mô tụy.
+* **Sỏi tụy:** Khoảng **50%** trường hợp viêm tụy mạn sẽ hình thành sỏi tụy. Cấu trúc sỏi tụy gồm 1 nhân chính ở giữa được bao quanh bởi nhiều lớp **Calci Carbonate** (`CaCO₃`). Sỏi tụy hình thành nhanh và nhiều hơn ở bệnh nhân viêm tụy mạn do rượu và có thể phân bố ở bất kỳ vị trí nào trong ống tụy hoặc nhu mô tụy.
 
 ```
                       [VIÊM TỤY MẠN & SỎI TỤY]
@@ -38,7 +38,7 @@ Viêm tụy mạn là tình trạng viêm tụy diễn tiến dẫn đến **t�
 
 ---
 
-## 2. NGUYÊN NHÂN VÀ BỆNH SINH
+## NGUYÊN NHÂN VÀ BỆNH SINH
 
 Các nhóm nguyên nhân gây viêm tụy mạn bao gồm:
 
@@ -51,7 +51,7 @@ Các nhóm nguyên nhân gây viêm tụy mạn bao gồm:
 
 ---
 
-## 3. DỊCH TỄ
+## DỊCH TỄ
 
 * **Mối liên quan với tiêu thụ rượu:** Viêm tụy mạn gặp nhiều ở các quốc gia tiêu thụ rượu bia lớn. Việt Nam đứng thứ 2 ở Đông Nam Á và thuộc nhóm có tốc độ tiêu thụ rượu bia tăng nhanh nhất thế giới.
 * **Đặc điểm giới tính:**
@@ -60,36 +60,36 @@ Các nhóm nguyên nhân gây viêm tụy mạn bao gồm:
 
 ---
 
-## 4. SINH LÝ BỆNH VÀ TỔN THƯƠNG MÔ HỌC CỦA VIÊM TỤY MẠN
+## SINH LÝ BỆNH VÀ TỔN THƯƠNG MÔ HỌC CỦA VIÊM TỤY MẠN
 
-### 4.1. Viêm tụy mạn có thể do nhiều nguyên nhân dẫn đến, tuy nhiên tất cả các cơ chế bệnh sinh đều dẫn đến sự tắc nghẽn ống tụy
+### Viêm tụy mạn có thể do nhiều nguyên nhân dẫn đến, tuy nhiên tất cả các cơ chế bệnh sinh đều dẫn đến sự tắc nghẽn ống tụy
 
 Giả thuyết **SAPE (*Sentinel Acute Pancreatitis Event*)** giải thích quá trình tiến triển xơ hóa nhu mô tụy:
-* Khi xảy ra đợt viêm cấp, nhu mô tụy kích thích các tế bào đảo tụy tiết Cytokine, kích hoạt **tế bào hình sao (*pancreatic stellate cells*)** tăng sản xuất mô sợi và tăng thâm nhập tế bào viêm (bạch cầu đa nhân, đơn nhân) \\(\rightarrow\\) Làm hẹp dần lòng ống tụy.
+* Khi xảy ra đợt viêm cấp, nhu mô tụy kích thích các tế bào đảo tụy tiết Cytokine, kích hoạt **tế bào hình sao (*pancreatic stellate cells*)** tăng sản xuất mô sợi và tăng thâm nhập tế bào viêm (bạch cầu đa nhân, đơn nhân) `→` Làm hẹp dần lòng ống tụy.
 * Dù đợt viêm tụy cấp qua đi và bệnh nhân đã ngừng phơi nhiễm với độc chất (rượu, thuốc lá), các tế bào viêm và Cytokine vẫn tiếp tục duy trì hoạt động xơ hóa nhu mô. Điều này lý giải vì sao người bệnh đã bỏ rượu nhiều năm vẫn tiến triển thành viêm tụy mạn.
-* **Cơ chế tạo sỏi tụy do rượu/di truyền:** Ethanol và đột biến gen kích thích tế bào đảo tụy tiết protein làm tăng độ nhớt/đông đặc dịch tụy, đồng thời **tăng tiết Carbonate** từ các ống tuyến ngoại vi \\(\rightarrow\\) Tắc nghẽn ống tụy, gây thiếu máu nuôi tế bào đảo tụy và đọng Calci tạo sỏi. *(Ngược lại, nguyên nhân tự miễn gây giảm tiết dịch tụy nhưng không tăng tiết Carbonate nên ít khi tạo sỏi).*
+* **Cơ chế tạo sỏi tụy do rượu/di truyền:** Ethanol và đột biến gen kích thích tế bào đảo tụy tiết protein làm tăng độ nhớt/đông đặc dịch tụy, đồng thời **tăng tiết Carbonate** từ các ống tuyến ngoại vi `→` Tắc nghẽn ống tụy, gây thiếu máu nuôi tế bào đảo tụy và đọng Calci tạo sỏi. *(Ngược lại, nguyên nhân tự miễn gây giảm tiết dịch tụy nhưng không tăng tiết Carbonate nên ít khi tạo sỏi).*
 * Quá trình viêm kéo dài làm phì đại xơ hóa nhu mô tụy, tập trung chủ yếu ở vùng đầu tụy (**40%** trường hợp) tạo thành **Khối viêm đầu tụy**, làm nặng thêm tình trạng tắc nghẽn ống tụy.
 
-### 4.2. Tình trạng xơ hóa nhu mô tụy kéo dài ảnh hưởng đến chức năng nội tiết và ngoại tiết của tụy
+### Tình trạng xơ hóa nhu mô tụy kéo dài ảnh hưởng đến chức năng nội tiết và ngoại tiết của tụy
 
 * **Suy tụy ngoại tiết (Rối loạn hấp thu chất béo):** Triệu chứng tiêu phân mỡ xuất hiện ở **90%** bệnh nhân viêm tụy mạn do sự phân hủy mỡ giảm nhanh hơn sự phân hủy protein. Bệnh nhân bị thiếu hụt các Vitamin tan trong dầu (**A, D, E, K**) và giảm hấp thu **Vitamin B12**.
 * **Suy tụy nội tiết (Đái tháo đường do tụy - Típ 3c):**
   * Thường xuất hiện muộn, phổ biến ở bệnh nhân có sỏi tụy. Suy tụy nội tiết chỉ xảy ra khi **hơn 90% nhu mô tụy bình thường bị phá hủy**.
-  * Bệnh nhân bắt buộc phải dùng Insulin (**40%** trường hợp) do tế bào \\(\beta\\) bị phá hủy. 
-  * *Điểm khác biệt quan trọng với đái tháo đường típ 1:* Tế bào \\(\alpha\\) tiết Glucagon cũng bị tổn thương đồng thời, làm bệnh nhân **rất dễ rơi vào tình trạng hạ đường huyết đột ngột**.
+  * Bệnh nhân bắt buộc phải dùng Insulin (**40%** trường hợp) do tế bào `β` bị phá hủy. 
+  * *Điểm khác biệt quan trọng với đái tháo đường típ 1:* Tế bào `α` tiết Glucagon cũng bị tổn thương đồng thời, làm bệnh nhân **rất dễ rơi vào tình trạng hạ đường huyết đột ngột**.
   * Biến chứng đái tháo đường do tụy thường gặp ở thần kinh và võng mạc hơn là toan chuyển hóa hay suy thận.
 
-### 4.3. Tổn thương xơ hóa nhu mô tụy diễn tiến kéo dài sẽ dẫn đến hình thành các tế bào ác tính ở tụy
+### Tổn thương xơ hóa nhu mô tụy diễn tiến kéo dài sẽ dẫn đến hình thành các tế bào ác tính ở tụy
 
 Viêm tụy mạn là yếu tố nguy cơ cao dẫn đến ung thư tụy: nguy cơ chuyển thành ung thư tụy trong 2 năm đầu sau chẩn đoán là **12 – 20%**, và **tăng gấp 8 lần** sau 5 năm theo dõi.
 
 ---
 
-## 5. LÂM SÀNG
+## LÂM SÀNG
 
-### 5.1. Triệu chứng lâm sàng
+### Triệu chứng lâm sàng
 
-#### 5.1.1. Khám bụng
+#### Khám bụng
 Đau bụng là triệu chứng nổi bật nhất (**70 – 80%** bệnh nhân), là lý do hàng đầu khiến người bệnh đi khám và cũng là chỉ định phẫu thuật phổ biến nhất.
 
 * **Đặc điểm cơn đau:**
@@ -102,63 +102,63 @@ Viêm tụy mạn là yếu tố nguy cơ cao dẫn đến ung thư tụy: nguy 
 * **Triệu chứng kèm theo:** Buồn nôn, nôn ói. Khám bụng thấy ấn đau sâu vùng thượng vị, đề kháng nhẹ trong đợt cấp, **ấn điểm Mayo-Robson dương tính (+)**.
 * Nếu có nang giả tụy to, có thể sờ thấy khối vùng thượng vị/hạ sườn trái, bề mặt trơn láng, ấn đau tức, không di động theo nhịp thở.
 
-#### 5.1.2. Suy tụy ngoại tiết
-Khi chức năng ngoại tiết suy giảm **\\(> 90\%\\)** (chức năng còn lại \\(< 10\%\\)), bệnh nhân có các biểu hiện:
+#### Suy tụy ngoại tiết
+Khi chức năng ngoại tiết suy giảm **`> 90%`** (chức năng còn lại `< 10%`), bệnh nhân có các biểu hiện:
 * **Tiêu phân mỡ:** Phân lỏng, nhiều, màu xám trơn nhớt, có váng mỡ nổi trên mặt nước, mùi chua/mùi thức ăn sống.
 * Rối loạn tiêu hóa: Đầy hơi, chán ăn, nôn ói, táo bón.
 * Sụt cân kéo dài và suy dinh dưỡng nặng.
 * *Thời gian xuất hiện:* Trung bình 5 – 6 năm sau cơn đau đầu tiên (13 năm đối với viêm tụy mạn do rượu và 26 năm đối với thể vô căn).
 
-#### 5.1.3. Suy tụy nội tiết
+#### Suy tụy nội tiết
 Xảy ra ở giai đoạn muộn. Rối loạn đường huyết gặp ở **70%** trường hợp, trong đó đái tháo đường chiếm **20%**.
 * Lâm sàng có thể gặp hội chứng tăng đường huyết (ăn nhiều, uống nhiều, tiểu nhiều, sụt cân) hoặc cơn hạ đường huyết (vã mồ hôi, tim đập nhanh, chóng mặt, da tái nhạt).
 * Thời gian xuất hiện đái tháo đường: Sau 19,8 năm đối với nguyên nhân do rượu và 11,9 – 27,5 năm đối với thể vô căn.
 
-### 5.2. Các thể lâm sàng của viêm tụy mạn và sỏi tụy
+### Các thể lâm sàng của viêm tụy mạn và sỏi tụy
 
-#### 5.2.1. Sỏi tụy và giãn ống tụy
-Sỏi tụy gặp ở **\\(> 50\%\\)** trường hợp viêm tụy mạn. Sỏi gây tắc nghẽn lòng ống tụy, làm tăng áp lực nội ống và áp lực mô nhu mô, gây ra cơn đau bụng dữ dội. Trên hình ảnh học, sỏi tụy đi kèm dãn ống tụy chính (dãn toàn bộ hoặc từng đoạn xen kẽ tạo hình ảnh **"chuỗi hồ"**).
+#### Sỏi tụy và giãn ống tụy
+Sỏi tụy gặp ở **`> 50%`** trường hợp viêm tụy mạn. Sỏi gây tắc nghẽn lòng ống tụy, làm tăng áp lực nội ống và áp lực mô nhu mô, gây ra cơn đau bụng dữ dội. Trên hình ảnh học, sỏi tụy đi kèm dãn ống tụy chính (dãn toàn bộ hoặc từng đoạn xen kẽ tạo hình ảnh **"chuỗi hồ"**).
 
-#### 5.2.2. Nang giả tụy
+#### Nang giả tụy
 Chiếm khoảng **25%** trường hợp. Vách nang cấu tạo bởi mô hạt viêm (không có tế bào biểu mô), chứa dịch tụy do có thông thương với ống tụy. Nang thường nằm ở vùng thân và đuôi tụy.
 
-#### 5.2.3. Khối viêm đầu tụy
-Chiếm **30 – 45%** trường hợp viêm tụy mạn (80% do rượu). Vùng đầu tụy bị viêm phì đại kích thước **\\(\ge 4\text{ cm}\\)**, gây chèn ép các tạng lân cận:
+#### Khối viêm đầu tụy
+Chiếm **30 – 45%** trường hợp viêm tụy mạn (80% do rượu). Vùng đầu tụy bị viêm phì đại kích thước **`≥ 4 cm`**, gây chèn ép các tạng lân cận:
 * Tắc ống mật chủ gây vàng da tắc mật (**50%**).
 * Chèn ép tá tràng gây hội chứng hẹp môn vị (**5 – 10%**).
 * Chèn ép tĩnh mạch cửa / tĩnh mạch mạc treo tràng trên (**8 – 15%**) và tĩnh mạch lách (**3 – 5%**).
 
-#### 5.2.4. Hội chứng vàng da tắc mật
+#### Hội chứng vàng da tắc mật
 Chiếm **9%** trường hợp. Do sỏi tụy kẹt ở ngã ba mật tụy, xơ sẹo đầu tụy hoặc khối viêm đầu tụy chèn ép đoạn dưới ống mật chủ.
 
-#### 5.2.5. Giả phình mạch máu trong viêm tụy mạn
+#### Giả phình mạch máu trong viêm tụy mạn
 Biến chứng hiếm gặp (**4 – 10%**) nhưng **nguy hiểm tính mạng** do enzym tụy và phản ứng viêm ăn mòn các động mạch lớn quanh tụy (động mạch lách, động mạch vị - tá tràng, động mạch tá - tụy, động mạch gan). Vỡ giả phình vào nang giả tụy hoặc đường tiêu hóa gây xuất huyết ồ ạt.
 
 ---
 
-## 6. CẬN LÂM SÀNG
+## CẬN LÂM SÀNG
 
-### 6.1. Xét nghiệm máu
+### Xét nghiệm máu
 * **Công thức máu & Viêm:** Bạch cầu và CRP/Procalcitonin tăng trong đợt viêm cấp hoặc nhiễm khuẩn.
-* **Men tụy (Amylase, Lipase):** Trong viêm tụy mạn giai đoạn ổn định, men tụy thường **bình thường hoặc chỉ tăng nhẹ**. Men tụy chỉ tăng cao gấp \\(> 3\text{ lần}\\) khi có đợt cấp bùng phát trên nền mạn.
+* **Men tụy (Amylase, Lipase):** Trong viêm tụy mạn giai đoạn ổn định, men tụy thường **bình thường hoặc chỉ tăng nhẹ**. Men tụy chỉ tăng cao gấp `> 3 lần` khi có đợt cấp bùng phát trên nền mạn.
 * **Đường huyết & Dinh dưỡng:** Đánh giá Albumin, Pre-albumin, Triglycerid, Glucose máu.
 * **Marker ung thư:** **CA 19-9** giúp tầm soát và gợi ý ung thư tụy kèm theo.
 * **Miễn dịch:** Xét nghiệm IgG4, ANA, ASA để chẩn đoán viêm tụy mạn tự miễn.
 
-### 6.2. Xét nghiệm phân
-* **Định lượng mỡ phân 72 giờ:** Ngưỡng **\\(> 7\text{ g/ngày}\\)** là **TIÊU CHUẨN VÀNG** để chẩn đoán hội chứng suy tụy ngoại tiết / rối loạn hấp thu mỡ (hầu hết bệnh nhân suy tụy ngoại tiết có lượng mỡ phân \\(> 10\text{ g/ngày}\\)).
+### Xét nghiệm phân
+* **Định lượng mỡ phân 72 giờ:** Ngưỡng **`> 7 g/ngày`** là **TIÊU CHUẨN VÀNG** để chẩn đoán hội chứng suy tụy ngoại tiết / rối loạn hấp thu mỡ (hầu hết bệnh nhân suy tụy ngoại tiết có lượng mỡ phân `> 10 g/ngày`).
 
-### 6.3. Chẩn đoán hình ảnh
+### Chẩn đoán hình ảnh
 
 * **X-quang bụng không sửa soạn:** Thấy hình ảnh nốt vôi hóa của sỏi nằm ở vị trí nhu mô/ống tụy. Độ nhạy rất thấp, chỉ phát hiện ở giai đoạn muộn.
 * **Siêu âm bụng:** Phương tiện đầu tay (độ nhạy 60–70%, độ đặc hiệu 80–90%). Dấu hiệu: Dãn ống tụy chính (45–60%), sỏi tụy có bóng lưng (40%), tụy phì đại lan tỏa hoặc teo nhỏ, mất hình dạng răng cưa.
 * **Chụp cắt lớp vi tính (CT Scan) bụng có cản quang:** Phương tiện phổ biến nhất trên lâm sàng (độ nhạy 75–90%, độ đặc hiệu 85–95%).
-  * *Hình ảnh:* Dãn ống tụy chính (\\(\ge 5\text{ mm}\\) ở đầu tụy, \\(\ge 2\text{ mm}\\) ở thân/đuôi tụy - chiếm 68%), teo nhu mô tụy (54%), sỏi tụy (50%), dãn đường mật (29%), tụ dịch / nang giả tụy.
+  * *Hình ảnh:* Dãn ống tụy chính (`≥ 5 mm` ở đầu tụy, `≥ 2 mm` ở thân/đuôi tụy - chiếm 68%), teo nhu mô tụy (54%), sỏi tụy (50%), dãn đường mật (29%), tụ dịch / nang giả tụy.
 * **Chụp cộng hưởng từ mật tụy (MRCP):** Phương tiện **chính xác nhất** khảo sát chi tiết ống tụy, sỏi tụy và đường mật (độ nhạy 69–85%, đặc hiệu 90–98%). Khi tiêm **Secretin**, MRCP còn giúp đánh giá chức năng bài tiết ngoại tiết của tụy.
 
 ---
 
-## 7. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
 Chẩn đoán xác định viêm tụy mạn dựa trên sự phối hợp giữa Bệnh sử (uống rượu kéo dài, đái tháo đường, đau tái phát), Lâm sàng và Hình ảnh học.
 
@@ -166,13 +166,13 @@ Chẩn đoán xác định viêm tụy mạn dựa trên sự phối hợp giữ
 
 | Tiêu chuẩn Lâm sàng | Các Biến chứng Viêm tụy mạn | Tiêu chuẩn Hình ảnh học |
 | :--- | :--- | :--- |
-| 1. Đau thượng vị mạn tính.<br>2. Các đợt đau tái phát của viêm tụy cấp.<br>3. Có biến chứng của viêm tụy mạn.<br>4. Tiêu phân mỡ.<br>5. Đái tháo đường. | 1. Hội chứng vàng da tắc mật.<br>2. Hội chứng hẹp môn vị do tắc tá tràng.<br>3. Huyết khối tĩnh mạch cửa (tăng áp TM cửa/lách).<br>4. Nang giả tụy có triệu chứng.<br>5. Rò tụy.<br>6. Tràn dịch ổ bụng do tụy.<br>7. Biến chứng hiếm (tắc đại tràng, nang giả lách...). | **1. Thay đổi ống tụy:** Ống tụy chính hoặc nhánh bên dãn không đều (\\(> 3\text{ mm}\\)), khuyết thuốc, sỏi tụy, hẹp hoặc tắc lòng ống.<br><br>**2. Thay đổi nhu mô:** Vôi hóa nhu mô, nhu mô không đồng nhất, bờ tụy không đều. |
+| 1. Đau thượng vị mạn tính.<br>2. Các đợt đau tái phát của viêm tụy cấp.<br>3. Có biến chứng của viêm tụy mạn.<br>4. Tiêu phân mỡ.<br>5. Đái tháo đường. | 1. Hội chứng vàng da tắc mật.<br>2. Hội chứng hẹp môn vị do tắc tá tràng.<br>3. Huyết khối tĩnh mạch cửa (tăng áp TM cửa/lách).<br>4. Nang giả tụy có triệu chứng.<br>5. Rò tụy.<br>6. Tràn dịch ổ bụng do tụy.<br>7. Biến chứng hiếm (tắc đại tràng, nang giả lách...). | **1. Thay đổi ống tụy:** Ống tụy chính hoặc nhánh bên dãn không đều (`> 3 mm`), khuyết thuốc, sỏi tụy, hẹp hoặc tắc lòng ống.<br><br>**2. Thay đổi nhu mô:** Vôi hóa nhu mô, nhu mô không đồng nhất, bờ tụy không đều. |
 
 *Chẩn đoán phân biệt:* Cần phân biệt khối phì đại đầu tụy trong viêm tụy mạn với Ung thư đầu tụy; phân biệt nang giả tụy với nang gan, nang mạc treo và phình động mạch chủ bụng.
 
 ---
 
-## 8. ĐIỀU TRỊ
+## ĐIỀU TRỊ
 
 ```
                      [ĐIỀU TRỊ VIÊM TỤY MẠN – SỎI TỤY]
@@ -187,19 +187,19 @@ Chẩn đoán xác định viêm tụy mạn dựa trên sự phối hợp giữ
      (dùng Insulin)                                               Partington-Rochelle...
 ```
 
-### 8.1. Nội khoa
+### Nội khoa
 * **Giảm đau:** Giải quyết nguyên nhân (bỏ hẳn rượu bia, thuốc lá); dùng thuốc giảm đau toàn thân kết hợp thuốc giảm tiết dịch tụy (**Somatostatin**). Nhịn ăn trong đợt đau cấp.
 * **Dinh dưỡng:** Chia nhỏ bữa ăn, giảm thành phần chất béo, uống đủ nước. **Bổ sung Enzym tụy** đường uống trong các bữa ăn để giảm tiêu phân mỡ và cải thiện hấp thu.
 * **Nội tiết:** Kiểm soát chặt chẽ đường huyết bằng Insulin (chú ý nguy cơ hạ đường huyết).
 
-### 8.2. Điều trị can thiệp không phẫu thuật (Nội soi ERCP)
+### Điều trị can thiệp không phẫu thuật (Nội soi ERCP)
 * **Nội soi mật tụy ngược dòng (ERCP):** Dùng để can thiệp giải áp ống tụy như gắp/lấy sỏi tụy hoặc đặt Stent qua vị trí hẹp ống tụy chính.
 * **Chỉ định:** Tắc nghẽn/sỏi ở ống tụy chính **đoạn gần** (gần tá tràng), phía sau có ống tụy dãn và không có vị trí hẹp/tắc khác ở đoạn xa.
 
-### 8.3. Phẫu thuật
+### Phẫu thuật
 * **Chỉ định phẫu thuật:**
   1. Đau bụng dữ dội không đáp ứng điều trị nội khoa và ERCP.
-  2. Có khối viêm đầu tụy (\\(\ge 4\text{ cm}\\)).
+  2. Có khối viêm đầu tụy (`≥ 4 cm`).
   3. Hẹp ống mật chủ đoạn trong tụy không can thiệp được qua ERCP.
   4. Hẹp nhiều đoạn ống tụy chính.
   5. Chèn ép tĩnh mạch cửa hoặc tĩnh mạch mạc treo tràng trên.
@@ -211,7 +211,7 @@ Chẩn đoán xác định viêm tụy mạn dựa trên sự phối hợp giữ
 
 | Hình thái tổn thương giải phẫu | Phương pháp phẫu thuật chỉ định |
 | :--- | :--- |
-| **Dãn ống tụy chính (\\(\ge 7\text{ mm}\\)), không tắc nhánh bên, không có khối viêm đầu tụy** | Dẫn lưu ống tụy: **Partington - Rochelle** (hoặc Puestow) |
+| **Dãn ống tụy chính (`≥ 7 mm`), không tắc nhánh bên, không có khối viêm đầu tụy** | Dẫn lưu ống tụy: **Partington - Rochelle** (hoặc Puestow) |
 | **Tắc các nhánh bên ống tụy** | Xẻ dọc nhu mô tụy hình chữ V: **Izbicki** |
 | **Khối viêm đầu tụy (chưa dãn ống tụy chính)** | Cắt đầu tụy bảo tồn tá tràng: **Beger** hoặc Khoét đầu tụy: **Berne** |
 | **Khối viêm đầu tụy KÈM dãn ống tụy chính** | Khoét đầu tụy kết hợp dẫn lưu ống tụy: **Frey** |
@@ -220,7 +220,7 @@ Chẩn đoán xác định viêm tụy mạn dựa trên sự phối hợp giữ
 
 *Phẫu thuật tạm thời:* Nội soi lồng ngực cắt đốt hạch giao cảm áp dụng cho trường hợp đau mạn tính không thể mổ dẫn lưu hay cắt tụy.
 
-### 8.4. Kết quả điều trị và tiên lượng
+### Kết quả điều trị và tiên lượng
 * Điều trị nội khoa chủ yếu làm chậm tiến triển bệnh và giảm triệu chứng.
 * Nội soi ERCP giải áp có tỷ lệ giảm đau thấp hơn phẫu thuật nhưng ít xâm lấn.
 * Trong ngoại khoa, phẫu thuật **Frey** và **Beger** hiện nay được áp dụng rộng rãi nhất nhờ hiệu quả **giảm đau kéo dài** và **bảo tồn tốt chức năng nội - ngoại tiết** của tụy. Phẫu thuật Whipple có tỷ lệ biến chứng cao hơn nên chỉ dùng khi nghi ngờ ung thư.

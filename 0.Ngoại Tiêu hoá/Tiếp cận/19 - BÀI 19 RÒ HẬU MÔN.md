@@ -21,7 +21,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. ĐẠI CƯƠNG
+## ĐẠI CƯƠNG
 
 * **Định nghĩa đường rò (*Fistula*):** Là đường thông nối bất thường giữa hai bề mặt bao phủ bởi lớp biểu mô (như biểu mô đường tiêu hóa hay mạch máu) mà ở điều kiện sinh lý bình thường không có sự thông nối này.
 * **Định nghĩa Rò hậu môn (*Fistula-in-ano*):** Là đường thông nối bất thường giữa biểu mô đoạn cuối ống tiêu hóa (ống hậu môn hoặc trực tràng) với biểu mô da vùng quanh hậu môn hoặc tầng sinh môn.
@@ -35,7 +35,7 @@ nguon: NotebookLM
   * **3%** do chấn thương hoặc sau phẫu thuật vùng hậu môn – trực tràng (mổ trĩ, tầng sinh môn, tiền liệt tuyến).
   * **3%** do bệnh lý viêm ruột mạn tính (bệnh Crohn, viêm loét đại trực tràng chảy máu).
   * **3%** sau nứt hậu môn mạn tính.
-  * **\\(< 1\%\\)** do nhiễm lao.
+  * **`< 1%`** do nhiễm lao.
 * **Dịch tễ học:** 
   * Tỷ lệ mới mắc rò hậu môn tại Hoa Kỳ là **2/10.000 dân/năm** (khoảng 20.000 – 25.000 ca mới mỗi năm).
   * Nam giới mắc bệnh nhiều hơn nữ giới, với tỷ lệ Nam/Nữ dao động từ **2/1 đến 4/1** (cao nhất ở Ấn Độ là 4/1).
@@ -43,12 +43,12 @@ nguon: NotebookLM
 
 ---
 
-## 2. NHẮC LẠI GIẢI PHẪU LIÊN QUAN RÒ HẬU MÔN
+## NHẮC LẠI GIẢI PHẪU LIÊN QUAN RÒ HẬU MÔN
 
-### 2.1. Tuyến hậu môn
+### Tuyến hậu môn
 * **Số lượng & Vị trí:** Có từ **4 đến 10 tuyến hậu môn** (*anal glands*) phân bố theo chu vi ống hậu môn. Các tuyến này đổ vào các van nhỏ gọi là **khe hậu môn** (*anal crypts*) nằm giữa các cột niêm mạc dọc Morgagni tại vị trí **đường lược** (*pectinate/dentate line*).
 * **Đường đi giải phẫu:** Thân của tuyến hậu môn nằm ở lớp dưới niêm mạc, đi xuyên qua cơ thắt trong hậu môn và khoảng **2/3 số tuyến nằm tận cùng trong khoang gian cơ thắt** (*intersphincteric space*).
-* **Cơ chế khởi phát:** Khi các lỗ khe tuyến bị tắc nghẽn (do phân, mô hoại tử, dị vật hoặc phù nề) \\(\rightarrow\\) Dịch tiết ứ đọng, vi khuẩn phát triển \\(\rightarrow\\) Viêm nhiễm khe - tuyến \\(\rightarrow\\) Tạo ổ áp xe trong khoang gian cơ thắt \\(\rightarrow\\) Tiến triển thành rò hậu môn (nguy cơ chiếm **36 – 66%**).
+* **Cơ chế khởi phát:** Khi các lỗ khe tuyến bị tắc nghẽn (do phân, mô hoại tử, dị vật hoặc phù nề) `→` Dịch tiết ứ đọng, vi khuẩn phát triển `→` Viêm nhiễm khe - tuyến `→` Tạo ổ áp xe trong khoang gian cơ thắt `→` Tiến triển thành rò hậu môn (nguy cơ chiếm **36 – 66%**).
 
 ```
                       [CƠ CHẾ NHIỄM KHUẨN KHE - TUYẾN HẬU MÔN]
@@ -62,14 +62,14 @@ nguon: NotebookLM
  Mủ vỡ ra da / được rạch tháo ───────────► Hình thành ĐƯỜNG RÒ HẬU MÔN mạn tính
 ```
 
-### 2.2. Cơ thắt hậu môn
+### Cơ thắt hậu môn
 
-#### 2.2.1. Cơ thắt trong hậu môn
+#### Cơ thắt trong hậu môn
 * Là phần tiếp nối liên tục của lớp cơ vòng trực tràng, dày lên rõ rệt khi đi xuống dưới.
 * Giới hạn dưới hình vòng tròn của cơ thắt trong có thể sờ thấy cách **1 – 1,5 cm phía trên đường lược**.
 * Là loại **cơ trơn** (hoạt động không theo ý muốn), luôn co thắt tạo nên trương lực lúc nghỉ (*resting tone*) của ống hậu môn (cùng với cơ mu trực tràng).
 
-#### 2.2.2. Cơ thắt ngoài hậu môn
+#### Cơ thắt ngoài hậu môn
 * Là loại **cơ vân** (hoạt động theo ý muốn), bao quanh bên ngoài cơ thắt trong.
 * Theo Goligher, cơ thắt ngoài được chia thành 3 phần: phần dưới da (*subcutaneous*), phần nông (*superficial*) và phần sâu (*deep*). Trong đó, **phần nông là phần dày nhất và có vai trò quan trọng nhất** đối với sự tự chủ đại tiện.
 * **Đặc điểm giải phẫu theo giới tính (Nghiên cứu của Russel Pearl trên MRI):**
@@ -78,10 +78,10 @@ nguon: NotebookLM
   * Ở nữ giới, cân đáy chậu trung tâm ít sợi cân cơ hơn và nằm phía trước cơ thắt ngoài; đồng thời **bán phần trước ở nữ không có sự hỗ trợ của cơ mu trực tràng**.
   * *Ý nghĩa lâm sàng:* Cấu trúc yếu ở bán phần trước làm phụ nữ dễ bị rách tầng sinh môn khi sinh và **cảnh báo phẫu thuật viên KHÔNG NÊN cắt đường rò xuyên cơ thắt ở bán phần trước ở nữ giới** trừ khi đường rò rất ngắn và nông.
 
-#### 2.2.3. Các trường hợp nên lưu ý không cắt đường rò ngay thì đầu
+#### Các trường hợp nên lưu ý không cắt đường rò ngay thì đầu
 Để tránh biến chứng nghiêm trọng là **mất tự chủ đại tiện (són phân, không giữ được hơi/phân)** sau mổ, tuyệt đối **KHÔNG cắt cơ thắt hậu môn ngay thì đầu** (mà phải dùng các phương pháp bảo tồn cơ thắt như cột dây thun, vạt niêm mạc, phẫu thuật LIFT, keo sinh học...) trong 6 trường hợp sau:
 
-1. **Rò hậu môn xuyên cơ thắt cao:** Khi đường rò xuyên **\\(> 50\%\\)** cơ thắt ngoài ở bán phần sau, hoặc **\\(> 30\%\\)** cơ thắt ngoài ở bán phần trước.
+1. **Rò hậu môn xuyên cơ thắt cao:** Khi đường rò xuyên **`> 50%`** cơ thắt ngoài ở bán phần sau, hoặc **`> 30%`** cơ thắt ngoài ở bán phần trước.
 2. **Rò kèm ổ áp xe lan rộng quanh chu vi ống hậu môn:** Làm mất mốc giải phẫu rõ ràng, nếu cắt đường rò sẽ gây biến dạng nghiêm trọng ống hậu môn khi sẹo lành.
 3. **Rò xuyên cơ thắt cao ở bán phần trước ở nữ giới:** Do cơ thắt ngoài vùng này rất ngắn và không có cơ mu trực tràng nâng đỡ.
 4. **Rò xuyên cơ thắt cao ở bệnh nhân HIV/AIDS:** Do khả năng lành vết thương rất kém và bệnh nhân thường kèm tiêu chảy mạn tính.
@@ -90,12 +90,12 @@ nguon: NotebookLM
 
 ---
 
-## 3. NGUYÊN NHÂN
+## NGUYÊN NHÂN
 
-### 3.1. Nguyên nhân không đặc hiệu
+### Nguyên nhân không đặc hiệu
 Chiếm đa số các trường hợp, do nhiễm khuẩn vi trùng thông thường (trực khuẩn *E. coli*, tụ cầu trùng *Staphylococcus*, liên cầu trùng *Streptococcus*...) phát sinh từ các tuyến hậu môn.
 
-### 3.2. Nguyên nhân đặc hiệu
+### Nguyên nhân đặc hiệu
 Gặp trong các bệnh lý toàn thân hoặc tổn thương đặc biệt:
 * **Bệnh Lao** (*Tuberculosis*).
 * **Bệnh Crohn** (viêm ruột mạn tính).
@@ -109,12 +109,12 @@ Gặp trong các bệnh lý toàn thân hoặc tổn thương đặc biệt:
 
 ---
 
-## 4. SINH BỆNH HỌC
+## SINH BỆNH HỌC
 
-### 4.1. Nhiễm khuẩn khe tuyến
+### Nhiễm khuẩn khe tuyến
 Dựa trên thuyết khe - tuyến của Chiari, Herrmann, Defosses, Parks và Eisenhammer:
 * Trong nghiên cứu giải phẫu, tuyến hậu môn hiện diện ở 55% mẫu bệnh phẩm, trong đó **33% các ống tuyến đi xuyên qua cơ thắt trong**.
-* Khi lỗ khe tuyến bị tắc nghẽn do hạt phân hoặc mô hoại tử \\(\rightarrow\\) Ổ nhiễm khuẩn khởi phát từ ống tuyến phát triển theo hướng ít bị cản trở nhất, tạo thành ổ áp xe trong khoang gian cơ thắt và hình thành đường rò hậu môn.
+* Khi lỗ khe tuyến bị tắc nghẽn do hạt phân hoặc mô hoại tử `→` Ổ nhiễm khuẩn khởi phát từ ống tuyến phát triển theo hướng ít bị cản trở nhất, tạo thành ổ áp xe trong khoang gian cơ thắt và hình thành đường rò hậu môn.
 * **3 hướng lan rộng của ổ nhiễm khuẩn từ khe tuyến:**
   1. *Lan theo chiều dọc (xuống dưới):* Thường gặp nhất và đơn giản nhất, tạo thành **áp xe quanh hậu môn**. Nếu lan lên trên sẽ tạo áp xe gian cơ thắt cao hoặc áp xe trên cơ nâng.
   2. *Lan theo chiều ngang:* Xuyên qua cơ thắt ngoài vào hố ngồi - trực tràng.
@@ -130,9 +130,9 @@ Dựa trên thuyết khe - tuyến của Chiari, Herrmann, Defosses, Parks và E
   (Thường gặp nhất)              hố ngồi - trực tràng            tạo Rò / Áp xe MÓN GỰA
 ```
 
-### 4.2. Các yếu tố nguy cơ
+### Các yếu tố nguy cơ
 * Tuổi **đưới 40 tuổi**.
-* Chỉ số khối cơ thể **BMI \\(> 25\text{ kg/m}^2\\)**.
+* Chỉ số khối cơ thể **BMI `> 25 kg/m²`**.
 * Bệnh đái tháo đường, rối loạn lipid máu.
 * Lối sống ít vận động, uống rượu thường xuyên, hút thuốc lá.
 * Tiền sử phẫu thuật vùng hậu môn – trực tràng trước đó.
@@ -141,11 +141,11 @@ Dựa trên thuyết khe - tuyến của Chiari, Herrmann, Defosses, Parks và E
 
 ---
 
-## 5. PHÂN LOẠI
+## PHÂN LOẠI
 
 Rò hậu môn được phân thành 2 nhóm: **Rò đơn giản** và **Rò phức tạp**.
 
-### 5.1. Phân loại rò hậu môn theo Parks (1976)
+### Phân loại rò hậu môn theo Parks (1976)
 Bảng phân loại kinh điển của Parks dựa trên mối tương quan giữa đường rò nguyên phát và cơ thắt ngoài hậu môn (phân tích trên 400 trường hợp):
 
 **Bảng 1. Phân loại các dạng rò hậu môn theo Parks**
@@ -154,12 +154,12 @@ Bảng phân loại kinh điển của Parks dựa trên mối tương quan gi�
 | :--- | :--- | :---: | :--- |
 | **1. Rò gian cơ thắt**<br>(*Intersphincteric*) | • Rò đơn giản gian cơ thắt thấp.<br>• Rò có nhánh chột cao.<br>• Rò cao có lỗ mở vào trực tràng.<br>• Rò cao không có lỗ ngoài da.<br>• Rò mở rộng ngoài trực tràng.<br>• Rò thứ phát sau bệnh lý chậu. | **20 – 45%** | Đường rò nằm hoàn toàn trong rãnh gian cơ thắt (giữa cơ thắt trong và cơ thắt ngoài). Đa số là rò đơn giản. |
 | **2. Rò xuyên cơ thắt**<br>(*Transsphincteric*) | • Không phức tạp.<br>• Rò có nhánh chột cao. | **30 – 60%**<br>*(Thường gặp nhất)* | Đường rò đi xuyên qua cơ thắt ngoài (dưới cơ mu trực tràng) đi vào khoang ngồi - trực tràng rồi ra da. |
-| **3. Rò trên cơ thắt**<br>(*Suprasphincteric*) | • Không phức tạp.<br>• Rò hậu môn hình móng ngựa. | **\\(< 2\%\)** | Đường rò đi lên phía trên cơ mu trực tràng, vòng qua đỉnh cơ rồi đâm xuống qua cơ nâng hậu môn vào hố ngồi trực tràng ra da. |
+| **3. Rò trên cơ thắt**<br>(*Suprasphincteric*) | • Không phức tạp.<br>• Rò hậu môn hình móng ngựa. | **`< 2%`** | Đường rò đi lên phía trên cơ mu trực tràng, vòng qua đỉnh cơ rồi đâm xuống qua cơ nâng hậu môn vào hố ngồi trực tràng ra da. |
 | **4. Rò ngoài cơ thắt**<br>(*Extrasphincteric*) | • Thứ phát sau rò hậu môn.<br>• Do chấn thương.<br>• Do viêm vùng chậu / IBD. | **2 – 5%** | Đường rò nằm hoàn toàn ngoài khối cơ thắt, đi từ da tầng sinh môn xuyên thẳng qua cơ nâng hậu môn vào lòng trực tràng. |
 
-### 5.2. Rò hậu môn phức tạp
+### Rò hậu môn phức tạp
 Theo Hiệp hội Phẫu thuật Đại Trực tràng Hoa Kỳ (ASCRS 2005), rò hậu môn được coi là **phức tạp** khi có từ một trong các yếu tố sau:
-* Đường rò đi xuyên **\\(> 30\%\\)** cơ thắt ngoài hậu môn (rò xuyên cơ thắt cao, rò trên cơ thắt, rò ngoài cơ thắt).
+* Đường rò đi xuyên **`> 30%`** cơ thắt ngoài hậu môn (rò xuyên cơ thắt cao, rò trên cơ thắt, rò ngoài cơ thắt).
 * Rò hậu môn hình móng ngựa (*Horseshoe fistula*).
 * Rò hậu môn ở bán phần trước ở nữ giới.
 * Rò có nhiều đường rò, rò tái phát nhiều lần.
@@ -169,7 +169,7 @@ Theo Hiệp hội Phẫu thuật Đại Trực tràng Hoa Kỳ (ASCRS 2005), rò
 
 ---
 
-## 6. CHẨN ĐOÁN
+## CHẨN ĐOÁN
 
 * **Triệu chứng lâm sàng:**
   * *Giai đoạn cấp (Áp xe):* Đau dữ dội vùng hậu môn, khối sưng đỏ căng đau ở rìa hậu môn.
@@ -185,7 +185,7 @@ Theo Hiệp hội Phẫu thuật Đại Trực tràng Hoa Kỳ (ASCRS 2005), rò
   * Vẽ một đường ngang giả định đi qua trung tâm lỗ hậu môn chia tầng sinh môn làm 2 nửa (nửa trước và nửa sau):
   * **Lỗ rò ngoài nằm ở NỬA SAU:** Đường rò sẽ đi theo đường cong vòng về phía sau và đổ vào **lỗ rò trong ở đường giữa sau (vị trí 6 giờ)**.
   * **Lỗ rò ngoài nằm ở NỬA TRƯỚC:** Đường rò sẽ đi theo **đường thẳng hướng tâm** đổ trực tiếp vào lỗ rò trong ở ống hậu môn tương ứng.
-  * ***Ngoại trừ của Định luật Goodsall:*** Nếu lỗ rò ngoài ở nửa trước nhưng nằm **cách rìa hậu môn \\(> 3\text{ cm}\\)** (hoặc rò do Crohn/ung thư), đường rò sẽ không đi thẳng mà chạy cong vòng về đổ vào lỗ rò trong ở đường giữa sau (6 giờ).
+  * ***Ngoại trừ của Định luật Goodsall:*** Nếu lỗ rò ngoài ở nửa trước nhưng nằm **cách rìa hậu môn `> 3 cm`** (hoặc rò do Crohn/ung thư), đường rò sẽ không đi thẳng mà chạy cong vòng về đổ vào lỗ rò trong ở đường giữa sau (6 giờ).
 
 ```
                       [ĐỊNH LUẬT GOODSALL (GOODSALL'S LAW)]
@@ -205,17 +205,17 @@ Theo Hiệp hội Phẫu thuật Đại Trực tràng Hoa Kỳ (ASCRS 2005), rò
 
 ---
 
-## 7. CHẨN ĐOÁN HÌNH ẢNH
+## CHẨN ĐOÁN HÌNH ẢNH
 
-### 7.1. Chụp X-quang đường rò có cản quang
+### Chụp X-quang đường rò có cản quang
 Bơm thuốc cản quang tan trong nước qua lỗ ngoài và chụp trên 2 bình diện. Độ chính xác thấp (chỉ khoảng 25%), nguy cơ áp lực bơm cao làm lan rộng nhiễm trùng. Hiện nay **rất ít được sử dụng**.
 
-### 7.2. Siêu âm qua lòng hậu môn (EAUS)
+### Siêu âm qua lòng hậu môn (EAUS)
 * Sử dụng đầu dò xoay tần số 7 – 10 MHz đặt trong lòng hậu môn.
 * Được đánh giá là phương pháp rẻ tiền, an toàn và là **"TIÊU CHUẨN VÀNG" để đánh giá toàn bộ hệ thống cơ thắt trong/ngoài** và phát hiện các đường rò gian/xuyên cơ thắt.
 * Bơm dung dịch **Oxy già (*Hydrogen peroxide*)** qua lỗ ngoài giúp bọt khí làm nổi rõ hình ảnh đường rò và các nhánh phụ trên siêu âm.
 
-### 7.3. Chụp cộng hưởng từ rò hậu môn (MRI)
+### Chụp cộng hưởng từ rò hậu môn (MRI)
 * Là phương phương tiện hình ảnh **chính xác nhất** (dùng máy MRI 1,5T hoặc 3,0T).
 * **Chỉ định:** 
   1. Bệnh nhân có nhiều lỗ rò ngoài.
@@ -225,9 +225,9 @@ Bơm thuốc cản quang tan trong nước qua lỗ ngoài và chụp trên 2 b�
 
 ---
 
-## 8. ĐIỀU TRỊ
+## ĐIỀU TRỊ
 
-### 8.1. Nguyên tắc điều trị
+### Nguyên tắc điều trị
 Nhiễm khuẩn cấp tính (áp xe) là chỉ định mổ dẫn lưu sớm. Phẫu thuật rò hậu môn phải tuân thủ **4 nguyên tắc cốt lõi**:
 1. **Bảo vệ an toàn tối đa cho cơ thắt** và duy trì chức năng tự chủ đại tiện.
 2. Cắt bỏ / loại bỏ được đường rò.
@@ -236,16 +236,16 @@ Nhiễm khuẩn cấp tính (áp xe) là chỉ định mổ dẫn lưu sớm. Ph
 
 > *Triết lý ngoại khoa:* **"Thà chấp nhận thất bại điều trị để mổ lại lần sau, còn hơn làm đứt cơ thắt gây mất tự chủ đại tiện không thể phục hồi."**
 
-### 8.2. Đánh giá thương tổn trong mổ
+### Đánh giá thương tổn trong mổ
 
-#### 8.2.1. Tìm lỗ rò trong
+#### Tìm lỗ rò trong
 * **Bơm chất màu (Xanh Methylen 1/10):** Bơm 2 – 10 ml xanh methylen qua lỗ ngoài, đặt van Ferguson quan sát điểm xanh trào ra ở đường lược. *Nhược điểm:* Chỉ có 1 cơ hội duy nhất vì màu dễ lem làm nhòe phẫu trường.
 * **Bơm Oxy già (*Hydrogen peroxide*):** Là **phương pháp lý tưởng nhất**. Oxy già sủi bọt khí trào ra qua lỗ trong giúp dễ quan sát, bọt khí lách qua được cả đường rò hẹp và có thể bơm lại nhiều lần vì không làm lem màu mô xung quanh.
 
-#### 8.2.2. Tìm đường rò bằng que thăm
+#### Tìm đường rò bằng que thăm
 Dùng que thăm kim loại nhỏ, đầu tròn, uốn cong nhẹ nhàng luồn từ lỗ ngoài vào lỗ trong (hoặc ngược lại) dưới sự hướng dẫn của ngón tay trỏ đặt trong lòng trực tràng. Thao tác phải hết sức nhẹ nhàng, nắn theo định luật Goodsall, tránh dùng lực mạnh làm thủng mô lành tạo ra **đường rò giả**.
 
-### 8.3. Các phương pháp phẫu thuật rò hậu môn
+### Các phương pháp phẫu thuật rò hậu môn
 
 ```
                          [CÁC PHƯƠNG PHÁP PHẪU THUẬT RÒ HẬU MÔN]
@@ -258,27 +258,27 @@ Dùng que thăm kim loại nhỏ, đầu tròn, uốn cong nhẹ nhàng luồn t
                                  └─► Cắt đường rò gian cơ thắt (LIFT)
 ```
 
-#### 8.3.1. Mở đường rò (*Fistulotomy*)
+#### Mở đường rò (*Fistulotomy*)
 * Dùng que thông có rãnh luồn qua đường rò, dùng dao rạch mở toang toàn bộ đường rò từ lỗ ngoài đến lỗ trong, xẻ đi qua niêm mạc và phần cơ thắt đè lên trên, để vết thương lành tự phát từ đáy lên.
 * **Chỉ định:** Áp dụng tốt cho **rò gian cơ thắt và rò xuyên cơ thắt thấp**.
 * *Khâu viền mép vết thương (*Marsupialization*):* Giúp rút ngắn thời gian lành vết thương xuống 4 – 6 tuần. Tỷ lệ tái phát: 3–4% (gian cơ thắt), 7–10% (xuyên cơ thắt).
 
-#### 8.3.2. Cắt đường rò (*Fistulectomy*)
+#### Cắt đường rò (*Fistulectomy*)
 * Cắt lọc lấy trọn toàn bộ khối mô xơ đường rò từ lỗ ngoài đến lỗ trong. 
 * So với mở đường rò, cắt đường rò làm vết thương chậm lành hơn, để lại khuyết hổng cơ thắt lớn hơn và **nguy cơ mất tự chủ đại tiện cao hơn** mà tỷ lệ tái phát không khác biệt.
 
-#### 8.3.3. Cột dây thun (*Seton*)
+#### Cột dây thun (*Seton*)
 Dùng chất liệu không tan (chỉ silk, dây thun, dây luồn mạch máu, ống cống dẻo silicone) luồn qua đường rò.
 * **Đặt dây thun lỏng (*Loose Seton*):** Mục đích **dẫn lưu mủ**, giảm viêm, kích thích tạo mô xơ. Dùng làm bước đệm cho phẫu thuật triệt để sau đó hoặc dùng kéo dài cho rò do bệnh Crohn.
 * **Cột dây thun thắt chặt (*Cutting / Tight Seton*):** Dây thun được siết chặt định kỳ, thắt cắt cơ thắt từ từ qua nhiều tuần. Mô sẹo hình thành ngay sau đường cắt giúp giữ 2 đầu cơ không bị tách xa, bảo tồn được sự tự chủ đại tiện.
 
-#### 8.3.4. Chuyển vạt niêm mạc trực tràng (*Advancement Flap*)
+#### Chuyển vạt niêm mạc trực tràng (*Advancement Flap*)
 Áp dụng cho **rò trên cơ thắt hoặc ngoài cơ thắt**. Cắt bỏ đường rò + bóc tách di động một vạt niêm mạc - dưới niêm mạc trực tràng có máu nuôi tốt + khâu che kín lỗ rò trong.
 
-#### 8.3.5. Cắt đường rò gian cơ thắt (Phẫu thuật LIFT - *Ligation of Intersphincteric Fistula Tract*)
-Mở đường mổ hình cung ở rãnh gian cơ thắt \\(\rightarrow\\) Phẫu tích bộc lộ đoạn đường rò đi qua khoang gian cơ thắt \\(\rightarrow\\) Khâu cột hai đầu đường rò bằng chỉ Vicryl 3/0 và cắt đôi đường rò \\(\rightarrow\\) Nạo sạch phần đường rò còn lại. Đây là phương pháp **bảo tồn hoàn toàn cơ thắt ngoài**.
+#### Cắt đường rò gian cơ thắt (Phẫu thuật LIFT - *Ligation of Intersphincteric Fistula Tract*)
+Mở đường mổ hình cung ở rãnh gian cơ thắt `→` Phẫu tích bộc lộ đoạn đường rò đi qua khoang gian cơ thắt `→` Khâu cột hai đầu đường rò bằng chỉ Vicryl 3/0 và cắt đôi đường rò `→` Nạo sạch phần đường rò còn lại. Đây là phương pháp **bảo tồn hoàn toàn cơ thắt ngoài**.
 
-#### 8.3.6. Các phương pháp điều trị rò hậu môn mới
+#### Các phương pháp điều trị rò hậu môn mới
 * **Bơm keo sinh học Fibrin (*Fibrin glue*):** Bơm keo bít kín lòng đường rò và khâu lỗ trong, kích thích tế bào nguyên bào sợi phát triển tạo sẹo. Đơn giản, bảo tồn cơ thắt tuyệt đối.
 * **Tế bào gốc từ mô mỡ tự thân (*Adipose-derived stem cells*):** Dành cho rò phức tạp hoặc rò do bệnh Crohn. Tỷ lệ thành công ban đầu đạt **71%** (giảm còn 65% sau 1 năm và 33% sau 3 năm).
 

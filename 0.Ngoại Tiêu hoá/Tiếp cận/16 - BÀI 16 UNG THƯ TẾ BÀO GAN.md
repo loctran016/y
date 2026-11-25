@@ -20,7 +20,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. MỞ ĐẦU
+## MỞ ĐẦU
 
 Theo thống kê của Tổ chức Thống kê Ung thư Thế giới (GLOBOCAN 2018), ung thư tế bào gan (*Hepatocellular Carcinoma - HCC*) là loại bệnh ác tính có tỷ lệ mới mắc và tỷ lệ tử vong đứng hàng đầu tại Việt Nam. Lý do chính là nước ta thuộc vùng dịch tễ nhiễm viêm gan siêu vi B và C cao – hai yếu tố nguy cơ hàng đầu gây ra căn bệnh này.
 
@@ -31,7 +31,7 @@ Một đặc điểm nguy hiểm của ung thư tế bào gan là biểu hiện 
 
 ---
 
-## 2. DỊCH TỄ VÀ CÁC YẾU TỐ NGUY CƠ GÂY BỆNH UNG THƯ TẾ BÀO GAN
+## DỊCH TỄ VÀ CÁC YẾU TỐ NGUY CƠ GÂY BỆNH UNG THƯ TẾ BÀO GAN
 
 Ung thư gan đứng thứ 6 về tỷ lệ mắc mới trên thế giới (thứ 5 ở nam, thứ 9 ở nữ), nhưng lại là nguyên nhân gây tử vong do ung thư đứng **hàng thứ hai**. Khoảng **75%** số ca ung thư gan thế giới tập trung tại Châu Á (đặc biệt là các nước Đông Á như Việt Nam, Trung Quốc, Hàn Quốc chiếm hơn 50%) và vùng Nam Sahara Châu Phi. Khoảng **80%** số ca liên quan trực tiếp đến viêm gan siêu vi B hoặc C. Tỷ lệ mắc ở nam nhiều hơn nữ (từ 2/1 đến 4/1).
 
@@ -51,63 +51,63 @@ Tại Việt Nam (GLOBOCAN 2018), ung thư tế bào gan là loại ung thư m�
                                                                    └─► Gan nhiễm mỡ (NAFLD/NASH)
 ```
 
-### 2.1. Nhiễm siêu vi viêm gan B
+### Nhiễm siêu vi viêm gan B
 * Người nhiễm HBV có nguy cơ mắc ung thư tế bào gan cao hơn người bình thường **15 – 20 lần** (dao động từ 5 – 103 lần).
-* **Các yếu tố tăng nguy cơ ở người nhiễm HBV:** Giới nam, tuổi cao, người gốc Á hoặc Phi, gia đình có tiền sử ung thư gan, lây nhiễm HBV từ mẹ sang con, nồng độ virus cao (HBsAg \\(> 1000\text{ IU/mL}\\), HBV-DNA \\(> 2000\text{ IU/mL}\\)), **Genotype C** (nguy cơ cao hơn Genotype A, B, D), HBeAg dương tính kéo dài, đồng nhiễm HCV/HIV/HDV, xơ gan kèm theo, và lối sống (rượu, thuốc lá, Aflatoxin).
+* **Các yếu tố tăng nguy cơ ở người nhiễm HBV:** Giới nam, tuổi cao, người gốc Á hoặc Phi, gia đình có tiền sử ung thư gan, lây nhiễm HBV từ mẹ sang con, nồng độ virus cao (HBsAg `> 1000 IU/mL`, HBV-DNA `> 2000 IU/mL`), **Genotype C** (nguy cơ cao hơn Genotype A, B, D), HBeAg dương tính kéo dài, đồng nhiễm HCV/HIV/HDV, xơ gan kèm theo, và lối sống (rượu, thuốc lá, Aflatoxin).
 * Việc điều trị kháng virus (NUCs) giúp làm giảm nguy cơ tiến triển thành ung thư tế bào gan.
 
-### 2.2. Nhiễm siêu vi viêm gan C
+### Nhiễm siêu vi viêm gan C
 * Nhiễm HCV làm tăng nguy cơ ung thư tế bào gan lên **15 – 20 lần**. Khác với HBV, hầu hết trường hợp ung thư tế bào gan do HCV xuất hiện trên nền **gan đã có xơ gan tiến triển**.
 * Việc điều trị khỏi HCV bằng các thuốc kháng virus tác động trực tiếp (DAAs) giúp làm giảm đáng kể nguy cơ xuất hiện ung thư gan.
 
-### 2.3. Bệnh gan nhiễm mỡ không do rượu
+### Bệnh gan nhiễm mỡ không do rượu
 Bệnh gan nhiễm mỡ không do rượu (*NAFLD*) và viêm gan nhiễm mỡ không do rượu (*NASH*) liên quan chặt chẽ với béo phì, đái tháo đường típ 2 và hội chứng chuyển hóa. Ung thư tế bào gan có thể phát triển trên nền gan NASH **ngay cả khi chưa có xơ gan**.
 
-### 2.4. Các bệnh gan khác
-Các bệnh gan mạn tính khác như xơ gan ứ mật nguyên phát, viêm gan tự miễn, bệnh ứ sắt bẩm sinh (*Hemochromatosis*), bệnh Wilson (ứ đồng), thiếu hụt \\(\alpha_1\\)-antitrypsin... cũng là yếu tố nguy cơ.
+### Các bệnh gan khác
+Các bệnh gan mạn tính khác như xơ gan ứ mật nguyên phát, viêm gan tự miễn, bệnh ứ sắt bẩm sinh (*Hemochromatosis*), bệnh Wilson (ứ đồng), thiếu hụt `α₁`-antitrypsin... cũng là yếu tố nguy cơ.
 
-### 2.5. Aflatoxin
+### Aflatoxin
 * Aflatoxin là độc tố do nấm mốc *Aspergillus flavus* và *Aspergillus parasiticus* phát sinh trong các loại ngũ cốc, hạt lạc, ngô bị mốc.
 * **Aflatoxin B1** là loại độc tố mạnh nhất, khi vào gan được chuyển hóa thành chất gắn chèn vào DNA gây đột biến gen (đặc biệt là gen đè nén u *p53*).
-* Độc tố này rất bền với nhiệt (chỉ bị phân hủy ở nhiệt độ \\(> 160^\circ\text{C}\\)), do đó việc rang hay nấu nướng thông thường không thể loại bỏ độc tố trong thực phẩm đã mốc. Tác động cộng hưởng làm tăng vọt nguy cơ ung thư gan ở bệnh nhân nhiễm HBV.
+* Độc tố này rất bền với nhiệt (chỉ bị phân hủy ở nhiệt độ `> 160°C`), do đó việc rang hay nấu nướng thông thường không thể loại bỏ độc tố trong thực phẩm đã mốc. Tác động cộng hưởng làm tăng vọt nguy cơ ung thư gan ở bệnh nhân nhiễm HBV.
 
-### 2.6. Rượu
+### Rượu
 Nghiện rượu mạn tính gây ra viêm gan do rượu và xơ gan. Uống rượu trên **80 gam/ngày trong hơn 10 năm** làm tăng nguy cơ ung thư tế bào gan gấp 5 lần. Ở nữ giới, chỉ cần tiêu thụ 2,3 gam rượu/ngày đã ghi nhận tăng nguy cơ. Uống rượu ở người nhiễm HCV làm tăng nguy cơ ung thư lên gấp nhiều lần.
 
-### 2.7. Thuốc lá
+### Thuốc lá
 Theo IARC (2004), hút thuốc lá làm tăng nguy cơ mắc ung thư tế bào gan lên **1,5 lần** so với người không hút thuốc.
 
 ---
 
-## 3. CHẨN ĐOÁN UNG THƯ TẾ BÀO GAN
+## CHẨN ĐOÁN UNG THƯ TẾ BÀO GAN
 
-### 3.1. Chẩn đoán bệnh ung thư tế bào gan
+### Chẩn đoán bệnh ung thư tế bào gan
 
-#### 3.1.1. Khai thác tiền căn bệnh
+#### Khai thác tiền căn bệnh
 Cần khai thác kỹ tiền sử bản thân và gia đình về nhiễm siêu vi viêm gan B, C, thói quen uống rượu, hút thuốc lá, tiếp xúc với độc chất/Aflatoxin, bệnh lý chuyển hóa và tiền sử xơ gan.
 
-#### 3.1.2. Triệu chứng cơ năng và thực thể
+#### Triệu chứng cơ năng và thực thể
 * **Giai đoạn sớm:** Người bệnh hầu như **không có bất kỳ triệu chứng lâm sàng nào**. Bệnh chỉ được phát hiện nhờ tầm soát định kỳ. Có thể chỉ thấy các dấu hiệu mờ nhạt của xơ gan như sao mạch, lòng bàn tay son, tuần hoàn bàng hệ.
 * **Giai đoạn muộn:** Biểu hiện tình trạng xơ gan mất bù và u tiến triển:
   * *Cơ năng:* Sụt cân nhanh, mệt mỏi, chán ăn, đau tức vùng hạ sườn phải hay thượng vị.
   * *Thực thể:* Vàng da vàng mắt, báng bụng (cổ trướng), phù hai chân, xuất huyết tiêu hóa do vỡ tĩnh mạch thực quản, sờ thấy **khối u gan to, mật độ cứng chắc, bề mặt gồ ghề** ở vùng hạ sườn phải hoặc thượng vị.
 
-#### 3.1.3. Cận lâm sàng
+#### Cận lâm sàng
 
 ##### (1) Các chất chỉ điểm ung thư gan (Biomarkers):
 * **Alpha-fetoprotein (AFP):** 
   * Là protein do tế bào gan phôi thai tiết ra. Nồng độ AFP tăng tùy thuộc vào kích thước, độ biệt hóa và mức độ xâm lấn của khối u.
   * AFP **không nhạy với các khối u nhỏ giai đoạn sớm** và có thể tăng trong viêm gan mạn, xơ gan, ung thư tinh hoàn...
-  * Mặc dù ngưỡng cảnh báo ung thư gan là \\(200\text{ ng/mL}\\), theo phác đồ Bộ Y tế Việt Nam (2020), chỉ số **\\(\text{AFP} > 400\text{ ng/mL}\\)** kết hợp với hình ảnh học điển hình có giá trị hỗ trợ chẩn đoán xác định.
+  * Mặc dù ngưỡng cảnh báo ung thư gan là `200 ng/mL`, theo phác đồ Bộ Y tế Việt Nam (2020), chỉ số **`AFP > 400 ng/mL`** kết hợp với hình ảnh học điển hình có giá trị hỗ trợ chẩn đoán xác định.
 * **PIVKA-II / DCP (*Des-gamma-carboxy prothrombin*):** 
-  * Là dạng prothrombin bất thường sản sinh do thiếu Vitamin K ở tế bào ung thư gan. Giá trị không phụ thuộc vào AFP. Ngưỡng \\(40\text{ mAU/mL}\\) cho độ đặc hiệu cao (81 – 98%). Đặc biệt tăng cao ở các khối u lớn \\(> 5\text{ cm}\\) hoặc có xâm lấn mạch máu.
+  * Là dạng prothrombin bất thường sản sinh do thiếu Vitamin K ở tế bào ung thư gan. Giá trị không phụ thuộc vào AFP. Ngưỡng `40 mAU/mL` cho độ đặc hiệu cao (81 – 98%). Đặc biệt tăng cao ở các khối u lớn `> 5 cm` hoặc có xâm lấn mạch máu.
 * **AFP-L3:** 
-  * Là một isoform của AFP gắn với lectin. Tỷ lệ **\\(\% \text{AFP-L3} / \text{AFP toàn phần} > 15\%\\)** giúp phân biệt rất chính xác tăng AFP do ung thư gan với các bệnh gan lành tính (độ đặc hiệu 94 – 100%).
+  * Là một isoform của AFP gắn với lectin. Tỷ lệ **`% AFP-L3 / AFP toàn phần > 15%`** giúp phân biệt rất chính xác tăng AFP do ung thư gan với các bệnh gan lành tính (độ đặc hiệu 94 – 100%).
   * *Sự kết hợp cả 3 chất chỉ điểm (AFP + PIVKA-II + AFP-L3) giúp gia tăng tối đa độ nhạy và độ đặc hiệu.*
 
 ##### (2) Siêu âm bụng:
 * Phương tiện **tầm soát đầu tay**, rẻ tiền, phổ biến, an toàn. Phối hợp siêu âm bụng với xét nghiệm AFP mỗi **3 – 6 tháng** cho nhóm đối tượng nguy cơ cao.
-* Siêu âm có độ nhạy 65 – 80%, độ đặc hiệu \\(> 90\%\\). Khi phát hiện sang thương bất thường trên siêu âm, bắt buộc chỉ định các phương tiện hình ảnh chuyên sâu (CT/MRI) để chẩn đoán xác định.
+* Siêu âm có độ nhạy 65 – 80%, độ đặc hiệu `> 90%`. Khi phát hiện sang thương bất thường trên siêu âm, bắt buộc chỉ định các phương tiện hình ảnh chuyên sâu (CT/MRI) để chẩn đoán xác định.
 
 ##### (3) Chụp cắt lớp vi tính (CT Scan) hay Chụp cộng hưởng từ (MRI) động học 4 thì:
 * Khối u ung thư tế bào gan nhận **hơn 80% nguồn máu nuôi từ Động mạch gan** (trong khi nhu mô gan lành nhận 75% máu từ Tĩnh mạch cửa).
@@ -129,7 +129,7 @@ Cần khai thác kỹ tiền sử bản thân và gia đình về nhiễm siêu 
 
 ##### (4) Sinh thiết gan:
 * Là "tiêu chuẩn vàng" về giải phẫu bệnh. Tuy nhiên, sinh thiết gan có nguy cơ chảy máu, gieo rắc tế bào ung thư dọc đường đâm kim và có thể âm tính giả nếu u nhỏ.
-* **Chỉ định sinh thiết:** Chỉ thực hiện khi khối u có kích thước \\(> 1 - 2\text{ cm}\\) nhưng **hình ảnh CT/MRI KHÔNG ĐIỂN HÌNH**.
+* **Chỉ định sinh thiết:** Chỉ thực hiện khi khối u có kích thước `> 1 - 2 cm` nhưng **hình ảnh CT/MRI KHÔNG ĐIỂN HÌNH**.
 
 ##### (5) Các cận lâm sàng đánh giá di căn & chức năng gan:
 * *Đánh giá di căn:* CT ngực không cản quang (tầm soát di căn phổi), Xạ hình xương (tầm soát di căn xương), PET/CT (tầm soát di căn toàn thân).
@@ -137,9 +137,9 @@ Cần khai thác kỹ tiền sử bản thân và gia đình về nhiễm siêu 
 
 ---
 
-### 3.2. Chẩn đoán phân biệt
+### Chẩn đoán phân biệt
 
-#### 3.2.1. Chẩn đoán phân biệt với một số loại u lành tính thường gặp trong gan
+#### Chẩn đoán phân biệt với một số loại u lành tính thường gặp trong gan
 
 1. **U mạch máu gan (*Hepatic Hemangioma*):**
    * Loại u lành tính phổ biến nhất ở gan (tần suất 0,4 – 20%), nữ/nam = 5/1.
@@ -149,9 +149,9 @@ Cần khai thác kỹ tiền sử bản thân và gia đình về nhiễm siêu 
    * *Hình ảnh CT/MRI:* Ngấm thuốc mạnh thì động mạch, đồng đậm độ với gan ở thì tĩnh mạch và có **hình ảnh sẹo trung tâm (*central scar*)**. Thường không cần điều trị.
 3. **U tuyến gan (*Hepatic Adenoma*):**
    * Hay gặp ở phụ nữ trẻ có tiền sử dùng **thuốc ngừa thai đường uống kéo dài**. Có nguy cơ vỡ xuất huyết hoại tử và **nguy cơ hóa ác thành HCC**. 
-   * Thường không có đặc điểm hình ảnh điển hình (chẩn đoán xác định dựa vào sinh thiết). Phẫu thuật cắt bỏ được chỉ định khi khối u **\\(> 5\text{ cm}\\)**.
+   * Thường không có đặc điểm hình ảnh điển hình (chẩn đoán xác định dựa vào sinh thiết). Phẫu thuật cắt bỏ được chỉ định khi khối u **`> 5 cm`**.
 
-#### 3.2.2. Một số loại u ác tính hay gặp, cần chẩn đoán phân biệt với ung thư tế bào gan
+#### Một số loại u ác tính hay gặp, cần chẩn đoán phân biệt với ung thư tế bào gan
 
 1. **Ung thư tế bào ống mật trong gan (*Intrahepatic Cholangiocarcinoma*):**
    * U nguyên phát từ đường mật. Trên CT/MRI không ngấm thuốc điển hình như HCC mà thường ngấm thuốc viền, **gây co rút vỏ bao Glisson** của gan, dãn đường mật ngoại vi trên dòng và tăng nồng độ **CA 19-9** trong máu.
@@ -160,7 +160,7 @@ Cần khai thác kỹ tiền sử bản thân và gia đình về nhiễm siêu 
 
 ---
 
-### 3.3. Các phác đồ chẩn đoán ung thư tế bào gan
+### Các phác đồ chẩn đoán ung thư tế bào gan
 
 Phác đồ chẩn đoán một khối u gan theo **AASLD 2011**:
 
@@ -188,7 +188,7 @@ Chuyển quy trình u ≥ 1cm        Theo dõi     CHẨN ĐOÁN HCC            
 
 ---
 
-### 3.4. Chẩn đoán giai đoạn
+### Chẩn đoán giai đoạn
 
 Bảng phân loại giai đoạn của **Hội Ung thư gan Tây Ban Nha (BCLC 2018)** được sử dụng phổ biến nhất vì tích hợp được 3 yếu tố quan trọng: **Tình trạng khối u, Chức năng gan (Child-Pugh) và Thể trạng người bệnh (ECOG)**.
 
@@ -198,20 +198,20 @@ Bảng phân loại giai đoạn của **Hội Ung thư gan Tây Ban Nha (BCLC 2
 | :---: | :--- |
 | **0** | Hoạt động đầy đủ, sinh hoạt bình thường như trước khi bệnh. |
 | **1** | Có triệu chứng nhẹ, hạn chế vận động nặng, vẫn làm việc nhẹ được. |
-| **2** | Tự chăm sóc bản thân, không làm việc được, thời gian nằm giường \\(< 50\%\\) thời gian thức. |
-| **3** | Tự chăm sóc bản thân hạn chế, phải nằm giường \\(> 50\%\\) thời gian thức. |
+| **2** | Tự chăm sóc bản thân, không làm việc được, thời gian nằm giường `< 50%` thời gian thức. |
+| **3** | Tự chăm sóc bản thân hạn chế, phải nằm giường `> 50%` thời gian thức. |
 | **4** | Liệt giường hoàn toàn, phụ thuộc hoàn toàn vào người khác. |
 
 **Tóm tắt phân giai đoạn BCLC 2018:**
-* **Giai đoạn Rất sớm (0):** 1 u \\(< 2\text{ cm}\\), Child-Pugh A, ECOG 0.
-* **Giai đoạn Sớm (A):** 1 u hoặc \\(\le 3\text{ u}\\) (mỗi u \\(< 3\text{ cm}\\)), Child-Pugh A–B, ECOG 0.
+* **Giai đoạn Rất sớm (0):** 1 u `< 2 cm`, Child-Pugh A, ECOG 0.
+* **Giai đoạn Sớm (A):** 1 u hoặc `≤ 3 u` (mỗi u `< 3 cm`), Child-Pugh A–B, ECOG 0.
 * **Giai đoạn Trung gian (B):** Nhiều hơn 3 khối u (đa ổ), Child-Pugh A–B, ECOG 0.
 * **Giai đoạn Tiến triển (C):** Khối u xâm lấn tĩnh mạch cửa, hoặc di căn hạch (N1), di căn xa (M1), Child-Pugh A–B, ECOG 1–2.
 * **Giai đoạn Cuối (D):** Chức năng gan **Child-Pugh C** hoặc thể trạng quá kém **ECOG 3–4** (bất kể tình trạng u).
 
 ---
 
-## 4. ĐIỀU TRỊ UNG THƯ TẾ BÀO GAN
+## ĐIỀU TRỊ UNG THƯ TẾ BÀO GAN
 
 Các phương pháp điều trị được chia thành 2 nhóm chính dựa trên mục tiêu hiệu quả:
 
@@ -228,30 +228,30 @@ Các phương pháp điều trị được chia thành 2 nhóm chính dựa trê
                                                                    Regorafenib, Pembrolizumab)
 ```
 
-### 4.1. Nhóm phương pháp điều trị có khả năng mang lại hiệu quả triệt để
+### Nhóm phương pháp điều trị có khả năng mang lại hiệu quả triệt để
 
-#### 4.1.1. Phẫu thuật cắt gan
+#### Phẫu thuật cắt gan
 * Là phương pháp triệt căn phổ biến nhất. Nhắm tới mục tiêu cắt bỏ toàn bộ phần gan chứa u.
-* **Chỉ định:** Khối u còn khả năng cắt bỏ, u đơn độc, chức năng gan **Child-Pugh A**, không có tăng áp tĩnh mạch cửa nặng và **thể tích gan để lại sau cắt phải đủ \\(> 30 - 40\%\\)**.
+* **Chỉ định:** Khối u còn khả năng cắt bỏ, u đơn độc, chức năng gan **Child-Pugh A**, không có tăng áp tĩnh mạch cửa nặng và **thể tích gan để lại sau cắt phải đủ `> 30 - 40%`**.
 * **Kết quả:** Tỷ lệ sống còn 5 năm sau mổ đạt **50 – 70%**. Tuy nhiên, tỷ lệ tái phát sau mổ khá cao (**50 – 75%** trong 5 năm) do bản chất nền gan còn xơ và viêm mạn.
 * *Biến chứng nguy hiểm:* Chảy máu, rò mật, suy chức năng gan sau mổ.
 
-#### 4.1.2. Phẫu thuật ghép gan
+#### Phẫu thuật ghép gan
 Là phương pháp điều trị triệt để nhất vì vừa lấy bỏ hoàn toàn khối u vừa thay thế nền gan xơ mạn tính bằng một lá gan mới khỏe mạnh (từ người hiến tạng chết não hoặc một phần gan từ người sống).
 
 **Các tiêu chuẩn chọn bệnh nhân ghép gan:**
 * **Tiêu chuẩn Milan (Ý) - Chuẩn vàng:**
-  * 1 khối u đơn độc \\(< 5\text{ cm}\\).
-  * Hoặc tối đa 3 khối u, mỗi u \\(< 3\text{ cm}\\).
+  * 1 khối u đơn độc `< 5 cm`.
+  * Hoặc tối đa 3 khối u, mỗi u `< 3 cm`.
   * Chưa có dấu hiệu xâm lấn mạch máu và chưa di căn xa.
   * *(Kết quả ghép theo Milan: Sống còn 5 năm 65–78%, tỷ lệ tái phát chỉ ~15%).*
 * **Tiêu chuẩn UCSF (Mỹ) - Mở rộng:**
-  * 1 khối u đơn độc \\(\le 6,5\text{ cm}\\).
-  * Hoặc tối đa 3 khối u, u lớn nhất \\(\le 4,5\text{ cm}\\) và tổng đường kính các u \\(\le 8\text{ cm}\\).
+  * 1 khối u đơn độc `≤ 6,5 cm`.
+  * Hoặc tối đa 3 khối u, u lớn nhất `≤ 4,5 cm` và tổng đường kính các u `≤ 8 cm`.
   * Chưa có xâm lấn mạch máu và chưa di căn xa.
 
-#### 4.1.3. Hủy khối u tại chỗ (*Local ablation*)
-* **Chỉ định:** Dành cho bệnh nhân có **\\(\le 3\text{ khối u}\\) và kích thước mỗi u \\(\le 3\text{ cm}\\)**.
+#### Hủy khối u tại chỗ (*Local ablation*)
+* **Chỉ định:** Dành cho bệnh nhân có **`≤ 3 khối u` và kích thước mỗi u `≤ 3 cm`**.
 * **Phương pháp:** Hủy u bằng sóng điện cao tần (**RFA**), vi sóng (**MWA**) hoặc tiêm cồn tuyệt đối (**PEI**) xuyên qua da dưới hướng dẫn của siêu âm/CT.
 * **Chống chỉ định địa điểm u:** 
   1. U nằm sát vỏ bao Glisson (nguy cơ gieo rắc tế bào ung thư vào màng bụng).
@@ -260,20 +260,20 @@ Là phương pháp điều trị triệt để nhất vì vừa lấy bỏ hoàn
 
 ---
 
-### 4.2. Nhóm điều trị làm giảm bệnh, kéo dài thời gian sống
+### Nhóm điều trị làm giảm bệnh, kéo dài thời gian sống
 
-#### 4.2.1. Điều trị tại chỗ
+#### Điều trị tại chỗ
 
 ##### (1) Bơm hóa chất và làm thuyên tắc động mạch nuôi khối u (TACE):
-* là lựa chọn hàng đầu cho bệnh nhân **BCLC giai đoạn B** (nhiều khối u, chưa xâm lấn mạch máu, chưa di căn xa), chức năng gan Child-Pugh A/B, Bilirubin toàn phần \\(< 3\text{ mg/dL}\\).
+* là lựa chọn hàng đầu cho bệnh nhân **BCLC giai đoạn B** (nhiều khối u, chưa xâm lấn mạch máu, chưa di căn xa), chức năng gan Child-Pugh A/B, Bilirubin toàn phần `< 3 mg/dL`.
 * *Kỹ thuật:* Luồn ống thông từ ĐM đùi vào chọn lọc động mạch nuôi khối u gan, bơm hóa chất (Doxorubicin, Cisplatin...) kết hợp chất làm tắc mạch (Lipiodol, hạt xốp) để cắt nguồn nuôi và tiêu diệt u.
 * *Kết quả:* Thời gian sống thêm trung bình khoảng **20 tháng**, tỷ lệ sống 2 năm khoảng 20 – 60%. Bệnh nhân có thể gặp *Hội chứng sau thuyên tắc* (đau bụng, sốt, nôn ói).
 
 ##### (2) Các phương pháp điều trị tại chỗ khác:
 * **HAIC (*Hepatic Arterial Infusion Chemotherapy*):** Đặt buồng tiêm bơm hóa chất (Cisplatin + 5-FU) liên tục liều thấp vào ĐM gan, chỉ định cho u tiến xa có xâm lấn tĩnh mạch cửa.
-* **SIRT (*Selective Internal Radiation Therapy* - Xạ trị trong chọn lọc):** Bơm các hạt vi cầu phóng xạ **Yttrium-90 (⁹⁰Y)** vào ĐM gan nuôi u. Khối u bị tiêu diệt bằng tắc mạch và bức xạ tia \\(\beta\\). Chỉ định khi u không mổ được, Child-Pugh A/B, ECOG 1, luồng thông gan - phổi (shunt gan - phổi) \\(< 20\%\\).
+* **SIRT (*Selective Internal Radiation Therapy* - Xạ trị trong chọn lọc):** Bơm các hạt vi cầu phóng xạ **Yttrium-90 (⁹⁰Y)** vào ĐM gan nuôi u. Khối u bị tiêu diệt bằng tắc mạch và bức xạ tia `β`. Chỉ định khi u không mổ được, Child-Pugh A/B, ECOG 1, luồng thông gan - phổi (shunt gan - phổi) `< 20%`.
 
-#### 4.2.2. Liệu pháp điều trị toàn thân
+#### Liệu pháp điều trị toàn thân
 
 ##### (1) Liệu pháp nhắm trúng đích (*Targeted therapy*):
 * Chỉ định cho **BCLC giai đoạn C** (đã xâm lấn mạch máu hoặc di căn xa), Child-Pugh A hoặc B7.
@@ -285,21 +285,21 @@ Là phương pháp điều trị triệt để nhất vì vừa lấy bỏ hoàn
 
 ---
 
-### 4.3. Lựa chọn phương pháp điều trị BCLC
+### Lựa chọn phương pháp điều trị BCLC
 
 Dựa trên sơ đồ hướng dẫn điều trị của **AASLD 2018 / BCLC 2018** và Bộ Y tế Việt Nam (2020):
 
 * **Giai đoạn rất sớm (0) & Sớm (A):**
   * *Có bệnh kèm / Xơ gan nặng (Child-Pugh B/C):* Ghép gan (nếu thỏa Milan).
   * *Child-Pugh A, u đơn độc, không tăng áp TM cửa:* Phẫu thuật **Cắt gan**.
-  * *Child-Pugh A-B, \\(\le 3\text{ u}\\) (mỗi u \\(\le 3\text{ cm}\\)):* **Hủy u tại chỗ (RFA / MWA)**.
+  * *Child-Pugh A-B, `≤ 3 u` (mỗi u `≤ 3 cm`):* **Hủy u tại chỗ (RFA / MWA)**.
 * **Giai đoạn Trung gian (B):** **Bơm hóa chất thuyên tắc mạch (TACE)**.
-* **Giai đoạn Tiến triển (C):** **Liệu pháp toàn thân** (Sorafenib \\(\rightarrow\\) Regorafenib / Pembrolizumab), HAIC hoặc SIRT.
+* **Giai đoạn Tiến triển (C):** **Liệu pháp toàn thân** (Sorafenib `→` Regorafenib / Pembrolizumab), HAIC hoặc SIRT.
 * **Giai đoạn Cuối (D):** Điều trị nội khoa nâng đỡ, giảm đau, chăm sóc giảm nhẹ.
 
 ---
 
-## 5. LÀM THẾ NÀO ĐỂ NGĂN NGỪA, THAY ĐỔI TIÊN LƯỢNG BỆNH UNG THƯ TẾ BÀO GAN
+## LÀM THẾ NÀO ĐỂ NGĂN NGỪA, THAY ĐỔI TIÊN LƯỢNG BỆNH UNG THƯ TẾ BÀO GAN
 
 Để cải thiện tỷ lệ sống còn và ngăn ngừa bệnh trong cộng đồng, cần tuân thủ **7 khuyến cáo chiến lược**:
 1. Tuân thủ tiêm chủng vắc-xin viêm gan B đầy đủ ngay từ sơ sinh và người lớn chưa có miễn dịch.
@@ -327,7 +327,7 @@ Dựa trên sơ đồ hướng dẫn điều trị của **AASLD 2018 / BCLC 201
 
 ---
 
-## 6. KẾT LUẬN
+## KẾT LUẬN
 
 Ung thư tế bào gan là loại ung thư phổ biến nhất tại Việt Nam và có tiên lượng rất xấu nếu phát hiện muộn. Tuy nhiên, bệnh có yếu tố nguy cơ rất rõ ràng (chủ yếu là viêm gan B, C và xơ gan), cho phép chúng ta chủ động tầm soát để chẩn đoán bệnh ở giai đoạn rất sớm.
 
@@ -338,10 +338,10 @@ Hình ảnh học động học hiện đại (CT/MRI 4 thì) cho phép xác đ�
 ### HƯỚNG DẪN ĐIỀU TRỊ CỦA HỘI NGHIÊN CỨU BỆNH GAN HOA KỲ 2018
 *(Dựa theo bảng phân loại giai đoạn của BCLC 2018)*
 
-* **BCLC 0 / A:** Đánh giá khả năng cắt gan (Child A, u đơn độc) \\(\rightarrow\\) Cắt gan; nếu có xơ gan/nhiều u \\(\le 3\text{ cm}\\) \\(\rightarrow\\) Ghép gan (nếu thỏa Milan) hoặc Hủy u tại chỗ (RFA).
-* **BCLC B:** Khối u đa ổ trong gan, chưa xâm lấn mạch máu \\(\rightarrow\\) Chỉ định TACE.
-* **BCLC C:** Xâm lấn tĩnh mạch cửa hoặc di căn xa (N1, M1) \\(\rightarrow\\) Chỉ định Sorafenib (bước 1), chuyển Regorafenib / Pembrolizumab (bước 2 khi tiến triển).
-* **BCLC D:** Child-Pugh C hoặc ECOG 3–4 \\(\rightarrow\\) Điều trị chăm sóc giảm nhẹ.
+* **BCLC 0 / A:** Đánh giá khả năng cắt gan (Child A, u đơn độc) `→` Cắt gan; nếu có xơ gan/nhiều u `≤ 3 cm` `→` Ghép gan (nếu thỏa Milan) hoặc Hủy u tại chỗ (RFA).
+* **BCLC B:** Khối u đa ổ trong gan, chưa xâm lấn mạch máu `→` Chỉ định TACE.
+* **BCLC C:** Xâm lấn tĩnh mạch cửa hoặc di căn xa (N1, M1) `→` Chỉ định Sorafenib (bước 1), chuyển Regorafenib / Pembrolizumab (bước 2 khi tiến triển).
+* **BCLC D:** Child-Pugh C hoặc ECOG 3–4 `→` Điều trị chăm sóc giảm nhẹ.
 
 ---
 

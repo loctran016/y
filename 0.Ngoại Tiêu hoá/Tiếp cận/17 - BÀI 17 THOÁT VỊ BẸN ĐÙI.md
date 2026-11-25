@@ -19,7 +19,7 @@ nguon: NotebookLM
 
 ---
 
-## 1. MỞ ĐẦU
+## MỞ ĐẦU
 
 Khoang bụng có thể xem như một cái hộp kín bao gồm: phía trước là thành bụng trước, hai bên là vùng hông, phía sau là lưng, phía trên là cơ hoành và phía dưới là sàn chậu. Thoát vị thành bụng có thể xảy ra ở tất cả các thành của cái hộp này.
 
@@ -36,9 +36,9 @@ Các bệnh lý vùng bẹn bừu đòi hỏi sự thăm khám kỹ lưỡng b�
 
 ---
 
-## 2. GIẢI PHẪU VÙNG BẸN
+## GIẢI PHẪU VÙNG BẸN
 
-### 2.1. Giải phẫu vùng bẹn nhìn từ trước
+### Giải phẫu vùng bẹn nhìn từ trước
 
 #### Ống bẹn:
 Là một khe nằm nấp giữa các cơ thành bụng, dài khoảng **4 – 6 cm**, đi từ lỗ bẹn sâu đến lỗ bẹn nông theo hướng từ trên xuống dưới, từ ngoài vào trong, và từ sau ra trước, nằm phía trên dây chằng bẹn.
@@ -64,7 +64,7 @@ Là một khe nằm nấp giữa các cơ thành bụng, dài khoảng **4 – 6
 #### Ống đùi:
 Nằm dưới dây chằng bẹn. Ranh giới gồm: phía trước là dải chậu mu, phía sau là dây chằng lược (dây chằng Cooper), phía ngoài là tĩnh mạch đùi, đỉnh là củ mu. Ống đùi chứa mô liên kết và màng bạch huyết, là nơi xảy ra **thoát vị đùi**.
 
-### 2.2. Giải phẫu vùng bẹn qua ngả sau
+### Giải phẫu vùng bẹn qua ngả sau
 
 ```
                      [GIẢI PHẪU VÙNG BẸN NGẢ SAU]
@@ -78,7 +78,7 @@ Nằm dưới dây chằng bẹn. Ranh giới gồm: phía trước là dải ch
                                                  └─► Tam giác ĐAU (Pain)
 ```
 
-#### 2.2.1. Phúc mạc
+#### Phúc mạc
 Phúc mạc thành bụng trước có 3 nếp gấp (do các cấu trúc giải phẫu bên dưới đội lên):
 1. **Dây chằng rốn giữa (Nếp rốn giữa):** Di tích của ống niệu rốn, đi từ đỉnh bàng quang tới rốn.
 2. **Dây chằng rốn trong (Nếp rốn trong):** Động mạch rốn bị tắc lại sau khi sinh.
@@ -89,11 +89,11 @@ Các nếp gấp này tạo nên 3 hố bẹn:
 * *Hố bẹn trong (hố giữa):* Nằm giữa nếp rốn trong và nếp rốn ngoài. Đây là nơi xảy ra **thoát vị bẹn trực tiếp**.
 * *Hố bẹn ngoài:* Nằm phía ngoài nếp rốn ngoài. Đây là nơi xảy ra **thoát vị bẹn gián tiếp** (chui qua lỗ bẹn sâu).
 
-#### 2.2.2. Khoang tiền phúc mạc
+#### Khoang tiền phúc mạc
 * **Khoang Retzius (mô tả năm 1858):** Nằm giữa mạc ngang và xương mu ở phía dưới, bàng quang ở phía sau. Chứa dây chằng mu - bàng quang.
 * **Khoang Bogros (mô tả năm 1823):** Khoang hình tam giác nằm mở rộng ra phía ngoài của khoang Retzius, giới hạn bên ngoài bởi mạc chậu, bên dưới bởi mạc ngang và bên trong bởi phúc mạc thành.
 
-#### 2.2.3. Mạc ngang
+#### Mạc ngang
 Là một màng sợi bền đóng kín thành sau lỗ cơ lược và tam giác Hesselbach.
 
 * **Lỗ cơ lược (*Musculopectineal orifice of Fruchaud*, 1956):** Fruchaud mô tả toàn bộ vùng bẹn đùi chỉ có một khoảng trống duy nhất gọi là lỗ cơ lược. Giới hạn: phía trên là bờ dưới cơ chéo bụng trong và cơ ngang bụng; phía ngoài là cơ thắt lưng chậu và mạc chậu; phía trong là bờ ngoài cơ thẳng bụng; phía dưới là đường lược xương mu. Dây chằng bẹn chia lỗ cơ lược làm 2 vùng: **vùng bẹn ở trên** (cho thừng tinh) và **lỗ đùi ở dưới** (cho mạch máu đùi).
@@ -103,7 +103,7 @@ Là một màng sợi bền đóng kín thành sau lỗ cơ lược và tam giá
 
 ---
 
-## 3. ĐỊNH NGHĨA THOÁT VỊ BẸN ĐÙI
+## ĐỊNH NGHĨA THOÁT VỊ BẸN ĐÙI
 
 **Thoát vị bẹn đùi** là tình trạng các tạng trong ổ bụng chui ra ngoài qua điểm yếu tự nhiên ở lỗ cơ lược của Fruchaud. Phúc mạc bị đội ra ngoài kéo theo nội tạng tạo nên **túi thoát vị**, cổ túi thoát vị là lớp cơ hay lớp cân bên trong nhất của thành bụng.
 
@@ -113,7 +113,7 @@ Là một màng sợi bền đóng kín thành sau lỗ cơ lược và tam giá
 
 ---
 
-## 4. CÁC LOẠI THOÁT VỊ ĐẶC BIỆT
+## CÁC LOẠI THOÁT VỊ ĐẶC BIỆT
 
 * **Thoát vị trượt (*Sliding hernia*):** Là dạng thoát vị mà một phần thành túi thoát vị được tạo bởi chính tạng ngoài phúc mạc (bên phải thường là manh tràng; bên trái là đại tràng chậu hông, bàng quang). Phải cẩn trọng khi phẫu tích để tránh cắt nhầm vào tạng trượt.
 * **Thoát vị Richter:** Thường gặp trong thoát vị đùi. Chỉ có một phần bờ đối diện mạc treo của ruột non chui vào túi thoát vị (không bị lôi kéo toàn bộ chu vi ruột). Dạng này vẫn bị nghẹt gây hoại tử ruột nhưng **rất khó chẩn đoán trước mổ** vì không có triệu chứng tắc ruột hoàn toàn.
@@ -122,7 +122,7 @@ Là một màng sợi bền đóng kín thành sau lỗ cơ lược và tam giá
 
 ---
 
-## 5. YẾU TỐ THUẬN LỢI
+## YẾU TỐ THUẬN LỢI
 
 Các yếu tố làm tăng nguy cơ mắc thoát vị bẹn đùi:
 1. Tiền sử gia đình có người bị thoát vị bẹn.
@@ -134,33 +134,33 @@ Các yếu tố làm tăng nguy cơ mắc thoát vị bẹn đùi:
 
 ---
 
-## 6. TRIỆU CHỨNG THOÁT VỊ BẸN ĐÙI
+## TRIỆU CHỨNG THOÁT VỊ BẸN ĐÙI
 
-### 6.1. Triệu chứng cơ năng
+### Triệu chứng cơ năng
 * **Khối phồng vùng bẹn:** Bệnh nhân đến khám chủ yếu vì xuất hiện một khối phồng ở vùng bẹn. Ban đầu khối phồng chỉ xuất hiện khi làm việc nặng, chạy nhảy, rặn hoặc ho và tự mất khi nghỉ ngơi.
 * Sau nhiều tháng, khối phồng to dần, xuất hiện dễ dàng khi đứng và **tự biến mất khi nằm hoặc khi dùng tay đè ép**.
 * Cảm giác đau tức nhẹ vùng bẹn. Nếu khối thoát vị to, bệnh nhân có thể thấy khó chịu vùng thượng vị do mạc treo ruột bị kéo căng.
 
-### 6.2. Triệu chứng thực thể
+### Triệu chứng thực thể
 Khám bệnh nhân ở cả **hai tư thế (đứng và nằm)**, quan sát và sờ nắn vùng bẹn bìu, đồng thời bắt buộc phải khám cả hai tinh hoàn.
 
 * **Thoát vị bẹn gián tiếp:** 
   * Khi bệnh nhân phình bụng (nghiệm pháp Valsalva) hoặc ho, khối phồng xuất hiện chạy theo hướng **từ trên nếp bẹn xuống dưới, từ ngoài vào trong, đi về phía bìu**.
-  * **Nghiệm pháp chẹn lỗ bẹn sâu:** Dùng ngón tay ấn chẹn ngay vị trí lỗ bẹn sâu (cách điểm giữa nếp bẹn 1,5 cm về phía trên) và bảo bệnh nhân rặn/ho \\(\rightarrow\\) **Khối thoát vị KHÔNG xuất hiện**.
-  * **Nghiệm pháp ngón tay:** Luồn ngón tay qua da bìu vào lỗ bẹn nông, bảo bệnh nhân ho \\(\rightarrow\\) Khối thoát vị chạm vào **đầu ngón tay**.
+  * **Nghiệm pháp chẹn lỗ bẹn sâu:** Dùng ngón tay ấn chẹn ngay vị trí lỗ bẹn sâu (cách điểm giữa nếp bẹn 1,5 cm về phía trên) và bảo bệnh nhân rặn/ho `→` **Khối thoát vị KHÔNG xuất hiện**.
+  * **Nghiệm pháp ngón tay:** Luồn ngón tay qua da bìu vào lỗ bẹn nông, bảo bệnh nhân ho `→` Khối thoát vị chạm vào **đầu ngón tay**.
 * **Thoát vị bẹn trực tiếp:**
   * Khối phồng hình tròn, nhô ngay ra phía trước ở vùng tam giác Hesselbach.
-  * Khi làm **nghiệm pháp chẹn lỗ bẹn sâu** \\(\rightarrow\\) **Khối phồng VẪN xuất hiện**.
-  * Khi làm **nghiệm pháp ngón tay** \\(\rightarrow\\) Khối thoát vị chạm vào **lòng ngón tay**.
+  * Khi làm **nghiệm pháp chẹn lỗ bẹn sâu** `→` **Khối phồng VẪN xuất hiện**.
+  * Khi làm **nghiệm pháp ngón tay** `→` Khối thoát vị chạm vào **lòng ngón tay**.
 * **Thoát vị đùi:** Khối phồng xuất hiện ở **dưới nếp bẹn**, nằm ở phía ngoài củ mu và phía trong tĩnh mạch đùi. Khối phồng thường nhỏ, tròn, rất dễ bị nghẹt.
 * **Cận lâm sàng:** **Siêu âm vùng bẹn bìu** (kết hợp làm nghiệm pháp Valsalva hoặc khám ở tư thế đứng) là phương tiện hình ảnh đầu tay giúp xác định chẩn đoán túi thoát vị, thành phần chứa bên trong và phân biệt các bệnh lý khác.
 
-### 6.3. Triệu chứng toàn thân
+### Triệu chứng toàn thân
 Toàn thân thường bình thường. Nếu có triệu chứng toàn thân (sốt, mất nước, nhiễm độc) là do biến chứng thoát vị nghẹt hoại tử ruột gây ra.
 
 ---
 
-## 7. BIẾN CHỨNG THOÁT VỊ BẸN
+## BIẾN CHỨNG THOÁT VỊ BẸN
 
 1. **Thoát vị nghẹt (*Strangulated hernia*):** Là biến chứng thường gặp và nguy hiểm nhất (**chiếm 1 – 3%**). Tạng thoát vị bị thắt chặt tại cổ túi, gây cản trở lưu thông máu dẫn tới thiếu máu cục bộ, hoại tử ruột, thủng ruột và viêm phúc mạc. Lâm sàng: Đau rầm rộ dữ dội tại khối thoát vị, khối phồng căng cứng, đau nhiều, **không thể đẩy xẹp lại được**, kèm theo hội chứng tắc ruột (nôn, đau quặn bụng, bí trung đại tiện, chướng bụng).
 2. **Kẹt tạng thoát vị:** Tạng thoát vị bị dính vào túi thoát vị không thể đẩy vào lại ổ bụng được, nhưng chưa có biểu hiện thiếu máu nghẹt hay tắc ruột.
@@ -168,12 +168,12 @@ Toàn thân thường bình thường. Nếu có triệu chứng toàn thân (s�
 
 ---
 
-## 8. CHẨN ĐOÁN VÀ CHẨN ĐOÁN PHÂN BIỆT
+## CHẨN ĐOÁN VÀ CHẨN ĐOÁN PHÂN BIỆT
 
-### 8.1. Chẩn đoán xác định
+### Chẩn đoán xác định
 Dựa vào triệu chứng lâm sàng đặc trưng (khối phồng vùng bẹn đùi xuất hiện khi đứng/rặn, mất khi nằm/đè ép; kết quả các nghiệm pháp chẹn lỗ bẹn sâu, ngón tay) kết hợp với **Siêu âm vùng bẹn bìu**.
 
-### 8.2. Chẩn đoán phân biệt
+### Chẩn đoán phân biệt
 Cần phân biệt với 2 nhóm bệnh lý chính tại vùng bẹn bìu:
 
 #### (1) Nhóm bệnh liên quan đến tinh hoàn:
@@ -189,7 +189,7 @@ Cần phân biệt với 2 nhóm bệnh lý chính tại vùng bẹn bìu:
 
 ---
 
-## 9. PHÂN LOẠI THOÁT VỊ BẸN ĐÙI
+## PHÂN LOẠI THOÁT VỊ BẸN ĐÙI
 
 Hiện nay, bảng **Phân loại thoát vị bẹn của Hội Thoát vị Châu Âu (EHS 2007)** được áp dụng phổ biến nhất nhờ tính đơn giản, dễ nhớ và ứng dụng tốt trên lâm sàng.
 
@@ -206,15 +206,15 @@ Hiện nay, bảng **Phân loại thoát vị bẹn của Hội Thoát vị Châ
 * *Quy ước tiền sử:* **Primary** = Mổ lần đầu; **Recurrent** = Thoát vị tái phát.
 * *Quy ước kích thước lỗ thoát vị (dựa theo bề rộng ngón tay tay phẫu thuật viên):*
   * **0:** Không có thoát vị.
-  * **1:** \\(\le 1\\) ngón tay (khoảng \\(\le 1,5\text{ cm}\\)).
+  * **1:** `≤ 1` ngón tay (khoảng `≤ 1,5 cm`).
   * **2:** 1 – 2 ngón tay (khoảng 1,5 – 3 cm).
-  * **3:** \\(\ge 2\\) ngón tay (khoảng \\(> 3\text{ cm}\\)).
+  * **3:** `≥ 2` ngón tay (khoảng `> 3 cm`).
   * **x:** Không đánh giá được.
 * *Ví dụ cách ghi:* `Primary L2` nghĩa là Thoát vị bẹn gián tiếp lần đầu, kích thước lỗ thoát vị từ 1 đến 2 ngón tay.
 
 ---
 
-## 10. NGUYÊN TẮC ĐIỀU TRỊ
+## NGUYÊN TẮC ĐIỀU TRỊ
 
 ```
                      [CHIẾN LƯỢC ĐIỀU TRỊ THOÁT VỊ BẸN ĐÙI]
@@ -238,17 +238,17 @@ Hiện nay, bảng **Phân loại thoát vị bẹn của Hội Thoát vị Châ
   * **Phẫu thuật bằng mô tự thân (Shouldice, Bassini, Mac Vay):** Chỉ còn hạn chế chỉ định trong trường hợp mổ thoát vị nghẹt có hoại tử ruột, có nhiễm khuẩn ổ mổ hoặc không có mảnh ghép.
   * **Thoát vị tái phát:** Khuyến cáo tiếp cận phẫu thuật theo **ngả ngược lại** với lần mổ trước (lần trước mổ ngả trước thì lần này mổ ngả sau nội soi và ngược lại) và bắt buộc dùng mảnh ghép.
 
-### 10.1. Điều trị các thoát vị đặc biệt
+### Điều trị các thoát vị đặc biệt
 * **Thoát vị bẹn ở trẻ em:** Do tồn tại ống phúc tinh mạc. Xử trí chỉ cần **khâu đóng cao ống phúc tinh mạc** ở lỗ bẹn sâu, để hở túi thoát vị phần xa (không cần đặt mảnh ghép).
 * **Thoát vị nghẹt:** Thám sát qua đường mổ ngả sau (nội soi TAPP) để đánh giá sức sống của ruột. Nếu ruột còn sống thì đẩy lại ổ bụng và đặt mảnh ghép; nếu ruột hoại tử bắt buộc cắt đoạn ruột khâu nối và **phục hồi thành bụng bằng mô tự thân** (không dùng mảnh ghép khi có nguy cơ nhiễm trùng).
 * **Thoát vị trượt:** Cắt phúc mạc đến gần tạng trượt, khâu kín lại phúc mạc, đẩy tạng vào ổ bụng và phục hồi thành bụng bằng mảnh ghép.
 * **Thoát vị hai bên:** Phẫu thuật nội soi (TEP/TAPP) đặt 2 mảnh ghép lớn hai bên cùng lúc trong một lần mổ.
 * **Thoát vị đùi:** Nên phẫu thuật sớm ngay khi chẩn đoán. Lựa chọn tốt nhất là phẫu thuật đặt mảnh ghép ngả sau qua nội soi.
 
-### 10.2. Kết quả
+### Kết quả
 Bệnh nhân thường nằm viện 1 đêm sau mổ, ra viện hôm sau. Tái khám sau 1 tuần. Tỷ lệ biến chứng chung thấp (~6%, đa số nhẹ). Bệnh nhân có thể trở lại hoạt động bình thường sau 1 – 2 tuần.
 
-### 10.3. Các biến chứng sau mổ thoát vị bẹn
+### Các biến chứng sau mổ thoát vị bẹn
 1. **Tinh hoàn:** 
    * *Viêm tinh hoàn do thiếu máu:* Xảy ra sau mổ 24 – 72 giờ, tinh hoàn sưng to gấp 2 – 3 lần, đau cứng. Do tắc nghẽn tĩnh mạch thừng tinh khi phẫu tích túi thoát vị. Có thể tiến triển thành **teo tinh hoàn** sau vài tháng đến 1 năm.
 2. **Tổn thương ống dẫn tinh:** Cắt ngang hoặc thắt kẹp gây xơ hóa/gập góc ống dẫn tinh, dẫn tới rối loạn phóng tinh hoặc vô sinh.
@@ -259,7 +259,7 @@ Bệnh nhân thường nằm viện 1 đêm sau mổ, ra viện hôm sau. Tái k
 7. **Ruột:** Rách ruột, rò ruột, thoát vị lỗ trocar (0 – 0,2%).
 8. **Nhiễm khuẩn & Mảnh ghép nhân tạo:**
    * Tỷ lệ nhiễm khuẩn mảnh ghép là 0 – 0,6%.
-   * **Mảnh ghép đơn sợi** (Polypropylene, Polyester) có lỗ lớn (\\(\ge 1\text{ mm}\\)) được ưu tiên dùng. Khi bị nhiễm khuẩn nông có thể bảo tồn bằng tưới rửa Povidine và kháng sinh; trong khi **mảnh ghép đa sợi** hoặc Gore-tex khi nhiễm khuẩn bắt buộc phải phẫu thuật tháo bỏ.
+   * **Mảnh ghép đơn sợi** (Polypropylene, Polyester) có lỗ lớn (`≥ 1 mm`) được ưu tiên dùng. Khi bị nhiễm khuẩn nông có thể bảo tồn bằng tưới rửa Povidine và kháng sinh; trong khi **mảnh ghép đa sợi** hoặc Gore-tex khi nhiễm khuẩn bắt buộc phải phẫu thuật tháo bỏ.
    * Kháng sinh dự phòng tiêm tĩnh mạch 30 – 60 phút trước mổ.
    * Các bằng chứng y học suốt hơn 60 năm qua khẳng định mảnh ghép nhân tạo **hoàn toàn KHÔNG gây ung thư**.
 9. **Thoát vị tái phát:** Tỷ lệ thấp (**0 – 3%** khi dùng mảnh ghép). Tái phát chủ yếu do lỗi kỹ thuật (phẫu tích thiếu, mảnh ghép quá nhỏ, đặt sai vị trí).
