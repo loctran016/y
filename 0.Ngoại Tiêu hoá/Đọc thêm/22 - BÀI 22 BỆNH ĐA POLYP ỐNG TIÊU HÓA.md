@@ -64,10 +64,12 @@ Hội chứng đa polyp dạng u tuyến gia đình (*Familial Adenomatous Polyp
 Khoảng **80%** trường hợp FAP có đột biến dòng mầm của gen ức chế sinh ung (*gen APC*) nằm trên nhánh dài của **nhiễm sắc thể số 5**. Đột biến này di truyền cho thế hệ sau. Khoảng 20% trường hợp còn lại là do các đột biến mới xuất hiện đơn lẻ (không có tiền sử gia đình).
 
 ### Đại thể và mô bệnh
+
 - **Đại thể:** Polyp có hình dạng tương tự polyp đơn độc, kích thước đa dạng, phân bố chủ yếu ở đại trực tràng. Các tổn thương kích thước lớn có thể tiến triển ác tính thành thể chồi sùi.
 - **Mô bệnh học:** Là u tuyến ống (*tubular adenoma*), u tuyến nhánh (*villous adenoma*) với độ loạn sản từ thấp đến cao, hoặc hình ảnh mô bệnh học của ung thư biểu mô tuyến (*adenocarcinoma*).
 
 ### Chẩn đoán
+
 - **Triệu chứng lâm sàng:** Do polyp tập trung chủ yếu ở đại trực tràng nên bệnh nhân thường có biểu hiện: đau bụng, tiêu phân máu. Nếu phát hiện trễ, bệnh nhân biểu hiện triệu chứng của ung thư đại tràng hoặc hội chứng tắc ruột.
 - **Cận lâm sàng:** **Nội soi đại tràng là "tiêu chuẩn vàng"** giúp đánh giá hình dạng đại thể, kích thước, số lượng polyp và các tổn thương hóa ác.
 - **Tiêu chuẩn chẩn đoán lâm sàng FAP:**
@@ -98,6 +100,7 @@ Tầm soát thực hiện qua nội soi ống mềm độ phân giải cao (nộ
 #### U tuyến và ung thư đại trực tràng
 
 Xét nghiệm di truyền phát hiện đột biến gen APC thực hiện ở tuổi **10 – 12**:
+
 - Bệnh nhân có tiền sử FAP kinh điển: Phẫu thuật cắt đại tràng ở thời điểm thích hợp.
 - Bệnh nhân không tiền sử gia đình nhưng *mang đột biến gen APC*: Nội soi đại tràng chậu hông mỗi **12 tháng**, bắt đầu từ **10 – 15 tuổi**.
 - Bệnh nhân không tiền sử gia đình và *xét nghiệm di truyền âm tính*: Giám sát như người có nguy cơ trung bình.
@@ -138,6 +141,7 @@ Nội soi tiêu hóa trên tầm soát bắt đầu từ **25 tuổi**, lặp l�
 Ung thư ruột non trong FAP rất ít gặp, tầm soát bằng nội soi ruột non khi cần thiết.
 
 ### Điều trị
+
 - **Phẫu thuật là lựa chọn bắt buộc** để phòng ngừa ung thư. Thời điểm phẫu thuật thường thực hiện **sau 18 tuổi**.
 - **Các phương pháp phẫu thuật:**
   1. *Cắt toàn bộ đại tràng + Nối hồi tràng - trực tràng (IRA):* Chỉ định cho FAP thể nhẹ (AFAP).
@@ -157,6 +161,7 @@ Hội chứng Peutz-Jeghers (*PJS*) là hội chứng di truyền **trội trên
 - **Nguy cơ ung thư:** Nguy cơ tích lũy tiến triển thành ung thư đạt **57% ở tuổi 70**.
 
 ### Đại thể và mô bệnh học
+
 - **Đại thể:** Polyp tồn dư (*hamartomatous polyps*) có cuống dài, nhiều thùy, có thể có hình ảnh "giả xâm lấn".
 - **Mô bệnh học:** Tăng sinh các tế bào tuyến trưởng thành, đặc trưng bởi **mô cơ trơn đan xen trong các nhánh phân nhánh của polyp**.
 
@@ -184,6 +189,7 @@ Hội chứng Peutz-Jeghers (*PJS*) là hội chứng di truyền **trội trên
 Nội soi dạ dày - tá tràng, nội soi đại tràng, nội soi ruột non bằng bóng kép, nội soi viên nang. Chụp CT Scan hoặc X-quang bụng phát hiện hình ảnh lồng ruột / tắc ruột.
 
 ### Chẩn đoán
+
 - **Tiêu chuẩn chẩn đoán (thỏa mãn 2 trong 3 yếu tố):**
   1. Tiền sử gia đình mắc hội chứng Peutz-Jeghers.
   2. Sự hiện diện của polyp ruột non.
@@ -196,10 +202,12 @@ Nội soi dạ dày - tá tràng, nội soi đại tràng, nội soi ruột non 
 - **Ung thư ngoài ống tiêu hóa:** Nguy cơ cao mắc ung thư **tuyến tụy**, **tuyến vú**, tuyến giáp, tử cung, buồng trứng, tinh hoàn.
 
 ### Điều trị
+
 - **Cắt polyp chủ động:** Polyp ruột non kích thước **`≥ 2 cm`** (hoặc nhỏ hơn nếu gây triệu chứng) nên được cắt bỏ qua nội soi hoặc phẫu thuật nội soi kết hợp nội soi ruột non.
 - **Phẫu thuật cấp cứu:** Khi có lồng ruột hoặc tắc ruột. Trong mổ phải thực hiện **nội soi kiểm tra toàn bộ ruột non** để lấy hết các polyp đi kèm, tránh cho bệnh nhân phải mổ lại nhiều lần.
 
 ### Theo dõi và tầm soát
+
 - Nội soi tầm soát polyp ruột non bắt đầu từ **8 tuổi** (mỗi 3 năm lặp lại).
 
 **Bảng 3. Lịch tầm soát ung thư ở bệnh nhân mắc hội chứng Peutz-Jeghers**
@@ -228,10 +236,12 @@ Hội chứng đa polyp thiếu niên (*Juvenile Polyposis Syndrome - JPS*) là 
 - **Nguy cơ ung thư:** Nguy cơ tích lũy ung thư đại tràng trong suốt cuộc đời là **30%** (tăng dần từ 20 – 70 tuổi).
 
 ### Đại thể và mô bệnh
+
 - **Đại thể:** Polyp hình cầu, có cuống, bề mặt bóng láng trơn nhẵn, kích thước vài cm.
 - **Mô bệnh học:** Tăng sinh cấu trúc tuyến phình to tạo các nang chứa chất nhầy, mô đệm niêm mạc phù nề và thâm nhập nhiều tế bào viêm.
 
 ### Biểu hiện lâm sàng
+
 - Tuổi trung bình xuất hiện triệu chứng là **27 tuổi**. Bệnh nhân biểu hiện: tiêu máu, sa polyp, thiếu máu, đau bụng, tiêu lỏng.
 - Trẻ nhi 1 tuổi có thể gặp thể nặng: suy kiệt, thiếu máu nặng, đa polyp toàn bộ ống tiêu hóa và giảm Albumin máu.
 
@@ -242,13 +252,16 @@ Chẩn đoán JPS dựa vào 1 trong các tiêu chuẩn:
 1. Có **`> 5 polyp thiếu niên`** ở đại trực tràng; HOẶC
 2. Sự xuất hiện của polyp thiếu niên rải rác khắp ống tiêu hóa; HOẶC
 3. Bất kỳ polyp thiếu niên nào kèm theo tiền sử gia đình.
+
 - *Dị dạng phối hợp:* Bệnh lý tim mạch (sa van 2 lá, dị dạng động - tĩnh mạch, túi phình mạch), dị dạng thần kinh (chứng đầu to, não úng thủy, hở hàm ếch).
 
 ### Điều trị
+
 - Nội soi đại tràng cắt polyp định kỳ **mỗi 1 – 3 năm**.
 - Phẫu thuật cắt đại tràng khi: số lượng polyp quá nhiều, polyp loạn sản cao, chảy máu không kiểm soát, hoặc khi bệnh nhân đạt **20 tuổi**.
 
 ### Tầm soát
+
 - Tầm soát gen cho gia đình từ **12 – 14 tuổi**.
 - Nội soi đại tràng bắt đầu từ **13 tuổi** (mỗi 1 – 3 năm).
 - Nội soi dạ dày - tá tràng từ **18 tuổi**.
@@ -295,30 +308,35 @@ Chẩn đoán JPS dựa vào 1 trong các tiêu chuẩn:
 *(Bộ câu hỏi tự kiểm tra được xây dựng bám sát theo chuẩn mục tiêu của Bài 22)*
 
 **Câu 1:** Đột biến gen nào sau đây là nguyên nhân gây ra Hội chứng đa polyp dạng u tuyến gia đình (FAP)?
+
 - A. Gen STK11 trên nhiễm sắc thể 19
 - B. Gen APC trên nhiễm sắc thể 5
 - C. Gen SMAD4 trên nhiễm sắc thể 18
 - D. Gen MBD4 trên nhiễm sắc thể 3
 
 **Câu 2:** Ở bệnh nhân mắc hội chứng FAP đã được phẫu thuật cắt toàn bộ đại tràng phòng ngừa, nguyên nhân hàng đầu gây tử vong sau mổ là?
+
 - A. Ung thư dạ dày và ung thư thực quản
 - B. Ung thư tá tràng và khối u sợi (Desmoid tumor)
 - C. Ung thư tuyến giáp và ung thư gan
 - D. Tắc ruột do dính và suy dinh dưỡng
 
 **Câu 3:** Dấu hiệu lâm sàng đặc trưng xuất hiện ở 95% bệnh nhân mắc Hội chứng Peutz-Jeghers là?
+
 - A. U xương ở vùng xương hàm mặt
 - B. Các chấm sắc tố dạng nốt ở niêm mạc môi và má
 - C. Dị dạng mạch máu ở võng mạc
 - D. Sa van 2 lá và não úng thủy
 
 **Câu 4:** Biến chứng ngoại khoa cấp tính thường gặp nhất ở trẻ em mắc Hội chứng Peutz-Jeghers trước 18 tuổi (chiếm 70% trường hợp) là?
+
 - A. Thủng dạ dày
 - B. Lồng ruột do polyp
 - C. Vỡ u sợi mạc treo
 - D. Viêm tụy cấp do sỏi
 
 **Câu 5:** Tiêu chuẩn nào sau đây được dùng để chẩn đoán xác định Hội chứng đa polyp thiếu niên (JPS)?
+
 - A. Có từ 10 đến 100 u tuyến đại trực tràng
 - B. Có trên 5 polyp thiếu niên ở đại trực tràng
 - C. Có nhiều hơn 20 polyp tăng sản ở đại tràng chậu hông

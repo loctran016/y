@@ -66,6 +66,7 @@ Các nhóm nguyên nhân gây viêm tụy mạn bao gồm:
 ### Viêm tụy mạn có thể do nhiều nguyên nhân dẫn đến, tuy nhiên tất cả các cơ chế bệnh sinh đều dẫn đến sự tắc nghẽn ống tụy
 
 Giả thuyết **SAPE (*Sentinel Acute Pancreatitis Event*)** giải thích quá trình tiến triển xơ hóa nhu mô tụy:
+
 - Khi xảy ra đợt viêm cấp, nhu mô tụy kích thích các tế bào đảo tụy tiết Cytokine, kích hoạt **tế bào hình sao (*pancreatic stellate cells*)** tăng sản xuất mô sợi và tăng thâm nhập tế bào viêm (bạch cầu đa nhân, đơn nhân) `→` Làm hẹp dần lòng ống tụy.
 - Dù đợt viêm tụy cấp qua đi và bệnh nhân đã ngừng phơi nhiễm với độc chất (rượu, thuốc lá), các tế bào viêm và Cytokine vẫn tiếp tục duy trì hoạt động xơ hóa nhu mô. Điều này lý giải vì sao người bệnh đã bỏ rượu nhiều năm vẫn tiến triển thành viêm tụy mạn.
 - **Cơ chế tạo sỏi tụy do rượu/di truyền:** Ethanol và đột biến gen kích thích tế bào đảo tụy tiết protein làm tăng độ nhớt/đông đặc dịch tụy, đồng thời **tăng tiết Carbonate** từ các ống tuyến ngoại vi `→` Tắc nghẽn ống tụy, gây thiếu máu nuôi tế bào đảo tụy và đọng Calci tạo sỏi. *(Ngược lại, nguyên nhân tự miễn gây giảm tiết dịch tụy nhưng không tăng tiết Carbonate nên ít khi tạo sỏi).*
@@ -107,6 +108,7 @@ Viêm tụy mạn là yếu tố nguy cơ cao dẫn đến ung thư tụy: nguy 
 #### Suy tụy ngoại tiết
 
 Khi chức năng ngoại tiết suy giảm **`> 90%`** (chức năng còn lại `< 10%`), bệnh nhân có các biểu hiện:
+
 - **Tiêu phân mỡ:** Phân lỏng, nhiều, màu xám trơn nhớt, có váng mỡ nổi trên mặt nước, mùi chua/mùi thức ăn sống.
 - Rối loạn tiêu hóa: Đầy hơi, chán ăn, nôn ói, táo bón.
 - Sụt cân kéo dài và suy dinh dưỡng nặng.
@@ -115,6 +117,7 @@ Khi chức năng ngoại tiết suy giảm **`> 90%`** (chức năng còn lại 
 #### Suy tụy nội tiết
 
 Xảy ra ở giai đoạn muộn. Rối loạn đường huyết gặp ở **70%** trường hợp, trong đó đái tháo đường chiếm **20%**.
+
 - Lâm sàng có thể gặp hội chứng tăng đường huyết (ăn nhiều, uống nhiều, tiểu nhiều, sụt cân) hoặc cơn hạ đường huyết (vã mồ hôi, tim đập nhanh, chóng mặt, da tái nhạt).
 - Thời gian xuất hiện đái tháo đường: Sau 19,8 năm đối với nguyên nhân do rượu và 11,9 – 27,5 năm đối với thể vô căn.
 
@@ -131,6 +134,7 @@ Chiếm khoảng **25%** trường hợp. Vách nang cấu tạo bởi mô hạt
 #### Khối viêm đầu tụy
 
 Chiếm **30 – 45%** trường hợp viêm tụy mạn (80% do rượu). Vùng đầu tụy bị viêm phì đại kích thước **`≥ 4 cm`**, gây chèn ép các tạng lân cận:
+
 - Tắc ống mật chủ gây vàng da tắc mật (**50%**).
 - Chèn ép tá tràng gây hội chứng hẹp môn vị (**5 – 10%**).
 - Chèn ép tĩnh mạch cửa / tĩnh mạch mạc treo tràng trên (**8 – 15%**) và tĩnh mạch lách (**3 – 5%**).
@@ -148,6 +152,7 @@ Biến chứng hiếm gặp (**4 – 10%**) nhưng **nguy hiểm tính mạng** 
 ## CẬN LÂM SÀNG
 
 ### Xét nghiệm máu
+
 - **Công thức máu & Viêm:** Bạch cầu và CRP/Procalcitonin tăng trong đợt viêm cấp hoặc nhiễm khuẩn.
 - **Men tụy (Amylase, Lipase):** Trong viêm tụy mạn giai đoạn ổn định, men tụy thường **bình thường hoặc chỉ tăng nhẹ**. Men tụy chỉ tăng cao gấp `> 3 lần` khi có đợt cấp bùng phát trên nền mạn.
 - **Đường huyết & Dinh dưỡng:** Đánh giá Albumin, Pre-albumin, Triglycerid, Glucose máu.
@@ -155,6 +160,7 @@ Biến chứng hiếm gặp (**4 – 10%**) nhưng **nguy hiểm tính mạng** 
 - **Miễn dịch:** Xét nghiệm IgG4, ANA, ASA để chẩn đoán viêm tụy mạn tự miễn.
 
 ### Xét nghiệm phân
+
 - **Định lượng mỡ phân 72 giờ:** Ngưỡng **`> 7 g/ngày`** là **TIÊU CHUẨN VÀNG** để chẩn đoán hội chứng suy tụy ngoại tiết / rối loạn hấp thu mỡ (hầu hết bệnh nhân suy tụy ngoại tiết có lượng mỡ phân `> 10 g/ngày`).
 
 ### Chẩn đoán hình ảnh
@@ -197,15 +203,18 @@ Chẩn đoán xác định viêm tụy mạn dựa trên sự phối hợp giữ
 ```
 
 ### Nội khoa
+
 - **Giảm đau:** Giải quyết nguyên nhân (bỏ hẳn rượu bia, thuốc lá); dùng thuốc giảm đau toàn thân kết hợp thuốc giảm tiết dịch tụy (**Somatostatin**). Nhịn ăn trong đợt đau cấp.
 - **Dinh dưỡng:** Chia nhỏ bữa ăn, giảm thành phần chất béo, uống đủ nước. **Bổ sung Enzym tụy** đường uống trong các bữa ăn để giảm tiêu phân mỡ và cải thiện hấp thu.
 - **Nội tiết:** Kiểm soát chặt chẽ đường huyết bằng Insulin (chú ý nguy cơ hạ đường huyết).
 
 ### Điều trị can thiệp không phẫu thuật (Nội soi ERCP)
+
 - **Nội soi mật tụy ngược dòng (ERCP):** Dùng để can thiệp giải áp ống tụy như gắp/lấy sỏi tụy hoặc đặt Stent qua vị trí hẹp ống tụy chính.
 - **Chỉ định:** Tắc nghẽn/sỏi ở ống tụy chính **đoạn gần** (gần tá tràng), phía sau có ống tụy dãn và không có vị trí hẹp/tắc khác ở đoạn xa.
 
 ### Phẫu thuật
+
 - **Chỉ định phẫu thuật:**
   1. Đau bụng dữ dội không đáp ứng điều trị nội khoa và ERCP.
   2. Có khối viêm đầu tụy (`≥ 4 cm`).
@@ -230,6 +239,7 @@ Chẩn đoán xác định viêm tụy mạn dựa trên sự phối hợp giữ
 *Phẫu thuật tạm thời:* Nội soi lồng ngực cắt đốt hạch giao cảm áp dụng cho trường hợp đau mạn tính không thể mổ dẫn lưu hay cắt tụy.
 
 ### Kết quả điều trị và tiên lượng
+
 - Điều trị nội khoa chủ yếu làm chậm tiến triển bệnh và giảm triệu chứng.
 - Nội soi ERCP giải áp có tỷ lệ giảm đau thấp hơn phẫu thuật nhưng ít xâm lấn.
 - Trong ngoại khoa, phẫu thuật **Frey** và **Beger** hiện nay được áp dụng rộng rãi nhất nhờ hiệu quả **giảm đau kéo dài** và **bảo tồn tốt chức năng nội - ngoại tiết** của tụy. Phẫu thuật Whipple có tỷ lệ biến chứng cao hơn nên chỉ dùng khi nghi ngờ ung thư.
@@ -251,30 +261,35 @@ Chẩn đoán xác định viêm tụy mạn dựa trên sự phối hợp giữ
 *(Bộ câu hỏi tự kiểm tra được biên soạn chuẩn hóa theo đúng nội dung Bài 21)*
 
 **Câu 1:** Thành phần hóa học chủ yếu cấu tạo nên sỏi tụy trong viêm tụy mạn là?
+
 - A. Calci Oxalate
 - B. Calci Carbonate
 - C. Bilirubinat Calci
 - D. Cholesterol thuần túy
 
 **Câu 2:** Biểu hiện tiêu phân mỡ do suy tụy ngoại tiết chỉ xuất hiện khi khối lượng nhu mô tụy bị phá hủy mất bao nhiêu %?
+
 - A. > 50%
 - B. > 70%
 - C. > 80%
 - D. > 90%
 
 **Câu 3:** Điểm khác biệt quan trọng giữa Đái tháo đường do viêm tụy mạn (típ 3c) và Đái tháo đường típ 1 là gì?
+
 - A. Đái tháo đường típ 3c không cần sử dụng Insulin
 - B. Đái tháo đường típ 3c tổn thương cả tế bào Alpha (tiết Glucagon) nên bệnh nhân rất dễ bị hạ đường huyết
 - C. Đái tháo đường típ 3c hay gặp biến chứng nhiễm toan Ketone hơn
 - D. Đái tháo đường típ 3c gây suy thận nhanh hơn
 
 **Câu 4:** Xét nghiệm được coi là "Tiêu chuẩn vàng" để chẩn đoán hội chứng suy tụy ngoại tiết / rối loạn hấp thu mỡ là?
+
 - A. Định lượng Amylase và Lipase máu
 - B. Định lượng mỡ trong phân 72 giờ (> 7 g/ngày)
 - C. Định lượng Glucose máu lúc đói
 - D. Xét nghiệm nồng độ CA 19-9 trong máu
 
 **Câu 5:** Bệnh nhân nam 48 tuổi, tiền sử uống rượu nhiều 15 năm, chẩn đoán Viêm tụy mạn có khối viêm đầu tụy kích thước 4,5 cm kèm dãn ống tụy chính 9 mm, đau bụng dữ dội không đỡ với thuốc. Phẫu thuật điều trị tối ưu nhất cho bệnh nhân này là?
+
 - A. Phẫu thuật Whipple (Cắt khối tá tụy)
 - B. Phẫu thuật Partington - Rochelle (Nối ống tụy - hỗng tràng đơn thuần)
 - C. Phẫu thuật Frey (Khoét đầu tụy kết hợp dẫn lưu ống tụy)

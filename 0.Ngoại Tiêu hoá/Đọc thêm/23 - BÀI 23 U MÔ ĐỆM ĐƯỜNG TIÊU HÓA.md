@@ -60,6 +60,7 @@ nguon: NotebookLM
 ## CHẨN ĐOÁN, BỆNH HỌC VÀ SINH HỌC PHÂN TỬ
 
 Chẩn đoán GIST hoàn chỉnh là sự tổng hợp giữa lâm sàng, hình ảnh học, giải phẫu bệnh và phân tích sinh học phân tử:
+
 - **Hóa mô miễn dịch:** Tiêu chuẩn vàng để chẩn đoán GIST là bộc lộ dương tính với thụ thể **CD117 (c-kit)** hoặc **DOG1**. Khoảng **5%** trường hợp GIST có CD117 âm tính (thường gặp ở nhóm đột biến PDGFRA).
 - **Chỉ số phân bào (*Mitotic Index*):** Đóng vai trò tiên lượng mức độ ác tính. Được đánh giá bằng cách đếm số lượng phân bào trên **50 quang trường độ phóng đại cao (50 HPF - *High Power Field*)**, tương đương tổng diện tích `5 mm²` khối u.
 - **Phân tích đột biến gen:**
@@ -159,16 +160,19 @@ Biểu mô niêm mạc Cơ niêm            Dưới niêm mạc      Lớp cơ t
 - **Hình ảnh GIST trên EUS:** Khối u giảm phản âm (*hypoechoic*), bờ rõ, xuất phát từ **Lớp thứ 4 (Lớp cơ trơn)** của thành dạ dày.
 
 ### Sinh thiết bằng kim nhỏ qua siêu âm nội soi (EUS-FNAB)
+
 - Cần thiết để lấy mẫu mô nhuộm hóa mô miễn dịch (CD117, DOG1) và phân tích đột biến gen trước mổ.
 - **Độ chính xác theo kích thước u:** Khối u **`> 4 cm`** đạt độ chính xác **100%**; khối u 2 – 4 cm đạt 86%; khối u `< 2 cm` đạt 71%.
 
 ### Chụp cắt lớp vi tính và Cộng hưởng từ
 
 #### Chụp cắt lớp vi tính (CT Scan)
+
 - Đánh giá chính xác hướng phát triển của u: vào lòng dạ dày, ra ngoài phúc mạc hay dạng quả chùy (hỗn hợp).
 - *Đặc điểm GIST trên CT:* Khối u giàu mạch máu, ngấm thuốc cản quang không đồng nhất (do hoại tử, xuất huyết, thoái hóa dạng nang bên trong u), phát hiện di căn gan và phúc mạc.
 
 #### Chụp cộng hưởng từ (MRI)
+
 - Cho độ phân giải mô mềm xuất sắc. Sử dụng **Chỉ số hệ số khuếch tán ADC (*Apparent Diffusion Coefficient*)** trên chuỗi xung khuếch tán (DWI) để tiên lượng mức độ ác tính trước mổ:
 
 **Bảng 3. Liên quan giữa hệ số khuếch tán ADC và mức độ ác tính trên MRI**
@@ -201,9 +205,11 @@ Sử dụng chất cản quang **`¹⁸F-FDG`** đánh giá chuyển hóa Glucos
 #### Cắt phần dạ dày mang u qua nội soi tiêu hóa
 
 Các kỹ thuật cắt u qua nội soi ống mềm: EBL (thắt vòng cao su), ESD (cắt lớp dưới niêm mạc), ESE (đào sâu lấy u), STER (đường hầm dưới niêm mạc), EFTR (cắt trọn thành dạ dày).
+
 - *Chỉ định:* Áp dụng cho các u nhỏ `< 3,5 cm` nằm nông ở niêm mạc/dưới niêm mạc.
 
 #### Phẫu thuật nội soi
+
 - **Phẫu thuật nội soi cắt dạ dày hình chêm (*Laparoscopic Wedge Resection - LWR*):** Được Kitano mô tả năm 2005, là phẫu thuật tiêu chuẩn lựa chọn hàng đầu cho các u GIST dạ dày khu trú.
 - **Kỹ thuật "Nâng và cắt" (*Lift-and-cut method*):** Được Okumura mô tả năm 2016, chỉ cắt mở lớp thanh mạc - cơ, nâng khối u lên để cắt kín. Ưu điểm: Không làm rò rỉ dịch dạ dày vào ổ bụng, tránh nhiễm trùng và bảo tồn tối đa nhu mô dạ dày còn lại.
 - **Phẫu thuật phối hợp phẫu thuật nội soi và nội soi tiêu hóa (LECS):** Cắt niêm mạc xung quanh u qua nội soi ống mềm, phẫu thuật nội soi rạch thanh cơ và khâu đóng lỗ thủng thành dạ dày.
@@ -241,6 +247,7 @@ Các kỹ thuật cắt u qua nội soi ống mềm: EBL (thắt vòng cao su), 
 ## TIÊN LƯỢNG
 
 Theo Bảng phân loại của Hiệp hội Quốc tế Phòng Chống Ung thư (UICC):
+
 - **Các yếu tố tiên lượng chính yếu:** Vị trí giải phẫu khối u (dạ dày có tiên lượng tốt nhất, ruột non trung bình, trực tràng xấu nhất), Kích thước khối u, Chỉ số phân bào, Độ sâu xâm lấn, Di căn xa (M).
 - **Các yếu tố quan trọng kèm theo:** **Sự vỡ khối u** (là yếu tố tiên lượng cực kỳ xấu, làm tăng vọt nguy cơ tái phát phúc mạc), bờ cắt phẫu thuật, kiểu đột biến gen KIT/PDGFRA.
 
@@ -277,30 +284,35 @@ Trong thập kỷ qua, việc ứng dụng các liệu pháp nhắm trúng đíc
 *(Bộ câu hỏi lượng giá được xây dựng chuẩn hóa theo nội dung Bài 23)*
 
 **Câu 1:** Tiêu chuẩn vàng về hóa mô miễn dịch để chẩn đoán xác định U mô đệm đường tiêu hóa (GIST) là sự bộc lộ dương tính với chất chỉ điểm nào sau đây?
+
 - A. CEA và CA 19-9
 - B. CD117 (c-kit) hoặc DOG1
 - C. Chromogranin A và Synaptophysin
 - D. Cytokeratin 20 và Desmin
 
 **Câu 2:** Khi đánh giá một khối u dưới niêm mạc dạ dày trên Siêu âm qua ngả nội soi (EUS), khối u mô đệm (GIST) điển hình có nguồn gốc phát sinh từ lớp nào của thành dạ dày?
+
 - A. Lớp thứ 1 (Lớp biểu mô niêm mạc)
 - B. Lớp thứ 2 (Lớp cơ niêm)
 - C. Lớp thứ 3 (Lớp dưới niêm mạc)
 - D. Lớp thứ 4 (Lớp cơ trơn)
 
 **Câu 3:** Ba yếu tố quan trọng nhất được sử dụng trong Bảng phân loại AFIP để tiên lượng nguy cơ tái phát của khối u GIST khu trú là?
+
 - A. Nồng độ CA 19-9, chỉ số CEA và tuổi bệnh nhân
 - B. Kích thước khối u, chỉ số phân bào (/50 HPF) và vị trí giải phẫu của khối u
 - C. Mức độ di căn hạch, độ sâu xâm lấn và giới tính
 - D. Tỷ lệ hoại tử u, nồng độ hemoglobin và chỉ số BMI
 
 **Câu 4:** Phát biểu nào sau đây là ĐÚNG về nguyên tắc phẫu thuật điều trị khối u GIST khu trú ở dạ dày?
+
 - A. Bắt buộc phải phẫu thuật cắt toàn bộ dạ dày và nạo vét hạch D2 rộng rãi
 - B. Chỉ cần cắt một phần dạ dày mang u (cắt hình chêm - Wedge) đạt bờ cắt R0, không cần nạo vét hạch hệ thống
 - C. Cần chọc hút tháo dịch khối u trước khi cắt để dễ thao tác
 - D. Phải cắt rộng rãi nhu mô cách bờ khối u tối thiểu 5 cm
 
 **Câu 5:** Bệnh nhân nam 58 tuổi, được phẫu thuật cắt u GIST dạ dày kích thước 7 cm, chỉ số phân bào 8/50 HPF (nhóm nguy cơ tái phát cao). Kết quả phân tích gen có đột biến nhạy cảm. Thuốc điều trị bổ trợ tiêu chuẩn bước 1 và thời gian điều trị khuyến cáo cho bệnh nhân này là?
+
 - A. Sunitinib trong 12 tháng
 - B. Regorafenib trong 24 tháng
 - C. Imatinib 400 mg/ngày trong 36 tháng (3 năm)
