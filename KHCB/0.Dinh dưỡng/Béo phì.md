@@ -78,7 +78,43 @@ Béo phì là bệnh mạn tính gây ra do gia tăng năng lượng dự trữ 
 
 ## 3. BIẾN CHỨNG CỦA BÉO PHÌ
 
+Khi năng lượng nhập vượt quá mức tiêu thụ kéo dài, các tế bào mỡ (adipocyte) bị phì đại quá mức, vượt quá khả năng cung cấp máu của hệ mao mạch xung quanh, dẫn đến thiếu oxy cục bộ, stress lưới nội chất và hoại tử tế bào mỡ.
+
+Chính tổn thương vi thể này khởi phát một tình trạng viêm mạn tính mức độ nhẹ (meta-inflammation) đặc trưng bởi sự thâm nhiễm tế bào miễn dịch và rối loạn chế tiết các phân tử sinh học tác động theo cả cơ chế cận tiết (paracrine) lẫn nội tiết (endocrine) lên toàn cơ thể.
+
+1. Sự thâm nhiễm đại thực bào và mạng lưới Cytokine tiền viêm
+Khi tế bào mỡ bị phì đại và tổn thương, chúng giải phóng các acid béo tự do và tiết ra các chất hóa hướng động (chemokine), tiêu biểu là MCP-1 (Monocyte Chemoattractant Protein-1) và CSF (Colony Stimulating Factor):
+ * MCP-1 và CSF – Cơ chế thu hút và biệt hóa đại thực bào: MCP-1 đóng vai trò như tín hiệu gọi bạch cầu đơn nhân (monocyte) từ dòng máu xuyên qua thành mạch để xâm nhập vào mô mỡ. Tại đây, dưới tác động của CSF và môi trường giàu acid béo bão hòa, các bạch cầu đơn nhân biệt hóa thành đại thực bào hoạt hóa (chuyển dịch từ kiểu hình kháng viêm M2 sang kiểu hình tiền viêm M1). Các đại thực bào này tập trung bao quanh các tế bào mỡ đang chết (tạo thành cấu trúc dạng "vương miện" đặc trưng) và trở thành nguồn tiết chính các cytokine tiền viêm.
+ * IL-6 (Interleukin-6): Được tiết ra đồng thời bởi đại thực bào thâm nhiễm và chính tế bào mỡ (đặc biệt ở mỡ tạng). Theo tĩnh mạch cửa về gan, IL-6 kích thích tế bào gan tổng hợp các protein viêm giai đoạn cấp như CRP (C-Reactive Protein) và fibrinogen, duy trì phản ứng viêm hệ thống mức độ thấp. Ngoài ra, IL-6 còn cảm ứng protein ức chế tín hiệu cytokine (SOCS-3), góp phần làm giảm nhạy cảm insulin tại gan và thúc đẩy rối loạn lipid máu.
+ * PAI-1 (Plasminogen Activator Inhibitor-1 – Yếu tố ức chế hoạt hóa plasminogen): Trong sinh lý cầm máu bình thường, hệ thống tiêu sợi huyết cần plasmin để phân hủy các sợi huyết (fibrin), giữ cho lòng mạch thông thoáng. PAI-1 được tăng tiết từ mô mỡ và đại thực bào sẽ ức chế các chất hoạt hóa plasminogen (tPA và uPA), dẫn đến giảm sự ly giải fibrin. Hậu quả là tạo ra trạng thái tăng đông (prothrombotic), dễ hình thành huyết khối, thúc đẩy mảng xơ vữa động mạch và làm tăng nguy cơ nhồi máu cơ tim, đột quỵ hay thuyên tắc tĩnh mạch sâu.
+2. Cơ chế TNF-α gây rối loạn tín hiệu truyền tin của Insulin
+TNF-α (Yếu tố hoại tử u alpha) là mắt xích đầu tiên và quan trọng nhất giải thích mối liên hệ trực tiếp giữa mô mỡ viêm với tình trạng đề kháng insulin ở bệnh nhân đái tháo đường típ 2. Được tiết ra chủ yếu bởi các đại thực bào hoạt hóa thâm nhiễm trong mô mỡ, TNF-α tấn công trực tiếp vào quá trình truyền tín hiệu của insulin tại tế bào gan và tế bào mỡ:
+ * Tín hiệu insulin sinh lý bình thường: Khi insulin gắn vào thụ thể trên màng tế bào gan hoặc tế bào mỡ, thụ thể này sẽ tự phosphoryl hóa và kích hoạt quá trình phosphoryl hóa các gốc Tyrosine trên phân tử trung gian IRS-1 / IRS-2 (Insulin Receptor Substrate). Tín hiệu này mở khóa con đường nội bào PI3K/Akt, giúp di chuyển kênh vận chuyển glucose (GLUT4) ra màng tế bào mỡ/cơ để thu nạp đường từ máu vào, đồng thời ức chế quá trình tân tạo đường và ly giải glycogen tại gan.
+ * Sự gián đoạn do TNF-α: Nồng độ TNF-α tăng cao tại chỗ và trong tuần hoàn kích hoạt các men kinase gây viêm nội bào (đặc biệt là JNK và IKKβ/NF-κB). Các men này thực hiện quá trình phosphoryl hóa sai vị trí — gắn nhóm phosphate vào gốc Serine thay vì Tyrosine trên phân tử IRS-1. Sự phosphoryl hóa Serine làm biến đổi cấu hình IRS-1, khiến nó không thể tiếp nhận tín hiệu từ thụ thể insulin và nhanh chóng bị thoái hóa.
+ * Hệ quả chuyển hóa kép: Chuỗi truyền tin insulin bị đứt gãy ngay từ đầu khiến tế bào mỡ và tế bào gan trở nên "trơ" với insulin (đề kháng insulin). Tại mô mỡ, việc mất tác dụng ức chế của insulin làm bùng phát quá trình ly giải triglyceride, phóng thích ồ ạt acid béo không ester hóa (NEFA) vào tuần hoàn tĩnh mạch cửa đổ thẳng về gan. Lượng NEFA dư thừa này lại tiếp tục gây độc tính mỡ tại gan, ức chế sự thanh thải insulin và kích thích gan tăng tân tạo đường.
+3. Rối loạn tiết Adiponectin và Angiotensinogen từ mô mỡ
+Bên cạnh việc giải phóng các yếu tố gây viêm, sự phì đại và viêm mạn tính làm đảo lộn hoạt động nội tiết tự nhiên của tế bào mỡ thông qua hai hormone đối lập:
+ * Giảm tiết Adiponectin (Mất hàng rào tăng nhạy cảm insulin):
+   * Vai trò sinh lý: Adiponectin là một adipokine có lợi được tiết độc quyền bởi tế bào mỡ khỏe mạnh, có tác dụng làm tăng nhạy cảm với insulin, kháng viêm và bảo vệ nội mạc mạch máu. Tại gan và cơ vân, Adiponectin kích hoạt men AMPK và PPAR-α, giúp tăng cường quá trình oxy hóa (đốt cháy) acid béo, giảm tích tụ mỡ trong tế bào gan và ức chế gan sản xuất glucose.
+   * Rối loạn trong béo phì: Chính các cytokine tiền viêm (đặc biệt là TNF-α và IL-6) cùng tình trạng stress oxy hóa trong mô mỡ đã ức chế trực tiếp sự biểu hiện gen tổng hợp Adiponectin. Khi nồng độ Adiponectin huyết tương sụt giảm, cơ thể mất đi cơ chế điều hòa nhạy cảm insulin nội sinh, khiến tình trạng đề kháng insulin, gan nhiễm mỡ không do rượu (NAFLD) và xơ vữa động mạch tiến triển nặng hơn.
+ * Tăng tiết Angiotensinogen (Cơ chế gây tăng huyết áp):
+   * Vai trò sinh lý: Mô mỡ sở hữu một hệ thống Renin – Angiotensin – Aldosterone (RAAS) tại chỗ hoàn chỉnh. Angiotensinogen là tiền chất cơ bản khởi đầu cho toàn bộ chuỗi phản ứng điều hòa huyết áp của hệ RAAS.
+   * Rối loạn trong béo phì: Khi khối lượng mô mỡ tăng lên (đặc biệt là mỡ nội tạng), các tế bào mỡ tăng cường tổng hợp và phóng thích Angiotensinogen vào máu. Trong tuần hoàn, Angiotensinogen được men Renin (từ thận) chuyển thành Angiotensin I, sau đó được men chuyển (ACE) biến đổi thành Angiotensin II.
+   * Tác động gây tăng huyết áp: Angiotensin II gây co thắt mạnh các tiểu động mạch ngoại biên (làm tăng sức cản ngoại biên), kích thích vỏ thượng thận tăng tiết Aldosterone (tăng tái hấp thu muối natri và giữ nước tại thận, làm tăng thể tích tuần hoàn), đồng thời kích hoạt hệ thần kinh giao cảm. Sự phối hợp các yếu tố huyết động này dẫn đến tăng huyết áp mạn tính và phì đại thất trái ở người béo phì.
+Bảng tổng hợp các yếu tố trung gian từ mô mỡ viêm
+| Yếu tố | Nguồn tiết chính tại mô mỡ | Cơ chế tác động sinh lý – phân tử | Hậu quả lâm sàng |
+|---|---|---|---|
+| TNF-α | Đại thực bào hoạt hóa M1 | Gây phosphoryl hóa Serine trên IRS-1, cắt đứt chuỗi tín hiệu insulin; kích thích ly giải mỡ phóng thích NEFA | Đề kháng insulin tại gan và mô mỡ; tăng đường huyết; tăng acid béo tự do máu |
+| IL-6 | Đại thực bào M1, tế bào mỡ tạng | Kích thích gan tổng hợp CRP, fibrinogen; ức chế tín hiệu insulin tại gan qua SOCS-3 | Viêm hệ thống mạn tính; đề kháng insulin tại gan; rối loạn lipid máu |
+| MCP-1 | Tế bào mỡ phì đại/tổn thương | Hóa hướng động thu hút bạch cầu đơn nhân từ máu vào mô mỡ | Khuếch đại vòng xoắn thâm nhiễm đại thực bào và duy trì tình trạng viêm |
+| PAI-1 | Tế bào mỡ, đại thực bào | Ức chế tPA/uPA, làm giảm quá trình tiêu sợi huyết (ly giải fibrin) | Trạng thái tăng đông, dễ hình thành huyết khối, xơ vữa động mạch |
+| Adiponectin (Giảm) | Tế bào mỡ (bị ức chế bởi TNF-α, IL-6) | Mất hoạt hóa AMPK và PPAR-α; giảm oxy hóa acid béo tại gan và cơ | Giảm nhạy cảm insulin; thúc đẩy gan nhiễm mỡ (NAFLD) và xơ vữa mạch |
+| Angiotensinogen (Tăng) | Tế bào mỡ phì đại | Hoạt hóa hệ RAAS, tăng tạo Angiotensin II gây co mạch và giữ muối nước | Tăng huyết áp động mạch, tăng tải và phì đại thất trái |
+Tất cả các rối loạn trên đan xen tạo thành một vòng xoắn bệnh lý khép kín: đề kháng insulin buộc tế bào beta tụy phải tăng tiết insulin bù trừ liên tục cho đến khi suy kiệt chức năng và dẫn đến đái tháo đường típ 2. Song song đó, tình trạng ly giải mỡ ồ ạt đưa NEFA về gan làm tăng tổng hợp VLDL, hình thành các hạt LDL nhỏ đậm đặc và làm giảm HDL-cholesterol (rối loạn lipid máu sinh xơ vữa), kết hợp với tăng huyết áp và trạng thái tăng đông của PAI-1 tạo nên hội chứng chuyển hóa hoàn chỉnh và làm gia tăng đột biến nguy cơ bệnh tim mạch xơ vữa.
+
+
 ### 3.1. Cơ chế biến chứng của béo phì
+
 - Tích tụ mỡ gây ra 3 nhóm tác động: (1) Phản ứng tâm lý/hành vi; (2) Tác động cơ học do tăng khối lượng mỡ đè nén khớp và cơ quan; (3) Hậu quả chuyển hóa từ tăng acid béo tự do trong máu.
 - **Tình trạng viêm mạn tính mức độ nhẹ**:
   - Đại thực bào thâm nhiễm vào mô mỡ tiết ra các cytokine tiền viêm (TNF-α, IL-6, MCP-1, PAI-1).
