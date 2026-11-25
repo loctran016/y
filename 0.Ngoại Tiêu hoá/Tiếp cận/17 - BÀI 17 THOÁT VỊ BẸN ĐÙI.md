@@ -5,11 +5,7 @@ created: 2026-11-25
 nguon: NotebookLM
 ---
 
-# BÀI 17: THOÁT VỊ BẸN ĐÙI
-
-**Tác giả:** Phạm Hữu Thông, Trần Quang Đại
-
-**MỤC TIÊU BÀI HỌC:**
+## **MỤC TIÊU BÀI HỌC:**
 1. Định nghĩa được thoát vị bẹn đùi và nêu tần suất theo 5 yếu tố: Dân số, loại thoát vị vùng bẹn, giới, tuổi, biến chứng.
 2. Phát hiện được triệu chứng lâm sàng và cận lâm sàng của thoát vị bẹn đùi và biến chứng của nó.
 3. Thực hiện được tiếp cận chẩn đoán và điều trị thoát vị bẹn đùi chưa có biến chứng và có biến chứng.
