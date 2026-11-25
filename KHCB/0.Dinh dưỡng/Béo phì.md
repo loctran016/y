@@ -113,7 +113,7 @@ Bảng tổng hợp các yếu tố trung gian từ mô mỡ viêm
 Tất cả các rối loạn trên đan xen tạo thành một vòng xoắn bệnh lý khép kín: đề kháng insulin buộc tế bào beta tụy phải tăng tiết insulin bù trừ liên tục cho đến khi suy kiệt chức năng và dẫn đến đái tháo đường típ 2. Song song đó, tình trạng ly giải mỡ ồ ạt đưa NEFA về gan làm tăng tổng hợp VLDL, hình thành các hạt LDL nhỏ đậm đặc và làm giảm HDL-cholesterol (rối loạn lipid máu sinh xơ vữa), kết hợp với tăng huyết áp và trạng thái tăng đông của PAI-1 tạo nên hội chứng chuyển hóa hoàn chỉnh và làm gia tăng đột biến nguy cơ bệnh tim mạch xơ vữa.
 
 
-### 3.1. Cơ chế biến chứng của béo phì
+### Cơ chế biến chứng của béo phì
 
 - Tích tụ mỡ gây ra 3 nhóm tác động: (1) Phản ứng tâm lý/hành vi; (2) Tác động cơ học do tăng khối lượng mỡ đè nén khớp và cơ quan; (3) Hậu quả chuyển hóa từ tăng acid béo tự do trong máu.
 - **Tình trạng viêm mạn tính mức độ nhẹ**:
