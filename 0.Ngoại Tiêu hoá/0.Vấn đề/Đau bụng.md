@@ -4,9 +4,9 @@
 
 ---
 
-## 1. LÝ THUYẾT NỀN TẢNG
+## LÝ THUYẾT NỀN TẢNG
 
-### 1.1. Ba loại đau — nền tảng của mọi suy luận
+### Ba loại đau — nền tảng của mọi suy luận
 
 | Loại đau | Nguồn gốc | Đặc điểm | Ví dụ |
 |---|---|---|---|
@@ -16,7 +16,7 @@
 
 🔍 **Làm rõ thêm:** Đau qui chiếu xảy ra vì các sợi cảm giác tạng và sợi cảm giác da cùng hội tụ về một neuron tủy sống. Não "đọc nhầm" tín hiệu tạng thành tín hiệu da. Đây là lý do viêm túi mật gây đau vai P (C3–C5), NMCT gây đau vai T.
 
-### 1.2. Phôi thai — quy luật vị trí đau
+### Phôi thai — quy luật vị trí đau
 
 | Phần phôi thai | Cấu trúc | Vùng đau |
 |---|---|---|
@@ -26,7 +26,7 @@
 
 🔍 **Ứng dụng kinh điển:** Viêm ruột thừa sớm đau quanh rốn (midgut, đau tạng) → muộn đau HCP (somatic khi viêm lan đến phúc mạc thành). Đây là **dấu hiệu di chuyển** có giá trị chẩn đoán cao.
 
-### 1.3. Quy luật tạng rỗng — tạng đặc
+### Quy luật tạng rỗng — tạng đặc
 
 | Tạng | Đặc điểm đau | Cơ chế |
 |---|---|---|
@@ -35,4 +35,4 @@
 
 🔍 **Ngoại lệ cần nhớ:** Một số tạng rỗng có thể đau liên tục khi viêm lan tỏa (viêm túi mật cấp, viêm đường mật) hoặc khi mất trương lực giai đoạn muộn (tắc ruột giai đoạn trễ — ruột giãn, mất trương lực → đau liên tục).
 
-### 1.4. Phân loại nguyên nhân
+### Phân loại nguyên nhân
