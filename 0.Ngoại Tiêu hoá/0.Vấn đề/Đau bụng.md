@@ -1,131 +1,335 @@
-LÀM SAO NHỚ HỎI ĐỦ & VỪA HỎI VỪA NGHĨ CHẨN ĐOÁN
-
-Vấn đề của bạn không phải “thiếu kiến thức” — mà là thiếu khung để não chạy song song: miệng hỏi, tai nghe, não phân loại. Mình chia thành 3 phần: (1) khung nhớ, (2) cách não chạy song song, (3) luyện tập.
+BÀI GIẢNG: TIẾP CẬN ĐAU BỤNG TOÀN DIỆN — TỪ LÝ THUYẾT ĐẾN LÂM SÀNG VÀ LIÊN HỆ SỎI TÚI MẬT
 
 ---
 
-PHẦN 1 — KHUNG NHỚ: 1 CÂU THẦN CHÚ + 7 Ô
+PHẦN 1 — LÝ THUYẾT NỀN TẢNG
 
-Câu thần chú 7 ô — đọc nhẩm trước khi vào BN
+1.1. Giải phẫu – sinh lý của đau bụng
+
+Để suy luận đau bụng, bạn phải hiểu 3 loại đau và nguồn gốc phôi thai của các tạng.
+
+a) Ba loại đau
+
+Loại đau Nguồn gốc Đặc điểm Ví dụ
+Đau tạng (visceral pain) Tạng rỗng/tạng đặc bị căng, co thắt, thiếu máu Âm ỉ, mơ hồ, không khu trú, theo dermatome của tạng Đau quanh rốn khi viêm ruột thừa sớm; đau thượng vị khi viêm dạ dày
+Đau thành (somatic pain) Phúc mạc thành bị kích thích Khu trú chính xác, liên tục, tăng khi cử động/ho Đau hố chậu P khi viêm ruột thừa muộn; đau co cứng khi thủng tạng
+Đau qui chiếu (referred pain) Cùng một đoạn tủy chi phối tạng và da Đau ở vùng da xa tổn thương Đau vai P khi viêm túi mật; đau vai T khi nhồi máu cơ tim; đau lưng khi viêm tụy
+
+b) Phôi thai – quy luật “vị trí đau”
+
+· Ruột trước (foregut): dạ dày, tá tràng, gan, mật, tụy → đau thượng vị.
+· Ruột giữa (midgut): ruột non, manh tràng, ruột thừa, đại tràng lên → đau quanh rốn.
+· Ruột sau (hindgut): đại tràng ngang/xuống, trực tràng → đau hạ vị.
+
+Ứng dụng: Đau quanh rốn rồi di chuyển xuống hố chậu P = viêm ruột thừa (midgut → somatic). Đau thượng vị lan vai P = gan mật (foregut → referred C3–C5).
+
+c) Quy luật tạng rỗng – tạng đặc
+
+Tạng Đặc điểm đau Cơ chế
+Tạng rỗng (ruột, mật, niệu quản, tử cung) Từng cơn quặn Co thắt chống tắc
+Tạng đặc (gan, lách, thận) Liên tục Căng bao tạng do viêm/phù
+
+Ứng dụng: Đau từng cơn + nôn + bí trung đại tiện = tắc ruột. Đau liên tục HSP = viêm gan/áp xe gan.
+
+---
+
+1.2. Phân loại nguyên nhân đau bụng
+
+a) Theo nguồn gốc
+
+```
+ĐAU BỤNG
+├── Trong ổ bụng
+│   ├── Ngoại khoa: viêm ruột thừa, thủng tạng, tắc ruột, viêm túi mật, viêm tụy, thoát vị nghẹt, thiếu máu mạch treo, vỡ tạng
+│   └── Nội khoa: viêm dạ dày, IBS, viêm gan, viêm tụy nhẹ, bệnh ruột viêm
+├── Ngoài ổ bụng
+│   ├── Lồng ngực: NMCT thành dưới, viêm phổi thùy dưới, thuyên tắc phổi
+│   ├── Chuyển hóa: DKA, ure huyết cao, tăng calci, suy thượng thận, porphyria
+│   ├── Thần kinh: zona, đau dây thần kinh
+│   └── Sinh dục: thai ngoài tử cung, xoắn phần phụ
+└── Thành bụng: cơ, cân, thần kinh
+```
+
+b) Theo cơ chế bệnh sinh
+
+Cơ chế Ví dụ Đặc điểm đau
+Viêm Viêm ruột thừa, viêm túi mật, viêm tụy Liên tục, khu trú muộn, sốt
+Tắc nghẽn Tắc ruột, sỏi niệu quản, sỏi mật Từng cơn quặn
+Thủng Thủng ổ loét, vỡ ruột thừa Đột ngột dữ dội, co cứng
+Thiếu máu Thiếu máu mạch treo, xoắn ruột Đau không tương xứng khám
+Xuất huyết Vỡ gan/lách, vỡ thai ngoài TC Đau + sốc + thiếu máu
+
+---
+
+PHẦN 2 — LÂM SÀNG: HỎI VÀ KHÁM
+
+2.1. Hỏi bệnh sử — khung 7 ô
 
 “Thời – Khởi – Vị – Chất – Tăng – Kèm – Nền”
 
-# Ô Câu hỏi mồi (chỉ cần nhớ 1 câu)
-1 Thời “Đau bao lâu rồi ạ? Điều trị gì chưa? Đỡ không?”
-2 Khởi “Đau đột ngột hay từ từ? Lúc đó đang làm gì? Sau ăn bao lâu?”
-3 Vị “Đau ở đâu? Chỉ một ngón tay chỗ đau nhất? Lan đi đâu?”
-4 Chất “Đau âm ỉ hay từng cơn? Liên tục hay cơn? Mấy điểm/10?”
-5 Tăng “Đau tăng/giảm khi nào? Ăn? Nằm? Cúi? Đi cầu? Ho?”
-6 Kèm “Có sốt/nôn/vàng da/đi cầu máu/sụt cân/tiểu gắt không?”
-7 Nền “Có bệnh gì? Thuốc gì? Mổ chưa? Hút/rượu? Gia đình?”
+Ô 1 — Thời gian
 
-Mẹo nhớ: 7 ô này khớp với 7 nhóm trong checklist bạn đã có. Trên lâm sàng chỉ cần nhẩm “Thời–Khởi–Vị–Chất–Tăng–Kèm–Nền” là không bỏ sót.
+· Đau bao lâu? < 7 ngày = cấp, vài tháng/năm = mạn.
+· Đã điều trị gì? Đáp ứng ra sao? (đáp ứng điều trị là dữ kiện chẩn đoán).
 
-Nếu quên — dùng “3 câu hỏi lớn” làm phanh dự phòng
+Ô 2 — Khởi phát
 
-1. Có ngoại khoa không?
-2. Nguyên nhân gì?
-3. Có biến chứng không?
+· Đột ngột dữ dội ngay: thủng tạng, vỡ tạng, vỡ thai ngoài TC, bóc tách ĐMC, tắc ruột thắt nghẹt.
+· Đạt đỉnh sau 10–60 phút: viêm tụy cấp, viêm túi mật cấp, tắc ruột cơ học, tắc mạch mạc treo.
+· Từ từ tăng dần trong nhiều giờ: viêm ruột thừa, viêm túi thừa, viêm tụy nhẹ.
+· Đang làm gì khi đau? Sau ăn bao lâu? (loét dạ dày: 1–1,5h; mật/tụy: 15–30 phút).
 
-Chỉ cần 3 câu này cũng đủ để không bỏ sót ý chính.
+Ô 3 — Vị trí
 
----
+· Đau ở đâu? Chỉ một ngón tay chỗ đau nhất.
+· Ban đầu ở đâu? Có di chuyển không? (quanh rốn → HCP = viêm ruột thừa).
+· Lan đi đâu? (vai P = mật; sau lưng = tụy; bẹn = thận; vai T = tim).
 
-PHẦN 2 — CÁCH NÃO CHẠY SONG SONG: “NGHE – GẮN NHÃN – NGHĨ”
+Ô 4 — Tính chất
 
-Đây là kỹ năng cốt lõi. Khi BN trả lời, bạn không nghe thụ động — mà làm 3 việc cùng lúc:
+· Nhói/âm ỉ/siết/nóng rát?
+· Liên tục (tạng đặc) hay từng cơn (tạng rỗng)?
+· Nếu từng cơn: kéo dài bao lâu? Tần số? Giữa cơn có đau?
+· Mức độ (VAS 0–10)? Tăng dần/lúc tăng lúc giảm?
 
-Bước A — Nghe và GẮN NHÃN (tag)
+Ô 5 — Yếu tố tăng/giảm
 
-Mỗi câu trả lời dán 1 nhãn:
+· Tăng khi cử động/ho/thở sâu: viêm phúc mạc.
+· Tăng sau ăn: loét, mật, tụy, tắc ruột, IBS.
+· Tăng khi nằm ngửa, giảm khi cúi ra trước: viêm tụy.
+· Giảm khi cúi ra trước: viêm túi mật.
+· Giảm khi đi cầu/xì hơi: IBS, bán tắc ruột.
+· Giảm khi chồng mông: giun chui ống mật.
 
-· ĐẶC HIỆU (gợi ý mạnh 1 bệnh)
-· LOẠI TRỪ (triệu chứng âm tính quan trọng)
-· TRUNG TÍNH (chưa rõ)
-· RED FLAG (cần xử trí ngay)
+Ô 6 — Triệu chứng kèm theo
 
-Bước B — NGHĨ NGAY 1–2 chẩn đoán (chưa cần đúng)
+· Tiêu hóa: ợ hơi/chua/nóng; buồn nôn/nôn (số lần, lượng, chất, sau nôn đỡ?); đầy bụng; trướng bụng; khối phồng; đi cầu (số lần, màu, tính chất, máu).
+· Tiết niệu – sinh dục: tiểu gắt buốt/lắt nhắt, màu nước tiểu, tiểu máu, vô niệu; nữ: huyết trắng, kinh nguyệt, PARA, thai.
+· Toàn thân: sốt (bao lâu, liên tục/cơn, lạnh run), sụt cân, chán ăn, vàng da, ngứa.
+· Hô hấp – tim mạch: ho, khó thở, đau ngực, vã mồ hôi.
 
-Ví dụ:
+Ô 7 — Tiền căn
 
-BN trả lời Nhãn Nghĩ ngay
-“Đau đột ngột như dao đâm” Đặc hiệu Thủng tạng / vỡ tạng / bóc tách ĐMC
-“Đau từ từ tăng dần, sốt nhẹ” Đặc hiệu Viêm ruột thừa / viêm túi mật
-“Đau quặn từng cơn, nôn, không đi cầu” Đặc hiệu Tắc ruột
-“Đau tăng khi ho, thở sâu” Đặc hiệu Viêm phúc mạc / nguyên nhân màng phổi
-“Không sốt, không nôn” Loại trừ Ít nghĩ nhiễm trùng cấp
-“Không đau ngực, không khó thở” Loại trừ Ít nghĩ NMCT/thuyên tắc phổi
-
-Bước C — SAU MỖI 2–3 CÂU, TỰ HỎI 3 CÂU
-
-1. Giả thuyết mạnh nhất hiện tại là gì?
-2. Triệu chứng này ủng hộ hay chống lại?
-3. Cần hỏi thêm gì để phân biệt?
-
-Đây chính là “ngầm ngầm nghĩ tới chẩn đoán sơ bộ” mà bạn muốn. Không cần nghĩ đúng ngay — chỉ cần luôn có 1–2 giả thuyết đang treo trong đầu.
-
-Ví dụ minh họa — BN Võ Thành Đ.
-
-· BN nói: “2 tháng trước đau sau xương ức lan thượng vị, khi đói hoặc sau ăn 2h”
-  → Nhãn: đặc hiệu → Nghĩ: loét dạ dày – tá tràng / GERD.
-· BN nói: “Uống thuốc dạ dày không đỡ”
-  → Nhãn: loại trừ → Nghĩ: không phải bệnh dạ dày đơn thuần → mở rộng: gan mật, tụy, NMCT.
-· BN nói: “Sốt cao, lạnh run, đau hạ sườn P, tăng khi ho/hít sâu”
-  → Nhãn: đặc hiệu + red flag → Nghĩ ngay: viêm đường mật cấp / áp xe gan / viêm phổi thùy dưới P.
-· BN nói: “3 tuần trước vàng da, đã đặt stent đường mật”
-  → Nhãn: đặc hiệu → Nghĩ: nhiễm trùng stent / tắc stent / u đường mật.
-
-→ Chỉ sau 4 câu, bạn đã có chẩn đoán sơ bộ mà không cần hỏi hết.
+· Đau tương tự trước đây?
+· THA, ĐTĐ, lao, ung thư.
+· Bệnh tiêu hóa/gan mật (loét, GERD, VGB/C, sỏi mật).
+· Thuốc đang dùng (NSAIDs, corticoid, chống đông).
+· Đã mổ chưa? Dị ứng? Rượu/thuốc lá?
+· Gia đình: THA, ĐTĐ, VGB/C, HP, ung thư.
 
 ---
 
-PHẦN 3 — LUYỆN TẬP: 3 CÁCH ĐỂ NHỚ LÂU
+2.2. Khám lâm sàng
 
-Cách 1 — Học bằng “câu mồi”, không học bằng danh sách
+a) Toàn thân
 
-Đừng học thuộc 64 mục. Học 7 câu mồi ở Phần 1. Mỗi câu mồi kéo theo cả nhóm.
+· Sinh hiệu: mạch, HA, nhiệt độ, nhịp thở, SpO2 → tầm soát SIRS/sốc.
+· Tri giác, da niêm (vàng, nhợt, xuất huyết), hạch, phù.
 
-Cách 2 — Dùng “quy tắc 2 phút”
+b) Khám bụng — trình tự “Nhìn – Nghe – Gõ – Sờ”
 
-Trước khi vào BN, đứng ngoài cửa 10 giây, nhẩm:
+Bước Nội dung Dấu hiệu đặc hiệu
+Nhìn Cân đối, di động theo nhịp thở, sẹo mổ, tuần hoàn bàng hệ, khối phồng, thoát vị Bụng chướng, mất di động
+Nghe Nhu động ruột Tăng (tắc sớm) / mất (liệt ruột, viêm phúc mạc)
+Gõ Vang/đục Mất vang vùng gan (thủng tạng); đục (dịch/khối)
+Sờ Mềm, đề kháng, co cứng, phản ứng dội, điểm đau, khối, gan/lách Murphy (túi mật); Blumberg, Rovsing, psoas, obturator (ruột thừa/viêm phúc mạc); Cullen, Turner (tụy xuất huyết)
 
-“Thời–Khởi–Vị–Chất–Tăng–Kèm–Nền. Ngoại khoa? Nguyên nhân? Biến chứng?”
+c) Khám đặc hiệu theo vùng
 
-Sau khi ra khỏi BN, tự hỏi:
+Vùng Dấu hiệu Bệnh
+Hạ sườn P Murphy Viêm túi mật
+Hạ sườn P Rung gan, ấn kẽ sườn Áp xe gan
+Hố chậu P Blumberg, Rovsing, psoas, obturator Viêm ruột thừa
+Hông lưng Rung thận, bập bềnh thận Sỏi/thận
+Toàn bụng Co cứng, phản ứng dội Viêm phúc mạc
 
-“Tôi đã hỏi đủ 7 ô chưa? Thiếu ô nào? Giả thuyết mạnh nhất là gì?”
+d) Khám bắt buộc không được quên
 
-Cách 3 — Luyện “ống nghe trong đầu” (mental rehearsal)
-
-Mỗi tối, chọn 1 ca đã gặp, tự kể lại theo 7 ô trong 2 phút. Nếu kể thiếu ô nào → ô đó là điểm yếu của bạn.
-
-Cách 4 — Dùng “bảng 3 cột” khi viết bệnh án
-
-BN nói Nhãn Nghĩ
-... Đặc hiệu/Loại trừ/Red flag Chẩn đoán A/B
-
-Viết bệnh án theo bảng này sẽ ép não bạn tư duy song song — sau vài lần sẽ thành phản xạ.
-
----
-
-PHẦN 4 — BẢNG “NGHE → NGHĨ” NHANH (in ra dán túi áo)
-
-BN nói Nghĩ ngay
-Đột ngột, dữ dội Thủng/vỡ tạng, bóc tách ĐMC, vỡ thai ngoài TC
-Từ từ tăng dần Viêm ruột thừa, viêm túi mật, viêm tụy
-Quặn từng cơn + nôn + bí trung đại tiện Tắc ruột
-Tăng khi ho/thở sâu/cử động Viêm phúc mạc / nguyên nhân màng phổi
-Lan sau lưng, giảm khi cúi ra trước Viêm tụy
-Lan vai phải, sau ăn mỡ Viêm túi mật
-Sốt + lạnh run + đau HSP + vàng da Tam chứng Charcot → viêm đường mật
-Đau không tương xứng với khám, lớn tuổi, rung nhĩ Thiếu máu mạch treo
-Nữ tuổi sinh sản, trễ kinh, đau HCP Thai ngoài tử cung
-Sụt cân + chán ăn + lớn tuổi Ung thư
+· Thăm trực tràng/âm đạo nếu nghi bệnh vùng chậu/phụ khoa.
+· Khám phổi, tim (loại trừ nguyên nhân ngoài ổ bụng).
+· Khám mạch (mạch bẹn, chi) nếu nghi thiếu máu mạch treo.
 
 ---
 
-CÂU CHỐT
+2.3. Cận lâm sàng — chọn lọc theo giả thuyết
 
-Nhớ 7 ô “Thời–Khởi–Vị–Chất–Tăng–Kèm–Nền”. Nghe mỗi câu → gắn nhãn (đặc hiệu/loại trừ/red flag) → nghĩ ngay 1–2 chẩn đoán. Sau 2–3 câu, tự hỏi “giả thuyết mạnh nhất là gì?”. Không cần hỏi hết mới nghĩ — vừa hỏi vừa nghĩ mới là lâm sàng.
+Nhóm Xét nghiệm Khi nào
+Nhiễm trùng CBC, CRP, PCT, cấy máu Sốt, nghi nhiễm trùng
+Gan mật AST/ALT, bilirubin TP/GT, ALP, GGT Đau HSP, vàng da
+Tụy Amylase, lipase Đau thượng vị lan sau lưng
+Thận – chuyển hóa BUN/Cr, điện giải, glucose, lactate Nôn nhiều, nghi sepsis, ĐTĐ
+Tim ECG, troponin BN lớn tuổi, THA, đau thượng vị
+Thai β-hCG Nữ tuổi sinh sản
+Nước tiểu TPTNT Đau hông lưng, tiểu gắt
+Hình ảnh X-quang bụng đứng, siêu âm bụng, CT bụng, MRCP Tùy giả thuyết
 
-Bạn muốn mình làm 1 ca mô phỏng (mình đóng vai BN, bạn hỏi theo 7 ô) để luyện phản xạ không?
+Nguyên tắc: Không làm “tất cả xét nghiệm”. Mỗi xét nghiệm phải trả lời một câu hỏi chẩn đoán cụ thể.
+
+---
+
+PHẦN 3 — SUY LUẬN LÂM SÀNG: TỪ TRIỆU CHỨNG ĐẾN CHẨN ĐOÁN
+
+3.1. Quy trình 5 bước
+
+Bước 1 — Xác định hội chứng
+
+· Hội chứng viêm phúc mạc: đau liên tục, khu trú, co cứng, phản ứng dội, tăng khi cử động.
+· Hội chứng tắc ruột: đau quặn, nôn, bí trung đại tiện, chướng, nhu động tăng.
+· Hội chứng thủng tạng: đau đột ngột dữ dội, bụng cứng, mất vang gan, hơi dưới cơ hoành.
+· Hội chứng thiếu máu mạch treo: đau không tương xứng khám, lớn tuổi, rung nhĩ.
+· Hội chứng xuất huyết nội: đau + sốc + thiếu máu.
+· Hội chứng nhiễm trùng đường mật: sốt + đau HSP + vàng da (Charcot).
+
+Bước 2 — Phân biệt nội – ngoại khoa
+
+Đặc điểm Ngoại khoa Nội khoa
+Khởi phát Đột ngột, dữ dội Từ từ, âm ỉ
+Vị trí Khu trú, di chuyển Lan tỏa
+Tính chất Liên tục tăng dần/quặn Lúc tăng lúc giảm
+Bụng Đề kháng, co cứng, phản ứng dội Mềm
+Toàn thân Sốc, sốt cao, mạch nhanh Bệnh nền chuyển hóa
+Đáp ứng nội khoa Không đỡ Đỡ
+
+Bước 3 — Đặt chẩn đoán phân biệt theo vị trí
+
+Vùng đau Nguyên nhân chính
+Hạ sườn P Viêm túi mật, viêm đường mật, áp xe gan, viêm gan, viêm phổi thùy dưới P, NMCT thành dưới, sỏi thận
+Thượng vị Loét dạ dày, viêm tụy, viêm túi mật, NMCT, GERD, thủng ổ loét
+Hạ sườn T Lách to, nhồi máu lách, áp xe lách
+Hông lưng Sỏi thận, viêm đài bể thận
+Quanh rốn Viêm ruột thừa sớm, tắc ruột non, IBS
+Hố chậu P Viêm ruột thừa, viêm túi thừa manh tràng, bệnh phụ khoa
+Hố chậu T Viêm túi thừa đại tràng, ung thư đại tràng
+
+Bước 4 — Tầm soát biến chứng và red flags
+
+Red flags — nghĩ ngoại khoa/cấp cứu ngay:
+
+· Đau đột ngột dữ dội.
+· Bụng co cứng, phản ứng dội.
+· Sốc, tụt HA, vã mồ hôi, ngất.
+· Nôn máu, đi cầu máu, phân đen.
+· Bí trung đại tiện + nôn + chướng.
+· Vàng da + sốt + đau HSP.
+· Đau không tương xứng khám ở người lớn tuổi.
+· Nữ tuổi sinh sản trễ kinh + đau HCP.
+· Chấn thương bụng.
+· Đang dùng chống đông.
+
+Bước 5 — Kiểm chứng bằng cận lâm sàng và theo dõi
+
+· Xét nghiệm/hình ảnh phải khớp với giả thuyết.
+· Nếu không giải thích được bằng nội khoa → nghĩ ngoại khoa.
+· Nếu đau tăng dần, sốt, mạch nhanh, bụng đề kháng → khám lại nhiều lần, gọi ngoại khoa.
+
+---
+
+3.2. Case minh họa — BN Võ Thành Đ.
+
+Dữ kiện chính:
+
+· Nam 60T, THA, hút thuốc 100 gói-năm.
+· 2 tháng đau thượng vị sau ăn 2h → không đáp ứng thuốc dạ dày.
+· 1 tháng: áp xe gan → dẫn lưu → ổ không xẹp → vàng da → ERCP stent đường mật → hết vàng.
+· Hiện tại: sốt 38°C, lạnh run, đau HSP liên tục, tăng khi ho/hít sâu; M 126, SpO2 93%; phổi T đục 2/3 dưới, ran nổ/ẩm đáy T; củng mạc ánh vàng.
+
+Suy luận:
+
+Bước Nội dung
+Hội chứng Sốt + đau HSP + tiền căn vàng da → nghi viêm đường mật cấp (Charcot không đầy đủ). SIRS (+) (T 38, M 126, NT 20).
+Nội – ngoại Có tiền căn stent đường mật, áp xe gan → ngoại khoa.
+Chẩn đoán phân biệt 1. Nhiễm trùng stent đường mật / viêm đường mật cấp. 2. Áp xe gan tái phát. 3. Viêm phổi thùy dưới P (phổi T đục, SpO2 93%). 4. NMCT thành dưới (60T, THA, hút thuốc). 5. Viêm tụy cấp.
+Red flags SIRS (+), SpO2 93%, M 126 → theo dõi sepsis.
+CLS cần CBC, CRP, PCT, bilirubin, ALP, amylase/lipase, lactate, ECG, X-quang ngực, siêu âm bụng, CT bụng, cấy máu.
+
+Kết luận sơ bộ: Viêm đường mật cấp/nhiễm trùng stent trên nền áp xe gan – u đường mật; theo dõi sepsis; loại trừ viêm phổi/NMCT.
+
+---
+
+PHẦN 4 — LIÊN HỆ: TỪ ĐAU BỤNG ĐẾN SỎI TÚI MẬT
+
+4.1. Sỏi túi mật gây đau bụng như thế nào?
+
+Cơ chế
+
+1. Sỏi kẹt cổ/ống túi mật → túi mật co bóp chống tắc → đau tạng (visceral) vùng thượng vị/HSP.
+2. Túi mật căng → kích thích phúc mạc thành → đau thành (somatic) khu trú HSP.
+3. Viêm lan đến phúc mạc/dây thần kinh → đau lan vai P (referred C3–C5).
+
+Đặc điểm lâm sàng — “chìa khóa” nhận diện
+
+Đặc điểm Cơn đau quặn mật Viêm túi mật cấp
+Khởi phát Sau ăn béo/ban đêm Sau cơn đau quặn kéo dài
+Vị trí HSP/thượng vị HSP
+Lan Sau lưng, vai P Sau lưng, vai P
+Thời gian 15–30 phút – < 6 giờ > 6 giờ
+Sốt Không Có (38–39°C), lạnh run
+Murphy Âm tính Dương tính
+BC/CRP Bình thường Tăng
+Siêu âm Sỏi, thành mỏng Sỏi kẹt cổ, thành > 4 mm, dịch quanh
+
+Quy tắc vàng: Đau HSP sau ăn béo + kéo dài > 6 giờ + sốt → chuyển từ cơn đau quặn mật sang viêm túi mật cấp.
+
+---
+
+4.2. Áp dụng khung 7 ô vào sỏi túi mật
+
+Ô Câu hỏi Trả lời gợi ý sỏi túi mật
+Thời Đau bao lâu? Cơn < 6h (quặn mật); > 6h (viêm túi mật cấp)
+Khởi Đột ngột/từ từ? Sau ăn gì? Sau ăn béo, ban đêm
+Vị Đau ở đâu? Lan đâu? HSP/thượng vị, lan vai P/sau lưng
+Chất Liên tục/từng cơn? Từng cơn (quặn mật); liên tục (viêm túi mật)
+Tăng Tăng/giảm khi nào? Tăng sau ăn béo; giảm khi cúi ra trước (viêm túi mật)
+Kèm Sốt? Nôn? Vàng da? Sốt (viêm túi mật); nôn; vàng da (Mirizzi/sỏi OMC)
+Nền Tiền căn? Nữ, sinh nhiều, béo phì, ≥ 40T; tán huyết; xơ gan
+
+---
+
+4.3. Phân biệt sỏi túi mật với các nguyên nhân đau HSP khác
+
+Bệnh Đặc điểm phân biệt
+Viêm đường mật Tam chứng Charcot (sốt + đau + vàng da), bilirubin/ALP tăng, có thể có sỏi OMC
+Áp xe gan Sốt, rung gan (+), ấn kẽ sườn đau, siêu âm/CT có ổ áp xe
+Viêm gan cấp Đau nhẹ liên tục, vàng da, AST/ALT tăng rất cao, không sốt cao
+Viêm tụy cấp Đau thượng vị lan sau lưng, tăng khi nằm ngửa, amylase/lipase tăng
+Viêm phổi thùy dưới P Sốt, ho, ran nổ, X-quang đông đặc
+NMCT thành dưới Đau thượng vị, ECG ST chênh, troponin tăng, lớn tuổi/THA/hút thuốc
+Sỏi thận P Đau quặn hông lưng lan bẹn, tiểu máu, siêu âm thận
+
+---
+
+4.4. Biến chứng sỏi túi mật — khi nào nghĩ đến?
+
+Biến chứng Dấu hiệu gợi ý
+Viêm túi mật cấp Đau > 6h, sốt, Murphy (+), BC/CRP tăng, thành túi mật > 4 mm
+Viêm tụy cấp do sỏi di trú Đau thượng vị lan sau lưng, amylase/lipase tăng
+Hội chứng Mirizzi Vàng da + đau HSP + sốt, MRCP xác định
+Sỏi OMC thứ phát Vàng da, bilirubin/ALP tăng, siêu âm/MRCP
+Tắc ruột do sỏi mật Tam chứng tắc ruột + tiền căn sỏi mật, X-quang mức nước hơi
+Ung thư túi mật Sỏi > 2,5 cm, túi mật sứ, thành dày bất thường
+
+---
+
+4.5. Tóm tắt liên hệ — “từ đau bụng đến sỏi túi mật”
+
+Đau HSP sau ăn béo + lan vai P + < 6h = cơn đau quặn mật.
+Thêm sốt + > 6h + Murphy (+) = viêm túi mật cấp.
+Thêm vàng da + sốt = nghĩ Mirizzi/sỏi OMC/viêm đường mật.
+Siêu âm là đầu tay; CT/MRCP khi biến chứng; PTNS cắt túi mật là tiêu chuẩn vàng.
+
+---
+
+CÂU HỎI TỰ KIỂM TRA TỔNG HỢP
+
+1. Phân biệt đau tạng – đau thành – đau qui chiếu. Cho ví dụ mỗi loại.
+2. Tại sao viêm ruột thừa sớm đau quanh rốn, muộn đau HCP?
+3. Trình bày khung 7 ô hỏi bệnh đau bụng.
+4. Nêu 6 hội chứng ngoại khoa điển hình.
+5. Phân biệt cơn đau quặn mật và viêm túi mật cấp (5 điểm).
+6. TG18: tiêu chuẩn chẩn đoán và phân độ viêm túi mật cấp.
+7. Khi nào cắt túi mật dự phòng ở sỏi không triệu chứng?
+8. BN đau HSP sau ăn béo 8 giờ, sốt 38.5°C, Murphy (+): chẩn đoán và xử trí?
+
+---
+
+Bạn muốn mình giảng sâu thêm phần nào (ví dụ: TG18 chi tiết, phân biệt viêm đường mật – viêm túi mật, hoặc làm case luyện tập) không?
