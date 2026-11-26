@@ -1,0 +1,296 @@
+---
+title: "Bài 19. Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp"
+tags: [giang-bai]
+created: 2026-11-22
+nguon: NotebookLM
+---
+
+# Bài 19. Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp
+
+Chào các em sinh viên y khoa! Hôm nay thầy trò chúng ta sẽ cùng nhau nghiên cứu **Bài 19: Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp** thuộc **Chương 4: Các vấn đề liên hệ với thực hành** trong giáo trình *Nội tiết học cơ bản*.
+
+**MỤC TIÊU HỌC TẬP:**
+
+1. *Xác định mô học bình thường tại cơ quan.*
+2. *Xác định đặc điểm đại thể và mô bệnh học (vi thể) các vùng bệnh lý: viêm giáp lympho bào mạn tính Hashimoto, phình giáp và bệnh Graves (Basedow), u túi tuyến.*
+3. *Xác định các đặc điểm vi thể của từng tiêu bản bệnh lý.*
+
+**TỪ KHÓA – ĐỐI CHIẾU THUẬT NGỮ VIỆT – ANH:**
+
+| Thuật ngữ Tiếng Việt | Thuật ngữ Tiếng Anh |
+| :--- | :--- |
+| **Viêm giáp lympho bào mạn tính Hashimoto** | *Chronic Lymphocytic Thyroiditis* |
+| **Phình giáp** | *Diffuse and Multinodular Goiter* |
+| **Bệnh Graves (Basedow)** | *Graves Disease* |
+| **U túi tuyến** | *Follicular adenoma* |
+| **Cường giáp** | *Hyperthyroidism* |
+| **Suy giáp** | *Hypothyroidism* |
+| **Viêm giáp** | *Thyroiditis* |
+| **U tân sinh của tuyến giáp** | *Thyroid neoplasms* |
+| **(Nhóm) U tuyến** | *Adenomas* |
+| **(Nhóm) Carcinoma** | *Carcinomas* |
+| **Phình giáp lan tỏa** | *Diffuse goiter* |
+| **Phình giáp đa nhân (phình giáp hạt)** | *Multinodular goiter* |
+| **Tế bào viêm đơn nhân** | *Mononuclear cell* |
+| **Xơ hóa (tăng sản sợi)** | *Fibrosis* |
+| **Đa kiểu hình** | *Polymorphism* |
+| **Tự – kháng – thể** | *Auto-antibody* |
+
+---
+
+### MỞ ĐẦU: VAI TRÒ CỦA GIẢI PHẪU BỆNH TRONG BỆNH LÝ TUYẾN GIÁP
+
+- **Tầm quan trọng của việc phân biệt không u và u:** Các tổn thương tuyến giáp không u (như phình giáp đơn thuần hay các dạng viêm giáp) rất dễ gây nhầm lẫn trên lâm sàng với nhóm u lành và u ác tính của tuyến giáp hoặc ngược lại.
+- **Giá trị của các phương pháp chẩn đoán:** Bên cạnh các thông tin lâm sàng và cận lâm sàng khác, việc đánh giá hình thái **đại thể**, **vi thể** cũng như mẫu **sinh thiết kim nhỏ (FNA - tế bào học)** đóng vai trò vô cùng quan trọng giúp chẩn đoán xác định, chẩn đoán phân biệt và định hướng liệu trình điều trị tích cực cho bệnh nhân.
+- **Đặc điểm túi tuyến giáp lành tính làm nền tảng:**
+  - Túi tuyến giáp bình thường biến đổi lành tính có hình thái biểu mô đơn dạng (khối vuông, trụ thấp hay trụ cao) bao quanh lòng nang chứa **keo giáp** (*thyroglobulin* - tiền thân protein iod hóa của hormone giáp hoạt động).
+  - Nhận biết chính xác mô học lành tính của túi tuyến giáp trên kính hiển vi được xem là **"từ khóa" cốt lõi** để phân biệt tổn thương biến đổi lành tính không u với nhóm u lành và u ác tính ở tuyến giáp.
+
+---
+
+## VIÊM GIÁP LYMPHO BÀO MẠN TÍNH HASHIMOTO
+
+### Giới thiệu
+
+- **Khái niệm viêm giáp:** Viêm giáp là thuật ngữ mô tả nhóm bệnh viêm hoặc rối loạn khả hồi ở tuyến giáp nói chung, gồm 3 nhóm bệnh lý thường gặp: viêm giáp Hashimoto, viêm giáp hạt (de Quervain) và viêm giáp lympho bào bán cấp.
+- **Bản chất viêm giáp Hashimoto:** Là bệnh lý tự miễn tiến triển phá hủy dần cấu trúc mô tuyến giáp, cuối cùng dẫn đến **hội chứng suy giáp (nhược giáp)**.
+- **Lịch sử & Dịch tễ:**
+  - Bệnh được bác sĩ **Hakaru Hashimoto** mô tả lần đầu tiên vào năm 1912.
+  - Nguyên nhân thường gặp nhất trên thế giới là tình trạng **thiếu iod** trong chế độ ăn.
+  - Độ tuổi có xuất độ cao nhất từ **45 – 65 tuổi**.
+  - Bệnh thể hiện **ưu thế vượt trội ở nữ giới** với tỷ lệ **Nữ : Nam từ 10:1 đến 20:1** (tùy vùng dịch tễ). Viêm giáp Hashimoto ở trẻ em cũng có thể gặp nhưng không liên quan đến yếu tố dịch tễ.
+
+---
+
+### Đặc điểm đại thể (Hình 19.1)
+
+- **Hình thái & Kích thước:** Tuyến giáp to lan tỏa cả hai thùy, đôi khi có thể to khu trú một bên.
+- **Vỏ bao & Ranh giới:** **Vỏ bao xơ tuyến giáp vẫn còn nguyên vẹn**, cấu trúc các thùy giáp vẫn giữ được ranh giới rõ ràng với các cấu trúc giải phẫu lân cận vùng cổ.
+- **Mặt cắt nhu mô:** Nhợt màu, có màu **vàng sậm, mật độ chắc**, khi nhìn hoặc sờ có cảm giác mô giáp nổi lên **các nốt to (hạt)** rải rác tương tự hình ảnh phình giáp hạt (phình giáp đa nhân).
+
+---
+
+### Đặc điểm vi thể (Hình 19.2, 19.3 và 19.4)
+
+Mô bệnh học của viêm giáp Hashimoto đặc đặc trưng bởi 3 dấu hiệu vi thể điển hình:
+
+```
+                                [VI THỂ VIÊM GIÁP HASHIMOTO]
+                                             │
+       ┌─────────────────────────────────────┼─────────────────────────────────────┐
+       ▼                                     ▼                                     ▼
+[TĂNG SẢN MÔ LYMPHO LÀNH TÍNH]      [CHUYỂN SẢN TẾ BÀO HÜRTHLE]                 [XƠ HÓA MÔ ĐỆM KẼ]
+- Thấm nhập lan tỏa lympho bào      - Tế bào túi tuyến teo đét,             - Tăng sản sợi ở mô kẽ.
+  nhỏ, tương bào trong mô kẽ.         chuyển dạng thành TẾ BÀO HÜRTHLE      - Hiện tượng xơ hóa CHỈ
+- Tạo các NANG LYMPHO với             (tế bào to, bào tương rộng,             GIỚI HẠN BÊN TRONG VỎ
+  TRUNG TÂM MẦM RÕ RỆT.               chứa nhiều hạt ái toan).                BAO XƠ (khác Riedel).
+```
+
+1. **Tăng sản mô lympho lành tính phong phú:** Sự thấm nhập rộng rãi của các tế bào viêm đơn nhân (chủ yếu là lympho bào nhỏ và tương bào) trong mô đệm kẽ, tạo thành các **nang lympho tăng sản có trung tâm mầm phát triển rõ rệt**.
+2. **Chuyển sản tế bào Hürthle (chuyển sản phồng bào):** Cấu trúc các túi tuyến giáp bị phá hủy, teo đét và được thay thế rải rác bởi các **tế bào Hürthle** (tế bào phồng to, bào tương rộng chứa đầy các hạt ái toan, nhân lớn có hạt nhân).
+3. **Xơ hóa mô đệm kẽ:** Tăng sinh mô liên kết sợi rải rác trong mô đệm kẽ. *Điểm lưu ý quan trọng:* **Hiện tượng xơ hóa trong viêm giáp Hashimoto chỉ giới hạn bên trong vỏ bao xơ tuyến giáp** (đây là đặc điểm quan trọng giúp phân biệt với bệnh *viêm giáp Riedel* - nơi xơ hóa xâm lấn vượt ra ngoài vỏ bao vào các cơ quan xung quanh).
+
+---
+
+#### Ứng dụng lâm sàng
+
+- **Biểu hiện lâm sàng:** Thường gặp ở phụ nữ trung niên với biểu hiện bướu cổ (phình giáp lan tỏa) đi kèm triệu chứng nhược giáp. Tuyến giáp có thể to đều hai bên hoặc đôi khi chỉ to một bên gây nhầm lẫn trên lâm sàng với u tân sinh tuyến giáp.
+- **Diễn tiến chức năng giáp:** Tình trạng nhược giáp thường tiến triển chậm từ từ. Trong giai đoạn đầu, có thể gặp đợt bùng phát **hội chứng phình giáp độc** (do tế bào bị phá hủy ồ ạt giải phóng hormone giáp vào máu gây tăng FT3, FT4, TSH không tăng và giảm hấp thu iodine phóng xạ). Khi bệnh tiến triển đến giai đoạn suy giáp rõ, **FT3 và FT4 giảm thấp kèm theo TSH tăng cao bù trừ**.
+- **Các nguy cơ bệnh lý kèm theo:**
+  - Bệnh nhân viêm giáp Hashimoto có **nguy cơ cao mắc kèm các bệnh tự miễn khác** như: Đái tháo đường típ 1, Lupus ban đỏ hệ thống, bệnh Nhược cơ và Hội chứng Sjögren.
+  - **Nguy cơ ác tính:** Tăng nguy cơ tiến triển thành **Lymphoma tế bào B áo nang ngoài hạch** (*Extranodal marginal zone B-cell lymphoma*). Ngoài ra, ung thư biểu mô đi kèm có thể gặp là **Carcinoma tuyến giáp dạng nhú** (tuy nhiên cơ chế mối liên hệ này chưa được hiểu rõ).
+
+---
+
+## PHÌNH GIÁP
+
+### Giới thiệu
+
+- **Cơ chế hình thành:** Phình giáp (bướu cổ đơn thuần) gây ra do tình trạng rối loạn sinh tổng hợp hormone tuyến giáp.
+- **Nguyên nhân:** Nguyên nhân thường gặp nhất trên thế giới là do **thiếu iod trong chế độ ăn uống hàng ngày**.
+
+---
+
+### Đặc điểm bệnh sinh
+
+Khi thiếu iod, nồng độ hormone giáp máu sụt giảm, kích thích tuyến yên **tăng tiết TSH bù trừ**. TSH tăng cao kéo dài sẽ kích thích các tế bào túi tuyến giáp tăng sản phì đại để bắt giữ tối đa lượng iod hiếm hoi, dẫn đến sự phì đại toàn bộ tuyến giáp.
+
+---
+
+### Đặc điểm đại thể – vi thể (Hình 19.5)
+
+Phình giáp đơn thuần (không độc) trải qua hai pha biến đổi mô học luân phiên:
+
+```
+                                      [PHÌNH GIÁP ĐƠN THUẦN]
+                                                │
+       ┌────────────────────────────────────────┴────────────────────────────────────────┐
+       ▼                                                                                 ▼
+[PHA TĂNG SẢN]                                                                  [PHA CHẾ TIẾT KEO GIÁP ĐẶC]
+- Tuyến to lan tỏa đối xứng (100–150g).                                        - Bề mặt cắt màu nâu, bóng mờ đục.
+- Biểu mô túi tuyến lót tế bào TRỤ CAO.                                       - Biểu mô túi tuyến dẹt hoặc VUÔNG.
+- Có thể nhô thành các NHÚ KHÔNG TRỤC MẠCH MÁU.                                - Túi tuyến giãn rộng chứa đầy KEO GIÁP ĐẶC.
+```
+
+1. **Pha tăng sản (*Hyperplastic phase*):**
+   - *Đại thể:* Tuyến giáp to lan tỏa đối xứng hai bên, trọng lượng có thể đạt **100 – 150 g**.
+   - *Vi thể:* Tế bào biểu mô túi tuyến giáp tăng sản trở nên **dạng trụ cao**, chen chúc và có thể tạo nên các nhú nhỏ nhô vào lòng nang **không có trục liên kết mạch máu** (tương tự hình ảnh tăng sản trong bệnh Graves).
+2. **Pha chế tiết keo giáp đặc / Phình giáp keo (*Colloid phase*):**
+   - *Đại thể:* Mặt cắt nhu mô giáp màu nâu, hơi bóng mờ đục do chứa nhiều chất keo.
+   - *Vi thể:* Chất keo giáp đặc tích tụ làm các túi tuyến giãn rộng ra, làm cho tế bào biểu mô bị ép **trở nên dạng khối vuông (trụ thấp) hoặc dẹt hẳn**.
+3. **Phình giáp đa cục / Phình giáp đa nhân (*Multinodular goiter*):**
+   - Sự lặp đi lặp lại nhiều chu kỳ tăng sản và tích tụ keo giáp không đồng đều kéo dài nhiều năm sẽ biến phình giáp lan tỏa thành **phình giáp đa cục (phình giáp đa nhân)**.
+   - Trên đại thể, nhu mô giáp chứa nhiều nhân/cục kích thước không đều nhau, dễ gây nhầm lẫn với các khối u tân sinh tuyến giáp khi khám lâm sàng.
+
+---
+
+### Ứng dụng lâm sàng
+
+- **Đặc điểm lâm sàng & Cận lâm sàng:** Trong giai đoạn sớm của phình giáp đơn thuần, kích thước tuyến giáp hầu như bình thường và chỉ được phát hiện khi tuyến đã phì đại to lan tỏa. Nồng độ **T3 và T4 huyết thanh ở mức bình thường (bình giáp)**, trong khi **TSH thường tăng nhẹ**.
+- **Phình giáp ở trẻ em:** Trẻ em mắc phình giáp do khiếm khuyết di truyền bẩm sinh các enzyme sinh tổng hợp hormone giáp có thể gây nên tình trạng **nhược giáp bẩm sinh**.
+
+---
+
+## PHÌNH GIÁP ĐỘC HAY BỆNH GRAVES (BASEDOW)
+
+### Giới thiệu
+
+- **Bản chất:** Bệnh Graves (Basedow) là nguyên nhân phổ biến nhất gây nên **hội chứng cường giáp nội sinh**.
+- **Bộ ba lâm sàng đặc trưng:**
+  1. Cường giáp lan tỏa.
+  2. Lồi mắt lan tỏa (*Exophthalmos*).
+  3. Bệnh da liễu khu trú (phù niêm trước xương chày).
+- **Dịch tễ:** Bệnh thường gặp ở độ tuổi **20 – 40 tuổi**, ưu thế **nữ giới gấp 10 lần nam giới**.
+
+---
+
+### Đặc điểm đại thể
+
+- Tuyến giáp to lan tỏa, đối xứng hai thùy do sự tăng sản ồ ạt của tế bào biểu mô túi tuyến, trọng lượng tuyến có thể đạt tới **80 g**.
+- Trên mẫu bệnh phẩm tươi cắt mỏng, nhu mô giáp **mềm, mịn, màu đỏ thịt giống như cấu trúc cơ**.
+
+---
+
+### Đặc điểm vi thể (Hình 19.6 và 19.7)
+
+#### Hiện tượng tăng sản tuyến
+- Tế bào túi tuyến giáp ở bệnh nhân Graves chưa điều trị có **dạng tế bào trụ cao**, phân bố chen chúc dày đặc hơn nhiều so với túi tuyến giáp bình thường.
+- Biểu mô túi tuyến tăng sản tạo thành nhiều **nhú nhỏ nhô vào lòng nang tuyến**, đẩy chất keo giáp vào bên trong.
+
+#### Túi tuyến giáp dãn rộng chứa keo giáp đặc: có khi nhú lấp đầy lòng túi tuyến
+- **Đặc điểm quan trọng của cấu trúc nhú:** **Các nhú biểu mô trong bệnh Graves KHÔNG CÓ trục liên kết mạch máu** (đây là điểm vi thể mấu chốt để phân biệt với *carcinoma tuyến giáp dạng nhú* - vốn có trục liên kết vách mạch máu rõ rệt).
+- **Viền vỏ sò keo giáp (Không bào tái hấp thu):** Chất keo giáp trong lòng nang nhạt màu hơn và bị các tế bào trụ cao tăng sản rút hoạt chất, hình thành viền nham nhở khuyết góc kiểu **vỏ sò** ở viền bờ xung quanh (trước đây còn gọi là các "không bào tái hấp thu").
+- **Thấm nhập tế bào viêm:** Thấm nhập rải rác các tế bào viêm mạn tính ở mô đệm kẽ (chủ yếu là **lympho bào T**, rải rác tế bào B và tương bào) và có thể tạo nên các trung tâm mầm.
+- *Biến đổi tế bào:* Một số tế bào túi tuyến thoái hóa có nhân tăng sắc dị dạng nhưng không mang tính chất hóa ác hay ác tính. Có hiện tượng xơ hóa lan nhẹ ra mô cơ vân lân cận (dễ nhầm với sự xâm lấn ác tính trên lâm sàng).
+
+---
+
+### Ứng dụng lâm sàng
+
+- **Định hướng điều trị tiền phẫu dựa vào mô học:**
+  - Cho bệnh nhân uống **Iodine** trước mổ giúp làm biểu mô túi tuyến phục hồi từ dạng trụ cao về dạng khối vuông, đồng thời giúp tích trữ keo giáp và làm giảm sung huyết mạch máu tuyến.
+  - Sử dụng **thuốc kháng giáp tổng hợp** làm tăng phì đại và tăng sản tuyến qua việc kích thích tiết TSH bù trừ.
+- **Các tổn thương ngoài tuyến giáp:**
+  - Người bệnh trẻ tuổi có thể gặp tăng sản mô lympho toàn thân ngoài giáp và phì đại cơ tim (nếu có bệnh vành sẵn).
+  - **Cơ chế lồi mắt (*Exophthalmos*):** Do tổ chức mô kẽ sau nhãn cầu bị phù nề nặng do lắng đọng các **mucopolysaccharides**, kèm theo sự thấm nhập lympho bào xơ hóa. Các cơ vận nhãn bị phù nề và xơ hóa đẩy nhãn cầu nhô ra trước.
+  - **Phù niêm trước xương chày:** Da bị dày lên do sự lắng đọng glycosaminoglycans và thấm nhập tế bào lympho ở lớp trung bì.
+
+---
+
+## NHÓM TỔN THƯƠNG TÂN SINH LÀNH TÍNH: U TÚI TUYẾN
+
+### Giới thiệu
+
+- **Khái niệm & Phân biệt:** Các u tân sinh tuyến giáp biểu hiện dưới dạng các nhân/cục có thể sờ thấy hoặc không. Khám lâm sàng một nhân giáp cần phân biệt giữa: phình giáp cục, nang giáp, viêm giáp khu trú dạng cục và u tân sinh thật sự.
+- **Tỷ lệ lành/ác & Tiên lượng:** Tỷ lệ giữa **u lành và u ác tính ở tuyến giáp là 10:1**. Nhóm ung thư tuyến giáp cũng có tiên lượng rất tốt với **90% bệnh nhân có khả năng sống trên 20 năm** sau điều trị.
+- **U túi tuyến (*Follicular adenoma*):** Là đại diện chính của nhóm u tân sinh lành tính tuyến giáp. Thuộc dạng u đặc chế tiết, cần chẩn đoán phân biệt với *phình giáp dạng nốt* và *carcinoma dạng túi tuyến*.
+- **Chức năng:** Đa phần u túi tuyến không có biểu hiện chức năng (nhân lạnh), một số ít u có khả năng tự chế tiết hormone gây cường giáp độc lập với TSH (nhân nóng / viêm giáp độc).
+
+---
+
+### Đặc điểm đại thể (Hình 19.8)
+
+- **Hình thái & Vỏ bao:** U túi tuyến điển hình là một khối đặc, **hình cầu (khối tròn), có vỏ bao sợi rõ rệt, giới hạn sắc nét** ngăn cách hoàn toàn với nhu mô giáp lành xung quanh (đặc điểm này phân biệt rõ với *phình giáp đa nhân* không có vỏ bao thực sự).
+- **Kích thước:** Trung bình khoảng **3 cm**, nhưng có khi đạt từ **10 cm** hoặc lớn hơn.
+- **Mặt cắt nhu mô u:**
+  - Mặt cắt của u chắc đặc hơn hẳn so với mô giáp lành xung quanh. Màu sắc thay đổi từ **xám trắng đến đỏ nâu** tùy thuộc vào mật độ tế bào u tăng sản và lượng keo giáp tích tụ.
+  - Ở các khối u kích thước lớn, mặt cắt thường có thêm các vùng xuất huyết, xơ hóa, vôi hóa viền hoặc hóa nang (tương tự như phình giáp cục).
+
+---
+
+### Đặc điểm vi thể (Hình 19.9)
+
+```
+                                [VI THỂ U TÚI TUYẾN - FOLLICULAR ADENOMA]
+                                                    │
+       ┌────────────────────────────────────────────┼────────────────────────────────────────────┐
+       ▼                                            ▼                                            ▼
+[TĂNG SẢN TÚI TUYẾN ĐƠN DẠNG]                [KHÔNG CÓ DẤU HIỆU ÁC TÍNH]                  [VỎ BAO SỢI NGUYÊN VẸN]
+- Các túi tuyến đơn dạng chứa               - Tế bào u ít biến đổi nhân.                - VỎ BAO SỢI DÀY, NGUYÊN VẸN,
+  keo giáp hồng.                             - HIẾM GẶP PHÂN BÀO (không có phân bào).     KHÔNG XÂM NHẬP VỎ BAO HAY
+- Có thể thấy tế bào Hürthle.               - Không có vùng hoại tử nhu mô.               XÂM NHẬP MẠCH MÁU (Phân biệt Carcinoma).
+```
+
+- **Cấu trúc u:** Tăng sản các túi tuyến giáp có kích thước tương đối đơn dạng chứa chất keo giáp ái toan (màu hồng) bên trong.
+- **Hình thái tế bào:** Tế bào u ít có sự biến đổi về kích thước và nhân; **hiếm gặp hoặc không có phân bào** (phân bào bằng 0). Đôi khi có thể gặp sự chuyển sản tế bào Hürthle khu trú.
+- **Tiêu chuẩn vi thể mấu chốt:** **VỎ BAO SỢI DÀY, NGUYÊN VẸN, BỌC KÍN QUANH KHỐI U** ngăn cách với mô giáp lành bên ngoài.
+- *Phân biệt với Carcinoma:* **Không có hiện tượng xâm nhập vỏ bao và không có xâm nhập mạch máu**. Nếu có tế bào u đâm xuyên qua vỏ bao sợi hoặc chui vào lòng mạch máu `\→` tổn thương đó là *Carcinoma túi tuyến* (*Follicular carcinoma*) hoặc *Carcinoma dạng nhú biến thể túi tuyến*.
+
+---
+
+#### Ứng dụng lâm sàng
+
+- **Biểu hiện lâm sàng:** Thường phát hiện tình cờ dưới dạng một khối u đơn độc không đau ở một bên thùy giáp khi khám sức khỏe định kỳ. U to có thể gây chèn ép tại chỗ gây khó nuốt.
+- **Hình ảnh & Xạ hình:** U túi tuyến không chức năng không hấp thu iod phóng xạ nên hiện hình dưới dạng **"nhân lạnh"** trên xạ hình giáp. Khảo sát ban đầu bằng siêu âm và sinh thiết kim nhỏ (FNA).
+- **LƯU Ý LÂM SÀNG CỐT LÕI VỀ CHẨN ĐOÁN & ĐIỀU TRỊ:**
+  - **FNA không thể phân biệt được U túi tuyến và Carcinoma túi tuyến** vì FNA chỉ lấy tế bào trong lòng u mà không khảo sát được toàn bộ vỏ bao u.
+  - **Việc khảo sát toàn bộ vỏ bao u trên vi thể giải phẫu bệnh là YẾU TỐ QUYẾT ĐỊNH DUY NHẤT** để chẩn đoán phân biệt u túi tuyến lành tính với tổn thương ác tính xâm nhập vỏ bao.
+  - Do đó, **khối u túi tuyến NÊN ĐƯỢC PHẪU THUẬT LẤY TRỌN TOÀN BỘ** để làm xét nghiệm giải phẫu bệnh nhằm chẩn đoán xác định và loại trừ ác tính. Dù vậy, bản thân u túi tuyến sau khi đã phẫu thuật cắt bỏ có **tiên lượng rất tốt, không tái phát và không di căn**.
+
+---
+
+### TÓM TẮT NHANH
+
+- **Mô học giáp lành làm chuẩn:** Nhận biết mô học túi tuyến giáp lành tính (biểu mô đơn chứa keo giáp *thyroglobulin*) là "từ khóa" để phân biệt tổn thương lành tính không u với u lành và u ác.
+- **Viêm giáp Hashimoto:** Bệnh tự miễn gây suy giáp ở nữ trung niên (nữ:nam đến 20:1). Đại thể giáp to lan tỏa, vỏ bao nguyên vẹn, mặt cắt chắc có hạt. Vi thể có 3 đặc điểm: **thấm nhập lan tỏa lympho bào tạo nang lympho có trung tâm mầm**, **chuyển sản tế bào Hürthle** và **xơ hóa chỉ giới hạn bên trong vỏ bao**. Tăng nguy cơ mắc Lymphoma tế bào B.
+- **Phình giáp (bướu cổ đơn thuần):** Nguyên nhân chủ yếu do thiếu iod (TSH tăng bù trừ). Gồm **pha tăng sản** (tế bào trụ cao) và **pha keo giáp đặc** (tế bào dẹt/vuông, túi tuyến giãn rộng). Phình giáp đa nhân do các đợt tăng sản lặp đi lặp lại không đều.
+- **Bệnh Graves (Basedow):** Bệnh tự miễn gây cường giáp (nữ 20–40 tuổi). Đại thể giáp to lan tỏa, nhu mô mềm đỏ như thịt cơ. Vi thể đặc trưng: biểu mô trụ cao tăng sản tạo **nhú KHÔNG CÓ trục liên kết mạch máu**, keo giáp có **viền vỏ sò (không bào tái hấp thu)** và thấm nhập lympho T. Lâm sàng có bộ ba: cường giáp, lồi mắt và phù niêm trước xương chày.
+- **U túi tuyến (*Follicular adenoma*):** U lành dạng đặc, hình cầu, **có vỏ bao sợi dày nguyên vẹn bọc kín**. Vi thể không có phân bào, **KHÔNG XÂM NHẬP VỎ BAO HAY MẠCH MÁU**. Phải **phẫu thuật lấy trọn toàn bộ u** mới khảo sát được vỏ bao để chẩn đoán phân biệt với Carcinoma túi tuyến.
+
+---
+
+### CÂU HỎI TỰ KIỂM TRA
+
+*(Trích trực tiếp từ phần CÂU HỎI TỰ LƯỢNG GIÁ của Bài 19 trong giáo trình)*
+
+**1. Quan sát vi thể tuyến giáp thấy sự thấm nhập lan tỏa của các lympho bào nhỏ và tương bào tạo thành các nang lympho có trung tâm mầm rõ rệt, kèm sự chuyển sản phồng bào (tế bào Hürthle). Hình ảnh này phù hợp với bệnh lý nào nhất?**
+- A. Hội chứng cường giáp
+- **B. Viêm giáp Hashimoto** *(Đáp án đúng - đây là hai đặc điểm vi thể kinh điển nhất của bệnh viêm giáp lympho bào mạn tính Hashimoto)*
+- C. Phình giáp tăng sản (phình giáp tuyến)
+- D. U túi tuyến của tuyến giáp
+
+**2. Trên tiêu bản vi thể viêm giáp Hashimoto, cấu trúc tập trung đông đảo các tế bào viêm đơn nhân có trung tâm sáng ngoại vi tối là cấu trúc gì?**
+- A. Mạch máu tăng sản
+- B. Túi tuyến giáp
+- **C. Nang lympho** *(Đáp án đúng - các tế bào lympho tăng sản tập trung tạo thành các nang lympho với trung tâm mầm sáng)*
+- D. Các đám tế bào chết theo lập trình
+
+**3. Trên tiêu bản vi thể tuyến giáp, chất dịch đồng nhất bắt màu hồng ái toan đè ép trong lòng các túi tuyến giáp được đánh dấu sao là chất gì?**
+- A. Chất hoại tử xuất huyết
+- **B. Keo giáp** *(Đáp án đúng - chất keo giáp chứa thyroglobulin bắt màu hồng ái toan tích tụ trong lòng túi tuyến)*
+- C. Màu nhuộm ứ đọng
+- D. Tế bào chết
+
+**4. Cấu trúc các túi tuyến giáp còn nguyên vẹn biểu mô khối vuông lót xung quanh chất keo giáp hồng được xếp vào loại cấu trúc nào?**
+- A. Túi tuyến giáp tăng sản
+- **B. Túi tuyến giáp trong giới hạn bình thường** *(Đáp án đúng - cấu trúc túi tuyến giáp lót biểu mô vuông chứa keo giáp là hình thái mô học bình thường của tuyến giáp)*
+- C. Túi tuyến giáp thoái hóa
+- D. Túi tuyến giáp có hiện tượng chuyển sản phồng bào
+
+---
+
+📖 *Bài 19 về giải phẫu bệnh tuyến giáp đến đây là kết thúc. Thầy chúc các em nắm chắc các tiêu chuẩn vi thể mấu chốt để học tốt bộ môn Giải phẫu bệnh nhé!*
+
+---
+
+💡 *Nếu các em muốn tiếp tục học Bài 20 (Đặc điểm vi thể tuyến thượng thận) để hoàn thành trọn vẹn chương trình, hãy báo cho thầy biết nhé!*

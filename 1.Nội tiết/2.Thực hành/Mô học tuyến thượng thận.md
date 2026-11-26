@@ -1,151 +1,169 @@
-## MỤC TIÊU HỌC TẬP
+---
+title: "Bài 20. Đặc điểm vi thể tuyến thượng thận"
+tags: [giang-bai]
+created: 2026-11-22
+nguon: NotebookLM
+---
 
-1. Mô tả được đặc điểm vi thể tuyến thượng thận bình thường (vỏ thượng thận và tủy thượng thận).
-2. Phân biệt được đặc điểm mô bệnh học giữa u lành vỏ thượng thận (_Adrenocortical Adenoma_) và u ác vỏ thượng thận (_Adrenocortical Carcinoma_).
-3. Trình bày được đặc điểm vi thể của u tủy thượng thận (_Pheochromocytoma_).
+# Bài 20. Đặc điểm vi thể tuyến thượng thận
+
+Chào các em sinh viên y khoa! Hôm nay thầy trò chúng ta sẽ cùng nhau tìm hiểu **Bài 20: Đặc điểm vi thể tuyến thượng thận** thuộc **Chương 4: Các vấn đề liên hệ với thực hành** trong giáo trình *Nội tiết học đại cương*.
+
+**MỤC TIÊU HỌC TẬP:**
+- *Mô tả được cấu tạo vi thể của tuyến thượng thận.*
 
 ---
 
-## ĐẶC ĐIỂM VI THỂ BÌNH THƯỜNG CỦA TUYẾN THƯỢNG THẬN
+### MỞ ĐẦU: ĐẠI CƯƠNG VÀ ĐẶC ĐIỂM HÌNH THÁI VI THỂ CHUNG
 
-Tuyến thượng thận được bao bọc bên ngoài bởi một vỏ bao xơ mỏng (_capsule_). Bổ dọc tuyến từ ngoài vào trong gồm hai phần riêng biệt về nguồn gốc phôi thai, cấu trúc mô học và chức năng nội tiết: **vỏ thượng thận** (nguồn gốc trung mô) và **tủy thượng thận** (nguồn gốc mào thần kinh).
-
-### Vỏ thượng thận (Adrenal Cortex)
-
-Chiếm khoảng **80 – 90%** thể tích toàn bộ tuyến, bài tiết các hormone steroid từ tiền chất cholesterol. Từ ngoài vào trong, vỏ thượng thận được chia thành 3 lớp mô học đồng tâm riêng biệt:
-
-1. **Lớp cầu (_Zona glomerulosa_):**
-   - Nằm ngay dưới vỏ bao xơ, chiếm khoảng **15%** chiều dày vỏ thượng thận.
-   - **Cấu trúc:** Các tế bào hình trụ hoặc hình tháp xếp thành các cuộn, vòm hay hình cầu nhỏ, được bao quanh bởi mạng lưới mao mạch kiểu xoang.
-   - **Đặc điểm tế bào:** Bào tương đậm màu, chứa ít giọt lipid. Nhân tế bào nhỏ, đậm sắc.
-   - **Chức năng:** Chế tiết **mineralocorticoid (aldosterone)** giúp điều hòa cân bằng điện giải (giữ `Na⁺`, thải `K⁺`).
-
-2. **Lớp bó (_Zona fasciculata_):**
-   - Là lớp dày nhất, chiếm khoảng **75%** chiều dày vỏ thượng thận.
-   - **Cấu trúc:** Các tế bào xếp thành các dải hoặc cột dọc song song nhau, thẳng vuông góc với vỏ bao xơ, ngăn cách bởi các mao mạch kiểu xoang chạy dọc.
-   - **Đặc điểm tế bào (**Tế bào bọt / Bọt bào - _Spongiocytes_):** Tế bào kích thước lớn, hình đa giác. Bào tương chứa rất nhiều giọt lipid (cholesterol, triglyceride); khi xử lý tiêu bản mô học thông thường, lipid bị hòa tan để lại các khoảng trống nhỏ làm bào tương có **hình ảnh sáng dạng tổ ong hay dạng bọt**.
-   - **Chức năng:** Chế tiết **glucocorticoid (cortisol)** điều hòa chuyển hóa glucose và phản ứng kháng viêm.
-
-3. **Lớp lưới (_Zona reticularis_):**
-   - Là lớp trong cùng của vỏ, tiếp giáp trực tiếp với tủy thượng thận, chiếm khoảng **10%** chiều dày vỏ.
-   - **Cấu trúc:** Các tế bào nhỏ xếp thành mạng lưới đan xơ bất quắc, xen kẽ là các mạch máu xoang rộng.
-   - **Đặc điểm tế bào:** Bào tương ưa acid đậm (chứa ít lipid hơn lớp bó), nhân đậm sắc. Trong bào tương thường tích tụ các hạt sắc tố nâu **lipofuscin** (sắc tố lãng phí/lão hóa).
-   - **Chức năng:** Chế tiết **androgen (DHEA, androstenedione)**.
-
-### Tủy thượng thận (Adrenal Medulla)
-
-- **Cấu trúc:** Nằm ở trung tâm tuyến, gồm các tế bào lớn hình đa giác hay hình tròn xếp thành các đám, ổ hoặc chuỗi dải tế bào ngắn quanh mạng lưới mao mạch và tĩnh mạch xoang giàu có.
-- **Tế bào ưa chrom (_Chromaffin cells_):**
-  - Là tế bào chế tiết chính của tủy. Bào tương chứa các hạt nội bào bắt màu nâu khi phản ứng với muối kali dichromat (phản ứng chromaffin).
-  - Các hạt này chứa hai loại hormone catecholamine: **Epinephrine (80%)** và **Norepinephrine (20%)**.
-- **Thành phần khác:** Xen kẽ giữa các tế bào ưa chrom là các **hạch thần kinh giao cảm (_ganglion cells_)** và tế bào chống đỡ (_sustentacular cells_).
+- **Vị trí & Hình thái:** Tuyến thượng thận nằm ở cực trên của thận, vùi bên trong mô mỡ sau phúc mạc và có cấu trúc dẹt hình bán nguyệt.
+- **Kích thước & Trọng lượng:** Ở người trưởng thành, mỗi tuyến thượng thận dài khoảng **4 – 6 cm**, rộng khoảng **1 – 2 cm** và dày khoảng **4 – 6 cm**. Tổng trọng lượng cả hai tuyến thượng thận nặng khoảng **8 g** (kích thước và trọng lượng này có thể biến đổi tùy theo độ tuổi và trạng thái sinh lý của từng cá thể).
+- **Vỏ bao mô liên kết:** Tuyến thượng thận được bọc bên ngoài bởi một vỏ mô liên kết đặc. Từ lớp vỏ xơ này có các bè mô liên kết mang theo mạch máu và thần kinh đi sâu vào trong nhu mô tuyến.
+- **Hai vùng nhu mô đồng tâm:**
+  - **Thượng thận vỏ (Vỏ thượng thận):** Màu vàng, khá dày, nằm ngay bên dưới lớp vỏ mô liên kết đặc. Có nguồn gốc phôi thai từ **trung bì**.
+  - **Thượng thận tủy (Tủy thượng thận):** Màu nâu thẫm, mỏng hơn, nằm ở vị trí trung tâm. Có nguồn gốc phôi thai từ **mào thần kinh**.
+- **Đặc điểm chung:** Tuyến thượng thận vỏ và tuyến thượng thận tủy có thể được xem như hai cơ quan nội tiết hoàn toàn khác biệt nhau về nguồn gốc phôi thai, chức năng sinh lý và đặc trưng vi thể nhưng được hợp nhất lại trong quá trình phát triển phôi. Cả vỏ và tủy thượng thận đều có **cấu tạo mô học kiểu lưới** và hệ thống mao mạch đều là **mao mạch kiểu xoang**.
 
 ---
 
-## MÔ BỆNH HỌC U VỎ THƯỢNG THẬN
+## THƯỢNG THẬN VỎ
 
-### U lành vỏ thượng thận (Adrenocortical Adenoma)
+Vỏ thượng thận tạo thành một tuyến bao bọc hoàn toàn xung quanh vùng tủy thượng thận ở trung tâm.
 
-Là tổn thương u lành tính phổ biến nhất ở vỏ thượng thận, có thể vô căn (u im lặng) hoặc gây hội chứng lâm sàng tăng tiết hormone (như hội chứng Cushing do tăng cortisol, hội chứng Conn do tăng aldosterone).
-
-- **Đại thể:**
-  - Thường là **khối u đơn độc**, tròn hoặc bầu dục, đường kính nhỏ (thường < 5 cm, trọng lượng < 100 g).
-  - **Có vỏ bao xơ mỏng bao bọc hoàn chỉnh**, ranh giới rõ với mô thượng thận lành xung quanh.
-  - Mặt cắt có màu **vàng cam tươi hay vàng sáng** đặc trưng (do tế bào u tích tụ lượng lớn lipid/cholesterol).
-- **Vi thể:**
-  - Tế bào u có hình thái rất giống với tế bào bọt (_spongiocyte_) của lớp bó vỏ thượng thận bình thường: bào tương sáng dạng bọt chứa đầy lipid, nhân nhỏ đồng nhất tròn đều ở trung tâm.
-  - Tế bào u xếp thành dải, tổ hoặc ổ nhỏ xoay quanh các mao mạch.
-  - **Tiêu chuẩn chẩn đoán lành tính:** **KHÔNG CÓ** hình ảnh nhân dị dạng nặng, **KHÔNG CÓ** phân bào bất thường, **KHÔNG CÓ** hoại tử trung tâm, **KHÔNG XÂM LẤN** vỏ bao xơ hay mạch máu. _(Sử dụng thang điểm Weiss score < 3)_.
-
-### U ác vỏ thượng thận (Adrenocortical Carcinoma - ACC)
-
-Là bệnh lý ung thư hiếm gặp nhưng cực kỳ ác tính, tiên lượng xấu.
-
-- **Đại thể:**
-  - Khối u kích thước rất lớn (thường **> 5 – 10 cm, trọng lượng > 100 – 500 g**).
-  - Khối u không có vỏ bao hoàn chỉnh, dính và xâm lấn dải xơ vào mô xung quanh.
-  - Mặt cắt không đồng nhất, có nhiều **vùng xuất huyết, hoại tử rộng** và thoái hóa bọc màu xám nâu.
-- **Vi thể (Thang điểm Weiss - Weiss Criteria `≥ 3`):**
-  1. **Mất cấu trúc bình thường:** Tế bào u xếp thành đám lớn, dải rộng hoặc cấu trúc xơ hóa.
-  2. **Tế bào dị dạng:** Tế bào u nhân to, méo xẹo, tăng sắc, bào tương ưa acid đậm (mất tính bọt bào sáng).
-  3. **Phân bào:** Xuất hiện nhiều phân bào (thường > 5 phân bào / 50 quang trường lớn) và các **phân bào bất thường/dị hình**.
-  4. **Hoại tử:** Có các ổ hoại tử đông diện rộng.
-  5. **Xâm lấn:** Tìm thấy hình ảnh tế bào ung thư **xâm lấn hoàn toàn qua vỏ bao xơ**, xâm lấn vào **lòng các mạch máu** hoặc tĩnh mạch trung tâm.
+- **Đặc trưng siêu vi thể của tế bào chế tiết Steroid:**
+  - Bào tương ưa acid, chứa **nhiều giọt mỡ** với nhân tế bào hình cầu nằm ở trung tâm.
+  - *Lưới nội bào không hạt (SER):* Dưới kính hiển vi điện tử, bào tương chứa lưới nội bào trơn rất phát triển, mang các enzyme cần thiết để tổng hợp cholesterol và chuyển đổi tiền hormone *pregnenolone* thành các dạng hormone steroid hoạt động.
+  - *Ty thể:* Ty thể trong bào tương có dạng hình cầu, cấu trúc mào bên trong có **dạng ống** (thay vì dạng mào răng lược như ở các tế bào khác). Các ty thể này không chỉ tổng hợp ATP mà còn chứa enzyme chuyển đổi cholesterol thành pregnenolone.
+  - *Cơ chế giải phóng hormone:* Hormone steroid sau khi tổng hợp **không tích lũy dưới dạng hạt chế tiết** và cũng không vận chuyển theo kiểu xuất bào. Do có bản chất là các phân tử lipid nhỏ có thể hòa tan, các steroid này sẽ **khuếch tán trực tiếp qua màng bào tương** vào máu.
+- **Phân chia mô học:** Dưới kính hiển vi quang học, vỏ thượng thận được chia thành 3 lớp/vùng đồng tâm từ ngoài vào trong: **Vùng cầu**, **Vùng bó** và **Vùng lưới**.
 
 ---
 
-## MÔ BỆNH HỌC U TỦY THƯỢNG THẬN (PHEOCHROMOCYTOMA)
+### Vùng cầu
 
-U tủy thượng thận (_Pheochromocytoma_) là khối u xuất phát từ các tế bào ưa chrom (_chromaffin cells_) của tủy thượng thận, gây ra tình trạng tăng tiết ồ ạt catecholamine vào máu (gây tăng huyết áp kịch phát, đau đầu, vãi mồ hôi, hồi hộp đánh trống ngực).
-
-### Quy tắc 10% kinh điển
-
-- 10% xuất hiện ngoài tuyến thượng thận (gọi là _Paraganglioma_).
-- 10% xuất hiện ở hai bên tuyến thượng thận.
-- 10% gặp ở trẻ em.
-- 10% có tính chất ác tính (chẩn đoán ác tính khi có di căn xa).
-- 10% phát hiện tình cờ không có triệu chứng tăng huyết áp.
-
-### Đại thể
-
-- Khối u tròn hoặc đa nốt, ranh giới rõ, kích thước từ vài cm đến rất lớn.
-- Mặt cắt có màu xám hồng hoặc nâu nhạt, mềm.
-- **Phản ứng Chromaffin:** Khi ngâm khối u tươi vào dung dịch muối khoáng chứa chất oxy hóa (như dung dịch Müller hoặc dung dịch Potassium Dichromate), mặt cắt khối u sẽ **chuyển sang màu xám đen/nâu sẫm** trong vài phút (do phản ứng oxy hóa catecholamine nội bào).
-
-### Vi thể (Hình ảnh đặc trưng "Zellballen")
-
-- **Cấu trúc "Zellballen" (Ổ tế bào):** Tế bào u sắp xếp tạo thành các **ổ/đám tế bào hình tròn hay hình bầu dục** đặc trưng (gọi là cấu trúc _Zellballen_).
-- **Mạng lưới mạch máu:** Bao quanh các ổ _Zellballen_ là mạng lưới mao mạch kiểu xoang rất giàu có và mỏng mảnh, cùng với các **tế bào chống đỡ (_sustentacular cells_)** nằm ở ngoại vi ổ u (có thể phát hiện bằng nhuộm hóa mô miễn dịch S100).
-- **Đặc điểm tế bào u:**
-  - Tế bào u kích thước lớn, hình đa giác.
-  - Bào tương rộng, dạng hạt mịn ưa acid nhẹ hoặc hơi ưa kiềm (chứa các hạt chứa catecholamine).
-  - Nhân tế bào tròn, chứa hạt nhân rõ; có thể gặp hiện tượng "nhân dị dạng giả" do thoái hóa nội tiết nhưng không phải là dấu hiệu ác tính.
-- **Chẩn đoán u tủy thượng thận ác tính:** Giống như u nội tiết khác, hình ảnh vi thể dị dạng tế bào không đủ để chẩn đoán ác tính. **Chẩn đoán ác tính bắt buộc dựa vào sự xuất hiện của di căn xa** (đến hạch bạch huyết, xương, gan, phổi).
+- **Tỷ lệ & Vị trí:** Nằm ngang ngay sát bên dưới vỏ xơ, chiếm khoảng **15% khối lượng** của tuyến thượng thận.
+- **Cấu trúc mô học:** Trong vùng này, các tế bào tuyến tập trung lại thành các cuộn, cầu hoặc đám tế bào, tạo nên những **"tiểu cầu"** với các mao mạch máu chạy kèm xung quanh.
+- **Đặc điểm tế bào:** Tế bào vùng cầu có bào tương hơi ưa acid, nhân hình cầu nằm ở giữa. Trong bào tương chứa một ít hạt mỡ nhỏ và có lưới nội bào không hạt rất phát triển.
+- **Chức năng nội tiết:** Các tế bào vùng cầu chế tiết các **mineralocorticoid** (chủ yếu là **Aldosterone**) có vai trò duy trì và cân bằng chất điện giải và thể tích nước trong cơ thể.
+  - *Cơ chế tác động:* Aldosterone tác động trực tiếp trên các tế bào ống lượn xa của thận, niêm mạc dạ dày, tuyến nước bọt và tuyến mồ hôi để kích hoạt **tái hấp thu ion `Na⁺`** đồng thời kích hoạt **đào thải ion `K⁺`** ở thận.
+- **Cơ chế điều hòa (Trục RAAS):** Vùng cầu chịu sự điều hòa phản hồi từ hệ thống **Renin – Angiotensin – Aldosterone (RAAS)**:
+  - Khi huyết áp giảm hoặc nồng độ `Na⁺` máu giảm, các tế bào cận tiểu cầu thận giải phóng **Renin**.
+  - Renin xúc tác chuyển đổi *Angiotensinogen* thành *Angiotensin I*.
+  - Enzyme chuyển *ACE* (ở phổi) tiếp tục biến đổi *Angiotensin I* thành *Angiotensin II*.
+  - **Angiotensin II** kích thích trực tiếp các tế bào vùng cầu sản xuất và giải phóng **Aldosterone**.
 
 ---
 
-## BẢNG TÓM TẮT PHÂN BIỆT MÔ BỆNH HỌC THƯỢNG THẬN
+### Vùng bó
 
-| Vi thể                   | Vỏ thượng thận bình thường | Adenoma vỏ thượng thận                  | Carcinoma vỏ thượng thận                      | Pheochromocytoma (U tủy)               |
-| :----------------------- | :------------------------- | :-------------------------------------- | :-------------------------------------------- | :------------------------------------- |
-| **Nguồn gốc**            | Lớp cầu, bó, lưới          | Tế bào lớp bó/lưới                      | Tế bào vỏ thượng thận                         | Tế bào ưa chrom tủy                    |
-| **Mặt cắt đại thể**      | Vàng đốm nâu               | **Vàng cam tươi đồng nhất**             | Xám nâu, xuất huyết hoại tử                   | Xám hồng, **hóa đen với chromat**      |
-| **Bào tương tế bào**     | Bọt bào sáng giàu lipid    | Bọt bào sáng (giống lớp bó)             | Dị dạng, ưa acid đậm                          | Bào tương dạng hạt mịn                 |
-| **Cấu trúc vi thể**      | Cuộn (cầu), Dải (bó), Lưới | Dải, tổ nhị hợp                         | Đám lớn, mất cấu trúc                         | **Cấu trúc "Zellballen" (ổ tế bào)**   |
-| **Tiêu chuẩn chẩn đoán** | Bình thường                | **Có vỏ bao hoàn chỉnh, KHÔNG xâm lấn** | **Xâm lấn vỏ bao/mạch máu, phân bào dị hình** | **Chẩn đoán ác tính khi có di căn xa** |
+- **Tỷ lệ & Vị trí:** Là vùng dày nhất của vỏ thượng thận, chiếm từ **65 – 80% khối lượng** của tuyến thượng thận.
+- **Cấu trúc mô học:** Các tế bào tập trung thành **các dây thẳng (bề dày khoảng 1 – 2 hàng tế bào)**, chạy theo hướng song song và vuông góc với vỏ xơ, kéo dài từ vùng cầu đi vào vùng lưới. Xen kẽ giữa các dây tế bào là một ít mô liên kết cùng hệ thống mao mạch kiểu xoang.
+- **Đặc điểm tế bào:**
+  - Tế bào vùng bó có kích thước lớn hơn tế bào vùng cầu, có dạng hình đa diện, nhân nằm ở giữa (thường quan sát thấy các tế bào có 2 nhân).
+  - Bào tương mang đặc trưng chế tiết steroid rất rõ rệt: **lưới nội bào không hạt phát triển cực kỳ mạnh mẽ** (hơn cả tế bào vùng cầu) và ty thể có mào dạng ống.
+  - Bào tương chứa **rất nhiều giọt mỡ** (chứa chất béo trung hòa, acid béo, cholesterol và phospholipid - tiền chất để tổng hợp steroid). Do chứa nhiều giọt mỡ bị hòa tan khi làm tiêu bản nên tế bào có hình ảnh bọt xốp (*spongiocytes*). Một số vùng bào tương hơi ưa base nhẹ do hệ Golgi và lưới nội bào hạt phát triển.
+- **Chức năng nội tiết:** Tế bào vùng bó chủ yếu chế tiết các **glucocorticoid** (chủ yếu là **Cortisol**) giúp điều hòa chuyển hóa glucose, protein và lipid. Sự chế tiết của vùng bó chịu sự điều hòa trực tiếp từ hormone **ACTH** của tuyến yên.
 
 ---
 
-## CÂU HỎI TRẮC NGHIỆM TỰ LƯỢNG GIÁ (BÀI 20)
+### Vùng lưới
 
-**Câu 1: Lớp nào của vỏ thượng thận chứa các tế bào bọt (spongiocyte) giàu lipid, bài tiết chính hormone cortisol?**
+- **Vị trí:** Là lớp trong cùng của vỏ thượng thận, nằm giáp ranh giữa vùng bó và tủy thượng thận.
+- **Cấu trúc mô học:** Tế bào vùng lưới có kích thước nhỏ hơn tế bào ở hai vùng trên, xếp thành các dây tế bào không đều và nối với nhau tạo thành một mạng lưới.
+- **Đặc điểm tế bào:** Bào tương chứa khá ít giọt mỡ, chứa nhiều **hạt sắc tố lipofuscin** kích thước khá lớn, nhiều lưới nội bào trơn và nhiều ty thể dài có mào hình ống, nhưng ít lưới nội bào hạt.
+- **Chức năng nội tiết:** Tế bào vùng lưới chủ yếu chế tiết các **gonadocorticoid** (như **adrenal androgen** - DHEA) và sự chế tiết này cũng chịu sự điều hòa của hormone **ACTH**.
 
-- A. Lớp cầu (_Zona glomerulosa_)
-- B. Lớp bó (_Zona fasciculata_)
-- C. Lớp lưới (_Zona reticularis_)
-- D. Tủy thượng thận
-- **Đáp án đúng: B. Lớp bó (_Zona fasciculata_)**
+---
 
-**Câu 2: Cấu trúc vi thể đặc trưng dạng các ổ/đám tế bào tròn được bao quanh bởi mạng lưới mao mạch giàu có ("Zellballen") là hình ảnh mô học điển hình của bệnh lý nào?**
+## THƯỢNG THẬN TỦY
 
-- A. Carcinoma vỏ thượng thận
-- B. Adenoma vỏ thượng thận
-- C. Pheochromocytoma (U tủy thượng thận)
-- D. Tăng sản vỏ thượng thận dạng nốt
-- **Đáp án đúng: C. Pheochromocytoma (U tủy thượng thận)**
+Tủy thượng thận nằm ở trung tâm tuyến, gồm các tế bào hình đa diện xếp thành từng dải hoặc cụm tế bào được nâng đỡ bởi cấu trúc mạng lưới mô liên kết. Các mao mạch máu nằm sâu bên trong xen giữa các dải tế bào kế cận; ngoài ra còn có rải rác một vài tế bào hạch thần kinh.
 
-**Câu 3: Đặc điểm mô bệnh học nào sau đây giúp phân biệt chắc chắn nhất giữa Carcinoma vỏ thượng thận (ACC) và Adenoma vỏ thượng thận (Lành tính)?**
+```
+                              [CƠ CHẾ VI THỂ TỦY THƯỢNG THẬN]
+                                             │
+       ┌─────────────────────────────────────┴─────────────────────────────────────┐
+       ▼                                                                           ▼
+[NGUỒN GỐC & BẢN CHẤT TẾ BÀO]                                               [CÁC HẠT TIẾT CATECHOLAMINE]
+- Tế bào ưa crom (Chromaffin cells) từ MÀO THẦN KINH.                       - Chứa các hạt điện tử đậm (150–350 nm).
+- Là biến thể của NEURON HẬU HẠCH GIAO CẢM                                 - TÍCH TRỮ HORMONE TRONG HẠT TIẾT
+  (mất sợi trục/sợi nhánh, chuyển thành tế bào tiết).                       (khác biệt với thượng thận vỏ).
+                                                                             • Hạt tiết Epinephrine: nhỏ hơn, chất tiết đầy.
+                                                                             • Hạt tiết Norepinephrine: to hơn, chất tiết không đều.
+```
 
-- A. Sự hiện diện của tế bào dạng bọt bào
-- B. Khối u có màu vàng cam tươi trên đại thể
-- C. Sự xâm lấn tế bào u qua vỏ bao xơ hoặc vào lòng mạch máu
-- D. Khối u xuất hiện ở vỏ thượng thận
-- **Đáp án đúng: C. Sự xâm lấn tế bào u qua vỏ bao xơ hoặc vào lòng mạch máu**
+- **Nguồn gốc tế bào ưa crom (*Chromaffin cells*):**
+  - Tế bào nhu mô tủy thượng thận có nguồn gốc từ **mào thần kinh** (từ các neuron hậu hạch của hạch giao cảm và phó giao cảm).
+  - Tế bào ưa crom được coi là biến thể của các neuron hậu hạch giao cảm đã bị mất đi sợi trục và sợi nhánh trong quá trình phát triển phôi thai để đảm nhận chức năng của tế bào chế tiết.
+- **Đặc điểm hạt chế tiết Catecholamine:**
+  - Các tế bào ưa crom chứa nhiều hạt điện tử đậm với đường kính từ **150 – 350 nm**, dự trữ và giải phóng các chất trung gian dẫn truyền thần kinh nhóm **catecholamine** (epinephrine và norepinephrine).
+  - **Tế bào chế tiết Epinephrine (Adrenaline):** Có hạt chế tiết nhỏ hơn, ít đậm điện tử hơn và chất tiết chiếm đầy lòng hạt.
+  - **Tế bào chế tiết Norepinephrine (Noradrenaline):** Có hạt chế tiết to hơn, rất đậm điện tử và chất tiết bên trong hạt không đồng đều.
+- **Chi phối thần kinh & Đặc điểm lưu trữ:** Các tế bào tủy thượng thận tiếp nhận sự chi phối thần kinh trực tiếp từ các tận cùng thần kinh của **neuron giao cảm tiền hạch**. Khác với thượng thận vỏ (không tích trữ hormone), các tế bào thượng thận tủy **tổng hợp và tích trữ sẵn hormone bên trong các hạt chế tiết**.
 
-**Câu 4: Khi tiếp xúc với dung dịch muối kali dichromat, mặt cắt khối u tươi của Pheochromocytoma chuyển sang màu xám đen/nâu sẫm là do phản ứng với thành phần nào?**
+---
 
-- A. Cortisol nội bào
-- B. Các hạt chứa Catecholamine
-- C. Lipofuscin
-- D. Tinh thể Cholesterol
-- **Đáp án đúng: B. Các hạt chứa Catecholamine**
+## SỰ PHÂN BỐ MẠCH MÁU TUYẾN THƯỢNG THẬN
+
+Tuyến thượng thận có hệ thống mạch máu vô cùng phong phú. Các nhánh động mạch đi vào nhu mô tại nhiều điểm quanh tuyến tạo nên **đám rối động mạch dưới bao**. Từ đám rối này tách ra 3 nhóm động mạch:
+
+```
+                                  [ĐÁM RỐI ĐỘNG MẠCH DƯỚI BAO]
+                                               │
+       ┌───────────────────────────────────────┼───────────────────────────────────────┐
+       ▼                                       ▼                                       ▼
+[ĐỘNG MẠCH VỎ XƠ]                    [ĐỘNG MẠCH THƯỢNG THẬN VỎ]             [ĐỘNG MẠCH THƯỢNG THẬN TỦY]
+Cấp máu cho lớp vỏ xơ liên kết.      Phân nhánh đi xen giữa dây tế bào      Đi xuyên thẳng qua vùng vỏ
+                                     tạo mao mạch vỏ ──► Chảy xuống         rồi mới phân nhánh tạo lưới
+                                     lưới mao mạch ở tủy thượng thận.       mao mạch trong tủy thượng thận.
+```
+
+- **Hai nguồn máu nuôi tủy thượng thận:** Vùng tủy thượng thận nhận đồng thời **2 nguồn máu**:
+  1. *Máu động mạch giàu oxy:* Đến trực tiếp qua **động mạch thượng thận tủy**.
+  2. *Máu tĩnh mạch chứa hormone vỏ:* Đến từ **động mạch thượng thận vỏ** (máu chảy từ vùng vỏ xuống tủy mang theo nồng độ glucocorticoid cao, kích thích enzyme chuyển đổi norepinephrine thành epinephrine).
+- **Đặc điểm cấu trúc mao mạch:** Lớp tế bào nội mô của các mao mạch kiểu xoang rất mỏng với nhiều lỗ thủng (có màng bịt mỏng). Màng đáy đơn không liên tục ở bên dưới. Các mao mạch tủy cùng với mao mạch vỏ tập trung lại đổ vào **tĩnh mạch trung tâm thượng thận**.
+
+---
+
+### TÓM TẮT NHANH
+
+- **Tổng quan hình thái:** Tuyến thượng thận nặng khoảng 8g, gồm 2 vùng biệt hóa: **Vỏ thượng thận** (nguồn gốc trung bì, tiết steroid) và **Tủy thượng thận** (nguồn gốc mào thần kinh, tiết catecholamine).
+- **Thượng thận vỏ (3 lớp):** Tế bào chế tiết steroid có SER phát triển, ty thể mào dạng ống, giọt mỡ hòa tan, hormone khuếch tán thẳng qua màng.
+  - **Vùng cầu (15%):** Xếp thành cuộn/tiểu cầu, tiết *Mineralocorticoid (Aldosterone)* giúp tái hấp thu `Na⁺` thải `K⁺`, chịu điều hòa bởi hệ *RAAS*.
+  - **Vùng bó (65-80%):** Dày nhất, xếp thành dây thẳng, chứa *rất nhiều giọt mỡ* (tế bào bọt xốp), tiết *Glucocorticoid (Cortisol)*, chịu điều hòa bởi *ACTH*.
+  - **Vùng lưới:** Xếp thành mạng lưới, chứa hạt sắc tố *lipofuscin*, tiết *Adrenal Androgen*, chịu điều hòa bởi *ACTH*.
+- **Thượng thận tủy:** Gồm các **tế bào ưa crom** (neuron hậu hạch giao cảm biến đổi) chế tiết và tích trữ **Epinephrine & Norepinephrine** trong các hạt điện tử đậm (150–350 nm). Tiếp nhận thần kinh từ neuron giao cảm tiền hạch.
+- **Mạch máu:** Tủy nhận 2 nguồn máu (động mạch tủy trực tiếp và máu tĩnh mạch từ vỏ chảy xuống). Mao mạch dạng xoang có lỗ thủng, đổ về tĩnh mạch trung tâm.
+
+---
+
+### CÂU HỎI TỰ KIỂM TRA
+
+*(Trích trực tiếp từ phần CÂU HỎI TỰ LƯỢNG GIÁ của Bài 20 trong giáo trình)*
+
+**1. Tế bào ở vùng nào của tuyến thượng thận có vai trò duy trì cân bằng nước và điện giải?**
+- **A. Vùng cầu** *(Đáp án đúng - tế bào vùng cầu tiết Aldosterone giúp tái hấp thu Na+ và thải K+)*
+- B. Vùng bó
+- C. Vùng lưới
+- D. Vùng tủy
+
+**2. Tế bào nào ở thượng thận tủy có nguồn gốc từ mào thần kinh?**
+- A. Tế bào chính
+- B. Tế bào ưa acid
+- C. Tế bào ưa base
+- **D. Tế bào ưa crom** *(Đáp án đúng - tế bào ưa crom ở tủy thượng thận có nguồn gốc từ mào thần kinh)*
+
+**3. Tế bào ở vùng nào của tuyến thượng thận chủ yếu chế tiết glucocorticoids?**
+- A. Vùng cầu
+- **B. Vùng bó** *(Đáp án đúng - tế bào vùng bó chiếm 65-80% khối lượng, chủ yếu chế tiết Glucocorticoid/Cortisol)*
+- C. Vùng lưới
+- D. Vùng tủy
+
+**4. Bào tương của tế bào ở vùng nào của tuyến thượng thận chứa nhiều giọt mỡ nhất (tế bào bọt xốp)?**
+- A. Vùng cầu
+- **B. Vùng bó** *(Đáp án đúng - bào tương tế bào vùng bó chứa rất nhiều giọt mỡ trung hòa, acid béo, cholesterol để làm tiền chất tổng hợp steroid)*
+- D. Vùng tủy
+
+---
+
+📖 *Bài 20 về vi thể tuyến thượng thận đến đây là kết thúc. Thầy chúc các em học thật tốt và hoàn thành xuất sắc chương trình Nội tiết đại cương nhé!*

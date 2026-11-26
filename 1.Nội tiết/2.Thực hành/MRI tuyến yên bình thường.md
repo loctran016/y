@@ -1,0 +1,206 @@
+---
+title: "Bài 16. Hình ảnh học tuyến yên bình thường trên cộng hưởng từ"
+tags: [giang-bai]
+created: 2026-11-22
+nguon: NotebookLM
+---
+
+# Bài 16. Hình ảnh học tuyến yên bình thường trên cộng hưởng từ
+
+Chào các em sinh viên y khoa! Hôm nay thầy trò chúng ta sẽ cùng nhau nghiên cứu **Bài 16: Hình ảnh học tuyến yên bình thường trên cộng hưởng từ** thuộc **Chương 4: Các vấn đề liên hệ với thực hành** trong giáo trình *Nội tiết học cơ bản*.
+
+**MỤC TIÊU HỌC TẬP:**
+
+1. *Mô tả được hình ảnh cộng hưởng từ bình thường của tuyến yên và hố yên.*
+2. *Mô tả được hình ảnh cộng hưởng từ bình thường của những cấu trúc xung quanh hố yên.*
+
+---
+
+## HÌNH ẢNH HỐ YÊN BÌNH THƯỜNG
+
+- **Vị trí giải phẫu:** Hố yên (*sella turcica*) nằm ở vị trí đường giữa của mặt trên thân xương bướm.
+- **Các giới hạn không gian:**
+  - **Phía trước:** Được giới hạn bởi củ yên và mỏm yên trước của cánh bé xương bướm.
+  - **Phía sau:** Được giới hạn bởi lưng yên và mỏm yên sau.
+  - **Sàn hố yên:** Chính là phần mái của xoang bướm.
+  - **Hai bên (sau ngoài):** Động mạch cảnh trong đoạn chạy trong xoang hang nằm ở rãnh động mạch cảnh hai bên hố yên.
+- **Cấu trúc màng cứng & Hoành yên:**
+  - Hố yên được lót bởi một lớp màng cứng ngăn cách tuyến yên với xương hố yên. Lớp màng cứng giới hạn hai bên của hố yên và tạo thành thành trong của xoang hang hai bên.
+  - Phần màng cứng tách ra một phần nhỏ che phủ phía trên hố yên được gọi là **hoành yên** (*diaphragma sellae*). Trên hoành yên có một lỗ nhỏ vừa đủ cho cuống tuyến yên đi qua.
+- **So sánh giá trị chẩn đoán giữa MRI và CT:**
+  - Cộng hưởng từ (MRI) **không ưu thế bằng cắt lớp vi tính (CT) trong việc đánh giá hình ảnh cấu trúc xương** (như chi tiết xương hố yên, xương bướm).
+  - Tuy nhiên, MRI lại là phương tiện vượt trội hàng đầu để đánh giá mô mềm, nhu mô tuyến yên và các cấu trúc thần kinh xung quanh.
+
+---
+
+## HÌNH ẢNH TUYẾN YÊN BÌNH THƯỜNG
+
+### Kĩ thuật khảo sát tuyến yên
+
+- **Phương pháp lựa chọn:** Cộng hưởng từ (MRI) là kỹ thuật hình ảnh được lựa chọn ưu tiên hàng đầu trong khảo sát tuyến yên.
+- **Các mặt cắt chụp tiêu chuẩn:**
+  - Hai mặt cắt quan trọng nhất thường sử dụng là **mặt phẳng đứng ngang (Coronal)** và **mặt phẳng đứng dọc (Sagittal)** với những lát cắt mỏng (**2 – 3 mm**) và trường khảo sát nhỏ (FOV hẹp).
+  - Mặt cắt ngang (**Axial**) được dùng để khảo sát bổ sung các cấu trúc lân cận hố yên hoặc phần nhu mô não.
+- **Các chuỗi xung MRI thường quy:**
+  - **T1W** không tiêm và có tiêm thuốc tương phản (đối quang từ) trên hai mặt cắt Sagittal và Coronal.
+  - **T2W** không tiêm thuốc tương phản trên mặt cắt Coronal.
+  - **Chụp Dynamic (động) sau tiêm thuốc tương phản:** Khi nghi ngờ bệnh nhân có **u tuyến yên kích thước nhỏ (*microadenoma* < 10 mm)**, chỉ định chụp chuỗi xung Coronal T1W Dynamic quét liên tục không cách khoảng để bắt kịp sự khác biệt về tốc độ ngấm thuốc giữa khối u nhỏ và nhu mô tuyến yên lành.
+- **Vai trò hỗ trợ của CT:** CT kém nhạy hơn MRI trong khảo sát bản thân tuyến yên, nhưng có giá trị rất lớn khi cần đánh giá sự xâm lấn phá hủy xương của khối u tuyến yên lớn hoặc chẩn đoán phân biệt với các tổn thương xuất phát từ xoang bướm.
+
+---
+
+### Kích thước tuyến yên
+
+Chiều cao của tuyến yên (đo trên mặt cắt Coronal T1W) biến đổi rất linh hoạt theo độ tuổi, giới tính và trạng thái sinh lý:
+
+```
+[BIẾN ĐỔI CHIỀU CAO TUYẾN YÊN THEO SINH LÝ]
+├── Trẻ trước tuổi dậy thì ────────────► Chiều cao ≤ 6 mm
+├── Trẻ dậy thì & Nữ độ tuổi sinh sản ─► Chiều cao ≤ 10 mm
+├── Phụ nữ mang thai & Hậu sản ────────► Bờ lồi lên trên, chiều cao ≤ 14 – 15 mm
+└── Nam giới & Nữ mãn kinh ────────────► Chiều cao ≤ 8 mm
+```
+
+- **Cuống tuyến yên:**
+  - Có đường kính khoảng **3 – 4 mm** tại vị trí ngang mức giao thoa thị.
+  - Thuôn nhỏ dần khi đi xuống dưới và đạt đường kính khoảng **2 mm** tại chỗ gắn vào tuyến yên.
+  - Đường kính của cuống tuyến yên xấp xỉ bằng đường kính của động mạch thân nền ở vị trí ngang mức đó.
+
+---
+
+### Tín hiệu tuyến yên trên cộng hưởng từ
+
+- **Phân biệt hai thùy tuyến yên:**
+  - **Thùy trước tuyến yên** to hơn thùy sau, chiếm khoảng **75 – 80% thể tích** toàn bộ tuyến yên.
+  - *Tín hiệu ở trẻ lớn và người lớn:* Thùy trước tuyến yên đồng tín hiệu với vỏ não trên cả hai chuỗi xung T1W và T2W. **Thùy sau có tín hiệu cao tự nhiên trên T1W** (tạo nên hình ảnh nốt sáng **"bright spot"** đặc trưng, do chứa các hạt ngưng kết dự trữ vasopressin và oxytocin).
+  - *Ở trẻ sơ sinh:* Thùy trước tuyến yên có kích thước rất lớn và tăng tín hiệu cao lan tỏa trên chuỗi xung T1W.
+  - Cuống tuyến yên đồng tín hiệu với thùy trước tuyến yên.
+- **Đặc điểm ngấm thuốc tương phản:**
+  - Tuyến yên và cuống tuyến yên **không có hàng rào máu - não** (*blood-brain barrier*), nên sau khi tiêm thuốc đối quang từ sẽ ngấm thuốc rất nhanh và mạnh.
+  - **Kiểu ngấm thuốc:** **Cuống tuyến yên bắt thuốc trước, sau đó đến tuyến yên bắt thuốc theo kiểu ly tâm từ trên xuống dưới**.
+  - Tín hiệu ngấm thuốc của tuyến yên nhẹ hơn so với mạch máu bên trong xoang hang hai bên.
+  - Rất khó khảo sát tính chất bắt thuốc tương phản của thùy sau tuyến yên vì thùy sau vốn đã có tín hiệu cao tự nhiên sẵn trên T1W (*bright spot*).
+
+---
+
+### Biến thể giải phẫu
+
+- **Hố yên trống (*Empty sella*):**
+  - *Cơ chế:* Do hạt màng nhện hoặc khoang dịch não tủy ở bể trên yên bị lồi/thoát vị vào trong hố yên qua hoành yên (khi hoành yên bị khuyết khiếm).
+  - *Lâm sàng:* Thường là biến thể lành tính, rất ít khi có triệu chứng lâm sàng.
+  - *Hình ảnh MRI đặc trưng:* Nhu mô tuyến yên bị dịch não tủy đè ép mỏng dẹt về phía sau dưới, nằm áp sát sàn hố yên, làm tuyến yên mất hình dạng bình thường. Trong lòng hố yên chứa đầy dịch não tủy với tín hiệu đặc trưng: **tín hiệu thấp trên T1W và tín hiệu cao trên T2W**.
+
+---
+
+## CÁC CẤU TRÚC QUANH HỐ YÊN
+
+Mối liên quan không gian 3D của các cấu trúc xung quanh hố yên được tóm tắt như sau:
+- **Phía trên:** Bể trên yên, thần kinh thị và giao thoa thị giác.
+- **Phía dưới:** Xoang bướm.
+- **Hai bên:** Xoang hang hai bên.
+- **Phía sau:** Động mạch thân nền, khoang Meckel.
+
+```
+                           [BỂ TRÊN YÊN / GIAO THOA THỊ]
+                                        │ (Phía trên)
+                                        ▼
+    [XOANG HANG TRAI] ◄─── (Hai bên) ── [TUYẾN YÊN] ── (Hai bên) ───► [XOANG HANG PHẢI]
+                                        │ (Phía dưới)
+                                        ▼
+                                  [XOANG BƯỚM]
+```
+
+---
+
+### Bể trên yên
+
+- **Hình dạng:** Có hình **ngôi sao 6 cánh** trên lát cắt ngang mức cuống脑, và có hình **ngôi sao 5 cánh** trên lát cắt ngang mức cầu脑.
+- **Tín hiệu:** Tương đương tín hiệu của dịch脑 tủy trên tất cả các chuỗi xung (thấp trên T1W, cao trên T2W).
+- **Các thành phần chứa bên trong bể trên yên:**
+  1. Cuống tuyến yên ở vị trí trung tâm.
+  2. Đa giác Willis (vòng mạch máu não).
+  3. Giao thoa thị giác.
+  4. Các dây thần kinh sọ.
+  5. Sàn não thất III.
+
+---
+
+### Xoang hang
+
+- **Bản chất:** Là các xoang tĩnh mạch màng cứng thông nối với nhau nằm ở hai bên hố yên.
+- **Cấu trúc màng cứng:** Màng cứng xoang hang ở phía ngoài dày hơn phía trong. Thành trong tạo bởi lớp màng cứng tách xoang hang khỏi hố yên.
+- **Các thành phần đi bên trong xoang hang:**
+  - **Động mạch cảnh trong** (đoạn xoang hang).
+  - **Dây thần kinh sọ VI (thần kinh vận nhãn ngoài):** Là dây thần kinh **duy nhất nằm thật sự hoàn toàn bên trong lòng xoang hang**, nằm ở phía dưới ngoài so với động mạch cảnh trong.
+  - **Các dây thần kinh sọ III, IV, V1, V2:** Nằm chạy trong **thành ngoài của xoang hang** theo thứ tự lần lượt từ trên xuống dưới (Dây III - vận nhãn, Dây IV - ròng rọc, Dây V1 - thần kinh mắt, Dây V2 - thần kinh hàm trên).
+- **Bắt thuốc tương phản:** Xoang hang bắt thuốc tương phản rất mạnh và đồng nhất sau khi tiêm thuốc.
+
+---
+
+### Xoang bướm
+
+- Nằm bên trong thân xương bướm, ở ngay bên dưới sàn hố yên.
+- Kích thước, hình dạng và mức độ khí hóa của xoang bướm thay đổi nhiều tùy theo từng cá thể.
+- MRI hạn chế khảo sát các chi tiết xương thành xoang bướm so với cắt lớp vi tính (CT).
+
+---
+
+### Giao thoa thị giác
+
+- Nằm phía trước cuống tuyến yên bên trong bể trên yên.
+- Trên mặt phẳng cắt ngang (Axial), thần kinh thị, giao thoa thị giác và dải thị hợp lại với nhau **tạo thành hình chữ X**.
+
+---
+
+### Khoang Meckel
+
+- **Vị trí & Bản chất:** Là khoang chứa dịch brain-spinal fluid (dịch脑 tủy) nằm ở vị trí **sau - dưới - ngoài xoang hang**.
+- Khoang này được lót bởi màng nhện, kéo dài đến bể trước cầu脑.
+- **Thành phần bên trong:** Khoang Meckel chứa **hạch thần kinh sinh ba (hạch dây V / hạch Gasser)**.
+
+---
+
+## Tóm tắt nhanh
+
+- **MRI là kỹ thuật lựa chọn ưu tiên để khảo sát tuyến yên** với hai mặt phẳng chính là Coronal và Sagittal (lát cắt mỏng 2–3 mm). Chụp T1W Dynamic Coronal dùng khi nghi ngờ *microadenoma* (< 10 mm).
+- **Chiều cao tuyến yên thay đổi theo sinh lý:** Trẻ chưa dậy thì `≤ 6 mm`; Nam & Nữ mãn kinh `≤ 8 mm`; Nữ sinh sản `≤ 10 mm`; Phụ nữ mang thai/hậu sản có thể lồi bờ trên và cao tới **14–15 mm**.
+- **Đặc điểm tín hiệu & Ngấm thuốc:** Thùy trước chiếm 75–80% thể tích, đồng tín hiệu vỏ não. **Thùy sau có nốt sáng "bright spot" cao trên T1W**. Tuyến yên không có hàng rào máu-não, **bắt thuốc kiểu ly tâm từ cuống tuyến yên xuống dưới**.
+- **Các cấu trúc lân cận:** **Xoang hang** nằm 2 bên (chứa ĐM cảnh trong, dây VI nằm trong lòng xoang; dây III, IV, V1, V2 nằm ở thành ngoài); **Bể trên yên** hình sao 5–6 cánh nằm phía trên; **Giao thoa thị giác** hình chữ X nằm trước cuống tuyến yên; **Khoang Meckel** chứa hạch dây V nằm ở sau-dưới-ngoài xoang hang.
+
+---
+
+## Câu hỏi tự kiểm tra
+
+*(Trích trực tiếp từ phần CÂU HỎI TỰ LƯỢNG GIÁ của Bài 16 trong giáo trình)*
+
+**1. Kĩ thuật cộng hưởng từ trong khảo sát tuyến yên, phát biểu nào sau đây KHÔNG ĐÚNG?**
+- A. Mặt cắt để khảo sát tốt nhất tuyến yên là Sagittal và Coronal
+- B. MRI hạn chế trong khảo sát xương hố yên hơn so với CT
+- C. Tuyến yên được khảo sát với những lát cắt mỏng cùng trường khảo sát nhỏ
+- **D. Kỹ thuật Dynamic sau tiêm thuốc tương phản được chỉ định trong các trường hợp nghi ngờ u tuyến yên kích thước lớn.**
+  - *Giải thích đáp án:* Phát biểu D SAI vì kỹ thuật Dynamic được chỉ định để tìm u tuyến yên **kích thước nhỏ (*microadenoma* < 10 mm)** nhằm bắt kịp sự khác biệt ngấm thuốc; u kích thước lớn (*macroadenoma*) ngấm thuốc rõ trên các chuỗi xung T1W tiêm thuốc thường quy.
+
+**2. Mũi tên xanh chỉ cấu trúc gì (trên hình thể giải phẫu T1W)?**
+- A. Cuống tuyến yên
+- **B. Thùy trước tuyến yên**
+  - *Giải thích đáp án:* Thùy trước tuyến yên chiếm 75 – 80% thể tích, nằm phía trước hố yên và đồng tín hiệu với vỏ não trên T1W.
+- C. Thùy sau tuyến yên
+- D. Giao thoa thị giác
+
+**3. Chọn kiểu bắt thuốc đúng của tuyến yên và cuống tuyến yên:**
+- A. Cuống tuyến yên bắt thuốc trước đến tuyến yên bắt thuốc theo kiểu hướng tâm từ ngoại vi vào trong trung tâm
+- **B. Cuống tuyến yên bắt thuốc trước đến tuyến yên bắt thuốc theo kiểu ly tâm từ trên xuống dưới**
+  - *Giải thích đáp án:* Tuyến yên không có hàng rào máu-não, khi tiêm thuốc tương phản thì cuống tuyến yên sẽ bắt thuốc đầu tiên, sau đó thuốc lan dần xuống toàn bộ nhu mô tuyến yên theo kiểu ly tâm từ trên xuống dưới.
+- C. Tuyến yên bắt thuốc trước theo kiểu hướng tâm rồi đến cuống tuyến yên bắt thuốc
+- D. Tuyến yên bắt thuốc trước theo kiểu ly tâm từ trên xuống dưới rồi đến cuống tuyến yên bắt thuốc
+
+**4. Hình ảnh tuyến yên trên cộng hưởng từ, chọn câu đúng:**
+- A. Thùy trước và thùy sau tuyến yên có thể phân biệt trên chuỗi xung T2W
+- B. Thùy sau tuyến yên có tín hiệu cao trên chuỗi xung T2W
+- **C. Khó khảo sát tính chất bắt thuốc của thùy sau tuyến yên**
+  - *Giải thích đáp án:* Đáp án C ĐÚNG vì thùy sau tuyến yên vốn đã có nốt tăng tín hiệu cao tự nhiên trên T1W không tiêm (*bright spot*), do đó rất khó đánh giá được mức độ tăng tín hiệu do ngấm thêm thuốc tương phản sau tiêm.
+- D. Cuống tuyến yên nằm trước giao thoa thị giác
+
+---
+
+💡 *Bài 16 đến đây là kết thúc! Thầy chúc các em học tốt và nắm thật vững hình ảnh học cộng hưởng từ vùng tuyến yên nhé!*

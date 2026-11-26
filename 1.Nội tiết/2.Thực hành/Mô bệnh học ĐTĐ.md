@@ -1,146 +1,223 @@
-## MỤC TIÊU HỌC TẬP
+---
+title: "Bài 18. Đại thể, vi thể một số cơ quan trong bệnh đái tháo đường"
+tags: [giang-bai]
+created: 2026-11-22
+nguon: NotebookLM
+---
 
-1. Mô tả được các tổn thương đại thể và vi thể ở tuyến tụy trong bệnh đái tháo đường típ 1 và típ 2.
-2. Phân tích được các đặc điểm tổn thương mô bệnh học ở thận (Bệnh thận đái tháo đường).
-3. Trình bày được các biến đổi giải phẫu bệnh ở hệ mạch máu (mạch máu lớn, mạch máu nhỏ) và các cơ quan đích khác như mắt, hệ thần kinh.
+# Bài 18. Đại thể, vi thể một số cơ quan trong bệnh đái tháo đường
+
+Chào các em sinh viên! Hôm nay thầy trò chúng ta sẽ cùng nhau học **Bài 18: Đại thể, vi thể một số cơ quan trong bệnh đái tháo đường** thuộc **Chương 4: Các vấn đề liên hệ với thực hành** trong giáo trình *Nội tiết học cơ bản*.
+
+**MỤC TIÊU HỌC TẬP:**
+
+1. *Mô tả và phân biệt được tổn thương vi thể ở tụy thường gặp trong đái tháo đường típ 1 và típ 2.*
+2. *Mô tả một số tổn thương cơ quan đích của bệnh lý đái tháo đường:*
+   - Biến chứng: trên mạch máu lớn đái tháo đường, xơ vữa động mạch hyaline hóa.
+   - Bệnh lý dày màng đáy ở (lắng đọng collagen típ IV): mao mạch da, cơ vân, võng mạc, cầu thận, tủy thận.
+
+**TỪ KHÓA – ĐỐI CHIẾU THUẬT NGỮ VIỆT – ANH:**
+
+| Thuật ngữ Tiếng Việt | Thuật ngữ Tiếng Anh |
+| :--- | :--- |
+| **Dạng tinh bột** | *Amyloid* |
+| **Đại thực bào** | *Macrophage* |
+| **Tế bào T, lympho bào T** | *T cell* |
+| **Xơ vữa** | *Atherosclerosis* |
+| **Tiểu đảo beta** | *Islet beta* |
+| **Tế bào beta** | *Beta cell* |
+| **“Bao fibrin”** | *“Fibrin cap”* |
+| **“Giọt dạng vỏ bao”** | *“Capsular drops”* |
+| **Tăng nhãn áp (cườm nước)** | *Glaucoma* |
+| **Đục thủy tinh thể (cườm khô)** | *Cataract* |
+| **Thể mi** | *Ciliary body* |
+| **Phần ụ (thể mi)** | *Pars plicata* |
+| **Bệnh tăng nhãn áp tân sinh mạch** | *Neovascular glaucoma* |
+| **Bệnh võng mạc không tiến triển** | *Nonproliferative diabetic retinopathy* |
+| **Bệnh võng mạc tiến triển** | *Proliferative diabetic retinopathy* |
+| **Chứng thất điều điệu bộ** | *Gait ataxia* |
+| **Chứng giảm linh hoạt bàn tay** | *Hand clumsiness* |
+| **Chứng loạn vận ngôn** | *Dysarthria* |
 
 ---
 
-## TỔN THƯƠNG TẠI TUYẾN TỤY (PANCREAS)
+## GIỚI THIỆU
 
-Tổn thương mô học tại tuyến tụy phản ánh trực tiếp cơ chế bệnh sinh khác nhau giữa đái tháo đường típ 1 (phá hủy tự miễn) và đái tháo đường típ 2 (đề kháng insulin và kiệt quệ tế bào beta).
-
-### Đại thể
-
-- Tuyến tụy có thể bình thường hoặc teo nhẹ, mật độ có thể chắc hơn bình thường do tình trạng xơ hóa mô kẽ.
-
-### Vi thể (Mô bệnh học)
-
-- **Trong Đái tháo đường Típ 1:**
-  - **Giảm số lượng và kích thước tiểu đảo Langerhans:** Rõ rệt, các tiểu đảo teo nhỏ, số lượng tế bào `β` giảm nghiêm trọng hoặc biến mất hoàn toàn.
-  - **Viêm tiểu đảo (_Insulitis_):** Hiện tượng thâm nhiễm các tế bào viêm (chủ yếu là **tế bào lympho T CD4⁺, CD8⁺, tế bào B và đại thực bào**) xung quanh và bên trong các tiểu đảo tụy. Đây là hình ảnh đặc trưng của phản ứng tự miễn phá hủy tế bào `β` ở giai đoạn đầu.
-- **Trong Đái tháo đường Típ 2:**
-  - **Thoái hóa Hyalin / Lắng đọng Amyloid (_Islet Amyloidosis_):** Là tổn thương vi thể đặc trưng nhất. Chất lắng đọng dạng tinh bột (chủ yếu cấu tạo từ **IAPP / Amylin** – một peptide được đồng bài tiết cùng insulin) xuất hiện ở khoảng kẽ giữa các mao mạch và tế bào tiểu đảo, dần dần chèn ép làm tế bào `β` bị teo đét và chết theo chương trình.
-  - **Xơ hóa tiểu đảo (_Islet Fibrosis_):** Tăng sinh mô liên kết xơ thế chỗ các tế bào tiểu đảo bị teo.
-  - Số lượng tiểu đảo có thể bình thường hoặc giảm nhẹ ở giai đoạn muộn.
+- **Khái niệm:** Bệnh đái tháo đường là một nhóm các rối loạn chuyển hóa có cùng các đặc điểm sinh lý bệnh là tình trạng **tăng glucose huyết mạn tính**. Trong đó có hai nhóm bệnh lý chính là đái tháo đường típ 1 và đái tháo đường típ 2.
+- **Cơ chế bệnh sinh khác biệt:**
+  - **Đái tháo đường típ 1:** Là bệnh lý tự miễn đặc trưng bởi hiện tượng tự kháng thể và tế bào T phá hủy cấu trúc tiểu đảo beta tụy, dẫn đến tình trạng **thiếu hụt insulin tuyệt đối**.
+  - **Đái tháo đường típ 2:** Do sự **đề kháng insulin** ở các mô ngoại biên phối hợp với suy giảm chức năng tế bào beta, dẫn đến tình trạng **thiếu hụt insulin tương đối**.
+- **Phân loại tổn thương bệnh lý:**
+  - *Tổn thương tại tụy:* Gồm các biến đổi trực tiếp trên tế bào beta tụy và tiểu đảo beta tụy.
+  - *Tổn thương tại cơ quan đích (biến chứng mạn tính):* Xảy ra ở hệ mạch máu, thận, thần kinh và mắt. **Khi tình trạng bệnh kéo dài, biến chứng của hai típ này ở các cơ quan đích là hoàn toàn giống nhau**.
+- **Hai hiện tượng bệnh lý chính tại tụy:**
+  1. *Viêm tiểu đảo tụy (Insulitis):* Hiện tượng viêm gây ra bởi tế bào T và đại thực bào.
+  2. *Mất tế bào beta tụy và teo đét tiểu đảo.*
+- **Hai hiện tượng bệnh lý mạn tính chính ngoài tụy (cơ quan đích):**
+  1. *Lắng đọng dạng tinh bột (Amyloid)* ở tiểu đảo tụy.
+  2. *Mất một lượng nhỏ tế bào beta (kín đáo hoặc nhẹ).*
 
 ---
 
-## BỆNH THẬN ĐÁI THÁO ĐƯỜNG (DIABETIC NEPHROPATHY)
+## TỔN THƯƠNG TẠI TỤY
 
-Thận là một trong những cơ quan chịu tổn thương nặng nề nhất do tình trạng tăng đường huyết mạn tính gây ra (là nguyên nhân hàng đầu dẫn đến bệnh thận giai đoạn cuối).
+Tổn thương vi thể ở tụy trong đái tháo đường típ 1 và típ 2 thường thay đổi tùy cá thể, tùy giai đoạn bệnh lý và **ít có giá trị đơn độc trong chẩn đoán xác định đái tháo đường**. Các tổn thương vi thể chính tại tụy bao gồm:
 
-### Đại thể
-
-- **Giai đoạn đầu:** Hai thận **phì đại, tăng kích thước và trọng lượng** (do hiện tượng tăng độ lọc cầu thận và tăng sinh mô).
-- **Giai đoạn muộn:** Thận teo nhỏ dần, bề mặt hạt nhẹ, vỏ thận mỏng, ranh giới vỏ - tủy không rõ do tình trạng xơ hóa lan tỏa và suy thận mạn.
-
-### Vi thể (Mô bệnh học)
-
-Tổn thương vi thể ở thận gồm 4 thành phần chính:
-
-#### a. Tổn thương Cầu thận (Glomerular lesions)
-
-1. **Dày màng đáy cầu thận (_Glomerular basement membrane thickening_):** Là tổn thương xuất hiện sớm nhất trên kính hiển vi điện tử, do sự tích tụ các glycoprotein bị glycat hóa.
-2. **Tăng sinh chất nền gian mạch (_Mesangial matrix expansion_):** Tăng sản xuất chất nền gian mạch làm rộng vùng gian mạch cầu thận.
-3. **Xơ hóa cầu thận dạng nốt (_Nodular glomerulosclerosis_ / Hội chứng Kimmelstiel-Wilson):**
-   - Là tổn thương **đặc hiệu nhất** cho bệnh thận đái tháo đường (gặp ở 15 – 30% bệnh nhân).
-   - Hình ảnh vi thể: Các khối xơ hình tròn hoặc hình bầu dục, đồng nhất, ưa acid (bắt màu hồng trên nhuộm HE, nhuộm PAS dương tính) nằm ở vùng trung tâm của các thùy cầu thận, chèn ép các quai mao mạch xung quanh.
-4. **Xơ hóa cầu thận lan tỏa (_Diffuse glomerulosclerosis_):** Tăng sinh rộng rãi chất nền gian mạch trên toàn bộ cầu thận, dần dần dẫn đến xơ hóa hoàn toàn (cầu thận hóa xơ/cầu thận hòn).
-5. **Lắng đọng giọt Hyalin (_Hyaline caps_ / _Fibrin caps_):** Lắng đọng chất ưa acid dạng giọt nhẵn ở mặt trong màng đáy bao Bowman hoặc trong quai mao mạch.
-
-#### b. Tổn thương Mạch máu thận (Vascular lesions)
-
-- **Xơ hóa hyalin tiểu động mạch (_Arteriolosclerosis_):** Lắng đọng chất hyalin làm dày thành và hẹp lòng các tiểu động mạch thận.
-- **Đặc điểm đặc hiệu:** Trong khi huyết áp cao thường chỉ gây xơ hóa tiểu động mạch đến, thì đái tháo đường gây **xơ hóa hyalin cả tiểu động mạch đến (_afferent_) VÀ tiểu động mạch đi (_efferent_)**. Tình trạng xơ hóa tiểu động mạch đi là hình ảnh rất đặc trưng của đái tháo đường.
-
-#### c. Tổn thương Ống thận và Mô kẽ (Tubular and Interstitial lesions)
-
-- **Tổn thương Armanni-Ebstein:** Tế bào biểu mô ống lượng gần ứ đọng nhiều hạt glycogen trong bào tương (bào tương sáng nhạt), gặp khi đường huyết tăng rất cao.
-- **Teo ống thận và xơ hóa mô kẽ:** Xuất hiện ở giai đoạn muộn do giảm tưới máu từ các cầu thận bị xơ hóa.
-
-#### d. Bệnh lý Nhiễm trùng thận
-
-- **Viêm đài bể thận kẽ cấp/mạn tính:** Dễ xảy ra do suy giảm miễn dịch.
-- **Hoại tử nhú thận (_Papillary necrosis_):** Do phối hợp giữa thiếu máu cục bộ vùng tủy thận và nhiễm trùng ngược dòng.
+1. **Giảm số lượng và kích thước tiểu đảo tụy.**
+2. **Thấm nhập bạch cầu mạn tính trong tiểu đảo (Viêm tiểu đảo tụy):**
+   - Diễn ra **nặng và rõ rệt hơn ở đái tháo đường típ 1**.
+   - Trên tiêu bản vi thể, thấy hiện tượng thấm nhập lympho bào quanh tiểu đảo và xen kẽ vào trong tiểu đảo beta tụy.
+3. **Hiện tượng thoái hóa dạng tinh bột (Lắng đọng Amyloid):**
+   - Gặp đặc trưng trong **giai đoạn phụ thuộc insulin của đái tháo đường típ 2**.
+   - Chất dạng tinh bột (amyloid) màu hồng đè ép làm teo đét các tế bào beta tiểu đảo. Nếu có rải rác tế bào lympho quanh tiểu đảo ở típ 2 thì đó chỉ là hiện tượng thứ phát.
+- **Lưu ý đặc biệt trong Thai kỳ:** Trường hợp người mẹ có biểu hiện đái tháo đường thai kỳ, tụy ở **thai nhi** lại có khuynh hướng **tăng sản các tiểu đảo tụy** để bù trừ.
+- **Nang tụy ngoại tiết:** Cấu trúc của các nang tụy ngoại tiết vẫn giữ được tính nguyên vẹn trong cả hai típ.
 
 ---
 
-## TỔN THƯƠNG HỆ MẠCH MÁU (VASCULAR LESIONS)
+## TỔN THƯƠNG CƠ QUAN ĐÍCH (BIẾN CHỨNG MẠN TÍNH)
 
-Tăng glucose huyết mạn tính gây ra hai nhóm biến chứng mạch máu lớn và mạch máu nhỏ:
+```
+                                  [TỔN THƯƠNG CƠ QUAN ĐÍCH MẠN TÍNH]
+                                                  │
+       ┌──────────────────┬───────────────────────┼───────────────────────┬──────────────────┐
+       ▼                  ▼                       ▼                       ▼                  ▼
+[MẠCH MÁU LỚN & VỪA]  [VI MẠCH DÀY MÀNG ĐÁY]   [BỆNH THẬN ĐÁI THÁO ĐƯỜNG]  [BIẾN CHỨNG MẮT]   [BỆNH THẦN KINH]
+- Xơ vữa động mạch.   - Lắng đọng Collagen IV  - Xơ hóa mô kẽ (đạm niệu)- Dày màng đáy     - Chiếm 80% sau 15 năm.
+- Tử vong tim mạch      ở da, cơ, mắt, thận.    - Xơ hóa nốt cầu thận     thể mi.          - Viêm màng não nấm
+  (Nhồi máu cơ tim,   - Xơ vữa hyaline hóa       (Kimmelstiel-Wilson) với - Đục thủy tinh     Mucormycosis.
+  hoại tử chi).         do tăng huyết áp.        "Bao fibrin" & "Giọt      thể, Glaucoma,  - Friedreich Ataxia (25%):
+                                                 dạng vỏ bao".            bệnh võng mạc.   gait ataxia, hand
+                                               - Viêm hoại tử tủy thận.                    clumsiness, dysarthria.
+```
 
-### Bệnh lý Mạch máu lớn (Macroangiopathy)
+### Tổn thương mạch máu lớn do đái tháo đường
 
-- **Bản chất:** Là tình trạng **xơ vữa động mạch (_Atherosclerosis_)** tiến triển sớm hơn, mức độ nặng nề hơn và lan rộng hơn so với người không bị đái tháo đường.
-- **Hình ảnh vi thể:** Mảng xơ vữa chứa lõi lipid/cholesterol, lắng đọng calci, xơ hóa lớp áo trong và nứt gãy lớp áo giữa của động mạch.
-- **Hậu quả lâm sàng:**
-  - Động mạch vành `→` Nhồi máu cơ tim (nguyên nhân tử vong hàng đầu).
-  - Động mạch não `→` Tắc mạch não, đột quỵ.
-  - Động mạch chi dưới `→` Tắc hẹp mạch máu ngoại biên, hoại tử khô/hoại tử ướt các ngón chân (bệnh lý **"bàn chân đái tháo đường"**).
-
-### Bệnh lý Mạch máu nhỏ (Microangiopathy)
-
-- **Bản chất:** **Dày màng đáy vi mạch lan tỏa** do tăng lắng đọng collagen typ IV và lặp lại nhiều chu kỳ tổn thương – sửa chữa của tế bào nội mạc.
-- Thường gặp ở mao mạch võng mạc, cầu thận, cơ xương, da và dây thần kinh ngoại biên.
-
----
-
-## TỔN THƯƠNG TẠI CÁC CƠ QUAN KHÁC
-
-### Mắt (Bệnh võng mạc đái tháo đường - Diabetic Retinopathy)
-
-- **Bệnh võng mạc không tăng sinh (Giai đoạn sớm):**
-  - Tổn thương xơ hóa vi mạch làm teo tế bào quanh mạch (_pericyte_).
-  - Xuất hiện các **vi phình mạch (_microaneurysms_)**, xuất huyết dạng chấm/dạng đốm, phù hoàng điểm và các đám xuất tiết cứng/mềm (_cotton-wool spots_).
-- **Bệnh võng mạc tăng sinh (Giai đoạn muộn):**
-  - Thiếu máu cục bộ võng mạc kích thích tiết **VEGF** `→` **Tăng sinh các tân mạch bất thường**.
-  - Các tân mạch dễ vỡ gây xuất huyết kính thể, co kéo gây **bong võng mạc** và dẫn đến mù lòa.
-
-### Hệ Thần kinh (Bệnh thần kinh đái tháo đường - Diabetic Neuropathy)
-
-- **Vi thể:**
-  - **Mất myelin rải rác (_Segmental demyelination_)** và **thoái hóa sợi trục (_Axonal degeneration_)** của các dây thần kinh ngoại vi.
-  - Xơ hóa hyalin và hẹp lòng các mạch máu nhỏ nuôi thần kinh (_vasa nervorum_).
-- **Lâm sàng:** Giảm hoặc mất cảm giác nông (cảm giác đau, nhiệt) kiểu "mang găng - mang vớ", dị cảm, đau nhói; rối loạn thần kinh thực vật (hạ huyết áp tư thế, đờ dạ dày, liệt bàng quang).
-
-### Da và Mô mềm
-
-- Dễ nhiễm trùng da (mụn nhọt, áp xe, nấm da).
-- Lắng đọng mỡ hạt/u vàng (_Xanthoma_), hoại tử mỡ lipoid (_Necrobiosis lipoidica diabeticorum_) do tổn thương mạch máu da.
+- **Cơ chế:** Tình trạng tăng glucose huyết kéo dài và đề kháng insulin gây rối loạn chức năng tế bào nội mô mạch máu kích thước trung bình và lớn.
+- **Hậu quả:** Đái tháo đường gây tổn thương sớm và nghiêm trọng trên hệ thống mạch máu, dẫn đến hiện tượng **xơ vữa động mạch** (*atherosclerosis*).
+- **Ý nghĩa lâm sàng:** Đây là **yếu tố tử vong hàng đầu** cho bệnh nhân đái tháo đường. Các biến chứng muộn nghiêm trọng bao gồm:
+  - Nhồi máu cơ tim (do xơ vữa động mạch vành).
+  - Hoại tử chi dưới (do tổn thương hệ mạch ngoại biên).
+  - Tổn thương mạch máu thận.
+- *Lưu ý:* Tổn thương xơ vữa mạch máu lớn ở bệnh nhân đái tháo đường không có sự khác biệt về mặt vi thể so với bệnh tim mạch do các nguyên nhân khác.
 
 ---
 
-## CÂU HỎI TRẮC NGHIỆM TỰ LƯỢNG GIÁ (ÔN TẬP BÀI 18)
+### Xơ vữa mạch máu hyaline hóa
 
-**Câu 1: Tổn thương vi thể nào sau đây được coi là ĐẶC HIỆU NHẤT cho bệnh thận đái tháo đường?**
+- **Nguyên nhân:** Liên quan trực tiếp với tình trạng tăng huyết áp thứ phát trên bệnh nhân đái tháo đường.
+- **Vi thể:** Làm dày thành mạch do thoái hóa hyaline (trong suốt), làm chít hẹp lòng mạch.
 
-- A. Dày màng đáy cầu thận
-- B. Tăng sinh chất nền gian mạch lan tỏa
-- C. Xơ hóa cầu thận dạng nốt (Hội chứng Kimmelstiel-Wilson)
-- D. Teo tế bào biểu mô ống lượng gần
-- **Đáp án đúng: C. Xơ hóa cầu thận dạng nốt (Hội chứng Kimmelstiel-Wilson)**
+---
 
-**Câu 2: Hình ảnh vi thể đặc trưng ở tiểu đảo Langerhans ở bệnh nhân đái tháo đường TÍP 2 lâu năm là:**
+### Bệnh lý vi mạch do đái tháo đường
 
-- A. Thâm nhiễm tế bào lympho T (Viêm tiểu đảo)
-- B. Lắng đọng chất dạng tinh bột (Amyloidosis / Thoái hóa Hyalin)
-- C. Tăng sinh hoại tử tơ huyết
-- D. Hoại tử mỡ trung tâm
-- **Đáp án đúng: B. Lắng đọng chất dạng tinh bột (Amyloidosis / Thoái hóa Hyalin)**
+Bệnh lý vi mạch (*diabetic microangiopathy*) xuất phát từ 2 cơ chế:
 
-**Câu 3: Hiện tượng xơ hóa hyalin tiểu động mạch thận trong bệnh đái tháo đường có điểm khác biệt đặc trưng nào so với tăng huyết áp?**
+1. **Hiện tượng dày màng đáy:** Do sự lắng đọng bất thường của **collagen típ IV** (thường thấy nhất ở tổ chức da, cơ vân, võng mạc, cầu thận, tủy thận, bao Bowman, thần kinh ngoại vi và bánh nhau trong thai kỳ).
+2. **Hiện tượng thất thoát protein huyết tương:** Qua thành vi mạch bị tổn thương.
+- *Nhận xét:* Dày màng đáy mao mạch có thể gặp ở người lớn tuổi bình thường, tuy nhiên trên bệnh nhân đái tháo đường, tình trạng này **diễn tiến nhanh hơn và mức độ nặng nề hơn rất nhiều**.
 
-- A. Chỉ xảy ra ở tiểu động mạch đi
-- B. Chỉ xảy ra ở động mạch thận chính
-- C. Xảy ra ở cả tiểu động mạch đến VÀ tiểu động mạch đi
-- D. Không làm hẹp lòng tiểu động mạch
-- **Đáp án đúng: C. Xảy ra ở cả tiểu động mạch đến VÀ tiểu động mạch đi**
+---
 
-**Câu 4: Hiện tượng "Viêm tiểu đảo" (Insulitis) do thâm nhiễm lympho T xuất hiện chủ yếu trong bệnh cảnh nào?**
+### Bệnh thận do đái tháo đường
 
-- A. Đái tháo đường típ 1A
+Là biến chứng thứ phát nguy hiểm xếp sau bệnh tim mạch, bao gồm 3 nhóm tổn thương mô học phối hợp:
+
+1. Tổn thương cầu thận (dày màng đáy, xơ hóa mô kẽ và xơ hóa cầu thận dạng nốt).
+2. Tổn thương mạch máu thận (xơ vữa).
+3. Tổn thương viêm hoại tử tủy thận.
+
+#### Xơ hóa mô đệm kẽ
+- Tiến triển từ xơ hóa lan tỏa dần dần hình thành dạng nốt khu trú.
+- Tình trạng này xảy ra ngay trong **giai đoạn sớm** của bệnh đái tháo đường, liên quan trực tiếp với hiện tượng **mất protein niệu** (đạm niệu).
+
+#### Xơ hóa cầu thận dạng nốt
+- Còn gọi là **xơ hóa gian mao mạch** hoặc **bệnh Kimmelstiel-Wilson**.
+- **Tần suất:** Chiếm từ **15 – 30%** biến chứng muộn của bệnh nhân đái tháo đường, là nguyên nhân hàng đầu gây suy thận mạn giai đoạn cuối.
+- **Cơ chế & Tiến triển vi thể:**
+  - Tổn thương do hiện tượng ly giải (hủy) mô đệm kẽ và/hoặc mao mạch cầu thận.
+  - Ly giải mao mạch cầu thận rải rác gây ra các **phình vi thể mao mạch**, làm thay đổi áp suất máu nội mao mạch và dòng chảy.
+  - Trong giai đoạn tiến triển, hình thành 2 tổn thương đặc trưng:
+    - **“Bao fibrin” (*Fibrin cap*):** Tình trạng hyalin hóa (thoái hóa trong) lõi mao mạch cầu thận.
+    - **“Giọt dạng vỏ bao” (*Capsular drops*):** Các khối thoái hóa hyalin dính vào bao Bowman.
+  - Diễn tiến kết thúc với tình trạng thiếu máu thận nặng, gây teo đét các ống thận và xơ hóa mô kẽ.
+
+#### Viêm tủy thận
+- Diễn tiến viêm cấp hoặc mạn tính từ mô đệm kẽ lan vào ống thận.
+- Trong trường hợp cấp tính nặng có thể dẫn đến **hoại tử tủy thận (hoại tử nhú thận)**.
+
+---
+
+### Biến chứng mắt ở bệnh nhân đái tháo đường
+
+- **Phân loại dựa trên hình thái đơn thuần (3 nhóm):**
+  1. Biến chứng cấu trúc vi thể của nhãn cầu.
+  2. Đục thủy tinh thể (*Cataract* / cườm khô) hoặc tăng nhãn áp (*Glaucoma* / cườm nước) gây tổn thương thần kinh thị.
+  3. Tổn thương võng mạc do bệnh lý vi mạch máu.
+- **Cơ chế tổn thương vi mạch ở mắt:** Tình trạng tăng glucose huyết kéo dài làm **dày màng đáy biểu mô phần ụ thể mi (*pars plicata*)**, tương tự tổn thương màng đáy tại cầu thận.
+- **Phân loại Bệnh võng mạc đái tháo đường:**
+  1. *Bệnh võng mạc không tiến triển (Nonproliferative diabetic retinopathy):* Nhóm tổn thương cấu trúc và chức năng các mạch máu phân bố ở nhãn cầu.
+  2. *Bệnh võng mạc tiến triển (Proliferative diabetic retinopathy):* Do sự **tăng sản các mạch máu mới (tân sinh mạch)** từ đầu thần kinh thị hay bề mặt võng mạc. Mạch máu tân sinh dễ vỡ gây xuất huyết, co kéo gây **bóc tách võng mạc** và gây **bệnh tăng nhãn áp tân sinh mạch (*neovascular glaucoma*)**.
+
+---
+
+### Bệnh thần kinh do đái tháo đường
+
+- **Tần suất:** Có thể gặp trong đến **80%** bệnh nhân đái tháo đường sau 15 năm mắc bệnh, hoặc chiếm một nửa (50%) số bệnh nhân tùy giai đoạn bệnh.
+- **3 Nhóm bệnh lý thần kinh chính:**
+  1. *Xơ vữa động mạch não:* Gây hẹp/tắc tuần hoàn não và các biến chứng thứ phát (đột quỵ).
+  2. *Bệnh viêm màng nào do nấm:* Liên quan tình trạng suy giảm miễn dịch nghiêm trọng ở bệnh nhân đái tháo đường (tác nhân chủ yếu là nấm **Mucormycosis**).
+  3. *Bệnh Friedreich Ataxia:*
+     - Gặp trong **25%** bệnh nhân đái tháo đường. Đây là bệnh di truyền lặn trên nhiễm sắc thể thường gây co cứng, yếu cơ, giảm nhạy cảm thần kinh và bệnh cơ tim (thường xuất hiện trong 10 năm đầu).
+     - **Bộ ba triệu chứng lâm sàng đặc trưng:**
+       - **Chứng thất điều điệu bộ (*Gait ataxia*):** Đi lại loạng choạng, mất thăng bằng.
+       - **Chứng giảm linh hoạt bàn tay (*Hand clumsiness*):** Khó thao tác tinh vi ngón tay.
+       - **Chứng loạn vận ngôn (*Dysarthria*):** Rối loạn phát âm, nói khó/nói ngọng.
+
+---
+
+## TÓM TẮT NHANH
+
+- **Tổn thương tại tụy:** Đái tháo đường típ 1 đặc trưng bởi **viêm tiểu đảo tụy (thấm nhập tế bào T và đại thực bào)** gây phá hủy tế bào beta; đái tháo đường típ 2 đặc trưng bởi **thoái hóa dạng tinh bột (lắng đọng Amyloid)** làm teo đét tiểu đảo beta. Mẹ bị đái tháo đường thai kỳ làm tụy thai nhi có khuynh hướng **tăng sản tiểu đảo**.
+- **Mạch máu & Vi mạch:** Đường huyết cao làm dày màng đáy vi mạch (lắng đọng collagen típ IV) ở da, cơ, võng mạc, cầu thận; gây **xơ vữa động mạch lớn** (nguyên nhân tử vong hàng đầu do nhồi máu cơ tim, hoại tử chi) và xơ vữa hyaline hóa do tăng huyết áp.
+- **Bệnh thận đái tháo đường:** Gồm xơ hóa mô kẽ giai đoạn sớm (gây đạm niệu) và **xơ hóa cầu thận dạng nốt (Bệnh Kimmelstiel-Wilson)** chiếm 15–30% biến chứng muộn với tổn thương vi thể đặc trưng **"bao fibrin" (*fibrin cap*)** và **"giọt dạng vỏ bao" (*capsular drops*)**.
+- **Biến chứng Mắt & Thần kinh:** Tại mắt gây **dày màng đáy phần ụ thể mi (*pars plicata*)**, đục thủy tinh thể, tăng nhãn áp và bệnh võng mạc (không tiến triển & tiến triển tân sinh mạch). Tại thần kinh (gặp đến 80% sau 15 năm) gây nguy cơ nhiễm nấm *Mucormycosis* màng nào và phối hợp bệnh **Friedreich Ataxia (25%)** với bộ ba triệu chứng: *gait ataxia*, *hand clumsiness*, *dysarthria*.
+
+---
+
+## CÂU HỎI TỰ KIỂM TRA
+
+*(Trích trực tiếp từ phần CÂU HỎI TỰ LƯỢNG GIÁ của Bài 18 trong giáo trình)*
+
+**1. Hình ảnh vi thể tại tiểu đảo tụy cho thấy các mảng lắng đọng màu hồng nhạt làm teo đét tế bào beta. Hiện tượng bệnh lý vi thể này được gọi tên là:**
+- A. Hiện tượng hyaline hóa
+- **B. Hiện tượng thoái hóa dạng tinh bột** *(Đáp án đúng - hiện tượng lắng đọng chất amyloid dạng tinh bột tại tiểu đảo tụy trong đái tháo đường típ 2)*
+- C. Hiện tượng thấm nhập tế bào T và đại thực bào
+- D. Hiện tượng xơ hóa
+
+**2. Hình ảnh lắng đọng dạng tinh bột (Amyloid) tại tiểu đảo tụy này phù hợp nhất với bệnh lý nào?**
+- A. Đái tháo đường típ 1 – giai đoạn sớm
+- B. Đái tháo đường típ 1 – giai đoạn đã có biểu hiện lâm sàng
+- C. Đái tháo đường típ 2 – giai đoạn sớm
+- **D. Đái tháo đường típ 2 – giai đoạn phụ thuộc insulin** *(Đáp án đúng - thoái hóa dạng tinh bột lắng đọng nặng nề tại tiểu đảo beta là đặc trưng của đái tháo đường típ 2 giai đoạn muộn phụ thuộc insulin)*
+
+**3. Hình ảnh nhuộm PAS tại thận cho thấy màng đáy bao quanh các ống thận bắt màu hồng tím dày hơn hẳn bình thường. Tổn thương bệnh lý ngoài tụy này được gọi tên là:**
+- A. Xơ hóa màng đáy ống thận
+- **B. Dày màng đáy ống thận** *(Đáp án đúng - bệnh lý vi mạch do đái tháo đường gây lắng đọng collagen tuýp IV làm dày màng đáy các ống thận và mao mạch)*
+- C. Dày màng đáy cầu thận
+- D. Xơ hóa màng đáy cầu thận
+
+**4. Tổn thương dày màng đáy vi mạch ngoài tụy này có thể gặp trong bệnh đái tháo đường típ nào?**
+- A. Đái tháo đường típ 1
 - B. Đái tháo đường típ 2
-- C. Đái tháo đường MODY
-- D. Đái tháo đường do tụy ngoại tiết
-- **Đáp án đúng: A. Đái tháo đường típ 1A**
+- **C. Đái tháo đường típ 1 và típ 2** *(Đáp án đúng - khi tình trạng bệnh đái tháo đường kéo dài mạn tính, biến chứng tại các cơ quan đích ngoài tụy ở đái tháo đường típ 1 và típ 2 là hoàn toàn giống nhau)*
+- D. Đái tháo đường thai kỳ hoặc ở trẻ nhi
+
+---
+
+📖 *Bài 18 về tổn thương giải phẫu bệnh đái tháo đường đến đây là kết thúc. Thầy chúc các em nắm vững bài học và ôn tập thật tốt!*
+
+---
+
+💡 *Nếu các em muốn xem tiếp bài giảng Bài 19 (Đặc điểm đại thể và mô bệnh học một số bệnh lý của tuyến giáp) hoặc tạo bài tập trắc nghiệm ôn tập, hãy báo cho thầy biết nhé!*
