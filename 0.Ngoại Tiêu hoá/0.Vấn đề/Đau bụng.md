@@ -10,7 +10,7 @@
 
 🔍 **Làm rõ thêm:** Đau qui chiếu xảy ra vì các sợi cảm giác tạng và sợi cảm giác da cùng hội tụ về một neuron tủy sống. Não "đọc nhầm" tín hiệu tạng thành tín hiệu da. Đây là lý do viêm túi mật gây đau vai P (C3–C5), NMCT gây đau vai T.
 
-### 1.2. Phôi thai — quy luật vị trí đau
+### Phôi thai — quy luật vị trí đau
 
 | Phần phôi thai | Cấu trúc | Vùng đau |
 |---|---|---|
@@ -20,7 +20,7 @@
 
 🔍 **Ứng dụng kinh điển:** Viêm ruột thừa sớm đau quanh rốn (midgut, đau tạng) → muộn đau HCP (somatic khi viêm lan đến phúc mạc thành). Đây là **dấu hiệu di chuyển** có giá trị chẩn đoán cao.
 
-### 1.3. Quy luật tạng rỗng — tạng đặc
+### Quy luật tạng rỗng — tạng đặc
 
 | Tạng | Đặc điểm đau | Cơ chế |
 |---|---|---|
@@ -29,7 +29,7 @@
 
 🔍 **Ngoại lệ cần nhớ:** Một số tạng rỗng có thể đau liên tục khi viêm lan tỏa (viêm túi mật cấp, viêm đường mật) hoặc khi mất trương lực giai đoạn muộn (tắc ruột giai đoạn trễ — ruột giãn, mất trương lực → đau liên tục).
 
-### 1.4. Phân loại nguyên nhân
+### Phân loại nguyên nhân
 
 ```
 ĐAU BỤNG
@@ -44,7 +44,7 @@
 └── Thành bụng: cơ, cân, thần kinh
 ```
 
-### 1.5. Phân loại theo cơ chế bệnh sinh
+### Phân loại theo cơ chế bệnh sinh
 
 | Cơ chế | Ví dụ | Đặc điểm đau |
 |---|---|---|
@@ -56,9 +56,9 @@
 
 ---
 
-## 2. LÂM SÀNG: HỎI VÀ KHÁM
+## LÂM SÀNG: HỎI VÀ KHÁM
 
-### 2.1. Hỏi bệnh sử — khung 7 ô
+### Hỏi bệnh sử — khung 7 ô
 
 > **"Thời – Khởi – Vị – Chất – Tăng – Kèm – Nền"**
 
@@ -112,7 +112,7 @@
 - Đã mổ chưa? Dị ứng? Rượu/thuốc lá?
 - Gia đình: THA, ĐTĐ, VGB/C, HP, ung thư.
 
-### 2.2. Khám lâm sàng
+### Khám lâm sàng
 
 #### a) Toàn thân
 - **Sinh hiệu:** mạch, HA, nhiệt độ, nhịp thở, SpO2 → tầm soát **SIRS/sốc**.
@@ -154,7 +154,7 @@
 - **Khám phổi, tim** (loại trừ nguyên nhân ngoài ổ bụng).
 - **Khám mạch (mạch bẹn, chi)** nếu nghi thiếu máu mạch treo.
 
-### 2.3. Cận lâm sàng — chọn lọc theo giả thuyết
+### Cận lâm sàng — chọn lọc theo giả thuyết
 
 | Nhóm | Xét nghiệm | Khi nào |
 |---|---|---|
@@ -171,9 +171,9 @@
 
 ---
 
-## 3. SUY LUẬN LÂM SÀNG: TỪ TRIỆU CHỨNG ĐẾN CHẨN ĐOÁN
+## SUY LUẬN LÂM SÀNG: TỪ TRIỆU CHỨNG ĐẾN CHẨN ĐOÁN
 
-### 3.1. Quy trình 5 bước
+### Quy trình 5 bước
 
 #### Bước 1 — Xác định hội chứng
 
@@ -228,7 +228,7 @@
 - Nếu không giải thích được bằng nội khoa → nghĩ ngoại khoa.
 - Nếu đau tăng dần, sốt, mạch nhanh, bụng đề kháng → **khám lại nhiều lần, gọi ngoại khoa**.
 
-### 3.2. Case minh họa — BN Võ Thành Đ.
+### Case minh họa — BN Võ Thành Đ.
 
 **Dữ kiện chính:**
 - Nam 60T, THA, hút thuốc 100 gói-năm.
@@ -252,9 +252,9 @@
 
 ---
 
-## 4. LIÊN HỆ: TỪ ĐAU BỤNG ĐẾN SỎI TÚI MẬT
+## LIÊN HỆ: TỪ ĐAU BỤNG ĐẾN SỎI TÚI MẬT
 
-### 4.1. Cơ chế sỏi túi mật gây đau
+### Cơ chế sỏi túi mật gây đau
 
 1. **Sỏi kẹt cổ/ống túi mật** → túi mật co bóp chống tắc → **đau tạng** vùng thượng vị/HSP.
 2. **Túi mật căng** → kích thích phúc mạc thành → **đau thành** khu trú HSP.
@@ -262,7 +262,7 @@
 
 🔍 **Cơ chế phân tử:** Sỏi kẹt → tăng áp lực lòng túi mật → phù nề, thiếu máu thành túi mật → thủy phân lipid màng giải phóng **prostaglandin/lysolecithin** → viêm → bội nhiễm vi khuẩn (E. coli 31–44%, Klebsiella 9–20%).
 
-### 4.2. Đặc điểm lâm sàng — "chìa khóa" nhận diện
+### Đặc điểm lâm sàng — "chìa khóa" nhận diện
 
 | Đặc điểm | Cơn đau quặn mật | Viêm túi mật cấp |
 |---|---|---|
@@ -277,7 +277,7 @@
 
 > **Quy tắc vàng:** Đau HSP sau ăn béo + kéo dài **> 6 giờ** + sốt → **chuyển từ cơn đau quặn mật sang viêm túi mật cấp**.
 
-### 4.3. Áp dụng khung 7 ô vào sỏi túi mật
+### Áp dụng khung 7 ô vào sỏi túi mật
 
 | Ô | Câu hỏi | Trả lời gợi ý sỏi túi mật |
 |---|---|---|
@@ -289,7 +289,7 @@
 | **Kèm** | Sốt? Nôn? Vàng da? | Sốt (viêm túi mật); nôn; vàng da (Mirizzi/sỏi OMC) |
 | **Nền** | Tiền căn? | Nữ, sinh nhiều, béo phì, ≥ 40T; tán huyết; xơ gan |
 
-### 4.4. Phân biệt sỏi túi mật với các nguyên nhân đau HSP khác
+### Phân biệt sỏi túi mật với các nguyên nhân đau HSP khác
 
 | Bệnh | Đặc điểm phân biệt |
 |---|---|
@@ -301,7 +301,7 @@
 | **NMCT thành dưới** | Đau thượng vị, ECG ST chênh, troponin tăng, lớn tuổi/THA/hút thuốc |
 | **Sỏi thận P** | Đau quặn hông lưng lan bẹn, tiểu máu, siêu âm thận |
 
-### 4.5. Biến chứng sỏi túi mật — khi nào nghĩ đến?
+### Biến chứng sỏi túi mật — khi nào nghĩ đến?
 
 | Biến chứng | Dấu hiệu gợi ý |
 |---|---|
@@ -312,7 +312,7 @@
 | **Tắc ruột do sỏi mật** | Tam chứng tắc ruột + tiền căn sỏi mật, X-quang mức nước hơi |
 | **Ung thư túi mật** | Sỏi > 2,5 cm, túi mật sứ, thành dày bất thường |
 
-### 4.6. TG18 — Chẩn đoán và phân độ viêm túi mật cấp
+### TG18 — Chẩn đoán và phân độ viêm túi mật cấp
 
 🔍 **Kiểm tra lại tiêu chuẩn TG18:**
 
@@ -340,7 +340,7 @@
 - **Độ II:** PTNS sớm nếu đủ kinh nghiệm; nguy cơ cao (CCI ≥ 6, ASA ≥ III) → **PTGBD** rồi cắt hoãn **6–12 tuần**.
 - **Độ III:** Hồi sức + **PTGBD khẩn cấp** → cắt chương trình khi ổn định.
 
-### 4.7. Điều trị sỏi túi mật — các mốc cần nhớ
+### Điều trị sỏi túi mật — các mốc cần nhớ
 
 - **Không triệu chứng (70–80%):** theo dõi; **chỉ mổ dự phòng** khi: tán huyết mạn (Thalassemia, hồng cầu liềm), **túi mật sứ**, sỏi **> 2,5 cm**, kênh chung mật tụy dài, ghép tạng/ức chế miễn dịch kéo dài.
 - **Có triệu chứng:** **PTNS cắt túi mật = tiêu chuẩn vàng**.
@@ -349,7 +349,7 @@
 - **Viêm tụy cấp do sỏi:** sau khi ổn định → **cắt túi mật nội soi ngay trong cùng đợt nằm viện** để phòng tái phát.
 - **Viêm túi mật mạn:** cắt túi mật chương trình.
 
-### 4.8. Tóm tắt liên hệ — "từ đau bụng đến sỏi túi mật"
+### Tóm tắt liên hệ — "từ đau bụng đến sỏi túi mật"
 
 > **Đau HSP sau ăn béo + lan vai P + < 6h = cơn đau quặn mật.**  
 > **Thêm sốt + > 6h + Murphy (+) = viêm túi mật cấp.**  
@@ -358,7 +358,7 @@
 
 ---
 
-## 5. CÂU HỎI TỰ KIỂM TRA TỔNG HỢP
+## CÂU HỎI TỰ KIỂM TRA TỔNG HỢP
 
 1. Phân biệt đau tạng – đau thành – đau qui chiếu. Cho ví dụ mỗi loại.
 2. Tại sao viêm ruột thừa sớm đau quanh rốn, muộn đau HCP?
