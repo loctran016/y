@@ -1,7 +1,7 @@
 
 # PHẦN 1. LÝ THUYẾT VỀ ĐAU
 
-## 1.1. Ba loại đau: tạng, thành, quy chiếu
+## Ba loại đau: tạng, thành, quy chiếu
 
 | Loại đau | Nguồn gốc | Đặc điểm | Ví dụ |
 |---|---|---|---|
@@ -38,7 +38,7 @@ Phân biệt rõ các kiểu đau giúp đánh giá mức độ tiến triển c
 
 ---
 
-## 1.2. Phân chia vị trí đau theo phôi thai
+## Phân chia vị trí đau theo phôi thai
 
 | Phần phôi thai | Cấu trúc | Vùng đau |
 |---|---|---|
@@ -128,7 +128,7 @@ Ranh giới giữa các đoạn ruột phôi thai được xác định theo **�
 
 ---
 
-## 1.3. Quy luật tạng rỗng và tạng đặc
+## Quy luật tạng rỗng và tạng đặc
 
 | Tạng | Đặc điểm đau | Cơ chế |
 |---|---|---|
@@ -206,7 +206,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 
 ---
 
-## 1.4. Phân loại nguyên nhân đau bụng
+## Phân loại nguyên nhân đau bụng
 
 ```
 ĐAU BỤNG
@@ -222,7 +222,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 └── Thành bụng: cơ, cân, thần kinh
 ```
 
-## 1.5. Phân loại theo cơ chế bệnh sinh
+## Phân loại theo cơ chế bệnh sinh
 
 | Cơ chế | Ví dụ | Đặc điểm đau |
 |---|---|---|
@@ -236,7 +236,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 
 # PHẦN 2. LÂM SÀNG: HỎI VÀ KHÁM
 
-## 2.1. Hỏi bệnh sử: khung 7 ô
+## Hỏi bệnh sử: khung 7 ô
 
 > **"Thời – Khởi – Vị – Chất – Tăng – Kèm – Nền"**
 
@@ -290,7 +290,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 - Đã mổ chưa? Dị ứng? Rượu/thuốc lá?
 - Gia đình: THA, ĐTĐ, VGB/C, HP, ung thư.
 
-## 2.2. Khám lâm sàng
+## Khám lâm sàng
 
 ### a) Khám toàn thân
 - **Sinh hiệu:** mạch, HA, nhiệt độ, nhịp thở, SpO₂ → tầm soát **SIRS/sốc**.
@@ -338,7 +338,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 - **Khám phổi, tim** (loại trừ nguyên nhân ngoài ổ bụng).
 - **Khám mạch (mạch bẹn, chi)** nếu nghi thiếu máu mạch treo.
 
-## 2.3. Cận lâm sàng: chọn theo giả thuyết
+## Cận lâm sàng: chọn theo giả thuyết
 
 | Nhóm | Xét nghiệm | Khi nào |
 |---|---|---|
@@ -357,7 +357,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 
 # PHẦN 3. SUY LUẬN LÂM SÀNG: TỪ TRIỆU CHỨNG ĐẾN CHẨN ĐOÁN
 
-## 3.1. Quy trình 5 bước
+## Quy trình 5 bước
 
 ### Bước 1 — Xác định hội chứng
 
@@ -414,7 +414,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 - Nếu không giải thích được bằng nội khoa → nghĩ ngoại khoa.
 - Nếu đau tăng dần, sốt, mạch nhanh, bụng đề kháng → **khám lại nhiều lần, gọi ngoại khoa**.
 
-## 3.2. Ca minh họa: BN Võ Thành Đ.
+## Ca minh họa: BN Võ Thành Đ.
 
 **Dữ kiện chính**
 - Nam 60 tuổi, THA, hút thuốc 100 gói-năm.
@@ -440,7 +440,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 
 # PHẦN 4. LIÊN HỆ: TỪ ĐAU BỤNG ĐẾN SỎI TÚI MẬT
 
-## 4.1. Cơ chế sỏi túi mật gây đau
+## Cơ chế sỏi túi mật gây đau
 
 1. **Sỏi kẹt cổ/ống túi mật** → túi mật co bóp chống tắc → **đau tạng** ở thượng vị/HSP.
 2. **Túi mật căng** → kích thích phúc mạc thành → **đau thành**, khu trú HSP.
@@ -448,7 +448,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 
 🔍 **Cơ chế phân tử:** sỏi kẹt → tăng áp lực lòng túi mật → phù nề, thiếu máu thành túi mật → thủy phân lipid màng, giải phóng **prostaglandin/lysolecithin** → viêm → bội nhiễm vi khuẩn (*E. coli* 31–44%, *Klebsiella* 9–20%).
 
-## 4.2. "Chìa khóa" nhận diện: cơn đau quặn mật và viêm túi mật cấp
+## "Chìa khóa" nhận diện: cơn đau quặn mật và viêm túi mật cấp
 
 | Đặc điểm | Cơn đau quặn mật | Viêm túi mật cấp |
 |---|---|---|
@@ -463,7 +463,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 
 > **Quy tắc vàng:** đau HSP sau ăn béo + kéo dài **> 6 giờ** + sốt → **chuyển từ cơn đau quặn mật sang viêm túi mật cấp**.
 
-## 4.3. Áp dụng khung 7 ô vào sỏi túi mật
+## Áp dụng khung 7 ô vào sỏi túi mật
 
 | Ô | Câu hỏi | Gợi ý trong sỏi túi mật |
 |---|---|---|
@@ -475,7 +475,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 | **Kèm** | Sốt? Nôn? Vàng da? | Sốt (viêm túi mật); nôn; vàng da (Mirizzi/sỏi OMC) |
 | **Nền** | Tiền căn? | Nữ, sinh nhiều, béo phì, ≥ 40 tuổi; tán huyết; xơ gan |
 
-## 4.4. Phân biệt sỏi túi mật với các nguyên nhân đau HSP khác
+## Phân biệt sỏi túi mật với các nguyên nhân đau HSP khác
 
 | Bệnh | Đặc điểm phân biệt |
 |---|---|
@@ -487,7 +487,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 | **NMCT thành dưới** | Đau thượng vị, ECG ST chênh, troponin tăng, lớn tuổi/THA/hút thuốc |
 | **Sỏi thận P** | Đau quặn hông lưng lan bẹn, tiểu máu, siêu âm thận |
 
-## 4.5. Biến chứng sỏi túi mật: khi nào nghĩ đến?
+## Biến chứng sỏi túi mật: khi nào nghĩ đến?
 
 | Biến chứng | Dấu hiệu gợi ý |
 |---|---|
@@ -498,7 +498,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 | **Tắc ruột do sỏi mật** | Tam chứng tắc ruột + tiền căn sỏi mật; X-quang có mức nước hơi |
 | **Ung thư túi mật** | Sỏi > 2,5 cm, túi mật sứ, thành dày bất thường |
 
-## 4.6. TG18: chẩn đoán và phân độ viêm túi mật cấp
+## TG18: chẩn đoán và phân độ viêm túi mật cấp
 
 ### Chẩn đoán
 
@@ -524,7 +524,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 - **Độ II:** PTNS sớm nếu đủ kinh nghiệm. Nếu nguy cơ cao (CCI ≥ 6, ASA ≥ III) → **PTGBD**, rồi cắt túi mật hoãn **6–12 tuần**.
 - **Độ III:** hồi sức + **PTGBD khẩn cấp** → cắt túi mật chương trình khi ổn định.
 
-## 4.7. Điều trị sỏi túi mật: các mốc cần nhớ
+## Điều trị sỏi túi mật: các mốc cần nhớ
 
 - **Không triệu chứng (70–80%):** theo dõi. **Chỉ mổ dự phòng** khi có một trong các yếu tố:
   - tán huyết mạn (thalassemia, hồng cầu liềm),
@@ -538,7 +538,7 @@ Tạng rỗng không phải lúc nào cũng đau quặn từng cơn. Trong các 
 - **Viêm tụy cấp do sỏi:** sau khi ổn định → **cắt túi mật nội soi ngay trong cùng đợt nằm viện** để phòng tái phát.
 - **Viêm túi mật mạn:** cắt túi mật chương trình.
 
-## 4.8. Tóm tắt: "từ đau bụng đến sỏi túi mật"
+## Tóm tắt: "từ đau bụng đến sỏi túi mật"
 
 > - **Đau HSP sau ăn béo + lan vai P + < 6h = cơn đau quặn mật.**
 > - **Thêm sốt + > 6h + Murphy (+) = viêm túi mật cấp.**
