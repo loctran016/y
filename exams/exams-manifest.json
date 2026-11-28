@@ -75,6 +75,42 @@
             "8": 5
           },
           "conflict_count": 0
+        },
+        {
+          "exam_id": "Y20-70",
+          "cohort": "Y20",
+          "title": "Y20-70",
+          "default_time_sec": 3600,
+          "question_count": 90,
+          "group_counts": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 44,
+            "5": 0,
+            "6": 3,
+            "7": 43,
+            "8": 0
+          },
+          "conflict_count": 0
+        },
+        {
+          "exam_id": "Y22-70",
+          "cohort": "Y22",
+          "title": "Y22-70",
+          "default_time_sec": 3600,
+          "question_count": 86,
+          "group_counts": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 37,
+            "5": 0,
+            "6": 0,
+            "7": 44,
+            "8": 5
+          },
+          "conflict_count": 3
         }
       ]
     }
